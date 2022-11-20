@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 482716,
+  "num_followers": 482823,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGRkNjIxZWQ5ZGI3NDM1MDg4YmNhODViNDA1ZGJjZmM4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDRlNjc0NWNiNDg2Zjk3NDdjMzI1MDJhYjcyYTFiZjgy",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Town Line",
         "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 283346,
       "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
       "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
-      },
-      "artists": [
-        {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
-        }
-      ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 217993,
-      "name": "Are We On Fire",
-      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 217993,
+      "name": "Are We On Fire",
+      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 202440,
       "name": "Whiskey Sunrise",
       "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 218936,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
         "url": "https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 169600,
       "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
       "url": "https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Tejano Punk Boyz",
         "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
@@ -1187,22 +1207,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sunday Drunk",
-        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 271389,
-      "name": "Sunday Drunk",
-      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Antioch",
         "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
       },
@@ -1215,6 +1219,22 @@
       "duration_ms": 245643,
       "name": "Antioch",
       "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sunday Drunk",
+        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 271389,
+      "name": "Sunday Drunk",
+      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Broken Heartland",
-        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
-      },
-      "artists": [
-        {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "When I Hear Your Name",
-      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "My Ex Came Over",
         "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 175000,
       "name": "My Ex Came Over",
       "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Broken Heartland",
+        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "When I Hear Your Name",
+      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I'm Not For Everyone",
-        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
         "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "These Old Boots",
-        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+        "name": "To Whom ...",
+        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
       },
       "artists": [
         {
-          "name": "Seth Anthony",
-          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
         }
       ],
-      "duration_ms": 206307,
-      "name": "These Old Boots",
-      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+      "duration_ms": 218201,
+      "name": "To Whom ...",
+      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 177320,
       "name": "Train",
       "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "To Whom ...",
-        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 218201,
-      "name": "To Whom ...",
-      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Long Shots",
-        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
-      },
-      "artists": [
-        {
-          "name": "Tim Montana",
-          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Stronger Than You",
-      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 254090,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Long Shots",
+        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Stronger Than You",
+      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
     },
     {
       "added_at": "2022-11-18 05:00:00",

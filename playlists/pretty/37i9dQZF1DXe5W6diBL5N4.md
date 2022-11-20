@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:VERIVERY\(베리베리\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,914 likes - 333 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,996 likes - 333 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,7 +220,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 210 | [COME AND SEE ME](https://open.spotify.com/track/38rzMtFekIF3f3R6Ff5hoT) | [Liquor](https://open.spotify.com/artist/6CpqaiPgLZyckiTGiXvDqC) | [0242\(Better half\)](https://open.spotify.com/album/1n6Jv6OIxj0H61TdGfkpEK) | 3:17 |
 | 211 | [MASIJA \(feat\. Nam Ji In\)](https://open.spotify.com/track/3WlboomCUmfREnMK9Big7a) | [DIFF](https://open.spotify.com/artist/4Cu2viXoU2DVFERAiRm8rf), [Nam Ji In](https://open.spotify.com/artist/2GAbCAyrehP1xXZk9Bo00V) | [MASIJA](https://open.spotify.com/album/3KHDaeBXPoF2q9qbjHTrzC) | 2:27 |
 | 212 | [Raspberry](https://open.spotify.com/track/3gDi1WyGqJEMV34UOKWcHG) | [ILYS](https://open.spotify.com/artist/7yUBSfl8l4qoWBegXabDb7) | [Raspberry](https://open.spotify.com/album/3qm69A8w0eOr2wOO4K9cRM) | 2:46 |
-| 213 | [Lonely way back home](https://open.spotify.com/track/3edsDNPzvnS7Pr3DyJRLSo) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Lonely way back home](https://open.spotify.com/album/4NDH33cswMmKgVoW7Q4Ou0) | 3:52 |
+| 213 | [Lonely way back home](https://open.spotify.com/track/3edsDNPzvnS7Pr3DyJRLSo) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Lonely way back home](https://open.spotify.com/album/4NDH33cswMmKgVoW7Q4Ou0) | 3:54 |
 | 214 | [Carousel](https://open.spotify.com/track/78uH4Kyd5jNw6eNl4kjNtr) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Love in Contract, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1kCTlYab6GNYg3aMxXBC7I) | 4:43 |
 | 215 | [Say You Love Me](https://open.spotify.com/track/5XulQfdMY4sSIXpsvRG57u) | [Rina](https://open.spotify.com/artist/7e9HEqyFNiyjMrDooH6BPH) | [Say You Love Me](https://open.spotify.com/album/2je35vDe9LGDttEVYhnxX6) | 3:05 |
 | 216 | [bad blood!\(feat\. Rakon\)](https://open.spotify.com/track/0PsRa3nEi4Mb14tga0WBxp) | [Web.](https://open.spotify.com/artist/7FkAUExUMnjto6vRrJMidi), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [Lovelorn](https://open.spotify.com/album/3DvmIclr5mlWqqYdozcgL5) | 3:48 |

@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-93 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+94 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 | 2022-06-24 |  |
 | [Change Is Gonna Come](https://open.spotify.com/track/6QEhyWyMPQ3cUtCsu5MRM2) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:02 | 2022-06-24 | 2022-07-29 |
 | [Change Is Gonna Come](https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:02 | 2022-07-08 |  |
+| [Cocaine](https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [Cocaine](https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y) | 3:47 | 2022-11-18 |  |
 | [Come Back Baby](https://open.spotify.com/track/6zN2SuJaXhGJYXhb77xPVO) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Stars In My Crown](https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG) | 5:47 | 2022-06-24 |  |
 | [Crawling King Snake](https://open.spotify.com/track/35RfqVHfnWeGYXC9RH9q6Y) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 4:10 | 2022-06-24 |  |
 | [Crossroads \- Live](https://open.spotify.com/track/2EWwCzSLaQhqQ9OWJcRtjV) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [NOW Rock Air Guitar Anthems](https://open.spotify.com/album/3yzUFutpvBhRXXiUDnoHGx) | 4:08 | 2022-10-14 | 2022-11-14 |
@@ -46,7 +47,7 @@
 | [Give Me One Reason](https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 4:23 | 2022-06-24 |  |
 | [Give Me One Reason](https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc) | [Earl Thomas](https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2) | [Unplugged At Caffe Calabria](https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK) | 5:48 | 2022-06-24 |  |
 | [Give Me One Reason](https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv) | [Lee Ritenour's 6 String Theory](https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [6 String Theory](https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5) | 5:14 | 2022-06-24 |  |
-| [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw) | [LORE](https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2) | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8) | 5:48 | 2022-11-18 |  |
+| [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw) | [LORE](https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2) | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8) | 5:48 | 2022-11-18 | 2022-11-20 |
 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 | 2022-09-12 |  |
 | [Hesitation Blues \- Live](https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 5:06 | 2022-06-24 |  |
 | [Honky Tonk Woman](https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:43 | 2022-06-24 |  |

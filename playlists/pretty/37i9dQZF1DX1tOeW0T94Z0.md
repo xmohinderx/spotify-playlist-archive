@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,180 likes - 85 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,203 likes - 85 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 42 | [Stay with Me \(Always\)](https://open.spotify.com/track/5ZfayXikF8vAT4EgMD5T8t) | [Dru](https://open.spotify.com/artist/0HScSUVfUii78Ir9Wv263A) | [The One](https://open.spotify.com/album/6CiWebqzDVRTWCiLK4QOwR) | 3:48 |
 | 43 | [Don't You Forget It](https://open.spotify.com/track/7vKYuqKAySUizIkcAl4Oal) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [World Outside My Window](https://open.spotify.com/album/42xHDcAyEnhKzLPCrdnBud) | 4:08 |
 | 44 | [Fall From Paradise](https://open.spotify.com/track/0H1OureTxinowEaDHuR3pp) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [While You Were Sleeping](https://open.spotify.com/album/40Ns0bZ8vDcncxeRIfwN6Q) | 4:12 |
-| 45 | [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 |
+| 45 | [Learn to Earn](https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY) | 3:48 |
 | 46 | [Missed Your Chance](https://open.spotify.com/track/3uVUL7r2Z6kEIurmQURWCL) | [Ray Robinson](https://open.spotify.com/artist/2HSZwphXEa7hKWKnOCN0Dq) | [What It Is.](https://open.spotify.com/album/1xI8g1hZhPF4eBEzwPQl9s) | 4:15 |
 | 47 | [On The Run](https://open.spotify.com/track/0L906KB21EDCWVhveBemQo) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Season One](https://open.spotify.com/album/0oAHKqv561o1eSW4FSmLWz) | 3:09 |
 | 48 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 84 | [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 |
 | 85 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
 
-Snapshot ID: `MTY2ODU0MTcyNSwwMDAwMDAwMDU3M2Y2OTRmMTM3Njg2ZmIyZTY1ZTNjY2NjMGRhMGYy`
+Snapshot ID: `MTY2ODU0MTcyNSwwMDAwMDAwMGMzZmQ1OGQ0YzkwZWU0Y2EwODY4ZDYzZGFiNTJjZGZh`

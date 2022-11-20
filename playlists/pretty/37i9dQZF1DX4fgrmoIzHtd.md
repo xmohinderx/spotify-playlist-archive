@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,262 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,319 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 43 | [A Paw In My Face](https://open.spotify.com/track/2Kn4IrAsj0Af2w4PQFTf7r) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [From Here We Go Sublime](https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO) | 5:24 |
 | 44 | [Philipp Dolphia](https://open.spotify.com/track/4yrmNn7vsXtMkssVedBais) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/33JfpvpDtIRux9Hood8XZr) | 7:14 |
 | 45 | [Lux Dementia](https://open.spotify.com/track/3QDWNSDUDZw3zyG35madtc) | [Afrilounge](https://open.spotify.com/artist/4N54QtQOrL2Vy57DKud9Ec) | [Lux Dementia](https://open.spotify.com/album/0x6DZ4tGN51BeGnwSeZi04) | 9:53 |
-| 46 | [Breaking Formation](https://open.spotify.com/track/5zASNpTjmgxkKAHLRoyKTz) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:31 |
+| 46 | [Breaking Formation](https://open.spotify.com/track/18DUuot6QcFh7TGK1d1e1F) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:31 |
 | 47 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 48 | [The Rapture](https://open.spotify.com/track/5ySBb2ctQ3wlSHVgphxdYh) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Avalon EP](https://open.spotify.com/album/7iZ6nGgVLPsmMMTJq3A1dI) | 8:01 |
 | 49 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
 | 50 | [Last Dance](https://open.spotify.com/track/6w8tUj6gm9kHKYrYoNR47r) | [Fairmont](https://open.spotify.com/artist/2Ch5FKvelQEglFpISkr7Po) | [Automaton](https://open.spotify.com/album/46cBeOOFRsQQmeIOHmH0Vz) | 4:23 |
 
-Snapshot ID: `MTYyMDczNDg2MCwwMDAwMDAwMDg4ODI4YzYzZWNmNDYyMzgxMTg2ZTY3NGQ3NDkyMTg4`
+Snapshot ID: `MTYyMDczNDg2MCwwMDAwMDAwMGU2YjA0ZWViNmU4OTU1NDlmNWMxMzRlZjY3NzExNDI5`

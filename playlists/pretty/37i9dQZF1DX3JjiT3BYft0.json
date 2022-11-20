@@ -1,15 +1,15 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 47838,
+  "num_followers": 47894,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkxOTYwMCwwMDAwMDAwMGFmYWRkYTQ5Y2IxNzExNjI2NmI4NjBmODBmY2I4Mzcz",
+  "snapshot_id": "MTY2NzkxOTYwMCwwMDAwMDAwMDM2OWY1ZDE2NGZhMWU5MjA4OGViM2I1MjQxNzY2ZTZj",
   "tracks": [
     {
-      "added_at": "2022-11-19 01:28:07",
+      "added_at": "2022-11-20 01:28:24",
       "album": {
         "name": "\u8ff7\u661f\u53eb",
         "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 282300,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
         "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 249566,
       "name": "chAngE",
       "url": "https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 282300,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -683,21 +683,21 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "fly with the night",
-        "url": "https://open.spotify.com/album/6AB9VDT1C7eTy8HGp82AEI"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 240668,
-      "name": "fly with the night",
-      "url": "https://open.spotify.com/track/12PJ1yyFK9ksMl1vlFF1du"
+      "duration_ms": 240900,
+      "name": "ON YOUR MARK",
+      "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
     },
     {
-      "added_at": "2022-11-19 01:28:07",
+      "added_at": "2022-11-20 01:28:24",
       "album": {
         "name": "\u8ff7\u661f\u53eb",
         "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "fly with the night",
+        "url": "https://open.spotify.com/album/6AB9VDT1C7eTy8HGp82AEI"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 240900,
-      "name": "ON YOUR MARK",
-      "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
+      "duration_ms": 240668,
+      "name": "fly with the night",
+      "url": "https://open.spotify.com/track/12PJ1yyFK9ksMl1vlFF1du"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk"
-      },
-      "artists": [
-        {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
-        }
-      ],
-      "duration_ms": 276902,
-      "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
         "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 295593,
       "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "duration_ms": 276902,
+      "name": "\u30d6\u30eb\u30fc\u30e0\u30d6\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/15FyEraTym0lgCFREa8VaU"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

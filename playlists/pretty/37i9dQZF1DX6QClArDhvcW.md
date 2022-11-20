@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,898 likes - 174 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,930 likes - 174 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 21 | [Portions](https://open.spotify.com/track/6KVu21hEiGs8nMluA60bWx) | [Brian Leaf](https://open.spotify.com/artist/7HsVoQC013rTyF0PUJQTz4) | [Portions](https://open.spotify.com/album/0pwehKV8DvdHxZHE0kXSRO) | 2:00 |
 | 22 | [Tiptop Tiptop](https://open.spotify.com/track/4dsq5vQRu6UJHky5BlE4sl) | [Foro Arlaniq](https://open.spotify.com/artist/7w8gFon3p0E4MMSRSWHmWg) | [Tiptop Tiptop](https://open.spotify.com/album/0tGbqpu1xrvWZS05vjtjnx) | 1:40 |
 | 23 | [Forever Would Not Be Long Enough](https://open.spotify.com/track/3c3jI74itmDwKH8wvYgncz) | [Featherfail](https://open.spotify.com/artist/37NEDCpxyTPGO2ibKdg9QK) | [The Happiness Conundrum](https://open.spotify.com/album/5LyFvfooyw09WYxeGUVwwH) | 2:41 |
-| 24 | [Earth Travellers](https://open.spotify.com/track/34ooA9e9hIcyrgfEViDSro) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Earth Travellers](https://open.spotify.com/album/1RYeR5qubHWn1FTVgYJHKw) | 2:00 |
+| 24 | [Earth Travellers](https://open.spotify.com/track/0C85WCeizOUQkVhsJv91xf) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Earth Travellers](https://open.spotify.com/album/1hyKmcPMGskd1g7oYShCLc) | 2:00 |
 | 25 | [found you](https://open.spotify.com/track/34E4d212hSahHYTKtdLOJa) | [okay cool](https://open.spotify.com/artist/60f8qPMkKfg2njIjbRtEox) | [found you](https://open.spotify.com/album/66TNCu6fQMtnc2QI0bTLBX) | 1:41 |
 | 26 | [Derivatives](https://open.spotify.com/track/5BNPTeFntNBWhwchJkrMwi) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Derivatives](https://open.spotify.com/album/2n76Xn4O2yRFQT9Lmm4Nsx) | 2:20 |
 | 27 | [Silicon dreams](https://open.spotify.com/track/4dBQ9HuRLntPJrGJlYywEw) | [Goldie Caris](https://open.spotify.com/artist/5dRlh8hedI9NR7a6teu33k) | [Silicon dreams](https://open.spotify.com/album/5hdSFtpGyU8GvH0UWw4BWs) | 1:22 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 102 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 |
 | 103 | [Noites Tranquilas](https://open.spotify.com/track/4XkpCHu3yq9fG22sFpYrxF) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Noites Tranquilas](https://open.spotify.com/album/3o1FqhlwHaUJVU74gdMcPC) | 2:03 |
 | 104 | [wanna do nothing.](https://open.spotify.com/track/1rRXlVZUHhwigRtQn1w3Fm) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [wanna do nothing.](https://open.spotify.com/album/2OqUSC9wGmXsmBvmubRwFN) | 1:36 |
-| 105 | [Top Of The World](https://open.spotify.com/track/5fEItyUeOyqyr8jndkDsWK) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Top Of The World](https://open.spotify.com/album/1SCDibKorzPIgBiJYWCHoe) | 2:01 |
+| 105 | [Top Of The World](https://open.spotify.com/track/23f7knsxaG3hydPGazsA0W) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Top Of The World](https://open.spotify.com/album/7d06GXK7JdyGqLtR2jizby) | 2:01 |
 | 106 | [Thumbs Up](https://open.spotify.com/track/7vbSwdXKiVcbhgdhZ9r3O4) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Thumbs Up](https://open.spotify.com/album/4W2lomDjC0oZ9E5rY4acNK) | 2:04 |
 | 107 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 |
 | 108 | [hardly trying](https://open.spotify.com/track/7q2jpq2xFH1Q54QbrE5kPe) | [weirdboi](https://open.spotify.com/artist/50IAuRmsangO5zqJkowx2A) | [hardly trying](https://open.spotify.com/album/7g8BhI4ywxdNmORpmaNMvw) | 1:49 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 158 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 |
 | 159 | [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 |
 | 160 | [Another Love](https://open.spotify.com/track/4XTrIwsTRgNHQm6RGGligj) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX) | [Another Love](https://open.spotify.com/album/5WDRlShcbymeQXkdjL560h) | 1:46 |
-| 161 | [Hot Shot](https://open.spotify.com/track/2E8ilANKW5yhhtA7KMcTKX) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG) | 2:25 |
+| 161 | [Hot Shot](https://open.spotify.com/track/2waXTtx4AcoTAPCfB7bumZ) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Hot Shot](https://open.spotify.com/album/3uEnQsIFwLjlDMCouct7hP) | 2:25 |
 | 162 | [chocolate milk thnx](https://open.spotify.com/track/4z8LqF5jRvM2qNG4Kzf9Bl) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [chocolate milk thnx](https://open.spotify.com/album/3uhR8os4vLjHI6U4y42ZRU) | 2:23 |
 | 163 | [Jazz Cafe](https://open.spotify.com/track/2OhZ1k6PhtBvTJtxyH49lp) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Jazz Cafe](https://open.spotify.com/album/45Xog21DpeQCkqbLYpovRH) | 1:12 |
 | 164 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 173 | [light](https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [light](https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr) | 1:25 |
 | 174 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 |
 
-Snapshot ID: `MTY2ODE2Nzg3MCwwMDAwMDAwMDRiMDBmYWRiNWU1YTIzMzcxYmI1NzdkOWIxYmQwZDU5`
+Snapshot ID: `MTY2ODE2Nzg3MCwwMDAwMDAwMDBlMjQyNGEwNGM1OTMxN2JjZmZhMzRiMjE2YWY3NzNm`

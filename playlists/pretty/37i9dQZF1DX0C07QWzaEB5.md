@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,537 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,539 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 106 | [I Stay Here \(feat\. Mari\)](https://open.spotify.com/track/1WJZiPgRQB4jZBpyuZo8qq) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [mari](https://open.spotify.com/artist/0J7K6R1o2X6SurlPCLPn6c) | [Spend The Night With You](https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ) | 3:36 |
 | 107 | [Do What I Like](https://open.spotify.com/track/2zfw5Q62YDTd0JzfOjAz9b) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Baddest Nice Guys](https://open.spotify.com/album/187fmTy0wOPQ8geiMNACPT) | 3:00 |
 | 108 | [Temptation](https://open.spotify.com/track/0p6zAekmyRoRLF1qU5Lipl) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [YUNU IN THE HOUSE](https://open.spotify.com/album/2nymtjmxk4qln1pMCCRJG1) | 3:57 |
-| 109 | [Retro Love](https://open.spotify.com/track/4up4ZBS5xHopy32eBqINb1) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [Retro Love](https://open.spotify.com/album/5boHfKLU2XzfSIbs40BuE8) | 3:33 |
+| 109 | [Retro Love](https://open.spotify.com/track/4up4ZBS5xHopy32eBqINb1) | [Dong Hyun Nam](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [Retro Love](https://open.spotify.com/album/5boHfKLU2XzfSIbs40BuE8) | 3:33 |
 | 110 | [URANUS](https://open.spotify.com/track/0v7kgDitHLuLp1hfc9gGRN) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:08 |
 | 111 | [Spend The Night With You \(feat\. Frankie Summer\)](https://open.spotify.com/track/4lml7OhxfonWswRYDCNxdc) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [Spend The Night With You](https://open.spotify.com/album/6yq2W74hgWtXQ9D7a2gbnJ) | 3:46 |
 | 112 | [M.S.G](https://open.spotify.com/track/6uhpjOPtVv8kkPtSPeDJqB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:05 |

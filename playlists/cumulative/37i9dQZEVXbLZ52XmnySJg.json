@@ -844,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Gunehgar",
+        "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Baazigar",
+      "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
+    },
+    {
+      "album": {
         "name": "Bachpan Ka Pyaar",
         "url": "https://open.spotify.com/album/65EGMrxmEXnyKZzXuRiuTk"
       },
@@ -5181,7 +5203,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 235264,
       "name": "Jhaanjar (From \"Honeymoon\")",
       "url": "https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50"
@@ -5903,6 +5925,24 @@
       "duration_ms": 154000,
       "name": "Kyaa Mujhe Pyaar Hai? (Lofi Mix)",
       "url": "https://open.spotify.com/track/29yddVKI7Rwgk0eS8aJinC"
+    },
+    {
+      "album": {
+        "name": "Kyun Dhunde",
+        "url": "https://open.spotify.com/album/1v3dq934fwhZUjkigZ32VY"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70434,
+      "name": "Kyun Dhunde",
+      "url": "https://open.spotify.com/track/7gFzBppKTiKAs38SWOjbO6"
     },
     {
       "album": {
@@ -6885,7 +6925,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "Mann Mera",
       "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
@@ -7777,7 +7817,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 162896,
       "name": "Naina Ki Talwar",
       "url": "https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo"
@@ -8243,7 +8283,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 210857,
       "name": "Pacha Elai (From \"Love Today\")",
       "url": "https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9"
@@ -9027,7 +9067,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 265063,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/6zfvsbeuFKoWIdoRb3JdhA"
@@ -9684,6 +9724,24 @@
     },
     {
       "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "album": {
         "name": "Legends - Top 10",
         "url": "https://open.spotify.com/album/3deyvB3fEavgoVcG1BmFZv"
       },
@@ -10045,7 +10103,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -11871,7 +11929,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"

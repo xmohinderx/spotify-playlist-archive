@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-102 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
+103 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Feel](https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Feel](https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID) | 4:37 | 2022-03-08 | 2022-11-13 |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-03-01 |  |
 | [Fluffy Clouds](https://open.spotify.com/track/46An1qrp2NBF7rP8CgmnpK) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Fluffy Clouds](https://open.spotify.com/album/3dWZLsrLsh8gcbnekWIg7H) | 5:44 | 2021-03-01 |  |
-| [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 | 2021-03-01 |  |
+| [Follow](https://open.spotify.com/track/2XGh5hmwLX517lMBSvglwS) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0kI8CjLFsSKL7xA2tSBZFa) | 5:37 | 2022-03-08 |  |
+| [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 | 2021-03-01 | 2022-11-20 |
 | [Forever Ravers \- Radio Edit](https://open.spotify.com/track/4UjxYMM2290d7KlCKVSOuQ) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [Speicher 112](https://open.spotify.com/album/4W6gWw1CAqb8W1l8TiiDcp) | 3:20 | 2021-03-01 |  |
 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 | 2021-03-01 |  |
 | [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 | 2021-03-01 |  |

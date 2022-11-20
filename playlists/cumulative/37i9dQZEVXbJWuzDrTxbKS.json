@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 195818,
       "name": "#Sarkanbaltsarkanais",
       "url": "https://open.spotify.com/track/3bY8hZbtWQpCOGHi1IZvz5"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
@@ -1468,6 +1468,32 @@
     },
     {
       "album": {
+        "name": "Tautas Laiks (Latviesu Patriotisko Dziesmu Izlase)",
+        "url": "https://open.spotify.com/album/4qvyQt7JeEBiMCnz9lq3AE"
+      },
+      "artists": [
+        {
+          "name": "Tarmo Pihlaps",
+          "url": "https://open.spotify.com/artist/4QMxiVoeAIMMWMlCzqjbDF"
+        },
+        {
+          "name": "Viktors Zemgals",
+          "url": "https://open.spotify.com/artist/1l8OUvGeEGGPDG0elD77h3"
+        },
+        {
+          "name": "Zilvins Bubelis",
+          "url": "https://open.spotify.com/artist/45kSe1Cf2P3auYRY0s8B61"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328586,
+      "name": "Atmostas Baltija",
+      "url": "https://open.spotify.com/track/0KCsRKnwtwS8jARyMoyQWf"
+    },
+    {
+      "album": {
         "name": "STONKS",
         "url": "https://open.spotify.com/album/6s3RiLpdAKOoFhOWskFYEo"
       },
@@ -1541,7 +1567,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
@@ -2613,6 +2639,42 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151784,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/38Jz5IUEXhwvI8c9GKODQU"
+    },
+    {
+      "album": {
+        "name": "Tautas Laiks (Latviesu Patriotisko Dziesmu Izlase)",
+        "url": "https://open.spotify.com/album/4qvyQt7JeEBiMCnz9lq3AE"
+      },
+      "artists": [
+        {
+          "name": "Opus Pro & Alex",
+          "url": "https://open.spotify.com/artist/3H26acaCWRmJnEsRTpSesD"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264346,
+      "name": "Brivibu Baltijai!",
+      "url": "https://open.spotify.com/track/0Fc1hzBRuVfCu2UaQhMHlZ"
     },
     {
       "album": {
@@ -3815,7 +3877,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -4487,7 +4549,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 228837,
       "name": "Divided",
       "url": "https://open.spotify.com/track/1BcR6Hi28MIxGqeT3W71Cz"
@@ -4744,6 +4806,28 @@
     },
     {
       "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
       },
@@ -4839,7 +4923,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 267306,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/3tAQNhm1o0kzldsI5QkrB1"
@@ -5005,7 +5089,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 250572,
       "name": "Dzimt\u0101 valoda",
       "url": "https://open.spotify.com/track/6C62U8JswctViapGU9eiw3"
@@ -5785,7 +5869,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -6441,7 +6525,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
@@ -6513,7 +6597,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -6803,7 +6887,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -6963,7 +7047,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -8370,6 +8454,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137115,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/2RLSglgOlte1k6VHGFJ9fx"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -8403,7 +8505,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -9241,7 +9343,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -10383,7 +10485,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -10521,6 +10623,24 @@
       "duration_ms": 148866,
       "name": "Mana m\u012b\u013c\u0101 meitene - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3smEWyCM0bDdLs9K4Ks1rw"
+    },
+    {
+      "album": {
+        "name": "Spogulis",
+        "url": "https://open.spotify.com/album/0y9P1lu63hsdqzUC4PeZU1"
+      },
+      "artists": [
+        {
+          "name": "Ieva Akuratere",
+          "url": "https://open.spotify.com/artist/76ULwbikvVYPMTNpG4Y4GE"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "Manai Tautai",
+      "url": "https://open.spotify.com/track/4oAgLthKewgE1tnGd22Jqx"
     },
     {
       "album": {
@@ -10940,6 +11060,24 @@
     },
     {
       "album": {
+        "name": "Tautas Laiks (Latviesu Patriotisko Dziesmu Izlase)",
+        "url": "https://open.spotify.com/album/4qvyQt7JeEBiMCnz9lq3AE"
+      },
+      "artists": [
+        {
+          "name": "Janis Sprogis & Igo",
+          "url": "https://open.spotify.com/artist/35oznImP4HeI44fbZofwDd"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196453,
+      "name": "Mazs Bernins Krustceles",
+      "url": "https://open.spotify.com/track/55ANmSxdJOjq8xl8op1idO"
+    },
+    {
+      "album": {
         "name": "Mazzaleen",
         "url": "https://open.spotify.com/album/2am2JEnLQQYKdJfnvV9idp"
       },
@@ -11111,7 +11249,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11347,7 +11485,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -11873,6 +12011,24 @@
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Murder Rate",
+      "url": "https://open.spotify.com/track/5m8AUjnKQ3F6beIY23HOj5"
     },
     {
       "album": {
@@ -12477,7 +12633,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -13464,6 +13620,24 @@
     },
     {
       "album": {
+        "name": "Tas Ir Igo 1981-1997 Vol.2",
+        "url": "https://open.spotify.com/album/4PxXXSNL0tGyMFbEVyvB9o"
+      },
+      "artists": [
+        {
+          "name": "IGO",
+          "url": "https://open.spotify.com/artist/4icoz2e4mkyQaZbGH4cjwy"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Pie Laika",
+      "url": "https://open.spotify.com/track/1D0pl4jcdzb1MOQKBLskJb"
+    },
+    {
+      "album": {
         "name": "visurg\u0101j\u0113js",
         "url": "https://open.spotify.com/album/359NpKcAHBDr1bD3jdqOMe"
       },
@@ -13871,7 +14045,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 138036,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/2uNrriUaePhbbmsXT8HQJU"
@@ -14143,7 +14317,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
@@ -14671,7 +14845,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -15388,6 +15562,24 @@
     },
     {
       "album": {
+        "name": "Dziesmu sv\u0113tki 2013",
+        "url": "https://open.spotify.com/album/5xuubt9l8IGEpKvljzed1B"
+      },
+      "artists": [
+        {
+          "name": "Swedbank koris",
+          "url": "https://open.spotify.com/artist/36wkJiqgT743hxw1Dispzv"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "Saule, P\u0113rkons, Daugava",
+      "url": "https://open.spotify.com/track/3o9I80lI4GL8CxjnGirdd9"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -15494,6 +15686,32 @@
     },
     {
       "album": {
+        "name": "Tautas Laiks (Latviesu Patriotisko Dziesmu Izlase)",
+        "url": "https://open.spotify.com/album/4qvyQt7JeEBiMCnz9lq3AE"
+      },
+      "artists": [
+        {
+          "name": "Imants Vanzovics Un Draugi",
+          "url": "https://open.spotify.com/artist/77TG3KoMNcn4cOd0inVxUD"
+        },
+        {
+          "name": "Mirdza Zivere",
+          "url": "https://open.spotify.com/artist/4cIaHQQ9yH80Nh9CiZJBQL"
+        },
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/47g3Yh8Fcbwy0aklogjAVa"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384213,
+      "name": "Sena Kalpu Dziesma",
+      "url": "https://open.spotify.com/track/1t014DELxzCCtaVyTlALXR"
+    },
+    {
+      "album": {
         "name": "Sentimentai",
         "url": "https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E"
       },
@@ -15509,6 +15727,24 @@
       "duration_ms": 180000,
       "name": "Sentimentai",
       "url": "https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144035,
+      "name": "Serial Killa",
+      "url": "https://open.spotify.com/track/1960eLfa8hLUNq9jWFHe5V"
     },
     {
       "album": {
@@ -15801,7 +16037,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
@@ -16161,7 +16397,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -16387,7 +16623,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
@@ -16445,7 +16681,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -16927,7 +17163,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -17186,6 +17422,24 @@
     },
     {
       "album": {
+        "name": "Miru\u0161ais gadsimts",
+        "url": "https://open.spotify.com/album/0naGXndQs0MSa56NkWElSY"
+      },
+      "artists": [
+        {
+          "name": "Zodiaks",
+          "url": "https://open.spotify.com/artist/1od8B42klc1J4JrIXqzdfB"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295560,
+      "name": "Taisn\u012bba",
+      "url": "https://open.spotify.com/track/51M0k7mdHJAnJDl6mU0MxI"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz"
       },
@@ -17345,6 +17599,24 @@
       "duration_ms": 133779,
       "name": "Taunt",
       "url": "https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7"
+    },
+    {
+      "album": {
+        "name": "Miru\u0161ais gadsimts",
+        "url": "https://open.spotify.com/album/0naGXndQs0MSa56NkWElSY"
+      },
+      "artists": [
+        {
+          "name": "Zodiaks",
+          "url": "https://open.spotify.com/artist/1od8B42klc1J4JrIXqzdfB"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168586,
+      "name": "Tautas laiks",
+      "url": "https://open.spotify.com/track/5oN9r9ZbJJEPoqJRrE2Ktx"
     },
     {
       "album": {
@@ -17783,7 +18055,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
@@ -18035,7 +18307,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "Tik Un T\u0101",
       "url": "https://open.spotify.com/track/7bqQNZyFth7ld8IogSBtOH"
@@ -18727,7 +18999,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -19627,7 +19899,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -20143,7 +20415,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 261293,
       "name": "Za\u013c\u0101 Dziesma",
       "url": "https://open.spotify.com/track/2ggBWjbwT3g6MfEIz5rvxj"
@@ -21153,6 +21425,24 @@
       "duration_ms": 215474,
       "name": "\u041c\u0430\u043b\u044c\u0447\u0438\u043a \u043d\u0430 \u0434\u0435\u0432\u044f\u0442\u043a\u0435",
       "url": "https://open.spotify.com/track/1tzTlRMcw9xDqrNRzj3H2g"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0431\u044f \u043b\u044e\u0431\u044f\u0442 \u0442\u0430\u043c \u0433\u0434\u0435 \u043c\u0435\u043d\u044f \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207195,
+      "name": "\u041c\u043d\u0435 \u044d\u0442\u043e \u043d\u0435 \u043d\u0443\u0436\u043d\u043e",
+      "url": "https://open.spotify.com/track/1I08Gc6g5fK9zEWNZASQzq"
     },
     {
       "album": {

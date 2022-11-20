@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-109 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+110 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 | 2022-05-20 |  |
 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 | 2022-05-20 |  |
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2022-05-20 |  |
-| [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 | 2022-05-20 |  |
+| [Blood Moon Night](https://open.spotify.com/track/2KHMoCEEB4ILFrjIufKKMK) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/3598rImSp7s7aaOkQZFGme) | 11:04 | 2022-11-17 |  |
+| [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 | 2022-05-20 | 2022-11-20 |
 | [Break It All](https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Break It All](https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU) | 4:21 | 2022-05-20 |  |
 | [Broken](https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Islands](https://open.spotify.com/album/0cdFTrG6rPXUjcOhBpS6qH) | 6:47 | 2022-05-20 |  |
 | [Broken](https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0) | 6:47 | 2022-05-20 | 2022-11-14 |

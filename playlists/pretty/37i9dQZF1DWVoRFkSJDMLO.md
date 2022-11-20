@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Busta Rhymes 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,345 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,377 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bulletproof Skin](https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [The Fuse Is Lit](https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6) | 3:34 |
-| 2 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
+| 1 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
+| 2 | [Bulletproof Skin](https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [The Fuse Is Lit](https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6) | 3:34 |
 | 3 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |
 | 4 | [SI MI CLEAN \(feat\. Busy Signal\)](https://open.spotify.com/track/7f8KD3X3jajKS8lOvvY5Cl) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [SI MI CLEAN \(feat\. Busy Signal\)](https://open.spotify.com/album/2ZHTu0yaFOAH5G4MiYQ6Ia) | 3:09 |
 | 5 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Like Dat](https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Like Dat](https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno) | 2:16 |
 | 100 | [Likkle Darling](https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Likkle Darling](https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9) | 1:54 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDhmZTFiNjMxNDBiOTNiYmJlNmQ1ODdjMzY2YjljOWJk`
+Snapshot ID: `MTY2ODkwNTc4NiwwMDAwMDAwMGVkNTk1YTk5N2JjNGU0ZGNkNWEwYmU5MGVjMjFlZWI3`

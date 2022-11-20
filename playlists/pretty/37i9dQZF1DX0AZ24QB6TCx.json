@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 273740,
+  "num_followers": 273966,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NzE3MCwwMDAwMDAwMDQzYmVkMWI2ODNlMTQ1NWE2Mjc5ZTMxYzUxOTkwOTkw",
+  "snapshot_id": "MTY2ODU5NzE3MCwwMDAwMDAwMGVjMDY1NzNkMGU2OWMxNGMxZjMxZjJiNjYwNWNjMmZi",
   "tracks": [
     {
       "added_at": "2022-10-28 13:11:24",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
     },
     {
-      "added_at": "2022-11-19 01:20:51",
+      "added_at": "2022-11-20 01:22:04",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
     },
     {
-      "added_at": "2022-11-19 01:20:51",
+      "added_at": "2022-11-20 01:22:04",
       "album": {
         "name": "Verdammt",
         "url": "https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
-      "added_at": "2022-11-19 01:20:51",
+      "added_at": "2022-11-20 01:22:04",
       "album": {
         "name": "Vaal",
         "url": "https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6"
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/595ckypY5Dho4okbAw24bz"
-      },
-      "artists": [
-        {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
-        }
-      ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 258665,
       "name": "Ordel",
       "url": "https://open.spotify.com/track/22UDmbP8eiz97tNyACphRl"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "King Curtis",
-        "url": "https://open.spotify.com/album/03z3QSsBenvY1ngWwkcxVG"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "King Curtis - Edit",
-      "url": "https://open.spotify.com/track/15lzXkV36tS2YA5RIUK6JX"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -559,6 +527,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Sumidero",
+        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 298492,
+      "name": "Sumidero",
+      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Yuregine Deprem",
         "url": "https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99"
       },
@@ -575,26 +559,6 @@
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "High On Beat",
-        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
-        }
-      ],
-      "duration_ms": 206223,
-      "name": "High On Beat",
-      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -619,34 +583,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/5nRa4Ip2sEgDw9dxloWWT4"
+        "name": "High On Beat",
+        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/7Jg4IewnagsDLVqMBJUR83"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Sumidero",
-        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
-      },
-      "artists": [
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
         }
       ],
-      "duration_ms": 298492,
-      "name": "Sumidero",
-      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
+      "duration_ms": 206223,
+      "name": "High On Beat",
+      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -775,22 +727,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "FAST LAND",
-        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -811,22 +747,18 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Cloudline (Parra for Cuva Reimagination)",
-        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
+        "name": "Wellenl\u00e4nge",
+        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
         }
       ],
-      "duration_ms": 296981,
-      "name": "Cloudline (Parra for Cuva Reimagination)",
-      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+      "duration_ms": 218000,
+      "name": "Wellenl\u00e4nge",
+      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -847,18 +779,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Wellenl\u00e4nge",
-        "url": "https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm"
+        "name": "Cloudline (Parra for Cuva Reimagination)",
+        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
       "artists": [
         {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Wellenl\u00e4nge",
-      "url": "https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh"
+      "duration_ms": 296981,
+      "name": "Cloudline (Parra for Cuva Reimagination)",
+      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -959,22 +895,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "11am",
-        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
-      },
-      "artists": [
-        {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Just To Hear You Say",
         "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
       },
@@ -987,6 +907,22 @@
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+      },
+      "artists": [
+        {
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1131,22 +1067,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "AvA",
-        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
-      },
-      "artists": [
-        {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "AvA",
-      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "False Gods EP (Short Edits)",
         "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
       },
@@ -1163,6 +1083,22 @@
       "duration_ms": 214122,
       "name": "Get Down - Short Edit",
       "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1235,22 +1171,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 363889,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Bosquemar",
         "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
       },
@@ -1263,6 +1183,94 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "CTG",
+        "url": "https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "I\u00fari Oliveira",
+          "url": "https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "CTG",
+      "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Sky Is the Limit",
+        "url": "https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby"
+      },
+      "artists": [
+        {
+          "name": "Westbam/ML",
+          "url": "https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE"
+        },
+        {
+          "name": "The Beloved",
+          "url": "https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg"
+        }
+      ],
+      "duration_ms": 223873,
+      "name": "Sky Is the Limit - Edit",
+      "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     }
   ],
   "unique_name": "Afterhours",

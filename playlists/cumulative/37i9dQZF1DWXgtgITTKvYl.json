@@ -175,6 +175,28 @@
     {
       "album": {
         "name": "ELDOVAR - A Story of Darkness & Light",
+        "url": "https://open.spotify.com/album/3598rImSp7s7aaOkQZFGme"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        },
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664413,
+      "name": "Blood Moon Night",
+      "url": "https://open.spotify.com/track/2KHMoCEEB4ILFrjIufKKMK"
+    },
+    {
+      "album": {
+        "name": "ELDOVAR - A Story of Darkness & Light",
         "url": "https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e"
       },
       "artists": [
@@ -189,7 +211,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 664413,
       "name": "Blood Moon Night",
       "url": "https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY"

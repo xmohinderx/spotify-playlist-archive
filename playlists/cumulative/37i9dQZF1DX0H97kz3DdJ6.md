@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-103 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+104 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Baby Me Liga](https://open.spotify.com/track/6DkGdk9OPZlQc8BCo0Qr1Z) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Baby Me Liga](https://open.spotify.com/album/5iu2jQh2CMr9kVvWSJMWbs) | 3:57 | 2022-05-20 | 2022-06-25 |
 | [cansei de falar de amor](https://open.spotify.com/track/4hUyApGomeztSlvXijsI6P) | [gaefi](https://open.spotify.com/artist/2fNMhstQezqzVqfpZEHW5M) | [cansei de falar de amor](https://open.spotify.com/album/7ydUr2inEknqfGGk5s26sL) | 3:16 | 2022-07-22 |  |
 | [Caos Dentro de Mim](https://open.spotify.com/track/6l013Kgkjxzbg7MsjYnQw8) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/6a7IHPIJbi9SPZeP0OM8as) | 2:10 | 2022-05-20 | 2022-07-29 |
-| [Caos Dentro de Mim](https://open.spotify.com/track/35aBhqsTTL6QWotEmzCuzh) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/7DrLeKm1YaZcncpaPUL7X4) | 2:10 | 2022-10-14 |  |
+| [Caos Dentro de Mim](https://open.spotify.com/track/7Ald1Ghr38jvz7ANWBQrJo) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/0MaPuL3Ves3YNJy1M1wgTs) | 2:10 | 2022-11-17 |  |
+| [Caos Dentro de Mim](https://open.spotify.com/track/35aBhqsTTL6QWotEmzCuzh) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/7DrLeKm1YaZcncpaPUL7X4) | 2:10 | 2022-10-14 | 2022-11-20 |
 | [Caos Dentro de Mim](https://open.spotify.com/track/6hyvQaaCsDtrNnfzO980Fz) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/5VoN0R82NCgRiKTvXiLi4g) | 2:10 | 2022-07-22 | 2022-10-18 |
 | [Chorei no Rolê](https://open.spotify.com/track/700s6PcR2Qi0pleAPy1Qow) | [Bakuri](https://open.spotify.com/artist/2nr5oBJ1hLC7KWUE2gGYsp) | [Chorei no Rolê](https://open.spotify.com/album/4fIWKyzN6z3bZusP5ETu8T) | 2:55 | 2022-08-17 | 2022-10-15 |
 | [Cinza e Preto](https://open.spotify.com/track/4mJ4xwuj2fC03WT32ET8O5) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Cinza e Preto](https://open.spotify.com/album/3pI5nKUspP8UIsc8rY0a9K) | 2:36 | 2022-05-20 |  |

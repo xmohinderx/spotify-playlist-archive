@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-91 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
+93 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 |  |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2022-06-20 |  |
 | [Ho Chi Min](https://open.spotify.com/track/5kKGJym6i9cQJhUiELMfqI) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/5ojN0F4GIGGJY75oWQd3xW) | 7:20 | 2021-07-24 | 2022-07-29 |
-| [Holding You](https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Holding You](https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625) | 5:08 | 2021-07-24 |  |
+| [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 | 2022-06-20 |  |
+| [Holding You](https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Holding You](https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625) | 5:08 | 2021-07-24 | 2022-11-20 |
 | [Hot Summer Love](https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb) | 4:14 | 2022-06-20 |  |
 | [Hot Summer Love](https://open.spotify.com/track/5dVoFQZwySXrBDd3AszUIe) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/0SNFUiPfcs9jo8A5a6zs07) | 4:14 | 2021-07-24 | 2022-07-29 |
 | [Hot Summer Love](https://open.spotify.com/track/7jkNyMn9RQErk40hZlvVM9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [The Moment](https://open.spotify.com/album/08tD174VfZEDisYlcp0mfX) | 4:14 | 2022-06-20 | 2022-11-13 |
@@ -73,7 +74,8 @@
 | [Piano House](https://open.spotify.com/track/2gA7k44EociDoPIuu96bS9) | [Salary Boy](https://open.spotify.com/artist/597dcoBBKCzpVkbD3CLuG7) | [Piano House](https://open.spotify.com/album/2fFJ05NEdDY261h5pHky1K) | 5:37 | 2021-07-24 |  |
 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 | 2021-07-24 |  |
 | [Point One](https://open.spotify.com/track/5G7UKEiJ6MXpsRShpPRarl) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Point One](https://open.spotify.com/album/0E0WPv8eP2oV1DNg9bbMxU) | 4:35 | 2021-07-24 | 2022-06-21 |
-| [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 | 2021-07-24 |  |
+| [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 | 2021-07-24 | 2022-11-20 |
+| [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 | 2022-06-20 |  |
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 |  |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2021-07-24 |  |
 | [Satisfy Your Fantasy](https://open.spotify.com/track/2awksO3qqWBWDnJuBJdQaC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Satisfy Your Fantasy](https://open.spotify.com/album/41P47wN7Z6L02O52OQSw3j) | 7:04 | 2022-06-20 | 2022-11-13 |

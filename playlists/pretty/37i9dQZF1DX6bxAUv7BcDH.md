@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,624 likes - 62 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,625 likes - 62 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bxAUv7BcDH.md) - [plain]
 | 59 | [Send in the Clowns](https://open.spotify.com/track/7iL8UcftjwLe6eosb3pgUH) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [The Very Best Of Judy Collins](https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR) | 4:04 |
 | 60 | [You’ve Got A Friend \- Live At The Troubadour / 2007](https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Live At The Troubadour](https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv) | 5:51 |
 | 61 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 |
-| 62 | [Theme of Exodus \- From "Exodus" Soundtrack](https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE) | [Theme of Exodus \(From "Exodus" Soundtrack\)](https://open.spotify.com/album/5micc2oKvQQYFUlUcsVtF0) | 14:52 |
+| 62 | [Little Green Apples](https://open.spotify.com/track/2nuMRtlTTp6hwPOsRsBu7n) | [O.C\. Smith](https://open.spotify.com/artist/7qVAJPCHuOiMxlJ7h9xEAA) | [Greatest Hits](https://open.spotify.com/album/3WmggKO4chLNbPJvtPMoXi) | 4:13 |
 
-Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDg2NGUzNWRjMGQxZDg4YTU2ZmY5ZDVmMTY0YzJmZWQ0`
+Snapshot ID: `MTY0NDk4OTg2MSwwMDAwMDAwMDY5NzFmM2UzOWI1ZmZkNmY0NjBlNDEyZDliYTZhYjQ3`

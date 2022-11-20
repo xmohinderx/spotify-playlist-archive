@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,150,497 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,155,614 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 17 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 18 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 |
 | 19 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 |
-| 20 | [BLAST EM'](https://open.spotify.com/track/6EhLg6CkMso3gmN6XbA1zH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/0Q4i0Jg3nPZMILctz4pwDJ) | 2:07 |
+| 20 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 |
 | 21 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
 | 22 | [NEW ERA](https://open.spotify.com/track/1IjGb3x3n6mzEllLf1qLsT) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [NEW ERA](https://open.spotify.com/album/4WGwYGhoVWhbT4Ey5nHkDY) | 2:34 |
 | 23 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DEVIL SOUL](https://open.spotify.com/track/7t0OaHwReZjPuEBImsRwvX) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [DEVIL SOUL](https://open.spotify.com/album/0aK4cmOqiaYYr52r3hlRqu) | 1:53 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY2ODc1Nzk2NiwwMDAwMDAwMDVhMjA1ZGUxMWQxYzMwNTgwYjhlNDUyZTE1NzNmYjVh`
+Snapshot ID: `MTY2ODc1Nzk2NiwwMDAwMDAwMDkyNDhlOWRhMTVhYmEwYzEwMWZhZTkyN2RkYzdkZDZm`

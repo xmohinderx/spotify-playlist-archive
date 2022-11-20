@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 58063,
+  "num_followers": 58208,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMGNjOTVmNzQxNDY0Y2I5YjQ3NDZiZjE5NWY5NDY5OGNl",
+  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMDQ1ODJiM2Y2YTMxODE1NjQ1NWY0YjlhZDcxZWFiNzg4",
   "tracks": [
     {
       "added_at": "2022-11-17 14:44:01",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "In the Skies",
-        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Chronicle",
         "url": "https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 236800,
       "name": "I'll Play The Blues For You - Edit",
       "url": "https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "In the Skies",
+        "url": "https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
     },
     {
       "added_at": "2022-11-17 14:44:01",

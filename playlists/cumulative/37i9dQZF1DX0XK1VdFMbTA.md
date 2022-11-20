@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-829 songs - 2 day 9 hr 57 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+830 songs - 2 day 10 hr 1 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Just What the Doctor Ordered](https://open.spotify.com/track/4E7s9DnZllj2xakG1uSNca) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Ted Nugent](https://open.spotify.com/album/0UwPjWzLZCx6tGNXfom6BV) | 3:45 | 2022-01-05 | 2022-07-29 |
 | [Kick It Out](https://open.spotify.com/track/4QUjwfigQ1qSv0E1jN5yOr) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 2:45 | 2022-01-10 |  |
 | [Kings](https://open.spotify.com/track/6V4vufRraefNq5DYDjICRS) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:45 | 2022-01-05 | 2022-11-09 |
+| [Kings](https://open.spotify.com/track/5nTxjFOvyjXoOIqcZsiy5E) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:47 | 2022-11-17 |  |
 | [Kooks \- 2015 Remaster](https://open.spotify.com/track/1w3W1hz6xVUSWkbh0paMgs) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 2:53 | 2022-01-05 |  |
 | [L.A\. Woman](https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:51 | 2022-01-05 |  |
 | [Lady](https://open.spotify.com/track/1wpRglLhQ092N1rftlDMD3) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Styx II](https://open.spotify.com/album/6QRpuaqB1chM6wemxQlcy1) | 2:57 | 2022-01-05 |  |
@@ -527,7 +528,7 @@
 | [One Man Band](https://open.spotify.com/track/7K7ZIvwUpMZ2H6eOVpWhwq) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Just A Boy](https://open.spotify.com/album/4vXVoCh0BDXrOLNdYUusPL) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [One Man Band \- Remastered](https://open.spotify.com/track/48qZJDrhVtHBu1paLgTBIi) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Very Best Of Leo Sayer](https://open.spotify.com/album/4rV5mwtsOjBXEld4KSjtIG) | 3:34 | 2022-01-05 | 2022-11-13 |
 | [One Man Band \- Remastered](https://open.spotify.com/track/0c2mka6WpBC5WTC5lBroMm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Just A Boy](https://open.spotify.com/album/4U9kO19aacQAfVYdzxQ3Db) | 3:34 | 2022-01-05 |  |
-| [One More Time](https://open.spotify.com/track/2YvsGKyrVEroDZevEMIWKH) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy) | 5:03 | 2022-01-05 |  |
+| [One More Time](https://open.spotify.com/track/2YvsGKyrVEroDZevEMIWKH) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy) | 5:03 | 2022-01-05 | 2022-11-20 |
 | [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 | 2022-01-05 |  |
 | [One Of These Days \- 2011 Remastered Version](https://open.spotify.com/track/0Ga3szKsJOeZ0eAfydm1WV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle \(2011 Remastered Version\)](https://open.spotify.com/album/7yKRvvqspSxfLkr7C7RaAI) | 5:55 | 2022-01-05 | 2022-07-29 |
 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 | 2022-01-05 |  |

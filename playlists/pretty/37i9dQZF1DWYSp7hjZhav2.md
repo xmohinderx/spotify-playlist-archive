@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,313 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,380 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 19 | [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 |
 | 20 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 |
 | 21 | [Fallen Enemies](https://open.spotify.com/track/4ieme0tVy0O5DwxXXdlSe2) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/6mk2kvdQsCP3gD45IqZBkK) | 4:19 |
-| 22 | [Attention Seeker](https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa) | 5:27 |
+| 22 | [Attention Seeker](https://open.spotify.com/track/0ikVe3oMaQ4jC5mVVf0zt7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/2J0DRM0gr0OFmeOJB064Ym) | 5:27 |
 | 23 | [Pablo \- Jos & Eli Remix](https://open.spotify.com/track/1vmU5mjHUKZ4FHi7sawBdA) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Pablo EP](https://open.spotify.com/album/3BKNZlWW0NmiyPX4MkQuDp) | 5:57 |
 | 24 | [Cold Summer](https://open.spotify.com/track/3xw4y324PlGHGGNVwKmJXZ) | [Paride Saraceni](https://open.spotify.com/artist/4QoLfjVJzb5qdQaXQFxlri) | [Burning](https://open.spotify.com/album/5GV9uzUxVHYMuTT02ZX2s8) | 5:58 |
 | 25 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 52 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 |
 | 53 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 |
 
-Snapshot ID: `MTY2Nzg1NzA3NiwwMDAwMDAwMGZjMTQ4NjIyZDRlMmFkOTM2NjNlNTRmOTBmNDgzNGNi`
+Snapshot ID: `MTY2Nzg1NzA3NiwwMDAwMDAwMDBiN2VmNTA2MTNiMTIzZGZhMjA5NGU2NmU3MTEwOTk2`

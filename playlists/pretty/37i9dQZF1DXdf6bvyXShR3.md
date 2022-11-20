@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,384 likes - 69 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,403 likes - 69 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 30 | [IZA](https://open.spotify.com/track/1WcsPISsw8pbbcnVmLMA5D) | [Map.ache](https://open.spotify.com/artist/2enNMBArUbDhmTopWMVWHr) | [IZA](https://open.spotify.com/album/4iRWnszxMSmGBcx8zl08Zn) | 7:42 |
 | 31 | [Make It Stay \- Boris Dlugosch Remix](https://open.spotify.com/track/4TbrpwvwOV2S2Wsu5K0C9z) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Dena](https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru) | [Answers 2 Trouble Remixes](https://open.spotify.com/album/3fAo7LNq9anrsZDxy9zXXn) | 5:25 |
 | 32 | [Something Unique feat\. Zoot Woman](https://open.spotify.com/track/5y6IeLPd9DUPNibjleRxee) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 3:15 |
-| 33 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse](https://open.spotify.com/album/2TfI3C8cINRiaNTQxLN7Bu) | 3:27 |
+| 33 | [La Danse Heureuse \- Edit](https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse \(Edit\)](https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb) | 3:27 |
 | 34 | [Love Tender](https://open.spotify.com/track/34ZM9aIIid4hAyCOAah5NB) | [Laurent Wood](https://open.spotify.com/artist/6EH61vIvEkWng4dKEa2WQX) | [Cross Vault 09: Laurent Wood](https://open.spotify.com/album/7A0Jf0s21MUEMxsVQJh3x2) | 5:54 |
 | 35 | [Have It](https://open.spotify.com/track/1ZsUDsKOvAEJ0yIr2s9sLr) | [K1ng](https://open.spotify.com/artist/1D6noORj1vkzlaq4CWexna) | [Have It](https://open.spotify.com/album/1xgHfAk9T40Qjn3lVBOd4s) | 3:42 |
 | 36 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 68 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 |
 | 69 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 |
 
-Snapshot ID: `MTY2MzMyNDU3NywwMDAwMDAwMGVmODUyNjE2NDQ5NjJlN2U2NTRkZDcwYjI3YmRlZjQw`
+Snapshot ID: `MTY2MzMyNDU3NywwMDAwMDAwMGQ5ZGYzM2IwZTVlYTYwNTJhZjhkODA5ODI0Y2Q2MzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. El Fantasma & Pepe Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,389 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,451 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 13 | [El Rubio](https://open.spotify.com/track/739MV7Ktw9R8PSR3wA2oQD) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Cuadro De Honor](https://open.spotify.com/album/6GlamPnvbbGkaNwysZFNhS) | 4:44 |
 | 14 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 |
 | 15 | [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3hR7APoVaz6qsa6m6aaKCP) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA) | 3:05 |
-| 16 | [Fachada de Makabro](https://open.spotify.com/track/0ckTh79tZ27hBXmc4S3D0f) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Fachada de Makabro](https://open.spotify.com/album/2y5MHR8bxPsJVma0czYnn9) | 3:18 |
+| 16 | [Fachada de Makabro \- En Vivo](https://open.spotify.com/track/0ckTh79tZ27hBXmc4S3D0f) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Fachada de Makabro \(En Vivo\)](https://open.spotify.com/album/2y5MHR8bxPsJVma0czYnn9) | 3:18 |
 | 17 | [Guerras de Poder \- En Vivo](https://open.spotify.com/track/4KZduc4kcLffwpNtshvJGM) | [Ricky Barajas](https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe) | [Guerras de Poder \(En Vivo\)](https://open.spotify.com/album/5c4k30Qhzkm2glVfGcJ5ef) | 2:49 |
 | 18 | [Caballo de Patas Blancas \- Banda](https://open.spotify.com/track/7rrsBkjtc3zu3IvPSfIsml) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Jefe de Zonas \(Banda\)](https://open.spotify.com/album/2w2cRV9Y4dM8AC1LgFc6YH) | 2:27 |
 | 19 | [Fui Por Todo](https://open.spotify.com/track/2LU6BPXxaRBWiy3wt3gE5s) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Fui Por Todo](https://open.spotify.com/album/5jdsOOrXfTFUcekOdR3BFg) | 3:42 |

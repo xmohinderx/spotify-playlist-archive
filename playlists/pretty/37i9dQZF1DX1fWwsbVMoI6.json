@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Armon\u00eda 10",
-  "num_followers": 84076,
+  "num_followers": 84236,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwNzYwMCwwMDAwMDAwMDVlZjU3M2E0Mzc4OTJhZmZkOGUwMjc5ZjcyZDAyMGE3",
+  "snapshot_id": "MTY2ODIwNzYwMCwwMDAwMDAwMDg5NDI0ZjFjZDNmZDk4M2RhNTg4OWNlNGYzYmU1YTZm",
   "tracks": [
     {
       "added_at": "2022-11-11 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-11-11 23:00:00",
       "album": {
-        "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n De Iquitos",
-          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
-        }
-      ],
-      "duration_ms": 246141,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
-    },
-    {
-      "added_at": "2022-11-11 23:00:00",
-      "album": {
         "name": "Los Querendones de la Cumbia, Vol. 1",
         "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 287503,
       "name": "No Se Puede Amar a Dos",
       "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
+    },
+    {
+      "added_at": "2022-11-11 23:00:00",
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     },
     {
       "added_at": "2022-11-11 23:00:00",

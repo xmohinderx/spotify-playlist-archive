@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-110 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+113 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Soul Mates](https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Soul Mates](https://open.spotify.com/album/0FlFKikrKvQwyWgkItuS4S) | 1:36 | 2022-09-09 |  |
 | [Stan](https://open.spotify.com/track/0uOpOhrVFlRDRU8KFEJGMD) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Old Songs But It's Lofi Fruits Remix](https://open.spotify.com/album/0WwSZ5tq7ytJq0N4GHrC8U) | 2:28 | 2022-09-09 |  |
 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 | 2022-09-09 |  |
-| [sundown](https://open.spotify.com/track/4kFkWxHJgzcNumjUMfE5J7) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/4DdLQZEHVNet5pZrSmSTAb) | 1:52 | 2022-11-11 |  |
+| [sundown](https://open.spotify.com/track/4kFkWxHJgzcNumjUMfE5J7) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/4DdLQZEHVNet5pZrSmSTAb) | 1:52 | 2022-11-11 | 2022-11-20 |
+| [sundown](https://open.spotify.com/track/5LKVbgGeC5UAKoORA0rnKU) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/6A9dbXAqZKVf31i5TzxUw4) | 1:52 | 2022-11-11 |  |
 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 | 2022-09-09 |  |
 | [this girl](https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 2:02 | 2022-09-09 | 2022-11-19 |
 | [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 | 2022-11-11 |  |
@@ -109,7 +110,8 @@
 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-09-09 | 2022-11-05 |
 | [Unravel Lofi \(Tokyo Ghoul\)](https://open.spotify.com/track/0dj0B1f01K3MQABqKhXhBy) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:00 | 2022-09-09 |  |
 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 | 2022-09-09 |  |
-| [Wake Up](https://open.spotify.com/track/73SyPIx501G3211y3oTYns) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:22 | 2022-09-09 |  |
+| [Wake Up](https://open.spotify.com/track/3TmZJJV5m5aBBXl0g5KfDL) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:22 | 2022-11-11 |  |
+| [Wake Up](https://open.spotify.com/track/73SyPIx501G3211y3oTYns) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:22 | 2022-09-09 | 2022-11-20 |
 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 | 2022-09-09 |  |
 | [Watercolors](https://open.spotify.com/track/1Pc51j567gmnRvTBQuChYY) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watercolors](https://open.spotify.com/album/0s4uklHAfPCgyHwqJ3hYh7) | 1:53 | 2022-09-16 |  |
 | [Will You Stay Here with Me](https://open.spotify.com/track/5ZfSRQIWsHaL6j3BhRm1Tq) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:11 | 2022-11-11 | 2022-11-19 |
@@ -117,6 +119,7 @@
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 | 2022-09-09 |  |
 | [Yellow](https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Yellow](https://open.spotify.com/album/4C5iCxq8RjQOqLoXaBXWLO) | 1:42 | 2022-09-09 |  |
 | [You're from Delhi](https://open.spotify.com/track/1tEgMBCOycJ4ASpTpOsRdU) | [Radha Mandal](https://open.spotify.com/artist/79WdxNsSF0WXOiCEryUAyB) | [Our Dreams](https://open.spotify.com/album/3qlSOExbRywIGbnyRNPKfu) | 2:34 | 2022-09-23 | 2022-11-04 |
-| [You're in My Head](https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:37 | 2022-09-23 |  |
+| [You're in My Head](https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:37 | 2022-09-23 | 2022-11-20 |
+| [You're in My Head](https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:37 | 2022-11-11 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

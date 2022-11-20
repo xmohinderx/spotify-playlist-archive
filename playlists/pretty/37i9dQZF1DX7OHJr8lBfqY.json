@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23645,
+  "num_followers": 23666,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDBiMThiMDk4YmUyNWM3ODA3MTBhNmYxZDVkZjc1OTM5",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDdjZTIyZjJiMzBmYWMzOGY2YzE2MWM0NDZlZTBkYWRm",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Cobarde",
+        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Sin Pijama (Kumbia Remix)",
         "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 204288,
       "name": "Sin Pijama - Kumbia Remix",
       "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Cobarde",
-        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "No Drama (Cumbia Version)",
-        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "No Drama - Cumbia Version",
-      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
         "url": "https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 157522,
       "name": "Reggaetonista Salsaton (Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen)",
       "url": "https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "No Drama (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "No Drama - Cumbia Version",
+      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
     },
     {
       "added_at": "2022-08-31 07:37:37",

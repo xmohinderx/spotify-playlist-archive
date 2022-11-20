@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dermot Kennedy \(pictured\), PinkPantheress, Sam Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,956 likes - 139 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,516 likes - 138 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,19 +133,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Lakitu](https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Lakitu](https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9) | 3:59 |
 | 124 | [Stuck and Tangled Up](https://open.spotify.com/track/0MZaC7s9WjJbBdvtHQRNtD) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Stuck and Tangled Up](https://open.spotify.com/album/4EseudsPnn27S6axxQTUta) | 2:56 |
 | 125 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 |
-| 126 | [Old Days](https://open.spotify.com/track/56XYbPLkRjqVMgea7x9Fuh) | [Henri Gaston](https://open.spotify.com/artist/52y8QkoyGh5eYwpqU75fGa) | [Old Days](https://open.spotify.com/album/6m5Tl5nQe1LKtn9ithhz8m) | 2:42 |
-| 127 | [Fool Again](https://open.spotify.com/track/5ejNnWN2s5skuYYNfthVHT) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Fool Again](https://open.spotify.com/album/15l7FFHuKlgQuvYCzsGf4e) | 2:51 |
-| 128 | [ventolin](https://open.spotify.com/track/2LGRpSTZnkYIxpqfToxRq8) | [Kai Kwasi](https://open.spotify.com/artist/3yM6PXMY5PMPtJqDQXUuD3) | [jalilah](https://open.spotify.com/album/0WPjWXDccB7KZfpagey2Jl) | 2:41 |
-| 129 | [Here For You](https://open.spotify.com/track/6BHQ5tQJhOqe8Jx0rEthKr) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Here for You](https://open.spotify.com/album/2b0cW59Zn45XHLo7Ql7vQe) | 3:43 |
-| 130 | [the alchemist](https://open.spotify.com/track/5Zuc1LDafvablNfFnx3EFT) | [7th Obi](https://open.spotify.com/artist/7f9KVZ7zHnzxe9whnC1EgY) | [the alchemist](https://open.spotify.com/album/2LKS6BItSJUp9vuJcgWYZ3) | 3:11 |
-| 131 | [Social Angst](https://open.spotify.com/track/6xE3rkiSY4pORMOuulhi0S) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Social Angst](https://open.spotify.com/album/1xdR1Ll2FtkHEntIq5xQRT) | 2:29 |
-| 132 | [Wyt Ti'n Clywed?](https://open.spotify.com/track/7cPzeQ6W7nr8Q827EuZgCV) | [Sŵnami](https://open.spotify.com/artist/6LsLJJGqMODwb0U7oXXOfy) | [Wyt Ti'n Clywed?](https://open.spotify.com/album/7npQifNHYMIkw4EbhrKJFe) | 4:01 |
-| 133 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 |
-| 134 | [the\_everything\_inbetween](https://open.spotify.com/track/4x49Nbefd5ZntOSdenw12m) | [STANLÆY](https://open.spotify.com/artist/472gXPYvm6uhjuZWkqp5I8) | [the\_everything\_inbetween](https://open.spotify.com/album/4sc9hvQCaEAjgrBeHwNLoY) | 4:59 |
-| 135 | [So Awake](https://open.spotify.com/track/4hed5goVWT1RXlDwIXy22a) | [Will Heggadon](https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO) | [So Awake](https://open.spotify.com/album/5eI6F1MKD42Dto45s3KBH0) | 2:22 |
-| 136 | [Trip.](https://open.spotify.com/track/1rpeRDQe4kmchxrlzqUFf4) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Trip.](https://open.spotify.com/album/35AhCVTkdX4lMXSJsKSbbf) | 3:19 |
-| 137 | [Juggling](https://open.spotify.com/track/3JrcAa44Z3Qpje9xHRHJT5) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp), [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Juggling](https://open.spotify.com/album/56kdIXiR0DNDcyNtKXO8GB) | 3:11 |
-| 138 | [Beyond the Vale](https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I](https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i) | 3:42 |
-| 139 | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/track/00WrFOJ4ZLtIB6YQxP8G2T) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/album/4g9hgB2Y0kG4eQbeDNq5OT) | 4:09 |
+| 126 | [Fool Again](https://open.spotify.com/track/5ejNnWN2s5skuYYNfthVHT) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Fool Again](https://open.spotify.com/album/15l7FFHuKlgQuvYCzsGf4e) | 2:51 |
+| 127 | [ventolin](https://open.spotify.com/track/2LGRpSTZnkYIxpqfToxRq8) | [Kai Kwasi](https://open.spotify.com/artist/3yM6PXMY5PMPtJqDQXUuD3) | [jalilah](https://open.spotify.com/album/0WPjWXDccB7KZfpagey2Jl) | 2:41 |
+| 128 | [Here For You](https://open.spotify.com/track/6BHQ5tQJhOqe8Jx0rEthKr) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Here for You](https://open.spotify.com/album/2b0cW59Zn45XHLo7Ql7vQe) | 3:43 |
+| 129 | [the alchemist](https://open.spotify.com/track/5Zuc1LDafvablNfFnx3EFT) | [7th Obi](https://open.spotify.com/artist/7f9KVZ7zHnzxe9whnC1EgY) | [the alchemist](https://open.spotify.com/album/2LKS6BItSJUp9vuJcgWYZ3) | 3:11 |
+| 130 | [Social Angst](https://open.spotify.com/track/6xE3rkiSY4pORMOuulhi0S) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Social Angst](https://open.spotify.com/album/1xdR1Ll2FtkHEntIq5xQRT) | 2:29 |
+| 131 | [Wyt Ti'n Clywed?](https://open.spotify.com/track/7cPzeQ6W7nr8Q827EuZgCV) | [Sŵnami](https://open.spotify.com/artist/6LsLJJGqMODwb0U7oXXOfy) | [Wyt Ti'n Clywed?](https://open.spotify.com/album/7npQifNHYMIkw4EbhrKJFe) | 4:01 |
+| 132 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 |
+| 133 | [the\_everything\_inbetween](https://open.spotify.com/track/4x49Nbefd5ZntOSdenw12m) | [STANLÆY](https://open.spotify.com/artist/472gXPYvm6uhjuZWkqp5I8) | [the\_everything\_inbetween](https://open.spotify.com/album/4sc9hvQCaEAjgrBeHwNLoY) | 4:59 |
+| 134 | [So Awake](https://open.spotify.com/track/4hed5goVWT1RXlDwIXy22a) | [Will Heggadon](https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO) | [So Awake](https://open.spotify.com/album/5eI6F1MKD42Dto45s3KBH0) | 2:22 |
+| 135 | [Trip.](https://open.spotify.com/track/1rpeRDQe4kmchxrlzqUFf4) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Trip.](https://open.spotify.com/album/35AhCVTkdX4lMXSJsKSbbf) | 3:19 |
+| 136 | [Juggling](https://open.spotify.com/track/3JrcAa44Z3Qpje9xHRHJT5) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp), [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Juggling](https://open.spotify.com/album/56kdIXiR0DNDcyNtKXO8GB) | 3:11 |
+| 137 | [Beyond the Vale](https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I](https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i) | 3:42 |
+| 138 | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/track/00WrFOJ4ZLtIB6YQxP8G2T) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/album/4g9hgB2Y0kG4eQbeDNq5OT) | 4:09 |
 
 Snapshot ID: `MTY2ODcyOTYwMCwwMDAwMDAwMGE3ODEzOWYwNDliMTU0Njk3OTdjYTQ2YjQwZDczMTA2`

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 20843,
+  "num_followers": 20942,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDJmNWEyNDhiMzUyNTZjMjVhOGExY2NiZmNkYzdjZTk1",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDc2NTdhMWFhMTdjYTBmZWQ2MjNmZWYzOWE1M2Y2ODgz",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Alaska (feat. Lil Noon)",
+        "url": "https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW"
+      },
+      "artists": [
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        },
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        }
+      ],
+      "duration_ms": 136294,
+      "name": "Alaska (feat. Lil Noon)",
+      "url": "https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Lumi",
         "url": "https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6"
       },
@@ -967,22 +987,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Caixa De Pandora",
-        "url": "https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8"
-      },
-      "artists": [
-        {
-          "name": "Zalo",
-          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
-        }
-      ],
-      "duration_ms": 164756,
-      "name": "Caixa De Pandora",
-      "url": "https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Paralyzed.",
         "url": "https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5"
       },
@@ -995,6 +999,22 @@
       "duration_ms": 132961,
       "name": "Paralyzed.",
       "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Caixa De Pandora",
+        "url": "https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8"
+      },
+      "artists": [
+        {
+          "name": "Zalo",
+          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
+        }
+      ],
+      "duration_ms": 164756,
+      "name": "Caixa De Pandora",
+      "url": "https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1031,38 +1051,26 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Alaska (feat. Lil Noon)",
-        "url": "https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh"
       },
       "artists": [
         {
-          "name": "tripsyhell",
-          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+          "name": "FreshhhLife",
+          "url": "https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O"
         },
         {
-          "name": "Lil Noon",
-          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
-        }
-      ],
-      "duration_ms": 136294,
-      "name": "Alaska (feat. Lil Noon)",
-      "url": "https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "N1",
-        "url": "https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf"
-      },
-      "artists": [
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        },
         {
-          "name": "Sandricidio",
-          "url": "https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0"
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
         }
       ],
-      "duration_ms": 175530,
-      "name": "N1",
-      "url": "https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0"
+      "duration_ms": 216000,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub"
     }
   ],
   "unique_name": "Seda",

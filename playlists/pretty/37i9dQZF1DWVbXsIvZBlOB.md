@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,368 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 30 | [מגיע לי יותר](https://open.spotify.com/track/33Gsw1B8LUzHDonqIGUeNu) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [שירי רחוב](https://open.spotify.com/album/6w7zgx1vayDs9nstbNXAY4) | 3:13 |
 | 31 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 |
 | 32 | [אלבי](https://open.spotify.com/track/2fMsxBDbsQovSnextVMQfw) | [Valerie Hamaty](https://open.spotify.com/artist/6BY5HhFibJ6LXJ1vVAByLw) | [אלבי](https://open.spotify.com/album/3svjFO52ncu312cHioJ9Ar) | 3:30 |
-| 33 | [אותה יבשת](https://open.spotify.com/track/3HCLZM8qfkvaQ7kONG6pD1) | [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [אותה יבשת](https://open.spotify.com/album/4KqGPqJe7nToy8iv0bXdmA) | 2:42 |
+| 33 | [אותה יבשת](https://open.spotify.com/track/3HCLZM8qfkvaQ7kONG6pD1) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [אותה יבשת](https://open.spotify.com/album/4KqGPqJe7nToy8iv0bXdmA) | 2:42 |
 | 34 | [לא פה](https://open.spotify.com/track/3St2GL2nhV9NjSQ53Mt41M) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [לא פה](https://open.spotify.com/album/5MV1K249V7Ak15QUfytWgR) | 3:48 |
 | 35 | [Better](https://open.spotify.com/track/3NfBk95LO64opvc5zBJcso) | [Gali Givon](https://open.spotify.com/artist/2DiOrNDsdtk2BAPfBhnPEQ) | [Better](https://open.spotify.com/album/3TqUbDtXBeXjhxCX6u6soi) | 3:04 |
 | 36 | [רואים לי בעיניים](https://open.spotify.com/track/1r31dA7kMJwdHH1ORB1WCo) | [Eti Bitton](https://open.spotify.com/artist/7MzV6mIgDnggfqOqfs69Ze) | [רואים לי בעיניים](https://open.spotify.com/album/5ABLYHA7L3gLnn65eJT5Gp) | 3:26 |

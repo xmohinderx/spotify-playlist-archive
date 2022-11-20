@@ -2071,7 +2071,7 @@
     {
       "album": {
         "name": "Beats & Culture (BNC004)",
-        "url": "https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH"
+        "url": "https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH"
       },
       "artists": [
         {
@@ -2090,6 +2090,32 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Turbina De Amor",
+      "url": "https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj"
+    },
+    {
+      "album": {
+        "name": "Beats & Culture (BNC004)",
+        "url": "https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH"
+      },
+      "artists": [
+        {
+          "name": "Prisma",
+          "url": "https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd"
+        },
+        {
+          "name": "Martin Boder",
+          "url": "https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw"
+        },
+        {
+          "name": "Maria Barone",
+          "url": "https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
       "duration_ms": 288000,
       "name": "Turbina De Amor",
       "url": "https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74"

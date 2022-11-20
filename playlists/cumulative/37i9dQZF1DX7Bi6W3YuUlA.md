@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-336 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+337 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [FYE FYE](https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [FYE FYE](https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU) | 3:52 | 2021-12-11 |  |
 | [Genes](https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Genes](https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T) | 2:14 | 2021-12-11 | 2022-11-19 |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 | 2022-11-19 |
-| [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-11-18 |  |
+| [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-11-18 | 2022-11-20 |
 | [GIVE IT BACK](https://open.spotify.com/track/57zHNqDztQQZIeP11X2WKq) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [GIVE IT BACK](https://open.spotify.com/album/3LEsXmmwmmX39KUo2Mwqyt) | 2:11 | 2021-12-11 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 |  |
 | [Glory On Me](https://open.spotify.com/track/5AZppquII76qli3EUyUy8M) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Glory On Me](https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ) | 3:28 | 2021-12-11 | 2022-11-19 |
@@ -259,6 +259,7 @@
 | [Ram in the Bush](https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ram in the Bush](https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn) | 2:28 | 2022-05-28 |  |
 | [Reasons](https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Reasons](https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt) | 3:27 | 2021-12-11 | 2022-11-19 |
 | [Reborn](https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Desesperado \(Español\)](https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ) | 3:01 | 2021-12-11 | 2022-11-19 |
+| [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 | 2022-11-18 |  |
 | [Rendezvous](https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Rendezvous](https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ) | 3:18 | 2022-11-18 |  |
 | [Respect My Team](https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Respect My Team](https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe) | 3:47 | 2022-11-18 |  |
 | [REST](https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [HELLO KIZZY & COMPANY](https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO) | 3:07 | 2022-11-18 |  |

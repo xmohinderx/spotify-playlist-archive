@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,666 likes - 131 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,684 likes - 131 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 69 | [Red Flower](https://open.spotify.com/track/4CkfITI1TKsu6HiyX0uyZY) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Red Flower](https://open.spotify.com/album/2s0woyRQFcQMBiSJF7OFq5) | 2:10 |
 | 70 | [Sundown](https://open.spotify.com/track/405vGJtY0S8ejGpCvVCM8v) | [Gaspar LeMarc](https://open.spotify.com/artist/0nkYC9uUfQuNB7xQ7N0e0j) | [Sundown](https://open.spotify.com/album/4bK89ukxMYliOwZj4IB5Y9) | 3:49 |
 | 71 | [Flume](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Flume](https://open.spotify.com/album/1jojVLaHmyhGzEU6kPoKxz) | 2:16 |
-| 72 | [The girl with broken dreams](https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM) | 2:35 |
+| 72 | [The girl with broken dreams](https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI) | [Sideluv](https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y) | [The girl with broken dreams](https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp) | 2:35 |
 | 73 | [call me baby](https://open.spotify.com/track/0hMigou1Jhjczm0Hr1Ocqw) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [call me baby](https://open.spotify.com/album/1ugcW2hjwXTxDkpZ6gn4ez) | 3:51 |
 | 74 | [Palma](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Palma](https://open.spotify.com/album/01jhngUcEPsPXJG7nSTvfY) | 3:42 |
 | 75 | [Seala](https://open.spotify.com/track/1BL2QYqKsUqMHMpFswdXRD) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Seala](https://open.spotify.com/album/3wFkbVpZwahPZXOWZfIhia) | 2:24 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 130 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 |
 | 131 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 
-Snapshot ID: `MTY2Njk2MDkwMSwwMDAwMDAwMGEyYjk1ZDIxZTZiNDQ4Yzg2MzA0MDMyZDFkNGM3OGRh`
+Snapshot ID: `MTY2Njk2MDkwMSwwMDAwMDAwMGE5MjJjYzQ2NjFkYWRkNGI4MDdkOTMxYzJmOTRmZDFh`

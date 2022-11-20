@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-326 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+327 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Retracing Home](https://open.spotify.com/track/7McxawbM1mYYoeyjRHJYxY) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 5:11 | 2021-10-20 | 2022-07-29 |
 | [Reverie](https://open.spotify.com/track/7t72V2dKD4Fkcyk2IIGoVy) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Shining Sun \(Lofi Hip Hop\)](https://open.spotify.com/album/6evgvWrQQ10gDjDMwQSjnU) | 3:10 | 2022-01-04 | 2022-08-26 |
 | [Reverie for Fragile Houseplants](https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud) | [Tomaga](https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj) | [Intimate Immensity](https://open.spotify.com/album/5uU3uLAmcSsZUpTjNLu59H) | 4:29 | 2021-10-20 | 2022-10-08 |
-| [roots](https://open.spotify.com/track/4Hle0xwDPXNnwSrqQYiPkm) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:29 | 2021-10-20 |  |
+| [roots](https://open.spotify.com/track/4Hle0xwDPXNnwSrqQYiPkm) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb) | 1:29 | 2021-10-20 | 2022-11-20 |
 | [roots](https://open.spotify.com/track/6mQRLgpkmERxI5UTg0wWpD) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [roots](https://open.spotify.com/album/1kmTyaNsx3AdTtcynrgRiv) | 1:29 | 2021-10-20 | 2022-04-20 |
 | [Roses Are Blue](https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD) | [Martina Stock](https://open.spotify.com/artist/6kv6jaS62CE2oWnH7msKzT) | [Roses Are Blue](https://open.spotify.com/album/6kZ4ilp9EF7jibsKzq8Wra) | 9:37 | 2021-10-20 | 2022-10-07 |
 | [Rothko Chapel 5](https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf) | [Morton Feldman](https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM) | [Rothko Chapel](https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO) | 2:52 | 2021-10-20 |  |
@@ -245,6 +245,7 @@
 | [Schachtgerüst](https://open.spotify.com/track/3xXOIJVR8tGBjsnePxwu9l) | [Teleskop](https://open.spotify.com/artist/1XA37ggAvoKbPykQNepMHS), [Wooden Peak](https://open.spotify.com/artist/2Rj13fCuT598oDDz1wqvow) | [Human \| Machine \| Nature](https://open.spotify.com/album/4pp4YF9DHxowILnFIOsoD4) | 4:02 | 2022-01-20 | 2022-07-29 |
 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 | 2021-10-20 |  |
 | [Seals](https://open.spotify.com/track/5yBwN4BHv5WUvch6MR5L68) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/6MEySYP7MoW6HTEL0fkXwF) | 2:18 | 2021-10-20 | 2022-10-15 |
+| [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 | 2021-10-20 |  |
 | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Searching For Joy In The Season of Sorrow](https://open.spotify.com/album/4NYVu5j2Wyw4hsMvAlFwiC) | 4:06 | 2021-11-27 | 2022-07-29 |
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 | 2022-07-23 |
 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 | 2021-10-20 |  |

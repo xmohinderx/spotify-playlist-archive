@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-573 songs - 2 day 1 hr 40 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+574 songs - 2 day 1 hr 46 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bridges](https://open.spotify.com/track/2eBdWSuKGDDYInmvWeK4AA) | [Arkentype](https://open.spotify.com/artist/4IzmDCzlwnl81Q2rwskK3g) | [Bridges](https://open.spotify.com/album/6lN0FkAKy6vIZA4Zm5WJQw) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Brutal Behavior](https://open.spotify.com/track/6wN8nayh7c9Gon16wLV5wv) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:31 | 2021-12-17 | 2022-01-28 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2022-07-13 |  |
-| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 | 2022-11-17 |
+| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-08 | 2022-09-03 |
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
@@ -96,7 +96,8 @@
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2022-07-13 | 2022-11-05 |
 | [Colours](https://open.spotify.com/track/0NkFLNlM82YJ1SXRHUn543) | [Voyager](https://open.spotify.com/artist/16fltNcwTM5V9rnxIlcha4) | [Colours](https://open.spotify.com/album/1EBPNfgBB7eIj688x8HULF) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Come Alive](https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0) | [Virtual Symmetry](https://open.spotify.com/artist/3NC1AdGQMaRiX7s49I4vJy) | [Come Alive](https://open.spotify.com/album/6ZYjeVNoj0bkERomSoE06g) | 6:25 | 2022-07-01 | 2022-09-05 |
-| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 |  |
+| [Complex](https://open.spotify.com/track/1yKblFSgMYjbpFWa5r6nXI) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Dividing Lines](https://open.spotify.com/album/7knrgJVj2Q95gEecolDfeR) | 5:50 | 2022-10-28 |  |
+| [Complex](https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw) | [Threshold](https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM) | [Complex](https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV) | 5:50 | 2022-10-07 | 2022-11-20 |
 | [Computer Eyes](https://open.spotify.com/track/1vKwCrbb0cgm56zrIa4WJq) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Timeline](https://open.spotify.com/album/5fzem17HhdK8JvbQ5VssDU) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [Condemned to the Gallows](https://open.spotify.com/track/26zVufX9OHnePGHVj58x69) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Condemned to the Gallows](https://open.spotify.com/album/6zT7A9hiGNmmSn9wBIzWoC) | 6:34 | 2021-12-17 | 2022-01-17 |
 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 | 2022-07-13 | 2022-09-30 |
@@ -331,7 +332,7 @@
 | [Nocturne: Lost Faith](https://open.spotify.com/track/0tTenNzVzQMdZK92jgcxIJ) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Everchanger](https://open.spotify.com/album/4dQj0M8CCEAN9kObuRcZZA) | 3:26 | 2022-07-13 |  |
 | [Noonday Devil](https://open.spotify.com/track/6N4SnZzS4YYtslJ86FgxwE) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Noonday Devil](https://open.spotify.com/album/4kwiB6JzcCoYH6JRsOoTE2) | 3:20 | 2021-12-17 | 2022-07-27 |
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
-| [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 |  |
+| [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 |  |

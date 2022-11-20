@@ -9158,6 +9158,28 @@
     },
     {
       "album": {
+        "name": "\ub098\ub294\uc57c \ub77d\uc2a4\ud0c0 ! I\u2019m a rockstar !",
+        "url": "https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9"
+      },
+      "artists": [
+        {
+          "name": "Gwak Tae Poong",
+          "url": "https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\uc5b8\ub354 \ub3c5 ! Under Dog ! (feat. CHOILB)",
+      "url": "https://open.spotify.com/track/7H6MYg2AnfdG3pWpLxjSvx"
+    },
+    {
+      "album": {
         "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
         "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
       },

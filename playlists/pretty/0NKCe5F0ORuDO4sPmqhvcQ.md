@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,204 likes - 132 songs - 7 hr 30 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,205 likes - 134 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 130 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 |
 | 131 | [Weatherman \(feat\. Syd Silvair\)](https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Weatherman](https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW) | 4:50 |
 | 132 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 |
+| 133 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
+| 134 | [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 |
 
-Snapshot ID: `MTAwNzgsMGU2NTQyYzg2ZTE3MTg5ZGUyY2NkYWFlODYzYzViOTVhZDE3Mzk2OQ==`
+Snapshot ID: `MTAwODAsZjcxZWI3ZTc1ZmJmZDExYTk0YjIwZGExNGVjOWIwMTg2YTYzYWUyOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,792 likes - 73 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,889 likes - 73 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

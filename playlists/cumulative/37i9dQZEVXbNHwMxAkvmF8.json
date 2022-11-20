@@ -2474,6 +2474,28 @@
     },
     {
       "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "album": {
         "name": "Drill",
         "url": "https://open.spotify.com/album/1zfLdjOVgD3yBzOt5TgltR"
       },
@@ -6385,7 +6407,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 217000,
       "name": "Mes\u00e9lek a bornak",
       "url": "https://open.spotify.com/track/2uD4Fw5DjWGMffAs7RWSmd"
@@ -7209,6 +7231,32 @@
       "duration_ms": 185626,
       "name": "Nem Tudom!",
       "url": "https://open.spotify.com/track/1GflUpmkIxYZnjENylUITW"
+    },
+    {
+      "album": {
+        "name": "ELVESZETT!!4!",
+        "url": "https://open.spotify.com/album/6a3F1WaC8cvsZuQRJplYkO"
+      },
+      "artists": [
+        {
+          "name": "6363",
+          "url": "https://open.spotify.com/artist/6dglJzfnBc11OgGSZE0SVl"
+        },
+        {
+          "name": "Szendr\u0151i Csaba",
+          "url": "https://open.spotify.com/artist/1Ypf6VQhGTAUuM2PjdFgZr"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184336,
+      "name": "NEM \u00e9n",
+      "url": "https://open.spotify.com/track/248mnqHkVyoHRTSNAFg7U8"
     },
     {
       "album": {
@@ -8901,7 +8949,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 225000,
       "name": "Sajn\u00e1lom",
       "url": "https://open.spotify.com/track/1CyfvrQKRmkky5LzBemnPD"
@@ -9573,7 +9621,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -11619,7 +11667,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 150277,
       "name": "\u00c9get a nap",
       "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"

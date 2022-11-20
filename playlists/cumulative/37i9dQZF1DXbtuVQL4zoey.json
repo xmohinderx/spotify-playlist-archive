@@ -409,6 +409,24 @@
     {
       "album": {
         "name": "Aubade",
+        "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
+      },
+      "artists": [
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "album": {
+        "name": "Aubade",
         "url": "https://open.spotify.com/album/5EBzoQlRu3H8MG7GfDyDds"
       },
       "artists": [
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/4nmeBblw1rFVyFvnnbf1f7"
@@ -2323,6 +2341,24 @@
     {
       "album": {
         "name": "ela \u00e9",
+        "url": "https://open.spotify.com/album/3hcuSey4T7h2gttpBQulMx"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108007,
+      "name": "ela \u00e9",
+      "url": "https://open.spotify.com/track/4ZXEWcotHFwFrQU0FXtjzN"
+    },
+    {
+      "album": {
+        "name": "ela \u00e9",
         "url": "https://open.spotify.com/album/18ke2giSradV4W4KMNGFbR"
       },
       "artists": [
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 108007,
       "name": "ela \u00e9",
       "url": "https://open.spotify.com/track/51ZIGh9waxNZQgBDYCkpwz"
@@ -3029,10 +3065,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 106413,
       "name": "Hang Loose",
       "url": "https://open.spotify.com/track/3L6JCDBBjN9i0uyoUbfoFv"
+    },
+    {
+      "album": {
+        "name": "Hang Loose",
+        "url": "https://open.spotify.com/album/1CcxBh1CIQva8cRkFuHLAg"
+      },
+      "artists": [
+        {
+          "name": "evans",
+          "url": "https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106413,
+      "name": "Hang Loose",
+      "url": "https://open.spotify.com/track/5Wubj5d5MvvWRBg8Zt47BC"
     },
     {
       "album": {
@@ -3135,10 +3193,36 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 199542,
       "name": "Hectic As...",
       "url": "https://open.spotify.com/track/344yooLkCySLeDAluyw3aN"
+    },
+    {
+      "album": {
+        "name": "Follow the Earworm / Hectic As...",
+        "url": "https://open.spotify.com/album/4EeoiK98FMnvehd34IDU7l"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        },
+        {
+          "name": "Aver",
+          "url": "https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi"
+        },
+        {
+          "name": "Aquiles Navarro",
+          "url": "https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199542,
+      "name": "Hectic As...",
+      "url": "https://open.spotify.com/track/7qGiqZXmt6ksGNtm36cTfX"
     },
     {
       "album": {
@@ -3384,6 +3468,28 @@
     },
     {
       "album": {
+        "name": "viagem",
+        "url": "https://open.spotify.com/album/5WFqGjq8w4OVi4choXM9eB"
+      },
+      "artists": [
+        {
+          "name": "farewell",
+          "url": "https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc"
+        },
+        {
+          "name": "Kavv",
+          "url": "https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96442,
+      "name": "ipanema",
+      "url": "https://open.spotify.com/track/18u4WwiGLzWT8xpLmUAHN7"
+    },
+    {
+      "album": {
         "name": "ipanema",
         "url": "https://open.spotify.com/album/75rTzmAFiooFCq7bAPUQCU"
       },
@@ -3399,7 +3505,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 96442,
       "name": "ipanema",
       "url": "https://open.spotify.com/track/0nq0F9hwbBFbM50RpPBRNt"
@@ -3595,6 +3701,24 @@
     {
       "album": {
         "name": "june days",
+        "url": "https://open.spotify.com/album/5UmHY2dcBPDgMPQJR1z7vK"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157037,
+      "name": "june days",
+      "url": "https://open.spotify.com/track/0NhMR9KnMFwu0te2GSuW3Z"
+    },
+    {
+      "album": {
+        "name": "june days",
         "url": "https://open.spotify.com/album/0S2mSKFabFzrigKO3ZfHQq"
       },
       "artists": [
@@ -3605,7 +3729,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 157037,
       "name": "june days",
       "url": "https://open.spotify.com/track/18b74EaMaauIdzUy7GaU2X"
@@ -3649,6 +3773,24 @@
     {
       "album": {
         "name": "la donna e la chitarra",
+        "url": "https://open.spotify.com/album/7nYLq5Mq6zbO4Zuzdxy7Ka"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "la donna e la chitarra",
+      "url": "https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3"
+    },
+    {
+      "album": {
+        "name": "la donna e la chitarra",
         "url": "https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f"
       },
       "artists": [
@@ -3659,7 +3801,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb"
@@ -4253,10 +4395,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 153253,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3"
+    },
+    {
+      "album": {
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6cbj6Q87nePYNMCTvNRjCS"
     },
     {
       "album": {
@@ -4441,6 +4605,24 @@
     {
       "album": {
         "name": "Close Distance",
+        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149800,
+      "name": "Mount Rakko",
+      "url": "https://open.spotify.com/track/3gH6U0EQHbFrCNebvbnk8Y"
+    },
+    {
+      "album": {
+        "name": "Close Distance",
         "url": "https://open.spotify.com/album/4sOw1jxgB9hyOzGY9UJBg2"
       },
       "artists": [
@@ -4451,7 +4633,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 149800,
       "name": "Mount Rakko",
       "url": "https://open.spotify.com/track/6ogjgDHnzNUgtvH35sCtVj"
@@ -5121,10 +5303,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 115200,
       "name": "pinecone",
       "url": "https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt"
+    },
+    {
+      "album": {
+        "name": "anthology",
+        "url": "https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "pinecone",
+      "url": "https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn"
     },
     {
       "album": {
@@ -6459,10 +6659,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 150000,
       "name": "summer nights",
       "url": "https://open.spotify.com/track/0SrA2C6igcS4pFCiyMxHBd"
+    },
+    {
+      "album": {
+        "name": "summer nights",
+        "url": "https://open.spotify.com/album/7HxKInSfABFjg2VMdIL20B"
+      },
+      "artists": [
+        {
+          "name": "leicht.",
+          "url": "https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "summer nights",
+      "url": "https://open.spotify.com/track/1SXSmGCjT0Ldw2KyssUHOd"
     },
     {
       "album": {
@@ -7249,10 +7471,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 151000,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU"
+    },
+    {
+      "album": {
+        "name": "High Jazz",
+        "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg"
     },
     {
       "album": {
@@ -7455,10 +7695,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 252857,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/4eEQtXiSOPUJfaP3kA47yk"
+    },
+    {
+      "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/42R8dikH5xTKY4dUpqbAaW"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/67p1eyYdwqs3d9CVZdSlzC"
     },
     {
       "album": {
@@ -7531,10 +7789,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 138173,
       "name": "Vacation Days",
       "url": "https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F"
+    },
+    {
+      "album": {
+        "name": "Vacation Days",
+        "url": "https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu"
+      },
+      "artists": [
+        {
+          "name": "Strehlow",
+          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138173,
+      "name": "Vacation Days",
+      "url": "https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB"
     },
     {
       "album": {

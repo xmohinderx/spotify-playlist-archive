@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 73953,
+  "num_followers": 74122,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDJhMmE0ODk0ZjhiYzJmN2EyMmI1M2JhMzYyYTRhMWRl",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDhhNzdkNWZjY2U0ZmRlMWVhN2IwNGEzZTYwOTJiM2Qw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "The Box - Part 2",
-      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216440,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "The Box - Part 2",
+      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Spin Spin Sugar",
-        "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "Spin Spin Sugar - Armands Dark Garage Mix",
-      "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
         "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 228146,
       "name": "Beauty Never Fades (feat. Saffron)",
       "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Spin Spin Sugar",
+        "url": "https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "Spin Spin Sugar - Armands Dark Garage Mix",
+      "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
     },
     {
       "added_at": "2021-07-14 17:36:34",

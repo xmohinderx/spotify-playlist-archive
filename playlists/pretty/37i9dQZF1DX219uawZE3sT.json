@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 102936,
+  "num_followers": 103042,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMGNiZjExNDhkZmRlNGQ5Mzg0MjFiNmYwYmM0ODRlNjlk",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDViMTQ1YmNlYThkMjgyMjZmZTJiNTAxODg2OGEyNjYx",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -143,18 +143,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+      "duration_ms": 265584,
+      "name": "Vivo per lei",
+      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -175,22 +179,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Bocelli (Remastered)",
-        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 265584,
-      "name": "Vivo per lei",
-      "url": "https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R"
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Orgullo De Mujer",
         "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "La vida es... Amor sincero",
-        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 226433,
-      "name": "Amor sincero",
-      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 204533,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "La vida es... Amor sincero",
+        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "Amor sincero",
+      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Se Dice de Mi, Yo Soy Betty la Fea.",
-        "url": "https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x"
+        "name": "Jerem\u00edas",
+        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
       },
       "artists": [
         {
-          "name": "Yolanda Rayo",
-          "url": "https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU"
+          "name": "Jerem\u00edas",
+          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
         }
       ],
-      "duration_ms": 145005,
-      "name": "Se Dice de Mi (Yo Soy Betty la Fea) (Versi\u00f3n Completa)",
-      "url": "https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc"
+      "duration_ms": 263184,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Jerem\u00edas",
-        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
+        "name": "Se Dice de Mi, Yo Soy Betty la Fea.",
+        "url": "https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x"
       },
       "artists": [
         {
-          "name": "Jerem\u00edas",
-          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
+          "name": "Yolanda Rayo",
+          "url": "https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU"
         }
       ],
-      "duration_ms": 263184,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
+      "duration_ms": 145005,
+      "name": "Se Dice de Mi (Yo Soy Betty la Fea) (Versi\u00f3n Completa)",
+      "url": "https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc"
     },
     {
       "added_at": "2022-05-06 18:32:26",

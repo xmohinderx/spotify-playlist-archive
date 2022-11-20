@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > bk é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,498 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,526 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 5 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 |
 | 6 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 7 | [Míssil \- Remix](https://open.spotify.com/track/4ejh1U77Y5rXQ0eqeBWXxJ) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Míssil \(Remix\)](https://open.spotify.com/album/4XaUB8ygfoTC5IistVLvl2) | 2:29 |
-| 8 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 |
+| 8 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 |
 | 9 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
 | 10 | [The Cypher Deffect 3](https://open.spotify.com/track/24THjBgQ5pBt7aipk78ti3) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [The Cypher Deffect 3](https://open.spotify.com/album/5DC0L15aPkXJI9zEGoCdt3) | 4:36 |
 | 11 | [Atura o Baile \(The World Is Yours To Take\) \- Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/1QjVcycdvef8b4azmcEdfe) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Atura o Baile \(The World Is Yours To Take\) \[Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022\]](https://open.spotify.com/album/393QpUdoGU8jMCJgF4s99B) | 2:35 |

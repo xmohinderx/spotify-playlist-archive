@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-614 songs - 2 day 1 hr 50 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+615 songs - 2 day 1 hr 54 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Epoca](https://open.spotify.com/track/2BkAmulEiKR12DmygIv1Wq) | [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Jazz AG Trio](https://open.spotify.com/artist/6mSb04vn0JBQsguGh2K6VO), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [Epoca](https://open.spotify.com/album/6F31uhWGZkvk22lcnogA7u) | 3:25 | 2022-06-03 |  |
 | [Erased by Sunlight](https://open.spotify.com/track/0CksKWG4zxBoOQ5k41PMt9) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Erased by Sunlight](https://open.spotify.com/album/5aP3nv7XRcHeP8tgAoGuTz) | 4:35 | 2022-09-30 |  |
 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 | 2022-09-23 |  |
-| [Ersa](https://open.spotify.com/track/58uJDaRq9rbHONQWIeBOTr) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/7IAifMkFqPcZQCXlWVoZr8) | 3:47 | 2022-07-15 |  |
+| [Ersa](https://open.spotify.com/track/4twURyv1xrqjT9RILugLb3) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 3:47 | 2022-07-15 |  |
+| [Ersa](https://open.spotify.com/track/58uJDaRq9rbHONQWIeBOTr) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/7IAifMkFqPcZQCXlWVoZr8) | 3:47 | 2022-07-15 | 2022-11-20 |
 | [Euphoria Reprise](https://open.spotify.com/track/7zWP8Ark3QZFiV9lcQiOGH) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Euphoria Reprise](https://open.spotify.com/album/1GFpbxTMnZBYaxo94i5RdP) | 3:20 | 2022-09-30 |  |
 | [Everyday Life](https://open.spotify.com/track/2YiahKzwRhNZBuV9dOcnZJ) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [The Copenhagen Session \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/3dssb76aJrW8j3TeFjkhtK) | 5:51 | 2022-07-22 | 2022-08-13 |
 | [Evolution \(Tiny Room Sessions\)](https://open.spotify.com/track/1sMVoWZYE5nn86HnMdSHej) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Robert Sput Searight](https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [Evolution \(Tiny Room Sessions\)](https://open.spotify.com/album/1ALQl57rAZsEfYAO8T23Y9) | 2:34 | 2022-10-21 |  |

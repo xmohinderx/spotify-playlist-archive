@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-337 songs - 1 day 11 hr 14 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
+338 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [No Goodbyes](https://open.spotify.com/track/17n9Es1MILggRcGkdFBldv) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Short Eyes / Do It All Night](https://open.spotify.com/album/09zsIKz1YLJK2DovF9FoTU) | 7:43 | 2018-02-27 | 2022-07-29 |
 | [Not Tonight \- Remix](https://open.spotify.com/track/07agkC4iApJmezuADTyMn2) | [Macho](https://open.spotify.com/artist/0UJ06Hqiumva8BYmUx6Tsh) | [Roll \(Original Album\)](https://open.spotify.com/album/6SJMPjoAcMPoCmWU8qQllM) | 6:32 | 2018-02-27 |  |
 | [Not Tonight \- Remix](https://open.spotify.com/track/1tIPhYZCOpf6c9BAT4lswq) | [Macho](https://open.spotify.com/artist/0UJ06Hqiumva8BYmUx6Tsh) | [Extended Version & Remix, Vol\. 1 \- the Sound of Italo Disco](https://open.spotify.com/album/6z10JIKlB4LcWYgaglnxzN) | 6:32 | 2018-02-27 | 2022-07-29 |
-| [Notice Me \- Notice The House Mix](https://open.spotify.com/track/2ZQpUMzRcphvtJe9Ps8IIG) | [Sandee](https://open.spotify.com/artist/2bJ5SZdPOpF4knh9RoHHbe), [Notice The House](https://open.spotify.com/artist/5xx6qqIibONdFz1RfapJdG) | [Elaste Volume 4 \- compiled by Dompteur Mooner](https://open.spotify.com/album/0BPe2q1n4EfYAj0a0D0Y1k) | 8:28 | 2018-02-27 |  |
+| [Notice Me \- Notice the House Mix](https://open.spotify.com/track/61WiXm5hvJmMptsWHld6jS) | [Sandee](https://open.spotify.com/artist/2bJ5SZdPOpF4knh9RoHHbe) | [Notice Me](https://open.spotify.com/album/0GllNXYm8mU7b4lqcZUCfs) | 8:29 | 2018-02-27 |  |
+| [Notice Me \- Notice The House Mix](https://open.spotify.com/track/2ZQpUMzRcphvtJe9Ps8IIG) | [Sandee](https://open.spotify.com/artist/2bJ5SZdPOpF4knh9RoHHbe), [Notice The House](https://open.spotify.com/artist/5xx6qqIibONdFz1RfapJdG) | [Elaste Volume 4 \- compiled by Dompteur Mooner](https://open.spotify.com/album/0BPe2q1n4EfYAj0a0D0Y1k) | 8:28 | 2018-02-27 | 2022-11-20 |
 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 | 2018-02-27 |  |
 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/65de2hz8LrseOu4fOy7XTj) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3ZVWZXwxk6n8gbfnEk4Unq) | 8:15 | 2018-02-27 | 2022-07-29 |
 | [Numbers \- 2009 Remaster](https://open.spotify.com/track/7l6zV8bdJs6LtYMdjAn2BJ) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/07BPkQfT4B5xjDwjCxRiN2) | 3:20 | 2018-02-27 |  |

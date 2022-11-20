@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-296 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+298 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Atlas](https://open.spotify.com/track/2dchj0QDG7tN9m1xiTT37P) | [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Atlas \- EP](https://open.spotify.com/album/62g4mnCVGJluylXfG1TyBH) | 2:55 | 2022-04-12 | 2022-07-29 |
 | [Atlas](https://open.spotify.com/track/6opdRCnm4F5OZ5FuK4kAkm) | [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Atlas \- EP](https://open.spotify.com/album/3M3l5b7TXIJ9WBOncrI1vn) | 2:55 | 2022-04-12 |  |
 | [Aura](https://open.spotify.com/track/56TPwVBv9GY1YmrRQioDMz) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Aura](https://open.spotify.com/album/2dBroQ7HmAmQM58zcxLGtG) | 1:47 | 2022-04-12 |  |
-| [Azure](https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/3dunJ0uhRdQJNqKWdqAeqe) | 6:04 | 2022-04-12 |  |
+| [Azure](https://open.spotify.com/track/17bj0Y5P4YUZzAheOxxJUg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 6:04 | 2022-11-11 |  |
+| [Azure](https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/3dunJ0uhRdQJNqKWdqAeqe) | 6:04 | 2022-04-12 | 2022-11-20 |
 | [Be Real](https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X), [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [Be Real](https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz) | 3:46 | 2022-04-12 |  |
 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 | 2022-04-12 |  |
 | [Beauty Mark \- Radio Edit](https://open.spotify.com/track/6efkfZUIR9pEurdE9RdT7E) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Beauty Mark \(Radio Edit\)](https://open.spotify.com/album/2JNNtdH9Yd2MvsTAWRpmMw) | 3:07 | 2022-04-12 |  |
@@ -52,7 +53,8 @@
 | [Bittersweetener](https://open.spotify.com/track/1ErzC5Cace2XjJzbkDluK7) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Bittersweetener](https://open.spotify.com/album/6ahXPZy74PVc8KonlJSSny) | 4:21 | 2022-04-12 |  |
 | [Blue Book](https://open.spotify.com/track/6bwj5YpF2nZoqv5wwAFnNl) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Blue Book](https://open.spotify.com/album/0UvYFhOfXAsATPM2foXN9D) | 2:27 | 2022-04-12 |  |
 | [Blue Essay](https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy) | [Paralax](https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T) | [Blue Essay](https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk) | 4:56 | 2022-04-12 |  |
-| [Body Language \- Interpretation](https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX) | 5:00 | 2022-04-12 |  |
+| [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 | 2022-11-11 |  |
+| [Body Language \- Interpretation](https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX) | 5:00 | 2022-04-12 | 2022-11-20 |
 | [Body Language \- Interpretation](https://open.spotify.com/track/6syBFNheQcC5HYt4sh6gkC) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:00 | 2022-04-12 | 2022-07-29 |
 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 | 2022-04-12 |  |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2022-04-12 |  |

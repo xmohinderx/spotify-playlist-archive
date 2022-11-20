@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063,525 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,406 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 54 | [Electric Acid](https://open.spotify.com/track/10OXHKcZZA1KBWbPYB1x90) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Electric Acid](https://open.spotify.com/album/470I5Tw4LgAe5ah3kUQBSq) | 5:43 |
 | 55 | [Pulse \- Marie Vaunt Remix](https://open.spotify.com/track/0rUd34miBQcQTzevrULn3G) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Pulse](https://open.spotify.com/album/2POEND23KcLg9y4zzPSSuO) | 6:00 |
 | 56 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
-| 57 | [Subconscious Reset](https://open.spotify.com/track/2QQdfhookRmHNa4BSX6xPb) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Subconscious Reset](https://open.spotify.com/album/06hak41yJv9og1C7sKUTrM) | 7:05 |
+| 57 | [Subconscious Reset](https://open.spotify.com/track/3mlkpFLHRHmVUho7xJcKit) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Subconscious Reset](https://open.spotify.com/album/403sFbl2LmE5bY75KjQlfk) | 7:05 |
 | 58 | [False Love](https://open.spotify.com/track/5VOlgrZaSeoGPAZxOjmHiO) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [False Love](https://open.spotify.com/album/1s02WyF3oGtWQtlZtsfbLW) | 4:20 |
 | 59 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 |
 | 60 | [Gilgamesh](https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Fabio Neural](https://open.spotify.com/artist/18gG21ZrYo2Iq6jeobmdRj) | [Gilgamesh](https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol) | 4:44 |
 
-Snapshot ID: `MTY2ODE3NjE4NiwwMDAwMDAwMGU0YTNiOWU0ZjVlNjRmM2Y4ZTJmNGU2Zjk1NGQ2NzRj`
+Snapshot ID: `MTY2ODE3NjE4NiwwMDAwMDAwMDNmNDI1MjRlNGZhOTI1MzJmNGQ1YjQ2ZDVkYmQ0YjA4`

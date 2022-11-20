@@ -1255,6 +1255,24 @@
     {
       "album": {
         "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/6b4JDJwn3L8Rl5Twn2HvDt"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194050,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/0FvwJ7rSDxAoC8tiT8Bp1H"
+    },
+    {
+      "album": {
+        "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
       },
       "artists": [
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 194050,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt"
@@ -1375,10 +1393,32 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 143903,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3GAYdG396XiE4QAq3Osn3x"
+    },
+    {
+      "album": {
+        "name": "Chino",
+        "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
+      },
+      "artists": [
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143903,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB"
     },
     {
       "album": {
@@ -2594,6 +2634,32 @@
     },
     {
       "album": {
+        "name": "Eat The Kiwi Skin (Deluxe)",
+        "url": "https://open.spotify.com/album/0NeJsVaFjpCIzlPUBemwlz"
+      },
+      "artists": [
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Mercy's Cartel",
+          "url": "https://open.spotify.com/artist/40zUW1LtekgXK3fjG6jHJv"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "For Those Who Love...",
+      "url": "https://open.spotify.com/track/04AWkmh3iDAXOHLcBtXEgL"
+    },
+    {
+      "album": {
         "name": "Eat The Kiwi Skin",
         "url": "https://open.spotify.com/album/6jM0K3vCvXWLeq5pr9G9Lb"
       },
@@ -2613,7 +2679,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 186573,
       "name": "For Those Who Love...",
       "url": "https://open.spotify.com/track/0SQ2FfWwOLAZQ6nyZJvJMm"
@@ -2917,10 +2983,32 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 181133,
       "name": "Goodmorning",
       "url": "https://open.spotify.com/track/1rzkzVVzCcFBNMoeVVmAdq"
+    },
+    {
+      "album": {
+        "name": "Goodmorning",
+        "url": "https://open.spotify.com/album/4h9jXrBK8QNnbIpARQJZzi"
+      },
+      "artists": [
+        {
+          "name": "Baro Sura",
+          "url": "https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV"
+        },
+        {
+          "name": "Silentjay",
+          "url": "https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Goodmorning",
+      "url": "https://open.spotify.com/track/4p7X0UhdnqQNYv0JAlW3Vj"
     },
     {
       "album": {
@@ -4285,6 +4373,28 @@
     {
       "album": {
         "name": "Most Days",
+        "url": "https://open.spotify.com/album/2VlCkpQtWviTjCw9ulguCB"
+      },
+      "artists": [
+        {
+          "name": "Syf of Talking Knots",
+          "url": "https://open.spotify.com/artist/1SfICWafk2B0pEobXALC00"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Most Days",
+      "url": "https://open.spotify.com/track/2S5nBg0LC70vm8ODpxUY7e"
+    },
+    {
+      "album": {
+        "name": "Most Days",
         "url": "https://open.spotify.com/album/2punKtWEurmWV58F6MiqcT"
       },
       "artists": [
@@ -4299,7 +4409,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 149333,
       "name": "Most Days",
       "url": "https://open.spotify.com/track/2dZGh2ErH1lUytxHO7xX1J"
@@ -4541,10 +4651,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 179253,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/22EVXdUTZEN5N9AFHoSYPb"
+    },
+    {
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/4b6j2CHE5kT8WDLUa6ZStt"
+      },
+      "artists": [
+        {
+          "name": "Kieron Boothe",
+          "url": "https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3ePOS6PeCV88LL41odKhza"
     },
     {
       "album": {
@@ -4921,6 +5049,24 @@
     {
       "album": {
         "name": "Phone Down",
+        "url": "https://open.spotify.com/album/4UTWE6Wn4FCBiLBVd1zHRh"
+      },
+      "artists": [
+        {
+          "name": "Kieron Boothe",
+          "url": "https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146453,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/5NCOiJqQlgm15lrZL8SgQI"
+    },
+    {
+      "album": {
+        "name": "Phone Down",
         "url": "https://open.spotify.com/album/36PU3Hwka2nAFKOGS67dB7"
       },
       "artists": [
@@ -4931,7 +5077,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 146453,
       "name": "Phone Down",
       "url": "https://open.spotify.com/track/6ehAlOWWmk9IFn7Fy7y3c3"

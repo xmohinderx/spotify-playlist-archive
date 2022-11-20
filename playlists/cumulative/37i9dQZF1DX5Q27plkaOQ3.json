@@ -2481,7 +2481,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
@@ -5042,6 +5042,24 @@
     },
     {
       "album": {
+        "name": "Technicolour Psychic Vision",
+        "url": "https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Technicolour Psychic Vision",
+      "url": "https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE"
+    },
+    {
+      "album": {
         "name": "Slime Time, Pt. 3",
         "url": "https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr"
       },
@@ -5057,6 +5075,32 @@
       "duration_ms": 178993,
       "name": "Tekno",
       "url": "https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ"
+    },
+    {
+      "album": {
+        "name": "The Blood (VIP)",
+        "url": "https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Shadow Cliq",
+          "url": "https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "The Blood (VIP)",
+      "url": "https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv"
     },
     {
       "album": {
@@ -5595,7 +5639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 233142,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl"

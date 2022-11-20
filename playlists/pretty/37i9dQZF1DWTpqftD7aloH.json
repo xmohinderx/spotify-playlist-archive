@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 207030,
+  "num_followers": 207146,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NzUyNywwMDAwMDAwMDg0ZDhhY2I3NWM5ZmE2MmNhYjE3ZTc2NTFiODQ4ZjFi",
+  "snapshot_id": "MTY2NzU3NzUyNywwMDAwMDAwMDhiNzVmM2JjZmU2NzQ3YTgyYzhmOWFhMjU2OGFlZGZh",
   "tracks": [
     {
       "added_at": "2022-11-04 15:58:47",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "T\u00e1 Chorando Por Qu\u00ea?",
+        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Lu\u00e3 Freitas",
+          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "T\u00e1 Chorando Por Qu\u00ea?",
+      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 296400,
       "name": "Goodness of God - Live",
       "url": "https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "T\u00e1 Chorando Por Qu\u00ea?",
-        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Lu\u00e3 Freitas",
-          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "T\u00e1 Chorando Por Qu\u00ea?",
-      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 293593,
       "name": "N\u00e3o Pare",
       "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 299365,
       "name": "King of My Heart - Live",
       "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 261178,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Casa De Deus",
+        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Me Ajude A Melhorar",
+      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Casa De Deus",
-        "url": "https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Me Ajude A Melhorar",
-      "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Que Amor \u00c9 Esse",
-        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 420977,
-      "name": "Que Amor \u00c9 Esse",
-      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 287826,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Que Amor \u00c9 Esse",
+        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 420977,
+      "name": "Que Amor \u00c9 Esse",
+      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 298520,
       "name": "Glorious Day - Live",
       "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1547,6 +1547,38 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
+      },
+      "artists": [
+        {
+          "name": "Israel Subira",
+          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
+        }
+      ],
+      "duration_ms": 465885,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "TOGETHER",
         "url": "https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z"
       },
@@ -1571,38 +1603,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Me Leva Pra Casa",
-        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
-      },
-      "artists": [
-        {
-          "name": "Israel Subira",
-          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
-        }
-      ],
-      "duration_ms": 465885,
-      "name": "Me Leva Pra Casa",
-      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
       },
@@ -1615,42 +1615,6 @@
       "duration_ms": 260481,
       "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
       "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Saudade, Vol. 2",
-        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 241881,
-      "name": "Escolho Deus",
-      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1671,6 +1635,42 @@
       "duration_ms": 231637,
       "name": "Minha Vez",
       "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Saudade, Vol. 2",
+        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 241881,
+      "name": "Escolho Deus",
+      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "No Other Name (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 568786,
+      "name": "Broken Vessels (Amazing Grace) - Live",
+      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Sua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 314154,
-      "name": "Sua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -1763,22 +1747,34 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Fornalha Laura Souguellis",
-        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
+        "name": "Sua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4"
       },
       "artists": [
         {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        },
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 735253,
-      "name": "Em Teus Bra\u00e7os",
-      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+      "duration_ms": 314154,
+      "name": "Sua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

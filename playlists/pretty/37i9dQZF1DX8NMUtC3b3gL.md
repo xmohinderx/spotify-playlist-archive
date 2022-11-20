@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,827 likes - 173 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,854 likes - 173 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 13 | [Vivid Awake](https://open.spotify.com/track/1b1hS6FnAx5rJE0i17S187) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Vivid Awake](https://open.spotify.com/album/5HFaR1pvKXlUsgJP6V9xTn) | 2:17 |
 | 14 | [study in lo\-fi hillshade](https://open.spotify.com/track/31QCr2Pvsq23hglCoKfVy2) | [Kathyline](https://open.spotify.com/artist/2gbD0B3Nzgzy0OQJwq3YBd) | [study in lo\-fi hillshade](https://open.spotify.com/album/2qGDXaVwBIer64qvkbIWRu) | 2:17 |
 | 15 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 |
-| 16 | [Nice To Meet U](https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/5FXjwQMfXqgHOqmsTghIaC) | 2:07 |
+| 16 | [Nice To Meet U](https://open.spotify.com/track/1Pb35g6g0mTuT2FIMSqHwa) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [dave.wav](https://open.spotify.com/artist/4ZJQECwTUYezRbVJkzjis2) | [Nice To Meet U](https://open.spotify.com/album/6pzwzsHqn2aUf2JP1IdnWr) | 2:07 |
 | 17 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 |
 | 18 | [Colora](https://open.spotify.com/track/6cbqqfG9sIGOkUNFpEdV9I) | [Ellyaz](https://open.spotify.com/artist/26l6f5xmFB8UjSd9ngQtuY) | [Colora](https://open.spotify.com/album/5uNNfZZDqFxFGdoATsnIQK) | 1:57 |
 | 19 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 42 | [Iced Tea](https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Iced Tea](https://open.spotify.com/album/1zFOiKmCbekeOWT0n7aNTq) | 1:57 |
 | 43 | [Anywhere](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 |
 | 44 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 |
-| 45 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 |
+| 45 | [Limitless Romance](https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/6M1TTWauVFCg2mIvPDmvXf) | 2:25 |
 | 46 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 |
 | 47 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
 | 48 | [Mr Lightfoot](https://open.spotify.com/track/2ZLLtVcPYlM9PE2IE96JFf) | [Riverside Park](https://open.spotify.com/artist/5GlkBEHK6cAVD23p4YE2gP) | [Let's Take a Walk](https://open.spotify.com/album/6Rm1HkijkfXiBAJdnkGqR6) | 2:43 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 64 | [Colorful](https://open.spotify.com/track/064O5hulEViH0urpgjhnLX) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Colorful](https://open.spotify.com/album/0uBYnriLlS5UKUCwHXwu1W) | 1:42 |
 | 65 | [Chill Balcony](https://open.spotify.com/track/03PhAyp5FFUPMb68QCrAst) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT) | [Chill Balcony](https://open.spotify.com/album/1d2AZ7N81CHVJRx5haZ9Cd) | 2:24 |
 | 66 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 |
-| 67 | [Vacation Days](https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/5mxnF5fVvpvWlK4TYW8Dh9) | 2:18 |
+| 67 | [Vacation Days](https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu) | 2:18 |
 | 68 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 |
 | 69 | [Peach](https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Peach](https://open.spotify.com/album/4NosSndHdk6qgy0OAs9Fay) | 2:03 |
 | 70 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 107 | [Feels Like Tomorrow](https://open.spotify.com/track/63dG83UMhVKzOOGaxeivf7) | [Ten Tin Trumpets](https://open.spotify.com/artist/1uPhaXGb4PrQKmNnKXm0GI) | [Feels Like Tomorrow](https://open.spotify.com/album/4GUG96DUeqyWLiVd7o7pxb) | 3:15 |
 | 108 | [My Beautiful Romance](https://open.spotify.com/track/7a1tUh4gSqiMy1pLTCb4kj) | [The Spelling Tree](https://open.spotify.com/artist/1OhiNy3jv8JcBwZ04AHY1W) | [Mythologies of Yarn](https://open.spotify.com/album/1qeE6gJE8Bf5C5emPVXast) | 2:39 |
 | 109 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 |
-| 110 | [ipanema](https://open.spotify.com/track/0nq0F9hwbBFbM50RpPBRNt) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [ipanema](https://open.spotify.com/album/75rTzmAFiooFCq7bAPUQCU) | 1:36 |
+| 110 | [ipanema](https://open.spotify.com/track/18u4WwiGLzWT8xpLmUAHN7) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc), [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [viagem](https://open.spotify.com/album/5WFqGjq8w4OVi4choXM9eB) | 1:36 |
 | 111 | [\_ f e e l s](https://open.spotify.com/track/5pVfZNtDtJeXMLn7uWCWut) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [\_ f e e l s](https://open.spotify.com/album/1eCTC0NcCZRvRTpIHoOEul) | 2:09 |
 | 112 | [The way we were](https://open.spotify.com/track/4ckBQMfbF0MzwP2XWboKvv) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [The way we were](https://open.spotify.com/album/3mqvM8J1gyzZvUwZtKiYEL) | 2:21 |
 | 113 | [Flying Lofi Bugs](https://open.spotify.com/track/4cGt0bobV5aGn3d55XMPKv) | [ikioma](https://open.spotify.com/artist/2rThuiJzp3Df9CyvquCEYd) | [Flying Lofi Bugs](https://open.spotify.com/album/5Fc5UIAHLFfCdkdd8HhLo2) | 1:39 |
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 143 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 |
 | 144 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 | 145 | [Clean Choices](https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Clean Choices](https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu) | 3:07 |
-| 146 | [Insomnio](https://open.spotify.com/track/0kT7Lmm1QRFZBQFrT3OIuw) | [IKAAL](https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR) | [Insomnio](https://open.spotify.com/album/4MBU05msVwXye21vYb8OHZ) | 1:46 |
+| 146 | [Insomnio](https://open.spotify.com/track/12tUHVcbU2YozMDrW6gTWF) | [IKAAL](https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR) | [Insomnio](https://open.spotify.com/album/1AcYcKALWGadvyrBjxXE8x) | 1:46 |
 | 147 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 |
 | 148 | [Feelin' like a Bird](https://open.spotify.com/track/1eSeuj09F8pjnOiyHJgmkP) | [Tatorita Sax](https://open.spotify.com/artist/35LbEUbPm0DUwcnwGyIpEz) | [Feelin' like a Bird](https://open.spotify.com/album/2CknlfaLh3N4NFJeUkT99C) | 2:30 |
 | 149 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 172 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 173 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY2ODE2NzcwOSwwMDAwMDAwMDU1OTcwZmIyYWUwYWUxMzkxYzg2OTBmMGY2Y2Q0OTk4`
+Snapshot ID: `MTY2ODE2NzcwOSwwMDAwMDAwMGZlNzUxYjA1YjQ0MTdlMTVkYWIyZTgzZGNhMDMwN2I3`

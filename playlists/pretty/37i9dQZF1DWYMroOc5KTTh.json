@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 364582,
+  "num_followers": 364576,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYwODkxMSwwMDAwMDAwMGFmMDliYzVkMTM3ZjFmOWE5OWZmOGM5YWZhNWNhZjhk",
+  "snapshot_id": "MTY2ODYwODkxMSwwMDAwMDAwMDVhMmQ2ZTI3MTExNjJkZmViMWMxMDYyZDliZjU3ZThi",
   "tracks": [
     {
       "added_at": "2022-09-05 09:11:31",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
     },
     {
-      "added_at": "2022-11-19 01:16:52",
+      "added_at": "2022-11-20 01:18:25",
       "album": {
         "name": "Different Kinds of People",
         "url": "https://open.spotify.com/album/2vpi1QyC7RVqetk2sXYEb5"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
-      "added_at": "2022-11-19 01:16:52",
+      "added_at": "2022-11-20 01:18:25",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4fGsqupoBci4jYcuL59geK"
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
         "name": "GLY",
         "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+        "name": "Don't You Like It?",
+        "url": "https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+      "duration_ms": 226043,
+      "name": "Don't You Like It?",
+      "url": "https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4"
     }
   ],
   "unique_name": "Serotonin",

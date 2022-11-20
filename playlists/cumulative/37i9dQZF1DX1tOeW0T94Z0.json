@@ -1083,6 +1083,24 @@
     {
       "album": {
         "name": "Down Ta Erf",
+        "url": "https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY"
+      },
+      "artists": [
+        {
+          "name": "Down Ta Erf",
+          "url": "https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228674,
+      "name": "Learn to Earn",
+      "url": "https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG"
+    },
+    {
+      "album": {
+        "name": "Down Ta Erf",
         "url": "https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg"
       },
       "artists": [
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 228674,
       "name": "Learn to Earn",
       "url": "https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4"

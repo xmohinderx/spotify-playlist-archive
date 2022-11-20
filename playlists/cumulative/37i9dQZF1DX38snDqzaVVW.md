@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-138 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+139 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Anar](https://open.spotify.com/track/5Pyb7N1zmY7ITJPMwf0LXm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/2enCM7zDeNC4AYSH2choVh) | 6:36 | 2021-10-21 | 2022-04-01 |
 | [Anou Malane](https://open.spotify.com/track/5ZGZMUwUqgyKwqi8Hsf59Q) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/65jwU55tBTrTj5zjOUUJW7) | 5:00 | 2022-10-06 |  |
 | [Anou Malane](https://open.spotify.com/track/6tx4QhVEpisR6svzUzetNw) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/7IhHxTiSqgD7JcdMV8mINF) | 5:00 | 2021-10-21 | 2022-04-01 |
-| [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 | 2021-10-21 |  |
+| [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 | 2021-10-21 | 2022-11-20 |
+| [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 | 2022-10-06 |  |
 | [Ashraf Al Araab](https://open.spotify.com/track/67i5XcT7Ry0Y7wzRegExsh) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Ashraf Al Araab](https://open.spotify.com/album/3AKgdSxdOAUuDU3nmqKX6H) | 3:06 | 2021-10-21 |  |
 | [Asma Allah Alhusna](https://open.spotify.com/track/1xeVOxW6uqxDmzoYxYHmzz) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Asma Allah Alhusna](https://open.spotify.com/album/1u81w9GG6XkzFELEskkUkb) | 4:25 | 2022-03-31 | 2022-04-18 |
 | [Asma Allah Alhusna \(The 99 Names of Allah\)](https://open.spotify.com/track/04aow213ey5cfqkLgo6yYe) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Asma Allah Alhusna \(The 99 Names of Allah\)](https://open.spotify.com/album/3DDfBuIuSQuq3uOaWU9Tf1) | 2:44 | 2022-03-31 | 2022-04-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,887 likes - 76 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,897 likes - 76 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 20 | [This Is Hot \(Yes Indeedy\) \- Original Mix](https://open.spotify.com/track/7d1kfcrdz92icwzknr9Owi) | [Geoffrey C](https://open.spotify.com/artist/2DBZbTSJYWmrqf3VnepypB) | [This Is Hot \(Yes Indeedy\)](https://open.spotify.com/album/1DL3YpDtk0AwprDN1k7guF) | 6:42 |
 | 21 | [Take Flight](https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb) | [Take Flight EP](https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR) | 4:07 |
 | 22 | [Remember Me](https://open.spotify.com/track/6AeIkKjjxLWBCkQ301VZ1R) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Remember Me](https://open.spotify.com/album/5hgEy3cCnVxuGVEX4XqKp8) | 3:01 |
-| 23 | [Cruel Summer \- Musumeci Wax Off Remix](https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p) | 4:49 |
+| 23 | [Cruel Summer \- Musumeci Wax off Remix](https://open.spotify.com/track/15PJHoA91oxrgYkwVa3TVZ) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5q34nsGcAr0ElZVbq9wgMP) | 4:49 |
 | 24 | [Same Like Dope But Different](https://open.spotify.com/track/0GIPq4zQJPTlycINrUR0ST) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Same Like Dope But Different](https://open.spotify.com/album/6hWNRK4gZ1XuApm1XlPUsz) | 4:41 |
 | 25 | [Work \- Original Mix](https://open.spotify.com/track/4YmERu15RPaCWUAEBWtpBA) | [Nhan Solo](https://open.spotify.com/artist/1UhosJtmQlT9oJi38Zd2SU), [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Work](https://open.spotify.com/album/5twrWSneyeEXOLYmiFeR8N) | 5:57 |
 | 26 | [Drum Beat](https://open.spotify.com/track/3LJLtbvrfYUpFficL0gl5V) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Drum Beat](https://open.spotify.com/album/7fhdFXT7VAblxxOOeukdTX) | 5:16 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 75 | [Café Del Mar \- Dale Middleton Remix](https://open.spotify.com/track/5ibF56Z88lGgLdZOKqCl8l) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Dale Middleton](https://open.spotify.com/artist/79URDVHEKInTBIZwJOECn6) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 9:08 |
 | 76 | [Is Killing Me \- Origianl Mix](https://open.spotify.com/track/7yov6F8T2Lnr9PH42Q1geT) | [Nick & Danny Chatelain](https://open.spotify.com/artist/15MRGeJadRRoZSZZg1Me3V) | [Is Killing Me](https://open.spotify.com/album/0QxxjYQfxMZPSVxV5YAj79) | 9:25 |
 
-Snapshot ID: `MTY2NzgwMzY0NywwMDAwMDAwMGM2MWE3MmU3MzVjMGQxM2Y4ODE2NDU1ZjFjMmJjYjBi`
+Snapshot ID: `MTY2NzgwMzY0NywwMDAwMDAwMGE5NzhlM2NmZjA4ZTc0ZGNmNGU0NmNhYTM4NTE5MmQ5`

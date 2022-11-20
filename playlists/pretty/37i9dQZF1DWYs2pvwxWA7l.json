@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=fsDz-2fGR3-ZW6Yt7ww_Vw\"> WizKid </a>  ",
-  "num_followers": 377547,
+  "num_followers": 377599,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2OTk4MiwwMDAwMDAwMGVhZThmNDg3MDE2ZTUxMDczM2VkYWRlNmRiZTcxYzdj",
+  "snapshot_id": "MTY2ODc2OTk4MiwwMDAwMDAwMDRkMjljMWExZDI4YWJhZWJkNmMzOTQwNjViYzViNjlj",
   "tracks": [
     {
       "added_at": "2022-11-10 21:59:00",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-11-19 01:18:18",
+      "added_at": "2022-11-20 01:20:15",
       "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
@@ -113,9 +113,9 @@
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-11-19 01:18:18",
+      "added_at": "2022-11-20 01:20:15",
       "album": {
-        "name": "MAITAMA",
+        "name": "Maitama (Going)",
         "url": "https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5"
       },
       "artists": [
@@ -137,7 +137,7 @@
         }
       ],
       "duration_ms": 206315,
-      "name": "MAITAMA",
+      "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR"
     },
     {
-      "added_at": "2022-11-19 01:18:18",
+      "added_at": "2022-11-20 01:20:15",
       "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/7nSoq7EvSWqK3ckNvLd7x6"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
     },
     {
-      "added_at": "2022-11-19 01:18:18",
+      "added_at": "2022-11-20 01:20:15",
       "album": {
         "name": "WO WO",
         "url": "https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
-      "added_at": "2022-11-19 01:18:18",
+      "added_at": "2022-11-20 01:20:15",
       "album": {
         "name": "Medicine feat. Maleek Berry and LADIPOE",
         "url": "https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I"
@@ -1117,26 +1117,6 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "First Of All",
-        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 169848,
-      "name": "Melody (feat. Jaywillz)",
-      "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
-    },
-    {
       "added_at": "2022-10-28 12:26:24",
       "album": {
         "name": "Young Preacher",
@@ -1159,6 +1139,26 @@
       "duration_ms": 186433,
       "name": "WHISTLE (feat. Lojay & Amaarae)",
       "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "First Of All",
+        "url": "https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 169848,
+      "name": "Melody (feat. Jaywillz)",
+      "url": "https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI"
     },
     {
       "added_at": "2022-06-30 23:00:00",

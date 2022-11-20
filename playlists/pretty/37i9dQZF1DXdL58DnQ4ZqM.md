@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,650 likes - 161 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,655 likes - 161 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 142 | [Rise Main](https://open.spotify.com/track/5Gl2aJcCd3nk0DIkUpnciv) | [Flight Club](https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D) | [Flight \(Vol 1\)](https://open.spotify.com/album/3kyQUVb5Ccv2XprZ0Mecby) | 3:50 |
 | 143 | [Emotional World](https://open.spotify.com/track/0uBMHOfaQb6a2coQSfVRjy) | [Flight Club](https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D) | [Flight \(Vol 1\)](https://open.spotify.com/album/3kyQUVb5Ccv2XprZ0Mecby) | 3:18 |
 | 144 | [Fluffy Cloudy Day \- Lounge Mix](https://open.spotify.com/track/4HFkyKcV3EbWQ3obyo4koX) | [Sandra Kiim](https://open.spotify.com/artist/5QYlzH1gCKkSYWQS7IoCnP) | [Fluffy Cloud Day](https://open.spotify.com/album/1OrtgcOb8RrYtvZuXJ8EFB) | 3:26 |
-| 145 | [All Day](https://open.spotify.com/track/6LybVOJz7dRCCp8l2TAVPS) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/7kCqbzZdyNMcW9lU0DTgOk) | 2:34 |
+| 145 | [All Day](https://open.spotify.com/track/5mt7AgllaeU2QsTryyF2PD) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/6tF4ZqngvFfYLyIxRDiy7g) | 2:34 |
 | 146 | [smoke & sleep](https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [smoke & sleep](https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs) | 2:12 |
 | 147 | [I Miss You](https://open.spotify.com/track/2N3aCT1wWGKCYFl7I8n5Ce) | [Pablo Monte](https://open.spotify.com/artist/7u5A0iJezviwan3g2BNQf8) | [I Miss You](https://open.spotify.com/album/23enZT2YrVZzTKi6GRsubx) | 3:56 |
 | 148 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 160 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 |
 | 161 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 |
 
-Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDYxOTUyMWE4YmYyZmVjYjhhMDcwYjFhMGVhMWRhMjA4`
+Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDdjYjdiYjMzN2EyMjA5YjNmZTAzM2QwYmQyNGZiNTE0`

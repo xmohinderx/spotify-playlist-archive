@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-281 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+282 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Love You Good](https://open.spotify.com/track/58WmdSCHCnmlcR89SEoJ3K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:53 | 2022-02-04 |  |
 | [Ma Bae Be Luv](https://open.spotify.com/track/64NBfAlTthuPmo5caH7EdS) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Ma Bae Be Luv](https://open.spotify.com/album/2vEM9KFW0EcLF8GZX8oRDs) | 6:30 | 2022-02-04 | 2022-10-28 |
 | [Magazine](https://open.spotify.com/track/578NvCZRgau20X5HuqtgdD) | [Epic B](https://open.spotify.com/artist/6xY8OHC6hKe0hCheJvIUNz), [Kiyano](https://open.spotify.com/artist/099kEURoKzOaHd7RsaS1rY) | [Magazine Riddim](https://open.spotify.com/album/7rNI8kP9pnLFvg23FSBNRu) | 2:21 | 2022-07-18 |  |
-| [Manhood](https://open.spotify.com/track/7K1N8OWjAjDGEpWcXaAtVW) | [Vikter Duplaix](https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF) | [Breaking the Beats \- Compiled By Dave Lee & Will Fox](https://open.spotify.com/album/43CqHgBdcQCF0xzCF40oPx) | 5:48 | 2022-02-04 |  |
+| [Manhood](https://open.spotify.com/track/1YAeW0ad8DlonDBrDEsRK6) | [Vikter Duplaix](https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF) | [Breaking the Beats \- Compiled By Dave Lee & Will Fox](https://open.spotify.com/album/1pPQQqt5561BfcwvrcAtGT) | 5:48 | 2022-02-04 |  |
+| [Manhood](https://open.spotify.com/track/7K1N8OWjAjDGEpWcXaAtVW) | [Vikter Duplaix](https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF) | [Breaking the Beats \- Compiled By Dave Lee & Will Fox](https://open.spotify.com/album/43CqHgBdcQCF0xzCF40oPx) | 5:48 | 2022-02-04 | 2022-11-20 |
 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-10-27 |  |
 | [Meadows in Japan](https://open.spotify.com/track/0ksuu1T1H6ce6md796lU0i) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/0REInqUEj53H3tJjx1ku4Q) | 2:48 | 2022-10-27 |  |
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-18 |  |

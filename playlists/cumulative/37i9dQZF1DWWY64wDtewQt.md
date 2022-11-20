@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-357 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+358 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [BLADE CHOICE](https://open.spotify.com/track/48hJrG5HKu5HoN0THsUs7t) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [BLADE CHOICE](https://open.spotify.com/album/2AJ9HZnYqDKlFRfqT1o68f) | 1:58 | 2022-08-19 | 2022-10-22 |
 | [Blast](https://open.spotify.com/track/4SVwNlE4FbKitzJbFdr6q7) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Reborn](https://open.spotify.com/album/7c40U4lQUqOJzDBGRUeMn9) | 1:56 | 2021-06-24 | 2022-01-15 |
 | [BLAST](https://open.spotify.com/track/6m5tfUg4wyg3zKcKVutJGA) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLAST](https://open.spotify.com/album/6KkvhAL55Cdr3GwyEV31Bs) | 2:04 | 2022-04-04 | 2022-07-23 |
-| [BLAST EM'](https://open.spotify.com/track/6EhLg6CkMso3gmN6XbA1zH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/0Q4i0Jg3nPZMILctz4pwDJ) | 2:07 | 2022-10-21 |  |
+| [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 | 2022-10-21 |  |
+| [BLAST EM'](https://open.spotify.com/track/6EhLg6CkMso3gmN6XbA1zH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/0Q4i0Jg3nPZMILctz4pwDJ) | 2:07 | 2022-10-21 | 2022-11-20 |
 | [BLOOD FLAME](https://open.spotify.com/track/1YT2jbHmwiYLi2qxRF2F2f) | [BADTRIP MUSIC](https://open.spotify.com/artist/6JtratuaBrBvw0iqRBu6pr), [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G), [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC), [KRiQ](https://open.spotify.com/artist/5MZaqoZgG16y591Hg5eNSN), [Лукамор](https://open.spotify.com/artist/1EBCEPqO5c8MHVRZKYO9n3), [Gxxrx Okxmi](https://open.spotify.com/artist/6TZB3UrKoPVww7pGm5FQIO), [sillicium](https://open.spotify.com/artist/5P7IaTkm7DkO2WdGPFbuWI), [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [BLOOD FLAME](https://open.spotify.com/album/19xn3tQAst5EhUDkM1mdBq) | 3:01 | 2022-05-13 | 2022-07-16 |
 | [BLOOD RACE](https://open.spotify.com/track/0D3SaRvnoMohXOEJ75GieD) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [BLOOD RACE](https://open.spotify.com/album/0Z2rXTvzrwiyWAtsMFrqg5) | 1:49 | 2022-06-03 | 2022-08-06 |
 | [BLOODLINE](https://open.spotify.com/track/3EqkflivbF639pZxjyl7JN) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [BLOODLINE](https://open.spotify.com/album/5XYjAX7dHfxTt1MVr8HYQs) | 1:55 | 2022-07-01 | 2022-08-06 |

@@ -4035,6 +4035,24 @@
     {
       "album": {
         "name": "The girl with broken dreams",
+        "url": "https://open.spotify.com/album/6cf3yxAhMR8j3J7JIAcdyp"
+      },
+      "artists": [
+        {
+          "name": "Sideluv",
+          "url": "https://open.spotify.com/artist/3Qav2btak3NJY2w6NbVC1Y"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "The girl with broken dreams",
+      "url": "https://open.spotify.com/track/0nrvM5kJIPTfSgNWXBU0TI"
+    },
+    {
+      "album": {
+        "name": "The girl with broken dreams",
         "url": "https://open.spotify.com/album/7ymiir2WBV6HB2cEop3HWM"
       },
       "artists": [
@@ -4045,7 +4063,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 155675,
       "name": "The girl with broken dreams",
       "url": "https://open.spotify.com/track/28xqa66vOcxPCXxFmPN1U2"

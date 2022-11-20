@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 786468,
+  "num_followers": 787003,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMDAzM2YxZDRiOWQ1MDAzNTg1NWQ3MzJkYzEzNTI0MTc4",
+  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMDAyNTYyNjJjYWE5ZDUwMjM5OTVlZjRhZGNhZjhkOGNk",
   "tracks": [
     {
       "added_at": "2022-10-28 13:24:20",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
-      "added_at": "2022-11-19 01:22:58",
+      "added_at": "2022-11-20 01:23:16",
       "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
     },
     {
-      "added_at": "2022-11-19 01:22:58",
+      "added_at": "2022-11-20 01:23:16",
       "album": {
         "name": "Spiral (Edit)",
         "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
     },
     {
-      "added_at": "2022-11-19 01:22:58",
+      "added_at": "2022-11-20 01:23:16",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM"
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-10-28 13:24:20",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        }
-      ],
-      "duration_ms": 329670,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5DhcUBjJbFk2crXo2CgiKO"
-    },
-    {
-      "added_at": "2022-10-28 13:24:20",
-      "album": {
         "name": "First Contact",
         "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
       },
@@ -943,6 +923,26 @@
     {
       "added_at": "2022-10-28 13:24:20",
       "album": {
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+        }
+      ],
+      "duration_ms": 402198,
+      "name": "Untold",
+      "url": "https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap"
+    },
+    {
+      "added_at": "2022-10-28 13:24:20",
+      "album": {
         "name": "Don't Give Up (Radio Edit)",
         "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
       },
@@ -967,42 +967,6 @@
     {
       "added_at": "2022-10-28 13:24:20",
       "album": {
-        "name": "Pulses",
-        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 364810,
-      "name": "Pulses",
-      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
-    },
-    {
-      "added_at": "2022-10-28 13:24:20",
-      "album": {
-        "name": "Untold",
-        "url": "https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        },
-        {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
-        }
-      ],
-      "duration_ms": 402198,
-      "name": "Untold",
-      "url": "https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap"
-    },
-    {
-      "added_at": "2022-10-28 13:24:20",
-      "album": {
         "name": "Tarcu",
         "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
@@ -1015,6 +979,22 @@
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+    },
+    {
+      "added_at": "2022-10-28 13:24:20",
+      "album": {
+        "name": "Pulses",
+        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 364810,
+      "name": "Pulses",
+      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
     },
     {
       "added_at": "2022-10-28 13:24:20",
@@ -1083,22 +1063,6 @@
     {
       "added_at": "2022-10-28 13:24:20",
       "album": {
-        "name": "FAST LAND",
-        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
-    },
-    {
-      "added_at": "2022-10-28 13:24:20",
-      "album": {
         "name": "Bring You Back",
         "url": "https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y"
       },
@@ -1115,6 +1079,46 @@
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
+    },
+    {
+      "added_at": "2022-10-28 13:24:20",
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2022-10-28 13:24:20",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6"
+      },
+      "artists": [
+        {
+          "name": "Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/4FMTGkOjozsv1N6aMiR6nw"
+        },
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6PCkmEG2qnLbewSW1cN1rD"
     }
   ],
   "unique_name": "Lowkey Tech",

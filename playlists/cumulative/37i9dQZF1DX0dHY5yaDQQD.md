@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-166 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+167 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [HYPER4ID](https://open.spotify.com/track/1TMBNQ57XR9Ppck1yj6w75) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [HYPER4ID](https://open.spotify.com/album/3eweCWExmgx6NjwuS6yflO) | 3:39 | 2022-02-18 | 2022-07-28 |
 | [HYPER4ID](https://open.spotify.com/track/2JkbSo34dkY5XZpxX2Yx0d) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [HYPER4ID](https://open.spotify.com/album/1zhnkiftYigvcEeIENQ7Gc) | 3:39 | 2022-05-23 | 2022-07-30 |
 | [I'm Waiting For It \(all the time\)](https://open.spotify.com/track/3EEpPBdaVRcyZRz3ERyzYJ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Mini Esco](https://open.spotify.com/artist/4wORgo0zGbtfNHLJVsqO6K) | [YEAR0001 \- RIFT One](https://open.spotify.com/album/3BoTGjBVSF9fTMXuq8z8MI) | 5:36 | 2022-02-18 | 2022-07-30 |
-| [in my closet](https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 3:32 | 2022-05-23 |  |
+| [in my closet](https://open.spotify.com/track/2Tyz2yalMYgk9evio4Pc8W) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 3:32 | 2022-09-16 |  |
+| [in my closet](https://open.spotify.com/track/3AZto3MZaVePHEXvt0Me9V) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 3:32 | 2022-05-23 | 2022-11-20 |
 | [Inner Fire](https://open.spotify.com/track/0DvAzYHZiEo5vMwnWOdPLL) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Alby Loud](https://open.spotify.com/artist/2LAMUtUpLsPEEBsfGTRRUx) | [Inner Fire](https://open.spotify.com/album/5SdVDheSxfyBcZDQyOHVQ3) | 3:40 | 2022-02-18 | 2022-07-27 |
 | [Inner Space](https://open.spotify.com/track/0C7TKUi4Tjfept2pkesS1e) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Inner Space](https://open.spotify.com/album/4i70IT51TDRRPl47id6hqC) | 4:54 | 2022-02-18 |  |
 | [Issa Revenge](https://open.spotify.com/track/0ehrDpPGhgKJgZjtCeOG5j) | [CRYSTALLMESS](https://open.spotify.com/artist/5b4g39OmFtyQcwYLSHCvsC), [Nadsat](https://open.spotify.com/artist/234fDLEWLwgINiSqe7Pk2J) | [Issa Revenge](https://open.spotify.com/album/4BBO41wG3Z1DTJ3ndJDAGB) | 4:22 | 2022-02-18 |  |

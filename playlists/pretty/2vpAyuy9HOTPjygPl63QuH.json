@@ -6,8 +6,36 @@
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjMwOCxlNWMzNWM1MDI5MTE2MDQyNTgyZTljY2Q0ZjI0NjkyOGVkNjkzMmYw",
+  "snapshot_id": "NjMxNSw1NWRhZjlhZGRmYzYzY2E2ODEyODU2NTFkNWJhN2Y3NzU5YmIzMGVm",
   "tracks": [
+    {
+      "added_at": "2022-11-18 17:32:18",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
     {
       "added_at": "2022-11-18 17:29:35",
       "album": {
@@ -39,6 +67,22 @@
       "duration_ms": 173953,
       "name": "NY to LA",
       "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
+      "added_at": "2022-11-19 20:21:39",
+      "album": {
+        "name": "Informer",
+        "url": "https://open.spotify.com/album/4gDKsS87beuPQiCIRVgrlv"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/6sLhiDvFtcMjsB29hQ5yLE"
     },
     {
       "added_at": "2022-11-18 17:32:42",
@@ -145,6 +189,22 @@
       "url": "https://open.spotify.com/track/4oGqmPn7R8jKpHSv4yyigc"
     },
     {
+      "added_at": "2022-11-18 17:30:33",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/7LdqBzhhTy0ieFZsp47eyg"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7LmAtnye0LYcB99OWuzmx0"
+    },
+    {
       "added_at": "2022-11-18 17:29:33",
       "album": {
         "name": "Tempo",
@@ -203,22 +263,6 @@
       "duration_ms": 146701,
       "name": "Cameras, Flash, Action",
       "url": "https://open.spotify.com/track/1J7FfcSQAp3K2OJk8LaNEI"
-    },
-    {
-      "added_at": "2022-11-18 17:30:33",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/7LdqBzhhTy0ieFZsp47eyg"
-      },
-      "artists": [
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/7LmAtnye0LYcB99OWuzmx0"
     },
     {
       "added_at": "2022-11-18 17:30:39",
@@ -393,34 +437,6 @@
       "url": "https://open.spotify.com/track/5c5bFCO1suc6DpCmZ6jbRG"
     },
     {
-      "added_at": "2022-11-18 17:32:18",
-      "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
-        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 274141,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
       "added_at": "2022-11-18 17:32:51",
       "album": {
         "name": "Agape",
@@ -483,6 +499,26 @@
       "duration_ms": 183934,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa"
+    },
+    {
+      "added_at": "2022-11-19 11:56:32",
+      "album": {
+        "name": "Love Again ep",
+        "url": "https://open.spotify.com/album/1wUN4Nx8NQEKDVk8taPqil"
+      },
+      "artists": [
+        {
+          "name": "Frank Nicolas",
+          "url": "https://open.spotify.com/artist/6KbB9th6QJ5D7VVupa3Ask"
+        },
+        {
+          "name": "Maximillian G.",
+          "url": "https://open.spotify.com/artist/2pRI7DTwoOZWymKuvvT27D"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4bTuLsz4Fu2S3051kNirdi"
     }
   ],
   "unique_name": "House Shift",

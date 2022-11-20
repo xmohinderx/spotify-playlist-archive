@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,315 likes - 212 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,479 likes - 212 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 113 | [night time](https://open.spotify.com/track/7jXUvRLubVHid8lX2LGsbT) | [fetch focus](https://open.spotify.com/artist/5Qc2nhM2huphoEWreLB8S8) | [night time](https://open.spotify.com/album/4tmHomzMHhyXBoHeDUBnlP) | 2:45 |
 | 114 | [mode station](https://open.spotify.com/track/12BJChhHFzQDnT8FnrGHXb) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mode station](https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb) | 3:06 |
 | 115 | [Tranquility](https://open.spotify.com/track/5Jp5ueVGu6zxsHJIkS9hXJ) | [Jam Patong](https://open.spotify.com/artist/1CGV3iDGRAODkPgDGt7Vx4) | [Tranquility](https://open.spotify.com/album/15Rl7noA46kokReSTrs2uU) | 1:57 |
-| 116 | [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 |
+| 116 | [odd mission.](https://open.spotify.com/track/0tZm06UflPV5BxKAgknqbp) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/6kucfOGZ2dGI4G2rqqAW31) | 2:09 |
 | 117 | [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 |
 | 118 | [Rue Joanès](https://open.spotify.com/track/2XKfAl37vACwwrdATKAkE7) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Rue Joanès](https://open.spotify.com/album/3FIa8WmpzO8Qw3z35WpZZ5) | 2:27 |
 | 119 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 |
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 163 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 |
 | 164 | [Lambretta](https://open.spotify.com/track/2p1kUy8Ctpf9SoLYBV8kU4) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Lambretta](https://open.spotify.com/album/1eQv325I08qzMQcdaW5nPj) | 2:07 |
 | 165 | [Shadow Cycle](https://open.spotify.com/track/1zlbeVYcTnlW8fSCCBiTfj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 2:44 |
-| 166 | [Ease](https://open.spotify.com/track/3FiOZ7Wot8iLuQYTU6iugX) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/6aiRYGClMJ4zPGaTJElfiP) | 2:00 |
+| 166 | [Ease](https://open.spotify.com/track/6NjsScrFObqlFZIX6b2FBh) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/5n3Jg5kLsnSJ4dvIKZ3OjZ) | 2:00 |
 | 167 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 |
 | 168 | [Stones Rolling](https://open.spotify.com/track/1XssrEr1EMWqWSFEO1pgLb) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Stones Rolling](https://open.spotify.com/album/0ERDWtWwy3CvMYWmzb8jsV) | 1:57 |
 | 169 | [Itaparica](https://open.spotify.com/track/4V1UVFLxP0dM5IkwS3XVNR) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Itaparica](https://open.spotify.com/album/01IMooT9ibT3cLTiz6g4al) | 2:02 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 211 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 |
 | 212 | [Wandering](https://open.spotify.com/track/3nhSeef5tejPVeQgQyVAko) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Wandering](https://open.spotify.com/album/0jXhPMLWccW7lhXHHsMuK8) | 2:38 |
 
-Snapshot ID: `MTY2Njk2MTk5NCwwMDAwMDAwMDRkMzYyZTZlZWJlYTYwNWZlZWI0YzU4OTdiOTI3MTkw`
+Snapshot ID: `MTY2Njk2MTk5NCwwMDAwMDAwMDY1MmJmNDFlZTRkZGUxYTZlYzJlMDQ2MTY5NjQ1NmVl`

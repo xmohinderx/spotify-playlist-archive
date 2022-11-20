@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,543 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,553 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 29 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 |
 | 30 | [Of The New Day](https://open.spotify.com/track/3FM9thNED9m7mq1SRBmo3Z) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 4:43 |
 | 31 | [Phototroph](https://open.spotify.com/track/3VenV3gVJnX9EKPXKrl4Lh) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Phototroph](https://open.spotify.com/album/2qfghxH803q4OFSszIDEt3) | 4:04 |
-| 32 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 |
+| 32 | [Blood Moon Night](https://open.spotify.com/track/2KHMoCEEB4ILFrjIufKKMK) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/3598rImSp7s7aaOkQZFGme) | 11:04 |
 | 33 | [In Procession](https://open.spotify.com/track/2VH9QXiavVZgnM9G1U8mvi) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Omens](https://open.spotify.com/album/5bsWvIa3jrWZtWtcn58UBl) | 9:21 |
 | 34 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 |
 | 35 | [Harridan](https://open.spotify.com/track/1mnAE4tnyYZaUGTiazDdmR) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 8:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MTY2ODcwMTczOSwwMDAwMDAwMGU0MTFhOWY2MTY1YzRhZWUxZGFhN2EyYmNhZGY1MWZm`
+Snapshot ID: `MTY2ODcwMTczOSwwMDAwMDAwMDE1YmM2NTExZGFjMDhlZjI4NjkyMGMxZGE3MGM1ZjQ0`

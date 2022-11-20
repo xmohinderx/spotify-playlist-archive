@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-80 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+81 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [U Can Get It](https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:28 | 2021-10-15 |  |
 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 | 2021-10-15 |  |
 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 | 2021-10-15 |  |
-| [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2021-10-15 |  |
+| [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2021-10-15 | 2022-11-20 |
+| [White Crayon](https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq) | 4:31 | 2022-10-10 |  |
 | [Yeti, Set, Go](https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man from the Future](https://open.spotify.com/album/0Rq7LrLsPt0urUEgvqbrZb) | 5:20 | 2021-10-15 | 2022-08-09 |
 | [Yeti, Set, Go](https://open.spotify.com/track/6BaQQK0ICJFPECwhUDkCZC) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Man From The Future](https://open.spotify.com/album/2eEieeGRF7ra1277V8buvn) | 5:20 | 2021-10-15 |  |
 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 | 2021-10-15 |  |

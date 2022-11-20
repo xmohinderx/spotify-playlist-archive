@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-106 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
+107 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/0VDNYH3pzGkgUvS5GusBo1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Nona's Blues](https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443) | [Cecil Taylor Quartet](https://open.spotify.com/artist/5fvnNCLnoSQYPRxLp7N8Fe) | [The Best Of Newport '57: 50th Anniversary Collection](https://open.spotify.com/album/2wKaZ7NqBwl8B9azY9MYyH) | 7:07 | 2020-08-25 | 2022-07-27 |
 | [One Tree Found](https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY) | [Alexander Hawkins](https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r) | [Alexander Hawkins Trio](https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq) | 5:29 | 2020-08-25 |  |
 | [Piano Equation](https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [The Piano Equation](https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3) | 5:14 | 2020-08-25 |  |
+| [Piece 4](https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Piece 4](https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi) | 3:11 | 2022-11-18 |  |
 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 | 2021-11-19 |  |
 | [Prometheus](https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065) | [Prometheus](https://open.spotify.com/album/0uXNve1oLJ71HWO9ouz8FG) | 5:34 | 2020-08-25 | 2022-07-29 |
 | [Prometheus](https://open.spotify.com/track/6McPJR3272275IfZti9RuC) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065), [Axiom](https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS), [Chris Speed](https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k), [Bojan Zulfikarpašić](https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD) | [Prometheus](https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw) | 5:34 | 2020-08-25 |  |
@@ -90,7 +91,7 @@
 | [Roar of the Lyons](https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb) | [Piano Duo Trio](https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y) | [The Art of It](https://open.spotify.com/album/06z73O9eHCki1W0obK08yA) | 16:09 | 2022-04-29 | 2022-09-11 |
 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 | 2020-08-25 |  |
 | [Safety Shoes](https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg) | [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor) | [Arms & Hands](https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50) | 2:33 | 2020-08-25 |  |
-| [Shudder to Think](https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv) | [Ned Rothenberg](https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3) | [In Cahoots](https://open.spotify.com/album/0STbF1O34unFR85y3dX67B) | 3:47 | 2020-08-25 |  |
+| [Shudder to Think](https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv) | [Ned Rothenberg](https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3) | [In Cahoots](https://open.spotify.com/album/0STbF1O34unFR85y3dX67B) | 3:47 | 2020-08-25 | 2022-11-20 |
 | [Sing, Sing Loud](https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 3:44 | 2020-08-25 | 2022-07-29 |
 | [Song for the Snake Man](https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O) | [Will Glaser](https://open.spotify.com/artist/1AQl7L8PIcnQredglUoiQV), [Matthew Herd](https://open.spotify.com/artist/2nQ8ZFNjgaUG34nWbUlkSC), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N) | [Song for the Snake Man](https://open.spotify.com/album/5Gohh6O8VQ2FPFoPMUF49b) | 4:57 | 2020-12-18 | 2022-07-29 |
 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 | 2020-08-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Farmerz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,183 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,209 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 50 | [Amor a la Ligera](https://open.spotify.com/track/5hBDLZtFCA0wQ4cdxQqdW0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [40 Aniversario Con Invitados a Otro Nivel, Vol\. 1](https://open.spotify.com/album/5jEbFTiNlxGvfkGPTbCdKp) | 2:24 |
 | 51 | [La Emboscada del Gavilan](https://open.spotify.com/track/2BPDvnH9bddCsFM3hUWn3H) | [Jose Arana Y Su Grupo Invencible](https://open.spotify.com/artist/2Ua4rXNkgW4GE1WSind6I0) | [El Invencible](https://open.spotify.com/album/60NxPf4zjtY8QqVIsbU4c6) | 4:14 |
 | 52 | [Me Refiero A Ti](https://open.spotify.com/track/4ZHM9nurlWx2dko1673Yd2) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Lo Más Escuchado De](https://open.spotify.com/album/6A9hMSvUDuk0xzWiXyYzT2) | 3:15 |
-| 53 | [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 |
+| 53 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
 | 54 | [Mi Borrachera \(En Vivo\)](https://open.spotify.com/track/5CcLld44kAwKDvSOPbUlq3) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 3:45 |
 | 55 | [Aquel Amor \(En Vivo\)](https://open.spotify.com/track/0gLN87r6gzXso908wPoPDS) | [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [Levemente \(En Vivo Desde South Central\)](https://open.spotify.com/album/1ZRHMa2uYFUA3RT7DpQC3S) | 3:29 |
 | 56 | [El Sabio Salomon](https://open.spotify.com/track/7nnhkMvzavk5aVtZ4MdHyz) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Las Mananitas](https://open.spotify.com/album/59nureviycFEwHY7L1jfjD) | 3:45 |
-| 57 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
+| 57 | [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 |
 | 58 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
 | 59 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
 | 60 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 |
 
-Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMDZmZGQxZDI5YTM5OWM4ZTBmY2MwMGI4MDUyNDBjYTNj`
+Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMDExMmQ0MzhkYjc5ZDk1M2VjOGMyYTdhM2NjMTgzNzJh`

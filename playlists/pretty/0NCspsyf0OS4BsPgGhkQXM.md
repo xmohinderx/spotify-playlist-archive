@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,026,449 likes - 151 songs - 8 hr 26 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,026,517 likes - 151 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Euphoria](https://open.spotify.com/track/3fe0FJGCS3o1WzGikqM3Sn) | [Paapi Muzik](https://open.spotify.com/artist/2eAml1qDYCL6t4AoboTe3V), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:41 |
+| 1 | [UNO](https://open.spotify.com/track/5P5aI7MtgYbP7ORnHWSKfb) | [Jordan Comolli](https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:46 |
 | 2 | [Ozarks](https://open.spotify.com/track/6s86lNim2KGB5ytl1BNYhY) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 2:27 |
-| 3 | [UNO](https://open.spotify.com/track/5P5aI7MtgYbP7ORnHWSKfb) | [Jordan Comolli](https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:46 |
+| 3 | [Euphoria](https://open.spotify.com/track/3fe0FJGCS3o1WzGikqM3Sn) | [Paapi Muzik](https://open.spotify.com/artist/2eAml1qDYCL6t4AoboTe3V), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 2:41 |
 | 4 | [Symptoms](https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Symptoms](https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7) | 2:28 |
 | 5 | [Stampede](https://open.spotify.com/track/0QjVOn2O9lTDDseljMKMK5) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Stampede](https://open.spotify.com/album/5pX3la4oPIp1liaVcxDCIf) | 2:03 |
 | 6 | [Stay](https://open.spotify.com/track/6w11tS0KUmo44Pwc3X4xc7) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:18 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 150 | [Destiny](https://open.spotify.com/track/65aREw0UIfBAaJqksEUwio) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Twilight](https://open.spotify.com/album/5ZSqXREKvuRcwsOhZvIMVG) | 1:54 |
 | 151 | [I Know](https://open.spotify.com/track/6OXeQE9fGrNEDXZZjqWG3k) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:44 |
 
-Snapshot ID: `MTI3MTcsOTI4M2I4Zjg1ZjkwY2VmNjJiNjYwY2E0NzhiZGU1YTI1ZGMwYzVkZg==`
+Snapshot ID: `MTI3MTksMDQ5YWZmODY4OGQyOGMxZmRkZmEzOTE4ZmQ4ZWMzYzRlNDQ1MjU4Mg==`

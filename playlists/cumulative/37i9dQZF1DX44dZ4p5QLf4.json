@@ -2173,6 +2173,24 @@
     {
       "album": {
         "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "album": {
+        "name": "Genesis",
         "url": "https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI"
       },
       "artists": [
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 183996,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz"

@@ -703,10 +703,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9"
+    },
+    {
+      "album": {
+        "name": "Colorful Skies",
+        "url": "https://open.spotify.com/album/36jqommAS821e5J69RH4Bz"
+      },
+      "artists": [
+        {
+          "name": "MiDN8",
+          "url": "https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4"
+        },
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115182,
+      "name": "Colorful Skies",
+      "url": "https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP"
     },
     {
       "album": {
@@ -1338,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Graceful",
+        "url": "https://open.spotify.com/album/2mpsgM4Utc5NnK5rrpSfjb"
+      },
+      "artists": [
+        {
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Forgetful",
+      "url": "https://open.spotify.com/track/2oE3iJgpMCupYlz8jOtEBE"
+    },
+    {
+      "album": {
         "name": "Forgetful",
         "url": "https://open.spotify.com/album/0ttuJeM3jJYB8gwBmsBgx6"
       },
@@ -1349,7 +1389,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 145263,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/3GWbmH9z2TwG2G5CtXMU3X"
@@ -2881,10 +2921,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 170232,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/3GWwIi7gE3hunEcI9Ibq2s"
+    },
+    {
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/0OCbc629YnqXCk79Q0PxIo"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/7Ie8lJIE5yvP3a68q8OnDD"
     },
     {
       "album": {
@@ -3667,6 +3729,32 @@
     {
       "album": {
         "name": "Three Of A Kind",
+        "url": "https://open.spotify.com/album/2SKNFLIMxfS3Y9x6Zscjmx"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        },
+        {
+          "name": "KaspaHauser",
+          "url": "https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/4MJ84OQBFamI9IPzArsKQU"
+    },
+    {
+      "album": {
+        "name": "Three Of A Kind",
         "url": "https://open.spotify.com/album/26yV3lBXO2TDPZwfvs06ZZ"
       },
       "artists": [
@@ -3685,7 +3773,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 160000,
       "name": "Submerged",
       "url": "https://open.spotify.com/track/6i1O2JaBte01FkyOJ9pfT7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,689 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,054 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 10 | [I'll Be Home For Christmas](https://open.spotify.com/track/7vFVPwwMqUsS7RqN7k824W) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3Es0nbwli8bIfJTRgAHwAQ) | 2:59 |
 | 11 | [Christmas Miracle](https://open.spotify.com/track/5VZeRfpdY94ePLTes5Uixq) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Miracle](https://open.spotify.com/album/1SOm9qr3NOTp3tpWgAT3GW) | 3:59 |
 | 12 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
-| 13 | [Snow in LA](https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [Snow in LA](https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5) | 3:49 |
+| 13 | [Snow in LA](https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Snow in LA](https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5) | 3:49 |
 | 14 | [This Christmas](https://open.spotify.com/track/4gg8cqMICsKsLBE6R36pP7) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:19 |
 | 15 | [Seat At The Table](https://open.spotify.com/track/0OhlmucNUv1KsJcm4rYU7o) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Seat At The Table](https://open.spotify.com/album/5BEAFUm1QHZrzYeEXTCS1r) | 3:11 |
 | 16 | [Marshmallow World](https://open.spotify.com/track/42l3L6KumY9JfYSn1N3yxV) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Have Yourself A Merry Little Christmas / Marshmallow World](https://open.spotify.com/album/50TrLFhQ6l7bDC73Ktr7jh) | 2:53 |

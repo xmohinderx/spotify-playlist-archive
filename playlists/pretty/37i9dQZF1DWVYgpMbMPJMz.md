@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,996 likes - 100 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,977 likes - 100 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 16 | [In Jesus Name \(God of Possible\) \- Live](https://open.spotify.com/track/5eBNg5nAy9fw3dq9UO389L) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [In Jesus Name \(God of Possible\) \[Live\]](https://open.spotify.com/album/36UpsxvsA4iizloxTcYbE8) | 4:16 |
 | 17 | [Fear is Not My Future \- Radio Version](https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Fear is Not My Future \(Radio Version\)](https://open.spotify.com/album/4CuurdO1lDLMmHDjfzRdmk) | 4:02 |
 | 18 | [Sound Mind \- Studio Version](https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Sound Mind \(Studio Version\)](https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD) | 3:42 |
-| 19 | [Only Jesus](https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Only Jesus](https://open.spotify.com/album/3UnE167OVsZRrpookBftI5) | 10:24 |
+| 19 | [Only Jesus](https://open.spotify.com/track/5xMD8CYZ9VbQS43Yr8JlFC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Only Jesus](https://open.spotify.com/album/3UnE167OVsZRrpookBftI5) | 10:24 |
 | 20 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 |
 | 21 | [Come And Behold \- Live](https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [A King Like No Other \(Live\)](https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi) | 8:02 |
 | 22 | [Make It Out Alive](https://open.spotify.com/track/42rZoc2XIzvotSs2tczSai) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Make It Out Alive](https://open.spotify.com/album/3AZuqbUj6FPdh2P5RZYBHi) | 4:12 |

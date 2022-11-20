@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
-  "num_followers": 12017,
+  "num_followers": 12026,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMDRhMTFjYzEwNTA5Y2U2OGZmYzdlOWI4MmZmNDgzMzll",
+  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMGU5ODIyMDFmMWJmZDFhZmE1YzExZGUyZTE0MjY2M2Y5",
   "tracks": [
     {
       "added_at": "2022-10-07 00:35:02",
@@ -905,24 +905,20 @@
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-06-20 11:35:16",
       "album": {
-        "name": "All I Please",
-        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+        "name": "BILLION DOLLAR DREAM",
+        "url": "https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz"
       },
       "artists": [
         {
-          "name": "Wale Turner",
-          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 155000,
-      "name": "All I Please",
-      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+      "duration_ms": 179965,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/4CYZ8PB4YzsidixvytgdMa"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -941,20 +937,24 @@
       "url": "https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV"
     },
     {
-      "added_at": "2022-06-20 11:35:16",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM",
-        "url": "https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz"
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 179965,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/4CYZ8PB4YzsidixvytgdMa"
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1277,6 +1277,22 @@
       "url": "https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl"
     },
     {
+      "added_at": "2022-11-15 08:57:59",
+      "album": {
+        "name": "500 DEGREES",
+        "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "500 DEGREES",
+      "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Trouble",
@@ -1299,22 +1315,6 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
-    },
-    {
-      "added_at": "2022-11-15 08:57:59",
-      "album": {
-        "name": "500 DEGREES",
-        "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "500 DEGREES",
-      "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
     },
     {
       "added_at": "2022-10-07 12:11:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,091 likes - 499 songs - 19 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,118 likes - 499 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 63 | [old house](https://open.spotify.com/track/7rrcGPCiOHTUR5reOEPs5C) | [Dymas](https://open.spotify.com/artist/3d4CdboHk00789IhccNRF3) | [old house](https://open.spotify.com/album/5ltVny5eQ7y6V1fKGZjeID) | 2:47 |
 | 64 | [Losing Time](https://open.spotify.com/track/7KzD67Z6aVrfxhHOVPOKQD) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [Lost Name](https://open.spotify.com/artist/1HSPc1HNJLIMsNBFBtIpUa) | [Losing Time](https://open.spotify.com/album/7KugpAdULMCxYVmBDUSPCV) | 1:48 |
 | 65 | [Falling Asleep](https://open.spotify.com/track/1OkMyHEnKjoPCYVbbmSQes) | [Aesthetic Sounds](https://open.spotify.com/artist/0grE7QiQX0ceIa5n3DIsHS) | [Falling Asleep](https://open.spotify.com/album/1Ta2KVqHyavD7ThsABMaR3) | 1:39 |
-| 66 | [Watch The Flowers Grow](https://open.spotify.com/track/2UVXdhM6Kc370337Qlfc6y) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Watch The Flowers Grow](https://open.spotify.com/album/2Rswhd1uFHMjx34xwRUeWI) | 1:28 |
+| 66 | [Watch The Flowers Grow](https://open.spotify.com/track/1KGBFGrjAcbYcXxZa7bbc0) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Watch The Flowers Grow](https://open.spotify.com/album/1wZFfm2mNNQlg1pTzoHjaq) | 1:28 |
 | 67 | [Where The Sun Shines](https://open.spotify.com/track/2oiso692IgpOO4A7lNMLFJ) | [Soul Jungle](https://open.spotify.com/artist/58IG1qa1HOhsjcMqnB4rU0) | [Where The Sun Shines](https://open.spotify.com/album/46rAA5TfBzQsuS2aSfoWoj) | 1:34 |
 | 68 | [Whispers](https://open.spotify.com/track/5vwKx1lJxuXNj0j3krceff) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Whispers](https://open.spotify.com/album/2mV7WOez73u5gqldiqZGoA) | 2:04 |
 | 69 | [Purple Moon](https://open.spotify.com/track/6NULphJ40QEv26hrmH2Laa) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Purple Moon](https://open.spotify.com/album/5bYnboALLvdc432KVkYf47) | 2:07 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 154 | [bubble tea](https://open.spotify.com/track/79bs17G5x8J3d1mlYLBShm) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY) | [bubble tea](https://open.spotify.com/album/5GYWPpwElXiwzqlTjOYEKb) | 2:08 |
 | 155 | [late night ride](https://open.spotify.com/track/6VjK8Ve4BdDIoxkOqa2OM4) | [.clouds](https://open.spotify.com/artist/6Ha1LtNwHLYtdp84uDru1b) | [late night ride](https://open.spotify.com/album/4RTJHzVSHCNVJHR5QKeU3E) | 1:44 |
 | 156 | [Poolside View](https://open.spotify.com/track/3tR3YcZBAaQrzLELUv9k78) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Poolside View](https://open.spotify.com/album/7eWd71VQg4nkvVvT5sfmdA) | 2:26 |
-| 157 | [Take It Slow](https://open.spotify.com/track/059UQfFBEvJA8NZeW2jyT8) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Take It Slow](https://open.spotify.com/album/2DIIANCs1CY7PFygZbVkkg) | 2:00 |
+| 157 | [Take It Slow](https://open.spotify.com/track/68GXqBWzmYiHtmW3tJevyw) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Take It Slow](https://open.spotify.com/album/0qNJqRCEfLmEnZpIi2dE3i) | 2:00 |
 | 158 | [Cyan](https://open.spotify.com/track/4clYEjDlRVmNO8lecqOl0z) | [Uinzagui](https://open.spotify.com/artist/7qARU0sMoDEdpD8zyvmjcx), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cyan](https://open.spotify.com/album/4QIVi2Tz4FpdLb4XKJOAjd) | 2:23 |
 | 159 | [Drift Ritual](https://open.spotify.com/track/21BrewhyiUBA3yEUGpv9bP) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt) | [Drift Ritual](https://open.spotify.com/album/5Fg2eQQb5pzMFrZ5xu6J73) | 2:55 |
 | 160 | [Don't Wanna Know](https://open.spotify.com/track/1TVYleK1LR9aR5RXIYyPF9) | [The Aether](https://open.spotify.com/artist/6X2vxtl96oIHCQqzAB898T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Don't Wanna Know](https://open.spotify.com/album/0zo0B3gJ8xFVTmvlzNDMgr) | 2:38 |
@@ -335,7 +335,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 325 | [Clean Slate](https://open.spotify.com/track/7rNb2Z8gmDVT5JQPn5zCVA) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Clean Slate](https://open.spotify.com/album/29BDzbEYawELuScafjXIoo) | 2:14 |
 | 326 | [Coral Pink Seafoam](https://open.spotify.com/track/0uYEFdctVcAndLpXYhZEDQ) | [Miilano](https://open.spotify.com/artist/4BRU7LmeFQZ8JGbNc3LdZ9) | [Coral Pink Seafoam](https://open.spotify.com/album/1XzeoEatEYvfW6BE9rLkPr) | 2:13 |
 | 327 | [Coffeemaker](https://open.spotify.com/track/4NBpjtGoXD7Osc4xMA08m8) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5), [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Coffeemaker](https://open.spotify.com/album/6nmh9obRtu6Yy4sQtaNQWb) | 3:00 |
-| 328 | [Find a Moment](https://open.spotify.com/track/2gFRtVaDkG1nU46z8ckVK3) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Find a Moment](https://open.spotify.com/album/42rWLxngEQ8RcEvfO2egWA) | 1:58 |
+| 328 | [Find a Moment](https://open.spotify.com/track/2jILrbAedZ20ZcCNHb2vk3) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Find a Moment](https://open.spotify.com/album/48b5JfszFSjkU1nd4ybFKg) | 1:58 |
 | 329 | [Past Love](https://open.spotify.com/track/5BQ1vSyLuoiFcrzGJ1Wb7C) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA), [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Past Love](https://open.spotify.com/album/0HY8vMkvzOWwF47ByAntHR) | 2:12 |
 | 330 | [Hold On](https://open.spotify.com/track/1an2N7aJ7dlrUzxAPDRnQ7) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr) | [Youthful Wind](https://open.spotify.com/album/2NBHDYk8ItGkmklrOxHnv5) | 2:38 |
 | 331 | [So Close So Far](https://open.spotify.com/track/0ZScc5fmp3L4ld1mFYj0b0) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [So Close So Far](https://open.spotify.com/album/4xTLJFNNJayTgLfOijeiAH) | 1:46 |
@@ -369,7 +369,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 359 | [six tea nine](https://open.spotify.com/track/7Ccget8BDaz7tIGb5V9IgK) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [six tea nine](https://open.spotify.com/album/2cPic5yvsAxQVw397iPtkz) | 2:46 |
 | 360 | [game over \(baka\)](https://open.spotify.com/track/05kcpXneALHrlez3aur3u9) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [game over \(baka\)](https://open.spotify.com/album/6l92I4jLdu6tKsXEwjXVKl) | 2:06 |
 | 361 | [Pure](https://open.spotify.com/track/1tfCAcj203n1x0pVHiZ6IM) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Pure](https://open.spotify.com/album/5oDJGN9016yLpp6YVt0qF3) | 2:27 |
-| 362 | [Daydream](https://open.spotify.com/track/0ZienrxbwxsvAHuFLgleSB) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Daydream](https://open.spotify.com/album/4fabMkaIqqn3Q9Up1UvyaN) | 2:27 |
+| 362 | [Daydream](https://open.spotify.com/track/37osoNQHrCXre9EGDfZWFR) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Daydream](https://open.spotify.com/album/7IGnyCypfh8HqyWDwjnbiV) | 2:27 |
 | 363 | [Drifting Minds](https://open.spotify.com/track/2YHRPVJUbhGiBE3y3A9idu) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [Drifting Minds](https://open.spotify.com/album/2qSNwcC6V1w0oXAPSHTvYj) | 2:22 |
 | 364 | [nyatta](https://open.spotify.com/track/081vHhsg2OJPjKfQ3Z1u40) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [nyatta](https://open.spotify.com/album/078Vl5Mo1Je1ENZg2N9JN1) | 2:05 |
 | 365 | [holy](https://open.spotify.com/track/5hT9BqvrZNHi6A5EkcgyoO) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [holy](https://open.spotify.com/album/7pgDSAYfOekFCK4YQesRi6) | 2:08 |
@@ -502,10 +502,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 492 | [Sultry](https://open.spotify.com/track/35bkfQzstqvT9pCGbQbdSb) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Sultry](https://open.spotify.com/album/6TcTnnYs2mkXcTuMUHoLBh) | 1:40 |
 | 493 | [Aviary](https://open.spotify.com/track/2giDcUZGybbvJljKtgxgnY) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Aviary](https://open.spotify.com/album/3lk5iCsLEyEHEiNypGMmwF) | 2:14 |
 | 494 | [Safe and Sound](https://open.spotify.com/track/4nz74ILBRpGRGOGwxNot3M) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Safe and Sound](https://open.spotify.com/album/3lLpKjgwSljg32gbQQKcQD) | 2:21 |
-| 495 | [City Lights](https://open.spotify.com/track/4YUc6tkuelseSDsLupiaUq) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [City Lights](https://open.spotify.com/album/4wdRbP9gWomep2FSfXmzvw) | 2:15 |
+| 495 | [City Lights](https://open.spotify.com/track/2r2ALb6n5k0sEC7u7tME4b) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [City Lights](https://open.spotify.com/album/1AIn73jXm0rl4h0jsX8M6W) | 2:15 |
 | 496 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 |
 | 497 | [home](https://open.spotify.com/track/4SPuk9EOvplT4rvvnv9aJA) | [Andy Quan](https://open.spotify.com/artist/42gG0504WSOr7yv8uZMczE) | [Introspect](https://open.spotify.com/album/5wxEfktpaJE0X6nmDiFCKz) | 3:08 |
 | 498 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 | 499 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 |
 
-Snapshot ID: `MTY2ODE2NDg4MSwwMDAwMDAwMDQ4ZDhkZjcyZGUyNTZlYTkyZTBkOThjODZhYjZjYWY5`
+Snapshot ID: `MTY2ODE2NDg4MSwwMDAwMDAwMDk2MWM1Yzg4YmQzNWVlZDQ4NzFiNDUwMTRhOTBmM2I0`

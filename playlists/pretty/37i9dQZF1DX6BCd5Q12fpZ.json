@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59077,
+  "num_followers": 59087,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDNhMDUyYTcxODY0NzEzNGM5MDVhOTFjOGJlNjU3ZTE0",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDVlYTk5YTYxOTExZmQzNTVlNWI0ZWY5NmZjZGQ2ZWIz",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Menq Enq Mer Sarere",
-        "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
-      },
-      "artists": [
-        {
-          "name": "Inga & Anush",
-          "url": "https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Jan-Jan",
-      "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Cliche Love Song",
         "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 181674,
       "name": "Cliche Love Song - Another Version",
       "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Menq Enq Mer Sarere",
+        "url": "https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8"
+      },
+      "artists": [
+        {
+          "name": "Inga & Anush",
+          "url": "https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Jan-Jan",
+      "url": "https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Verona",
-        "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
+        "name": "Requiem (Eurovision version)",
+        "url": "https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII"
       },
       "artists": [
         {
-          "name": "Laura",
-          "url": "https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS"
-        },
-        {
-          "name": "KOIT TOOME",
-          "url": "https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc"
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H"
         }
       ],
-      "duration_ms": 182548,
-      "name": "Verona - Eurovision 2017 - Estonia",
-      "url": "https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD"
+      "duration_ms": 180538,
+      "name": "Requiem - Eurovision Version",
+      "url": "https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O"
     }
   ],
   "unique_name": "Eurovision Party",

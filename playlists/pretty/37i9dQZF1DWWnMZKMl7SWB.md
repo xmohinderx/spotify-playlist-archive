@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,454 likes - 216 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,451 likes - 216 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 59 | [Fall In Love \- Instrumental Mix](https://open.spotify.com/track/6JadvSKE7WPUr0Jyi6Tf2q) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:07 |
 | 60 | [Always Infinity](https://open.spotify.com/track/5k4wdNwtqmxlEb4HBP6gAJ) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Fourth Dogma](https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi) | [Always Infinity](https://open.spotify.com/album/2JnjDpPZ9oWjf4qaJkYxOI) | 2:35 |
 | 61 | [Dockyard](https://open.spotify.com/track/6tYlLMni6GwUksie3N6IPA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Self](https://open.spotify.com/album/6BTgqsN2O8OTquzXfZQh0E) | 5:39 |
-| 62 | [Azure](https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/3dunJ0uhRdQJNqKWdqAeqe) | 6:04 |
+| 62 | [Azure](https://open.spotify.com/track/17bj0Y5P4YUZzAheOxxJUg) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 6:04 |
 | 63 | [HIGH](https://open.spotify.com/track/1WO7skj3yz61YIaOEADHeC) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [HIGH](https://open.spotify.com/album/7krocVs4O2HgIAmsiLJQFb) | 4:07 |
 | 64 | [Luciérnaga](https://open.spotify.com/track/0kxJ3Xd4BgyJKCT0gfYJuD) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Luciérnaga](https://open.spotify.com/album/7rjUt0ROpKZiGZlT2aGp05) | 2:51 |
 | 65 | [Musgo.](https://open.spotify.com/track/1XOMHe2G9ugjLqznM8Wv3Z) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Musgo.](https://open.spotify.com/album/68apOdZFDut1aK9OQEIFPX) | 3:41 |
@@ -218,11 +218,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 208 | [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 |
 | 209 | [Nightfall](https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Nightfall](https://open.spotify.com/album/03jwEEmv0efetAenFebML3) | 2:18 |
 | 210 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 |
-| 211 | [Body Language \- Interpretation](https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX) | 5:00 |
+| 211 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 |
 | 212 | [SHE](https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:38 |
 | 213 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 |
 | 214 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
 | 215 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 216 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMGNkMWY1YzczMTcwMjE2MzcwN2YyOGIyNTc3YTUxZDcz`
+Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMDk2ZTNhZDc5MDQ1YmIxMGU4YjNmODI1M2Y2ZjRlNWNh`

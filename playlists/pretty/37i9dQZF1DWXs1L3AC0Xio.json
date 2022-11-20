@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 629266,
+  "num_followers": 629301,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg1OTI4NiwwMDAwMDAwMDkzMDA0ZDI0NWFlMzcyMTllZjZjZTY3N2IyNDI0Yzhh",
+  "snapshot_id": "MTY2Nzg1OTI4NiwwMDAwMDAwMDMyYjE2MTEyN2JmODEwYTI3NzUyNzM3NmQzZDVhYzMz",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 186815,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Lifeless Stars",
-        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 197129,
-      "name": "Lifeless Stars",
-      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
+      "duration_ms": 186815,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -607,6 +591,22 @@
       "duration_ms": 260560,
       "name": "My December",
       "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Lifeless Stars",
+        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Lifeless Stars",
+      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 255661,
       "name": "Dear Agony - Aurora Version",
       "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Broken Heart of Gold",
-        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 253487,
-      "name": "Broken Heart of Gold",
-      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 285320,
       "name": "Break In",
       "url": "https://open.spotify.com/track/5Q7pjvFqm4Pk0voGgutt5G"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Broken Heart of Gold",
+        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 253487,
+      "name": "Broken Heart of Gold",
+      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mary Go Round",
-      "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 179120,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Mary Go Round",
+      "url": "https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 232181,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Hear Me Now (feat. DIAMANTE)",
         "url": "https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt"
       },
@@ -1519,22 +1503,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "The Things We Can\u00b4t Stop",
-        "url": "https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 254642,
-      "name": "Quiet Now",
-      "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies",
         "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
       },
@@ -1551,18 +1519,34 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+        "name": "The Things We Can\u00b4t Stop",
+        "url": "https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
         }
       ],
-      "duration_ms": 207395,
-      "name": "When They Turn the Lights On",
-      "url": "https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx"
+      "duration_ms": 254642,
+      "name": "Quiet Now",
+      "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 300361,
+      "name": "Roman Sky",
+      "url": "https://open.spotify.com/track/06r4cRb2dnmCSyZ5MgEUGY"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 300361,
-      "name": "Roman Sky",
-      "url": "https://open.spotify.com/track/06r4cRb2dnmCSyZ5MgEUGY"
+      "duration_ms": 207395,
+      "name": "When They Turn the Lights On",
+      "url": "https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
+        "name": "THREAD",
+        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 304520,
+      "name": "Stealing Life",
+      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
         "name": "All I Had To Lose (feat. Mark Morales)",
         "url": "https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "THREAD",
-        "url": "https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT"
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
       },
       "artists": [
         {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
         }
       ],
-      "duration_ms": 304520,
-      "name": "Stealing Life",
-      "url": "https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu"
+      "duration_ms": 235066,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A"
     }
   ],
   "unique_name": "Rock Ballads",

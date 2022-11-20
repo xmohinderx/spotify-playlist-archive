@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-433 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+435 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Drizzle](https://open.spotify.com/track/7IZhsHj5WNHZXb036INzSe) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Drizzle](https://open.spotify.com/album/17AdhxmA9tFsWn6G9gkJ4F) | 2:37 | 2021-11-10 | 2022-06-03 |
 | [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-05-11 |
-| [Ease](https://open.spotify.com/track/3FiOZ7Wot8iLuQYTU6iugX) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/6aiRYGClMJ4zPGaTJElfiP) | 2:00 | 2022-07-15 |  |
+| [Ease](https://open.spotify.com/track/3FiOZ7Wot8iLuQYTU6iugX) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/6aiRYGClMJ4zPGaTJElfiP) | 2:00 | 2022-07-15 | 2022-11-20 |
+| [Ease](https://open.spotify.com/track/6NjsScrFObqlFZIX6b2FBh) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/5n3Jg5kLsnSJ4dvIKZ3OjZ) | 2:00 | 2022-10-28 |  |
 | [easy.mind.](https://open.spotify.com/track/2cmimWe1hG3uCyUbcVcveJ) | [shilø cyan](https://open.spotify.com/artist/62oe8gGx5zfwUx61ZrDQHR) | [easy.mind.](https://open.spotify.com/album/65kAtHuv6oSlXAUDCfcL4b) | 2:32 | 2021-11-10 | 2022-07-08 |
 | [Ehsaas](https://open.spotify.com/track/2whmSrM0adpKJpTbsvHqhp) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Ehsaas](https://open.spotify.com/album/7a0mEnfSLjKvfrmjvJXADP) | 3:15 | 2022-10-07 |  |
 | [Elbe](https://open.spotify.com/track/3Pakll5uxUhEG2TE5vlNQK) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Elbe](https://open.spotify.com/album/1ylufbgEVDTrf3EItcWp0S) | 2:15 | 2022-05-13 | 2022-05-20 |
@@ -267,7 +268,8 @@
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-11-10 | 2022-05-20 |
 | [Ocean Waves](https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M) | [Ocean Waves](https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf) | [Ocean Waves](https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV) | 2:19 | 2022-06-03 |  |
 | [Oceans](https://open.spotify.com/track/3xnwGCg63UVgiS6P412mmN) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [Oceans](https://open.spotify.com/album/3mmvw87WMayIVdsfWsqbCY) | 4:05 | 2021-11-10 | 2022-07-08 |
-| [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 | 2022-09-16 |  |
+| [odd mission.](https://open.spotify.com/track/0tZm06UflPV5BxKAgknqbp) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/6kucfOGZ2dGI4G2rqqAW31) | 2:09 | 2022-10-28 |  |
+| [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 | 2022-09-16 | 2022-11-20 |
 | [One More Chance](https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [One More Chance](https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g) | 1:28 | 2022-10-07 |  |
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 |  |
 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 | 2021-11-10 | 2022-04-15 |

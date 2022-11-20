@@ -41,7 +41,7 @@
 | [Jasmin](https://open.spotify.com/track/6xIo0HSCFkIlrosMSQUrDS) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/4Ygb9xxtYpsMO0LBtztXWc) | 1:48 | 2021-10-14 | 2022-07-29 |
 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 | 2021-10-14 |  |
 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 | 2021-10-14 |  |
-| [Kont Trab](https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 6:17 | 2021-10-14 | 2022-07-28 |
+| [Kont Trab](https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 6:17 | 2021-10-14 |  |
 | [Ladders To Sumeria](https://open.spotify.com/track/0MHj9bCzoNtKVIuEGnUeH6) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Emissaries](https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu) | 4:01 | 2021-10-14 |  |
 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 | 2021-10-14 |  |
 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 | 2021-10-14 | 2022-07-29 |
@@ -62,6 +62,6 @@
 | [The Twelfth Gate](https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order of Amenti](https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01) | 4:00 | 2021-10-14 |  |
 | [The Twelth Gate](https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order Of Amenti](https://open.spotify.com/album/3ZICoVkNWfn9ers5Dsa6v6) | 4:00 | 2021-10-14 | 2022-07-29 |
 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 | 2021-10-14 |  |
-| [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 | 2021-10-14 |  |
+| [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 | 2021-10-14 | 2022-11-20 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

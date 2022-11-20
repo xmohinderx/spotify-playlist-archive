@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,920 likes - 106 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,105 likes - 106 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 32 | [Dream on \- Acoustic](https://open.spotify.com/track/0WhKVpTyAKGF6aPzdIiSDG) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 2:44 |
 | 33 | [Slow Dancing In A Burning Room](https://open.spotify.com/track/5gbcELGepcr1pifCJKqu4j) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Slow Dancing In A Burning Room](https://open.spotify.com/album/38hPy8jWiGNL218bxXYail) | 2:42 |
 | 34 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 |
-| 35 | [Fireproof](https://open.spotify.com/track/210ndBj74sya9gALSQlWfe) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Fireproof](https://open.spotify.com/album/2x6tj6drKrzTBDLRiMzjJm) | 3:02 |
+| 35 | [Fireproof](https://open.spotify.com/track/5hn81KcRWFyrwi38PJMG8u) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Other Shores](https://open.spotify.com/album/0lp31Gds7JY3tIcxYl6TFX) | 3:02 |
 | 36 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 37 | [Boulevard of Broken Dreams](https://open.spotify.com/track/05Pe2omHaIQtDAehonNlMX) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Boulevard of Broken Dreams](https://open.spotify.com/album/0ARtwfvEYUKoVbCXdw7wb5) | 3:10 |
 | 38 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/0Jm6AaECnFWMR9cFvUODGj) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/3clmJwLKes3r1vitnP9at6) | 2:56 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 105 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 |
 | 106 | [STAY \- Acoustic](https://open.spotify.com/track/2vWUyutMHijVo9r47vUPpp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [STAY \(Acoustic\)](https://open.spotify.com/album/7dGl54XoyU6TDHRTRJepzs) | 2:43 |
 
-Snapshot ID: `MTY2ODc3NzkxNiwwMDAwMDAwMDcxYzExZGMwM2QwOWI2NWU1M2FlZTBhODQwZjVjNjBk`
+Snapshot ID: `MTY2ODc3NzkxNiwwMDAwMDAwMDhlNzk3NjE5ODc0NTIzYWNiODA0ODcyZGEzNDY4YTU1`

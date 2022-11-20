@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,650 likes - 62 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,693 likes - 62 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 28 | [Full of Courage \- Wild Dark Remix](https://open.spotify.com/track/7s3wkX5wPS8PiEOHkdEpM8) | [Timujin](https://open.spotify.com/artist/5wCYAhIupFtAPBfVAP8fXO), [Wild Dark](https://open.spotify.com/artist/4MEYUbUOLX7VIiAsAiXbxL) | [Full of Courage \(Wild Dark Remix\)](https://open.spotify.com/album/21g3y9fSCjBman1JZLchT4) | 6:30 |
 | 29 | [Let Me Tell You](https://open.spotify.com/track/4CQzv0PS56QeObidW3EnXf) | [Lyric](https://open.spotify.com/artist/4YOr4jXlrBof5DTU1KDafk) | [Woman\-Hood Chapter 1 EP](https://open.spotify.com/album/1ZdVzluYo79Nd2mE7W4z1s) | 5:28 |
 | 30 | [Wormhole](https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb) | [Dillon Marinez](https://open.spotify.com/artist/1M1DknkrhbuC17RUTHcOXC) | [Wormhole](https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1) | 5:39 |
-| 31 | [NOW](https://open.spotify.com/track/41S2wSrdsGja0BZUYSkT9U) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [NOW / U EP](https://open.spotify.com/album/0RUz5ob12l6PTAuhLpFsh3) | 5:23 |
+| 31 | [NOW](https://open.spotify.com/track/0RXiRzh1i5xjZJW4WV5PpN) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [NOW / U EP](https://open.spotify.com/album/2ImB6nHT9iOIYulayn7eUx) | 5:23 |
 | 32 | [Benja](https://open.spotify.com/track/2cgmmdRAw4nLSA0fZEPA2s) | [Simas](https://open.spotify.com/artist/6oSvQR9kDo5qO1BNGQ4PeS) | [Benja](https://open.spotify.com/album/2zTBzwH7yMZTSzImj9jehk) | 7:00 |
 | 33 | [Talking Walls \- Dub](https://open.spotify.com/track/0CEui1Dh1RtgE3kVHEvS4J) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Talking Walls](https://open.spotify.com/album/6DN8nBL2ftOAMxiyaIUD3J) | 6:39 |
 | 34 | [Designer Grooves](https://open.spotify.com/track/60DIP24xwaYeHV55LbgGUs) | [Lubelski](https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS) | [The Rave Scene](https://open.spotify.com/album/40XvAnZUA6f6YS4U0TwquU) | 8:08 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 61 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 |
 | 62 | [Enjoy The Day \- Vocal](https://open.spotify.com/track/5PSGcb5x12NYNaOkmZeXAc) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Enjoy The Day](https://open.spotify.com/album/6W6PXpiLO5GKjMvrIsnQpE) | 5:40 |
 
-Snapshot ID: `MTY2Nzg0NTU1NCwwMDAwMDAwMDhmNTg0ZmUxYzkzMzI4ZTY0OTRjNGM4YzM1Mzg4YjRk`
+Snapshot ID: `MTY2Nzg0NTU1NCwwMDAwMDAwMGY0OTEwNDEzZWE3M2I5OTdlNjdhNjEwZmQ0NDc0OGFh`

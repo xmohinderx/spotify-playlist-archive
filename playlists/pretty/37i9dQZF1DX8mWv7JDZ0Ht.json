@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 411784,
+  "num_followers": 411878,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDI4ZmVhZTY5M2NmYTk2ODhhZDQxNmUxZDMxOTQ0ZmYy",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGRhODk0NTdlMDQwNDUxOTg1ZjU1NjMxOWIwZjQ4ZWY2",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Tudo Me Lembra Voc\u00ea",
+        "url": "https://open.spotify.com/album/1179ekUuV8au5wgey9bYNv"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Tudo Me Lembra Voc\u00ea",
+      "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Tudo Pah (Casa Filtr)",
         "url": "https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 163770,
       "name": "Tudo Pah - Casa Filtr",
       "url": "https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Tudo Me Lembra Voc\u00ea",
-        "url": "https://open.spotify.com/album/1179ekUuV8au5wgey9bYNv"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Tudo Me Lembra Voc\u00ea",
-      "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Maior Que N\u00f3s",
-        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 172119,
-      "name": "Maior Que N\u00f3s",
-      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
+      "duration_ms": 179521,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -795,6 +791,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Maior Que N\u00f3s",
+        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 172119,
+      "name": "Maior Que N\u00f3s",
+      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 179521,
-      "name": "MENTIRA",
-      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Produtividade",
-        "url": "https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Produtividade",
-      "url": "https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "NJDDAMC",
         "url": "https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Produtividade",
+        "url": "https://open.spotify.com/album/6uc1ia5Sjn54gWDoPipvz5"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Produtividade",
+      "url": "https://open.spotify.com/track/56FdRY4mgXyS4HC0lZdwkX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Ela \u00c9 S\u00f3 Dela (Ela T\u00e1 Voando 2.0)",
         "url": "https://open.spotify.com/album/6AKzS7OH5Mtf3OQmQwQu70"
       },
@@ -1115,26 +1115,6 @@
       "duration_ms": 175301,
       "name": "Ela \u00c9 S\u00f3 Dela (Ela T\u00e1 Voando 2.0)",
       "url": "https://open.spotify.com/track/2lTXBZaGlHA4V43pBmQpzV"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "me diz (onde que isso vai dar)",
-        "url": "https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX"
-      },
-      "artists": [
-        {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        },
-        {
-          "name": "Leandro Buenno",
-          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
-        }
-      ],
-      "duration_ms": 157976,
-      "name": "me diz (onde que isso vai dar) - remix",
-      "url": "https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1171,6 +1151,26 @@
       "duration_ms": 169226,
       "name": "vem pra perto",
       "url": "https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "me diz (onde que isso vai dar)",
+        "url": "https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        },
+        {
+          "name": "Leandro Buenno",
+          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
+        }
+      ],
+      "duration_ms": 157976,
+      "name": "me diz (onde que isso vai dar) - remix",
+      "url": "https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "T\u00e1 Dif\u00edcil Entender",
         "url": "https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 173880,
       "name": "MTV",
       "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
     },
     {
       "added_at": "2022-11-18 03:00:00",

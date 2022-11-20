@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,686 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,889 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 13 | [What a Hell of a Night](https://open.spotify.com/track/0tGnV16VUYhBYIqdKlaYs1) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [The Legacy \(Best Of\)](https://open.spotify.com/album/4CUiJtR22zqk8yh2hxVjhM) | 4:07 |
 | 14 | [Awakening \- Instrumental](https://open.spotify.com/track/3ulil2bmOxQhiroSXc3qdv) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Apex \(Deluxe Version\)](https://open.spotify.com/album/3u0sJ1AqLQcC5VAFWmky8o) | 7:17 |
 | 15 | [RLS](https://open.spotify.com/track/1OmM8EkUb0pmDkVGCofTsk) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer, Pt.2](https://open.spotify.com/album/5t6vbGXRVuTeYLRnqaFcg1) | 2:56 |
-| 16 | [Do Or Die](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 |
+| 16 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 |
 | 17 | [When Death Sighs](https://open.spotify.com/track/1UsMYbdUkELSRwMMKW6UbK) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [When Death Sighs](https://open.spotify.com/album/6RIh4a1IfToVjizY0fuvDH) | 5:59 |
 | 18 | [Nocturnal Future](https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Nocturnal Future](https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb) | 4:32 |
 | 19 | [Fortune](https://open.spotify.com/track/7rgt1CLTpyIGLrypUUvqTq) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Fortune](https://open.spotify.com/album/5pkmfHjJCHWf4oY5WPilAi) | 5:42 |

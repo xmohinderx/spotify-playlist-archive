@@ -1827,10 +1827,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 112000,
       "name": "sundown",
       "url": "https://open.spotify.com/track/4kFkWxHJgzcNumjUMfE5J7"
+    },
+    {
+      "album": {
+        "name": "sanctuary",
+        "url": "https://open.spotify.com/album/6A9dbXAqZKVf31i5TzxUw4"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/5LKVbgGeC5UAKoORA0rnKU"
     },
     {
       "album": {
@@ -1991,6 +2009,28 @@
     {
       "album": {
         "name": "I Can't Tell You How Much It Hurts",
+        "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
+      },
+      "artists": [
+        {
+          "name": "moow",
+          "url": "https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d"
+        },
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82800,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3TmZJJV5m5aBBXl0g5KfDL"
+    },
+    {
+      "album": {
+        "name": "I Can't Tell You How Much It Hurts",
         "url": "https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP"
       },
       "artists": [
@@ -2005,7 +2045,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 82800,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/73SyPIx501G3211y3oTYns"
@@ -2157,10 +2197,32 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 97050,
       "name": "You're in My Head",
       "url": "https://open.spotify.com/track/4gz5ioUWuYkmtBGKXVZkXY"
+    },
+    {
+      "album": {
+        "name": "I Can't Tell You How Much It Hurts",
+        "url": "https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na"
+      },
+      "artists": [
+        {
+          "name": "moow",
+          "url": "https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d"
+        },
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97050,
+      "name": "You're in My Head",
+      "url": "https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3SNr5BeQZSd"

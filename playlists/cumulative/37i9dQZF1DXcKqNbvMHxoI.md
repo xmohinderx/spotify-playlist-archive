@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-150 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+151 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Light Up](https://open.spotify.com/track/3UttVkIDEczHL8wb2JUas0) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Light Up](https://open.spotify.com/album/28YxcvOmLBAade532hXQaA) | 3:48 | 2022-07-26 | 2022-11-13 |
 | [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-07-26 |  |
 | [Like a Ship](https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 4:38 | 2022-07-19 | 2022-07-27 |
-| [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 | 2022-02-04 |  |
+| [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 | 2022-07-26 |  |
+| [Little Girl](https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw) | 4:12 | 2022-02-04 | 2022-11-20 |
 | [Lone Raver](https://open.spotify.com/track/3557dpMjGiydWbB98MT6H5) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 4:17 | 2022-02-04 |  |
 | [Love Theme \(Dance\)](https://open.spotify.com/track/135ISdvaeGk0nP6xPvACiD) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa) | [Queen & Slim \(Original Motion Picture Score\)](https://open.spotify.com/album/7vhU8I4HsB9tirfjtcoKq4) | 2:33 | 2022-07-19 | 2022-07-27 |
 | [Luminous Spaces \- Edit](https://open.spotify.com/track/7nbLUoUimkbWVQqsZ1mkp8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Luminous Spaces](https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F) | 4:40 | 2022-02-04 |  |

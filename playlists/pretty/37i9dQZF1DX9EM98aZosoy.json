@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1212033,
+  "num_followers": 1212058,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5ODM2NCwwMDAwMDAwMGM0NjY3M2NjMDI4ODdmYjFjZjkxZjRjOWY0OWMyZGI2",
+  "snapshot_id": "MTY2ODU5ODM2NCwwMDAwMDAwMDdjOGJjMzQ4N2JmMzM1OTQwY2M3ZTZjMTRmODE4OGMy",
   "tracks": [
     {
       "added_at": "2022-10-28 09:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-11-19 01:39:12",
+      "added_at": "2022-11-20 01:38:53",
       "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-11-19 01:39:12",
+      "added_at": "2022-11-20 01:38:53",
       "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2022-11-19 01:39:12",
+      "added_at": "2022-11-20 01:38:53",
       "album": {
         "name": "NON STOP",
         "url": "https://open.spotify.com/album/6A4gV8vKVwOTOVSLNUDhu6"
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2022-10-28 09:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,733 likes - 500 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,601 likes - 500 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,7 +323,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 313 | [Walking Through Rainbows](https://open.spotify.com/track/67zPAbFFnnVhQdfVhHDqTM) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Walking Through Rainbows](https://open.spotify.com/album/5D9XTz50hVBrWmajZa4QGj) | 2:42 |
 | 314 | [Siren](https://open.spotify.com/track/5ABg7s1BVIqBqqJ3zId6VK) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Siren](https://open.spotify.com/album/7rFHp3AWElsfkdn427krtl) | 2:25 |
 | 315 | [Pink Bubbles](https://open.spotify.com/track/4NAHSHMsoUFQdHwXqv89FV) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe), [Jar Jar Beats](https://open.spotify.com/artist/5XQWtJiKDxKQ4bLX9vlOIz), [DNTST](https://open.spotify.com/artist/5e4psZZxyVvf7NVLWkKqjf) | [Pink Bubbles](https://open.spotify.com/album/041pBi97F8HMYb37rUnZ6K) | 2:02 |
-| 316 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 |
+| 316 | [Kite](https://open.spotify.com/track/2CshcD2ZdSr8lgEkSYcmmK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/1SCKTftnhCkK2RlNcAaIkq) | 2:23 |
 | 317 | [Ghosting](https://open.spotify.com/track/5vrt91IhW5lQW6fUUFV2hW) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ghosting](https://open.spotify.com/album/7uqNftaPHWWHpsuikVidsS) | 2:17 |
 | 318 | [Don't Forget](https://open.spotify.com/track/5BVwZQXdzWvit2FqwJ0RNz) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Don't Forget](https://open.spotify.com/album/1iYtq5F16yJ5e2zYSVf1mc) | 2:28 |
 | 319 | [Double Trouble](https://open.spotify.com/track/5s2wmEvIgB7AcqLSVJF8UY) | [Gush3r](https://open.spotify.com/artist/0JStswNUKUTdwoYYSGQ2eG) | [Double Trouble](https://open.spotify.com/album/25amYkdLlAv7yQZPY8Y3Vl) | 3:22 |
@@ -406,7 +406,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 396 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 |
 | 397 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 |
 | 398 | [As a friend](https://open.spotify.com/track/7bFqZel7uUPao8OU2SxazG) | [Boho Scottish](https://open.spotify.com/artist/0TudjISZ7XuF3WDYBYxXqx) | [Let´s Make A Wish](https://open.spotify.com/album/3AzgtFCVkJTL00DVJ8nujl) | 1:35 |
-| 399 | [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3s5A9isqd5xHMjzdNnWC4E) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/3XLe6sP4yHAoUMpQHiEgCu) | 2:51 |
+| 399 | [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3ZmHZzwDi0hcPlC6xkBeKa) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/0CU9sF8SUKODFp8AdRHo3S) | 2:51 |
 | 400 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
 | 401 | [Strawberry Mojito](https://open.spotify.com/track/4tv0OtMtBA5l12gmw20HpO) | [Baby Peppers](https://open.spotify.com/artist/6brahtsoEAq3syNfD48Ovx) | [Drizzle Weather](https://open.spotify.com/album/2i6h4wpnqljpXQwJMLQPSQ) | 1:46 |
 | 402 | [Dai jobu desu](https://open.spotify.com/track/0swzQPf4GDR6ZCO0UT1lRJ) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Dai jobu desu](https://open.spotify.com/album/5cgSj26aGyk6VZw6m1FB28) | 2:25 |
@@ -457,7 +457,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 447 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 |
 | 448 | [patterns](https://open.spotify.com/track/2smVrx1bBjvCZzNfPJUreP) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [patterns](https://open.spotify.com/album/62TLfAp28vVldveSmrScpq) | 2:19 |
 | 449 | [Awake](https://open.spotify.com/track/0dBhYly94Dr5FY7j4T72FV) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Sadisfi](https://open.spotify.com/artist/6BYBUD4AJM4Qs5Pnb19cxS), [Gekkoh](https://open.spotify.com/artist/2QAYuDHYZnN33UnOB2dwl0) | [Awake](https://open.spotify.com/album/7DB6yyIHQQSyXw8ygkGhCO) | 2:35 |
-| 450 | [Sail](https://open.spotify.com/track/2UoBC0BW1IAylLqjoFcb8X) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/39oKw9IrGpEpBmDT0HOZDE) | 2:36 |
+| 450 | [Sail](https://open.spotify.com/track/5KImYDn0L8ugwoSbyxtBxy) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/0GrzxYkpyYvmlYiuZW3Sob) | 2:36 |
 | 451 | [Turnin'](https://open.spotify.com/track/1FPITXegY60iam6bYx4p5w) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Turnin'](https://open.spotify.com/album/2gceX5SfUJzI3bjS4BjzGo) | 2:20 |
 | 452 | [Straylights](https://open.spotify.com/track/2vwVuPxqckJFtBMIHME8xu) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Straylights](https://open.spotify.com/album/0KwARguET2k5Ue0rovfMrG) | 2:00 |
 | 453 | [Taking It Slow At The Beach](https://open.spotify.com/track/5xQJTQyGpzI48h8YYldXnD) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Taking It Slow at the Beach](https://open.spotify.com/album/4oNYznjAG04N2Wlvwen4Xn) | 2:05 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 |
 | 500 | [Slow Gaze](https://open.spotify.com/track/5JNtPcB3X3tAsvV8dgRVC4) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Slow Gaze](https://open.spotify.com/album/3gE84IEeTCcjLlCPhBEyD2) | 2:27 |
 
-Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMGQ4Mjc0ZTMzYTFmMTY1YmNiNDFiZDQ3MTI5MjIxMjMw`
+Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMDNkMjVjNDdjZDYzZjMwZjhlYTBhYzQxYjBhOGRiOTE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. brakence
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,597 likes - 110 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,656 likes - 110 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

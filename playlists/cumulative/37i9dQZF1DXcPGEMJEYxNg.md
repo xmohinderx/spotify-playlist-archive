@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-112 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
+113 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 | 2022-05-18 | 2022-07-13 |
 | [Chill](https://open.spotify.com/track/2x1qVOblGRkbk1OdrHQlnr) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW) | [Chill](https://open.spotify.com/album/3Ye3oA9jpHEERixKaO9Y0J) | 3:12 | 2022-05-18 | 2022-07-13 |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-05-18 |  |
-| [Dancing In The Wild](https://open.spotify.com/track/7gNW84YFTWpogo5rKMR0UW) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Dancing In The Wild](https://open.spotify.com/album/4sxTM1Xna0jW2Fq2vRNLR0) | 3:33 | 2022-07-12 |  |
+| [Dancing in the Wild](https://open.spotify.com/track/2nMzoa9kEaklftvRfERJqZ) | [Su Lee](https://open.spotify.com/artist/3fQKqN78jhKHvpI2DqecIj) | [Dancing in the Wild](https://open.spotify.com/album/6FJtUF1Z1FeoahCd8Lc3P3) | 3:29 | 2022-07-12 |  |
+| [Dancing In The Wild](https://open.spotify.com/track/7gNW84YFTWpogo5rKMR0UW) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Dancing In The Wild](https://open.spotify.com/album/4sxTM1Xna0jW2Fq2vRNLR0) | 3:33 | 2022-07-12 | 2022-11-20 |
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2022-05-18 | 2022-07-13 |
 | [DEATH TRIP](https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ) | 3:42 | 2022-07-12 |  |
 | [DEATH TRIP](https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO) | 3:42 | 2022-05-18 | 2022-10-13 |

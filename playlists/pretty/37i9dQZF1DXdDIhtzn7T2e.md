@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,149 likes - 72 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,211 likes - 72 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 67 | [Hush Hush](https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:23 |
 | 68 | [I Breathe In, I Breathe Out](https://open.spotify.com/track/3r513lY50AOJBqaG4nP2LT) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [The Best Of Chris Cagle](https://open.spotify.com/album/5pFRXi6aWOpOlUESPBRLru) | 4:03 |
 | 69 | [I May Smoke Too Much](https://open.spotify.com/track/6ZJBCK9kOHZWuYWu4npuzE) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:08 |
-| 70 | [High Feeling](https://open.spotify.com/track/3ieuCF9ixhvNkT8noRbYYg) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5cA7YeIhSv4f82ACPN35uJ) | 2:57 |
+| 70 | [High Feeling](https://open.spotify.com/track/4wqi04nuwUIzG5zXxrUdmD) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [High Feeling](https://open.spotify.com/album/5sS58KZBYfNxFHQVeRUH41) | 2:57 |
 | 71 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 72 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDI5MzgxZjc0ZTNkZWU4OWQzZTE5MDRmNmE2NTc2N2Qy`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGNkZTYyNjZiNDIzODUwMGQ4MTI5ODdiY2Q1ZmRkYWFm`

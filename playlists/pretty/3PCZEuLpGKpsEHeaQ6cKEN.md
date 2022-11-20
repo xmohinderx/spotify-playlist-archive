@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| This week the playlist is about Dreamfields Festival, where Armada is hosting a stage, including artists like Matt Guy, Maxim Lany, ARTY, Kasablanca, Aly &amp; Fila\. And on top of that, Armin van Buuren and Will Sparks are performing
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,116 likes - 153 songs - 7 hr 54 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,111 likes - 153 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

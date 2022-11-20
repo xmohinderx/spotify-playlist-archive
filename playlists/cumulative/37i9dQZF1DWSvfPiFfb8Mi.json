@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
+    },
+    {
+      "album": {
         "name": "Holding You",
         "url": "https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 308877,
       "name": "Holding You",
       "url": "https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G"
@@ -1305,10 +1323,32 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 299776,
       "name": "Ritmo 6",
       "url": "https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo"
+    },
+    {
+      "album": {
+        "name": "Tannin",
+        "url": "https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P"
+      },
+      "artists": [
+        {
+          "name": "Christian S",
+          "url": "https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo"
+        },
+        {
+          "name": "Sano",
+          "url": "https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299776,
+      "name": "Ritmo 6",
+      "url": "https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI"
     },
     {
       "album": {

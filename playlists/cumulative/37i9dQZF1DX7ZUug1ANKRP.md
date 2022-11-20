@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Zombic, Influencerz, Danimal
 
-221 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+222 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2021-12-15 | 2022-03-24 |
 | [Pepas \- Robin Schulz Remix](https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pepas \(Robin Schulz Remix\)](https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw) | 4:40 | 2021-12-15 | 2022-03-31 |
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-12 | 2022-02-17 |
-| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-26 |  |
+| [Phonky Tribu](https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx) | 4:46 | 2022-10-26 | 2022-11-20 |
+| [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-11-16 |  |
 | [Piece Of My Heart](https://open.spotify.com/track/7c8xbrrTb3gSkfvM0fiS8B) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Piece Of My Heart](https://open.spotify.com/album/0vulF8iwEhbGEvguCuxQeK) | 2:40 | 2022-02-09 | 2022-03-24 |
 | [Pirate](https://open.spotify.com/track/6nMeSUJ9Z1EpJvrkcZWAbP) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk) | [Pirate](https://open.spotify.com/album/4TsMT2PTcweFzkJ3h7sQgb) | 2:32 | 2022-10-05 |  |
 | [Planet In The Sky \(feat\. MKLA\)](https://open.spotify.com/track/32eSXKGSMITI1oJbjBxAHS) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Planet In The Sky \(feat\. MKLA\)](https://open.spotify.com/album/7iyZBOe2XNO7ZH7Q1fzttL) | 3:17 | 2022-01-19 | 2022-03-03 |

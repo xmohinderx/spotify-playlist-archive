@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-218 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+219 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Before](https://open.spotify.com/track/4jnryVYgyBPM6yxZQLFzJT) | [Fresh Faces](https://open.spotify.com/artist/054OEgiAhYwnqHQOV2KmSc) | [Before](https://open.spotify.com/album/0ZgzhNN2wnyVnDjlRKi0vK) | 2:34 | 2022-03-25 | 2022-06-08 |
 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 | 2021-12-09 |  |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-08-05 |  |
-| [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 |  |
+| [Blue Room](https://open.spotify.com/track/0kALrkZ7O7dZfLuwjD0wDT) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/64wlWLiCzubQBn4zxkCwxc) | 2:07 | 2022-06-02 | 2022-11-20 |
 | [Blue Room](https://open.spotify.com/track/7pVWQOxI0kKpe4Lo7AJ7qZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Blue Room](https://open.spotify.com/album/1nz37Y6wJVp4eVngCLeHhe) | 2:07 | 2021-12-09 | 2022-07-29 |
 | [Boardwalk Lullaby](https://open.spotify.com/track/36Y9QenzjmEBtuOBz14dNA) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Boardwalk Lullaby](https://open.spotify.com/album/5czR37oCAa3TYKxuAQzfJJ) | 2:44 | 2022-06-02 |  |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2021-12-09 | 2022-04-17 |
@@ -52,6 +52,7 @@
 | [Coffee Break](https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Dreaming in Colour](https://open.spotify.com/album/4t5Ny1A5RTzUScEZ1risaq) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2022-06-02 |  |
 | [Control](https://open.spotify.com/track/4FLaWi1Gr34f9SGaBtOa5P) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/1RSaZHGO5Zz08MGXKJtlNn) | 2:49 | 2021-12-09 | 2022-07-29 |
+| [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 | 2021-12-09 |  |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-12-09 |  |
 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 | 2021-12-09 | 2022-04-22 |

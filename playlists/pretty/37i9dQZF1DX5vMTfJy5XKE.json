@@ -1,6 +1,6 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Sam Smith",
-  "num_followers": 206689,
+  "num_followers": 207054,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
@@ -212,12 +212,12 @@
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
           "name": "PJ Harding",
           "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
       "duration_ms": 229090,

@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/2YNoFl7lR2PxUel0utuI8K)
+77 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2YNoFl7lR2PxUel0utuI8K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-08-12 | 2022-11-08 |
 | [Musique Noire \- Jamie Jones In Out Edit](https://open.spotify.com/track/3kWwoy7YplmupGFwxTk192) | [Jonny White, James Teej, Jamie Jones](https://open.spotify.com/artist/491V4kaPpsengqzkreSoXm) | [Soul Clap Social Experiment Sampler Part 2](https://open.spotify.com/album/31glV4B2Xhgkeo99Q7ZGPv) | 5:45 | 2022-08-12 |  |
 | [No Shuffle \- Terence Fixmer Remix](https://open.spotify.com/track/6iL13eNGVv2m5kiowX7fMR) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX), [Terence Fixmer](https://open.spotify.com/artist/54yHcfvcrKO91U46rnzHkc) | [<<rewind<<](https://open.spotify.com/album/6kXzYOQTJIiZJijHSScLOz) | 6:22 | 2022-11-07 |  |
-| [NOW](https://open.spotify.com/track/41S2wSrdsGja0BZUYSkT9U) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [NOW / U EP](https://open.spotify.com/album/0RUz5ob12l6PTAuhLpFsh3) | 5:23 | 2022-08-12 |  |
+| [NOW](https://open.spotify.com/track/0RXiRzh1i5xjZJW4WV5PpN) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [NOW / U EP](https://open.spotify.com/album/2ImB6nHT9iOIYulayn7eUx) | 5:23 | 2022-11-07 |  |
+| [NOW](https://open.spotify.com/track/41S2wSrdsGja0BZUYSkT9U) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [NOW / U EP](https://open.spotify.com/album/0RUz5ob12l6PTAuhLpFsh3) | 5:23 | 2022-08-12 | 2022-11-20 |
 | [Penguin Hit Squad](https://open.spotify.com/track/0BInMeLs6MQ1qlMdyWLzkb) | [Mike Kerrigan](https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE), [n808](https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf) | [Penguin Hit Squad](https://open.spotify.com/album/3SjYDcQKpLPlhb4hGPMmsx) | 6:46 | 2022-11-07 |  |
 | [Prayer \- 623 Again Vocal Mix](https://open.spotify.com/track/6sSjMJC4C04SKjrHbxKi39) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Rev F\. L\. Brown](https://open.spotify.com/artist/4MJHGtGNmDBfbDq7LfsJwO) | [Prayer](https://open.spotify.com/album/3GydW4vAlw2pCGe8BZC5Fa) | 6:24 | 2022-08-12 |  |
 | [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-08-12 |  |

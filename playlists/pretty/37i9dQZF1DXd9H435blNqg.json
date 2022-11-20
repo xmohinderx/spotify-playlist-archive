@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 25935,
+  "num_followers": 26027,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGY3MWUxMjVlN2EyNDYzYWM2ZGRkZmY3ZDNlYmVkYjcy",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDg2NjQzMGQwZGNlOWYzYjc1OTVhOWJhMDc2ZDVmOTEz",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Chocolate Samurai",
         "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Going Down",
-        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
-      },
-      "artists": [
-        {
-          "name": "Black River Delta",
-          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Sand Castles",
         "url": "https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr"
       },
@@ -823,6 +807,42 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5"
+      },
+      "artists": [
+        {
+          "name": "Black River Delta",
+          "url": "https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Have You Lost Your Mind yet?",
+        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 225551,
+      "name": "Searching for Captain Save a Hoe",
+      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
       },
@@ -835,22 +855,6 @@
       "duration_ms": 195466,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Bottom Shelf Gin",
-        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Bottom Shelf Gin",
-      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
     }
   ],
   "unique_name": "Alt-Blue",

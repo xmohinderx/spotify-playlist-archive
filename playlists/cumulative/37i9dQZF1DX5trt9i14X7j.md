@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-157 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+159 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Conquistador I](https://open.spotify.com/track/1FxF09nqDzYgvsB5UcmTtY) | [Juno Reactor](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6) | [Labyrinth](https://open.spotify.com/album/2DhzRy5TW3XdXgaHc2jtJl) | 6:02 | 2021-12-08 | 2022-07-06 |
 | [Coral Reef](https://open.spotify.com/track/3ElDX6t2ayq83erLIjy3fx) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [missing piece](https://open.spotify.com/album/0TTD6fjBDNQ5r3w5l8lalj) | 2:42 | 2021-12-08 |  |
 | [Cotton Spheres](https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 2:54 | 2021-12-08 |  |
-| [Crystal](https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3) | 8:33 | 2021-12-08 |  |
+| [Crystal](https://open.spotify.com/track/2bSQIZHLpDkJXD47SMGJV9) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/1na34qpvNXMvcbNk7Q1g1P) | 8:33 | 2022-11-14 |  |
+| [Crystal](https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3) | 8:33 | 2021-12-08 | 2022-11-20 |
 | [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 | 2021-12-08 |  |
 | [Day One](https://open.spotify.com/track/1ClIKr4uKzosk6FOpHwLJM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0) | 3:19 | 2021-12-08 | 2022-07-29 |
 | [Day One](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 | 2022-07-25 |  |
@@ -150,7 +151,8 @@
 | [Stay Near](https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [Sjangeli](https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb) | 2:48 | 2022-07-25 |  |
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2022-05-31 |  |
 | [Sunday Glide](https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 5:47 | 2021-12-08 |  |
-| [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-12-08 |  |
+| [Swoon](https://open.spotify.com/track/2ylb7ruks50yKP8JXHPBQQ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/3BiA4ylo9PwprkAn2UJ437) | 2:37 | 2022-11-14 |  |
+| [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-12-08 | 2022-11-20 |
 | [Symmetry Systems \(Emerald\)](https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Symmetry Systems](https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj) | 3:22 | 2022-11-14 |  |
 | [Take Me Back](https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo) | 2:56 | 2022-07-25 |  |
 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 | 2022-07-29 |

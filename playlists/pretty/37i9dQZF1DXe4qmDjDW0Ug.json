@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5578,
+  "num_followers": 5589,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDAxZjA2MGJjM2ZlMDY2NTdlNTViOTM0NjU1NmQ3ZGUy",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDE4NDMxMDViZDRiYTk1MDQzYjBlYTIyZjk4ZjYwNDJi",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Master`s sun OST Part 4",
-        "url": "https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244166,
-      "name": "Touch love",
-      "url": "https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -271,22 +255,34 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+        "name": "Master`s sun OST Part 4",
+        "url": "https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Remastered",
-          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 230087,
-      "name": "JOAH - Remastered",
-      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
+      "duration_ms": 244166,
+      "name": "Touch love",
+      "url": "https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -343,18 +339,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "I Want To Fall In Love",
-        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
       "artists": [
         {
-          "name": "Johan Kim",
-          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
         }
       ],
-      "duration_ms": 232544,
-      "name": "I Want To Fall In Love",
-      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
+      "duration_ms": 230087,
+      "name": "JOAH - Remastered",
+      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
         }
       ],
-      "duration_ms": 234633,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+      "duration_ms": 202946,
+      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -731,6 +715,22 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
       "artists": [
         {
-          "name": "J",
-          "url": "https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
       "artists": [
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "J",
+          "url": "https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT"
         }
       ],
-      "duration_ms": 288693,
-      "name": "If You Comeback",
-      "url": "https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1"
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

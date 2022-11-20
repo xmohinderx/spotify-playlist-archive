@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. Cover: SPOOL",
-  "num_followers": 36363,
+  "num_followers": 36387,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5NzIwMCwwMDAwMDAwMDk0OGY5MjAxMzhkMjVjYTE0ZTRlZWQ2ZDBmMzJjYjRk",
+  "snapshot_id": "MTY2ODY5NzIwMCwwMDAwMDAwMGEwMmI3NmYyODExZTI0MmNhZmNjYTBiZDgyYmNlM2M3",
   "tracks": [
     {
       "added_at": "2022-11-17 15:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
+        "name": "Rebellion",
+        "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
       },
       "artists": [
         {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 258974,
-      "name": "\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
+      "duration_ms": 178064,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Rebellion",
-        "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
+        "name": "\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Rebellion",
-      "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
+      "duration_ms": 258974,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "NEW ME",
-        "url": "https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "NEW ME",
-      "url": "https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "Landscape",
         "url": "https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 231840,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "NEW ME",
+        "url": "https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "NEW ME",
+      "url": "https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o"
     },
     {
       "added_at": "2022-11-17 15:00:00",

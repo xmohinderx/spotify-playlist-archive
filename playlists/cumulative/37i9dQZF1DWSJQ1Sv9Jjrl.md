@@ -4,12 +4,13 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-46 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
+47 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/7j6ZRuX0artzn2fcS33kVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [As Good as It Gets](https://open.spotify.com/track/0onRRPMlJ5OmWppoJtVwKD) | [Leftrightcenter](https://open.spotify.com/artist/07mLaGASjL3C43sjlpAL7Y) | [As Good as It Gets](https://open.spotify.com/album/05wcj0DsGL8wvl1ECuq4tn) | 2:50 | 2022-02-11 |  |
-| [As Long as You Love Me](https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik) | 3:04 | 2022-02-11 |  |
+| [As Long as You Love Me](https://open.spotify.com/track/0U009cDlGPpshpotu9bSgS) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/4vE6sKhkUJxZ1Bxgya5sUv) | 3:04 | 2022-02-11 |  |
+| [As Long as You Love Me](https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/5gw7p48ohCl2DpMjvMw5Ik) | 3:04 | 2022-02-11 | 2022-11-20 |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2022-02-11 |  |
 | [Be Who You Are](https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM) | [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z), [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [Be Who You Are](https://open.spotify.com/album/2qbNPqksd5T8yjxuGUZsoc) | 2:35 | 2022-02-11 |  |
 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 | 2022-02-11 |  |

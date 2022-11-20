@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Witch Fever
 
-115 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+116 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 | 2022-08-05 |  |
 | [WRAITH](https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw) | 3:19 | 2022-11-18 |  |
 | [Wraith](https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Wraith](https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq) | 3:00 | 2022-09-02 |  |
-| [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 | 2022-10-14 |  |
+| [Yenta](https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs) | 3:09 | 2022-11-18 |  |
+| [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 | 2022-10-14 | 2022-11-20 |
 
 \*This playlist was first scraped on 2022-08-08. Prior content cannot be recovered.

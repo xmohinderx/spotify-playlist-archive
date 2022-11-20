@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89386,
+  "num_followers": 89387,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGQyMjIwMzhhZWNlOWYwYTI0MDQwNTQ1OGMzZmM4MDEw",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDc0M2EwODNhMjc1ODEyNTcwOTg4YmZiZWFlMDQ5MTAz",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -575,22 +575,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Shake The Spirit",
-        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "25 Years Later",
         "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 227800,
       "name": "Over The Hump",
       "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Shake The Spirit",
+        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Good Thing Gone",
-        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 292594,
-      "name": "Good Thing Gone",
-      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "My Love Goes On (feat. Joss Stone)",
         "url": "https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 159346,
       "name": "We Need Love - from Songland",
       "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Good Thing Gone",
+        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 292594,
+      "name": "Good Thing Gone",
+      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "In the Blue Light",
-        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "One Man's Ceiling Is Another Man's Floor",
-      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Chip Tooth Smile",
         "url": "https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
       },
       "artists": [
         {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
+      "duration_ms": 240693,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -967,6 +951,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Another One Down",
         "url": "https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 192136,
       "name": "Another One Down",
       "url": "https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -1007,22 +1023,6 @@
       "duration_ms": 382853,
       "name": "Story Of Everything",
       "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Shine A Light",
-      "url": "https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr"
     },
     {
       "added_at": "2019-11-29 09:37:55",

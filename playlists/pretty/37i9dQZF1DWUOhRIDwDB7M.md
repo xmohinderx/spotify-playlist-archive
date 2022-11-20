@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,581 likes - 232 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,559 likes - 232 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 147 | [mellow](https://open.spotify.com/track/1yJXNOEP2bq1N1691n37oS) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [sleep escape](https://open.spotify.com/album/4XrIUaNhTJFVDrfykbsnAN) | 2:24 |
 | 148 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 |
 | 149 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 |
-| 150 | [Bayybe 07](https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/4usPLgAV2lZZ5iKu74x7dS) | 1:54 |
+| 150 | [Bayybe 07](https://open.spotify.com/track/4ahEI4QjOwmT4z8PuZZYDk) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/04KlP3uybtKQP8iE8gvY56) | 1:54 |
 | 151 | [Floating Sunbeams](https://open.spotify.com/track/7hJZMJqFRlypzSlxC7Kn8n) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Floating Sunbeams](https://open.spotify.com/album/0q40RzJIgk67Sv3aG8iAPd) | 2:39 |
 | 152 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 |
 | 153 | [Mayor Menor](https://open.spotify.com/track/5nrBW6ySNOcXTzC7WcpyNf) | [King Kuelgue](https://open.spotify.com/artist/5PIv0hL3wDUZ57va29ZKeT) | [Tres](https://open.spotify.com/album/2QCMu5Nsx4Cs1Rl3m2tq7j) | 1:52 |
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 231 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 |
 | 232 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 |
 
-Snapshot ID: `MTY2ODE2OTA4NiwwMDAwMDAwMDExMTc4Y2Q1ZjUxYTZiM2YwYmIzZTg3OGFmN2E0MGEx`
+Snapshot ID: `MTY2ODE2OTA4NiwwMDAwMDAwMDAzYWJhMWQ1NmM4ZDhkZTRjYzVhNzBmNGFmY2M4NjI1`

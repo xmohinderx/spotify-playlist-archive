@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,981 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,063 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 18 | [Straight Up](https://open.spotify.com/track/2mrd6kYNtKT5IWQEu1aA6e) | [Antss](https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2), [ASH\-R](https://open.spotify.com/artist/0i3zkvY37yDarZmt9diEyQ) | [Straight Up](https://open.spotify.com/album/79PgcsXWfOwrUiplnzwgix) | 7:23 |
 | 19 | [Machine I](https://open.spotify.com/track/3s8Kfk2WvDmmsvlyiMjknu) | [Literon](https://open.spotify.com/artist/1s9IhdI8fSScFz1FvE16Qm) | [Machines EP](https://open.spotify.com/album/2BACp0If3TKF6C04YfM6od) | 7:27 |
 | 20 | [Indo Silver Club](https://open.spotify.com/track/4jF8GAMRCOenL17cNnBDI0) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 4:34 |
-| 21 | [Into the Wild](https://open.spotify.com/track/6267UX7DYUa30kmM9AZPbH) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [Future Sounds Of Jazz Vol\. 14 \(Compiled by Permanent Vacation \[Benjamin Fröhlich & Tom Bioly\]\)](https://open.spotify.com/album/48saRKY0LbrzJImIHLR9M5) | 8:38 |
+| 21 | [Into the Wild](https://open.spotify.com/track/6Zxdm6bUA9q8lHwrJdBCGa) | [Tee Mango](https://open.spotify.com/artist/6rjQQtrWdRmt4y4FeqnwNQ) | [Future Sounds Of Jazz, Vol\. 14](https://open.spotify.com/album/5cgJz6gBwo4tiWsCa35cdE) | 8:38 |
 | 22 | [Magnets \- Loco Dice Remix](https://open.spotify.com/track/79OOTDBFDzGnKB6Z1EtOhy) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P) | [Magnets \(The Remixes\)](https://open.spotify.com/album/3QvKAsfOZFm5kEKjIBk1Fl) | 6:56 |
 | 23 | [Bizzi](https://open.spotify.com/track/6daxLoDaCoSNR5fd2fRcHh) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Bizzi](https://open.spotify.com/album/2eRdbIVUB1WoLQ5qjc6vcE) | 6:16 |
 | 24 | [Make You Feel](https://open.spotify.com/track/4wUFjTEGGI9BFAe63jpbgD) | [Ben Murphy](https://open.spotify.com/artist/25pgiXH1oj5pYmasjenRtr) | [Make You Feel](https://open.spotify.com/album/5s7joh0W9dnhBuoovXqqXi) | 6:27 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 96 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 97 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDNlNzRiOTk5N2ZkNWM0YTJiZGQ4YzAxZDJkNzA1MDY3`
+Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMGRmN2M2ZWQ0ZTgxYjM3MmEwYmFlNzMxY2Q0YWU3YjA4`

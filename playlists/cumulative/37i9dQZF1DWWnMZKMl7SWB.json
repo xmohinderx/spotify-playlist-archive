@@ -635,6 +635,24 @@
     {
       "album": {
         "name": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
+        "url": "https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364059,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/17bj0Y5P4YUZzAheOxxJUg"
+    },
+    {
+      "album": {
+        "name": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
         "url": "https://open.spotify.com/album/3dunJ0uhRdQJNqKWdqAeqe"
       },
       "artists": [
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 364059,
       "name": "Azure",
       "url": "https://open.spotify.com/track/2VnlJCQMphFJUyYR5p7da2"
@@ -861,6 +879,24 @@
     {
       "album": {
         "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300266,
+      "name": "Body Language - Interpretation",
+      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "album": {
+        "name": "Movements",
         "url": "https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX"
       },
       "artists": [
@@ -871,7 +907,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ"

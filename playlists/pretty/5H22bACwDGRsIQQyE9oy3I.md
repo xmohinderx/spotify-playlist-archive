@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain]
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

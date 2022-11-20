@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-90 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
+91 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Ride One](https://open.spotify.com/track/0D0ok8ZMKVNl3URWx0myWb) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rich Coast](https://open.spotify.com/album/3MpXQhHOAJC6oug9XlEyQS) | 3:46 | 2021-11-19 |  |
 | [Runna](https://open.spotify.com/track/2Y8AxWrUFQP5J1ZTq4jFps) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Milmo](https://open.spotify.com/album/3SgeZvDM3tjVRnvZK3mIHU) | 2:50 | 2021-11-19 |  |
 | [Shapes](https://open.spotify.com/track/4c54ITAzBHJS3WcYeD2vU8) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Homebrew](https://open.spotify.com/album/0X1gFljm5ogWpi4CsbBam2) | 3:13 | 2021-11-19 |  |
-| [Shook](https://open.spotify.com/track/7uw2RLrljWUpO0eM7lxSIS) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Mind Shook Dreams](https://open.spotify.com/album/0g7DUcA4cRwxhYYktCZITL) | 1:58 | 2021-11-19 |  |
+| [Shook](https://open.spotify.com/track/2GWu06oCNg4OxGIoj5FuE5) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Mind Shook Dreams](https://open.spotify.com/album/6tSVy7KGYsGF3Ru6CzVcOV) | 1:58 | 2022-02-07 |  |
+| [Shook](https://open.spotify.com/track/7uw2RLrljWUpO0eM7lxSIS) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz) | [Mind Shook Dreams](https://open.spotify.com/album/0g7DUcA4cRwxhYYktCZITL) | 1:58 | 2021-11-19 | 2022-11-20 |
 | [Slowly \- Instrumental](https://open.spotify.com/track/4ecPOJbppSjn1CbXk9lXwv) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [L.O.V: La Otra Vida \(Instrumental\)](https://open.spotify.com/album/3yOo3LUo6BkjxuB5Jf8EaM) | 3:24 | 2021-11-19 |  |
 | [South Side Story](https://open.spotify.com/track/24msFZ8HtIswKkBG41PGS0) | [Young Chop](https://open.spotify.com/artist/5L0n62BVUljSzKMLyMaFHR) | [Trap vs\. Drill vs\. EDM](https://open.spotify.com/album/4qI7qqjmOxfwYpW3YgNqer) | 3:23 | 2022-02-07 |  |
 | [South Side Story](https://open.spotify.com/track/7HVmXhY97d2iboUgRK7wgK) | [Young Chop](https://open.spotify.com/artist/5L0n62BVUljSzKMLyMaFHR) | [Trap vs\. Drill vs\. EDM](https://open.spotify.com/album/5NZQapBsaSnyks5k0tAzIf) | 3:23 | 2021-11-19 | 2022-07-29 |

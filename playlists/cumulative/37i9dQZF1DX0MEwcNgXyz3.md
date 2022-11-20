@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-65 songs - 3 hr 33 min - not published yet
+66 songs - 3 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Overcome](https://open.spotify.com/track/3oeKrn90eVhCFJvsSq6PO0) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:07 | 2022-11-01 |  |
 | [Overcome \- Safari Riot Remix](https://open.spotify.com/track/5THOIfDsTT1EQBQSlPB8SK) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:15 | 2022-11-01 |  |
 | [Parte Di Me](https://open.spotify.com/track/07MUsUQo2YJUGTUJHMtvZJ) | [Son Foc](https://open.spotify.com/artist/6dwBt1srcIiRWrnXnSnZod) | [Battaglia Storica](https://open.spotify.com/album/1ebkDifC3m38ZUTZ6YHjXe) | 2:28 | 2022-11-01 |  |
-| [Please Don't Go](https://open.spotify.com/track/487G1Jfq4IWrQhSgRjtVXq) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Please Don't Go](https://open.spotify.com/album/1K5DX9DdH6M9AG2IL0oKTB) | 3:22 | 2022-11-01 |  |
+| [Please Don't Go](https://open.spotify.com/track/487G1Jfq4IWrQhSgRjtVXq) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Please Don't Go](https://open.spotify.com/album/1K5DX9DdH6M9AG2IL0oKTB) | 3:22 | 2022-11-01 | 2022-11-20 |
+| [Please Don't Go](https://open.spotify.com/track/66dN6gNR11bIZThguREYTX) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [You](https://open.spotify.com/album/3fREGD6GUmcccni6gBBLzG) | 3:22 | 2022-11-01 |  |
 | [Pressure](https://open.spotify.com/track/60ffplswUO9tKdI2zf0HpF) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Are We There Yet?](https://open.spotify.com/album/04mhm27pdnQIm9cfW5Vo6e) | 2:01 | 2022-11-01 |  |
 | [Remember](https://open.spotify.com/track/4vJXbym2xwq68Ip4uGP1sy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Omar Covers](https://open.spotify.com/album/3VKqWgbccERmvm6fH3iIEC) | 2:56 | 2022-11-01 |  |
 | [Revenge](https://open.spotify.com/track/47GEdwG8Epe1254AnwKP4e) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:27 | 2022-11-01 |  |

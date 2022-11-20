@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,703 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,870 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 6 | [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 |
 | 7 | [I Wanna Be Someone Who's Loved \- from the Netflix Series "Young Royals"](https://open.spotify.com/track/4H2jEahDISrj6FDTwuPfb8) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [I Wanna Be Someone Who's Loved \(from the Netflix Series "Young Royals"\)](https://open.spotify.com/album/21nf5HWYr2ZwVHAob4OwI5) | 3:11 |
 | 8 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
-| 9 | [Please Don't Go](https://open.spotify.com/track/487G1Jfq4IWrQhSgRjtVXq) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Please Don't Go](https://open.spotify.com/album/1K5DX9DdH6M9AG2IL0oKTB) | 3:22 |
+| 9 | [Please Don't Go](https://open.spotify.com/track/66dN6gNR11bIZThguREYTX) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [You](https://open.spotify.com/album/3fREGD6GUmcccni6gBBLzG) | 3:22 |
 | 10 | [Fet House Mode](https://open.spotify.com/track/0u3f56vNQmb3u717exNZQS) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Fet House Mode](https://open.spotify.com/album/7kiIjGrgaUbWHIhOoOgp2Y) | 3:33 |
 | 11 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 |
 | 12 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMDJlMDdhNzc4MjAwZGRiMDBmNjgwNDkzYzMzMTNjMTQx`
+Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMDRhZTE5ZGZlYzMzYThmZWNhMTVlMTEyZjYxMjIwMzdl`

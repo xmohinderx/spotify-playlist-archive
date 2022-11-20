@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-487 songs - 1 day 3 hr 7 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+489 songs - 1 day 3 hr 15 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-28 |  |
 | [Dim](https://open.spotify.com/track/6eCe8ZxuWDTUJmikjxSIt2) | [PTICHKA](https://open.spotify.com/artist/7GqSSFq17dsZFHdjpAyUwS), [Komplimenter](https://open.spotify.com/artist/51AAgg8JNneQMrJIECNQFx) | [Dim](https://open.spotify.com/album/2aiEpAZhzlS6zRRuLNIbNW) | 3:09 | 2022-02-14 | 2022-05-21 |
 | [Dime Que Me Calle](https://open.spotify.com/track/3ttTIArzkg0a5ZjE3nbz65) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Dime Que Me Calle](https://open.spotify.com/album/2vZAm4JUPbTlQIsRD4Qhp8) | 2:54 | 2022-01-14 | 2022-02-19 |
-| [Dizzy Inside](https://open.spotify.com/track/7ekKMAAhU3KS4zry5OSzV9) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/32wi0giOvudmbUcQ2n1rf1) | 4:10 | 2022-09-02 |  |
+| [Dizzy Inside](https://open.spotify.com/track/5OLYZNrMhI2zwc6Gys0VQ7) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/13bMbYZ0t4qtbWXdxtyaId) | 4:10 | 2022-11-18 |  |
+| [Dizzy Inside](https://open.spotify.com/track/7ekKMAAhU3KS4zry5OSzV9) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/32wi0giOvudmbUcQ2n1rf1) | 4:10 | 2022-09-02 | 2022-11-20 |
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2022-01-14 | 2022-03-19 |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2022-01-14 | 2022-02-19 |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2022-01-14 | 2022-03-12 |
@@ -368,7 +369,8 @@
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2022-01-14 | 2022-05-21 |
 | [Seth Rogen](https://open.spotify.com/track/4mbZMRJ1YWzJQZ8QuzcGl5) | [Ditch Days](https://open.spotify.com/artist/3B3nEiNlMRAHeSF9hfVyi2) | [Seth Rogen](https://open.spotify.com/album/5JpvCGX8btbmbISFeop2qE) | 3:54 | 2022-04-22 | 2022-06-11 |
 | [Sexy Villain](https://open.spotify.com/track/5UQZGDJ4l2A4JhDhuE9Edc) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 3:08 | 2022-01-14 | 2022-03-05 |
-| [Shades](https://open.spotify.com/track/1KFeI91BvQADYsPeYr7pyJ) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Shades](https://open.spotify.com/album/3AUMYqJpvoDr1WimBiZ5tl) | 3:45 | 2022-09-30 |  |
+| [Shades](https://open.spotify.com/track/1KFeI91BvQADYsPeYr7pyJ) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Shades](https://open.spotify.com/album/3AUMYqJpvoDr1WimBiZ5tl) | 3:45 | 2022-09-30 | 2022-11-20 |
+| [Shades](https://open.spotify.com/track/59qUIjOZ7i4ltZLGgK4rMc) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Shades](https://open.spotify.com/album/7fVf8Yy36Cf11xNvrSLGad) | 3:45 | 2022-11-18 |  |
 | [she's in a cage](https://open.spotify.com/track/4HDKe2j93rapEMlfY4knZ5) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [she's in a cage](https://open.spotify.com/album/7IeGWk2pmhU6aQmZNwjpgH) | 4:30 | 2022-08-12 |  |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 |  |
 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 | 2022-01-14 | 2022-03-30 |

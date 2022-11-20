@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43067,
+  "num_followers": 43072,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGY0Mzk3OGMzMGJkYWUxODc3NzI5OWJhNjRhZTNkMGRm",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDQwZWQ2NDA5NGFlOWQ2YzBiMjQwMjQ2MGFmMWRhOWJm",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -331,26 +331,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "When the Well Runs Dry",
-        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
-      },
-      "artists": [
-        {
-          "name": "Liv Douglas",
-          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
-        },
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "When the Well Runs Dry",
-      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "When the Well Runs Dry",
+        "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
+      },
+      "artists": [
+        {
+          "name": "Liv Douglas",
+          "url": "https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "When the Well Runs Dry",
+      "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
-      },
-      "artists": [
-        {
-          "name": "RELIC",
-          "url": "https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 244270,
       "name": "Hiding Lord",
       "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL"
+      },
+      "artists": [
+        {
+          "name": "RELIC",
+          "url": "https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "A New Heart",
         "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 197462,
       "name": "Found",
       "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2020-12-18 06:02:14",

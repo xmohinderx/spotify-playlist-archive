@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 21506,
+  "num_followers": 21505,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMDJiMTlhYjk3NGY5ZjkxZjk3NzdkZjE4OTIwOTM4MWIz",
+  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMGJlODllNmNmMjQ4NDU3NzhmMWQ4ZDhjZmI1ZjUyM2Rh",
   "tracks": [
     {
       "added_at": "2021-11-25 22:10:49",
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
-      "added_at": "2022-11-19 01:06:33",
+      "added_at": "2022-11-20 01:08:51",
       "album": {
         "name": "T.W.I.N.",
         "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
-      "added_at": "2022-04-22 18:11:35",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Great Dismal",
@@ -871,6 +855,22 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": "2022-04-22 18:11:35",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
     },
     {
       "added_at": "2022-08-03 04:10:44",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "crasher",
-      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 247200,
       "name": "Drift",
       "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "crasher",
+      "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "View No Country",
-        "url": "https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj"
-      },
-      "artists": [
-        {
-          "name": "Kraus",
-          "url": "https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951"
-        }
-      ],
-      "duration_ms": 178121,
-      "name": "Glass Valley",
-      "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 225160,
       "name": "Heart in Your Heartbreak",
       "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "View No Country",
+        "url": "https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj"
+      },
+      "artists": [
+        {
+          "name": "Kraus",
+          "url": "https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951"
+        }
+      ],
+      "duration_ms": 178121,
+      "name": "Glass Valley",
+      "url": "https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 405324,
-      "name": "S.W.I.M.",
-      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
-    },
-    {
       "added_at": "2022-08-03 04:09:20",
       "album": {
         "name": "Fairy Rust",
@@ -1345,6 +1329,22 @@
       "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+    },
+    {
       "added_at": "2022-06-20 23:05:31",
       "album": {
         "name": "Otra Vez",
@@ -1359,6 +1359,22 @@
       "duration_ms": 386604,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+    },
+    {
+      "added_at": "2022-01-14 02:28:22",
+      "album": {
+        "name": "For you, Adroit it but soft",
+        "url": "https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "While My Waves Wonder",
+      "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1397,22 +1413,6 @@
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
-      "added_at": "2022-01-14 02:28:22",
-      "album": {
-        "name": "For you, Adroit it but soft",
-        "url": "https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "While My Waves Wonder",
-      "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Always, Sometimes, Seldom, Never",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6ELfcFQ3kRxPfdCoGnNaaj"
     },
     {
-      "added_at": "2022-09-03 04:19:36",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
-      },
-      "artists": [
-        {
-          "name": "Laveda",
-          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Big Roar",
@@ -1475,6 +1459,22 @@
       "duration_ms": 220266,
       "name": "A Heavy Abacus",
       "url": "https://open.spotify.com/track/18bMfoScYmenFKMristSDI"
+    },
+    {
+      "added_at": "2022-09-03 04:19:36",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
     },
     {
-      "added_at": "2022-08-03 04:18:25",
-      "album": {
-        "name": "Radial",
-        "url": "https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg"
-      },
-      "artists": [
-        {
-          "name": "Muted Color",
-          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
-        }
-      ],
-      "duration_ms": 267208,
-      "name": "Radial",
-      "url": "https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y"
-    },
-    {
       "added_at": "2022-04-05 16:58:56",
       "album": {
         "name": "New Low",
@@ -1651,6 +1635,22 @@
       "duration_ms": 181301,
       "name": "Panic Song",
       "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
+    },
+    {
+      "added_at": "2022-08-03 04:18:25",
+      "album": {
+        "name": "Radial",
+        "url": "https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg"
+      },
+      "artists": [
+        {
+          "name": "Muted Color",
+          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
+        }
+      ],
+      "duration_ms": 267208,
+      "name": "Radial",
+      "url": "https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y"
     },
     {
       "added_at": "2022-04-09 04:56:08",

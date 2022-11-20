@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-405 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+406 songs - 1 day 17 hr 18 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Spule](https://open.spotify.com/track/21t50P2lLUDKXFnlekKBEX) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Spule EP](https://open.spotify.com/album/12pnv9scBrK2Gus9zqmfw9) | 7:16 | 2021-06-05 | 2021-12-04 |
 | [Strange World \- Joyhauser Remix](https://open.spotify.com/track/29IGa4pfhldMYeYlbUJeiF) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Strange World \(Joyhauser Remix\)](https://open.spotify.com/album/5piz86w9SPA1YqoOPRRGrz) | 7:00 | 2020-12-18 | 2021-06-26 |
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-01-21 | 2022-07-09 |
-| [Subconscious Reset](https://open.spotify.com/track/2QQdfhookRmHNa4BSX6xPb) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Subconscious Reset](https://open.spotify.com/album/06hak41yJv9og1C7sKUTrM) | 7:05 | 2022-07-08 |  |
+| [Subconscious Reset](https://open.spotify.com/track/2QQdfhookRmHNa4BSX6xPb) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Subconscious Reset](https://open.spotify.com/album/06hak41yJv9og1C7sKUTrM) | 7:05 | 2022-07-08 | 2022-11-20 |
+| [Subconscious Reset](https://open.spotify.com/track/3mlkpFLHRHmVUho7xJcKit) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Subconscious Reset](https://open.spotify.com/album/403sFbl2LmE5bY75KjQlfk) | 7:05 | 2022-11-11 |  |
 | [Substance](https://open.spotify.com/track/7snAq1t8AP9umPVM2F58fG) | [DREIAN](https://open.spotify.com/artist/0NhVOg81wjLeL9mLmApGVD), [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25) | [Substance](https://open.spotify.com/album/1lcaImK8YjnecWoflR3zjJ) | 4:00 | 2021-01-30 | 2021-06-05 |
 | [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-02-25 | 2022-07-09 |
 | [Syndrom](https://open.spotify.com/track/6QqpX2j8raMWtxeNiv5xVZ) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Kati Winter](https://open.spotify.com/artist/3CDs95k1KjP7YTvE37aqyv) | [Syndrom](https://open.spotify.com/album/7vU3F2RWrJtvCPmWwiCDk2) | 5:17 | 2020-04-18\* | 2020-09-28 |

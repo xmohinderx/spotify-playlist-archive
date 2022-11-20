@@ -5156,6 +5156,24 @@
     },
     {
       "album": {
+        "name": "Informer",
+        "url": "https://open.spotify.com/album/4gDKsS87beuPQiCIRVgrlv"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/6sLhiDvFtcMjsB29hQ5yLE"
+    },
+    {
+      "album": {
         "name": "Inner City",
         "url": "https://open.spotify.com/album/4o2xDsgNS5RoEd0nQXgkjn"
       },
@@ -6053,6 +6071,28 @@
       "duration_ms": 220952,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/267gN7cFVleInY2IuDYCEb"
+    },
+    {
+      "album": {
+        "name": "Love Again ep",
+        "url": "https://open.spotify.com/album/1wUN4Nx8NQEKDVk8taPqil"
+      },
+      "artists": [
+        {
+          "name": "Frank Nicolas",
+          "url": "https://open.spotify.com/artist/6KbB9th6QJ5D7VVupa3Ask"
+        },
+        {
+          "name": "Maximillian G.",
+          "url": "https://open.spotify.com/artist/2pRI7DTwoOZWymKuvvT27D"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340645,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4bTuLsz4Fu2S3051kNirdi"
     },
     {
       "album": {

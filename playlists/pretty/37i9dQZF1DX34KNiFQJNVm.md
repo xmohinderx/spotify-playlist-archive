@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Amorim, BK, Zé Felipe com Ana Castela e Luan Pereira e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,355 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,114 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 24 | [Chefona](https://open.spotify.com/track/4XSGzc9ywbAcmrIz9E4ITJ) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Mirele](https://open.spotify.com/artist/4rCur9U5VSSagYG950fNlp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Chefona](https://open.spotify.com/album/3hnv5kCPzwejMAmsFM6xnH) | 4:29 |
 | 25 | [Ponto de Paz](https://open.spotify.com/track/1KG72AwvrSm4fvjv1GGyqY) | [BigJow](https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Ponto de Paz](https://open.spotify.com/album/6eiWwQmOWiVFLbAwB5A7cr) | 3:47 |
 | 26 | [Só Quero Te Ouvir Falar](https://open.spotify.com/track/1tedgYQ4PqYiVhCuOekeb4) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Só Quero Te Ouvir Falar](https://open.spotify.com/album/2N7ntTLi6QT7eSt58yYPrU) | 2:12 |
-| 27 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 |
+| 27 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 |
 | 28 | [Jogador Caro](https://open.spotify.com/track/0bnoK8bzj5qUEZEFut5gud) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Jogador Caro](https://open.spotify.com/album/2ZSkGBOi0tmMYaFRczuON0) | 3:22 |
 | 29 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 |
 | 30 | [Agape](https://open.spotify.com/track/0zkWmS5tEFgaHaXTSGQ2b1) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Agape](https://open.spotify.com/album/4qbAmVXPe2NQZ9EiHVwZcE) | 3:23 |

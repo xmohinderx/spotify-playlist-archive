@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-140 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+141 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 |  |
 | [iBururu](https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX) | [Sema Sole](https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ) | [Bururu](https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX) | 2:54 | 2021-10-15 | 2022-01-28 |
-| [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 |  |
+| [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 | 2022-11-20 |
+| [Jaafari's 19th](https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:33 | 2022-01-27 |  |
 | [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 | 2022-04-29 |
 | [Just Another Love Song](https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Just Another Love Song](https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe) | 2:57 | 2022-02-24 |  |
 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 | 2022-08-25 |  |

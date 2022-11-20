@@ -405,10 +405,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 114195,
       "name": "Bayybe 07",
       "url": "https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH"
+    },
+    {
+      "album": {
+        "name": "Bayybe",
+        "url": "https://open.spotify.com/album/04KlP3uybtKQP8iE8gvY56"
+      },
+      "artists": [
+        {
+          "name": "Bilo 503",
+          "url": "https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114195,
+      "name": "Bayybe 07",
+      "url": "https://open.spotify.com/track/4ahEI4QjOwmT4z8PuZZYDk"
     },
     {
       "album": {

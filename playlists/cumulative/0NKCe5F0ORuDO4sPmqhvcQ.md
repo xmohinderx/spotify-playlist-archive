@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-349 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+351 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Eyes](https://open.spotify.com/track/0YAukHbU1yppkR0seIwTW3) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Shift in Momentum](https://open.spotify.com/album/6V1CNkenPJvZkU5oNNirHW) | 4:58 | 2022-07-15 |  |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2022-01-08 |
 | [EYES LOW // YOU](https://open.spotify.com/track/2Jd3nVTSL52nXzEILa8bUM) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 5:03 | 2022-04-18 |  |
+| [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-19 |  |
 | [Fa111en Angels](https://open.spotify.com/track/2nAVOPiURJ8CYwFEFq3HBU) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:47 | 2021-12-07 | 2022-01-08 |
 | [fade](https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [..\. Onward](https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk) | 2:49 | 2022-09-13 |  |
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 | 2022-09-19 |
@@ -271,6 +272,7 @@
 | [searching](https://open.spotify.com/track/6LNIPD5VhXOj8xO1uOryri) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [Ophelia Presents: Advent Volume 4](https://open.spotify.com/album/5qocn2lAsog53oZj9VoF03) | 3:40 | 2022-02-07 | 2022-03-10 |
 | [See If I Care](https://open.spotify.com/track/58QNQ1ZfZ2Ad1NUecBPKer) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [See If I Care](https://open.spotify.com/album/4aHIucrdo47tML4QIKXBle) | 2:39 | 2022-08-30 | 2022-11-12 |
 | [See You Go](https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [UNIVERSE](https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso) | 4:05 | 2022-06-24 | 2022-09-19 |
+| [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 | 2022-11-19 |  |
 | [Sexy Rave Boy](https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Sexy Rave Boy](https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB) | 2:12 | 2022-07-13 |  |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-22 |  |
 | [Silent Water](https://open.spotify.com/track/7xV2E7ImOGtmunBMiCWdHM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Unison](https://open.spotify.com/album/102nhWXRWFzwAKLqkVzMUX) | 4:18 | 2022-01-18 | 2022-02-05 |

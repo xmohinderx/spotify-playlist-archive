@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,650 likes - 102 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,678 likes - 102 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 46 | [Resistiré](https://open.spotify.com/track/1fClDpLB8yl1wzI15q7llr) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Gold](https://open.spotify.com/album/5zZohvmfqD0qOuFIqSPoZl) | 3:40 |
 | 47 | [Camino Solo](https://open.spotify.com/track/7AmMGAw57PWbwezOIViUOs) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Joe Bananas](https://open.spotify.com/artist/43vTEnc5TjdbKqJMtDxZii) | [Camino Solo](https://open.spotify.com/album/1PLmCzSzldLHYxT9ZmlMsf) | 4:53 |
 | 48 | [El Lamento del Pueblo](https://open.spotify.com/track/5nTnKJ1eDoU4dxwsjrXFql) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [El Lamento del Pueblo](https://open.spotify.com/album/1VwM1cng7ptbUgkSWVSBYS) | 4:07 |
-| 49 | [Laif Is Tu Short](https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:36 |
+| 49 | [Laif Is Tu Short](https://open.spotify.com/track/2tprTVzdN6TlT2t8QYbLVD) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN) | 2:36 |
 | 50 | [Tiempo De Reflexionar \(Quédate En Casa\)](https://open.spotify.com/track/1IDxNCpFVk0pdRm6OLAEeR) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 2:27 |
 | 51 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 |
 | 52 | [Ellos Solo Querían un Cambio](https://open.spotify.com/track/1m5cCjpljuBCJGtBubCTc3) | [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Vicho en la guitarra](https://open.spotify.com/artist/1QDhwaOE3Bnyx7kIMldXSu), [Bvddy](https://open.spotify.com/artist/1taunYFi2h4r5JwFb0y1Uq), [Anv Hysteria](https://open.spotify.com/artist/0RL1HrLaQ3dRSvt1TsErGp) | [Ellos Solo Querían un Cambio](https://open.spotify.com/album/4FX682Py6xrtm4PcSdzbj6) | 2:43 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 101 | [Ya Vendrán](https://open.spotify.com/track/1e9qPcNnNHC4u0vKQ5qXUo) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq) | [Ya Vendrán](https://open.spotify.com/album/0WSwkp5pPxcej5xYgu2A7o) | 3:07 |
 | 102 | [Salsa Pa Mojar](https://open.spotify.com/track/4CZhVmdMZCAiIVL3VluXbe) | [Uf Dog](https://open.spotify.com/artist/1iVcZZlVsqI9wdrGL31aWs), [Jay Saez](https://open.spotify.com/artist/4rxh3Sd5DrduNCOerUzHeu), [Joakinmolto](https://open.spotify.com/artist/1sWPh2x4MH7CI23FAva5Vk), [Skinnykitar](https://open.spotify.com/artist/51fg42p51MJJSHVPw1OZZx) | [Salsa Pa Mojar](https://open.spotify.com/album/5R8jyYKP6cF947niAFlh1Z) | 3:41 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDcxZmU4ZjcxN2JmZWVjMzYxYmE3ZjE2MzFjMmQ0ZjM4`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDY4OWIxMmY4MWI4ZTRjNDVlY2FkZDhmNzJkNWZlNzk5`

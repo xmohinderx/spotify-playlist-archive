@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,841 likes - 335 songs - 16 hr 42 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,844 likes - 335 songs - 16 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 154 | [Let Me Down Easy \(Lie\)](https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Let Me Down Easy \(Lie\)](https://open.spotify.com/album/3jJZCkZWJxe7dbYTOqXuV2) | 2:31 |
 | 155 | [Kamikaze](https://open.spotify.com/track/1p0BcIePXAd65ouic9XrLT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 3:20 |
 | 156 | [24](https://open.spotify.com/track/7hVkK8Bmmn0aivhpRJgMTf) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [24](https://open.spotify.com/album/2iJxqC1Ah3LT5MwYLPQF8b) | 3:04 |
-| 157 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 |
+| 157 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 |
 | 158 | [DooWop](https://open.spotify.com/track/3MLq7vHvOlbKPKvQK9m3Gi) | [Kenndog](https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx) | [DooWop](https://open.spotify.com/album/0YQC53muBpRAc8TazpEZm5) | 2:26 |
 | 159 | [Everywhere](https://open.spotify.com/track/6yLPztLhBPhPCF9K9GBx5c) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:51 |
 | 160 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 |
@@ -325,7 +325,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 315 | [Early In The Morning](https://open.spotify.com/track/1OPyxRkcppcCaxCuoNKf4t) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 3:37 |
 | 316 | [Special Woman](https://open.spotify.com/track/0aW63QiKA3N3Bu0hfJvlbH) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:12 |
 | 317 | [Wi Deh Yah](https://open.spotify.com/track/01hsRxJXHXhtC2wPlP6BtA) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:26 |
-| 318 | [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6CkpsbzzMNyaiucjpDum4z) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Acoustic\)](https://open.spotify.com/album/4lNR2XalWJ5mKNN0SoVRev) | 2:55 |
+| 318 | [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6CkpsbzzMNyaiucjpDum4z) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good? \(Acoustic Version\)](https://open.spotify.com/album/4lNR2XalWJ5mKNN0SoVRev) | 2:55 |
 | 319 | [Soul Keeper](https://open.spotify.com/track/6s1DQd2itOHUWmAqycxYpk) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:29 |
 | 320 | [Body 4 Body](https://open.spotify.com/track/4vwdL2BDxtMLqW8H9cgZmU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 3:35 |
 | 321 | [TRAPPER \(Remix\) \[feat\. Lil Baby\]](https://open.spotify.com/track/2MoqW8Uq2oGtTO3QtQMqKU) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 4:29 |

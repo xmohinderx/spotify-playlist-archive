@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Cocaine",
+        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227045,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
+    },
+    {
+      "album": {
         "name": "Stars In My Crown",
         "url": "https://open.spotify.com/album/16vXqLiCvBwbSOPTF1VUwG"
       },
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 348906,
       "name": "Green Manalishi (With the Two Prong Crown)",
       "url": "https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw"

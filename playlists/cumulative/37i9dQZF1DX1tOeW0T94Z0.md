@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
 
-126 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+127 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Just Wanna Party \(feat\. Voyce\)](https://open.spotify.com/track/7zyaGu9SsApEuzFdiii833) | [jDiggz](https://open.spotify.com/artist/69h6qCRk2eD3QUWWFbVUzk), [Voyce](https://open.spotify.com/artist/6Jf2xsWhvbhPKmbhuinqcp) | [Memoirs of a Playbwoy \(Remastered\)](https://open.spotify.com/album/4jFt17ofd4gqcOBGu9KKvf) | 4:38 | 2022-07-01 | 2022-09-01 |
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 |  |
 | [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 | 2022-11-16 |
-| [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 | 2022-07-01 |  |
+| [Learn to Earn](https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY) | 3:48 | 2022-11-15 |  |
+| [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 | 2022-07-01 | 2022-11-20 |
 | [Legal \- feat\. Alex Metcalf; Explicit](https://open.spotify.com/track/5BMHuTjHYqBHkiHRGLxVZb) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Alex Metcalf](https://open.spotify.com/artist/70C7fLnzdoySLNINbjL5Kx) | [Two Hands Clapping](https://open.spotify.com/album/5rqUzNvdPOyQOzOamX2Qnl) | 3:23 | 2022-07-01 | 2022-10-20 |
 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 | 2022-10-14 |  |
 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 | 2022-07-01 |  |

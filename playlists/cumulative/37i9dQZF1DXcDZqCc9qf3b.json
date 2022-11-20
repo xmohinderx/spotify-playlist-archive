@@ -491,10 +491,28 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 223800,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR"
     },
     {
       "album": {
@@ -1885,6 +1903,28 @@
     {
       "album": {
         "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
       },
       "artists": [
@@ -1899,7 +1939,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 150800,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/70FZ0JbtD0BmEB3ekr8rcd"

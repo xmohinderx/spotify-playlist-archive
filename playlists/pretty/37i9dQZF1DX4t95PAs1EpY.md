@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,010 likes - 200 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,317 likes - 200 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 53 | [Daydream](https://open.spotify.com/track/1KlHmKF2WqIjWvQ1anYvHh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Daydream](https://open.spotify.com/album/0uK4M0UW7k1CgDDJw9SDW4) | 2:38 |
 | 54 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 |
 | 55 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
-| 56 | [Tomorrow Will Be Better](https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/2SAg5ASeGWGt7YDXqiOEs7) | 2:34 |
+| 56 | [Tomorrow Will Be Better](https://open.spotify.com/track/1Hu6iQRGLdYGhkduI102i8) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Inner Passages](https://open.spotify.com/album/1GR5IrxcK8yXeE33ii8Miw) | 2:34 |
 | 57 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 |
 | 58 | [moss](https://open.spotify.com/track/1NCtkoFxK4bsOOd3OIqDLF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/1c89nRHJ9Q9NEB0uEKwbxw) | 1:55 |
 | 59 | [Hino](https://open.spotify.com/track/7i6USOLgnXguSyelAEkwVc) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Togushi Park](https://open.spotify.com/album/09MQCAAB6QDwKkCjyxLtQo) | 1:28 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 147 | [Noctuid](https://open.spotify.com/track/3WMP6rFpFZQJ6FaZwYzIzT) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Noctuid](https://open.spotify.com/album/6BeJ3YeH0fa238tN2WqMZk) | 2:10 |
 | 148 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 |
 | 149 | [Cognac](https://open.spotify.com/track/3ULY7sln0jffsuZhVlSnB8) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Cognac](https://open.spotify.com/album/3nUgwqbeVV4ZPckOwVrivL) | 2:16 |
-| 150 | [Don Lemon](https://open.spotify.com/track/3MZM6vRRO8f459kxgEULg8) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/2Mcpr3klMbn0OOC5sslBUc) | 1:44 |
-| 151 | [Lonely Horseman](https://open.spotify.com/track/7KnqIFUolPsMygtJBJ28N5) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Notunderstand](https://open.spotify.com/album/6fIWwF6dIrqtZV70lg0i6g) | 2:00 |
+| 150 | [Don Lemon](https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Don Lemon](https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq) | 1:44 |
+| 151 | [Lonely Horseman](https://open.spotify.com/track/2dXiT5xi32ppdUZAkAEE3B) | [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [Walterwarm](https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk) | [Notunderstand](https://open.spotify.com/album/6DTspwO8RueuZx1irlOQKA) | 2:00 |
 | 152 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 |
 | 153 | [Le Hippie](https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Le Hippie](https://open.spotify.com/album/3y9zpas3INXBk6lUVnrIVF) | 2:22 |
 | 154 | [Faro](https://open.spotify.com/track/6jL7VAN6WbWWWGH092DHKB) | [Sou El](https://open.spotify.com/artist/11UKM0qEi2HoFEIsS18t9f) | [Faro](https://open.spotify.com/album/1moyLhxoQIXe2rogVoUckL) | 2:35 |
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 175 | [Midnight Thoughts](https://open.spotify.com/track/174cmffB1DSf8pH4A14bDr) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [breakfast oats.](https://open.spotify.com/artist/60GtRTpm5lE77BuKLejtlw) | [Midnight Thoughts](https://open.spotify.com/album/0w1OFJ3h2RQ4oj1JHsBr6I) | 2:10 |
 | 176 | [Hopeless Romantic](https://open.spotify.com/track/19FH0dEQakm0xVnpeK00bF) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Hopeless Romantic](https://open.spotify.com/album/6xmXrAqZN6dh7Z05mx827a) | 2:32 |
 | 177 | [Secrets of Konohagakure](https://open.spotify.com/track/02hH2lDtRpYbJC1lS8KM22) | [Lofi MMMO](https://open.spotify.com/artist/7mC3tlq3rhrrGfWzMnV0qw) | [The Kojiki](https://open.spotify.com/album/54AVaU8S6AqpwU7Q3efFJj) | 2:57 |
-| 178 | [Amazone](https://open.spotify.com/track/5R0vZ0UWfjfyXoOpi1Er3T) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Amazone](https://open.spotify.com/album/2NPK0ag9hT3jqYNmevyMNQ) | 1:52 |
+| 178 | [Amazone](https://open.spotify.com/track/1L3vl8xIK0qEln27SB5zOy) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Amazone](https://open.spotify.com/album/3K4hlkuciYkAdelAbKtNwS) | 1:52 |
 | 179 | [Tears Of The Forest](https://open.spotify.com/track/11lgzgiYDe6VJvA0bvKMwy) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi) | [Tears of the Forest](https://open.spotify.com/album/442Pnd7ZHvTp6E49u2n5OZ) | 2:16 |
 | 180 | [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 |
 | 181 | [Evenings](https://open.spotify.com/track/3FOhZvYB8itMm8QsmpqH8N) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [dr\. niar](https://open.spotify.com/artist/2L4otMycTiZnRAHL52RXYU) | [Evenings](https://open.spotify.com/album/2bb61CPegak8pasqni0pMF) | 2:29 |
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 186 | [Fantasy](https://open.spotify.com/track/7ihm82jyb6DctY4XuGJUBZ) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Fantasy](https://open.spotify.com/album/20NfbcfBukHVfywISL3O6t) | 1:49 |
 | 187 | [Always](https://open.spotify.com/track/5TZNYj31M4fB79aYyHEJaz) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Always](https://open.spotify.com/album/4VV6QDTyQLfqcesnfWV6s1) | 2:18 |
 | 188 | [Recollection](https://open.spotify.com/track/2kmvhCpX4xOyfBmCfk3Oy6) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Recollection](https://open.spotify.com/album/7ENS1n8vblqe9EcXpQxLDW) | 2:33 |
-| 189 | [Aubade](https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU) | 1:51 |
+| 189 | [Aubade](https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/5tgMXvZEChCejwI882yJDy) | 1:51 |
 | 190 | [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 |
 | 191 | [Magical Flowers](https://open.spotify.com/track/0HWebiXAg2lknOcP1wyUsx) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Blooming Forest](https://open.spotify.com/album/6AkQRDSp2H9CF412FjMeZC) | 1:56 |
 | 192 | [later that year](https://open.spotify.com/track/1yCHrKV9rVX8TJewzt92bt) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [later that year](https://open.spotify.com/album/39Yw5V2DkO0QaH8BoeIuE6) | 2:10 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 199 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 |
 | 200 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 |
 
-Snapshot ID: `MTY2ODE2NzMwMywwMDAwMDAwMDc0M2IyMTIyNGQyOTcxOWRjMzZhZTk0OTRjY2EyNmVi`
+Snapshot ID: `MTY2ODE2NzMwMywwMDAwMDAwMGMwZjllODA2NDc0NTgyOWIzMzc1ODFjNmIyOTI3MmE1`

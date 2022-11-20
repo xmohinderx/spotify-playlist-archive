@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Fally Ipupa 🎨
 
-134 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+135 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Barcelona](https://open.spotify.com/track/5ewp2zfpbjAfi8gqQq7FZ7) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Barcelona](https://open.spotify.com/album/3kkqZnyYwUVV3Om9UImDQ4) | 3:28 | 2022-08-26 | 2022-09-03 |
 | [Bayuma Bavida Kala \(feat\. Innoss B\)](https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 4:13 | 2022-06-30 |  |
 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 | 2022-06-30 |  |
-| [BIBAMBA](https://open.spotify.com/track/1UDwSY58I4znIJZUPVcKWI) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW) | 3:02 | 2022-11-18 |  |
+| [BIBAMBA](https://open.spotify.com/track/1UDwSY58I4znIJZUPVcKWI) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW) | 3:02 | 2022-11-18 | 2022-11-20 |
+| [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 |  |
 | [Bloqué](https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Bloqué](https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8) | 3:18 | 2022-08-05 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2022-06-30 |  |
 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 |  |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Dept \(Thailand\)
 
-481 songs - 1 day 4 hr 49 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+482 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [金牛座的牢騷](https://open.spotify.com/track/73elZdrJuihtqrMAW0MGVp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [金牛座的牢騷](https://open.spotify.com/album/2l23JxYMMsj6geJCkQ0Y5a) | 3:26 | 2022-05-06 | 2022-06-17 |
 | [門](https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 4:45 | 2022-04-28 | 2022-05-07 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-03-24 | 2022-04-01 |
+| [언더 독 ! Under Dog ! \(feat\. CHOILB\)](https://open.spotify.com/track/7H6MYg2AnfdG3pWpLxjSvx) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [나는야 락스타 ! I’m a rockstar !](https://open.spotify.com/album/1qwt7wQigAO7zle4yXYEM9) | 3:16 | 2022-11-17 |  |
 | [환란의 세대 The Generation of Tribulation](https://open.spotify.com/track/31OivIYnFwCpGRVp19DxD3) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:46 | 2022-03-24 | 2022-04-08 |
 | [황혼](https://open.spotify.com/track/1u3bWaIqpoOnqc71bS3hKI) | [서월](https://open.spotify.com/artist/2eELgy11Ifx8aTjeSxsOaX) | [황혼](https://open.spotify.com/album/7iwyBncx4Jy5gwLXrt3dXS) | 5:18 | 2022-10-13 |  |
 

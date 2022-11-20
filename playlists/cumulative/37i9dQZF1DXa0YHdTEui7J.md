@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-108 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
+109 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Hydra](https://open.spotify.com/track/312VCWI9JHNtSF2xJH4zLT) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/4NgsJCcFODkEBPbdan0GPN) | 7:31 | 2021-08-12 |  |
 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2021-08-12 |  |
 | [Indo Silver Club](https://open.spotify.com/track/4jF8GAMRCOenL17cNnBDI0) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 4:34 | 2021-08-12 |  |
-| [Into the Wild](https://open.spotify.com/track/6267UX7DYUa30kmM9AZPbH) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [Future Sounds Of Jazz Vol\. 14 \(Compiled by Permanent Vacation \[Benjamin Fröhlich & Tom Bioly\]\)](https://open.spotify.com/album/48saRKY0LbrzJImIHLR9M5) | 8:38 | 2021-08-12 |  |
+| [Into the Wild](https://open.spotify.com/track/6Zxdm6bUA9q8lHwrJdBCGa) | [Tee Mango](https://open.spotify.com/artist/6rjQQtrWdRmt4y4FeqnwNQ) | [Future Sounds Of Jazz, Vol\. 14](https://open.spotify.com/album/5cgJz6gBwo4tiWsCa35cdE) | 8:38 | 2021-08-12 |  |
+| [Into the Wild](https://open.spotify.com/track/6267UX7DYUa30kmM9AZPbH) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [Future Sounds Of Jazz Vol\. 14 \(Compiled by Permanent Vacation \[Benjamin Fröhlich & Tom Bioly\]\)](https://open.spotify.com/album/48saRKY0LbrzJImIHLR9M5) | 8:38 | 2021-08-12 | 2022-11-20 |
 | [Isolate Ctrl](https://open.spotify.com/track/7mTH33HntpwLjdSf8OKmqp) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [2019 Ibiza Sampler](https://open.spotify.com/album/65SgPcRAMm6TkosgFndhO0) | 6:40 | 2021-08-12 |  |
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-08-12 |  |
 | [Jazz Fusic](https://open.spotify.com/track/3nrwq2UMT025ZfuNzZdCGS) | [Chris Lattner](https://open.spotify.com/artist/5AmUDHl2DedYKL1y6cKxWP), [Enzo Siragusa](https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX) | [Jazz Fusic EP](https://open.spotify.com/album/1fLk3gsPBc812lyVnA7tem) | 6:41 | 2021-08-12 |  |

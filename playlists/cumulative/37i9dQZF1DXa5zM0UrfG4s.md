@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-263 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+264 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
 | [Hvis Morgendagen Aldri Kommer](https://open.spotify.com/track/3mF0hLdjrLroWBIpkrodI4) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Blanke Ark](https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H) | 4:37 | 2022-03-24 | 2022-04-19 |
 | [HVIT PELIKAN](https://open.spotify.com/track/6qZuPyOD4ROhYMaBeIA5ZS) | [Dandy Lion](https://open.spotify.com/artist/3Il8nRZ80Wbjs2UGkysK5F), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [HVIT PELIKAN](https://open.spotify.com/album/4ByBcmO9fANmzo47mE1R6Y) | 2:19 | 2021-12-16 | 2022-04-18 |
+| [Hytta Mi](https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:18 | 2022-11-17 |  |
 | [Hytta Mi](https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hytta Mi](https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc) | 2:18 | 2022-02-24 | 2022-10-14 |
 | [Hyttetur](https://open.spotify.com/track/61uGtEPHDTwYDVwI7kMMFY) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Hyttetur](https://open.spotify.com/album/4HDNQrYhtgJEWQwT6cvDZk) | 2:43 | 2021-12-16 | 2022-07-20 |
 | [Hyttetur med gutta \- Kid Chutney Remix](https://open.spotify.com/track/6g2NTkdZtcQwQSZ3YVPLYE) | [Egil Ellevill](https://open.spotify.com/artist/3IzJ0vCw2AxthbKOLhGnQa), [Jack Dee](https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd), [Kid Chutney](https://open.spotify.com/artist/0vFUgEB0ITOpmHUpAb5XCM) | [Hyttetur med gutta \(Kid Chutney Remix\)](https://open.spotify.com/album/1j3u5svkDdOXSeqpnHeW1w) | 2:24 | 2022-01-20 | 2022-07-06 |
@@ -160,7 +161,7 @@
 | [Laurdage E Finast](https://open.spotify.com/track/5XeBSNBsxRo3t0lykbipvA) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Fyrste Reis](https://open.spotify.com/album/5z5ne4Grnz5hCVMkTJK6p7) | 2:53 | 2022-02-03 | 2022-04-21 |
 | [Legevakta](https://open.spotify.com/track/5IczZgxpuYLHkQiEdGchNR) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Legevakta](https://open.spotify.com/album/2ZW7Zk1r1rK1V9ZNlsl1gb) | 2:34 | 2022-05-19 | 2022-06-01 |
 | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/track/0xj1IHKOaoLv39QhPZnprR) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [10 LAPPER](https://open.spotify.com/artist/1rfSDoxOf0PEPe3yuYuPz8) | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/album/7gwvJWzd7xJ12WRelYerxD) | 2:19 | 2022-03-03 | 2022-07-24 |
-| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 |  |
+| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 | 2022-11-20 |
 | [Levva Livet](https://open.spotify.com/track/61mTvagExZvija6RD4IfiC) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/3r18UsS2QfsHlrpOZFuTyn) | 4:34 | 2022-03-24 | 2022-04-19 |
 | [LIGGA \(HazyDays\)](https://open.spotify.com/track/0dkrp4JRUuCAw4JtRSxJPo) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [LIGGA \(HazyDays\)](https://open.spotify.com/album/31dXdQuqs7m0449DYzvpY8) | 2:25 | 2022-02-17 | 2022-05-15 |
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |

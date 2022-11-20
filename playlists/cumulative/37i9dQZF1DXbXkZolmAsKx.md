@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-107 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/35yQHDJt5uIXaC5Kq6C4sA)
+108 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/35yQHDJt5uIXaC5Kq6C4sA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2022-08-11 |  |
 | [Ogives / Redistributed](https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Curious Things](https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF) | 5:28 | 2022-08-11 |  |
 | [Opening](https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Everything](https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4) | 3:34 | 2022-08-11 |  |
-| [Origin of the World](https://open.spotify.com/track/3qcUvbvX4Gddb7YeFT4AAf) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Being Human Being](https://open.spotify.com/album/2DajKa7EKnrc7zqegcBjcL) | 5:36 | 2022-08-11 |  |
+| [Origin of the World](https://open.spotify.com/track/3qcUvbvX4Gddb7YeFT4AAf) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Being Human Being](https://open.spotify.com/album/2DajKa7EKnrc7zqegcBjcL) | 5:36 | 2022-08-11 | 2022-11-20 |
+| [Origin of the World](https://open.spotify.com/track/7CIDv4jWLpY00nxzg4HivM) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3), [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Being Human Being](https://open.spotify.com/album/4jitIHLQK0NOQHWunyIy6Z) | 5:36 | 2022-09-20 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-08-11 |  |
 | [Pulse](https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void VIII](https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES) | 4:04 | 2022-08-11 |  |
 | [Red Gate Drifting](https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 7:30 | 2022-08-11 |  |

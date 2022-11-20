@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Manal
 
-356 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+357 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [AlRawabi Anthem Remix](https://open.spotify.com/track/6Zw3tNHV9RTfaVjkXVIoi9) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [AlRawabi Anthem Remix](https://open.spotify.com/album/6yJAn4msXZ5WNsbyNBVHek) | 1:57 | 2021-12-30 | 2022-03-02 |
 | [Ana Aghar](https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2) | [Joan Husssein](https://open.spotify.com/artist/35hdPES6rNnAfwx4b2Tze7) | [Ana Aghar](https://open.spotify.com/album/6kkhEalG1bDhUpVkZxwB6v) | 4:20 | 2022-03-01 | 2022-07-29 |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-11 | 2022-10-17 |
-| [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-11-15 |  |
+| [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-11-15 | 2022-11-20 |
 | [Ana Men](https://open.spotify.com/track/0t0wTAuASealrrHyrkYdF6) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ana Men](https://open.spotify.com/album/4iCFKHnPhLPceHgpAuF4ZO) | 3:34 | 2021-12-23 | 2022-02-27 |
 | [Anger](https://open.spotify.com/track/2ewErT1UdO14jpk8I7WK6U) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Anger](https://open.spotify.com/album/0aGn0YLlsHxsNdBCcuRv01) | 2:45 | 2022-01-20 | 2022-02-18 |
 | [Ani Alaqwa](https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ani Alaqwa](https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc) | 2:57 | 2022-11-15 |  |
@@ -308,6 +308,7 @@
 | [امشي بدلع](https://open.spotify.com/track/1HPF3InztTmXGe2QeDnUAv) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [امشي بدلع](https://open.spotify.com/album/5ncFtjqyg2hY9Lzv9ktlrp) | 3:04 | 2022-03-01 | 2022-07-28 |
 | [انا احتاجك](https://open.spotify.com/track/04ZQgZa1PEItKpLsiQLLK4) | [Ohoud](https://open.spotify.com/artist/0LmXtrPxFrkkfMUATjnvat) | [انا احتاجك \- Single](https://open.spotify.com/album/6vYI45ZLaLjrnq9aFGNL3o) | 3:34 | 2021-12-23 | 2022-03-02 |
 | [انا من اهوي](https://open.spotify.com/track/3kR6yctM8Y53oZiaTezu8C) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [انا من اهوي](https://open.spotify.com/album/0HgUco6PvoCmT1PzbQbk6A) | 2:39 | 2021-12-30 | 2022-03-01 |
+| [بارانويا](https://open.spotify.com/track/4ftSokyNqnG2Ll7WvPvxk0) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [بارانويا](https://open.spotify.com/album/0Gw0dtQV7VRmk3ohl6IXzg) | 2:38 | 2022-11-19 |  |
 | [بقايا روح](https://open.spotify.com/track/70h1MK6V2eKLfnT4GbGCjn) | [غزل](https://open.spotify.com/artist/2afr1GrHTq32W1G4ZE9kQm) | [بقايا روح \- Single](https://open.spotify.com/album/1E8AanvkWYcOy10cV17pKD) | 4:16 | 2021-12-23 | 2022-03-02 |
 | [بوكر فيس](https://open.spotify.com/track/5VmrLKDtKuQ6LM2tskxYfv) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [Poker Face](https://open.spotify.com/album/07cc1pFdNFmSk0WEZ2x6Qr) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [بيبان الخوف](https://open.spotify.com/track/2Ay6Pf8HGgkHV0IRo8Jx14) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [بيبان الخوف](https://open.spotify.com/album/33xgZCgn2Ue5yoiCPFO8w8) | 3:28 | 2021-12-23 | 2022-03-02 |

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-150 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+151 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Maharani Ardiga](https://open.spotify.com/track/2jruslhpwLSNiqinVoumWD) | [Jazzmute](https://open.spotify.com/artist/4LzHhUnugb5z8T2dfgQHGS) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:35 | 2022-02-17 |  |
 | [Mesopotamia](https://open.spotify.com/track/1AQzhq2Bj2s4spmrn0UnpY) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Mesopotamia](https://open.spotify.com/album/7HAi2VEkiPyPhSCgRt5gDf) | 2:14 | 2022-02-17 |  |
 | [Monday 7AM](https://open.spotify.com/track/53medhlG5jux2pCprP02h2) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Up & Down](https://open.spotify.com/album/15tBEZCHqURPIvdglYShoD) | 3:14 | 2022-02-17 |  |
-| [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-02-17 |  |
+| [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-10-14 |  |
+| [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-02-17 | 2022-11-20 |
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2022-02-17 |  |
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2022-02-17 |  |

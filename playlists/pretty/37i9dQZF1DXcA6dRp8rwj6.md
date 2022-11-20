@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Rich Brian\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,945 likes - 93 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,993 likes - 93 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 7 | [Big Burna](https://open.spotify.com/track/3cmPUqi8Dnv1a9MRjgMZGa) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Big Burna](https://open.spotify.com/album/2uG3PrRbukgoFFBCrOvVQJ) | 2:42 |
 | 8 | [The Plug \(feat\. Matt Fingaz\)](https://open.spotify.com/track/2UM0kxUq9AaAsKnNYqA1EI) | [Joey Majors](https://open.spotify.com/artist/00G8omeTs5cSEXHhmwAfIw), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [The Plug \(feat\. Matt Fingaz\)](https://open.spotify.com/album/6lOyS4iqANvvjkVXJfGgCt) | 3:22 |
 | 9 | [Badman](https://open.spotify.com/track/6emAmGeNo54tUIMaZqF7QK) | [Jordan](https://open.spotify.com/artist/4Cnaew6nY21DjfeARQPhn7), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx) | [Crooks and Queens](https://open.spotify.com/album/4HlLIPfIaEwHEbLDNuXzLj) | 3:08 |
-| 10 | [My Party](https://open.spotify.com/track/2Oeywg29KWzwh2OiVfMP2i) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Life Goes On](https://open.spotify.com/album/71sSEmSTIdiXYDzJ636DJ1) | 3:13 |
+| 10 | [My Party](https://open.spotify.com/track/2Oeywg29KWzwh2OiVfMP2i) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Life Goes On](https://open.spotify.com/album/71sSEmSTIdiXYDzJ636DJ1) | 3:11 |
 | 11 | [EMPIRE](https://open.spotify.com/track/1fx1UBaIhS3EHg3bjhb7K0) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [EMPIRE](https://open.spotify.com/album/7jOpeL5oc6afi8PpkgAWoF) | 4:49 |
 | 12 | [groove1](https://open.spotify.com/track/0FDjodDxf6qlzSDVKs8f3l) | [BeepBeepChild](https://open.spotify.com/artist/0cAcRTWMSeuezcHpxInChD), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [groove1](https://open.spotify.com/album/5CBneVRx0DZ2Obfxb6FSdY) | 3:07 |
 | 13 | [I\-17](https://open.spotify.com/track/6znAmOWOsVK622TKSy8mPh) | [Jaswed](https://open.spotify.com/artist/715OWN4ZsuFHrgWEhUeCIS), [Nhelson](https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21) | [I\-17](https://open.spotify.com/album/5b1OOSCaZbtkd6rZkGhog5) | 2:32 |

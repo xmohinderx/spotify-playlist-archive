@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LAZ1
 
-262 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+263 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [นักแสดงท่านหนึ่ง](https://open.spotify.com/track/1bOp9fTreRtgduisx31YZc) | [WHAWHA](https://open.spotify.com/artist/5UxAoeg42uFHbc9mrnHGa2), [Quang Hùng MasterD](https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP) | [นักแสดงท่านหนึ่ง](https://open.spotify.com/album/1pKxGewGwSeGm5GWraCDoi) | 3:02 | 2022-10-26 |  |
 | [นินจา](https://open.spotify.com/track/6MySIb6kDy1Qedt2sANIYW) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [นินจา](https://open.spotify.com/album/2HYlo3paB7Tb3dBeFPVuA2) | 3:46 | 2022-10-26 | 2022-11-12 |
 | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/track/1I0XLODs2jOKlKd4z9ytYt) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [น่ารักไม่ได้แปลว่ามีเจ้าของ \(Try Me\)](https://open.spotify.com/album/3JAiFB6tzLSOn7NEiHZZ9z) | 2:49 | 2022-09-29 | 2022-10-08 |
+| [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2022-11-19 |  |
 | [บรรเทา \- PLASTER](https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [บรรเทา \(PLASTER\)](https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt) | 3:43 | 2022-07-23 | 2022-07-29 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 | 2022-07-28 | 2022-09-30 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2022-05-26 | 2022-07-29 |

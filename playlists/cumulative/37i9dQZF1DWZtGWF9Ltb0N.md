@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-411 songs - 1 day 7 hr 21 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+412 songs - 1 day 7 hr 26 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
 | [Big Sound](https://open.spotify.com/track/6dlCxzq1BmPXFLArScNz2i) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/2fsd0lJ3k6Fig0x8eulNnB) | 4:39 | 2022-07-08 |  |
+| [Black Katana](https://open.spotify.com/track/0VkTGJd96nGTz88GxGm5Wm) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Black Katana](https://open.spotify.com/album/2qonXE6UdEz3l0kjPS74Qt) | 4:30 | 2022-11-20 |  |
 | [Bleed](https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:20 | 2022-08-12 |  |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-02-17 | 2022-07-30 |
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
@@ -384,7 +385,7 @@
 | [Toll](https://open.spotify.com/track/7tPfSMVAl3siiEWiUFl2Bm) | [Traces](https://open.spotify.com/artist/1Nz3cFW2b2b7JitffqTt91) | [Psychopath](https://open.spotify.com/album/197CVo2y8VHACcYM1ks2aW) | 4:42 | 2022-02-17 | 2022-07-29 |
 | [Tomahawk](https://open.spotify.com/track/5e2kW2xynPWKlR1Fy5qegJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Tomahawk EP](https://open.spotify.com/album/0NqcRquGzvdLrk9td9YLXg) | 6:30 | 2022-02-17 | 2022-07-30 |
 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 | 2022-02-17 |  |
-| [Too Close To The Sun](https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Too Close To The Sun](https://open.spotify.com/album/1fdJCoQC2ongH7zJr52kqz) | 4:00 | 2022-02-17 |  |
+| [Too Close To The Sun](https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Too Close To The Sun](https://open.spotify.com/album/1fdJCoQC2ongH7zJr52kqz) | 4:00 | 2022-02-17 | 2022-11-20 |
 | [Trailblazer](https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Trailblazer](https://open.spotify.com/album/281Xce4HZtECtLwdx57kvK) | 3:24 | 2022-02-17 |  |
 | [Trailing Winds](https://open.spotify.com/track/4E613S0YrGcjcJOfenCxIK) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z) | [Trailing Winds](https://open.spotify.com/album/0cl2gNqt0MCJfAN9lVuV3A) | 3:12 | 2022-09-30 |  |
 | [Transcend](https://open.spotify.com/track/1nBFzRA01ow5vOpJWO51AB) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Tombstone](https://open.spotify.com/album/6GP6g3hm27eHpS3gpaX1Q9) | 4:29 | 2022-02-17 | 2022-07-30 |

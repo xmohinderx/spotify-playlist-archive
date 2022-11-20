@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-535 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+536 songs - 1 day 3 hr 57 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Crush](https://open.spotify.com/track/7HbwANSdBmfQYCBvBZgvqJ) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Crush](https://open.spotify.com/album/6sZwOcnq4Gb6e82VZ2n6wS) | 3:31 | 2022-02-18 | 2022-10-01 |
 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 | 2022-01-14 | 2022-09-24 |
 | [Dancer \(Kygo Remix\)](https://open.spotify.com/track/7ctdCk91bL7jjDx3hmbB5z) | [Didrik Thulin](https://open.spotify.com/artist/2vRK8tYkzMBcd6YD67EA77) | [Dancer \(Kygo Remix\)](https://open.spotify.com/album/74QHgMykIYrqokOQAuIUAY) | 6:34 | 2022-01-14 | 2022-04-09 |
-| [Dancing with a Ghost](https://open.spotify.com/track/5Tazqnb1XlUaG49jlOf8bB) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Dancing with a Ghost](https://open.spotify.com/album/3Mt2TpYN932IIhiQMgbGVa) | 2:50 | 2022-09-09 |  |
+| [Dancing with a Ghost](https://open.spotify.com/track/5Tazqnb1XlUaG49jlOf8bB) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Dancing with a Ghost](https://open.spotify.com/album/3Mt2TpYN932IIhiQMgbGVa) | 2:50 | 2022-09-09 | 2022-11-20 |
 | [Dangerous](https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc) | [Antoine Chambe](https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N), [Lucas Cozy](https://open.spotify.com/artist/4CLnVttsdDWEBtNJrTFN47) | [Riverside](https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk) | 3:32 | 2022-06-03 | 2022-07-28 |
 | [Days Go By](https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Days Go By](https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax) | 2:39 | 2022-04-01 |  |
 | [Did You Know](https://open.spotify.com/track/6ovG9hWIxh9t9hMjjeofLY) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Did You Know](https://open.spotify.com/album/5jZort4N3u6JTedNEYVuFg) | 2:56 | 2022-04-01 |  |
@@ -436,6 +436,7 @@
 | [Something Good \- Radio Edit](https://open.spotify.com/track/0BGsenauCQGUHZrJ6SDXEm) | [MOUNT & Nicolas Haelg](https://open.spotify.com/artist/26WCL5eJDbWBeI7IHtn9sG) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/3XUfXVEft5AgWoYuQ4CF3G) | 2:58 | 2022-01-14 | 2022-04-20 |
 | [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2022-04-01 |  |
 | [Sonnentanz](https://open.spotify.com/track/6SDdaZBW69QFZUgpzyPK46) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 6:00 | 2022-02-18 | 2022-04-02 |
+| [Sound of Your Summer \- SUPER\-Hi Remix](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Sound of Your Summer](https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti) | 3:08 | 2022-11-11 |  |
 | [Spirits \- Sondr Remix](https://open.spotify.com/track/2X7ImJ12Sd2mwW8m29x7Ka) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits \(Sondr Remix\)](https://open.spotify.com/album/4gKG71SsJaSmJ2hMTkssXS) | 3:04 | 2022-01-14 | 2022-04-20 |
 | [Starboy \- Kygo Remix](https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Starboy \(Kygo Remix\)](https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB) | 4:04 | 2022-01-21 | 2022-04-20 |
 | [Starry Eyed](https://open.spotify.com/track/5ib4awXZhr3dUX1jgXp55G) | [Ocean Ave](https://open.spotify.com/artist/6MCs7Y3fvs10ifq9B6mUMH), [RIIVA](https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J) | [Starry Eyed](https://open.spotify.com/album/34tuIRNqVsSvLc3SGX1dKi) | 2:24 | 2022-04-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,879 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 28 | [Not Right Now](https://open.spotify.com/track/40ZHrYdf41knqZZiuYqRIl) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [COLOR OF NOIZE](https://open.spotify.com/album/4eARmd0GWRsEMrodDDHkug) | 6:26 |
 | 29 | [Starting Now](https://open.spotify.com/track/0AXP131uI9Fs1f1upBFuPW) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB) | [Prototype](https://open.spotify.com/album/5t7cIpJhwMSiNPBGb6OVv3) | 4:04 |
 | 30 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 |
-| 31 | [The Whales](https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [Space Jams](https://open.spotify.com/album/5qy2VMCYitGsGpGSKRzIwf) | 2:28 |
+| 31 | [The Whales](https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [The Whales](https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4) | 2:28 |
 | 32 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 |
 | 33 | [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 |
 | 34 | [M\-Theory \(Colonel Beats Berklee\-Drop\-Out Version\)](https://open.spotify.com/track/1ySuLKp6wpQhOQ25IljK0m) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Four \(Remixt\)](https://open.spotify.com/album/1Kt18IzOSAPIXMYwT0eWvT) | 4:25 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MTY0NDYwNzUyNywwMDAwMDAwMDNlNzA3MjI1ODdjODRiZjBjNjAxOGExMmM3YThhNDc0`
+Snapshot ID: `MTY0NDYwNzUyNywwMDAwMDAwMGI2NmIzMTNjMTJiZmY1ZmUyNGExODRjNmZjZDMyNWMx`

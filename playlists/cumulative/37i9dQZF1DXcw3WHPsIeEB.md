@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-59 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Stress Yeeting](https://open.spotify.com/track/2DBaSQ6EdEpu5hhq3oWudP) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Gino West](https://open.spotify.com/artist/2Z8fqjWaDRewnC1GCZLePl), [Cotton Mom](https://open.spotify.com/artist/0QXN6MEnGMEdXASrbZH7WI), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Steven Fernandez](https://open.spotify.com/artist/6pUlgUtdyqAMP8b7afllhC), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Kevin Maxwell Smith](https://open.spotify.com/artist/5rpKCHJ8T8tm8dm2L7WL1Z) | [Stress Yeeting](https://open.spotify.com/album/0X6b32ZpPRoFcaUEoPXmsz) | 3:10 | 2022-02-01 |  |
 | [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2022-02-01 |  |
 | [Sweeter Days](https://open.spotify.com/track/7x25qfwpBHPAC7KGdqCajs) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV), [Max Grosch](https://open.spotify.com/artist/0X1RP5ySRsivyk8hHu1P1i) | [Sweeter Days](https://open.spotify.com/album/0NLgkMRXJ1SKavqvbF6GZb) | 7:35 | 2022-02-01 |  |
-| [The Whales](https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [Space Jams](https://open.spotify.com/album/5qy2VMCYitGsGpGSKRzIwf) | 2:28 | 2022-02-01 |  |
+| [The Whales](https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [The Whales](https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4) | 2:28 | 2022-02-01 |  |
+| [The Whales](https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [Space Jams](https://open.spotify.com/album/5qy2VMCYitGsGpGSKRzIwf) | 2:28 | 2022-02-01 | 2022-11-20 |
 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4Wt7ZGzelNDUZCCZxgLsuK) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [SOURCE ⧺ WE MOVE](https://open.spotify.com/album/7p1KmTe3TtMb7ojCYNmvpc) | 2:27 | 2022-02-01 |  |
 | [Transfiguration](https://open.spotify.com/track/1kcTf6tj0NZs44xar1UPGC) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 4:00 | 2022-02-01 |  |
 | [UHHH](https://open.spotify.com/track/1xgdTvPbscOAIvJnBomt2y) | [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU), [JD Beck](https://open.spotify.com/artist/2APVc83SqqVOHrVm4dkGZF) | [SHEEESH](https://open.spotify.com/album/2qZgdOJBiJya3nTfV5YF9s) | 1:27 | 2022-02-01 |  |

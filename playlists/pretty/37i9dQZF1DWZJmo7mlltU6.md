@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,822 likes - 103 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,841 likes - 103 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 47 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 |
 | 48 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 |
 | 49 | [Space Gazing](https://open.spotify.com/track/4tIKzHo9QunMWBxRsdzVUs) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [Space Gazing](https://open.spotify.com/album/03IJiCb14LPBsmOv2kMN4e) | 3:38 |
-| 50 | [Shades](https://open.spotify.com/track/1KFeI91BvQADYsPeYr7pyJ) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Shades](https://open.spotify.com/album/3AUMYqJpvoDr1WimBiZ5tl) | 3:45 |
+| 50 | [Shades](https://open.spotify.com/track/59qUIjOZ7i4ltZLGgK4rMc) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Shades](https://open.spotify.com/album/7fVf8Yy36Cf11xNvrSLGad) | 3:45 |
 | 51 | [Making Moves](https://open.spotify.com/track/65hM5p799iBCENyqww892I) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Making Moves](https://open.spotify.com/album/3C2lSIXIZcG7xW6yP4kzy0) | 2:54 |
 | 52 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 |
 | 53 | [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 83 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
 | 84 | [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 |
 | 85 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 |
-| 86 | [Dizzy Inside](https://open.spotify.com/track/7ekKMAAhU3KS4zry5OSzV9) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/32wi0giOvudmbUcQ2n1rf1) | 4:10 |
+| 86 | [Dizzy Inside](https://open.spotify.com/track/5OLYZNrMhI2zwc6Gys0VQ7) | [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Dizzy Inside](https://open.spotify.com/album/13bMbYZ0t4qtbWXdxtyaId) | 4:10 |
 | 87 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 |
 | 88 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 |
 | 89 | [Martian Man](https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Martian Man](https://open.spotify.com/album/2coz3m9rwxsZXdjJWdExI9) | 2:04 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [XX](https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr) | [Betacam](https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ), [Ama Ia](https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [XX](https://open.spotify.com/album/4XDyEHa2WeckWpthB7ifZK) | 3:16 |
 | 103 | [Luce magica](https://open.spotify.com/track/3pxE5SMXpmR5h5DhpYJ187) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Oltre la zona sicura](https://open.spotify.com/album/46yVaVHnid7t7PQy9jTdYL) | 3:26 |
 
-Snapshot ID: `MTY2ODc5MDcxMiwwMDAwMDAwMGY1MzQ5NzkxOTQ0NDIzMDU4MzJlNWE2NThjZGIzZTA2`
+Snapshot ID: `MTY2ODc5MDcxMiwwMDAwMDAwMDNhYWQ4ZTNkOTJjODMzMmQ4NDg0ZjJiZTkyN2Y1YjUw`

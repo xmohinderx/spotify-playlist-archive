@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-473 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+474 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Ai No Chiara](https://open.spotify.com/track/5A4GJ0ZW0LZmpxtyDqVDUc) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Wishful Sora](https://open.spotify.com/album/7v1blyKpMqLIlwcI9s8GNX) | 3:12 | 2022-07-08 | 2022-07-10 |
 | [Ai No Chiara](https://open.spotify.com/track/79X0iexc4uC8QkSBwFQNG7) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:12 | 2022-07-29 | 2022-08-19 |
 | [air like perfume](https://open.spotify.com/track/4nZY3o9EU0eOPTcjrbpkUt) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [air like perfume](https://open.spotify.com/album/4lKWekmYlSC9jzXqjdEcQf) | 2:30 | 2022-03-16 | 2022-07-09 |
-| [All Day](https://open.spotify.com/track/6LybVOJz7dRCCp8l2TAVPS) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/7kCqbzZdyNMcW9lU0DTgOk) | 2:34 | 2022-08-12 |  |
+| [All Day](https://open.spotify.com/track/5mt7AgllaeU2QsTryyF2PD) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/6tF4ZqngvFfYLyIxRDiy7g) | 2:34 | 2022-11-11 |  |
+| [All Day](https://open.spotify.com/track/6LybVOJz7dRCCp8l2TAVPS) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [All Day](https://open.spotify.com/album/7kCqbzZdyNMcW9lU0DTgOk) | 2:34 | 2022-08-12 | 2022-11-20 |
 | [AllyCator](https://open.spotify.com/track/0goFasywUgzwXrg3BsPGJy) | [Tripper](https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo) | [W: Dinner Chill](https://open.spotify.com/album/6SYNQsVtomjub7ZDfDPZjh) | 5:16 | 2022-07-29 |  |
 | [AllyCator](https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc) | [Tripper](https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo) | [W: Dinner Chill](https://open.spotify.com/album/5x8Cn4kfgxC3lv1FylWcLe) | 5:16 | 2021-08-10 | 2022-07-29 |
 | [American Beauty](https://open.spotify.com/track/2E9L2pqUerLhlxxe8P5z8m) | [Gary Stand](https://open.spotify.com/artist/2k0hsb0Ea3GZBquMpfeEIw) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 3:51 | 2021-08-10 | 2022-07-29 |

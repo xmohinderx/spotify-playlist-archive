@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-591 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+593 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [In The Dark](https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [In The Dark](https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY) | 3:13 | 2022-09-17 | 2022-09-24 |
 | [In the End \- 2022 Remix](https://open.spotify.com/track/45iGRXCABRBECotYkb8rZH) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [In the End \(2022 Remix\)](https://open.spotify.com/album/1D6RsU0GVmD3oAIt4izM6z) | 4:07 | 2022-09-09 | 2022-09-18 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-11-11 | 2022-11-19 |
+| [Informer](https://open.spotify.com/track/6sLhiDvFtcMjsB29hQ5yLE) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Informer](https://open.spotify.com/album/4gDKsS87beuPQiCIRVgrlv) | 3:05 | 2022-11-19 |  |
 | [Inner City](https://open.spotify.com/track/0h1icpllBUxPsbx434kbBh) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Inner City](https://open.spotify.com/album/4o2xDsgNS5RoEd0nQXgkjn) | 3:31 | 2022-07-15 | 2022-07-30 |
 | [Insane](https://open.spotify.com/track/2kPLoPQ6FjRHfCrAaAWpOu) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Discothèque Records](https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK) | 3:37 | 2022-07-30 | 2022-08-06 |
 | [Intentions](https://open.spotify.com/track/6AtjT2xqhmuihwfOYjtX3s) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Intentions](https://open.spotify.com/album/4rWdL5uHTquNkQYtjZ0zn6) | 3:23 | 2022-09-30 | 2022-10-08 |
@@ -306,6 +307,7 @@
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-09 | 2022-07-16 |
 | [Losing Control](https://open.spotify.com/track/267gN7cFVleInY2IuDYCEb) | [We Like Beef](https://open.spotify.com/artist/2kzK2nNPe6e42p9fgAIxF3) | [Losing Control](https://open.spotify.com/album/2EzF33SKsWWZ4dCpricX0s) | 3:40 | 2022-05-29 | 2022-06-04 |
+| [Love Again](https://open.spotify.com/track/4bTuLsz4Fu2S3051kNirdi) | [Frank Nicolas](https://open.spotify.com/artist/6KbB9th6QJ5D7VVupa3Ask), [Maximillian G.](https://open.spotify.com/artist/2pRI7DTwoOZWymKuvvT27D) | [Love Again ep](https://open.spotify.com/album/1wUN4Nx8NQEKDVk8taPqil) | 5:40 | 2022-11-19 |  |
 | [Love Me Loco](https://open.spotify.com/track/0vsEfm4TTVrVCQiYcil89k) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Love Me Loco](https://open.spotify.com/album/14OiUNiltQEZGyZQviHNyL) | 3:13 | 2022-10-02 | 2022-10-08 |
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-09-30 | 2022-10-08 |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-06-10 | 2022-06-18 |

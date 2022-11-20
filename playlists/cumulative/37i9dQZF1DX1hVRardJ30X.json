@@ -3854,6 +3854,32 @@
     },
     {
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
+    },
+    {
+      "album": {
         "name": "ARRANCARMELO",
         "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
@@ -25244,6 +25270,24 @@
     },
     {
       "album": {
+        "name": "La Bori",
+        "url": "https://open.spotify.com/album/7mQ9wlNg7Z8kjK0V8LV6gO"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "La Bori",
+      "url": "https://open.spotify.com/track/0NsIqca2KofqjDAfJcgCM8"
+    },
+    {
+      "album": {
         "name": "La Borinque\u00f1a",
         "url": "https://open.spotify.com/album/3e5ae3vYHVgTqVSvvhbdH7"
       },
@@ -29774,7 +29818,7 @@
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169757,
+      "duration_ms": 170673,
       "name": "Majan2",
       "url": "https://open.spotify.com/track/2nTDHeMpCWtAM93PHvIXI7"
     },
@@ -43247,7 +43291,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175058,
-      "name": "Que Se Acabe el Mundo Por Favor",
+      "name": "Que Se Acabe el Mundo por Favor",
       "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
     },
     {

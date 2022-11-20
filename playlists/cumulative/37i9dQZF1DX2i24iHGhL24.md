@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-343 songs - 19 hr 40 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+344 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 | 2021-12-17 |  |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 |  |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2022-03-25 | 2022-04-16 |
-| [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 | 2021-12-17 |  |
+| [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 |  |
+| [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 | 2021-12-17 | 2022-11-20 |
 | [Chocolate](https://open.spotify.com/track/36T0S78B1be6F4tAUlJWpJ) | [Moonroof](https://open.spotify.com/artist/6HO599GtzYWMF4BsvwB1E6) | [Chocolate](https://open.spotify.com/album/6qHfbQoSUzGri0HBQnLuRv) | 4:12 | 2021-12-17 | 2022-05-02 |
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-12-17 | 2022-05-02 |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-09-23 |  |

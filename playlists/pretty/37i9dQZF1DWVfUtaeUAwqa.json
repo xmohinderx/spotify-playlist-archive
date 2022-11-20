@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6415,
+  "num_followers": 6422,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDRmOGM2NzlmNDMwNWNhMjQ3MzllOGZlNzk3MWIyYmNm",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGUxMjVhNzY3OGFmZWE2ZGQ2YzZlMmZmMWI2YzlhMTg1",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -715,46 +715,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jam Session in Connecticut, Vol. 1",
-        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
-      },
-      "artists": [
-        {
-          "name": "Big Bill Bissonnette",
-          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
-        },
-        {
-          "name": "Fred Vigorito",
-          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
-        },
-        {
-          "name": "Ron Going",
-          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
-        },
-        {
-          "name": "Jerry Zigmont",
-          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
-        },
-        {
-          "name": "Bill Sinclair",
-          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
-        },
-        {
-          "name": "Emil Mark",
-          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
-        },
-        {
-          "name": "Arnie Hyman",
-          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
-        }
-      ],
-      "duration_ms": 316186,
-      "name": "Oh Dem Golden Slippers",
-      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -799,6 +759,46 @@
       "duration_ms": 440306,
       "name": "Algiers Strut",
       "url": "https://open.spotify.com/track/3kU40vSWnxsZguL1mdJ4Zx"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jam Session in Connecticut, Vol. 1",
+        "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Bissonnette",
+          "url": "https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3"
+        },
+        {
+          "name": "Fred Vigorito",
+          "url": "https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ"
+        },
+        {
+          "name": "Ron Going",
+          "url": "https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3"
+        },
+        {
+          "name": "Jerry Zigmont",
+          "url": "https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI"
+        },
+        {
+          "name": "Bill Sinclair",
+          "url": "https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei"
+        },
+        {
+          "name": "Emil Mark",
+          "url": "https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3"
+        },
+        {
+          "name": "Arnie Hyman",
+          "url": "https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa"
+        }
+      ],
+      "duration_ms": 316186,
+      "name": "Oh Dem Golden Slippers",
+      "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -971,8 +971,8 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
-        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
     },
     {
       "added_at": "2020-08-19 17:19:14",

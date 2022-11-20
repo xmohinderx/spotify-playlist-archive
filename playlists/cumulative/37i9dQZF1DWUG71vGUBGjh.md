@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-166 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/2ARx9LN0yDEgMqgS0RHhmt)
+169 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2ARx9LN0yDEgMqgS0RHhmt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Fourth Rendez\-Vous](https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Rendez\-Vous](https://open.spotify.com/album/3YrKqMhEdhdvS3BrmKurFr) | 3:58 | 2021-08-17 |  |
 | [Gefahrenzone I](https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H) | [Gerhard Trede](https://open.spotify.com/artist/3wTIZkM67FbgrIjhxGjgpu) | [Unbekannte Welt = Unknown World](https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6) | 3:39 | 2021-08-17 |  |
 | [Getaway Car](https://open.spotify.com/track/38FMDZyRTtiQfvP4Qw0uj2) | [Mike Vickers](https://open.spotify.com/artist/3hIjwU5R5g8xfCJDzEAREt) | [Kpm 1000 Series: A Moog for More Reasons](https://open.spotify.com/album/4eXFRUfmrjGPA1d9vrk6IB) | 2:40 | 2021-08-17 |  |
+| [Ghost Riders in the Sky](https://open.spotify.com/track/7eGkQvO177yYmKpPxCgFUx) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 5:06 | 2022-11-19 |  |
 | [Gossipo Perpetuo](https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 2:09 | 2021-08-17 |  |
 | [Générique \- From "Chapi Chapo"](https://open.spotify.com/track/3I6fIJ5C1KxLj5WXdnXPpm) | [François de Roubaix](https://open.spotify.com/artist/5oyNl4KxsjkVfyvnwcl8ex) | [Chapi Chapo \(Télévision\)](https://open.spotify.com/album/5ry4QONYcO6DQNByvg3Vj8) | 2:49 | 2021-08-17 |  |
 | [Hernando's Hideaway / Tico Tico](https://open.spotify.com/track/3u3xjrU0VQvDe4uSTfmR4W) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 3:25 | 2021-08-17 |  |
@@ -63,6 +64,7 @@
 | [Highway E 1](https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem) | [Claude Larson](https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7) | [Surroundings](https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X) | 3:45 | 2021-08-17 |  |
 | [Hotel California](https://open.spotify.com/track/6keOvpOxtugHSLokIznZk8) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Ye Olde Space Bande Plays The Classic Rock Hits](https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk) | 6:34 | 2021-08-17 |  |
 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 | 2021-08-17 |  |
+| [I Had Too Much to Dream Last Night](https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 4:35 | 2022-11-19 |  |
 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 | 2021-08-17 |  |
 | [Incantation](https://open.spotify.com/track/2fMqo7Mcq0jdGV6KIFeR9P) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 3:17 | 2021-08-17 |  |
 | [Incantation](https://open.spotify.com/track/6Lm75tQUmvL4PEftcxRaSr) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/1uRvTjf8Cy9srhYYR9EGsR) | 3:17 | 2021-08-17 | 2022-07-29 |
@@ -76,6 +78,7 @@
 | [Lanquidity](https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 6:29 | 2022-02-21 |  |
 | [Life of a Cat](https://open.spotify.com/track/2cVANntuiBwx5FjodNLyhh) | [White Noise from Electronic Toys](https://open.spotify.com/artist/5Cdk3qdp90Xdhz6yPfCETC) | [Music to Quiet Down Your Mind](https://open.spotify.com/album/7zIeienY0iMRNxB5gMhBmj) | 4:00 | 2021-08-17 |  |
 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 | 2021-08-17 |  |
+| [Major Tom](https://open.spotify.com/track/2iEUxvYWJy5fPUtdiqyMy6) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [Major Tom / Radar Love](https://open.spotify.com/album/1pKY4cA4hX7yC5yXqRWnWM) | 5:15 | 2022-11-19 |  |
 | [March Of The Martians](https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 | 2021-08-17 |  |
 | [Mariposas Acuáticas](https://open.spotify.com/track/5us33NoYbYZQrZ9Bi333D8) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 1:44 | 2022-04-12 |  |
 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 | 2021-08-17 |  |

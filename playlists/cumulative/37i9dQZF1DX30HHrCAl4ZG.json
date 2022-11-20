@@ -8058,6 +8058,24 @@
     },
     {
       "album": {
+        "name": "mr. butterfly",
+        "url": "https://open.spotify.com/album/3yhW3ZEXA0u3bPU9mApvao"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156615,
+      "name": "mr. butterfly",
+      "url": "https://open.spotify.com/track/6iLtjX5AhdZ6Muj5ELBfF7"
+    },
+    {
+      "album": {
         "name": "Into The Rift",
         "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
       },

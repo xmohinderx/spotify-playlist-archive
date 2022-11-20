@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-574 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+575 songs - 1 day 3 hr 50 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Don't Deserve Me](https://open.spotify.com/track/63yKdcTxH8RGhQhaZVnFkm) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Don't Deserve Me](https://open.spotify.com/album/6JkvvMIZZqXmZHlLhbN4Hf) | 2:40 | 2022-07-08 | 2022-07-24 |
 | [Don't Miss](https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Don't Miss](https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd) | 3:06 | 2022-01-28 | 2022-04-20 |
 | [DONT CRY FOR ME](https://open.spotify.com/track/6vOo5ZsZqjH5FFCWZwlEIY) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [DONT CRY FOR ME](https://open.spotify.com/album/01bb7s4DSEhKsKueYw7t6t) | 3:07 | 2021-09-03 | 2022-04-20 |
+| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-18 |  |
 | [DRIFTING IN TOKYO](https://open.spotify.com/track/0T3OiQe1lrZX5x42ahvejW) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [DRIFTING IN TOKYO](https://open.spotify.com/album/5m12NwPnvohoM6LjHoWG4e) | 1:48 | 2022-07-22 | 2022-07-27 |
 | [DRIFTING IN TOKYO](https://open.spotify.com/track/4Sx3LWJDdzWIvyOgQJ9vXt) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 1:48 | 2022-07-15 | 2022-07-23 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 |  |
@@ -307,7 +308,7 @@
 | [Look At Me Now](https://open.spotify.com/track/1MPlwk21N57y3lGe8rgxXr) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Tope](https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq) | [Marlin 7](https://open.spotify.com/album/0BVcHiFWdk3Fa7C52Gkk2M) | 1:42 | 2022-03-18 | 2022-04-21 |
 | [Look At What I Did](https://open.spotify.com/track/6iMuOPglmieDgR2BI9x2hG) | [DJ Five Venoms](https://open.spotify.com/artist/2Fgzlix3cAejzg848Rqw0i), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Big Havi](https://open.spotify.com/artist/5cBYCQwYq0heqBluY3VY1v) | [Look At What I Did](https://open.spotify.com/album/0oubo4PSzWjb0zO9YBKk3z) | 3:03 | 2021-09-17 | 2022-04-19 |
 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 | 2022-06-24 | 2022-07-26 |
-| [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 |  |
+| [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 | 2022-11-20 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2021-11-30 | 2022-08-20 |
 | [Lovers Anonymous](https://open.spotify.com/track/7sdRFe7nMpCLSIwVTSgPRg) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Rap n Roll \(Deluxe Album\)](https://open.spotify.com/album/4wWlhUCI9gCMhSX2Tqo6U5) | 3:00 | 2021-09-03 | 2022-03-13 |
 | [LOW KEY \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fPYeNbEnfXwCX3bmLpIW2) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOW KEY \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/46auY5dDnGZO3YoIKUVMHq) | 3:09 | 2022-03-25 | 2022-06-18 |

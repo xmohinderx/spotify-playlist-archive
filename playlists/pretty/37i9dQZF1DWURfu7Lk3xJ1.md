@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,519 likes - 199 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,544 likes - 199 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 93 | [Golden Light](https://open.spotify.com/track/5Qr0Pq6LUTtfkza2BwfiTN) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Golden Light](https://open.spotify.com/album/4CGLmkjxqTobXHVSiBjmBw) | 2:17 |
 | 94 | [Shadows](https://open.spotify.com/track/2CuHpzNh7yi3j8w9vLOSCg) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Tranquil Teddy](https://open.spotify.com/artist/52Mg3MSOqtZjEWuhJcsaU0) | [Shadows](https://open.spotify.com/album/2jj7bRZJxB62VLBrdsxWHD) | 2:50 |
 | 95 | [first kiss](https://open.spotify.com/track/2sElGQDxRv0426H5hjvTck) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [her smile](https://open.spotify.com/album/0beXtiM7Lbld4dW7wGiPTe) | 2:03 |
-| 96 | [Daffodil](https://open.spotify.com/track/5hX2PkApzbk9jw4bwz5MYo) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2vqbcYmHOcCq98XNHcOuQr) | 2:23 |
+| 96 | [Daffodil](https://open.spotify.com/track/7v0GVnXyUwE31aqCAQcWY3) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2v6XMvE2IPI8K32IwpJn3C) | 2:23 |
 | 97 | [ataraxy](https://open.spotify.com/track/7iMJDkT8ruOLmRvnxccgNP) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Transcendence](https://open.spotify.com/album/1JC56s6x6yG7YCJbacEaED) | 2:54 |
 | 98 | [Raven's Song](https://open.spotify.com/track/3wt9M9GdG9IGYvyJeezaHT) | [Kaidon Roddy](https://open.spotify.com/artist/1Cp9rtBne3LPozzNLTJ9dy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Raven's Song](https://open.spotify.com/album/6itGUdmcWnqHbI5ytB9qsr) | 2:12 |
 | 99 | [A Comfortable Place](https://open.spotify.com/track/0ESeRwwITsNX7WHjXNr1Qr) | [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA), [Bitter Blossom](https://open.spotify.com/artist/5d66sWR2eYa7f627BC2t6Q) | [A Comfortable Place](https://open.spotify.com/album/0jhliMIQ1EekdqZ1t5mSOf) | 3:07 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 149 | [Still Here](https://open.spotify.com/track/4A3CXr504iKbWp4QAwZ4xP) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Still Here](https://open.spotify.com/album/3TvAfmpVnZdjbA81DYBBCE) | 3:28 |
 | 150 | [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 |
 | 151 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 |
-| 152 | [Twilight](https://open.spotify.com/track/5n2tib4vCRXyMec3YQvWdC) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Twilight](https://open.spotify.com/album/2S35QHM1idCAfME5j06oaH) | 1:47 |
-| 153 | [Purple Sky](https://open.spotify.com/track/4MjQ2ViBJketrS9Ub3MRpA) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/39RqaB9nZz8zZ1qGrEBJmU) | 2:07 |
+| 152 | [Twilight](https://open.spotify.com/track/326kj2BCVjc6G97XWuJIFJ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Twilight](https://open.spotify.com/album/4gK9Pvf09pKOBvbfIjAizd) | 1:47 |
+| 153 | [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 |
 | 154 | [Deep Affection](https://open.spotify.com/track/717gydHl2e27f5temk2yyc) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/41fruNAkolL6oaIma2fnSJ) | 2:38 |
 | 155 | [TSUKUBA](https://open.spotify.com/track/5UkrIBWVS8WHqRUQY4bDm2) | [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf), [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh) | [TSUKUBA](https://open.spotify.com/album/5G9VvcWFDuO9M2yuBqwobQ) | 3:15 |
 | 156 | [free agent](https://open.spotify.com/track/3I1EMZaJzJn1PljYX46ZOk) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [free agent](https://open.spotify.com/album/5K52oFLaPpHJ9KzzndaABx) | 2:24 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 162 | [Lost Woods](https://open.spotify.com/track/4coOFdLZB5MOcblxNHad7f) | [KioKo](https://open.spotify.com/artist/1QCUosyjrXG8kXxVpnSRgi) | [Lost Woods](https://open.spotify.com/album/4C0L3j6YiP1dGwpTPO4WF2) | 2:48 |
 | 163 | [a long way home](https://open.spotify.com/track/09IoU5auO9LLPJuUyWyOhb) | [Swilled](https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3), [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY) | [a long way home](https://open.spotify.com/album/0bRAB8xobU9yxOqhMENfwm) | 1:58 |
 | 164 | [Clear sky](https://open.spotify.com/track/29JeO29PvNVtPSJY9T74N1) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Steps](https://open.spotify.com/album/6PJkn9eU7pm1gvJp55bj8A) | 2:01 |
-| 165 | [Far From Home](https://open.spotify.com/track/52cJDgCmN75YgJ6WiqwqZD) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Far Away](https://open.spotify.com/album/0CVOVi9O6THLbrdLUUN4W2) | 2:07 |
+| 165 | [Far From Home](https://open.spotify.com/track/2Vo1UjHnf8zbuLb7TyiPno) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Far Away](https://open.spotify.com/album/76qRULoIKsDbeIcoTN6dlF) | 2:07 |
 | 166 | [Imagination](https://open.spotify.com/track/6V49Dzt6wfNy5To3BVGU2F) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [kairos](https://open.spotify.com/artist/6YHuTrPW5JY4DcamHp2vAa), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [Imagination](https://open.spotify.com/album/5GxE4JZhHVUGjEK0XmXZ5b) | 2:12 |
 | 167 | [Aquamarine](https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Mavi](https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ) | 2:50 |
 | 168 | [Anew](https://open.spotify.com/track/5zn6bwh2p6QQXIarMriSQj) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Anew](https://open.spotify.com/album/00owKIDoAG3kKEUKCzM73r) | 1:50 |
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 185 | [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 |
 | 186 | [Oasis](https://open.spotify.com/track/2hqtUQ5bKtADF9uxPvfknx) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [Oasis](https://open.spotify.com/album/2vZEcK4ZjC8O7qe1Rw38Zn) | 2:05 |
 | 187 | [Secret Place](https://open.spotify.com/track/5BaRhe7Rv9ciEFsvOcQBX4) | [Nivyer G](https://open.spotify.com/artist/1oh4y1bJOM0oUzEm3dZgWv) | [Secret Place](https://open.spotify.com/album/0h1bpFcp0vs5kAWle5om3i) | 2:30 |
-| 188 | [Sweet Dreams, Sakura](https://open.spotify.com/track/6gF05fRTspswhi7HeLhUcG) | [koufuku bits](https://open.spotify.com/artist/1yZwqGOsV2QnZaWoscSLzq) | [Sweet Dreams, Sakura](https://open.spotify.com/album/2K4kzogLNnzUdsaXKLJwhN) | 2:09 |
+| 188 | [Sweet Dreams, Sakura](https://open.spotify.com/track/6gF05fRTspswhi7HeLhUcG) | [koufuku bits](https://open.spotify.com/artist/1yZwqGOsV2QnZaWoscSLzq), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Sweet Dreams, Sakura](https://open.spotify.com/album/2K4kzogLNnzUdsaXKLJwhN) | 2:09 |
 | 189 | [Rain Reverie](https://open.spotify.com/track/5A3eMTARV2hVzgCNS47CZl) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/3X9TTMLkGioGksEZkWNMd5) | 2:08 |
 | 190 | [Looking For The Moon](https://open.spotify.com/track/5x2WVc6pPhkFJWRLjAaXKd) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Looking For The Moon](https://open.spotify.com/album/3BJIdvypcCFlORsHGg6FHI) | 2:37 |
 | 191 | [Lunar](https://open.spotify.com/track/1KeDvy5gExkrE27KL2zH74) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd) | [Lunar](https://open.spotify.com/album/2MU8tujgT7r38JV0BXbfxc) | 2:10 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 198 | [JP Photo Bounce](https://open.spotify.com/track/52drfrfdOabG98VBtK2qwC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [JP Photo Bounce](https://open.spotify.com/album/47aQvzo4dJD4NR8eKSOiE1) | 2:35 |
 | 199 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDBlM2ZjZjhjYjVkOWJjOTIzOWU3YWFiNDIxNGRlMmUy`
+Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDNmZjk2YTkyOTIxZjk4NjMxMmY2NWYwZGYwYjJkNWYw`

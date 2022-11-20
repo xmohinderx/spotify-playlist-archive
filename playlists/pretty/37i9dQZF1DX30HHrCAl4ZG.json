@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839220,
+  "num_followers": 839399,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYzOWZjNmY0ZDdjMjYxNmY2ZThiYmQwMzIxMjU5ZjA5",
+  "snapshot_id": "MTY2ODgzMjY0MSwwMDAwMDAwMDljMjhhY2Y3NDQyNjliOGFlYjg4MzJiZGI5NzUzZTg0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Double Superfine (Deluxe)",
+        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "85 Down PCH",
+      "url": "https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "No Rule",
@@ -321,22 +337,6 @@
       "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Double Superfine (Deluxe)",
-        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "85 Down PCH",
-      "url": "https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY"
-    },
-    {
       "added_at": "2022-09-30 05:45:00",
       "album": {
         "name": "Body Paint",
@@ -351,6 +351,22 @@
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
+    },
+    {
+      "added_at": "2022-11-19 04:37:20",
+      "album": {
+        "name": "mr. butterfly",
+        "url": "https://open.spotify.com/album/3yhW3ZEXA0u3bPU9mApvao"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "duration_ms": 156615,
+      "name": "mr. butterfly",
+      "url": "https://open.spotify.com/track/6iLtjX5AhdZ6Muj5ELBfF7"
     },
     {
       "added_at": "2022-11-11 05:00:00",

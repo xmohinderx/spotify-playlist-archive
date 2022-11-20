@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-499 songs - 1 day 4 hr 31 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+500 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Awakening](https://open.spotify.com/track/27KvPekcDlNDvfOdi0ohWC) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 7:37 | 2019-05-26\* | 2019-06-19 |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-02-25 |  |
 | [Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2019-07-31 | 2020-01-09 |
-| [Bayybe 07](https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/4usPLgAV2lZZ5iKu74x7dS) | 1:54 | 2020-06-19 |  |
+| [Bayybe 07](https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/4usPLgAV2lZZ5iKu74x7dS) | 1:54 | 2020-06-19 | 2022-11-20 |
+| [Bayybe 07](https://open.spotify.com/track/4ahEI4QjOwmT4z8PuZZYDk) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/04KlP3uybtKQP8iE8gvY56) | 1:54 | 2022-11-11 |  |
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2019-06-19\* | 2022-11-18 |
 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 | 2020-10-08 |  |
 | [Behind the World](https://open.spotify.com/track/03VnvcUaAxCkmtk2YrTlZb) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 4:06 | 2019-06-19\* | 2020-08-07 |

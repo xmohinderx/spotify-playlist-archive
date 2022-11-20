@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock\. Cover: <a href="https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO?si=ShwKhUgxTQ2nMhtDaz8WZw">Frans Karoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,277 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,282 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 20 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 |
 | 21 | [Nothing Feels Good Without You](https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [Nothing Feels Good Without You](https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe) | 3:25 |
 | 22 | [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 |
-| 23 | [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 |
+| 23 | [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 |
 | 24 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 |
 | 25 | [Too Much \(Feat\. Shane Durrant\)](https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt), [Shane Durrant](https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 3:12 |
 | 26 | [Drunk 'n Irate](https://open.spotify.com/track/25vGUFIheFaFNOdl0T8APH) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Drunk 'n Irate](https://open.spotify.com/album/5JyKQ7U1Cy5xucch8ZVFaF) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 |
 | 50 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDFhZjhjYjRkZTA3ZDZmMjU5MjUyYzM2YTA5NGQwNjAz`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDAxMTg1NGFkN2JlZTViN2M0YTA0ODkwZjY4MTYyMjNk`

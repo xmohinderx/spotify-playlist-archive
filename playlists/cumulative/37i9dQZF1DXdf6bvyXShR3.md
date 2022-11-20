@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/0aPO5Ukruwi5tjT4lOAA6p)
+70 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/0aPO5Ukruwi5tjT4lOAA6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [IZA](https://open.spotify.com/track/1WcsPISsw8pbbcnVmLMA5D) | [Map.ache](https://open.spotify.com/artist/2enNMBArUbDhmTopWMVWHr) | [IZA](https://open.spotify.com/album/4iRWnszxMSmGBcx8zl08Zn) | 7:42 | 2022-09-16 |  |
 | [Just Off Wave](https://open.spotify.com/track/20bTVYNJ8KNoWmtD6CyIXs) | [CZ Wang](https://open.spotify.com/artist/4FeNSvYRtMNdMbCSVJox16), [Neo Image](https://open.spotify.com/artist/0ZVQmJLJs7TWVXFew0xp0z), [Separated At Birth](https://open.spotify.com/artist/1AzQkEA2oUyhk2XDogLOOI) | [Just Off Wave / Open Mic Beat](https://open.spotify.com/album/6TZBKEJW8DMFjbRhbERA8c) | 5:23 | 2022-09-16 |  |
 | [Kunitamale](https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN) | [Kunitamale](https://open.spotify.com/album/5df09cDBAMKQ7rMKzZ1b0S) | 7:24 | 2022-09-16 |  |
-| [La Danse Heureuse \- Edit](https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse](https://open.spotify.com/album/2TfI3C8cINRiaNTQxLN7Bu) | 3:27 | 2022-09-16 |  |
+| [La Danse Heureuse \- Edit](https://open.spotify.com/track/4xBgLDhsLY14YB2rKd87p2) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse](https://open.spotify.com/album/2TfI3C8cINRiaNTQxLN7Bu) | 3:27 | 2022-09-16 | 2022-11-20 |
+| [La Danse Heureuse \- Edit](https://open.spotify.com/track/6oF0ZOAKaMxlRVYYHPGgiH) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [La Danse Heureuse \(Edit\)](https://open.spotify.com/album/29E6YSbwlIx8nyI7wjFaJb) | 3:27 | 2022-09-16 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-09-16 |  |
 | [Last Night \- 1981 Version](https://open.spotify.com/track/4VaiYbCLC7PCdwIZbb9lEC) | [Jet Hammer](https://open.spotify.com/artist/5QnH8g5VaGI7wPFDgH4UKV) | [Last Night EP](https://open.spotify.com/album/5JgIaaM0G5mCsNyEtlDpfj) | 5:11 | 2022-09-16 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
-  "num_followers": 732417,
+  "num_followers": 732514,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGM0NDY5MDVhMmQ4OWQ4NzEyZjk3NGQ5YWI0MzYwYmI1",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDljNjY3ZWUxNGM4ZGYzMWM3MTg5MzA0Zjg2YzQyYjEy",
   "tracks": [
     {
       "added_at": "2021-11-26 07:27:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Irene",
-        "url": "https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc"
-      },
-      "artists": [
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "halfway",
         "url": "https://open.spotify.com/album/0Z3FEnCOZaLw0YVnAClBfu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 165710,
       "name": "cloudy",
       "url": "https://open.spotify.com/track/13ogVSkKK2zmNGDOaaiBc9"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Irene",
+        "url": "https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Escapism III",
+        "url": "https://open.spotify.com/album/2hnFVR7bX3TSkih1SLCVfG"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/3p2Dz6a0slY4fWQLC8eXsS"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Data Loss",
         "url": "https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 165526,
       "name": "Data Loss",
       "url": "https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Escapism III",
-        "url": "https://open.spotify.com/album/2hnFVR7bX3TSkih1SLCVfG"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Acres",
-      "url": "https://open.spotify.com/track/3p2Dz6a0slY4fWQLC8eXsS"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Everybody You Hurt",
-        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
-      },
-      "artists": [
-        {
-          "name": "Aaron Kates",
-          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Everybody You Hurt",
-      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "A Place Where Mountains Hide",
         "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 253333,
       "name": "A Drowning Cry",
       "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Everybody You Hurt",
+        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kates",
+          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Everybody You Hurt",
+      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/2nUyuLjvJR5TWoiT0yZZf5"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "dawsonLIED",
-          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Knock the Wind Out",
         "url": "https://open.spotify.com/album/0cgdngdkYBSeSkoQ07SnLZ"
       },
@@ -1167,38 +1147,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "T0NITE",
-        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2nUyuLjvJR5TWoiT0yZZf5"
       },
       "artists": [
         {
-          "name": "HELLHEIM",
-          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
-        }
-      ],
-      "duration_ms": 123259,
-      "name": "T0NITE",
-      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Blueberry",
-        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
-      },
-      "artists": [
-        {
-          "name": "Direct",
-          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         },
         {
-          "name": "Exist Strategy",
-          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+      "duration_ms": 213817,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1227,6 +1191,26 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Blueberry",
+        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Exist Strategy",
+          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Escape Reality",
         "url": "https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 211200,
       "name": "Escape Reality",
       "url": "https://open.spotify.com/track/4EcsGwSei1YStJRy3lbpzt"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "T0NITE",
+        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
+      },
+      "artists": [
+        {
+          "name": "HELLHEIM",
+          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
+        }
+      ],
+      "duration_ms": 123259,
+      "name": "T0NITE",
+      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "bb u ok?",
+        "url": "https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 201611,
+      "name": "bb u ok?",
+      "url": "https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Sakura VIP",
         "url": "https://open.spotify.com/album/3K8aKx7HyQOHrpeMU4pMOZ"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 237082,
       "name": "Never Be The One",
       "url": "https://open.spotify.com/track/7vJgFCSsvnzDLc5MWFkFnz"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "bb u ok?",
-        "url": "https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 201611,
-      "name": "bb u ok?",
-      "url": "https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1541,42 +1541,6 @@
       "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
-      "album": {
-        "name": "care about u",
-        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201637,
-      "name": "care about u",
-      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Fall In",
-        "url": "https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 262447,
-      "name": "Fall In",
-      "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
-    },
-    {
       "added_at": "2021-10-08 04:03:00",
       "album": {
         "name": "Drugs in California",
@@ -1591,6 +1555,22 @@
       "duration_ms": 182578,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7"
+    },
+    {
+      "added_at": "2021-11-26 07:27:00",
+      "album": {
+        "name": "care about u",
+        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201637,
+      "name": "care about u",
+      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1613,6 +1593,26 @@
       "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
     },
     {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 262447,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
+    },
+    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "RESET",
@@ -1631,22 +1631,6 @@
       "duration_ms": 190163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
-      },
-      "artists": [
-        {
-          "name": "Whereisalex",
-          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
+      },
+      "artists": [
+        {
+          "name": "Whereisalex",
+          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "gold",
         "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
       },
@@ -1683,6 +1683,38 @@
       "duration_ms": 193175,
       "name": "gold",
       "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 259660,
+      "name": "Something Wonderful",
+      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/6MrhTYpb07TMkyCqKYIoOV"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        }
+      ],
+      "duration_ms": 209299,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1707,54 +1739,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/6MrhTYpb07TMkyCqKYIoOV"
-      },
-      "artists": [
-        {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        }
-      ],
-      "duration_ms": 209299,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 259660,
-      "name": "Something Wonderful",
-      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
-    },
-    {
-      "added_at": "2022-05-13 04:28:02",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        }
-      ],
-      "duration_ms": 183646,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Rooms on the Ark",
         "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
+    },
+    {
+      "added_at": "2022-05-13 04:28:02",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        }
+      ],
+      "duration_ms": 183646,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
     },
     {
       "added_at": "2021-10-08 04:03:00",
@@ -2097,6 +2097,22 @@
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
     },
     {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
+      },
+      "artists": [
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
+    },
+    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Close",
@@ -2163,22 +2179,6 @@
       "duration_ms": 175680,
       "name": "on hold",
       "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
-      },
-      "artists": [
-        {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2305,20 +2305,20 @@
       "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/3UIrcJiTuOoBcuQA6xS26O"
+        "name": "see str8",
+        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
       },
       "artists": [
         {
-          "name": "Nick AM",
-          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
         }
       ],
-      "duration_ms": 214110,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/3Tw9Z8J4DLL1Y2zVyBiDg0"
+      "duration_ms": 240000,
+      "name": "see str8",
+      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
     }
   ],
   "unique_name": "creamy",

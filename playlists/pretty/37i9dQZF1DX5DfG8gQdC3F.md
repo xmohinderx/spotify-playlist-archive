@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nickelback \(pictured\), Pharrell Williams ft\. Travis Scott, bbno$, Saweetie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,082 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,242 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 57 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
 | 58 | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT) | 2:44 |
 | 59 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 |
-| 60 | [Ombaashi \(feat\. Northern Cree Singers\)](https://open.spotify.com/track/4ixFmWvnOcL23bvrnHD7cs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Northern Cree Singers](https://open.spotify.com/artist/7cKRgZFFib4BKtbEykBxQs) | [Ombaashi \(feat\. Northern Cree Singers\)](https://open.spotify.com/album/5Wc3CY0n0UFLG5yJxtRCqx) | 4:02 |
+| 60 | [Ombaashi \(feat\. Northern Cree\)](https://open.spotify.com/track/4ixFmWvnOcL23bvrnHD7cs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Northern Cree](https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq) | [Ombaashi \(feat\. Northern Cree\)](https://open.spotify.com/album/5Wc3CY0n0UFLG5yJxtRCqx) | 4:02 |
 | 61 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 |
 | 62 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
 | 63 | [Shikari](https://open.spotify.com/track/433at8QZ0m3VPY3TzQM8y5) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Shikari](https://open.spotify.com/album/7hKqDj5AEuiU1sbUhXkEXR) | 2:36 |

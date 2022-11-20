@@ -1,18 +1,82 @@
 {
   "description": "Neighborhood Storytellers. Cover: Lil Tjay",
-  "num_followers": 53392,
+  "num_followers": 53394,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDlmNzU1MDkwZmYxNjgwOTA3M2MwYmI1YzQxMTZmZjgz",
+  "snapshot_id": "MTY2ODg5Njk4NiwwMDAwMDAwMGRiMDUzOGU0MDcyYjg2YjMzZGJjNDQ4ZjA3ZjAwNjA5",
   "tracks": [
+    {
+      "added_at": "2022-11-19 22:29:46",
+      "album": {
+        "name": "Feed Tha Streets III",
+        "url": "https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 153743,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k"
+    },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Went Deaf",
-        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
+        "name": "Letter 2 Notti",
+        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Letter 2 Notti",
+      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Risk Takers",
+        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141888,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "added_at": "2022-11-19 22:29:46",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1fDgOfcw9Ljo9yXVYcXEFR"
       },
       "artists": [
         {
@@ -20,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 183047,
-      "name": "Went Deaf",
-      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
+      "duration_ms": 242790,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -61,40 +125,20 @@
       "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
-      "added_at": "2022-07-08 01:21:55",
-      "album": {
-        "name": "Live Life Die Faster (with Kodak Black)",
-        "url": "https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 180002,
-      "name": "Live Life Die Faster (with Kodak Black)",
-      "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+        "name": "Went Deaf",
+        "url": "https://open.spotify.com/album/68jBNJ9GR32vg0eEW0dqfB"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+      "duration_ms": 183047,
+      "name": "Went Deaf",
+      "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -117,22 +161,6 @@
       "url": "https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Risk Takers",
-        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141888,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Realer 2",
@@ -147,22 +175,6 @@
       "duration_ms": 136258,
       "name": "Purge Me",
       "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-10-27 20:30:44",
@@ -445,6 +457,22 @@
       "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
     },
     {
+      "added_at": "2022-11-19 22:29:46",
+      "album": {
+        "name": "Work Fa My Spot",
+        "url": "https://open.spotify.com/album/2pg1hiiYOJtbVOwiGWJIJR"
+      },
+      "artists": [
+        {
+          "name": "Lg Malique",
+          "url": "https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p"
+        }
+      ],
+      "duration_ms": 134752,
+      "name": "Work Fa My Spot",
+      "url": "https://open.spotify.com/track/4JM1LvyEEwYxkQFzrTT75T"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Master P",
@@ -519,42 +547,6 @@
       "duration_ms": 141166,
       "name": "Home Ain't Home (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y"
-    },
-    {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Love of the Money (feat. Hotboii)",
-        "url": "https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        },
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        }
-      ],
-      "duration_ms": 181435,
-      "name": "Love of the Money (feat. Hotboii)",
-      "url": "https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi"
     },
     {
       "added_at": "2022-01-26 21:12:53",
@@ -875,26 +867,6 @@
       "duration_ms": 230016,
       "name": "Love is...",
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Mr. Crawford",
-        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 148732,
-      "name": "Flags To The Sky (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
     },
     {
       "added_at": "2022-05-06 04:00:00",

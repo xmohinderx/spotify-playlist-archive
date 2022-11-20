@@ -1663,6 +1663,24 @@
     {
       "album": {
         "name": "Dizzy Inside",
+        "url": "https://open.spotify.com/album/13bMbYZ0t4qtbWXdxtyaId"
+      },
+      "artists": [
+        {
+          "name": "ESCHES",
+          "url": "https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250703,
+      "name": "Dizzy Inside",
+      "url": "https://open.spotify.com/track/5OLYZNrMhI2zwc6Gys0VQ7"
+    },
+    {
+      "album": {
+        "name": "Dizzy Inside",
         "url": "https://open.spotify.com/album/32wi0giOvudmbUcQ2n1rf1"
       },
       "artists": [
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 250703,
       "name": "Dizzy Inside",
       "url": "https://open.spotify.com/track/7ekKMAAhU3KS4zry5OSzV9"
@@ -6843,10 +6861,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 225394,
       "name": "Shades",
       "url": "https://open.spotify.com/track/1KFeI91BvQADYsPeYr7pyJ"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/7fVf8Yy36Cf11xNvrSLGad"
+      },
+      "artists": [
+        {
+          "name": "ESCHES",
+          "url": "https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/59qUIjOZ7i4ltZLGgK4rMc"
     },
     {
       "album": {

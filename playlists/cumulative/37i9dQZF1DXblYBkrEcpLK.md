@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-355 songs - 1 day 0 hr 36 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+356 songs - 1 day 0 hr 39 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [MY VOICE](https://open.spotify.com/track/7hP8TRaqvJd4nwGmz9mGme) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [MY VOICE](https://open.spotify.com/album/1bRoDKeDqu1o1KPWhH1yLH) | 3:41 | 2022-06-24 | 2022-07-06 |
 | [narrow](https://open.spotify.com/track/2l5LkdRTsylhqx3LPM7l4N) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 4:52 | 2022-06-09 | 2022-07-27 |
 | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/track/6PshiiQYhJ1CcqNQ9dEml5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/album/1FC23UCOGmieycsP29GrVn) | 4:38 | 2022-06-21 | 2022-07-28 |
-| [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 |  |
+| [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 | 2022-11-20 |
 | [No.6](https://open.spotify.com/track/5PX4xUYIxqAdrekai2B3K2) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Lowland Jazz](https://open.spotify.com/artist/15YaKCW5WtV9QKQCNRbIlO) | [No.6 \(TVアニメ「戦闘員、派遣します!」オープニング・テーマ\)](https://open.spotify.com/album/0n1H1DFuxbt9E6KnwaMvH0) | 3:54 | 2022-07-19 | 2022-07-28 |
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-09 | 2022-06-11 |
 | [Omoideshiritori](https://open.spotify.com/track/0FnA6x9CTUsZRlYzKJ8pG6) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 4:23 | 2022-06-09 | 2022-06-15 |
@@ -358,6 +358,7 @@
 | [銀河鉄道999](https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia) | [Photon Maiden](https://open.spotify.com/artist/0CsTVU9j8C5nXwgIWyCjMm) | [D4DJ Groovy Mix カバートラックス \(vol.3\)](https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB) | 3:47 | 2022-06-12 | 2022-07-16 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-28 |  |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-06-24 | 2022-08-04 |
+| [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2022-11-19 |  |
 | [風に吹かれて](https://open.spotify.com/track/6vjeETfOkmZ5jAGvPVXtMt) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/5vBoYEzniKotKOMLabgCYK) | 4:31 | 2022-06-14 | 2022-07-26 |
 | [風の音さえ聞こえない](https://open.spotify.com/track/32yZPsVMeF0KuuN07lWRKf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [風の音さえ聞こえない](https://open.spotify.com/album/08bbBD2AhdlytDaIxH3seZ) | 3:40 | 2022-06-14 | 2022-06-19 |
 | [風見鶏を見つけて](https://open.spotify.com/track/1D6gC3w9QMdYOXu2B9g2oE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風見鶏を見つけて](https://open.spotify.com/album/17ULC3MIHmbLWuOjcbTb1p) | 5:07 | 2022-06-14 | 2022-07-27 |

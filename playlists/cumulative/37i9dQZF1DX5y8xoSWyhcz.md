@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. hemlocke springs on the cover.
 
-993 songs - 2 day 2 hr 58 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+994 songs - 2 day 3 hr 2 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,8 @@
 | [Sidelines](https://open.spotify.com/track/2O8GAg2e0odKtTlPklQZ07) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Sidelines](https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H) | 2:46 | 2021-02-06 | 2021-03-19 |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-11 | 2022-01-29 |
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 | 2022-11-02 |
-| [Silver Lining](https://open.spotify.com/track/4jiDREwTvSuZxWPWpNzLcK) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [My Medicine](https://open.spotify.com/album/1yaLCoco4n4PQBC1BOHyxk) | 3:39 | 2022-10-28 |  |
+| [Silver Lining](https://open.spotify.com/track/4jiDREwTvSuZxWPWpNzLcK) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [My Medicine](https://open.spotify.com/album/1yaLCoco4n4PQBC1BOHyxk) | 3:39 | 2022-10-28 | 2022-11-20 |
+| [Silver Lining](https://open.spotify.com/track/4tw3eWyL5mzal4LbQUCjkB) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Wish](https://open.spotify.com/album/1Qoflw9wKOPA9FLF1BBaFL) | 3:39 | 2022-11-18 |  |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-04 | 2022-04-02 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-02-27 | 2021-05-03 |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-04-09 |

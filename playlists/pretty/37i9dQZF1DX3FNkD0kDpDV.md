@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,501 likes - 110 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,598 likes - 110 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 45 | [Rai](https://open.spotify.com/track/3kQKmyR72imok1PapkpjjE) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Bruce](https://open.spotify.com/artist/538TUK3KiHnDNHkHLF2yrK) | [Final Conference](https://open.spotify.com/album/60NNHQNq1nGCLZkJ6cSOGc) | 5:03 |
 | 46 | [Words of Affirmation](https://open.spotify.com/track/6Dzuzm3jLJys2dXDj8vI37) | [Nathan Kofi](https://open.spotify.com/artist/6Vo6Gxuj03sG9wMvsYE7Wk) | [Voltage Controlled Love Affair](https://open.spotify.com/album/0rW7XxqOIoL53ZrVx5qufn) | 5:44 |
 | 47 | [No Escape](https://open.spotify.com/track/2AxgnL2PuO8qprrjiIa0Kf) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [No Escape](https://open.spotify.com/album/7e1IFh48ecoOnol6Emm6A8) | 6:32 |
-| 48 | [Chasing Highs](https://open.spotify.com/track/2D19U6URTAhD7YhPIPtLCD) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [Chasing Highs](https://open.spotify.com/album/2fgRpn3a7HNSEhNJOSBotn) | 6:18 |
-| 49 | [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 |
+| 48 | [Chasing Highs](https://open.spotify.com/track/7p1bX9lFV94Dxcvy2nmx5G) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [Chasing Highs](https://open.spotify.com/album/45gZG3JUWQZ1my3YKGOvjH) | 6:18 |
+| 49 | [Don't Leave Me](https://open.spotify.com/track/2dRbjFqEgHGrrWi8TmKRdx) | [Fjaak](https://open.spotify.com/artist/3D8uiQETB5m11ZbuCVC9jH) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5rxbM4SUj7JqiHPuN1t2HV) | 6:55 |
 | 50 | [Gift](https://open.spotify.com/track/3wRCJKEofCmAvDCqJHxCAN) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Have You Been There, Have You Seen It](https://open.spotify.com/album/5Ksn2834B3vGIZ8bIsMhqW) | 4:02 |
 | 51 | [Yellow Lambo \- Original Mix](https://open.spotify.com/track/2TIAcb3RB9sRAE35iqs9LB) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Invisible Connections](https://open.spotify.com/album/4rUNyavuag1Qgw6mQmKDYw) | 5:42 |
 | 52 | [Really Want That](https://open.spotify.com/track/3KCEDUB2fYBJ4jGS4Nh7SU) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/1Gf8CmcMlxIdwAX1OWiXGl) | 4:21 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 69 | [Tessa Drive](https://open.spotify.com/track/2E2m43YG0IeM63KOghJCll) | [Mary Lake](https://open.spotify.com/artist/5bhoVKF8eORLen5Ls4ErRq) | [Askim](https://open.spotify.com/album/5DaaejX6Rn8CaMvjDokzEB) | 5:01 |
 | 70 | [Buttercup](https://open.spotify.com/track/6RfiWrAnIPxuWdMkZ1nALV) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Buttercup](https://open.spotify.com/album/7nsWGTBZzNXdqumFbKAorc) | 5:55 |
 | 71 | [Quoi!](https://open.spotify.com/track/5ABfJ4ak3yZiVLCEUUn5tW) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Pressure / Quoi!](https://open.spotify.com/album/1qyKsoIkFyqloXOGno81fS) | 7:14 |
-| 72 | [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 |
+| 72 | [Follow](https://open.spotify.com/track/2XGh5hmwLX517lMBSvglwS) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0kI8CjLFsSKL7xA2tSBZFa) | 5:37 |
 | 73 | [Data Italia](https://open.spotify.com/track/3EMBgfe4PnfQgdfpyuR9EQ) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Midnight Magic](https://open.spotify.com/album/0Q4wxYt0XEQivBsu6dTwjE) | 4:47 |
 | 74 | [Crush the Mushrooms](https://open.spotify.com/track/4MyfCSvggKffu9jZUpDHfD) | [Karenn](https://open.spotify.com/artist/4XbegMt5bk2X8R6b8z0vaX) | [Grapefruit Regret](https://open.spotify.com/album/1NED4RLjmkQCoYR5WxC8uk) | 6:31 |
 | 75 | [Fall Into The Light \- Original](https://open.spotify.com/track/4QcIVaRxrW9L0ZAYUZGsJa) | [Voiski](https://open.spotify.com/artist/6YlLUbef5d4ptmxkMKsrlK), [Hadone](https://open.spotify.com/artist/4aSlYJptLO5PXv3jGueMkD) | [On The Edge Of Adhesion \(Original\)](https://open.spotify.com/album/0FZDkJZ8eRUzaRmnK9qQne) | 5:55 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 109 | [Kinda Strange](https://open.spotify.com/track/414JWnAfPyxZdg8A9nYf7j) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic) | [No Toning Down](https://open.spotify.com/album/2zksMS4U1ZevTXIQSFbqoC) | 4:12 |
 | 110 | [Ritmo](https://open.spotify.com/track/3pyGKMZ1OZCOTx8KyZnyiE) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [Ritmo](https://open.spotify.com/album/0S7uSiWLCeOVYgAVDFGzvO) | 4:15 |
 
-Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMDNiOGZkMjc1NzQ4ZDliZGI1ZWUzOWVlOGI5YjYyM2U2`
+Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMDNjNTczYmFlNjM0Mzg1OTgxYzM2YTBiMWZlNjE3ZDE0`

@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 23657,
+  "num_followers": 23664,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDhmOWVhMDgzYTdiODFhMjljOWNkZmE0MTBiYjUzMmY1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDQ5YTFiNjE4MzlhMDM3NDRlMWQ5MWM5M2RkNWYxNDRm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "ALL I WANNA",
-        "url": "https://open.spotify.com/album/0yHk6WZ6uETrpsp4OVGU2M"
-      },
-      "artists": [
-        {
-          "name": "HAI-LIFE",
-          "url": "https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2"
-        }
-      ],
-      "duration_ms": 271441,
-      "name": "ALL I WANNA",
-      "url": "https://open.spotify.com/track/1jqIPhosdnRj26Rxy9m5V1"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Sip of My Sip",
         "url": "https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 198362,
       "name": "Sip of My Sip",
       "url": "https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "ALL I WANNA",
+        "url": "https://open.spotify.com/album/0yHk6WZ6uETrpsp4OVGU2M"
+      },
+      "artists": [
+        {
+          "name": "HAI-LIFE",
+          "url": "https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2"
+        }
+      ],
+      "duration_ms": 271441,
+      "name": "ALL I WANNA",
+      "url": "https://open.spotify.com/track/1jqIPhosdnRj26Rxy9m5V1"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 154358,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "TWITCH",
         "url": "https://open.spotify.com/album/3SiW26Em1rSBOfmwICXFSG"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Svengali",
-        "url": "https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL"
-      },
-      "artists": [
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 154358,
-      "name": "Ball And Chain",
-      "url": "https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Svengali",
+      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Banter",
         "url": "https://open.spotify.com/album/2CrWMemgMF8qnp8r2dg814"
       },
@@ -1015,18 +1031,50 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Svengali",
-        "url": "https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5"
+        "name": "Give It 2 Em (Remix)",
+        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
       "artists": [
         {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "DJ TBoogie",
+          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
         }
       ],
-      "duration_ms": 179482,
-      "name": "Svengali",
-      "url": "https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G"
+      "duration_ms": 120333,
+      "name": "Give It 2 Em - Remix",
+      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1071,54 +1119,6 @@
       "duration_ms": 148833,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate) - Swizzymack Remix",
       "url": "https://open.spotify.com/track/2eb07d29dV41KQcqb53kN3"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Give It 2 Em (Remix)",
-        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "DJ TBoogie",
-          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Give It 2 Em - Remix",
-      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
     },
     {
       "added_at": "2022-11-18 05:00:00",

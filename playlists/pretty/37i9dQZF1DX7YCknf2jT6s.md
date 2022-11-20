@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,389 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,607 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 58 | [Beep Durple](https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 6:20 |
 | 59 | [Respected Destroyer](https://open.spotify.com/track/42FymjHJKVuwrIP02t7QWo) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Ravi Coltrane](https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [New Standards Vol\. 1](https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF) | 5:28 |
 | 60 | [PYRAMIDS](https://open.spotify.com/track/3O5uimXicNsioVqrfY5nv0) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:50 |
-| 61 | [Ersa](https://open.spotify.com/track/58uJDaRq9rbHONQWIeBOTr) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/7IAifMkFqPcZQCXlWVoZr8) | 3:47 |
+| 61 | [Ersa](https://open.spotify.com/track/4twURyv1xrqjT9RILugLb3) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 3:47 |
 | 62 | [Night Bird](https://open.spotify.com/track/62ufBtxbDCupKZaXwiLEiB) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Something for Someone](https://open.spotify.com/album/5OYPRSfs4ak55n3v17n9Ds) | 5:43 |
 | 63 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 | 64 | [Finding Light](https://open.spotify.com/track/3MGg7Spc0VFKuvdnUG5oYm) | [Jeff Denson](https://open.spotify.com/artist/20l9cWpMlJ5ip9Tg6z0TBN), [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Finding Light](https://open.spotify.com/album/5JLlEDMSbWw5oGvpghB44H) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Pasadena Sun](https://open.spotify.com/track/1yFHsZoKINCydPpNwovrFz) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2), [Sam Borrello](https://open.spotify.com/artist/7loneNMuZqVQ1YQtw51GQi) | [Pasadena Sun](https://open.spotify.com/album/7GuF9J8VaPAY8bBqhvFlxC) | 1:42 |
 | 100 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDBlYzNmOTA3NGJlMzVmOTlkMzkzZDdhMzVhNDYwZTMz`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDJiYjBmNWUxNjA3ZTNmOTIzYjkwYjRiNTIyZWRlOGQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: La Bien Querida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,203 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,266 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 27 | [Unos Días Más \- En Vivo Teatro Gran Rex](https://open.spotify.com/track/34DmzlL9jlRJSRWf6YlQ1h) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6), [El Auelo](https://open.spotify.com/artist/3kksWsEWKy2cjM7MLkZYMx) | [Unos Días Más \(En Vivo Teatro Gran Rex\)](https://open.spotify.com/album/4SeSqAD1MwVzDDJ4UMqnVR) | 3:47 |
 | 28 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 |
 | 29 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 30 | [ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 |
+| 30 | [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 |
 | 31 | [Giselle](https://open.spotify.com/track/7deSm9gMwHe6SB86dcL0v2) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Hogar](https://open.spotify.com/album/26NInlEZ66aKG9MMguyEpT) | 2:42 |
 | 32 | [yo no trabajo para nadie, solo trabajo para mi](https://open.spotify.com/track/33CjEExdgaBl2Y2JPDG6FD) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [yo no trabajo para nadie, solo trabajo para mi](https://open.spotify.com/album/79x5OVJJ0ZdhTRJFJGfwbC) | 3:31 |
 | 33 | [Botas Texanas](https://open.spotify.com/track/3NRoOXIRa9IAwuPJIPtVvA) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Botas Fuego Desierto](https://open.spotify.com/album/6icLZ05smifqFPVRl2Q66L) | 2:37 |

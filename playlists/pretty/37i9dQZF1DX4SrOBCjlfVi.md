@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Roddy Ricch, Rod Wave and more\. Cover: BROCKHAMPTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,359 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,721 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [AWESOME](https://open.spotify.com/track/5O6XUXibuVgl0folQt5e4p) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:44 |
 | 36 | [156 Hudson](https://open.spotify.com/track/0RI9xDjzqBCpnA6kKxqyGB) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [156 Hudson](https://open.spotify.com/album/4M0kQqQhLtNtOmBQ2XhTi5) | 2:27 |
 | 37 | [Lightyear pt2 \(feat\. Blueface\)](https://open.spotify.com/track/3Vu0ImBVqPtxKxv0XxoU7G) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Lightyear pt2 \(feat\. Blueface\)](https://open.spotify.com/album/3MRbTwIzRgLZYLrhTqfFej) | 2:07 |
-| 38 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 |
+| 38 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 |
 | 39 | [Broken Vows](https://open.spotify.com/track/0fnx9PZJl15XElsuv9oyez) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Broken Vows](https://open.spotify.com/album/25uaIrRGxTqYYEXUdWsj6p) | 3:26 |
 | 40 | [FMG](https://open.spotify.com/track/3Tlkud5UiGv7FCc3RcYbhG) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 2:30 |
 | 41 | [Purple Potion](https://open.spotify.com/track/6vrU6AzhdPxhQGDCX9YNTF) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Purple Potion](https://open.spotify.com/album/43OOwLWqf674oWgCA4LObL) | 2:03 |

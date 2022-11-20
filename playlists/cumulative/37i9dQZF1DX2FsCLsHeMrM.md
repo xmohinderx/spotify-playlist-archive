@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-268 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+269 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Loose Tonight](https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D) | 4:32 | 2022-10-28 |  |
 | [Loose Tonight](https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki) | 4:32 | 2021-11-10 | 2022-10-13 |
 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2022-09-30 | 2022-11-17 |
+| [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 | 2022-11-07 |  |
 | [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-11-10 | 2022-10-13 |
 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 | 2021-11-10 |  |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2021-11-10 | 2022-08-03 |
@@ -220,7 +221,7 @@
 | [Temple of Soul](https://open.spotify.com/track/7DJzbogsi7SaCEQL3FwYsq) | [Shaolin Temple Defenders](https://open.spotify.com/artist/24JkoUWxHMpsrQFM9ADY4u) | [From the Inside](https://open.spotify.com/album/3N6254c1OtpQhnCVAScmfx) | 4:17 | 2022-01-20 | 2022-11-13 |
 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 | 2022-03-02 |  |
 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 | 2021-11-10 |  |
-| [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2021-11-10 |  |
+| [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2021-11-10 | 2022-11-20 |
 | [The Million Dollar Song](https://open.spotify.com/track/19ipHROLvBiPdGsWm4SMB2) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [The Million Dollar Song](https://open.spotify.com/album/3b9g8yzP8GNAg2z9I7XXDO) | 3:14 | 2021-11-10 | 2022-07-29 |
 | [The Million Dollar Song](https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [The Million Dollar Song](https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs) | 3:14 | 2022-06-03 |  |
 | [The Sweetest Meditation](https://open.spotify.com/track/1QVF9JOvsO9koQhq1XQTzy) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/08gaJDLvSafVxpaaZCo9Pm) | 5:54 | 2021-11-10 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-257 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+258 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Auburn Sky](https://open.spotify.com/track/42BtxDRqFTbE6Jb6rd9QOZ) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Auburn Sky](https://open.spotify.com/album/1EIqmvGv55MS2yreh82mh0) | 2:42 | 2021-09-06 |  |
 | [Awaken](https://open.spotify.com/track/00ZtJgQax06A96l8sMcmlB) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Awaken](https://open.spotify.com/album/3R9k9HgJhVjdeHKIeVP4ZK) | 2:09 | 2021-09-06 |  |
 | [Balance](https://open.spotify.com/track/6bFPyvDWFkhO7cHI7vItn3) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Reconstruct](https://open.spotify.com/album/07xYLClB2NU5CC5wxFlU4d) | 3:08 | 2021-09-06 |  |
-| [Bayybe 07](https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/4usPLgAV2lZZ5iKu74x7dS) | 1:54 | 2021-09-06 |  |
+| [Bayybe 07](https://open.spotify.com/track/08qO8i2K0Hxl0h8PIncyuH) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/4usPLgAV2lZZ5iKu74x7dS) | 1:54 | 2021-09-06 | 2022-11-20 |
+| [Bayybe 07](https://open.spotify.com/track/4ahEI4QjOwmT4z8PuZZYDk) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/04KlP3uybtKQP8iE8gvY56) | 1:54 | 2022-11-11 |  |
 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 | 2021-09-06 |  |
 | [Believe You Can](https://open.spotify.com/track/7lTvrLfSAsea7lrbrHLrNE) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:31 | 2021-09-06 |  |
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-09-06 |  |

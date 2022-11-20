@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,510 likes - 250 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,522 likes - 250 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 34 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 |
 | 35 | [dark beat](https://open.spotify.com/track/5C5BsRdreXZ6MkW1BDNEGt) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [dark beat](https://open.spotify.com/album/1g9SHQM7lita1ze8kuPI31) | 1:48 |
 | 36 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 |
-| 37 | [homecoming](https://open.spotify.com/track/5vkLnTZWyAUdceFAHQ8ufN) | [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [Homecoming](https://open.spotify.com/album/6Mw5JigVoa71GB9FVrYpIb) | 2:02 |
+| 37 | [homecoming](https://open.spotify.com/track/1lad1xjNciswEMYF3KMCNr) | [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [homecoming](https://open.spotify.com/album/2jAqETtdFcLiG8LZIBkVEn) | 2:02 |
 | 38 | [Ups and Downs](https://open.spotify.com/track/5BA74NJ2labkPFbuB2lMDi) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k) | [Ups and Downs](https://open.spotify.com/album/2E8lMpGLtsymJsFTWE0NIX) | 2:09 |
 | 39 | [Goodwitch](https://open.spotify.com/track/6ZlVto4etUDW4TkERVP37O) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 2](https://open.spotify.com/album/4ohPIllqmhvDQ8EKBQeFou) | 2:26 |
 | 40 | [Empty Hallways](https://open.spotify.com/track/7Glvm1A5eVOTgrKhkuJPG9) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Empty Hallways](https://open.spotify.com/album/2RrbweEpM42paH0jr6F8td) | 2:26 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 42 | [2 more minutes](https://open.spotify.com/track/200q0gql1s0DyGwLM98F0t) | [Elenja](https://open.spotify.com/artist/3BdWZWn9zFZxBgamS91DJ8) | [2 more minutes](https://open.spotify.com/album/1g1rQ5quiQhB2A3YEjtEke) | 2:00 |
 | 43 | [Portions](https://open.spotify.com/track/6KVu21hEiGs8nMluA60bWx) | [Brian Leaf](https://open.spotify.com/artist/7HsVoQC013rTyF0PUJQTz4) | [Portions](https://open.spotify.com/album/0pwehKV8DvdHxZHE0kXSRO) | 2:00 |
 | 44 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 |
-| 45 | [Retina](https://open.spotify.com/track/5rAYpwq15rHsSMIjz7xAxj) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk) | [Retina](https://open.spotify.com/album/1vMBzjhmBN26ZNqWA8oVyD) | 2:27 |
+| 45 | [Retina](https://open.spotify.com/track/78Aqz4IDaVWgKoRxIEPa69) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk) | [Retina](https://open.spotify.com/album/5LHMnqdBPwVH1WCQVXkJKX) | 2:27 |
 | 46 | [analogue](https://open.spotify.com/track/6Nye92076r2T3EDvOGSDsL) | [r@ts](https://open.spotify.com/artist/7zREpSJAYjxSFNlOai38bU) | [analogue](https://open.spotify.com/album/1V5KCQUmOAj8UcoWMbij5G) | 2:37 |
 | 47 | [Smear](https://open.spotify.com/track/5d5MGTGygirIvYMCC6IxUs) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 2:05 |
 | 48 | [Bronco](https://open.spotify.com/track/6guKuoVFVI7s1VTZqjHk3K) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5) | [Bronco](https://open.spotify.com/album/6XqkrUjPorwLnmy3rEj0k1) | 1:36 |
@@ -131,12 +131,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 121 | [Garnet](https://open.spotify.com/track/3aG6UBjGHkp556YEYsXAwc) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Marino](https://open.spotify.com/album/57GbYeIQ0LuKLiRF72DJ7H) | 1:34 |
 | 122 | [Chicago Nights](https://open.spotify.com/track/0FXG3k1T09bIB3JKEr9CIt) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Chicago Nights](https://open.spotify.com/album/1n7v3v58AJZSaeyNEKrP25) | 2:01 |
 | 123 | [Particles](https://open.spotify.com/track/0vx7bNNgm1wIAkMK0CjloG) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Particles](https://open.spotify.com/album/39sDeMgW5U6mp52z3Ij1PU) | 1:38 |
-| 124 | [Wanna Be with You](https://open.spotify.com/track/6cvfVUemxTmzsF2RZMiwIU) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Inner Life](https://open.spotify.com/album/2No65mBSMvbckMBPkf0OqS) | 2:14 |
+| 124 | [Wanna Be with You](https://open.spotify.com/track/5Ay9ZgnImwSd4vStyyURZZ) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Inner Life](https://open.spotify.com/album/5UP4PYbBUOOVKXOeU58vYt) | 2:14 |
 | 125 | [Soft Arcade](https://open.spotify.com/track/6bgm2nlMqWKOBz86nYuIgN) | [Elven Chlls](https://open.spotify.com/artist/2KleiaytQePm3q471pOHdJ) | [Soft Arcade](https://open.spotify.com/album/3SbSdMtJcCLRfZjyK4E38I) | 1:48 |
 | 126 | [Nightfall](https://open.spotify.com/track/3Ogra1a0VmoUwsxHUOmbZw) | [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Nightfall](https://open.spotify.com/album/46UFnbPeIvmRGZc82h13zf) | 3:14 |
 | 127 | [Trip](https://open.spotify.com/track/09WxnQhYo3Ka5XjIeY48Y0) | [7 AiX](https://open.spotify.com/artist/0xLK99dzCH2gsJSrMea2fU), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Trip](https://open.spotify.com/album/5uzjNcOXqArSw9hiTtXymv) | 2:08 |
 | 128 | [chillin](https://open.spotify.com/track/3QJdDT1QJNy61VvOWZVTty) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [chillin](https://open.spotify.com/album/1dD3vkNCJXyBLiOtf7GDml) | 2:43 |
-| 129 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 |
+| 129 | [Rainy Day](https://open.spotify.com/track/6AgrbKYeBgqJggFS9SqaIO) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/58wseddQ1pv4O5jfrH0s4m) | 3:01 |
 | 130 | [disentanglement](https://open.spotify.com/track/5aA8y3w8ePaPHKXga359os) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [disentanglement](https://open.spotify.com/album/1SnLjMh0VEMhNy1vNV6sDG) | 2:51 |
 | 131 | [Sax and Violins](https://open.spotify.com/track/1PcrDxcQLHsk88iz0H6Oy2) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Sax and Violins](https://open.spotify.com/album/6QpmTAhuN7ignQ0F6jtawO) | 2:15 |
 | 132 | [tight squeeze](https://open.spotify.com/track/2F0umTe5UJsSlGSbeUcD8p) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [tight squeeze](https://open.spotify.com/album/5kfL0ZyNYQxthQK3pj5WOh) | 2:28 |
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 174 | [Cliffs Of Moher](https://open.spotify.com/track/6prAGj7rFTHSqkE66EBZCI) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Pendulum // Cliff of Moher](https://open.spotify.com/album/0IOwpef52JjaVeL1kNxLgG) | 1:34 |
 | 175 | [Sunshine](https://open.spotify.com/track/5h0n0jJhZm6zWuEciF0TrN) | [aki\_](https://open.spotify.com/artist/5ieQ7RZaGQqEoKspB6Ho5L) | [Blue Sky](https://open.spotify.com/album/5nlguCfIN0dqhs7Q2Ij0Eq) | 1:33 |
 | 176 | [Mystery Room](https://open.spotify.com/track/5Wr6kkpDjvUkgJa4RmRWV0) | [Merlin on the beat](https://open.spotify.com/artist/6DCj7gPdhAycyf6FXtDUBx), [smoke bunny](https://open.spotify.com/artist/7kca8Ze9vonJL7ptIShwxI) | [Mystery Room](https://open.spotify.com/album/7BZaWbhBHHJwiO54DI7Ug9) | 2:59 |
-| 177 | [Sad Lofi Minecraft](https://open.spotify.com/track/6TRQgCgeNr1sCoYdkfLCx1) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Sad Lofi Minecraft](https://open.spotify.com/album/6Dn73AX6byOvTlnocvoY12) | 2:20 |
+| 177 | [Sad Lofi Minecraft](https://open.spotify.com/track/7k0mLIycvaKAiRyo4BnVNC) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Sad Lofi Minecraft](https://open.spotify.com/album/2e3HLXwNSZk86yNzJVjZIv) | 2:20 |
 | 178 | [Sunrise Express](https://open.spotify.com/track/2oAW3jN90nOCms2Igyxm02) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Sunrise Express](https://open.spotify.com/album/3Yn62GXWFekaczHeFi0p5m) | 2:51 |
 | 179 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 |
 | 180 | [solitune](https://open.spotify.com/track/2LyjV32xNHhTE1iuolzzpC) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [solitune](https://open.spotify.com/album/2TLbeo0GL2vpHABKoCE51k) | 2:49 |
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 229 | [Midnight Moonlight](https://open.spotify.com/track/59uMk0XV0H5ZGbao7TkwKf) | [Rakuyou](https://open.spotify.com/artist/7tQNGIV5AjrU5htrzL0JSe) | [Midnight Moonlight](https://open.spotify.com/album/4bDOHHsPgh8VE8koFxKHuV) | 2:41 |
 | 230 | [otherside](https://open.spotify.com/track/1W1Qi95eKfFNjlQvJlW3BG) | [Wave Five](https://open.spotify.com/artist/0FwSV23g1cCNlPFm9jr0I8) | [otherside](https://open.spotify.com/album/2bIyf2BXAerJdMnS7e2MZd) | 2:29 |
 | 231 | [Skate and/or die](https://open.spotify.com/track/1rL6vJL0i3kGkkOageCNLY) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Skate and/or die](https://open.spotify.com/album/7uzU5JiB7Xha4Vyl7Fl6xJ) | 1:34 |
-| 232 | [seasons](https://open.spotify.com/track/0cPHVReM72NIEGcg4hIMHk) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [seasons](https://open.spotify.com/album/7kMjIEAbrx7adTFJZKR8Uv) | 2:02 |
+| 232 | [seasons](https://open.spotify.com/track/1z0gxFvKhWJWpSd3XHQQx7) | [Amroa](https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb) | [seasons](https://open.spotify.com/album/0d6IU6V5Tu9BIw4Uno8HoD) | 2:02 |
 | 233 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 |
 | 234 | [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 |
 | 235 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 249 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 |
 | 250 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |
 
-Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMGZkMDEwODhkZDk3MzJiMzZmNzA1ZmFlMWU4ZjBlNDNh`
+Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMGM0MTE0ZWIzMTNhMTYwZDU5MmI2NDI1M2E5YjE0NzU4`

@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1354695,
+  "num_followers": 1354841,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMGQzMDMyMDUxYWY4OGZjYWVjODA2ZGNmZGYwYjY0NWUw",
+  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMGU3NjY4MGMxYjEwMmY5YjYwMGU5NThhZmQ0YWNiNGRi",
   "tracks": [
     {
       "added_at": "2022-03-14 19:51:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 242386,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "After 7",
         "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Blind Man",
-        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Blind Man",
-      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 257426,
       "name": "My Life",
       "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Blind Man",
+        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Blind Man",
+      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Tony Terry",
-        "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
-      },
-      "artists": [
-        {
-          "name": "Tony Terry",
-          "url": "https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "The Wild Card",
         "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 257013,
       "name": "Anything For You",
       "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Tony Terry",
+        "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
+      },
+      "artists": [
+        {
+          "name": "Tony Terry",
+          "url": "https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
     },
     {
       "added_at": "2022-03-14 19:51:21",

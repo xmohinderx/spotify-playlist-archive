@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-373 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+374 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Can't Hold Us](https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 5](https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG) | 3:39 | 2022-04-22 |  |
 | [Can't Hold Us](https://open.spotify.com/track/3KuFdioD7L4pxD7OoOLThV) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [The Covers, Vol\. 5](https://open.spotify.com/album/7kgFmENUoUxSXj3DDhgdtJ) | 3:39 | 2021-03-12 | 2022-10-15 |
 | [Can't Hold Us \- Acoustic](https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Can't Hold Us \(Acoustic\)](https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L) | 3:19 | 2021-03-12 |  |
-| [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/0zk9XRxtcGu12MbY25mjXm) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 1](https://open.spotify.com/album/26hWv2VK4QdRA6Y4YmQ0uE) | 2:28 | 2022-04-22 |  |
+| [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/0zk9XRxtcGu12MbY25mjXm) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 1](https://open.spotify.com/album/26hWv2VK4QdRA6Y4YmQ0uE) | 2:28 | 2022-04-22 | 2022-11-20 |
+| [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 1](https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M) | 2:28 | 2022-04-22 |  |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5xcsnZOeoLJkgFz3uVNc7h) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/album/2UBUdGZKPM7ZEuKi1uMkNC) | 2:28 | 2021-03-12 | 2022-07-29 |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5z78nwLTw2qC0JR3HmaaV0) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/album/006rjbaCKSsLhWRVCF9cc1) | 2:28 | 2022-04-22 | 2022-11-13 |
 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 | 2021-03-12 |  |

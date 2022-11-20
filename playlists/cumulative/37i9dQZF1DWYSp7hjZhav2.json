@@ -73,6 +73,24 @@
     {
       "album": {
         "name": "Attention Seeker",
+        "url": "https://open.spotify.com/album/2J0DRM0gr0OFmeOJB064Ym"
+      },
+      "artists": [
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327880,
+      "name": "Attention Seeker",
+      "url": "https://open.spotify.com/track/0ikVe3oMaQ4jC5mVVf0zt7"
+    },
+    {
+      "album": {
+        "name": "Attention Seeker",
         "url": "https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa"
       },
       "artists": [
@@ -83,7 +101,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 327880,
       "name": "Attention Seeker",
       "url": "https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy"

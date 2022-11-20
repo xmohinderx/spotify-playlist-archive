@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: BROCKHAMPTON
 
-652 songs - 1 day 13 hr 9 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+653 songs - 1 day 13 hr 14 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Emilee](https://open.spotify.com/track/0iOEtxh9XIYfgxd2b1EHaH) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Emilee: Act I](https://open.spotify.com/album/3dzdsmQ1JI6V2nUF6hKbv8) | 1:30 | 2022-07-04 | 2022-09-09 |
 | [Empathy](https://open.spotify.com/track/2YNvBoRDJ9qFOiZAY0MBg3) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Middle Ground](https://open.spotify.com/album/1lDKY7g8EjSCGQ1SCj0NKx) | 5:01 | 2021-12-28 | 2022-01-14 |
 | [Empty Spaces](https://open.spotify.com/track/4JHCwcCEqwhN34m7qR1lNt) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Empty Spaces](https://open.spotify.com/album/3roXoKWvJK8uSqFKdsCHIV) | 3:47 | 2022-05-09 | 2022-07-15 |
-| [Endit](https://open.spotify.com/track/45b4Q5gdrCstUlWuOmwXKG) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/0u01ZEYbqRT0Lh0gO02O59) | 4:51 | 2022-11-03 |  |
+| [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2022-11-17 |  |
+| [Endit](https://open.spotify.com/track/45b4Q5gdrCstUlWuOmwXKG) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/0u01ZEYbqRT0Lh0gO02O59) | 4:51 | 2022-11-03 | 2022-11-20 |
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-28 | 2022-06-24 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-03 | 2022-03-25 |
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-04 | 2022-08-26 |

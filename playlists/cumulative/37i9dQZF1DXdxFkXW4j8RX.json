@@ -1457,6 +1457,32 @@
     {
       "album": {
         "name": "Laif Is Tu Short",
+        "url": "https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN"
+      },
+      "artists": [
+        {
+          "name": "Brous One",
+          "url": "https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "DJ Pere",
+          "url": "https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156941,
+      "name": "Laif Is Tu Short",
+      "url": "https://open.spotify.com/track/2tprTVzdN6TlT2t8QYbLVD"
+    },
+    {
+      "album": {
+        "name": "Laif Is Tu Short",
         "url": "https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs"
       },
       "artists": [
@@ -1475,7 +1501,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 156941,
       "name": "Laif Is Tu Short",
       "url": "https://open.spotify.com/track/45twljxHOjZ00JqdsOLbzQ"

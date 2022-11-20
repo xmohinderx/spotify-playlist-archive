@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+81 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Chain](https://open.spotify.com/track/5mHfRLEWzHXPDjZqnqRzZa) | [Danilo Vigorito](https://open.spotify.com/artist/5szPzIyAKbFj8cOe1sWASh), [Gretchen Rhodes](https://open.spotify.com/artist/0wkwWm77k162pWZMmkTGUZ) | [Homegrown Tears](https://open.spotify.com/album/3ZBarjhuNC9pf3gzrGtbyz) | 7:10 | 2022-09-08 |  |
 | [Chain](https://open.spotify.com/track/6MXjiKghcrR1VC9z7JDMY1) | [Danilo Vigorito](https://open.spotify.com/artist/5szPzIyAKbFj8cOe1sWASh), [Gretchen Rhodes](https://open.spotify.com/artist/0wkwWm77k162pWZMmkTGUZ) | [The Underground House Sound of Eivissa, Vol\. 7](https://open.spotify.com/album/0KAcmwgvzUTxcqHBSyJKx8) | 7:10 | 2022-08-01 | 2022-09-10 |
 | [Chano \- DJ Chus Remix](https://open.spotify.com/track/7AHLeuAT4F3aeYf9B4j4nY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Chano \(DJ Chus Remix\)](https://open.spotify.com/album/1y2gi7jIX2N6O4s3ZE4siW) | 3:28 | 2022-09-08 |  |
-| [Cruel Summer \- Musumeci Wax Off Remix](https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p) | 4:49 | 2022-09-08 |  |
+| [Cruel Summer \- Musumeci Wax Off Remix](https://open.spotify.com/track/0UbxjF0H8hEf8r5KsfKnp3) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5NW7vGBRGv5BvxvuKh7e6p) | 4:49 | 2022-09-08 | 2022-11-20 |
+| [Cruel Summer \- Musumeci Wax off Remix](https://open.spotify.com/track/15PJHoA91oxrgYkwVa3TVZ) | [Woolfy](https://open.spotify.com/artist/115rMfffKYQgrhzmGT7fTw), [Projections](https://open.spotify.com/artist/3W8dralHmc6PqvM9Ws9S83), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Cruel Summer \(Musumeci Remixes\)](https://open.spotify.com/album/5q34nsGcAr0ElZVbq9wgMP) | 4:49 | 2022-09-08 |  |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-11-07 |  |
 | [Dame Rabia \- Amine K Remix](https://open.spotify.com/track/1K68lCTAxaIHgamh0wiJZI) | [Chelabôm](https://open.spotify.com/artist/08aeUwOG7EXNoJSob9mawV), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Buddha Bar by Amine K & Ravin](https://open.spotify.com/album/7Awsu0TzbHe1Wxt9cGg1EL) | 6:18 | 2022-08-01 |  |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-07 |  |

@@ -664,7 +664,7 @@
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196800,
+      "duration_ms": 196693,
       "name": "bugging!",
       "url": "https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U"
     },
@@ -3443,12 +3443,12 @@
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
           "name": "PJ Harding",
           "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
       "date_added": "2022-11-18",

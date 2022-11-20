@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,587 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,710 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 41 | [Varaan Paar Pettaikaali \- From "Pettaikaali"](https://open.spotify.com/track/6wBQYl6aKu16wYDHwoAtCi) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Karumathur Manimaaran](https://open.spotify.com/artist/1Aw3CE6hRzlmtZ82dDBXJ1), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M) | [Varaan Paar Pettaikaali \(From "Pettaikaali"\)](https://open.spotify.com/album/0wshVOdN786PmnTG5ITXoM) | 1:59 |
 | 42 | [Mere Jaan](https://open.spotify.com/track/3xuuPVnhC5YPBdpKgl8Nfo) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Sardar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE) | 4:19 |
 | 43 | [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 |
-| 44 | [Kanala Pakatha \- From "Kaarottiyin Kaadhali"](https://open.spotify.com/track/6Zdt0dLfguxnCvyIVqcwqo) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh) | [Kanala Pakatha \(From "Kaarottiyin Kaadhali"\)](https://open.spotify.com/album/3szz8Tcex595P9gkwRQcdV) | 4:15 |
+| 44 | [Kanala Pakatha \- From "Kaarottiyin Kaadhali"](https://open.spotify.com/track/6Zdt0dLfguxnCvyIVqcwqo) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kanala Pakatha \(From "Kaarottiyin Kaadhali"\)](https://open.spotify.com/album/3szz8Tcex595P9gkwRQcdV) | 4:15 |
 | 45 | [Saturday is Cominguu \(From "Kick"\)](https://open.spotify.com/track/4foDIl6z2Xgf2MbU1SXBk7) | [Santhanam](https://open.spotify.com/artist/1XSnkzdBVqG7z7YfAqt3Hl), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Saturday is Cominguu \(From "Kick"\) \- Single](https://open.spotify.com/album/2uJJ53kFeqVYgDDtfxLtwa) | 4:12 |
 | 46 | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 |
 | 47 | [Kaathama \- From "Bakasuran"](https://open.spotify.com/track/3vBAhgligTnWQH8fHAhSKK) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kaathama \(From "Bakasuran"\)](https://open.spotify.com/album/6y2j6eU0zFSvCtF18vJLWL) | 3:22 |

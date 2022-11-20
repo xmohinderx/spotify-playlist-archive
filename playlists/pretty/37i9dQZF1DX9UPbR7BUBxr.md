@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,326 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 24 | [dreams come true.](https://open.spotify.com/track/4USjqfvjPVm54YaZs6g8uc) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [dreams come true.](https://open.spotify.com/album/62LXbn400PEKpHZwQWsUBf) | 2:13 |
 | 25 | [Tiny Sailboat](https://open.spotify.com/track/6JXipaQpflSAuYIg5cDQ6w) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Coniferous](https://open.spotify.com/album/1VSbrea427FoDmwsvDd7lt) | 2:30 |
 | 26 | [Until The Morning Comes](https://open.spotify.com/track/2xKqG7zOZHnUElruzvenl3) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:17 |
-| 27 | [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 |
+| 27 | [Aware](https://open.spotify.com/track/35hYVvbhGge5GDJRA09z7X) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/0teSfu89CBi3XMGUbibIZw) | 1:55 |
 | 28 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
 | 29 | [Staycation](https://open.spotify.com/track/0csvQK4CkxifOBDs3rEHRu) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Cats in the Alley](https://open.spotify.com/album/2Q4EwaUfWI6ZiEPwzOqOZ0) | 2:15 |
 | 30 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMDE5ZjZmZDYyZjQ2ZmNhMGJjZDc3NTNmYmFmZjMzNGJk`
+Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMDJjMDQyYjViMDdjODhiZWNiOTk1NDJkOGFmNzE3OThj`

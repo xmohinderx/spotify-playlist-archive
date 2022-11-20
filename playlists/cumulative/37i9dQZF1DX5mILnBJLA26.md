@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=fTVrKzn\_Tp2QNxR23oyxHA">Focalistic</a>
 
-739 songs - 3 day 4 hr 1 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
+740 songs - 3 day 4 hr 8 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Meadowlands \(feat\. LeeMcKrazy, Sinny Man Que & Tracy\)](https://open.spotify.com/track/1QV34hgnvHRiCtKmDL0HcX) | [Fiso el Musica](https://open.spotify.com/artist/1oFcgC4c32VaCNNlA9UrGC), [Thee Exclusives](https://open.spotify.com/artist/57fNDBwTxjYrq9402fL33o), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Sinny Man'Que](https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze) | [Big And Small, Vol\. 1](https://open.spotify.com/album/51OLDnWcgcFoczQ1Q5ZZN4) | 7:00 | 2022-05-12 | 2022-06-03 |
 | [Meeting with Zan'Ten](https://open.spotify.com/track/2GzoumZ7SEi2yr4NEpmJ2Q) | [Deemo De Flame](https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A), [Skhulow](https://open.spotify.com/artist/15mxyEB5PpNtKcVkMCNR7l) | [Meeting with Zan'Ten](https://open.spotify.com/album/11aGqWGcSaqn7iSqjCgSAe) | 5:11 | 2022-10-13 | 2022-11-04 |
 | [Megalo](https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh) | [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Spura](https://open.spotify.com/artist/1QmaPvApssw6VkdOq7AP50), [Classic Deep](https://open.spotify.com/artist/1rbnrcQsBvYBgtDub77NGe) | [Megalo](https://open.spotify.com/album/58yUEDGNFmuI0ezfpiAO8D) | 5:43 | 2022-02-03 | 2022-09-02 |
-| [Mexico way](https://open.spotify.com/track/2whKA5gzY2smoUV3OANgfr) | [Deemo De Flame](https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A) | [Mexico way](https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK) | 7:34 | 2022-10-27 |  |
+| [Mexico way](https://open.spotify.com/track/2whKA5gzY2smoUV3OANgfr) | [Deemo De Flame](https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A) | [Mexico way](https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK) | 7:34 | 2022-10-27 | 2022-11-20 |
+| [Mexico Way](https://open.spotify.com/track/4BHnYMGZ7N20Ok2GaPQM1M) | [Deemo De Flame](https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A) | [Mexico Way](https://open.spotify.com/album/70SQjR0909wK8zy5pnHbCE) | 7:34 | 2022-10-27 |  |
 | [Mina](https://open.spotify.com/track/3aG1Ne6mngyrTl8fG7kjaB) | [LeMark](https://open.spotify.com/artist/2AvsxPxJ3mCB7Gq3jKz2ub), [Jessica Sodi](https://open.spotify.com/artist/5ecUtr1stWOBSAlKXTGmXu) | [Mina](https://open.spotify.com/album/0BVsgWfNEIo3VN8DDVd2zo) | 6:00 | 2022-02-17 | 2022-03-11 |
 | [Mina Nawe](https://open.spotify.com/track/1y5eHXBYiLgNv00KoHXm4o) | [Soa mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C), [Emotionz DJ](https://open.spotify.com/artist/0GMM9vgCLkEfMle3KaJyxy) | [Mina Nawe](https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY) | 5:51 | 2022-08-18 |  |
 | [Mjolo for Who](https://open.spotify.com/track/5ZWI3tqmoIhahzWUqrp008) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 6:50 | 2021-11-18 | 2022-01-28 |

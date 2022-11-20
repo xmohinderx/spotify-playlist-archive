@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Burn\-O, Dalua, Mc Pedrinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,487 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,506 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 2 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 | 3 | [Sobe Desce](https://open.spotify.com/track/4YgiUcXdg5QQlabdnGgpQe) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Sobe Desce](https://open.spotify.com/album/35tPEgMqhqI9fnNKQbKNwx) | 3:20 |
 | 4 | [Não Conta Pra Ninguém](https://open.spotify.com/track/1a9KMXtAxy8qDIyht1LQ2z) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Não Conta Pra Ninguém](https://open.spotify.com/album/4if7NIE7a736Cu1lQH9VTZ) | 2:27 |
-| 5 | [Piru Marcadão](https://open.spotify.com/track/5t8LgC0jHNajpSi3n1AFME) | [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Piru Marcadão](https://open.spotify.com/album/5WgbNV7kHaISTMmx2UZErV) | 3:00 |
+| 5 | [Piru Marcadão](https://open.spotify.com/track/5t8LgC0jHNajpSi3n1AFME) | [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Velho Beats](https://open.spotify.com/artist/5wPxfqO5bzh5yjXWEHAtYr) | [Piru Marcadão](https://open.spotify.com/album/5WgbNV7kHaISTMmx2UZErV) | 3:00 |
 | 6 | [Hora da Vitória](https://open.spotify.com/track/36CcFomNSxtmyhr27YlfIV) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Hora da Vitória](https://open.spotify.com/album/5Oae3eiFjXcx9FdsRHQ6KK) | 2:19 |
 | 7 | [Tudo Que Você Quiser](https://open.spotify.com/track/0OgpfhAwCgSX1I8dvALj89) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Duarte D.A.T](https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Tudo Que Você Quiser](https://open.spotify.com/album/5cQTd6mSJUiCkHkgIT4X9q) | 2:48 |
 | 8 | [Face ID](https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Face ID](https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI) | 2:32 |

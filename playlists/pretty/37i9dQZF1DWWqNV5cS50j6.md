@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,199 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,211 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 36 | [BBC](https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK) | [jaboukie](https://open.spotify.com/artist/5LDOwn10Stw9m0QVi2dgNo) | [BBC](https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t) | 2:55 |
 | 37 | [Boyfriend](https://open.spotify.com/track/4BWo9epXbwI6wGU7vueUbJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [Trips to Venus](https://open.spotify.com/album/2a2cuA7wbQC267STccxZ6l) | 2:40 |
 | 38 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
-| 39 | [Grow](https://open.spotify.com/track/7DBKISsaVfJ9OSZyM3D0eW) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/6hlJXXydweWawIDg2Q6QX0) | 2:19 |
+| 39 | [Grow](https://open.spotify.com/track/7DBKISsaVfJ9OSZyM3D0eW) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/6hlJXXydweWawIDg2Q6QX0) | 2:08 |
 | 40 | [Ibuprofen](https://open.spotify.com/track/2ZEGluhGO9zXiJp2ANmTIS) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Ibuprofen](https://open.spotify.com/album/2AGrBOB6cqH51o0oCuB69G) | 2:20 |
 | 41 | [Thinking About You](https://open.spotify.com/track/0iCLx43SpsVplbYGWJlYU2) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:41 |
 | 42 | [Memoirs of the Melancholy](https://open.spotify.com/track/2Y36KdTI5OHwehUp9ztbt6) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Memoirs of the Melancholy](https://open.spotify.com/album/48snStWQ9adu5wrDLPVnBS) | 4:42 |

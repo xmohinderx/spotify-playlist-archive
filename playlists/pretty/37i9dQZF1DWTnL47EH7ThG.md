@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,335 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,334 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 133 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 |
 | 134 | [Take A Fall For Me](https://open.spotify.com/track/6vVPCNcE9bEhhGAV2NMxov) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:33 |
 | 135 | [south!](https://open.spotify.com/track/5mfTP1xYhWpujU2xC1A9Ma) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI), [NAYANA IZ](https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm) | [south!](https://open.spotify.com/album/4JF8M8OIdtXhII8jweosYV) | 2:50 |
-| 136 | [Manhood](https://open.spotify.com/track/7K1N8OWjAjDGEpWcXaAtVW) | [Vikter Duplaix](https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF) | [Breaking the Beats \- Compiled By Dave Lee & Will Fox](https://open.spotify.com/album/43CqHgBdcQCF0xzCF40oPx) | 5:48 |
+| 136 | [Manhood](https://open.spotify.com/track/1YAeW0ad8DlonDBrDEsRK6) | [Vikter Duplaix](https://open.spotify.com/artist/0Ot21Sy0MDkbgacGh22omF) | [Breaking the Beats \- Compiled By Dave Lee & Will Fox](https://open.spotify.com/album/1pPQQqt5561BfcwvrcAtGT) | 5:48 |
 | 137 | [Never Was Ah Hoe](https://open.spotify.com/track/5Yz16i9871q3gFzMjgVx6T) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 3:38 |
 | 138 | [Packed In!](https://open.spotify.com/track/4E7kOPtmRoPZCE00KXEvP7) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Full Time Daydreamer](https://open.spotify.com/album/212jSaIAJ2GQvaBGeKH757) | 2:30 |
 | 139 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 149 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 150 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
 
-Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMDBkNDQ0YzcwMzk1NGMwZjBjYzFlMTBlNGZmODk1NDQy`
+Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMGNlZWUyZjY1ZTQxNzFlNjdjZmE4ODMwYTk4NzQ2NzU4`

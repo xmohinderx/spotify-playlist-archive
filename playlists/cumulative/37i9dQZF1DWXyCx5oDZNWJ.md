@@ -4,17 +4,19 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
+69 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 | 2022-05-30 |  |
-| [Al Asafir](https://open.spotify.com/track/5OxdRzIs5e2zUeq2xWphCs) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:19 | 2022-05-30 |  |
+| [Al Asafir](https://open.spotify.com/track/0VtkOXXbeUsmaZhtj3VJvp) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 5:19 | 2022-10-04 |  |
+| [Al Asafir](https://open.spotify.com/track/5OxdRzIs5e2zUeq2xWphCs) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:19 | 2022-05-30 | 2022-11-20 |
 | [All Caps](https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:10 | 2022-05-30 |  |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2022-09-26 |  |
 | [Are You OK?](https://open.spotify.com/track/6f0tuDWkjViKrG71yQRBYR) | [Camilla Sparksss](https://open.spotify.com/artist/5RxUFk1D177dFGqFOUh2rg) | [Brutal](https://open.spotify.com/album/4JobCnueEDjlkwvPmRLeJO) | 4:05 | 2022-10-04 |  |
 | [Ayayay](https://open.spotify.com/track/358g67riH0wCKQBK9FvjjQ) | [Bratia Stereo](https://open.spotify.com/artist/5vXULjIsWNuwphRSJMXYrM), [Tony Tonite](https://open.spotify.com/artist/2DPURDst3DmK8b1AU47fFT) | [Газгольдер саундтрек](https://open.spotify.com/album/59Yeoeap2KE19ki78Ni0iE) | 3:02 | 2022-09-26 |  |
-| [Ayonha](https://open.spotify.com/track/4ivH1TtQELnn9KEtszWfYI) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 3:41 | 2022-05-30 |  |
+| [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2022-10-04 |  |
+| [Ayonha](https://open.spotify.com/track/4ivH1TtQELnn9KEtszWfYI) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 3:41 | 2022-05-30 | 2022-11-20 |
 | [Bias Boys \- Middle Sky Boom Remix](https://open.spotify.com/track/1N2VoNhYLwCJhtAo2kZnzF) | [Middle Sky Boom](https://open.spotify.com/artist/5rgJkAgFMVCsugWd7zM9nY), [Eliezer](https://open.spotify.com/artist/1qPHnrVTO4sakv5IFg6Lml) | [Pozélo Europa](https://open.spotify.com/album/3FbU5q6wbFh5roov4rfNDX) | 5:11 | 2022-05-30 |  |
 | [Closer](https://open.spotify.com/track/7mq6753542WZViD1wJ64Eo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:11 | 2022-05-30 |  |
 | [Cog in the Wheel](https://open.spotify.com/track/3uXfYljIQAhATWWGjjCSJA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nomad EP](https://open.spotify.com/album/4hmZkn8K8JoUch7jzFNjeb) | 5:19 | 2022-09-26 |  |

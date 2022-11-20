@@ -5149,7 +5149,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 267375,
       "name": "Little Pieces",
       "url": "https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7"
@@ -6681,7 +6681,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 298875,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v"
@@ -8237,7 +8237,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 227493,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"
@@ -9237,7 +9237,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 217390,
       "name": "The Hero In Me",
       "url": "https://open.spotify.com/track/7H1oWs5rXW2QemEppHT5k3"
@@ -10072,6 +10072,24 @@
     },
     {
       "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/1rMOaa27I2q8yAYylegp07"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287115,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/4FVNksdCo5SwJdkfOoeX02"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/5g2JIRVzcup6v0bBerFAsE"
       },
@@ -10171,7 +10189,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 202452,
       "name": "wolves",
       "url": "https://open.spotify.com/track/5HP59IcZWbnL5JKbnbjkKI"

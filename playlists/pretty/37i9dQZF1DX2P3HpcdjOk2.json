@@ -1,12 +1,12 @@
 {
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
-  "num_followers": 49070,
+  "num_followers": 49315,
   "original_name": "Glam Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDA5MzMwN2JkNjZhNzBhMzZmZmRlZWJkNjY0MGU1MjI5",
+  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDZlNzU0MTdlMzhmMzFlMjNkMzE5Y2RkYjVmYzkwM2I0",
   "tracks": [
     {
       "added_at": "2022-09-12 19:23:02",
@@ -187,18 +187,22 @@
     {
       "added_at": "2022-09-12 19:23:02",
       "album": {
-        "name": "Desolation Boulevard",
-        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
+        "name": "The Best Years of Our Lives (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g"
       },
       "artists": [
         {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+          "name": "Steve Harley",
+          "url": "https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym"
+        },
+        {
+          "name": "Steve Harley & Cockney Rebel",
+          "url": "https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Ballroom Blitz",
-      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
+      "duration_ms": 239213,
+      "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
     },
     {
       "added_at": "2022-09-12 19:23:02",
@@ -235,22 +239,18 @@
     {
       "added_at": "2022-09-12 19:23:02",
       "album": {
-        "name": "The Best Years of Our Lives (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g"
+        "name": "Desolation Boulevard",
+        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
       },
       "artists": [
         {
-          "name": "Steve Harley",
-          "url": "https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym"
-        },
-        {
-          "name": "Steve Harley & Cockney Rebel",
-          "url": "https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz"
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
         }
       ],
-      "duration_ms": 239213,
-      "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
+      "duration_ms": 246573,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
     },
     {
       "added_at": "2022-09-12 19:23:02",

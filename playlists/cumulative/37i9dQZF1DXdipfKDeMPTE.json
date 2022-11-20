@@ -2708,6 +2708,24 @@
     },
     {
       "album": {
+        "name": "homecoming",
+        "url": "https://open.spotify.com/album/2jAqETtdFcLiG8LZIBkVEn"
+      },
+      "artists": [
+        {
+          "name": "daysgetbetter",
+          "url": "https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122389,
+      "name": "homecoming",
+      "url": "https://open.spotify.com/track/1lad1xjNciswEMYF3KMCNr"
+    },
+    {
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6Mw5JigVoa71GB9FVrYpIb"
       },
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 122389,
       "name": "homecoming",
       "url": "https://open.spotify.com/track/5vkLnTZWyAUdceFAHQ8ufN"
@@ -5135,10 +5153,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 181524,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w"
+    },
+    {
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/58wseddQ1pv4O5jfrH0s4m"
+      },
+      "artists": [
+        {
+          "name": "Funky Fella",
+          "url": "https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181524,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/6AgrbKYeBgqJggFS9SqaIO"
     },
     {
       "album": {
@@ -5211,10 +5247,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 147857,
       "name": "Retina",
       "url": "https://open.spotify.com/track/5rAYpwq15rHsSMIjz7xAxj"
+    },
+    {
+      "album": {
+        "name": "Retina",
+        "url": "https://open.spotify.com/album/5LHMnqdBPwVH1WCQVXkJKX"
+      },
+      "artists": [
+        {
+          "name": "Aykroyd",
+          "url": "https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm"
+        },
+        {
+          "name": "Venkman",
+          "url": "https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Retina",
+      "url": "https://open.spotify.com/track/78Aqz4IDaVWgKoRxIEPa69"
     },
     {
       "album": {
@@ -5373,10 +5431,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 140074,
       "name": "Sad Lofi Minecraft",
       "url": "https://open.spotify.com/track/6TRQgCgeNr1sCoYdkfLCx1"
+    },
+    {
+      "album": {
+        "name": "Sad Lofi Minecraft",
+        "url": "https://open.spotify.com/album/2e3HLXwNSZk86yNzJVjZIv"
+      },
+      "artists": [
+        {
+          "name": "Dellasollounge",
+          "url": "https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140074,
+      "name": "Sad Lofi Minecraft",
+      "url": "https://open.spotify.com/track/7k0mLIycvaKAiRyo4BnVNC"
     },
     {
       "album": {
@@ -5507,10 +5583,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 122797,
       "name": "seasons",
       "url": "https://open.spotify.com/track/0cPHVReM72NIEGcg4hIMHk"
+    },
+    {
+      "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/0d6IU6V5Tu9BIw4Uno8HoD"
+      },
+      "artists": [
+        {
+          "name": "Amroa",
+          "url": "https://open.spotify.com/artist/2AIg9PIc338sj4DkVvCkmb"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122797,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/1z0gxFvKhWJWpSd3XHQQx7"
     },
     {
       "album": {
@@ -6923,6 +7017,24 @@
     {
       "album": {
         "name": "Inner Life",
+        "url": "https://open.spotify.com/album/5UP4PYbBUOOVKXOeU58vYt"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Wanna Be with You",
+      "url": "https://open.spotify.com/track/5Ay9ZgnImwSd4vStyyURZZ"
+    },
+    {
+      "album": {
+        "name": "Inner Life",
         "url": "https://open.spotify.com/album/2No65mBSMvbckMBPkf0OqS"
       },
       "artists": [
@@ -6933,7 +7045,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 134400,
       "name": "Wanna Be with You",
       "url": "https://open.spotify.com/track/6cvfVUemxTmzsF2RZMiwIU"

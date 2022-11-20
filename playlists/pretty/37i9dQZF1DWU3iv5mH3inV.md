@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Prendete con tu lista favorita de Dembow\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,438 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,471 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 45 | [Dominican Playero 40](https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF) | [RMT](https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7) | [Dominican Playero 40](https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe) | 3:21 |
 | 46 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 |
 | 47 | [Tu Vecino](https://open.spotify.com/track/2ZwwhQPsMhF980XXbcYnRG) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Tu Vecino](https://open.spotify.com/album/4V1Olj6gUBJLtYsDU6F1UF) | 3:01 |
-| 48 | [En Cuota](https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [En Cuota](https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw) | 3:02 |
-| 49 | [La Chanty](https://open.spotify.com/track/6ngGJ6ZxRFFf8sQPxcRsSg) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [La Chanty](https://open.spotify.com/album/1Ida5GoYWiuILYFBZ1qt5U) | 4:37 |
+| 48 | [La Chanty](https://open.spotify.com/track/6ngGJ6ZxRFFf8sQPxcRsSg) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [La Chanty](https://open.spotify.com/album/1Ida5GoYWiuILYFBZ1qt5U) | 4:37 |
+| 49 | [En Cuota](https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [En Cuota](https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw) | 3:02 |
 | 50 | [Flyte](https://open.spotify.com/track/3YqTzC9YYQmiT5nDZgl01q) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk) | [Flyte](https://open.spotify.com/album/1oU2I4CFdemDR3aMtllc4h) | 3:14 |
 | 51 | [Tan Celoso](https://open.spotify.com/track/4KpvbpBLnw9fYkruj7nE85) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tan Celoso](https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP) | 2:42 |
 | 52 | [Nataly \- Remix](https://open.spotify.com/track/3VT90yDEnIxbNWhTkVdiuF) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Nataly \(Remix\)](https://open.spotify.com/album/3tKwIWIRd2EAzX9Ms7Sq7r) | 5:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 55 | [Que Se Mueran de Envidia \- Remix](https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X) | [Paramba](https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dembow Hits](https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6) | 3:43 |
 | 56 | [Limonada Coco \- Remix](https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Limonada Coco \(Remix\)](https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5) | 3:36 |
 | 57 | [De Amor Nadie Se Muere](https://open.spotify.com/track/1Tu483bh5Yotr3fE7yHKCi) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:48 |
-| 58 | [5 Mujeres](https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO) | [Jose Reyes](https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [5 Mujeres](https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI) | 3:29 |
-| 59 | [El Teke Teke](https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v) | [Los Teke Teke](https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl) | [Y Ya Tu Sabe Klk](https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf) | 3:02 |
+| 58 | [El Teke Teke](https://open.spotify.com/track/0EJMCMFG7uRPRn3K4pTb1v) | [Los Teke Teke](https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl) | [Y Ya Tu Sabe Klk](https://open.spotify.com/album/0Ky59Xxja0vkUT0WS0tZZf) | 3:02 |
+| 59 | [5 Mujeres](https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO) | [Jose Reyes](https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [5 Mujeres](https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI) | 3:29 |
 | 60 | [Rapidito](https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Lava Urbana 2018](https://open.spotify.com/album/18kVz52nMnczVM4Sj26527) | 2:50 |
 | 61 | [Careta](https://open.spotify.com/track/3FE2UE1VpHV409EM9srL7t) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Careta](https://open.spotify.com/album/0fz9c0VwpgvhsgYRWDwb2z) | 3:00 |
 | 62 | [Sesi](https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Jey Brown](https://open.spotify.com/artist/7JHNWvS2I2vlj7wVbDRR1N), [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5) | [Sesi](https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 74 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
 | 75 | [El Mario de Tu Mujer](https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 4:07 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDIzYmQ4ZDQ5Y2RmM2Y2ZGU1ZDdiMWE2Mzg5YTBjMTNk`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDJhOWJlNWE0YjZkNDBhN2IzMjg4MTQ1MTAyZGIzNzMw`

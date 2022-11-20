@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-78 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+79 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 | 2022-06-17 |  |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-06-17 |  |
 | [Afternoon](https://open.spotify.com/track/4Bu0ojjdl9Mc841Y5vMAOb) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : EEhOU](https://open.spotify.com/album/5ZfMu2FJDBwoQg5yaOgFCr) | 1:48 | 2022-06-17 |  |
-| [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 | 2022-06-17 |  |
+| [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 | 2022-06-17 | 2022-11-20 |
+| [Aware](https://open.spotify.com/track/35hYVvbhGge5GDJRA09z7X) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/0teSfu89CBi3XMGUbibIZw) | 1:55 | 2022-11-15 |  |
 | [Balboa](https://open.spotify.com/track/1fs76RZdPTj9kQoptX4UW4) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/48aV8DO9dFrbnuIqUhDzFi) | 2:50 | 2022-10-11 |  |
 | [Balboa](https://open.spotify.com/track/45O1e0ZvpERqu1frDcL80Q) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Vision](https://open.spotify.com/album/194eei5V6BkQOcs4aWbZjs) | 2:50 | 2022-06-17 | 2022-10-18 |
 | [Beautiful Sight](https://open.spotify.com/track/1q7YLk9kfjT50SieSeaMGr) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps](https://open.spotify.com/album/0cxjSNYlOa8o8WlqVTwu8T) | 3:15 | 2022-06-17 |  |

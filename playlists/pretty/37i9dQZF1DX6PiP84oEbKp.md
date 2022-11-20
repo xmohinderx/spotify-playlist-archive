@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,961 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,965 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 24 | [Something Entirely New \(feat\. Erica Luttrell & Charlyne Yi\)](https://open.spotify.com/track/0Mg0iwFNJX5GLkArZfIX9s) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Charlyne Yi](https://open.spotify.com/artist/4g7sAbyq2q5Eou0inGABvw), [Erica Luttrell](https://open.spotify.com/artist/1HRq8YjrdR6yJfQu5DEGjD) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 1:47 |
 | 25 | [Beautiful](https://open.spotify.com/track/40fvlRGSBSEYWTgCpRyVqf) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 4:01 |
 | 26 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 27 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol.1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 |
+| 27 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 |
 | 28 | [I Am Enough](https://open.spotify.com/track/58H6FaeUnqdSFAWjdbm21O) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [The Singing Bois](https://open.spotify.com/artist/6HPtUoIvyOH0ph6NlaRcDD) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:46 |
 | 29 | [Keep It Up](https://open.spotify.com/track/2a4OFdKFvRGVcbdsDnYmj6) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Sugar Free Allstars](https://open.spotify.com/artist/7BSCguaUAUrg4jftlh6RoQ) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:30 |
 | 30 | [Gender Blender](https://open.spotify.com/track/1DRMjuHzCl9NOG2ItmLz45) | [Chana Rothman](https://open.spotify.com/artist/5rhw2nhZysMtE7HUdoa0aR), [Eliyashu ben Mosche](https://open.spotify.com/artist/1IcKy0f0cRqptDGnxBmBbE), [Ella Berson](https://open.spotify.com/artist/2GTfNYCIhOcgA3mbwLEYhC), [Hadassah Weinmarten](https://open.spotify.com/artist/2ApuGy1WgwNiirlBGUKLw4), [Hannah Shaw](https://open.spotify.com/artist/5zw3xZrA4Q5NjM0AwYOBW1) | [Rainbow Train](https://open.spotify.com/album/7zUf2MFerkp7fLElIbI9nk) | 5:16 |

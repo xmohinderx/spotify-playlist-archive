@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain]
 
 > Get the most out of your day and \#makeithappen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

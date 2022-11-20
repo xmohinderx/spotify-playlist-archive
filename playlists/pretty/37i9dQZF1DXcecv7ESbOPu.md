@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,001 likes - 109 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,195 likes - 109 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 70 | [Raindrops](https://open.spotify.com/track/5SwZZ8IzjgORtlv0liAdpt) | [Lunar The Kid](https://open.spotify.com/artist/3xdqapJiv7AMeBMbJkUNDY), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Raindrops](https://open.spotify.com/album/4nSIe8Rq1RXfl1D2aEJCMz) | 3:02 |
 | 71 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 |
 | 72 | [Holy by Myself](https://open.spotify.com/track/12GGuy00pjrbUXMv4pHFRy) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Sorry Mom](https://open.spotify.com/album/3m3fPCSwFid0HU9gmc5IZb) | 3:14 |
-| 73 | [10 Flows](https://open.spotify.com/track/2qPl6sZ9t2pNxpXbwCLRHp) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [KDVI](https://open.spotify.com/album/1dkwcIBj20ga2ftdm0uARD) | 1:57 |
+| 73 | [10 Flows](https://open.spotify.com/track/2qPl6sZ9t2pNxpXbwCLRHp) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [KDVI](https://open.spotify.com/album/1dkwcIBj20ga2ftdm0uARD) | 1:57 |
 | 74 | [We Outside](https://open.spotify.com/track/3E51xkLznzjyxd47Mx3pwk) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Slim Prince](https://open.spotify.com/artist/2sDEJu2GS3AKx2RtMr9l2m), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Gänget & Jag Del 3](https://open.spotify.com/album/72TE0nYcWswNT8qceioNXX) | 2:52 |
 | 75 | [Call of Duty](https://open.spotify.com/track/2eBhkeDhjuQVikPSitbvvC) | [Herbert Munkhammar](https://open.spotify.com/artist/0FPUIdSdUKHXXOAqNMJ976) | [Call of Duty](https://open.spotify.com/album/6E9JfED4QbXjRB2q0dsUD0) | 2:25 |
 | 76 | [Önska God Jul till varann](https://open.spotify.com/track/2Par6NScK07NJ4YfawA0I7) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Klart det ska bli jul](https://open.spotify.com/album/3dWjkVHO5WjzqmUeHl4AUe) | 3:42 |

@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 251465,
       "name": "Balafonerra",
       "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 241666,
       "name": "BASSMENT",
       "url": "https://open.spotify.com/track/7aP2IvCTcTorfqHYSOVz4u"
@@ -800,6 +800,24 @@
     },
     {
       "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+    },
+    {
+      "album": {
         "name": "Harder (With Busta Rhymes) - Shermanology Remix",
         "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
       },
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 391000,
       "name": "Harder (Shermanology Remix)",
       "url": "https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL"
@@ -1011,6 +1029,24 @@
       "duration_ms": 257055,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
+    },
+    {
+      "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "album": {
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 462295,
       "name": "Nishe - Original Mix",
       "url": "https://open.spotify.com/track/6XkXdWPE4ujzECaYJ1UkQ0"
@@ -1436,6 +1472,24 @@
     },
     {
       "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "album": {
         "name": "Pynk (feat. Grimes) [King Topher Remix]",
         "url": "https://open.spotify.com/album/22snh4CaxLlqDOVoxBRuMa"
       },
@@ -1565,6 +1619,28 @@
       "duration_ms": 386681,
       "name": "Shut Up and Groove",
       "url": "https://open.spotify.com/track/2OiGiPkC6uRA2Ygox6K8a4"
+    },
+    {
+      "album": {
+        "name": "Starseed",
+        "url": "https://open.spotify.com/album/599P9w4ah9XpED1bnB35FB"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "SIM",
+          "url": "https://open.spotify.com/artist/6JQhUOPvPJNH8tCOUT0cgf"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202938,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
     },
     {
       "album": {

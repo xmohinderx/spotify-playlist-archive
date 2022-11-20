@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 306360,
+  "num_followers": 306445,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDc4ZGI5YzQ5OTU2NjI3OWE0YjhjNjA1NTMzYjYzMjk3",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDM2MzhmNjI2MTEzMWJlNzQ1NzRiYzI2ZTMzOWMwMWIz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Las Caras Lindas",
-        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
-      },
-      "artists": [
-        {
-          "name": "Flor de Toloache",
-          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
-        }
-      ],
-      "duration_ms": 299035,
-      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 154706,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Las Caras Lindas",
+        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
+      },
+      "artists": [
+        {
+          "name": "Flor de Toloache",
+          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
+        }
+      ],
+      "duration_ms": 299035,
+      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1475,26 +1491,6 @@
       "duration_ms": 173133,
       "name": "Solo Se Que Fue En Marzo",
       "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        },
-        {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1570,11 +1566,15 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2021-12-29 23:38:25",

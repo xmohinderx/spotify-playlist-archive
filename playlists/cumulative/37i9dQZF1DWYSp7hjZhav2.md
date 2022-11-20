@@ -4,14 +4,15 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 5 hr 27 min - not published yet
+56 songs - 5 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 | 2022-11-07 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-10-05 |  |
 | [Assumptions \- Dodi Palese Remix](https://open.spotify.com/track/1B6POEGfKJmLkk2IXxMzVu) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [Assumptions \(Dodi Palese Remix\)](https://open.spotify.com/album/4rIc8exDsRYYdld4wfPGS2) | 5:17 | 2022-10-05 |  |
-| [Attention Seeker](https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa) | 5:27 | 2022-10-05 |  |
+| [Attention Seeker](https://open.spotify.com/track/0ikVe3oMaQ4jC5mVVf0zt7) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/2J0DRM0gr0OFmeOJB064Ym) | 5:27 | 2022-11-07 |  |
+| [Attention Seeker](https://open.spotify.com/track/4qv3j6MwDoeQNVb2GL6JRy) | [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Attention Seeker](https://open.spotify.com/album/0cZ439XqtgCU2pEMcqVHDa) | 5:27 | 2022-10-05 | 2022-11-20 |
 | [Automation](https://open.spotify.com/track/1dje8b1ADEueMZXgYKwJHn) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 6:57 | 2022-10-05 |  |
 | [Beholden](https://open.spotify.com/track/3HEDtJmlflJdMDUZx0LNtt) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Bloodflame EP](https://open.spotify.com/album/2sX5EyFBtC1m0t2aSQlVZQ) | 7:30 | 2022-10-05 |  |
 | [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 | 2022-10-05 |  |

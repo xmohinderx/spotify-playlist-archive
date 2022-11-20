@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-111 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+112 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [The Dark Sea of Awareness](https://open.spotify.com/track/1J5QYbZLeLPjQUIa92yMdE) | [PIERJ](https://open.spotify.com/artist/0XqcmCaE2gQvtiSnfw6cnj) | [The Dark Sea of Awareness](https://open.spotify.com/album/6nCGsneNWhJj1GOeJXlDaQ) | 7:13 | 2022-07-23 | 2022-10-15 |
 | [The Greatest Against the World](https://open.spotify.com/track/1W7L98k9dWdlfknRtLwwHp) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [In Between Worlds](https://open.spotify.com/album/58u0GyrkGtVjF2Kgknn9ho) | 5:07 | 2022-10-14 |  |
 | [The Lambert Reinterpretation](https://open.spotify.com/track/3KbNkAfxsv9ZcfZLSjv3FH) | [Crussen](https://open.spotify.com/artist/79OTUKSZMGMmmR32RWG2ig), [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Breakfast in the Hut](https://open.spotify.com/album/0S7AgQAIqLBwcScR4JE2Gq) | 5:49 | 2022-07-23 |  |
-| [Turbina De Amor](https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH) | 4:48 | 2022-10-14 |  |
+| [Turbina De Amor](https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH) | 4:48 | 2022-10-14 |  |
+| [Turbina De Amor](https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74) | [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd), [Martin Boder](https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw), [Maria Barone](https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs) | [Beats & Culture \(BNC004\)](https://open.spotify.com/album/6qYDxgsrnhLYd4KC2n7vbH) | 4:48 | 2022-10-14 | 2022-11-20 |
 | [Twilight \- Xique\-Xique Nightflow Rework](https://open.spotify.com/track/5MW3qryOqGjk2TBtZNloIK) | [Noema](https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN), [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Twilight \(Xique\-Xique Remixes\)](https://open.spotify.com/album/36zhPj3eWbQqCrLDnGT7XD) | 7:09 | 2022-07-23 | 2022-10-15 |
 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 | 2022-10-14 |  |
 | [Urmel](https://open.spotify.com/track/5SvozsO8hjZXaM4GZPZl4Q) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 7:49 | 2022-07-23 |  |

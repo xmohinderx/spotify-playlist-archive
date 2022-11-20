@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,807 likes - 112 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,705 likes - 112 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

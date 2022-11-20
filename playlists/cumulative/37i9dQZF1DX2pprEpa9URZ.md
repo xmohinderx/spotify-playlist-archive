@@ -4,7 +4,7 @@
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-328 songs - 1 day 12 hr 37 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
+329 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abbebe \(Sainte Vie Remix\)](https://open.spotify.com/track/3WhxTFzkvHvrhwVRxy1mIW) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [BLD Remixes A](https://open.spotify.com/album/7xxYP777kjMkGKUDzcfnCt) | 7:16 | 2019-08-02\* | 2019-09-20 |
 | [African Vibes](https://open.spotify.com/track/5c3zezVyblXLdvMWPUR8rI) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [African Vibes](https://open.spotify.com/album/2GlcbsPeEAsEBsUo57Duje) | 5:46 | 2019-08-02\* | 2020-01-04 |
 | [Afro Sambroso \- Rampa Version](https://open.spotify.com/track/5gCRkpnL2MBKpUqXLeMrA9) | [Lokkhi Terra](https://open.spotify.com/artist/4zKtfAo8kdCOsOn7uVrh2u), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [Francesco Chiocci](https://open.spotify.com/artist/35k3bqKmhJDhThkCQZH6Ft), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Version](https://open.spotify.com/album/28MabQRhGKx50tBIaghDcf) | 5:29 | 2020-06-12 | 2022-04-18 |
+| [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-09-09 |  |
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-04-04 | 2022-10-28 |
 | [Ajala](https://open.spotify.com/track/3oeUdLd21wHM5zulhuHhFo) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Tohon Ajala](https://open.spotify.com/album/6HG3hPgMEmCbc10MyO780Q) | 8:36 | 2019-12-06 | 2020-09-10 |
 | [Akabongi \(Kapote Remix\) \- 2020 Version](https://open.spotify.com/track/1O39jt6AeYWRDbbU33HxoE) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O), [Los Bulldozer](https://open.spotify.com/artist/43lNvN1nrrANbdT17fTz7x), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Akabongi \(Kapote Remix\) \[2020 Version\]](https://open.spotify.com/album/6D7HFm4f0JmXjRoigibSlp) | 5:07 | 2020-11-21 | 2022-04-21 |
@@ -183,7 +184,7 @@
 | [Maasai \- Doctor Flake Remix](https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK) | [Maasai \(Doctor Flake Remix\)](https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q) | 7:50 | 2020-12-23 |  |
 | [Macarena](https://open.spotify.com/track/4Fir3My2AO5WLnGjC0GcGm) | [Drunky Daniels](https://open.spotify.com/artist/5cUKEZqKoefSSPTe4hVtBb) | [Macarena](https://open.spotify.com/album/6TvOHoqLVdbtdGSw9wP5lV) | 6:25 | 2021-05-09 | 2021-05-27 |
 | [Magic Wand](https://open.spotify.com/track/103iFcQYf3Acpw8IcHN0Vg) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Irreality](https://open.spotify.com/album/7cklDnRC0ZEvWNsJ5LM16A) | 6:38 | 2019-11-02 | 2022-04-21 |
-| [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 | 2022-04-04 |  |
+| [Magic Workout](https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Magic Workout](https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7) | 5:35 | 2022-04-04 | 2022-11-20 |
 | [Mahe \- Original Mix](https://open.spotify.com/track/1FcjPH0eyBwrCV4JVjizQV) | [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [C'est Bon EP](https://open.spotify.com/album/1axe1SjMSKq0DVjGwAEHCt) | 6:46 | 2020-01-01 | 2022-07-28 |
 | [Mama Sitar](https://open.spotify.com/track/5lB9pMCr1tEcQ0eGBctvLF) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Mama Sitar](https://open.spotify.com/album/6wJ5BsFgATioKyjdXOrW4K) | 6:13 | 2019-08-02\* | 2020-01-02 |
 | [Man Dies Alone \- Short Version](https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Man Dies Alone](https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ) | 4:39 | 2021-02-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,507 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,727 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 37 | [I Can't Help It \(feat\. B\-Lovee\)](https://open.spotify.com/track/4nZksflDC0Ysydxn45yJgO) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [I Can't Help It](https://open.spotify.com/album/3JUe5nWE2NQLA07hfIADj6) | 2:14 |
 | 38 | [Lefty](https://open.spotify.com/track/0WbXXzIyX8fJ27BGYsJkWu) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Lefty](https://open.spotify.com/album/7jKVwtcTmowM8Jvg7CQkPD) | 2:18 |
 | 39 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
-| 40 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 |
+| 40 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 |
 | 41 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 42 | [Level I'm At](https://open.spotify.com/track/0YGjMmz3C622iSLqEqQPGv) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [O to the G](https://open.spotify.com/album/5Smx2e6FJ2P4j6QSyM426X) | 1:51 |
 | 43 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [LaZy, but i have goals \(Banned From Vermont\)](https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy) | 2:37 |

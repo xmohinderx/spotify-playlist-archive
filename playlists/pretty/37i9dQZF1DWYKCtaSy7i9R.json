@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 39,
+  "num_followers": 45,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDYwZTRmYjM1MmMxYmRhZDY2ZWZmMTgxMzg4ZDgyZTJl",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMGUyYTFhZDBlNDQ1NDU3NGQ1NTlmNjY5YTU4Y2FkMjdl",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Soothing Birds",
-        "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
-      },
-      "artists": [
-        {
-          "name": "KPR Sounds",
-          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
-        }
-      ],
-      "duration_ms": 122601,
-      "name": "Midsummer Evening Birds",
-      "url": "https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 160496,
       "name": "Beauty-Bird",
       "url": "https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Soothing Birds",
+        "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
+      },
+      "artists": [
+        {
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+        }
+      ],
+      "duration_ms": 122601,
+      "name": "Midsummer Evening Birds",
+      "url": "https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k"
     },
     {
       "added_at": "2022-10-28 11:51:00",

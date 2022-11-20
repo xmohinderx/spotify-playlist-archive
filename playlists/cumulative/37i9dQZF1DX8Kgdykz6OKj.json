@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168571,
       "name": "Bowl of Ramen",
       "url": "https://open.spotify.com/track/7ihA0OZAAftQpOGTnFnN4s"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 250360,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/4ZalRYliRkMK6P7Xo7bSEc"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 205865,
       "name": "Call You?",
       "url": "https://open.spotify.com/track/0bDADD8PQbnPwLJdxoIGEf"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 143903,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3GAYdG396XiE4QAq3Osn3x"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 113747,
       "name": "Donny In Valdez - PJ's Flip",
       "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 167054,
       "name": "Dreamchaser",
       "url": "https://open.spotify.com/track/7C9Q8Q26nhw5IBloP9PGCt"
@@ -1975,7 +1975,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 212546,
       "name": "First Law of Nature Rock Day (feat. Denmark Vessey)",
       "url": "https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4KoYmiDvEfNN4j1ILCxanS"
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 297990,
       "name": "Get Lost (feat. Regis Molina)",
       "url": "https://open.spotify.com/track/6Bx4JNMJaAljZ8pMgpvdc9"
@@ -2555,6 +2555,28 @@
     {
       "album": {
         "name": "Here to Dance",
+        "url": "https://open.spotify.com/album/1vD6M6qLLZLxIVwCLZUbML"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Here to Dance",
+      "url": "https://open.spotify.com/track/7zMCN5xWeA8cWMehBnvNBL"
+    },
+    {
+      "album": {
+        "name": "Here to Dance",
         "url": "https://open.spotify.com/album/0fkb53G3ACQvajjgSV8sd9"
       },
       "artists": [
@@ -2637,7 +2659,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 156386,
       "name": "Hi(gh)",
       "url": "https://open.spotify.com/track/5yZscInGj0SfUuBFhcCdJQ"
@@ -2663,7 +2685,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 269982,
       "name": "Home - Village Live",
       "url": "https://open.spotify.com/track/2bkr9TrBPb1p7tPthY63v2"
@@ -2884,6 +2906,32 @@
     },
     {
       "album": {
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        },
+        {
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259533,
+      "name": "Insert A (Mental Relaxation)/Medicine",
+      "url": "https://open.spotify.com/track/7iWgFxOgOWT6JKPSrEWVrP"
+    },
+    {
+      "album": {
         "name": "Inside Story",
         "url": "https://open.spotify.com/album/247iOX33pOefLiLwEDgoGa"
       },
@@ -2917,7 +2965,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 178866,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/0OYFaHBEW8Rk2q6ejmXaUg"
@@ -3231,7 +3279,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 180026,
       "name": "Keep It Stepping",
       "url": "https://open.spotify.com/track/1HUkSWIqc5tbjTjhgaTfem"
@@ -3271,7 +3319,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 185270,
       "name": "KING",
       "url": "https://open.spotify.com/track/7s4V6in43JXuOqzUuOSvTZ"
@@ -3359,7 +3407,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 194545,
       "name": "Late Night Link",
       "url": "https://open.spotify.com/track/14BlhqVzXpnHmZpyqhMnOV"
@@ -3462,6 +3510,28 @@
     },
     {
       "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/3dPvnCreqlD2kWc3Oy4Jpr"
+      },
+      "artists": [
+        {
+          "name": "Modha",
+          "url": "https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK"
+        },
+        {
+          "name": "JuJu Rogers",
+          "url": "https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236394,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7N2GGdSRwfdCZRfKX8Caw3"
+    },
+    {
+      "album": {
         "name": "Live & Direct",
         "url": "https://open.spotify.com/album/0R30sfFJqXZWlw5Ls6WyVN"
       },
@@ -3477,7 +3547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Live & Direct - Live",
       "url": "https://open.spotify.com/track/01gKNmAb8kQ505xAD5M0L1"
@@ -3755,7 +3825,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 304933,
       "name": "Mind Blowin' (feat. Vinia Mojica)",
       "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
@@ -3781,7 +3851,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189770,
       "name": "Minneapolis",
       "url": "https://open.spotify.com/track/5P9t8UuNOTbEC7PqKPAckz"
@@ -3863,7 +3933,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
@@ -3955,7 +4025,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 214700,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
@@ -4143,7 +4213,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 92053,
       "name": "One from the Tap",
       "url": "https://open.spotify.com/track/4rIrsofYUlk3fNDDVqR0YT"
@@ -4267,7 +4337,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 216453,
       "name": "Out Of My Hands (feat. Oddisee)",
       "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
@@ -4377,6 +4447,24 @@
       "duration_ms": 347133,
       "name": "Park Bench People (Alternate Version)",
       "url": "https://open.spotify.com/track/4D1DI7aIuxDmaXAAKrcO50"
+    },
+    {
+      "album": {
+        "name": "Timetable",
+        "url": "https://open.spotify.com/album/1v6kwjXafU1cyVKRtU1CW7"
+      },
+      "artists": [
+        {
+          "name": "Myka 9",
+          "url": "https://open.spotify.com/artist/07tB6knv7c0JsSbkfV5iZd"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347133,
+      "name": "Park Bench People - Alternate Version",
+      "url": "https://open.spotify.com/track/0JWbEDBJYBnVmIndKHZbs5"
     },
     {
       "album": {
@@ -4653,7 +4741,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204703,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/3Eb9pkDAqguoj7Wc5e6Nmp"
@@ -4845,7 +4933,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 187175,
       "name": "Shine Thru",
       "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
@@ -5235,7 +5323,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/3eSHjsvLZ8MslZiXZMdW93"
@@ -5409,7 +5497,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 173181,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/5LvQxdpf7SPx0ZkpkftwwN"
@@ -5505,7 +5593,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 209613,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU"
@@ -5557,7 +5645,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/58nrWMP7Gsr4SUOowBn7Y6"
@@ -5693,7 +5781,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
@@ -5715,7 +5803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 180290,
       "name": "The Stars My Destination",
       "url": "https://open.spotify.com/track/1s0mnVoDGTp6Qh8Y6Aqtmw"
@@ -5911,7 +5999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231693,
       "name": "TTWL",
       "url": "https://open.spotify.com/track/7qxEEwgEHFp31iBb8PofDo"
@@ -6021,7 +6109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 207992,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5nNKzoQ842OmIuyvTgRgX9"
@@ -6043,7 +6131,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
@@ -6183,7 +6271,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-20",
       "duration_ms": 216866,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/6mbUvThGAzb6hep4dl9kze"
@@ -6271,6 +6359,28 @@
       "duration_ms": 230404,
       "name": "Who's on the Playlist",
       "url": "https://open.spotify.com/track/0Bjm2IaLuaY6ttrj9Bv1Dz"
+    },
+    {
+      "album": {
+        "name": "Why Don't You Come on Over",
+        "url": "https://open.spotify.com/album/4FiwzM6P4Ov32AqDjuluEp"
+      },
+      "artists": [
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        },
+        {
+          "name": "Garrett.",
+          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Why Don't You Come on Over",
+      "url": "https://open.spotify.com/track/0MA7jVFmvHbQGlRECTPx3v"
     },
     {
       "album": {
@@ -6369,7 +6479,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 223960,
       "name": "You Know Now - Remix",
       "url": "https://open.spotify.com/track/1sttCoY0ge1wtnMOsu0r6b"

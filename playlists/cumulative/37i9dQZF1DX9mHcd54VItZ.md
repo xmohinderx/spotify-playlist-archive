@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock\. Cover: <a href="https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO?si=ShwKhUgxTQ2nMhtDaz8WZw">Frans Karoo</a>
 
-151 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+152 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Use Me](https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 2:58 | 2022-02-10 | 2022-11-18 |
 | [Vanilla Sky](https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Vanilla Sky](https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO) | 4:06 | 2022-02-17 |  |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 |  |
-| [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 |  |
+| [Wasted Time](https://open.spotify.com/track/12HG1wEqsG2im9oTX5baIq) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/15KdGalTwSTxItX1h7kQkG) | 3:58 | 2022-08-04 | 2022-11-20 |
+| [Wasted Time](https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Wasted Time](https://open.spotify.com/album/3qSADMb9OU8gQqiRgFkKEr) | 3:58 | 2022-08-04 |  |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 | 2022-11-18 |
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 |  |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |

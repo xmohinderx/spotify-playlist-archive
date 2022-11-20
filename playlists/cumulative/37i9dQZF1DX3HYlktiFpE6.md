@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-105 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/0mWtPSkQPViGQEWUUHWJxq)
+106 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/0mWtPSkQPViGQEWUUHWJxq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 | 2021-12-24 |  |
 | [Let It Go \- Single Version](https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Let It Go](https://open.spotify.com/album/6bkOVixmGpSggcyGDLnYbW) | 3:40 | 2021-12-24 | 2022-07-29 |
 | [Love The Way You Lie](https://open.spotify.com/track/6bOFuQmZdmvre9pwOsuTzd) | [Urban Method](https://open.spotify.com/artist/4ZPJfyYZ239ucep2OC8qzs) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 2:38 | 2021-12-24 | 2022-07-21 |
-| [Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love](https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [The Sing\-Off: Season 3: Episode 7 \- Superstar Medleys](https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc) | 3:24 | 2021-12-24 |  |
+| [Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love](https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [The Sing\-Off: Season 3: Episode 7 \- Superstar Medleys](https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc) | 3:24 | 2021-12-24 | 2022-11-20 |
 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 | 2021-12-24 |  |
 | [Misty Mountains \(A Cappella\)](https://open.spotify.com/track/1g5OHdV7X0nOaB9Vy8sGdN) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Misty Mountains \(A Cappella\)](https://open.spotify.com/album/41iB6cCYKWTpOivxL7lVaS) | 4:20 | 2021-12-24 | 2022-07-23 |
 | [Misty Mountains \- Solo Version](https://open.spotify.com/track/3fMdTXx79MvNWnB7orsq4d) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Songs of Middle Earth](https://open.spotify.com/album/0ocEjdrrdGiP4N2JmZj9cJ) | 4:18 | 2021-12-24 | 2022-11-14 |
@@ -102,6 +102,7 @@
 | [The Final Countdown](https://open.spotify.com/track/62CjzgjzGMO0oBKhEs9Sxj) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect Soundtrack \(Special Edition\)](https://open.spotify.com/album/3rthCGaT4b1lUikhp43ACk) | 1:15 | 2021-12-24 | 2022-07-22 |
 | [The Greatest Show \- Bonus Track](https://open.spotify.com/track/34GTE14mHrS6mj4Jf31OME) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Showman: Reimagined](https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0) | 3:25 | 2021-12-24 | 2022-07-29 |
 | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS) | 4:06 | 2021-12-24 | 2022-11-19 |
+| [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 3](https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE) | 4:06 | 2021-12-24 |  |
 | [The Lucky Ones](https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/7dNAb67rW0niZlc2m2crHx) | 3:10 | 2021-12-24 | 2022-07-29 |
 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:34 | 2021-12-24 |  |
 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/7zgveKrOxukG95vxIO3KHd) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 2:34 | 2021-12-24 | 2022-07-29 |

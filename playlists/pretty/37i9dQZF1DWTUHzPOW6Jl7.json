@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 344791,
+  "num_followers": 344922,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDJhMmNlNzM3NTc3NjIwZDBmZmU0MmVhMzA4YTQwNTM4",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDVjYmFiNDkyNGM0ZjU4ZDMzMGFkM2E0YjA2OThhYjkz",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Do You Wanna Ride?",
         "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 253613,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "I Don't Want Her (feat. Problem)",
-        "url": "https://open.spotify.com/album/56pLZKMJhdAPyfgsp3DBHW"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Problem",
-          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
-        }
-      ],
-      "duration_ms": 194088,
-      "name": "I Don't Want Her (feat. Problem)",
-      "url": "https://open.spotify.com/track/3rBec901wnvokK97xjoKlH"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Don't Waste My Time (feat. Ella Mai)",
         "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 199720,
       "name": "Don't Waste My Time (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "I Don't Want Her (feat. Problem)",
+        "url": "https://open.spotify.com/album/56pLZKMJhdAPyfgsp3DBHW"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Problem",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        }
+      ],
+      "duration_ms": 194088,
+      "name": "I Don't Want Her (feat. Problem)",
+      "url": "https://open.spotify.com/track/3rBec901wnvokK97xjoKlH"
     },
     {
       "added_at": "2022-08-02 10:25:51",
