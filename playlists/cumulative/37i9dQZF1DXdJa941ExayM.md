@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: Fousheé
 
-183 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+184 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-12-20 | 2022-07-29 |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-08-26 |
 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 | 2022-08-28 |  |
-| [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 | 2022-08-25 |  |
+| [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 | 2022-08-25 | 2022-11-21 |
 | [In the Dark Times](https://open.spotify.com/track/0QI9LKldMD03gfU7U6pTQn) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [In the Dark Times](https://open.spotify.com/album/3Lfzg4awJ0ZonBsn8GChvG) | 3:16 | 2021-12-20 | 2022-07-29 |
 | [In the Dark Times](https://open.spotify.com/track/1uprgaMy777icaL9Jmir7X) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Extinction Ballads](https://open.spotify.com/album/5eKDVADjZz0v2FePmts8j7) | 3:16 | 2022-07-07 | 2022-08-26 |
 | [It's Permanent](https://open.spotify.com/track/23q1TXvVESU4qh8GckHvM0) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:32 | 2022-09-29 |  |
@@ -174,6 +174,7 @@
 | [Tea Parties With Dale Earnhardt](https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Tea Parties With Dale Earnhardt](https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl) | 1:41 | 2022-08-25 |  |
 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 | 2022-08-11 |  |
 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 | 2022-11-18 |  |
+| [The Void Stares Back](https://open.spotify.com/track/22lCyX2trHjfaFiNrzxpZr) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/2puIthwRPxgxmRUe7YQgTN) | 3:51 | 2022-11-18 |  |
 | [The Void Stares Back](https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/0rUlejX6IaCZVF9oWgtwu7) | 3:51 | 2022-08-11 | 2022-11-20 |
 | [The World Is You](https://open.spotify.com/track/7lqdh6P5XFsXXLvyOQhdzD) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [BRUT](https://open.spotify.com/album/17RcrngElFsVOUInoEtsC9) | 3:33 | 2021-12-20 | 2022-08-26 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-18 |  |

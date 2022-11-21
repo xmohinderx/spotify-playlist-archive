@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-315 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
+316 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Lift Me Up](https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lift Me Up](https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW) | 2:48 | 2021-11-19 | 2022-01-29 |
 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 | 2022-07-22 | 2022-10-01 |
 | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/track/4EdBC32i66Ctblo1tMQfbJ) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/album/4VNCOZl2fmc7xskD1CXHoE) | 3:45 | 2022-07-22 | 2022-10-01 |
-| [Limoncello](https://open.spotify.com/track/3y69a6CepJM4Z4tVTNiyv7) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:34 | 2022-11-11 |  |
+| [Limoncello](https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:34 | 2022-11-18 |  |
+| [Limoncello](https://open.spotify.com/track/3y69a6CepJM4Z4tVTNiyv7) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:34 | 2022-11-11 | 2022-11-21 |
 | [Location](https://open.spotify.com/track/7HB2G1F0BE3COMAuThZLmc) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Location](https://open.spotify.com/album/5vqQrL0w2FlyNe81I9zsLb) | 2:27 | 2022-11-04 |  |
 | [Long Day \(Pussy Crazy\) \(feat\. Gwen Bunn\)](https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Superghetto \(Deluxe\)](https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP) | 2:38 | 2022-07-29 | 2022-09-10 |
 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2021-09-24 | 2022-02-05 |

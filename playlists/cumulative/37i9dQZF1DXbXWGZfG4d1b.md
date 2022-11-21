@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-392 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+393 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Claromecó](https://open.spotify.com/track/4nhd6jQVWquaKEYWyQaQQy) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Claromecó](https://open.spotify.com/album/7nq2LaAFsFDwY9974wcLiG) | 2:19 | 2022-06-03 | 2022-07-02 |
 | [Clases de Yoga](https://open.spotify.com/track/0wGG4ftGlg0QavPQzEYSFo) | [Los Nuevos Creyentes](https://open.spotify.com/artist/5ppNJsPcJKIqaUib1wq3Tc) | [Planta Musical](https://open.spotify.com/album/2gJKZfvQOnEMqeUIInrwuk) | 3:57 | 2022-07-01 | 2022-07-23 |
 | [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 | 2022-10-28 |  |
-| [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 |  |
+| [Congelado](https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Congelado](https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn) | 2:27 | 2022-07-01 | 2022-11-21 |
 | [Corta el Pasto](https://open.spotify.com/track/6Q4pQccsF4MxLRJvOKMLgn) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB) | [Corta el Pasto](https://open.spotify.com/album/5jMETPlnode6bJwSL9Xz9e) | 3:39 | 2022-07-15 | 2022-07-24 |
 | [Cuando Dormís](https://open.spotify.com/track/1kJRzMvUuyraGRpYoLJwJH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Cuando Dormís](https://open.spotify.com/album/6w1W1PFLtW6GAb20rIIuN3) | 2:21 | 2022-06-03 | 2022-07-28 |
 | [Cuando Llegaste](https://open.spotify.com/track/5xVyBw15GcXawmYpYf2kmf) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Cuando Llegaste](https://open.spotify.com/album/55eWMznApVTgLen1AdgSLw) | 2:42 | 2022-07-01 | 2022-07-24 |
@@ -339,6 +339,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-07-01 | 2022-07-28 |
 | [Sola](https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Sola](https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ) | 4:01 | 2022-09-09 |  |
+| [Solomias](https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Solomias](https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf) | 2:05 | 2022-11-11 |  |
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2022-09-09 | 2022-11-15 |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-07-01 |  |
 | [Sonámbulos](https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc) | [Valentin y Los Volcanes](https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS) | [Una Comedia Romántica](https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk) | 3:44 | 2022-06-03 |  |

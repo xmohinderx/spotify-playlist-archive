@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-543 songs - 1 day 23 hr 37 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+544 songs - 1 day 23 hr 40 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-18 |  |
 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 | 2021-10-20 | 2022-07-28 |
 | [Autowave](https://open.spotify.com/track/2o66yBPuBDNKm2tB0q5MNI) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 3:09 | 2021-10-20 | 2022-06-02 |
-| [ava\_](https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [ava\_](https://open.spotify.com/album/4EuCr6DMm2zyS2gX5uelmA) | 3:06 | 2021-10-20 |  |
+| [ava\_](https://open.spotify.com/track/40PBYI3cLbrKRwZMaH1TlM) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [ava\_](https://open.spotify.com/album/4EuCr6DMm2zyS2gX5uelmA) | 3:06 | 2021-10-20 | 2022-11-21 |
 | [Awakening](https://open.spotify.com/track/2UjCPffVcAT3e2cI4IrLxV) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/36IJlHRWxsKq5y02YAnnTx) | 24:48 | 2021-10-20 | 2022-04-20 |
 | [B1](https://open.spotify.com/track/19G7YiDJIJZ2ZQmnf6KXkp) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 8:00 | 2022-08-31 | 2022-10-01 |
 | [B2\. ICE 594](https://open.spotify.com/track/3zOARmISn1ir6QM6BKDDJw) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [ICE Compositions](https://open.spotify.com/album/58VYC7wiAcPdbRxjXSg5II) | 5:06 | 2021-10-20 | 2022-07-29 |
@@ -512,6 +512,7 @@
 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 | 2021-10-20 |  |
 | [Ultraviolet](https://open.spotify.com/track/5zaYPmW3fWxDcPrGQxPsZ2) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 4:16 | 2021-10-20 | 2022-11-15 |
 | [Uncertain Instruction](https://open.spotify.com/track/3PUFtJDxqSC2sRefySSHmf) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv) | 2:48 | 2021-10-20 | 2022-11-09 |
+| [Uncertain Instruction](https://open.spotify.com/track/4UTAaPcuUUbNz7LoKE6f5X) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/2hZ9RhdWKzLQozs3AMIbMf) | 2:48 | 2021-10-20 |  |
 | [Under Isen \(sunset ocean\)](https://open.spotify.com/track/0clbuYStWIt4imZXUMwxGI) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Under Isen](https://open.spotify.com/album/55r5c0ARy8AK2C73OotZJY) | 5:20 | 2021-10-28 | 2022-11-13 |
 | [Under the Stars](https://open.spotify.com/track/71VrO1SmxOLI6P5Tm2MqDr) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Beneath the Surface](https://open.spotify.com/album/18ItwCWGwQXWB7qQDGsVns) | 4:12 | 2021-10-20 | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-10-20 |  |

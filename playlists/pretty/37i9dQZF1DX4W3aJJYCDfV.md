@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dermot Kennedy \(pictured\), PinkPantheress, Sam Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,516 likes - 138 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,430 likes - 138 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 108 | [Brutally Honest](https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Brutally Honest](https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l) | 2:39 |
 | 109 | [ihywhfyh](https://open.spotify.com/track/4LmaDIOeAHDgF6GBWVYbWm) | [Franky Bones](https://open.spotify.com/artist/3MIe1raSr122f1BKuFsBZo) | [ihywhfyh](https://open.spotify.com/album/1NM3Fso1K8kRfzPFpPv7Tp) | 4:02 |
 | 110 | [The Last Time](https://open.spotify.com/track/756kOtZrHmoLUCPmVE6kCy) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [The Last Time](https://open.spotify.com/album/0u0yVaTbeGJIKM2EGtwnIy) | 3:08 |
-| 111 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 |
+| 111 | [Stay Awhile](https://open.spotify.com/track/4wCZOU5q8Xlir3MBux8WzO) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Profound Mysteries III](https://open.spotify.com/album/6u9KIeN3HGS6gZIwzogb5x) | 6:11 |
 | 112 | [regret island.](https://open.spotify.com/track/5Ap2Ofcf2e5e8B6dC4fmPg) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [regret island.](https://open.spotify.com/album/0j2nLUzQzJaFxmJv4vgdlk) | 3:15 |
 | 113 | [Black Tank Top](https://open.spotify.com/track/6OTzR46oNM6tZbO0VBBRWr) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Black Tank Top](https://open.spotify.com/album/6uV6qHsSUlF9BLri72I0qJ) | 3:21 |
 | 114 | [Hearteater](https://open.spotify.com/track/6kuFHIy03AGG9u1qVxdEov) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Hearteater](https://open.spotify.com/album/0qaKbQgjpHi0OaDaQ7zoFF) | 3:22 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 137 | [Beyond the Vale](https://open.spotify.com/track/7DkojvD8hlZZETvBOZp1TI) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM \- Act I](https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i) | 3:42 |
 | 138 | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/track/00WrFOJ4ZLtIB6YQxP8G2T) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions \(It's Coming Home for Christmas\)](https://open.spotify.com/album/4g9hgB2Y0kG4eQbeDNq5OT) | 4:09 |
 
-Snapshot ID: `MTY2ODcyOTYwMCwwMDAwMDAwMGE3ODEzOWYwNDliMTU0Njk3OTdjYTQ2YjQwZDczMTA2`
+Snapshot ID: `MTY2ODcyOTYwMCwwMDAwMDAwMDIwYTdhNWE2ZjdiNGI2NmUxNzZiN2FmOWE1YzM2OWNj`

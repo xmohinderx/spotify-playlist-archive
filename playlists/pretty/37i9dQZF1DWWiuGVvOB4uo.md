@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,169 likes - 208 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,463 likes - 208 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 4 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 |
 | 5 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 |
 | 6 | [The Impression That I Get](https://open.spotify.com/track/4xU7ycvEAq6FuJFIgsVvpu) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [The Impression That I Get](https://open.spotify.com/album/6kK7PlbkI6DOK1PVZFeVpa) | 3:48 |
-| 7 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 |
+| 7 | [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 |
 | 8 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 |
 | 9 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
 | 10 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 207 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 208 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGU0NmE5NWI3ZmMwMTc4MDc0NzdjYjViYTA4NmUwMDMz`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGEwNmZjNmYyYjJjNzg2YTY1YTJlMWVmYjM2Y2EzZmJm`

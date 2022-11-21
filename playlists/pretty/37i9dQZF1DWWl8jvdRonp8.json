@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 136818,
+  "num_followers": 136989,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMGFkNjAyOTY1MTEyMDYzNWI3NGM3MWM3ZTg4MzJkMzU3",
+  "snapshot_id": "MTYzNjY5NjgwMCwwMDAwMDAwMGE5YjAyYmIxMmNhZDIxYjI1MTQyZmUxZTJiN2ZlOGMx",
   "tracks": [
     {
       "added_at": "2021-11-12 06:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Desde El Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 191906,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/4dlJmzbFkjvut4QjJM8LPe"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Desde El Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
+      "duration_ms": 249626,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
+      "duration_ms": 228160,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 210680,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
+      "duration_ms": 299786,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 299786,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
+      "duration_ms": 210680,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 221480,
       "name": "Ya No Te Vayas",
       "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Necesito una Compa\u00f1era",
         "url": "https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK"
       },
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Despu\u00e9s De Hoy",
         "url": "https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4"
       },
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 291640,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
+      "duration_ms": 300013,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
     },
     {
       "added_at": "2021-11-12 06:00:00",

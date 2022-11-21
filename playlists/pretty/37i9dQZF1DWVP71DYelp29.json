@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
-  "num_followers": 727398,
+  "num_followers": 727432,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGYxMzU5ZTI0ZGMyMWRjNTY2MWI1NDdmNzMzNmI2Mjlm",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDAyZGQ3MjM2NDY3NjFiN2Q1NDk4MGVhM2NhMTkyOWU5",
   "tracks": [
     {
       "added_at": "2022-09-01 18:43:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -884,22 +884,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "2002 - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
@@ -911,6 +895,22 @@
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "2002 - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1028,22 +1028,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
@@ -1055,6 +1039,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1572,22 +1572,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Breathe - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
       },
       "artists": [
@@ -1604,17 +1588,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 235979,
-      "name": "Pressure - Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
+      "duration_ms": 234473,
+      "name": "Breathe - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1631,6 +1615,22 @@
       "duration_ms": 622000,
       "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Pressure - Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1780,22 +1780,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 161941,
-      "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow"
       },
       "artists": [
@@ -1807,6 +1791,22 @@
       "duration_ms": 163224,
       "name": "Broccoli - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 161941,
+      "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1908,22 +1908,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 431671,
-      "name": "Adult Swim - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -1935,6 +1919,22 @@
       "duration_ms": 180028,
       "name": "Aura - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6Xv6dDUGl39MfJHBtqprmx"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 431671,
+      "name": "Adult Swim - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -2036,22 +2036,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5bBcJcgpV6ZCgjIFeVX4TR"
       },
       "artists": [
@@ -2063,6 +2047,22 @@
       "duration_ms": 146758,
       "name": "Little Bit - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04KKzlTAn6zjXiRIVWKOvF"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2022-05-27 17:31:46",

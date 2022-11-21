@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 51 min - not published yet
+59 songs - 2 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [It's Something In Me](https://open.spotify.com/track/6s3JnDyFFq4VX5yFDZL7je) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:42 | 2022-11-13 |  |
 | [KICK DOOR](https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:22 | 2022-11-18 |  |
 | [Kill Shit \(feat\. Lil Bibby\) \- Bonus Track](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 | 2022-10-28 |  |
+| [LAY IT DOWN \(with G Herbo\)](https://open.spotify.com/track/3q6OyOAeVbwqCZQJWP7HhR) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Walk Down World](https://open.spotify.com/album/473RR17P3qtAmh22uLUqhX) | 2:50 | 2022-11-20 |  |
 | [Man Now](https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 3:29 | 2022-10-28 |  |
 | [Me, Myself & I \(with A Boogie wit da Hoodie\)](https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me, Myself & I](https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL) | 3:41 | 2022-10-28 |  |
 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 | 2022-10-28 |  |
@@ -65,6 +66,6 @@
 | [Up Next 3](https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summer Songs 2](https://open.spotify.com/album/1Ea4UfFW7K1UzbjkDVaPri) | 2:35 | 2022-10-28 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-10-28 |  |
 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 | 2022-10-28 |  |
-| [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 |  |
+| [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 | 2022-10-30 | 2022-11-21 |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

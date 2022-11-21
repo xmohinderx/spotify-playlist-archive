@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 10937,
+  "num_followers": 10979,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQwNWYyYzA2ODcxN2IwMzk1YTg1YjFkOWFiYjE4OTg2",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDU3MzZlNWVkYmM3ZTllMDA2YWY4MjRkNmZiYzRlNDRj",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -423,22 +439,6 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "YAP EP",
@@ -635,6 +619,22 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
     },
     {
       "added_at": "2022-07-08 17:12:43",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Clapped",
@@ -683,6 +667,22 @@
       "duration_ms": 210932,
       "name": "Clapped",
       "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
+    },
+    {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2022-06-03 18:11:27",
@@ -733,28 +733,20 @@
       "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Snatch! OFF 071",
-        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Oliver Dollar",
-          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
-        },
-        {
-          "name": "Mikey V",
-          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
         }
       ],
-      "duration_ms": 186190,
-      "name": "About The Music",
-      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
+      "duration_ms": 185142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -777,20 +769,28 @@
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
+        "name": "Snatch! OFF 071",
+        "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
       },
       "artists": [
         {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Mikey V",
+          "url": "https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
+      "duration_ms": 186190,
+      "name": "About The Music",
+      "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-06-17 04:01:00",
       "album": {
-        "name": "Purple Edge EP",
-        "url": "https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW"
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
       "artists": [
         {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz"
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
         }
       ],
-      "duration_ms": 516643,
-      "name": "Purple Edge",
-      "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Jump Ship",
@@ -907,6 +891,22 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Purple Edge EP",
+        "url": "https://open.spotify.com/album/6dc9GE1Rkg4He3frvm4iEW"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/1ed0tZqOmgMtPwfCeTy8fz"
+        }
+      ],
+      "duration_ms": 516643,
+      "name": "Purple Edge",
+      "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,140 likes - 89 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,179 likes - 89 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
-| 2 | [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 |
+| 2 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
 | 3 | [Koko](https://open.spotify.com/track/7ppbwgiybENMZYUzu5EX6Z) | [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [Koko](https://open.spotify.com/album/0VVhDZXIHATBwfpkmRaLtF) | 2:08 |
 | 4 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 |
 | 5 | [Call On Me](https://open.spotify.com/track/17CX4RtACoNNYfq7sk8QTf) | [Joanny](https://open.spotify.com/artist/7mNtIw5k6cbKytRLhPIye2) | [Call On Me](https://open.spotify.com/album/7pcYv7Nvls8lrZyCzVHHjq) | 3:05 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 88 | [Slow Down](https://open.spotify.com/track/0XSNlIcAIhy6vqQzxi4mdv) | [TAB Family](https://open.spotify.com/artist/7bNpg0V11Af9JjLUU0pta9), [Ayo Busari](https://open.spotify.com/artist/0E4bv8ROKWeZdMIpmOuSaz), [Ayuba SOQS](https://open.spotify.com/artist/4sMp21LBxktmDQMm3yHYq0) | [From TAB, With Love.](https://open.spotify.com/album/7msf78vVyfOQOefVOmZXan) | 3:17 |
 | 89 | [Motion](https://open.spotify.com/track/2pu7aBbpoogkJPocdD9omI) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [XPUNCH](https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [AA Lil Sum](https://open.spotify.com/album/0IkizF0VoRj9eLLK9tlyn7) | 3:03 |
 
-Snapshot ID: `MTY2ODY4MjYyMywwMDAwMDAwMGViZWE1OTExMDIxNjQxZmY4YzhiNGNhZWZmZWYyZDg5`
+Snapshot ID: `MTY2ODY4MjYyMywwMDAwMDAwMDVjMWFlOWI0YzNiNjc2Y2EyYmIzYTIyODQ2ZTY5MDU5`

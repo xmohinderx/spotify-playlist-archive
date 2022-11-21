@@ -1,12 +1,12 @@
 {
   "description": "The Latin Pop hits of yesterday and today all in one place!\n\n",
-  "num_followers": 1135263,
+  "num_followers": 1135225,
   "original_name": "Now & Then Latin Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMDJlOGI2OGM1N2NmYjZkNDMyNGI0N2FiYjViYjZhYzM4",
+  "snapshot_id": "MTY1Mjk5ODU1NiwwMDAwMDAwMDRkYTllZDA2YzQ0NTE5MmEwMDlmMjc3MmQ4ZTZjZWZm",
   "tracks": [
     {
       "added_at": "2022-04-07 20:26:02",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-04-07 20:26:02",
       "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2022-04-07 20:26:02",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 192320,
       "name": "Tras De M\u00ed",
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
-    },
-    {
-      "added_at": "2022-04-07 20:26:02",
-      "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2022-04-07 20:26:02",

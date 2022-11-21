@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1332050,
+  "num_followers": 1332031,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMGM0MzMxMDk1YzQ2YmM2ODE1NjgzNDI3YmQ3M2UxMmQ5",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDRiMDllZjRmZjExMjY5ZjAyMzZhODBhOGNmMzc4ZTUz",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/66nJBHV6WtQI3IiU6n8fY5"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 240171,
       "name": "Walk Above the City",
       "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/66nJBHV6WtQI3IiU6n8fY5"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "El B\u00faho",
-      "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195845,
       "name": "Drinking Song",
       "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Colder Heavens EP",
+        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 167413,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 173927,
+      "name": "Mother Song",
+      "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "the death of you & i - EP",
         "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 331173,
       "name": "I Will Be Blessed",
       "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 173927,
-      "name": "Mother Song",
-      "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gems and Bones",
-        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
-      },
-      "artists": [
-        {
-          "name": "The Woodlands",
-          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Long Lost Century",
-      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 199840,
       "name": "A Sea of Roses",
       "url": "https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gems and Bones",
+        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
+      },
+      "artists": [
+        {
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Long Lost Century",
+      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Year In The Kingdom",
-        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
-      },
-      "artists": [
-        {
-          "name": "J. Tillman",
-          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Howling Light",
-      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Sub Rosa",
         "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 244570,
       "name": "Should I",
       "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Year In The Kingdom",
+        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
     },
     {
       "added_at": "2022-04-15 16:56:49",

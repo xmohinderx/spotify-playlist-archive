@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 21 | [Bloom](https://open.spotify.com/track/4dIcol4M56nWvq8OA5bm4n) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:37 |
 | 22 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 
-Snapshot ID: `Mjc4MTI5OTQsMDAwMDAwMDAyYWY0MmFmMWJiNDYwYjA0MDY5YjU2N2FkMzU4MzZjZg==`
+Snapshot ID: `Mjc4MTU5NTUsMDAwMDAwMDBjMTcyZTAyZDU3Mzg1NWExZDk0YTlhYzQxZDk4MDU2ZA==`

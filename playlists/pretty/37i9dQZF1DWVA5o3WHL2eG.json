@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: Sofia Portanet",
-  "num_followers": 18657,
+  "num_followers": 18651,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg2MjAwMCwwMDAwMDAwMDczYzhmNDAyYzkxODQ2ZmIzOTJmMzFmYWFiM2M1NTRh",
+  "snapshot_id": "MTY2Nzg2MjAwMCwwMDAwMDAwMGEyYTRmMmRlMzg0ZTRlMjNiM2E3YjE2YjA1ZTk3MGE1",
   "tracks": [
     {
       "added_at": "2022-11-07 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "w\u00fcrde es auch tun",
-        "url": "https://open.spotify.com/album/4gi0fUapv3mLwmrbJpTjxt"
-      },
-      "artists": [
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "duration_ms": 178230,
-      "name": "w\u00fcrde es auch tun",
-      "url": "https://open.spotify.com/track/0DtP2my2j6tXlt3VhGgepl"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "in my mind (\u2026sind wir perfekt)",
         "url": "https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 131666,
       "name": "in my mind (\u2026sind wir perfekt)",
       "url": "https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "w\u00fcrde es auch tun",
+        "url": "https://open.spotify.com/album/4gi0fUapv3mLwmrbJpTjxt"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "w\u00fcrde es auch tun",
+      "url": "https://open.spotify.com/track/0DtP2my2j6tXlt3VhGgepl"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "GASOLINA",
-        "url": "https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9"
-      },
-      "artists": [
-        {
-          "name": "Rua",
-          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
-        }
-      ],
-      "duration_ms": 134313,
-      "name": "GASOLINA",
-      "url": "https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "Grey's Anatomy",
         "url": "https://open.spotify.com/album/179HmxvzZVeFyFpJMeA7zg"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 127983,
       "name": "Grey's Anatomy",
       "url": "https://open.spotify.com/track/5CheTDfGjLq2j9Uk2gvsOf"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "GASOLINA",
+        "url": "https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9"
+      },
+      "artists": [
+        {
+          "name": "Rua",
+          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
+        }
+      ],
+      "duration_ms": 134313,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
+        "name": "Does She Know You?",
+        "url": "https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95"
+      },
+      "artists": [
+        {
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Does She Know You?",
+      "url": "https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
         "name": "Lorbeeren",
         "url": "https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 194114,
       "name": "Lorbeeren",
       "url": "https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
-        "name": "Does She Know You?",
-        "url": "https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95"
-      },
-      "artists": [
-        {
-          "name": "metty",
-          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Does She Know You?",
-      "url": "https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt"
     },
     {
       "added_at": "2022-11-07 23:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-07 23:00:00",
       "album": {
-        "name": "TRADE",
-        "url": "https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4"
-      },
-      "artists": [
-        {
-          "name": "HAWA",
-          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
-        }
-      ],
-      "duration_ms": 187751,
-      "name": "TRADE",
-      "url": "https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn"
-    },
-    {
-      "added_at": "2022-11-07 23:00:00",
-      "album": {
         "name": "Bis wir uns verlieren (Regret)",
         "url": "https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171683,
       "name": "Bis wir uns verlieren (Regret)",
       "url": "https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk"
+    },
+    {
+      "added_at": "2022-11-07 23:00:00",
+      "album": {
+        "name": "TRADE",
+        "url": "https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4"
+      },
+      "artists": [
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        }
+      ],
+      "duration_ms": 187751,
+      "name": "TRADE",
+      "url": "https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn"
     },
     {
       "added_at": "2022-11-07 23:00:00",

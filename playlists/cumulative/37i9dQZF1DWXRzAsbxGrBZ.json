@@ -632,6 +632,28 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law"
       },
@@ -1503,7 +1525,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 334426,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"

@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-138 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+139 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [After You Comes the Flood](https://open.spotify.com/track/2C33v3NmRB9cb4L4cLmFWn) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4wP3wYSBo0h9UfAfG5D94a) | 5:31 | 2022-07-26 | 2022-11-19 |
 | [After You Comes the Flood](https://open.spotify.com/track/6xwDOUvXD5BmU4NZwHIPZk) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [After You Comes the Flood](https://open.spotify.com/album/4e4OGFT9SAPem35VnTjvvE) | 5:31 | 2022-09-29 | 2022-11-13 |
 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 | 2021-12-20 | 2022-07-29 |
-| [akuma](https://open.spotify.com/track/3rsNKRINHRvYnQagyTqtnj) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/6KLzdU4IelYJvpQAzCQ4Yv) | 3:10 | 2022-07-26 |  |
+| [akuma](https://open.spotify.com/track/3rsNKRINHRvYnQagyTqtnj) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/6KLzdU4IelYJvpQAzCQ4Yv) | 3:10 | 2022-07-26 | 2022-11-21 |
 | [akuma](https://open.spotify.com/track/6cr9O3zBVZ2Ityl8EMy890) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [akuma](https://open.spotify.com/album/7IPaRdgBOJlUahcAZxvazr) | 3:10 | 2022-03-10 | 2022-07-29 |
 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 | 2021-12-20 | 2022-11-19 |
 | [Alone I Burn \- Radio Edit](https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE) | [Synthetic Blast](https://open.spotify.com/artist/20OWBlxvp4RbBfmibyOQ8b) | [Alone I...](https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj) | 4:40 | 2022-09-29 |  |
@@ -50,6 +50,7 @@
 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 | 2021-12-20 | 2022-11-19 |
 | [Dear Diary,](https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 2:44 | 2022-11-18 |  |
 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 | 2022-03-03 |  |
+| [Diazepam](https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy) | 2:36 | 2022-11-18 |  |
 | [Diazepam](https://open.spotify.com/track/3oxADKwqZ04fNO9diMkBPA) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/78Y3ftBNEZh5mBxae2SOFH) | 2:36 | 2021-12-20 | 2022-11-20 |
 | [Distress \- Radio Edit](https://open.spotify.com/track/63kHwwcvbylF6ERkBqPdl7) | [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Distress](https://open.spotify.com/album/5bLEndlyQCpdrERgPFfQeg) | 4:27 | 2021-12-20 | 2022-03-04 |
 | [DIVINE DISINTEGRATION](https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W) | [ghostofblu](https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN) | [DIVINE DISINTEGRATION](https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR) | 2:08 | 2021-12-20 |  |

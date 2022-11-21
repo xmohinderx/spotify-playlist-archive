@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 29530,
+  "num_followers": 29575,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MTk3MSwwMDAwMDAwMGFkNzZiZThiMjA2YjFiZDgyMTcyMmQ5ODlhMGIzOWIx",
+  "snapshot_id": "MTY2ODE3MTk3MSwwMDAwMDAwMGJlYjJlNjg5ZmVlNTcwNjQ5ZTNmOGRiYTNmMjI2MmU5",
   "tracks": [
     {
       "added_at": "2022-11-11 13:06:11",
@@ -563,26 +563,6 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Penelope Trappes Death Revisited",
-        "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Pardon",
-          "url": "https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV"
-        },
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 315562,
-      "name": "Penelope Trappes meets Silent Rumble",
-      "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
         "name": "Tar (Jan Jelinek Remix)",
         "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
+        "name": "Penelope Trappes Death Revisited",
+        "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Pardon",
+          "url": "https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV"
+        },
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 315562,
+      "name": "Penelope Trappes meets Silent Rumble",
+      "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
         "name": "Breakdown",
         "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
       },
@@ -615,42 +615,6 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
-        "name": "skins n slime",
-        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 369400,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
-        "name": "Unheard Melodies",
-        "url": "https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Mrs Jynx",
-          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
-        }
-      ],
-      "duration_ms": 280658,
-      "name": "Unheard Melodies",
-      "url": "https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -675,6 +639,42 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "Unheard Melodies",
+        "url": "https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Mrs Jynx",
+          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+        }
+      ],
+      "duration_ms": 280658,
+      "name": "Unheard Melodies",
+      "url": "https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "skins n slime",
+        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 369400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "How Much Time it is Between You and Me?",
-        "url": "https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 298909,
-      "name": "Fallin Into Space",
-      "url": "https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "How Much Time it is Between You and Me?",
+        "url": "https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Fallin Into Space",
+      "url": "https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Plonk",
-        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 564154,
-      "name": "Plonk VI",
-      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 564154,
+      "name": "Plonk VI",
+      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "05-10",
-        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
       "artists": [
         {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 296413,
-      "name": "Roller The Wick",
-      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1347,22 +1347,6 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Rone & Friends",
-        "url": "https://open.spotify.com/album/7jvfKfpDTc8bioLeCboUcv"
+        "name": "05-10",
+        "url": "https://open.spotify.com/album/7vVQuiGmu502EmbkTHYkpI"
       },
       "artists": [
         {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "duration_ms": 190179,
-      "name": "Faro",
-      "url": "https://open.spotify.com/track/475P7uJAThYszeB5c5uN9g"
+      "duration_ms": 296413,
+      "name": "Roller The Wick",
+      "url": "https://open.spotify.com/track/6Bv2uybg4ZBi5K05BC0kBU"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
+        "name": "Rone & Friends",
+        "url": "https://open.spotify.com/album/7jvfKfpDTc8bioLeCboUcv"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 190179,
+      "name": "Faro",
+      "url": "https://open.spotify.com/track/475P7uJAThYszeB5c5uN9g"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 327474,
       "name": "Evensong",
       "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 304053,
-      "name": "Touches Everything",
-      "url": "https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1559,22 +1543,18 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Made In Silence",
-        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z"
       },
       "artists": [
         {
-          "name": "dBridge",
-          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
-        },
-        {
-          "name": "Madison Willing",
-          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 154740,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
+      "duration_ms": 304053,
+      "name": "Touches Everything",
+      "url": "https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1591,6 +1571,26 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "Made In Silence",
+        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
+      },
+      "artists": [
+        {
+          "name": "dBridge",
+          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
+        },
+        {
+          "name": "Madison Willing",
+          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
+        }
+      ],
+      "duration_ms": 154740,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Remember Rainbow Bridge",
-        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
-      },
-      "artists": [
-        {
-          "name": "Croatian Amor",
-          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
-        }
-      ],
-      "duration_ms": 239224,
-      "name": "Alabaster",
-      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 286283,
       "name": "Adagio I - Mut",
       "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "Remember Rainbow Bridge",
+        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "Alabaster",
+      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
     },
     {
       "added_at": "2022-11-11 13:06:11",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-11-11 13:06:11",
       "album": {
-        "name": "Blink a Few Times to Clear Your Eyes",
-        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF"
-    },
-    {
-      "added_at": "2022-11-11 13:06:11",
-      "album": {
         "name": "The Last Wave",
         "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 151600,
       "name": "Burn It All Down",
       "url": "https://open.spotify.com/track/391s5MPi2RqJd99vTqteAr"
+    },
+    {
+      "added_at": "2022-11-11 13:06:11",
+      "album": {
+        "name": "Blink a Few Times to Clear Your Eyes",
+        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF"
     },
     {
       "added_at": "2022-11-11 13:06:11",

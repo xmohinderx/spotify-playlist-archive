@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6sCvyWz4jarPf4I3ifPcXY)
+73 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6sCvyWz4jarPf4I3ifPcXY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [NIGHT PARADE](https://open.spotify.com/track/0z5V1ReQNK5Lkoz2ZADDHB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 4:56 | 2022-06-09 | 2022-09-20 |
 | [NOT ENOUGH](https://open.spotify.com/track/2lZDS2nIZR1UCdbxJkeWEx) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH](https://open.spotify.com/album/59IL3p6UfwUsQ176vxluPm) | 3:22 | 2022-07-09 | 2022-08-27 |
 | [NOT ENOUGH \- feat\. FLOW](https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH \(feat\. FLOW\)](https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh) | 3:22 | 2022-08-26 |  |
+| [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 | 2022-11-20 |  |
 | [Oblivion](https://open.spotify.com/track/3ydfozBnIvZq29SPCCryL6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [hisashi](https://open.spotify.com/artist/2nYRoAv0c0q4lxZ7rECDkL) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:10 | 2022-07-14 | 2022-07-17 |
 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 | 2022-06-09 |  |
 | [PLANETARIUM](https://open.spotify.com/track/5euS1eMWE65z8q2UpL0mgB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:45 | 2022-06-09 | 2022-10-13 |
@@ -60,7 +61,7 @@
 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 | 2022-06-09 |  |
 | [ありがとう](https://open.spotify.com/track/3qMQ7fdeXHUoMLF2l1zK5o) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 5:29 | 2022-06-09 |  |
 | [デイドリーム ビリーヴァー](https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [デイドリーム ビリーヴァー](https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d) | 3:37 | 2022-10-04 |  |
-| [ドリームエクスプレス](https://open.spotify.com/track/2aQ5QezEYtIbASLmvrJgMt) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 4:10 | 2022-06-09 |  |
+| [ドリームエクスプレス](https://open.spotify.com/track/2aQ5QezEYtIbASLmvrJgMt) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 4:10 | 2022-06-09 | 2022-11-21 |
 | [ブラックマーケット](https://open.spotify.com/track/4HeMwFVoInSamuTYudlgGm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:29 | 2022-06-13 | 2022-10-11 |
 | [ブルーバード](https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:55 | 2022-06-09 |  |
 | [ブレイブルー](https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 4:06 | 2022-06-09 |  |

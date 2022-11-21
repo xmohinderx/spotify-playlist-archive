@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,714 likes - 92 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,685 likes - 92 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 5 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 |
 | 6 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 |
 | 7 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT) | 4:43 |
-| 8 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 |
+| 8 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 5:37 |
 | 9 | [Gonna Get In My Way](https://open.spotify.com/track/6pebyG1lz94gB0qxjTyIs2) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Chad Pike](https://open.spotify.com/artist/0WfL5KgBtjVks1wcXimVnP) | [Gonna Get In My Way](https://open.spotify.com/album/70v48r8qwciZ0uyHvsHgST) | 3:55 |
 | 10 | [Burn](https://open.spotify.com/track/1jdtArpBS5Wgboi8qsvl41) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Phil Diamond](https://open.spotify.com/artist/7BM0xp1rKAn5qB62J4FBOh) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:38 |
 | 11 | [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 91 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 | 92 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDBiYjVjMWYzNDlhNGQ0NzJlN2U0N2YyMThhNGRlZWNk`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDkxYzVkOWJiYzNmODU4ZWU3NGRjMmVjNzRkNDdlNzE0`

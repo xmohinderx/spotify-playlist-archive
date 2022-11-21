@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Tennis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,359 likes - 199 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,638 likes - 199 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 22 | [Stay And Run](https://open.spotify.com/track/4HBNn1sMNTRF0MS4RDHO04) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Stay And Run](https://open.spotify.com/album/37JopaNwfdGCogE8VCWBUT) | 3:16 |
 | 23 | [Dressed to Kill](https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:52 |
 | 24 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 |
-| 25 | [85 Down PCH](https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine \(Deluxe\)](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 2:16 |
+| 25 | [85 Down PCH](https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 2:16 |
 | 26 | [met this girl on the internet](https://open.spotify.com/track/6VomQpgjGXJOwNy6CrCn7T) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [met this girl on the internet](https://open.spotify.com/album/4nrOPw9Fy9tVRVXCFSz8Kl) | 2:59 |
 | 27 | [Shells Don't Crack](https://open.spotify.com/track/5qYjnhPMMUn5zOezycm3Hn) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [All Stars Aligned](https://open.spotify.com/album/2VEq651G0Pc7ePooOCwqpr) | 2:22 |
 | 28 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 |

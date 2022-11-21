@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-71 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/6reWCzCyOkzCijlcHOaUin)
+72 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/6reWCzCyOkzCijlcHOaUin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 | 2022-09-14 |  |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 |  |
 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 | 2022-09-14 |  |
+| [Love I Know](https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P) | [Dearson](https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [Necessary](https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj) | 6:35 | 2022-11-10 |  |
 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 | 2022-09-29 | 2022-11-11 |
 | [M.A.U.R](https://open.spotify.com/track/6FN2OCdwgB83jSf5DS3hIn) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 7:24 | 2022-09-14 | 2022-10-03 |
 | [Makhenikha](https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm) | [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Another Mile EP](https://open.spotify.com/album/0nRYOHYnD7wzC8Ppp9ERJh) | 7:14 | 2022-09-14 |  |
@@ -78,6 +79,6 @@
 | [With Time](https://open.spotify.com/track/49Hy25TIq1DPhTuo9yAeIM) | [Radic The Myth](https://open.spotify.com/artist/2AhzZj1zQODMRhXtf9S4gC) | [Album Sampler 02](https://open.spotify.com/album/2hmziKzFCb8HGoAVp8Srbu) | 6:56 | 2022-09-14 | 2022-10-02 |
 | [Woza Moya](https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Woza Moya](https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU) | 6:47 | 2022-11-10 |  |
 | [Xelela Abazali](https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk) | [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [KnightSA](https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Xelela Abazali](https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA) | 6:34 | 2022-09-14 |  |
-| [Your Love](https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf) | [Rishi Love](https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV) | [Your Love](https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN) | 5:34 | 2022-09-14 |  |
+| [Your Love](https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf) | [Rishi Love](https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV) | [Your Love](https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN) | 5:34 | 2022-09-14 | 2022-11-21 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

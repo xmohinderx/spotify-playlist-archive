@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,463 likes - 57 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,457 likes - 57 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 2 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 |
-| 3 | [Force](https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force EP](https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P) | 7:34 |
+| 3 | [Force](https://open.spotify.com/track/35bOzO8Az5C9xsAgUjr0Bq) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force](https://open.spotify.com/album/1MpLubxJBJNRaFAjahk9Hj) | 7:34 |
 | 4 | [Osama](https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 6:49 |
 | 5 | [Rumor](https://open.spotify.com/track/0IyZ6gCFUyGs3zP2ItaTo1) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Timeless](https://open.spotify.com/album/6HMZO1TTb8HuJE61QP0MPz) | 7:00 |
 | 6 | [Algerian Resurrection](https://open.spotify.com/track/3trqXz0dgBUORXtrwYTUtU) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [Algerian Resurrection](https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3) | 5:45 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 56 | [Madan](https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW) | [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Madan](https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn) | 3:38 |
 | 57 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
 
-Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDIyYmRjODBiNDQ4ZTZkMjUyMDQ4ZmJhMzI4ODU0MGY4`
+Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDlkYTk2YWVkNTQ4YzZiMzQ0NWFiODgxNzZiNDRjN2U5`

@@ -1244,6 +1244,32 @@
     },
     {
       "album": {
+        "name": "Dopo Sole",
+        "url": "https://open.spotify.com/album/0E4DSL0WtQe5TPvfMJfEbl"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Zutera",
+          "url": "https://open.spotify.com/artist/3KQur0YWqvQYgn5PdXHnn0"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "Dopo Sole",
+      "url": "https://open.spotify.com/track/1grNbRYrJiei15zzpX2fMV"
+    },
+    {
+      "album": {
         "name": "#FREECRAXI",
         "url": "https://open.spotify.com/album/7a2V1F0yuhFy4xgddMTlzX"
       },
@@ -1447,7 +1473,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"

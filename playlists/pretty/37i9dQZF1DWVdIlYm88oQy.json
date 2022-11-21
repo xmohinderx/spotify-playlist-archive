@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 28322,
+  "num_followers": 28369,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGE3YzZiZWI0ZDE4ZTljYmVlZWE5NDQ4MjcxMzI5MTM0",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDNmZTA2MTRlMmU4ZjlkZDVhY2ViODgxYTYwOGRhMTRh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Te Tuve Y Te Perd\u00ed",
         "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 158533,
       "name": "Te Tuve Y Te Perd\u00ed",
       "url": "https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/0Sa8iYYa4GrOmEQ2krwnTq"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/5xUq5PLTPA7CTlAXihrxSD"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 284240,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Vieja Luna",
-      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         },
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 259920,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
+      "duration_ms": 195360,
+      "name": "Vieja Luna",
+      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
     },
     {
       "added_at": "2022-08-31 07:29:23",

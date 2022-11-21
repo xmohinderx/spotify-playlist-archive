@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Wajeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,383 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,399 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 71 | [Murder](https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Murder](https://open.spotify.com/album/5yNwpK71K5BUv4SeSePUI7) | 2:33 |
 | 72 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 73 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
-| 74 | [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 |
+| 74 | [Dance](https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Bad Decisions](https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU) | 2:45 |
 | 75 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 76 | [Ethiopia \- Boddhi Satva Ancestral Soul Dub](https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Ethiopia \(Boddhi Satva Ancestral Soul Dub\)](https://open.spotify.com/album/5NllzQSC7PQYXXF2qccTK5) | 4:09 |
 | 77 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 100 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDA2ODE5OGRjZWMzMGU3OWJiMDdmYTFlOGQ5OWIzNmJi`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGM2MjNjYThhYTBiYTAwZjJkMWY4MTQ5YTE4ZDgxZjZk`

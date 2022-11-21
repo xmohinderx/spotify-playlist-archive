@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,286 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,313 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 33 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
 | 34 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
 | 35 | [Son de la Loma](https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:29 |
-| 36 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
-| 37 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
+| 36 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
+| 37 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
 | 38 | [Setembro](https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 5:32 |
 | 39 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
 | 40 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
 | 50 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDY0MTc3NzMwNWFhYmUzZGY2NWRmM2Q5YjBjMTA2ZjE3`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDMzZDAyOTI4MWNiMjRjZjBjNWQ5ZmI2OTEwMTk2OWFl`

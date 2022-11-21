@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 530232,
+  "num_followers": 530297,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMGQ0MDg3N2QxNTAzYmMxZThjMTJhYzhiMzNiODRjYWIw",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDhhMWIxMGRiN2I5YTM2OTRlY2E4NDk3YTcxMmMyMmFk",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
       },
       "artists": [
         {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 200895,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
+      "duration_ms": 229945,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
       },
       "artists": [
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
         }
       ],
-      "duration_ms": 229945,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Sin Amenazas",
-        "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 258760,
-      "name": "Sin Amenazas",
-      "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "En Cuarentena",
         "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Sin Amenazas",
+        "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 258760,
+      "name": "Sin Amenazas",
+      "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Tu Me Matas",
-      "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Abrete",
         "url": "https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 254290,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Tu Me Matas",
+      "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
     },
     {
       "added_at": "2022-10-27 06:13:38",

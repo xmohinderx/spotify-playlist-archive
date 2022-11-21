@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 157124,
+  "num_followers": 157063,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMGVlNDE5MjhiNzQ3MzRmMzVmYjQyN2MzYzZjMTk3ZjI3",
+  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDNhMTU2ODc0OTI5ZTY1YjM3MzM5MmY5ZmQ4MTg4ZTcx",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "You Can't Stop Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "The Kids Are Back",
-      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
-    },
-    {
       "added_at": "2022-06-29 17:56:03",
       "album": {
         "name": "Winger",
@@ -795,18 +779,34 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Extreme",
-        "url": "https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw"
+        "name": "You Can't Stop Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
       },
       "artists": [
         {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 211440,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq"
+      "duration_ms": 198800,
+      "name": "The Kids Are Back",
+      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Skyscraper",
+        "url": "https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Just Like Paradise",
+      "url": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM"
     }
   ],
   "unique_name": "80s Rock Drive",

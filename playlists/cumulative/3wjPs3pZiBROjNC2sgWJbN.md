@@ -2,9 +2,9 @@
 
 ### [Top Trending: R&B / Soul](https://open.spotify.com/playlist/3wjPs3pZiBROjNC2sgWJbN)
 
-> A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; FLO Updated weekly! Cover: Ari Lennox
+> A collection of R&amp;B jams and viral trends featuring Summer Walker, Kaash Paige &amp; FLO Updated weekly! Cover: Ari Lennox
 
-82 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
+84 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Coming Down \(with Ari Lennox\)](https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:36 | 2022-06-09 | 2022-08-13 |
 | [DFMU](https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 | 2022-09-24 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-09 | 2022-06-30 |
+| [Doubted Me](https://open.spotify.com/track/6XftCjHL05kJJYtPIk02FD) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:34 | 2022-11-20 |  |
 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Ease My Mind \(Come Over\)](https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj) | 2:46 | 2022-06-09 | 2022-09-25 |
 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 | 2022-06-09 |  |
 | [Falsetto](https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:31 | 2022-06-29 | 2022-09-25 |
@@ -56,6 +57,7 @@
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2022-06-09 |  |
 | [Loveeeeeee Song](https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 4:16 | 2022-06-09 | 2022-09-25 |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-06-09 |  |
+| [My Luv Freestyle](https://open.spotify.com/track/45V6vfnJyC6Pmi1H4jFPZU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 3:46 | 2022-11-20 |  |
 | [My Rock](https://open.spotify.com/track/0Pnb9c3hqio8fJ4v7FlQoi) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:28 | 2022-10-31 |  |
 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-06-09 |  |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-06-09 | 2022-07-09 |

@@ -4,10 +4,11 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
+77 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4JIi4bjPGxzuez5Wn9lhj6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [25 Horas al Dia](https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:06 | 2022-11-20 |  |
 | [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 | 2022-06-01 |  |
 | [Al Ver Que Te Vas](https://open.spotify.com/track/5itRE7txzHA6KVh3YYqq7D) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:10 | 2022-06-01 | 2022-08-27 |
 | [Algo Sin Igual](https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 3:28 | 2022-06-01 |  |

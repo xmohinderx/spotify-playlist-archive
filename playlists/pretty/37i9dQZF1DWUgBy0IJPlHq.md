@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,620 likes - 130 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,819 likes - 130 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

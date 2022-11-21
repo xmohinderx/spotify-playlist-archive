@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Corrido a Sal S\u00e1nchez",
+        "url": "https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146573,
+      "name": "Corrido a Sal S\u00e1nchez",
+      "url": "https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Baj\u00f3n",
         "url": "https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM"
       },
@@ -429,6 +447,24 @@
       "duration_ms": 165746,
       "name": "Voy A Superarte - En Vivo",
       "url": "https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Vas A Hacer Sin M\u00ed?",
+        "url": "https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Sin M\u00ed?",
+      "url": "https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFSipnR79Y2Xq"

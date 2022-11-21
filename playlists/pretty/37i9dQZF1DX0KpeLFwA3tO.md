@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Fucked Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,954 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,039 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 48 | [Listen! Do You Smell Something?](https://open.spotify.com/track/1GdfWouH8J7gz52QVwIsqT) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Enemy of the World \(Re\-Recorded\)](https://open.spotify.com/album/2r8iwO5KgjqehFv1ZmBzoF) | 3:37 |
 | 49 | [One Day](https://open.spotify.com/track/400jc0romvMvPCn7Mmnkyy) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/7lAzdksuYfjKfGf2B6CplG) | 5:02 |
 | 50 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
-| 51 | [Leave Her Johnny](https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Leave Her Johnny](https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh) | 3:13 |
+| 51 | [Leave Her Johnny](https://open.spotify.com/track/3el3bWRAzJhRLDJhAJYqQG) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Songs of the Highlands, Songs of the Sea](https://open.spotify.com/album/4lQJQoonyV4XpWMRwOuK9G) | 3:13 |
 | 52 | [all my friends](https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [all my friends](https://open.spotify.com/album/25kTH4jXP7PcBlvQ4LLBFQ) | 2:22 |
 | 53 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
 | 54 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 100 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 |
 | 101 | [MIGRAINE](https://open.spotify.com/track/0HFX1Lyaeu5i2J1jK5QH3f) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [MIGRAINE](https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR) | 2:33 |
 
-Snapshot ID: `MTY2ODcyOTc3NywwMDAwMDAwMDRkYzExNjNmMjYxMGFjNzA2NTZjNzQ4ZThiOGY3ZjUw`
+Snapshot ID: `MTY2ODcyOTc3NywwMDAwMDAwMGI3MGQxZThmYzlmNzIxMWM0ZGRiMTdhZjk2NGE3ODlk`

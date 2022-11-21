@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-81 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+82 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Ms\. Ho](https://open.spotify.com/track/6vQHxIHj6mFAsHgP6F52tf) | [Onra](https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8) | [Chinoiseries pt 2](https://open.spotify.com/album/5bl0ylxUoBnIMB1Fn2oSYF) | 1:56 | 2021-10-15 | 2022-07-29 |
 | [Muy Tranquilo](https://open.spotify.com/track/6O7qFEXmLQcOsV37wrgJDz) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6zRPOKKIiUEQPGYnLoavVj) | 3:53 | 2021-10-15 |  |
 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/6FEESiC65oKkgebXZlPc5J) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 2:54 | 2021-10-15 |  |
-| [Noble Metals](https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Noble Metals](https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3) | 3:32 | 2022-10-10 |  |
+| [Noble Metals](https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:32 | 2022-10-10 |  |
+| [Noble Metals](https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Noble Metals](https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3) | 3:32 | 2022-10-10 | 2022-11-21 |
 | [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN) | 3:40 | 2021-10-15 |  |
 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2021-10-15 |  |
 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2021-10-15 | 2022-10-14 |

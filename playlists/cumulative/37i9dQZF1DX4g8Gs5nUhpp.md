@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-122 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+123 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC) | [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op) | 4:21 | 2022-06-15 | 2022-08-01 |
 | [Waiting For You](https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 4:25 | 2022-09-11 |  |
 | [Yêu Một Người Có Lẽ](https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Yêu Một Người Có Lẽ](https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb) | 4:13 | 2022-06-07 |  |
+| [Yêu Người Có Ước Mơ](https://open.spotify.com/track/2VHXCihhlSC2lUFoCaemRN) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 6\)](https://open.spotify.com/album/21hdhN4ANjq7TpqIr4UZmw) | 4:43 | 2022-11-20 |  |
 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-27 |  |
 | [Đa Đoan](https://open.spotify.com/track/3Q5QdILpa7GDF4MvmsU8ZH) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Đa Đoan](https://open.spotify.com/album/1E5PmFaH9g95gPQ5VhUyQ6) | 3:20 | 2022-09-29 | 2022-10-06 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 | 2022-06-04 |

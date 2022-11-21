@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186592,
+      "name": "25 Horas al Dia",
+      "url": "https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW"
+    },
+    {
+      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
       },

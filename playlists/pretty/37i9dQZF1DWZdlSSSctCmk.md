@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,440 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,502 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 21 | [Sketch for Summer](https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 2:58 |
 | 22 | [C\-Side](https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:43 |
 | 23 | [Agave Harvest](https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light](https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE) | 7:04 |
-| 24 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 25 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 |
+| 24 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 |
+| 25 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 26 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 27 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 |
 | 28 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 38 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
 | 39 | [Final Days \- Bonobo Remix](https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Final Days \(Bonobo Remix\)](https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB) | 5:40 |
 | 40 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
-| 41 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
-| 42 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 |
+| 41 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 |
+| 42 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 43 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 44 | [América](https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [América](https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro) | 4:30 |
 | 45 | [sketches](https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:03 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 67 | [Tabarin](https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Just Landed](https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG) | 5:30 |
 | 68 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
 | 69 | [Tuesday](https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui) | [Gentle EP](https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3) | 5:47 |
-| 70 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 |
-| 71 | [Vôo sobre o horizonte](https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Aguia Não Come Mosca \(Remasterizado\)](https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv) | 3:40 |
+| 70 | [Vôo sobre o horizonte](https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Aguia Não Come Mosca \(Remasterizado\)](https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv) | 3:40 |
+| 71 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 |
 | 72 | [Rotation](https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 5:11 |
 | 73 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 74 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 95 | [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 |
 | 96 | [Aquaself](https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight \(Digital Deluxe\)](https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw) | 6:16 |
 | 97 | [Give It To You \- Ralf GUM Radio Edit](https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Paula](https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK) | [Give It To You](https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP) | 3:48 |
-| 98 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
-| 99 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
-| 100 | [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 |
+| 98 | [Café de Flore](https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj) | 8:25 |
+| 99 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
+| 100 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
 
-Snapshot ID: `MTY2MjM5NDYyNiwwMDAwMDAwMGI2NDNjYjlmYjYzYmIyNTk4NWQwYzVjYzNkZmJkNjgy`
+Snapshot ID: `MTY2MjM5NDYyNiwwMDAwMDAwMDM5ZGY4MzQ5NjA2YTRiMGM1YmEwNDhmM2ZmY2U3Y2Y1`

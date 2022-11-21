@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,368 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,614 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 32 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 |
 | 33 | [Fight Fire With Fire](https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ), [Maciej Taff](https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml) | [Necropolis](https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR) | 4:05 |
 | 34 | [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 |
-| 35 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
-| 36 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 37 | [Gimme Shelter](https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Gimme Shelter](https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg) | 3:58 |
+| 35 | [Gimme Shelter](https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Gimme Shelter](https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg) | 3:58 |
+| 36 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
+| 37 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 38 | [The Devil Went Down to Georgia](https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt) | 3:51 |
 | 39 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
 | 40 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 60 | [Mein Herz brennt](https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Mein Herz brennt](https://open.spotify.com/album/7LTkkXUFpOIbFPUUki9bUu) | 4:41 |
 | 61 | [Let It Go](https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Let It Go](https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17) | 3:37 |
 | 62 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 |
-| 63 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 |
-| 64 | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8), [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP) | 3:51 |
+| 63 | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8), [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Jessie's Girl 2 \(feat\. Rick Springfield\)](https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP) | 3:51 |
+| 64 | [Let Me Love You](https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN) | [Love and Death](https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Perfectly Preserved](https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ) | 3:52 |
 | 65 | [Roundabout](https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Roundabout](https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6) | 8:20 |
 | 66 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 |
 | 67 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
 | 75 | [My Own Summer \- Shove It](https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Cover Me in Darkness](https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD) | 3:38 |
 
-Snapshot ID: `MTY2ODY5ODYyNiwwMDAwMDAwMDBjODUxMzMzZTU1NGI2NGY3YzJjN2ZmZmFjZDk3MzA1`
+Snapshot ID: `MTY2ODY5ODYyNiwwMDAwMDAwMGQyMTM1OWRmOTE1ZDBjMTAyZjMwN2RiMDIyMGMxMTQ2`

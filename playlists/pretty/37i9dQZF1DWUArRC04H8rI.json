@@ -1,12 +1,12 @@
 {
   "description": "it's never too early.",
-  "num_followers": 92681,
+  "num_followers": 92763,
   "original_name": "Reggaeton for Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0OTIyMSwwMDAwMDAwMDA3NGZlYjNkYTlkZWUwMjU2YmU5NzAwYzJiMDMwMWIy",
+  "snapshot_id": "MTY2Nzg0OTIyMSwwMDAwMDAwMDBmZDFmZWJjNDY0ZmNhMDk1YmUwZDQ0NTZjMTEyNDZj",
   "tracks": [
     {
       "added_at": "2022-11-07 19:27:01",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-11-07 19:27:01",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
+    },
+    {
+      "added_at": "2022-11-07 19:27:01",
+      "album": {
         "name": "FULANITO",
         "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 158531,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
-    },
-    {
-      "added_at": "2022-11-07 19:27:01",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2022-11-07 19:27:01",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2022-11-07 19:27:01",
       "album": {
-        "name": "Sistema De Patio",
-        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+        "name": "Diva Platinum Edition",
+        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 134222,
-      "name": "Sistema De Patio",
-      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+      "duration_ms": 184506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
     }
   ],
   "unique_name": "Reggaeton for Breakfast",

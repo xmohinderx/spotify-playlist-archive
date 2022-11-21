@@ -4,11 +4,12 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-258 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+259 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [13th Century Metal](https://open.spotify.com/track/7xbCwXU4pVledUQUJogaGX) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Jaime \(The Remixes\)](https://open.spotify.com/album/1VvJaOcHEAjlEAeyZ14gBC) | 5:02 | 2021-12-17 |  |
+| [13th Century Metal](https://open.spotify.com/track/7xbCwXU4pVledUQUJogaGX) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Jaime \(The Remixes\)](https://open.spotify.com/album/1VvJaOcHEAjlEAeyZ14gBC) | 5:02 | 2021-12-17 | 2022-11-21 |
+| [13th Century Metal \(Michael Kiwanuka Version\)](https://open.spotify.com/track/4MQPNbyA94AfNLGg0uUUrO) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 5:00 | 2022-09-30 |  |
 | [18 Counties](https://open.spotify.com/track/4V5bPnH3eQ2BmP68CZR6bF) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/0Quj0gczb9Cb7Wgu2DHJYm) | 3:59 | 2021-12-17 | 2022-07-30 |
 | [18 Counties](https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU) | 3:59 | 2022-07-22 | 2022-09-10 |
 | [662](https://open.spotify.com/track/7lM1cf3zZuish0TjRnn5MB) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/7vKItws7UGBfZpWG5mlqqn) | 3:17 | 2021-12-17 |  |

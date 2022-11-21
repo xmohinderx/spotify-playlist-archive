@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 142495,
+  "num_followers": 142552,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGNjMTVjNzNkODYyOGE1ZDI3NWFmMzAzZWNlMGRkZDli",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDBlZTk2NDAwNzAzMGJlNzI2MmYyNjExZTc4YjgyOTcy",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Legge Dei Gangsters",
-        "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "Crepuscolo Sul Mare",
-      "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
         "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 162386,
       "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
       "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La Legge Dei Gangsters",
+        "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Crepuscolo Sul Mare",
+      "url": "https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -371,6 +371,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "The Essential Ennio Morricone",
+        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Carlo Nistri",
+          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
+        }
+      ],
+      "duration_ms": 306146,
+      "name": "Chi Mai",
+      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Integral",
         "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
       },
@@ -399,42 +419,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "In quintetto",
-        "url": "https://open.spotify.com/album/6QRGjKHm12bdXFE2SJD7Rb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Piovani",
-          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
-        }
-      ],
-      "duration_ms": 291996,
-      "name": "La vita \u00e8 bella",
-      "url": "https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Essential Ennio Morricone",
-        "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Carlo Nistri",
-          "url": "https://open.spotify.com/artist/1fLWK8w1hDasVXnoCZk9Tt"
-        }
-      ],
-      "duration_ms": 306146,
-      "name": "Chi Mai",
-      "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
         "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "In quintetto",
+        "url": "https://open.spotify.com/album/6QRGjKHm12bdXFE2SJD7Rb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Piovani",
+          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
+        }
+      ],
+      "duration_ms": 291996,
+      "name": "La vita \u00e8 bella",
+      "url": "https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Le Cin\u00e9ma De Francis Lai",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Vivre Pour Vivre",
-      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Maria Elena",
         "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 187866,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Le Cin\u00e9ma De Francis Lai",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Vivre Pour Vivre",
+      "url": "https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -963,6 +963,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Orange Blossom Special And Wheels",
+        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 128785,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 216800,
       "name": "Amore Grande Amore Libero",
       "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Orange Blossom Special And Wheels",
-        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
-      },
-      "artists": [
-        {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 142986,
       "name": "Les Parapluies de Cherbourg",
       "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
-      },
-      "artists": [
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Svezia, Inferno E Paradiso",
         "url": "https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 116559,
       "name": "Mah N\u00e0 Mah N\u00e0",
       "url": "https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+      },
+      "artists": [
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
-      },
-      "artists": [
-        {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 383933,
       "name": "Piano",
       "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+      },
+      "artists": [
+        {
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+        "name": "Colecci\u00f3n de \u00c9xitos",
+        "url": "https://open.spotify.com/album/6d4jnq3ziyFtQWgUSW2X6y"
       },
       "artists": [
         {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 161773,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
+      "duration_ms": 157010,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/36JolOfhgRcjujpMuH37Fj"
     }
   ],
   "unique_name": "Golden Instrumentals",

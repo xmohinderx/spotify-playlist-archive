@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go with relaxing ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,543 likes - 118 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,529 likes - 118 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

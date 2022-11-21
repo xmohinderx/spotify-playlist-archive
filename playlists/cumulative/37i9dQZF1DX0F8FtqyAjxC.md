@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/21XUWtQGgMmaUxzB8ize8d)
+72 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/21XUWtQGgMmaUxzB8ize8d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 | 2022-07-07 |  |
 | [Party On](https://open.spotify.com/track/1grcWuufWEJofCLzNV8oDa) | [Pure Energy](https://open.spotify.com/artist/52C0fhXi9nwu9wpK9bB1fw) | [Party On](https://open.spotify.com/album/1ZAkFWp0ZCRLOk9XvhwXkJ) | 8:30 | 2022-07-07 |  |
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2022-10-14 |  |
-| [Shopping Cart](https://open.spotify.com/track/5vcSZ6uUeUaeOK55dLTF3f) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/1JwKb9iAcsmwQcbSgms96d) | 4:05 | 2022-07-07 |  |
+| [Shopping Cart](https://open.spotify.com/track/57xHPifnfguNFDig9kHZOq) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/0Ehvg0k08rB3rpquQks9Vw) | 4:05 | 2022-10-14 |  |
+| [Shopping Cart](https://open.spotify.com/track/5vcSZ6uUeUaeOK55dLTF3f) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/1JwKb9iAcsmwQcbSgms96d) | 4:05 | 2022-07-07 | 2022-11-21 |
 | [Sing Sing](https://open.spotify.com/track/3XVArphWCaPIQlk9uYtvXn) | [Gaz](https://open.spotify.com/artist/2sOcDFja2Y0QVXhlNkQlDO) | [Gaz](https://open.spotify.com/album/3VmR7Xu3yZ0qXqkl9E6vct) | 7:15 | 2022-07-07 |  |
 | [Sky Islands](https://open.spotify.com/track/4yFsH04zDe6KaZJkJIJn3A) | [Caldera](https://open.spotify.com/artist/4ykkbfK2ovwyiZNxsg96d4), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Sky Islands](https://open.spotify.com/album/0vFGiTKTO1FvDAVjWtYDrh) | 6:11 | 2022-07-07 |  |
 | [Tappan Zee](https://open.spotify.com/track/2ajcFWw6aoXfVRSGw3SpF7) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [BJ4](https://open.spotify.com/album/5wK9re0Nwblt0pAJxuvQ8W) | 6:49 | 2022-07-07 |  |

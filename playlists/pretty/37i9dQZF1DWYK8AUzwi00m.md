@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,967 likes - 181 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,434 likes - 181 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

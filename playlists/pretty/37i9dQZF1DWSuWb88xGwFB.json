@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 22966,
+  "num_followers": 22980,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDkyMmU0ZWFhOThhOTg0ODIzY2Q5NmExZmU5NmU2Y2Y5",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMDM4NDhhYTY2YmU4NTVlZjA4ZTQ4MTYwMDU3YmQ2ZWU2",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428760,
-      "name": "Boy - MK Deep Dub",
-      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428760,
+      "name": "Boy - MK Deep Dub",
+      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
       },
@@ -923,18 +923,38 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+          "name": "Rageous",
+          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
+        },
+        {
+          "name": "Franklin Fuentes",
+          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
         }
       ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+      "duration_ms": 471692,
+      "name": "Tyler Moore Mary",
+      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -960,33 +980,13 @@
       },
       "artists": [
         {
-          "name": "Rageous",
-          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
-        },
-        {
-          "name": "Franklin Fuentes",
-          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 471692,
-      "name": "Tyler Moore Mary",
-      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing - Hard Metro Mix",
-      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Dancin' EP",
         "url": "https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 731746,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing - Hard Metro Mix",
+      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Carnival 93",
-        "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 374946,
-      "name": "Carnival 93 - The Mardi Gras Mix",
-      "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Jumpin' (feat. Chazzie)",
         "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Carnival 93",
+        "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 374946,
+      "name": "Carnival 93 - The Mardi Gras Mix",
+      "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
@@ -1167,38 +1167,6 @@
       "duration_ms": 518960,
       "name": "In Da Clouds - Da Dub",
       "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1235,6 +1203,38 @@
       "duration_ms": 372800,
       "name": "The Bombero Remix 96",
       "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
     },
     {
       "added_at": "2022-03-03 13:59:16",

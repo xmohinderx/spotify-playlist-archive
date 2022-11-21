@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-337 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+338 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [P.O.T.S.](https://open.spotify.com/track/49mskkvB3mNXFDKHlPNp3L) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [Ray Knowledge](https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [P.O.T.S.](https://open.spotify.com/album/7McEoAsjKWQ89yo6MXH4uT) | 2:59 | 2021-12-11 | 2022-07-24 |
 | [Pacquiao](https://open.spotify.com/track/6w2giz0ZG7fs9PHT4FP2i2) | [Byron Woo](https://open.spotify.com/artist/3ltBIKrWePfULwrHiestrL), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Pacquiao](https://open.spotify.com/album/4bnYCXnh7eqMCsUvnPweii) | 2:44 | 2021-12-11 | 2022-07-22 |
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2021-12-11 | 2022-11-19 |
-| [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 | 2022-03-25 |  |
+| [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 | 2022-03-25 | 2022-11-21 |
 | [Past That \(feat\. V.Rose\)](https://open.spotify.com/track/4RAZVw5hRhcbO9RSD68C89) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Less Is More](https://open.spotify.com/album/5o5sGCSVgd723x2SiAXnww) | 3:08 | 2021-12-11 | 2022-07-27 |
 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 | 2022-05-28 | 2022-11-19 |
 | [Pay Out](https://open.spotify.com/track/7wH3aM5pWg7QiozAwRO5hp) | [B\. Angelique](https://open.spotify.com/artist/28gxHJKsLyxwAvRkHTm8yI) | [Pay Out](https://open.spotify.com/album/7eRMYXd2B07kavtladxS5m) | 3:16 | 2021-12-11 | 2022-07-25 |
@@ -274,6 +274,7 @@
 | [Shots Fired](https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 3:47 | 2021-12-11 | 2022-05-17 |
 | [SIX THIRTY](https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w) | [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H) | [SIX THIRTY](https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV) | 3:42 | 2022-11-18 |  |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2022-11-18 |  |
+| [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 | 2022-11-18 |  |
 | [Solar System](https://open.spotify.com/track/1o09rPw5I0M9W9AD1z0Qoz) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Solar System](https://open.spotify.com/album/3xPjq2CgQ1pVPcopuTd7Z5) | 2:57 | 2022-03-19 | 2022-11-19 |
 | [Something From Nothing](https://open.spotify.com/track/6OqzXSEkrhN9glvMTatrqQ) | [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Imperial](https://open.spotify.com/artist/550b8T0chvvOkcIFueL0fx), [K.I.N.E.T.I.K.](https://open.spotify.com/artist/2IB45GdJtHBk5tARLa3lyg) | [Something From Nothing](https://open.spotify.com/album/18bBpxerZjAVZdxJjbl4lA) | 2:49 | 2022-03-25 | 2022-04-20 |
 | [Sometimes](https://open.spotify.com/track/1cmqxqiWgwqtsYxvoUn0Fp) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Sometimes](https://open.spotify.com/album/1AAi03LpzSCM7qGEvimhHw) | 3:13 | 2021-12-11 | 2022-07-29 |

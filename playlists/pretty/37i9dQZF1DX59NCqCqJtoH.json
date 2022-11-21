@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1014121,
+  "num_followers": 1013373,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE1OTI2ZTBmM2U0ZjNhYWUyNjQwNzEzNGNlY2E1NTUy",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE1NjUxYmI3MGVlNTdkNTFkMDdmY2QzYzQ3MDY1MWMw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "The Loser",
         "url": "https://open.spotify.com/album/77bm4AHldCf4STieStlVJg"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 200672,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 386200,
+      "name": "It's Not The Same Anymore",
+      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 386200,
-      "name": "It's Not The Same Anymore",
-      "url": "https://open.spotify.com/track/7vRia9rlEuTDQxkfXIKySi"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Brockhampton",
+      "url": "https://open.spotify.com/track/02YuLkTLNkOzKfl5Pmvs2S"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "minor",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Friends Don't Keep Secrets",
-        "url": "https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 130279,
-      "name": "Friends Don't Keep Secrets",
-      "url": "https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+        "name": "Friends Don't Keep Secrets",
+        "url": "https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+      "duration_ms": 130279,
+      "name": "Friends Don't Keep Secrets",
+      "url": "https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY"
     }
   ],
   "unique_name": "idk.",

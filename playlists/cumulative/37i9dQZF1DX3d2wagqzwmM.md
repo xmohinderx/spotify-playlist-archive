@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Maddix
 
-214 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+215 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Acid Soul](https://open.spotify.com/track/5nQmCDsgTXUx9AlhKJPfY5) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Acid Soul](https://open.spotify.com/album/53VfZ9loNDc0Y0jZ7Sn7iT) | 4:08 | 2022-04-14 | 2022-07-24 |
 | [Activating](https://open.spotify.com/track/0paBCCeeoquqN6sKrD3ocr) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Activating](https://open.spotify.com/album/7H8uxwCVQlJEaBMkwgGwde) | 2:43 | 2022-04-14 | 2022-07-31 |
 | [AIR](https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [AIR](https://open.spotify.com/album/3tYIMhkgftIuiTtdKpnySC) | 2:25 | 2022-04-14 | 2022-07-12 |
-| [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2022-04-14 |  |
+| [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2022-04-14 | 2022-11-21 |
 | [Andromeda](https://open.spotify.com/track/7i3uPLPnfPvssc3gvzIKdQ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Sammy Boyle](https://open.spotify.com/artist/5D59iWwWhVFmQqqVdfKkU6) | [Andromeda](https://open.spotify.com/album/6upKHQtrjGQpI6c8LN33G6) | 3:06 | 2022-04-21 | 2022-07-12 |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-22 |  |
 | [Apex](https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Apex](https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J) | 4:21 | 2022-07-07 |  |
@@ -146,6 +146,7 @@
 | [Paralyzed](https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Paralyzed](https://open.spotify.com/album/4zulq5cIRvTXUZRsaFXdlz) | 3:01 | 2022-04-14 | 2022-09-16 |
 | [Peru](https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/76fUJrrJWxbtURfKeTHbVV) | 2:27 | 2022-04-14 | 2022-07-04 |
 | [Peru](https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI) | 2:27 | 2022-07-28 | 2022-09-30 |
+| [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-18 |  |
 | [PYDNA](https://open.spotify.com/track/4Mx6HSutoU1rg1jCvc5kuF) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [The Lost DNA Vol\. 1](https://open.spotify.com/album/2if1uyAoRxb02j6nCuyTzp) | 4:22 | 2022-04-14 | 2022-07-29 |
 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 | 2022-04-14 |  |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2022-04-14 |  |

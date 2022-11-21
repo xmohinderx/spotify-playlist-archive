@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 85613,
+  "num_followers": 85734,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDYzNywwMDAwMDAwMDg5YzZkNTBhYTFjY2IxY2NiY2JjZmE2ZGM3MzU2NTVl",
+  "snapshot_id": "MTY2ODU2MDYzNywwMDAwMDAwMGY0YjA3Y2Y1Y2YzM2UzMTQ1NTM4MjViZWQ4M2IxZGE0",
   "tracks": [
     {
       "added_at": "2022-11-16 01:03:57",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-11-16 01:03:57",
       "album": {
-        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 238965,
-      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
-      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2022-11-16 01:03:57",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2022-11-16 01:03:57",
+      "album": {
+        "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+        "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 238965,
+      "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
+      "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
     },
     {
       "added_at": "2022-11-16 01:03:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-16 01:03:57",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 211597,
-      "name": "Lay",
-      "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
-    },
-    {
-      "added_at": "2022-11-16 01:03:57",
-      "album": {
         "name": "sounds of so(u)litude",
         "url": "https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "added_at": "2022-11-16 01:03:57",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 211597,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
     },
     {
       "added_at": "2022-11-16 01:03:57",

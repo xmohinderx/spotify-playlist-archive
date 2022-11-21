@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Pharrell, Pinkpantheress, Roddy Ricch, Don Toliver, Fana Hues, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,782 likes - 98 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,900 likes - 98 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 82 | [Friend Zone](https://open.spotify.com/track/0oeUZMYfI06i4OXVUXBJwv) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:41 |
 | 83 | [Crazy For Me](https://open.spotify.com/track/4OqgkBBSULrKnIeQQAxU9i) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:14 |
 | 84 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
-| 85 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 |
+| 85 | [They Want It, But No](https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
 | 86 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
 | 87 | [MUDPIES \- Live on MajorStage](https://open.spotify.com/track/1dQwILrc52hfyf7Mp1w1nK) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [MUDPIES \(Live on MajorStage\)](https://open.spotify.com/album/70BBg9e4HYTBLe0Uz1eGXb) | 1:57 |
 | 88 | [Safe](https://open.spotify.com/track/6SXP4Hu4xRTj3gkcUOADfe) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [Private Suite 4: The Mixtape](https://open.spotify.com/album/3pizVvi3ZP6mzletymu6WS) | 3:40 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 97 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 98 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU2ZDhlYjljOWM2ZGI0NDA2OTljODE2NWU0NjA1MThl`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGUyZjg4MDlmYTdjZDY0NDM0Y2FmMjU4NDdjNzI1OWM1`

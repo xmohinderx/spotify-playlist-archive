@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 51618,
+  "num_followers": 51581,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMGYxZjNkZDdmYmY1OTZmZGNiN2UxYmIzMzMyNDBmMTFi",
+  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMDJhYzQ4MTQ3NzNlYjA2NzBkMWI5NGRiZjhlZWE0MzQy",
   "tracks": [
     {
       "added_at": "2022-11-08 17:27:16",
@@ -671,38 +671,6 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
-        "name": "Nayutan Sei Kara No Buttai Y",
-        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
-      },
-      "artists": [
-        {
-          "name": "Nayutalien",
-          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Alien Alien",
-      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "God sees all",
-        "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
-      },
-      "artists": [
-        {
-          "name": "Ethyria",
-          "url": "https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "God sees all",
-      "url": "https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
         "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
+        "name": "Nayutan Sei Kara No Buttai Y",
+        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
+      },
+      "artists": [
+        {
+          "name": "Nayutalien",
+          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Alien Alien",
+      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
         "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
       },
@@ -735,6 +719,54 @@
       "duration_ms": 192440,
       "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
       "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "God sees all",
+        "url": "https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU"
+      },
+      "artists": [
+        {
+          "name": "Ethyria",
+          "url": "https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "God sees all",
+      "url": "https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
+        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
+      },
+      "artists": [
+        {
+          "name": "n-buna",
+          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
+      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -759,38 +791,6 @@
       "duration_ms": 173333,
       "name": "\u30c7\u30b9\u307a\u30ec\u30fc\u30c8",
       "url": "https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
-        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
-      },
-      "artists": [
-        {
-          "name": "n-buna",
-          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
-      "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
     },
     {
       "added_at": "2022-11-08 17:27:16",

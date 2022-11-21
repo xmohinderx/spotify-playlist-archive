@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Kizz Daniel
 
-257 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+258 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A.T.B \#Oshey2](https://open.spotify.com/track/3PipixuHQ5zVlgmHC4pURa) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [A.T.B \#Oshey2](https://open.spotify.com/album/5HRmi5GVHKbnQg4AYyO2He) | 3:00 | 2022-09-29 | 2022-11-11 |
 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 | 2021-12-27 | 2022-02-25 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-04 | 2022-11-11 |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-17 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-17 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-17 | 2022-11-21 |
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-03-24 | 2022-06-03 |
 | [Ambassadeur \- Animateur: Brigade](https://open.spotify.com/track/0pRy6ApihIMSkpjnaXA4sA) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 4:00 | 2022-07-07 | 2022-08-19 |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-01-13 | 2022-05-20 |

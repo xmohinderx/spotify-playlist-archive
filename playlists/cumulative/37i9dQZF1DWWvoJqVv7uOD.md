@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: P!nk
 
-314 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+315 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-06-10 | 2022-06-25 |
 | [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-10 | 2022-08-06 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-20 |  |
-| [Devil in a Dress](https://open.spotify.com/track/0zfMZJZNxoER4XroNWn9nA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Devil in a Dress](https://open.spotify.com/album/31fkCinqLPXkUfZKyp4rtW) | 2:55 | 2022-10-28 |  |
+| [Devil in a Dress](https://open.spotify.com/track/0zfMZJZNxoER4XroNWn9nA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Devil in a Dress](https://open.spotify.com/album/31fkCinqLPXkUfZKyp4rtW) | 2:55 | 2022-10-28 | 2022-11-21 |
+| [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 | 2022-11-18 |  |
 | [Dizzy](https://open.spotify.com/track/1nosxRR4SgRdgqjDdKXYH5) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Dizzy](https://open.spotify.com/album/4MFH523922WoxgMJl5E5Qv) | 3:04 | 2022-10-14 | 2022-11-19 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2022-02-04 | 2022-09-28 |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-11 | 2022-04-02 |

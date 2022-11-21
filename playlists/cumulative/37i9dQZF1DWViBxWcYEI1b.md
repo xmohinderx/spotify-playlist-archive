@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Shania Twain
 
-479 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
+480 songs - 1 day 2 hr 53 min - [published](https://open.spotify.com/playlist/3C1K5LpRz1NNeHvy2kRwbA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [happy stuff](https://open.spotify.com/track/1C7eURT2UroBgmOEAX2eiR) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [happy stuff](https://open.spotify.com/album/7myEihXeFfL1dv63LDaJoF) | 2:42 | 2022-08-26 | 2022-10-08 |
 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 | 2022-03-25 | 2022-08-13 |
 | [Hard Feelings](https://open.spotify.com/track/7juiva3TJwb9VmCxt17MSd) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Hard Feelings](https://open.spotify.com/album/6Qu6frqdt6vgg7PLvbV9bT) | 3:19 | 2022-02-25 | 2022-03-26 |
-| [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 | 2022-11-18 |  |
+| [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 | 2022-11-18 | 2022-11-21 |
+| [Hard to Love](https://open.spotify.com/track/4Xy5IUkDArWcbJZBJpvaJQ) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Hard to Love](https://open.spotify.com/album/0VMB9RGgCxODY6Ezx0Uc2D) | 3:39 | 2022-11-18 |  |
 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 | 2022-09-23 | 2022-11-19 |
 | [Hawaï](https://open.spotify.com/track/384bcP4iK4dp3t6DgYMZ5w) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Hawaï](https://open.spotify.com/album/70IfXW69NPF1thdjzoEuSp) | 3:03 | 2021-12-17 | 2022-07-30 |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-09-30 |  |

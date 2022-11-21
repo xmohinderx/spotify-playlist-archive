@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,346 likes - 101 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,395 likes - 101 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 9 | [Today](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Today](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 10 | [Pages](https://open.spotify.com/track/6j6OD4QQ2jRuvss0ssZSOK) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Pages](https://open.spotify.com/album/7jMiaQZa1FqzmQcj91JStf) | 2:34 |
 | 11 | [Waking Up in Los Angeles](https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Waking Up in Los Angeles](https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5) | 4:01 |
-| 12 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
+| 12 | [Getting It Right](https://open.spotify.com/track/7zNFIqmdezDsHbvyQz86Gd) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 2:50 |
 | 13 | [Rubberband Man](https://open.spotify.com/track/7Aj4lvqrOA29OVHLnTlRwQ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 2:30 |
 | 14 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
 | 15 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 18 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
 | 19 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 |
 | 20 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 |
-| 21 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 |
+| 21 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 5:37 |
 | 22 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 23 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
 | 24 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 100 | [Friends I Barely Know](https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 2:59 |
 | 101 | [Playground](https://open.spotify.com/track/5zuOIckVgtIj4azwZ8OQrO) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 4:09 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU4OWEwNDcxMDk4ZmY4Mjk5OGE2N2RjMjNmYWY3NzMx`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDA2ODQ1NDIxZWUxOGU0MzM4ZGY5MTg5YWM4YjM5OWZi`

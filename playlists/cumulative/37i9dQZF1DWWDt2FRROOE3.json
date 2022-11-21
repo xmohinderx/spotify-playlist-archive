@@ -334,6 +334,24 @@
     },
     {
       "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268203,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX"
+    },
+    {
+      "album": {
         "name": "Don't Stop Believin'",
         "url": "https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s"
       },
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 192947,
       "name": "Guardia Millenial Fair (from \"Chrono Trigger\")",
       "url": "https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx"

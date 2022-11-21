@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Saweetie
 
-232 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+233 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-09 |  |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2022-11-18 |  |
 | [Freaky Dancer \(feat\. Trina\)](https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Break The Bank](https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv) | 3:03 | 2021-10-15 | 2022-02-12 |
+| [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-11-20 |  |
 | [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 | 2022-06-22 |
 | [Gas Station](https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Gas Station](https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1) | 2:15 | 2022-04-22 | 2022-06-04 |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-02-04 | 2022-06-18 |

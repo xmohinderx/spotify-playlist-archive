@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Manuel Medrano, Rawayana",
-  "num_followers": 1211108,
+  "num_followers": 1211181,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGZiMTM3OTRhY2E5ZWZlODY0ODE0YTZmYzg2NTIzODcz",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGE3NjAzZDljMGU0MzBhY2NlYWNhOTRkYTJmNTNhYTQ5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Dance Forever",
-        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 157427,
-      "name": "Dance Forever",
-      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
+      "duration_ms": 196071,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -939,34 +939,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
+        "name": "Dance Forever",
+        "url": "https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 194981,
-      "name": "Ay, Ay",
-      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+      "duration_ms": 157427,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -983,22 +967,6 @@
       "duration_ms": 216421,
       "name": "Buenos Dias Beb\u00e9",
       "url": "https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1027,6 +995,38 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Un Lustro Inyectando Ruido Positivo",
         "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 390173,
       "name": "Juego a Muerte",
       "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 206328,
+      "name": "Lo M\u00e1s Sincero",
+      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "El Playlist de Anoche",
-        "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Marea",
-      "url": "https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Calamaro Querido!! Cantando Al Salm\u00f3n Parte 1",
         "url": "https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 246600,
       "name": "A Los Ojos",
       "url": "https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "El Playlist de Anoche",
+        "url": "https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 195348,
       "name": "Mucha Experiencia - Su Reggaeton Mix",
       "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "YO",
-        "url": "https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 206328,
-      "name": "Lo M\u00e1s Sincero",
-      "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 251878,
-      "name": "Puedo esperarte",
-      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "\u00daltimos D\u00edas",
         "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 319933,
       "name": "\u00daltimos D\u00edas",
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 251878,
+      "name": "Puedo esperarte",
+      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 307856,
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Moreno",
         "url": "https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 258709,
       "name": "Moreno",
       "url": "https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal)",
-      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "No me quieras mal (feat. Green Valley)",
         "url": "https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 246480,
       "name": "No me quieras mal (feat. Green Valley)",
       "url": "https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2022-11-18 05:01:00",

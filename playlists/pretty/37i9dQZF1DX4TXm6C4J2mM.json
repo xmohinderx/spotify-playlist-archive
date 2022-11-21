@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156935,
+  "num_followers": 156929,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGJkZjBjMzk2ZjcyNWE2YTVlNmRjYjljYzJmOTk3ZDkw",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDcwYTM4MmE5ZmZjYzI3NTZjZGNjZjI0NWUxYmY4MjUx",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "I Follow Rivers",
         "url": "https://open.spotify.com/album/1XMOxf7pF5UK8Rys9SFaBz"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 150720,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/4T8Cx2olPLZP4JgWNN4v1A"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -843,8 +843,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
       },
       "artists": [
         {
@@ -852,13 +852,13 @@
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "No One Dies From Love (220 KID Remix)",
+        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "No One Dies From Love (220 KID Remix)",
+      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Taste",
         "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
       },
@@ -1039,28 +1059,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "No One Dies From Love (220 KID Remix)",
-        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "No One Dies From Love (220 KID Remix)",
-      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
       "artists": [
         {
@@ -1068,13 +1068,37 @@
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Family (Remixes)",
+        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Family - Frank Walker Remix",
+      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1115,30 +1139,6 @@
       "duration_ms": 125878,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Family (Remixes)",
-        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Family - Frank Walker Remix",
-      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 192397,
       "name": "If You're Looking for Trouble",
       "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-11-10 23:00:00",

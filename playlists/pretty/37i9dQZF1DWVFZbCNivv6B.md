@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Gera MX, Jayrick y Rich Vagos
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,875 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,178 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 9 | [Cadillac](https://open.spotify.com/track/70bOqTO6mtFAA18poj18qX) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Zarri](https://open.spotify.com/artist/3hBAWXu5mM5rQ4aQ8ntnn5), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj) | [Rich Vagos Mixtape, Vol\. 2](https://open.spotify.com/album/2kGTwHezbLOPc7wK5YLVL7) | 3:30 |
 | 10 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 |
 | 11 | [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 |
-| 12 | [Pantera](https://open.spotify.com/track/75qifOPkcKBXt5lqGiQLCI) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:49 |
+| 12 | [Pantera](https://open.spotify.com/track/0JAxf6vf8Lppihm55k13zv) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:49 |
 | 13 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
 | 14 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 |
-| 15 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/6qBYHKN99lH5cZBHbfju1q) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:44 |
+| 15 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/02dF3qjpgTpmPCBKo72C06) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:44 |
 | 16 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 |
 | 17 | [Bombas](https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Bombas](https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV) | 4:05 |
 | 18 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 98 | [Música Mexa](https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Música Mexa](https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx) | 3:14 |
 | 99 | [VIDATOPTEN](https://open.spotify.com/track/5H107hSe3BMZQfynnfFl5f) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [VIDATOPTEN](https://open.spotify.com/album/5OoQ4wYOcKyn16hefC3Jtz) | 2:37 |
 
-Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDExMWU1OGRhZTJjNDYzZDg2ZmYyMGFiN2YwMDZlZGY2`
+Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDE5NjE0NzA4YmQ3MGY3NWM1NWU2MDJhZmVhMWI3MmQ1`

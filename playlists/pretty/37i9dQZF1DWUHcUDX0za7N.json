@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
-  "num_followers": 12026,
+  "num_followers": 12041,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMGU5ODIyMDFmMWJmZDFhZmE1YzExZGUyZTE0MjY2M2Y5",
+  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMGE3OTEwNDdiOTJjMTA1YzFhZDYyZDI3YmM4MThlNjNk",
   "tracks": [
     {
       "added_at": "2022-10-07 00:35:02",
@@ -173,24 +173,24 @@
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
-      "added_at": "2022-11-04 08:02:42",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1NuHrhcA3S9EygdCouQrvL"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2022-11-18 11:40:22",
@@ -307,22 +307,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2022-10-28 12:56:05",
@@ -439,22 +439,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
       "artists": [
         {
           "name": "LADIPOE",
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -495,6 +491,26 @@
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
+      "added_at": "2022-11-04 08:02:42",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -557,26 +573,6 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
-    },
-    {
       "added_at": "2022-09-30 06:35:17",
       "album": {
         "name": "Palmwine Music 3",
@@ -599,18 +595,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+      "duration_ms": 199322,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -643,6 +643,26 @@
       "duration_ms": 158630,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6qFHXH6EmEjL5t56fDNN73"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -719,26 +739,6 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -827,34 +827,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "MIDLIFE CRISIS / WYDTM",
         "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
@@ -905,6 +877,34 @@
       "url": "https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
       "added_at": "2022-06-20 11:35:16",
       "album": {
         "name": "BILLION DOLLAR DREAM",
@@ -939,22 +939,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "All I Please",
-        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "Wale Turner",
-          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 155000,
-      "name": "All I Please",
-      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Cram",
-        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 174658,
-      "name": "Cram",
-      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Omo X 100",
         "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
       },
@@ -1013,6 +997,42 @@
       "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+      },
+      "artists": [
+        {
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Cram",
+        "url": "https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 174658,
+      "name": "Cram",
+      "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Moving Mad",
@@ -1027,26 +1047,6 @@
       "duration_ms": 142894,
       "name": "Moving Mad",
       "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2022-06-09 23:00:00",

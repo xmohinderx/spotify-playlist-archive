@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,652 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,646 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 20 | [Ismart Title Song](https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:12 |
 | 21 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil, Sameera Bharadwaj](https://open.spotify.com/artist/2p90GSbbnImJrBEdsnYvuM) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 |
 | 22 | [Pedda Puli](https://open.spotify.com/track/4PYJiAIsR6JlgGZbhXPPK1) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chal Mohan Ranga](https://open.spotify.com/album/3c1DvyiyWk9a7v4or97bWW) | 3:51 |
-| 23 | [Time To Party](https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu) | [David Simon\|Malgadi Subha](https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:29 |
-| 24 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
+| 23 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
+| 24 | [Time To Party](https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu) | [David Simon\|Malgadi Subha](https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:29 |
 | 25 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
 | 26 | [Box Badhalai Poyi](https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 3:33 |
 | 27 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 |
 | 28 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 |
 | 29 | [Mind Block](https://open.spotify.com/track/4q4PNCWRo90nUTILn6Y048) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 4:24 |
-| 30 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 |
-| 31 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
+| 30 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
+| 31 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 |
 | 32 | [Cheppave Balamani](https://open.spotify.com/track/4jJXYkcTUndETrRYanXOQX) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:31 |
 | 33 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 |
 | 34 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 | 67 | [Miami \- Ma Ma Ma Ma Mia](https://open.spotify.com/track/4BfdCnlFZ8sSSL21Sho1yf) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Th8ogCMASbR8eJ9xL3ekG) | 3:38 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGMxOGUzZmVkYTk0ODgyYWRiNGMyZGQ3OWEwNzYzNGMx`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDIwYTI4NWU3ODI0YWQ3YTMxM2FkZDdmMjBiZWYzNzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,611 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,574 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 41 | [Come Back](https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R) | 4:37 |
 | 42 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 43 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
-| 44 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
-| 45 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
+| 44 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
+| 45 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 | 46 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
 | 47 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
 | 48 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 |
 | 60 | [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDAxZjY4YTcwZDA0ODc2ZWVlN2Y3Zjg2N2NiZDNhMDBk`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGYwZWRjZjkxMTkyZDAyNWE1Y2QwMTNmZTc4ZDA0NDBl`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142198,
+  "num_followers": 2142222,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGRiYjUwODFlODQ1NWU5MGYzZTgzMWYwYTFiMTYzYWFk",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYxNDNjNDVlYjkyMzVkNjdkNzk1ZWYwY2YxYjZkZWUy",
   "tracks": [
     {
       "added_at": "2022-06-08 21:04:07",
@@ -243,38 +243,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "Pharmakon",
         "url": "https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/1oqnATF6AFH93dCBrDqBTP"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "NUDES",
         "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 235871,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 236853,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "After a Time",
-        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
-      },
-      "artists": [
-        {
-          "name": "Holly Throsby",
-          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
+        "name": "After a Time",
+        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
+      },
+      "artists": [
+        {
+          "name": "Holly Throsby",
+          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+      "duration_ms": 211688,
+      "name": "Echo (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2099,22 +2115,6 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Every Shade of Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Hurts (But It Goes Away) - Acoustic",
-      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
-    },
-    {
       "added_at": "2022-06-08 21:04:07",
       "album": {
         "name": "Waysides",
@@ -2295,6 +2279,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Every Shade of Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Hurts (But It Goes Away) - Acoustic",
+      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
+        "name": "Nervous At Night",
+        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Planet With Water",
+      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2022-06-08 21:04:07",
+      "album": {
         "name": "On Board",
         "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 199333,
       "name": "Glass",
       "url": "https://open.spotify.com/track/67n7BReUXzA0A499f2wEoh"
-    },
-    {
-      "added_at": "2022-06-08 21:04:07",
-      "album": {
-        "name": "Nervous At Night",
-        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Planet With Water",
-      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2619,18 +2619,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Hold Fast",
-        "url": "https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF"
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
       "artists": [
         {
-          "name": "Fortunate Ones",
-          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 167164,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t"
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2022-06-08 21:04:07",
@@ -2651,18 +2651,18 @@
     {
       "added_at": "2022-06-08 21:04:07",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+        "name": "Hold Fast",
+        "url": "https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF"
       },
       "artists": [
         {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+          "name": "Fortunate Ones",
+          "url": "https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L"
         }
       ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+      "duration_ms": 167164,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t"
     }
   ],
   "unique_name": "Infinite Acoustic",

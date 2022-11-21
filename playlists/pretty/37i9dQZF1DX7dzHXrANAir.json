@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 73695,
+  "num_followers": 73794,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMGY3OGJiYjBlYTkxMWJkMGU5YTdkMWZmY2M2YmJkYzYz",
+  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMGY5N2M1ODc2ODZjY2JmYTRiMDkxZDVkMDcwNGFhZDc3",
   "tracks": [
     {
       "added_at": "2022-11-18 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 235563,
       "name": "G-Minor",
       "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -547,18 +563,26 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+        "name": "Circle 26 (Tom Ashbrook Rework)",
+        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
       "artists": [
         {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+      "duration_ms": 220000,
+      "name": "Circle 26 - Tom Ashbrook Rework",
+      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -651,50 +675,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        }
-      ],
-      "duration_ms": 133335,
-      "name": "Nos - C.B. Rework",
-      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Circle 26 (Tom Ashbrook Rework)",
-        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Circle 26 - Tom Ashbrook Rework",
-      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "duration_ms": 133335,
+      "name": "Nos - C.B. Rework",
+      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
+      },
+      "artists": [
+        {
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Post-Svalbard",
         "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 270874,
       "name": "Season Shifting - Robert Lippok Rework",
       "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
         "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 243431,
       "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
       "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Star of the County Down (Ambient Mix)",
-        "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
-      },
-      "artists": [
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        }
-      ],
-      "duration_ms": 340023,
-      "name": "Star of the County Down - Ambient Mix",
-      "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Round",
         "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+        "name": "Star of the County Down (Ambient Mix)",
+        "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
       },
       "artists": [
         {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
         }
       ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+      "duration_ms": 340023,
+      "name": "Star of the County Down - Ambient Mix",
+      "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 151695,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Building Blocks, Pt. 5",
+        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 280818,
+      "name": "The Cheek of Daniel",
+      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Rose In Abstract (Portico Quartet Remix)",
         "url": "https://open.spotify.com/album/13Hiad2UiJ7yU9oxvN8A6E"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 301299,
       "name": "Rose in Abstract - Portico Quartet Remix",
       "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Building Blocks, Pt. 5",
-        "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 280818,
-      "name": "The Cheek of Daniel",
-      "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/1haQIg0VfdYNGMLVsplGzo"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Du Nord",
         "url": "https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 197041,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Sleepless Wake",
-        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 222187,
-      "name": "Sleepless Wake",
-      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1375,6 +1375,22 @@
       "duration_ms": 199106,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Solitudes, Vol. II",
-        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Pavane (Sam Thompson Rework)",
         "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 323693,
       "name": "Pavane - Sam Thompson Rework",
       "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Solitudes, Vol. II",
+        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1547,26 +1563,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Appearing",
-        "url": "https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai"
-      },
-      "artists": [
-        {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
-        },
-        {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
-        }
-      ],
-      "duration_ms": 234181,
-      "name": "Appearing",
-      "url": "https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt"
     },
     {
       "added_at": "2022-11-18 04:00:00",

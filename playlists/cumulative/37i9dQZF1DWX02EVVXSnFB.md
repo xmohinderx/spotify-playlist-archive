@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-57 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
+58 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 | 2022-03-23 |  |
 | [Controversy](https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 7:15 | 2022-03-23 | 2022-11-13 |
 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 | 2022-03-23 |  |
-| [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 | 2022-03-23 |  |
+| [Dance](https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/7q65VftPY7x1F8bHHnKvvw) | 2:45 | 2022-03-23 | 2022-11-21 |
+| [Dance](https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Bad Decisions](https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU) | 2:45 | 2022-03-23 |  |
 | [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-03-23 | 2022-10-13 |
 | [Dance, Dance, Dance \(Disco Version\)](https://open.spotify.com/track/6chkDKDiskOeKnctKVO5GK) | [Marta Acuna](https://open.spotify.com/artist/3GfLu9GKQxKZCzKLy1Dggn) | [Dance, Dance, Dance](https://open.spotify.com/album/3DWpUoxqqPH6DWr1ToXyZb) | 6:15 | 2022-03-23 |  |
 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 | 2022-03-23 |  |

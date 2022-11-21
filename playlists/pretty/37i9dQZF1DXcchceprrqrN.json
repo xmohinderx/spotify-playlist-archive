@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 10119,
+  "num_followers": 10278,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExODk3NSwwMDAwMDAwMDVkZjM0OTM2NTA0OTA2Y2RkOTllYmVmNWE2ZGVhOTc1",
+  "snapshot_id": "MTY2ODExODk3NSwwMDAwMDAwMDMwZTU4YzExM2NkOWIwZDI0YmYwYTFiNDAzMzMwNjM0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:01:00",
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
-      "added_at": "2022-11-20 01:45:38",
+      "added_at": "2022-11-21 01:45:12",
       "album": {
         "name": "God Is a Circle",
         "url": "https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr"
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-11-04 04:01:00",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "WHY?",
-      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
-    },
-    {
-      "added_at": "2022-11-04 04:01:00",
-      "album": {
         "name": "The Dream Is Over",
         "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+    },
+    {
+      "added_at": "2022-11-04 04:01:00",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "WHY?",
+      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
     },
     {
       "added_at": "2022-11-04 04:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-04 04:01:00",
       "album": {
-        "name": "i gave you everything",
-        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "i gave you everything",
-      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
-    },
-    {
-      "added_at": "2022-11-04 04:01:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 195129,
       "name": "Control",
       "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
+    },
+    {
+      "added_at": "2022-11-04 04:01:00",
+      "album": {
+        "name": "i gave you everything",
+        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "i gave you everything",
+      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
     },
     {
       "added_at": "2022-11-04 04:01:00",

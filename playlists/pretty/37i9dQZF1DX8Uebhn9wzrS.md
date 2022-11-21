@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,601 likes - 500 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,361 likes - 500 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -341,7 +341,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 331 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 |
 | 332 | [Thoughts](https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn) | [Touri Fjell](https://open.spotify.com/artist/6WjVgq5WhsDumuVhwfKf5I) | [Thoughts](https://open.spotify.com/album/0uJfLdYRrEz5FSeyyNulr9) | 3:10 |
 | 333 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 |
-| 334 | [Pause](https://open.spotify.com/track/05bI7557weXFfEn8FpBwro) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Pause](https://open.spotify.com/album/3mKSbWw8zwzEdt70KXErt8) | 2:51 |
+| 334 | [Pause](https://open.spotify.com/track/2c8mKS0Z9MubqpUoaZtqr4) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Pause](https://open.spotify.com/album/2JofeF8vMLWg3YgQGFBve6) | 2:51 |
 | 335 | [Chilling At The Coast](https://open.spotify.com/track/0ssJ7IIxKQlYmdzHaBB0J7) | [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chilling At The Coast](https://open.spotify.com/album/3WW5usDqUd1x29TKAy2iqN) | 1:36 |
 | 336 | [Thoughts](https://open.spotify.com/track/5A9BhOGp4Xz71QwcXRpef3) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q) | [Thoughts](https://open.spotify.com/album/5RwYUk1Uh68n1DkauBHmQf) | 2:54 |
 | 337 | [Jazzalottie](https://open.spotify.com/track/0T4eUCl7GlOJ4rqWNUzzkg) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [Jazzalottie](https://open.spotify.com/album/6hX5IDYWMivRsR8M3kxcAG) | 2:17 |
@@ -423,7 +423,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 413 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 |
 | 414 | [Mountain Water](https://open.spotify.com/track/0GqJGdlacAbvaUtbpipjhR) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Mountain Water](https://open.spotify.com/album/52oZ8ucoGPRRXyY4DkExjN) | 2:06 |
 | 415 | [Cherry Blossom](https://open.spotify.com/track/0PYvyl7o3xjX4BoMIvvHrt) | [Fugee](https://open.spotify.com/artist/6xtxoTYp3AgomC2pfUKl8Q), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Cherry Blossom](https://open.spotify.com/album/7u8fyh894I12BFILdUfXer) | 2:23 |
-| 416 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 |
+| 416 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 |
 | 417 | [Imagination](https://open.spotify.com/track/4Iep4ODqp0YyxZq95DFGHB) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Imagination](https://open.spotify.com/album/0wbZQsx17Lg2TCUjDAubdl) | 2:35 |
 | 418 | [Back Home](https://open.spotify.com/track/2GbELlWlvhm2IEvRyoH8FS) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Back Home](https://open.spotify.com/album/1XwMtzegfQ6YYoCZBPj62q) | 2:07 |
 | 419 | [Rejuvenate](https://open.spotify.com/track/4BEVExjV8CkKaoZezJ3GVU) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Rejuvenate](https://open.spotify.com/album/7mjanGQFxpfcUr0Aw80jMx) | 2:15 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 |
 | 500 | [Slow Gaze](https://open.spotify.com/track/5JNtPcB3X3tAsvV8dgRVC4) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Slow Gaze](https://open.spotify.com/album/3gE84IEeTCcjLlCPhBEyD2) | 2:27 |
 
-Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMDNkMjVjNDdjZDYzZjMwZjhlYTBhYzQxYjBhOGRiOTE0`
+Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMDk1OGNlOTFkYjQxN2RhNTJiZmE2N2Y2MGE5YjEyMDM1`

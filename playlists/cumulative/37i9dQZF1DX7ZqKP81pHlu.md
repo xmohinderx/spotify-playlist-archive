@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-94 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+96 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Balek](https://open.spotify.com/track/6y6ogtH99BJiEiBlEIY77A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Balek](https://open.spotify.com/album/4De1zo3rJdvKQ0XAUndtOe) | 3:41 | 2022-01-01 |  |
 | [Bebe D’amour](https://open.spotify.com/track/4VCPpdyziKXmBAgi25Ud0P) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Bebe D’amour](https://open.spotify.com/album/1iae8kQ4cp3lgl70jd5CUS) | 3:39 | 2021-12-09 | 2022-10-26 |
 | [Bent Sultan](https://open.spotify.com/track/5XvzmPFcVRlfdlCw3KK2Jb) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Bent Sultan](https://open.spotify.com/album/2pQbg9uIkWzsUFeNxNU2nI) | 3:57 | 2021-12-09 |  |
+| [Bladi hiya el Djazair](https://open.spotify.com/track/4n0UiHNnwkgwQ8kCGRUJEH) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Algeria to Brazil \(22 titres originaux\)](https://open.spotify.com/album/1vQe7TMzcH64RJXN4DuxeN) | 3:24 | 2022-11-20 |  |
 | [Bondia](https://open.spotify.com/track/5fu9Sc4DNuvQMWo5BxmgKH) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:59 | 2022-11-03 |  |
 | [Caravan To Baghdad](https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Amine tefaha](https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L), [Arslane Bouras](https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm) | [Caravan To Baghdad](https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC) | 2:58 | 2022-05-19 |  |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-09 | 2022-08-23 |
@@ -99,6 +100,7 @@
 | [Yaba \- Radio Edit](https://open.spotify.com/track/2rGB8lhemhyqt9iGh6ywqE) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Yaba \(Radio Edit\)](https://open.spotify.com/album/0TNsKfKeDyinPTmywsMk4H) | 2:59 | 2022-01-13 |  |
 | [Yep](https://open.spotify.com/track/6pFRcvL8oX5duShyl6PHYO) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Yep](https://open.spotify.com/album/1PocOFwDgl4w4i6VOuUOP3) | 3:29 | 2021-12-09 | 2022-03-10 |
 | [Yumi](https://open.spotify.com/track/5xhz6CQejKPhHPZc5Qtw2l) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Viviane Mrad](https://open.spotify.com/artist/1t1XemHRUnIGM5kjy4BX93) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:30 | 2021-12-09 | 2022-04-22 |
+| [Zeina](https://open.spotify.com/track/7j8C1cQSHpdX8hZ4shZDno) | [Djamel Laroussi](https://open.spotify.com/artist/6MjFd7ByRlJPIWfA257iqr) | [3 Marabouts](https://open.spotify.com/album/6YQxqvdU4ytphfJKkrxFhh) | 4:21 | 2022-11-20 |  |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-12-09 |  |
 | [Zo3ama](https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED) | [Catani](https://open.spotify.com/artist/3EAwGrrl1XMcypPptaKLUs) | [Zo3ama](https://open.spotify.com/album/3vMTLVSza1gHcK1khw9ioc) | 3:59 | 2021-12-09 | 2022-08-06 |
 | [Ça fait des années](https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Ca fait des années](https://open.spotify.com/album/0yp3ImaA7EvBSJQBLj19lr) | 3:55 | 2021-12-09 | 2022-07-19 |

@@ -4,7 +4,7 @@
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: WizKid
 
-232 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
+233 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-12-17 | 2022-02-12 |
 | [23](https://open.spotify.com/track/7L8zGKqHF7IPjpMgXd3s83) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [23](https://open.spotify.com/album/6wSipi0TDJMk8YDnFXecGX) | 2:15 | 2022-09-09 |  |
 | [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-05-27 | 2022-07-29 |
-| [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 | 2022-07-01 |  |
+| [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 | 2022-07-01 | 2022-11-21 |
+| [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/5shQWg4uYedbUEoqnwG5ds) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:47 | 2022-07-01 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-08-06 |
 | [Addicted \(feat\. Lil Baby\)](https://open.spotify.com/track/3Mr7AWHQj2ZUfMwNWq59MK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:38 | 2022-07-08 | 2022-08-20 |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-09-23 |  |

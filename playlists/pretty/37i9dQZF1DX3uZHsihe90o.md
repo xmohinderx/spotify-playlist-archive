@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,637 likes - 70 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,613 likes - 70 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 20 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
 | 21 | [When The Saints Go Marching In](https://open.spotify.com/track/30GOP0aVgbqy1tJw3YmjR3) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:34 |
 | 22 | [Hello](https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:37 |
-| 23 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
+| 23 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
 | 24 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 25 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
+| 25 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
 | 26 | [The Bullfrog Opera](https://open.spotify.com/track/40jZFJBVYMzxdEpMptacUM) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:01 |
 | 27 | [Kind Words](https://open.spotify.com/track/5ivT7uNynzs2VJomWxlnMu) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 4:03 |
 | 28 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 30 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
 | 31 | [Hope Machine](https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:48 |
 | 32 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
-| 33 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
-| 34 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 33 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 34 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
 | 35 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 36 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 |
 | 37 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 |
 | 70 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGMwYjFjZjQ0NDY1YmQzZjA0MDRmZTMyMWQ2ZDI2MDAw`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGQ5OTg5MWFhNGQ3ZWYwNjg5ODRjZTE0N2QwNzEyMDc1`

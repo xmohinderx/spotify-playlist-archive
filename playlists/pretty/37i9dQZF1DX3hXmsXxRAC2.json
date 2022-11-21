@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 306445,
+  "num_followers": 306434,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDM2MzhmNjI2MTEzMWJlNzQ1NzRiYzI2ZTMzOWMwMWIz",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDQ5NjBlOTQyMTFhZWMxM2YyYTAzNTMyZTg1YjdmNDZm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "He Venido a Pedirte Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 246520,
       "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "He Venido a Pedirte Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
     },
     {
       "added_at": "2021-12-29 23:38:25",

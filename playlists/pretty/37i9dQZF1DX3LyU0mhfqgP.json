@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: Muna",
-  "num_followers": 815496,
+  "num_followers": 815373,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGRlYzJmM2E1NzQ5MGFkNjAyNTgwNzM5Y2VhMzBmODZj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDEzZDI5MTcxY2JlZTYwYzY3OWUwY2VjYTlhY2Q5NTkx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 151307,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 177483,
-      "name": "day to day",
-      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 185346,
       "name": "kaleidoscope",
       "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 177483,
+      "name": "day to day",
+      "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "I Wanna Be a Boy",
         "url": "https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Smoking Weed Alone",
-        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Smoking Weed Alone",
-      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Blue Dream Baby",
         "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
       },
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Do You Well (feat. Perfume Genius)",
-        "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
+        "name": "Smoking Weed Alone",
+        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
       },
       "artists": [
         {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Do You Well (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
+      "duration_ms": 191026,
+      "name": "Smoking Weed Alone",
+      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1199,6 +1179,26 @@
       "duration_ms": 166821,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Do You Well (feat. Perfume Genius)",
+        "url": "https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Do You Well (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol"
     },
     {
       "added_at": "2022-10-28 04:00:00",

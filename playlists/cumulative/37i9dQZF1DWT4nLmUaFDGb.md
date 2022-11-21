@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-198 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
+199 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/0aBELbZxmQOYGlLTnkY2l0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 | 2022-03-17 | 2022-10-08 |
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2022-09-08 | 2022-10-08 |
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2021-12-21 |  |
-| [Hommage](https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [Hommage](https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX) | 3:34 | 2022-09-06 |  |
+| [Hommage](https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [Hommage](https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX) | 3:34 | 2022-09-06 | 2022-11-21 |
+| [Hommage](https://open.spotify.com/track/7auTBZlMspqWjyqB1Mj5J9) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [At Home Again, Singing](https://open.spotify.com/album/1Qe9Sg7RkVoFEG3D5Wt9rG) | 3:34 | 2022-11-10 |  |
 | [How Insensitive](https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v), [Matt Home](https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80) | [The Changing Lights \(Bonus Edition\)](https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA) | 4:04 | 2021-12-21 |  |
 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 | 2022-08-19 |  |
 | [I Only Want To Be With You](https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Just A Little Lovin'](https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5) | 3:50 | 2022-08-19 |  |

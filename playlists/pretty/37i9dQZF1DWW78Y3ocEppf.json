@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Kaash Paige",
-  "num_followers": 36931,
+  "num_followers": 36947,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5NjU0MCwwMDAwMDAwMDhhOWUxYzI1NDkxZTU3MDdmYWE1MDhiZThmMGJlNzg5",
+  "snapshot_id": "MTY2ODc5NjU0MCwwMDAwMDAwMGFiZWYyODlmZWMwMDQ4NzkwZDdiYTkwMmY3Mjg3YWRm",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+    },
+    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "LEGEND",
@@ -817,22 +833,6 @@
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Irresponsible",
@@ -847,6 +847,22 @@
       "duration_ms": 192545,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -867,22 +883,6 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1109,24 +1109,20 @@
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-08-26 04:41:34",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+        "name": "Love Quotes",
+        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 263360,
-      "name": "I Love You More Than You Know (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+      "duration_ms": 195401,
+      "name": "Love Quotes",
+      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1145,20 +1141,24 @@
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
-      "added_at": "2022-08-26 04:41:34",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Love Quotes",
-        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 195401,
-      "name": "Love Quotes",
-      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -1457,26 +1457,6 @@
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Smoke, Drink, Break Up (feat. Wale)",
-        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 131542,
-      "name": "Smoke, Drink, Break Up (feat. Wale)",
-      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Confujawn (feat. Nija)",
@@ -1495,6 +1475,26 @@
       "duration_ms": 175329,
       "name": "Confujawn (feat. Nija)",
       "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Smoke, Drink, Break Up (feat. Wale)",
+        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 131542,
+      "name": "Smoke, Drink, Break Up (feat. Wale)",
+      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1709,6 +1709,26 @@
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/2aO2w1pK8fyvgTyJb4Q4SV"
+      },
+      "artists": [
+        {
+          "name": "DJ Spinz",
+          "url": "https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 158228,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Foolish",
@@ -1723,22 +1743,6 @@
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     }
   ],
   "unique_name": "Some Kinda Way",

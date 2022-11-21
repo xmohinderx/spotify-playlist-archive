@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 159116,
+  "num_followers": 159144,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDQxOCwwMDAwMDAwMDYyODNjZGI3Y2U5NzZlMjFjYzIzYmM0YTM4MWNkYTJh",
+  "snapshot_id": "MTY2NDQ5NDQxOCwwMDAwMDAwMGFkYjE5MTFkZDBjMDc3MDA4NWE5ODM2NTIyNDk0ZWU5",
   "tracks": [
     {
       "added_at": "2022-09-29 23:26:16",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
+        "name": "Enchule",
+        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185718,
+      "name": "Enchule",
+      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
         "name": "OTRO FILI",
         "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
-        "name": "Enchule",
-        "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185718,
-      "name": "Enchule",
-      "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Tu Veneno",
         "url": "https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157320,
       "name": "Tu Veneno",
       "url": "https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
     },
     {
       "added_at": "2022-09-29 23:26:16",

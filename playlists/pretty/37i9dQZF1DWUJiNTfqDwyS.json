@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 198368,
+  "num_followers": 198614,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5ODYyNiwwMDAwMDAwMDBjODUxMzMzZTU1NGI2NGY3YzJjN2ZmZmFjZDk3MzA1",
+  "snapshot_id": "MTY2ODY5ODYyNiwwMDAwMDAwMGQyMTM1OWRmOTE1ZDBjMTAyZjMwN2RiMDIyMGMxMTQ2",
   "tracks": [
     {
       "added_at": "2022-10-28 07:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
-      "added_at": "2022-11-20 01:11:51",
+      "added_at": "2022-11-21 01:10:02",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/6IDsS2a6HUON1OfACGIqib"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2OAzE4s5M3sZAljAr6F85v"
     },
     {
-      "added_at": "2022-11-20 01:11:51",
+      "added_at": "2022-11-21 01:10:02",
       "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/1Lcwr8J57hqXtEyIrqvP7V"
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "Gimme Shelter",
+        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 238317,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Meanwhile in Burbank...",
         "url": "https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 211973,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Gimme Shelter",
-        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 238317,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Perfectly Preserved",
-        "url": "https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ"
-      },
-      "artists": [
-        {
-          "name": "Love and Death",
-          "url": "https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19"
-        },
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Jessie's Girl 2 (feat. Rick Springfield)",
         "url": "https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 231577,
       "name": "Jessie's Girl 2 (feat. Rick Springfield)",
       "url": "https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Perfectly Preserved",
+        "url": "https://open.spotify.com/album/7BuSHSKWrEiZR8zF9YShvJ"
+      },
+      "artists": [
+        {
+          "name": "Love and Death",
+          "url": "https://open.spotify.com/artist/4nrzg6bzMCRGsdQ5eD4d19"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN"
     },
     {
       "added_at": "2022-10-28 07:00:00",

@@ -171,7 +171,7 @@
     {
       "album": {
         "name": "Streetlife",
-        "url": "https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg"
+        "url": "https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b"
       },
       "artists": [
         {
@@ -182,6 +182,24 @@
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280533,
+      "name": "Chain of Command",
+      "url": "https://open.spotify.com/track/5SmZpH8Aeq0EMwGTEa12ob"
+    },
+    {
+      "album": {
+        "name": "Streetlife",
+        "url": "https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg"
+      },
+      "artists": [
+        {
+          "name": "Von Spar",
+          "url": "https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
       "duration_ms": 280533,
       "name": "Chain of Command",
       "url": "https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z"

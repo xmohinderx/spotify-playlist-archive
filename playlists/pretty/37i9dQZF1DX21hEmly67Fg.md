@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > The Vitamin String Quartet share their favorite chilled classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,481 likes - 69 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,447 likes - 69 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

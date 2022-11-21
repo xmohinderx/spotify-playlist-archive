@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 525357,
+  "num_followers": 525288,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2OTkxNSwwMDAwMDAwMDU0ODUwNTI2ZjJmYTI5ZWJkODg0YzNjN2RmMjUyYjUz",
+  "snapshot_id": "MTY2ODE2OTkxNSwwMDAwMDAwMDVkNTlhZGE1ZjUzZTcyNGI0OGMyNjllNzI5NDJmZGVk",
   "tracks": [
     {
       "added_at": "2022-11-11 12:31:55",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "duration_ms": 174140,
+      "name": "Respetemos el duelo",
+      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 331160,
       "name": "Ramito de violetas",
       "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
-      },
-      "artists": [
-        {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
-        }
-      ],
-      "duration_ms": 174140,
-      "name": "Respetemos el duelo",
-      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
         }
       ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -891,22 +891,6 @@
       "duration_ms": 230586,
       "name": "Tu Vas a Volar",
       "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
         "name": "A Pura Snagre",
         "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Antologia Carlitos La Mona Jimenez",
-        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
       "artists": [
         {
@@ -956,25 +956,9 @@
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
         }
       ],
-      "duration_ms": 245053,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -995,6 +979,22 @@
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "Ni Lo Pienses",
+        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Registrada",
+          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1047,38 +1047,18 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "Antologia Carlitos La Mona Jimenez",
+        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
       "artists": [
         {
           "name": "La Mona Jimenez",
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+      "duration_ms": 245053,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1203,8 +1183,28 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Beso a Beso (con La Mona)",
-        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+        "name": "Me Duele Tu Nombre",
+        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 296515,
+      "name": "Me Duele Tu Nombre",
+      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
@@ -1212,17 +1212,13 @@
           "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
         },
         {
-          "name": "Hugh Padgham",
-          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
-        },
-        {
-          "name": "Sergio Oliva",
-          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 303253,
-      "name": "Beso a beso",
-      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1267,22 +1263,18 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Me Duele Tu Nombre",
-        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
         }
       ],
-      "duration_ms": 296515,
-      "name": "Me Duele Tu Nombre",
-      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1303,22 +1295,6 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
-        {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
-        }
-      ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "Beso a Beso (con La Mona)",
+        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Hugh Padgham",
+          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+        },
+        {
+          "name": "Sergio Oliva",
+          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Beso a beso",
+      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk"
-      },
-      "artists": [
-        {
-          "name": "Walter Salinas",
-          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
         "name": "La Fiesta Es De Primera",
         "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk"
+      },
+      "artists": [
+        {
+          "name": "Walter Salinas",
+          "url": "https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Session 922: Titi Me Pregunt\u00f3 / La Bachata / Quedate",
-        "url": "https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 260596,
-      "name": "Session 922: Titi Me Pregunt\u00f3 / La Bachata / Quedate",
-      "url": "https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
+        "name": "Session 922: Titi Me Pregunt\u00f3 / La Bachata / Quedate",
+        "url": "https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 260596,
+      "name": "Session 922: Titi Me Pregunt\u00f3 / La Bachata / Quedate",
+      "url": "https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
         "name": "Trulala - Grandes exitos",
         "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Dejame Estar En Su Lugar",
-        "url": "https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT"
-      },
-      "artists": [
-        {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
-        }
-      ],
-      "duration_ms": 194089,
-      "name": "Dejame Estar En Su Lugar",
-      "url": "https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
         "name": "Para Rato!",
         "url": "https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 227306,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "Dejame Estar En Su Lugar",
+        "url": "https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "duration_ms": 194089,
+      "name": "Dejame Estar En Su Lugar",
+      "url": "https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv"
     },
     {
       "added_at": "2022-11-11 12:31:55",
@@ -1667,6 +1667,38 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
+        "name": "Ta' Buenisimo",
+        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
+    },
+    {
+      "added_at": "2022-11-11 12:31:55",
+      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
       },
@@ -1699,22 +1731,6 @@
     {
       "added_at": "2022-11-11 12:31:55",
       "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
         "name": "En El Gran Rex",
         "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
-    },
-    {
-      "added_at": "2022-11-11 12:31:55",
-      "album": {
-        "name": "Cuarte Party",
-        "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
-      },
-      "artists": [
-        {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
-        }
-      ],
-      "duration_ms": 572488,
-      "name": "Cuarte Party",
-      "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
     },
     {
       "added_at": "2022-11-11 12:31:55",

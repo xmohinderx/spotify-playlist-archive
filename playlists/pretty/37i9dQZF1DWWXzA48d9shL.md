@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,118 likes - 89 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,162 likes - 89 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 8 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
 | 9 | [GODZILLA!](https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [GODZILLA!](https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB) | 2:47 |
 | 10 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
-| 11 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 |
+| 11 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
 | 12 | [BREAKDOWN!](https://open.spotify.com/track/75lF7jUfpfFDg5Cp2466Ji) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw) | [BREAKDOWN!](https://open.spotify.com/album/5IPMZ1gWckMM0ibsJsgPsP) | 2:12 |
 | 13 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
 | 14 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 88 | [Fuck Em Up](https://open.spotify.com/track/1Qwro8EUjM8MDrU8vUYSgE) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN) | [Fuck Em Up](https://open.spotify.com/album/72xLdtea89AlAtgYcQYlWR) | 2:04 |
 | 89 | [WOKE UP](https://open.spotify.com/track/2vpHZfMYlJ98xwVo5NknQ5) | [luvseat](https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs) | [god complex](https://open.spotify.com/album/4MCcSOMcdAnXqE0y2PORQD) | 2:05 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGJlZGY2NzMyNTYyZjk0YmY0MjIzNGQ3MDQ3MTIxNWM3`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU0Y2ViNzI1ZDFmNjJiYjkwMTZiZjEwY2E1MTcxM2I1`

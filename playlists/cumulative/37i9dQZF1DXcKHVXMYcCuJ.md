@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-297 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+298 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Change](https://open.spotify.com/track/2DyhBbEIaPX1neN47yLJkk) | [Curtiss](https://open.spotify.com/artist/1JaFPRzVdBkoUq5K16U8ly) | [Simplicity](https://open.spotify.com/album/4cgXduilLVjNuIMBIbUUIN) | 4:00 | 2022-10-11 | 2022-11-03 |
 | [Cheap Magic](https://open.spotify.com/track/7kamSwUo2vWKVjTnK21Xtm) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH) | [The Free Life](https://open.spotify.com/album/2AZizPumqjqVyEapFaNnQH) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Cheap Magic](https://open.spotify.com/track/2r7Oz1JMGmEa6ZNvywxCnU) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/3MVLO1W0Vm3Y3BeEZmE1Nf) | 2:56 | 2022-11-02 | 2022-11-09 |
+| [Cheap Magic](https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0) | 2:56 | 2022-11-02 |  |
 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 | 2022-11-02 |  |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2021-12-15 |  |
 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 | 2021-12-15 |  |
@@ -275,7 +276,7 @@
 | [Trigger](https://open.spotify.com/track/6wbCy1EJ5qkr1DjWPESIGF) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:00 | 2022-11-02 | 2022-11-09 |
 | [Trouble Prone](https://open.spotify.com/track/5ICqGwuTjnSZjWEBQVLOo8) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Whatever Happens](https://open.spotify.com/album/0fDxt4CQ9DR4P1pKzeznOc) | 2:29 | 2021-12-15 | 2022-07-22 |
 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 | 2021-12-15 |  |
-| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 |  |
+| [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 | 2022-11-21 |
 | [Unreal Is Here](https://open.spotify.com/track/4aBXGe7ftxVf7GaArOg0nK) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/4UjIWlTVbImEfiI40fF83i) | 2:31 | 2021-12-15 | 2022-07-29 |
 | [Us Vs Them](https://open.spotify.com/track/5GGPceIwbcpa563RKaNnoc) | [Spring King](https://open.spotify.com/artist/5kkANnP50OoBkxc8JRuTsA) | [A Better Life](https://open.spotify.com/album/3WwiWPs4LPH5421J6wovcV) | 3:42 | 2021-12-15 | 2022-07-29 |
 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 | 2021-12-15 |  |

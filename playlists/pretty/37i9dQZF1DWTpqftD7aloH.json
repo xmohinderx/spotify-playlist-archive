@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 207146,
+  "num_followers": 207487,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NzUyNywwMDAwMDAwMDhiNzVmM2JjZmU2NzQ3YTgyYzhmOWFhMjU2OGFlZGZh",
+  "snapshot_id": "MTY2NzU3NzUyNywwMDAwMDAwMDQzODkyYjZjNDdmYTc4MjA2NGUxN2IzYjM3MDQ3ZmMy",
   "tracks": [
     {
       "added_at": "2022-11-04 15:58:47",
@@ -175,18 +175,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh"
+        "name": "T\u00e1 Chorando Por Qu\u00ea?",
+        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Lu\u00e3 Freitas",
+          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
         }
       ],
-      "duration_ms": 248253,
-      "name": "I Can Only Imagine",
-      "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
+      "duration_ms": 214445,
+      "name": "T\u00e1 Chorando Por Qu\u00ea?",
+      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -211,22 +215,18 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "T\u00e1 Chorando Por Qu\u00ea?",
-        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh"
       },
       "artists": [
         {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Lu\u00e3 Freitas",
-          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 214445,
-      "name": "T\u00e1 Chorando Por Qu\u00ea?",
-      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 409000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 507306,
       "name": "The Blessing (Live)",
       "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "A Ele a Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -907,22 +907,18 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 452499,
-      "name": "Graves Into Gardens (Live)",
-      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
+      "duration_ms": 276965,
+      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
+      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -967,18 +963,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 276965,
-      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
-      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1027,34 +1027,6 @@
       "duration_ms": 238306,
       "name": "Scars",
       "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-        "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1155,6 +1127,34 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+        "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
         "name": "Que Amor \u00c9 Esse",
         "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 420977,
       "name": "Que Amor \u00c9 Esse",
       "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1307,22 +1323,6 @@
       "duration_ms": 336716,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 197046,
-      "name": "Sparrows",
-      "url": "https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
         "name": "Livres ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 495026,
       "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
       "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 197046,
+      "name": "Sparrows",
+      "url": "https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2022-11-04 15:58:47",
       "album": {
-        "name": "No Other Name (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
       "artists": [
         {
@@ -1664,13 +1664,17 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 568786,
-      "name": "Broken Vessels (Amazing Grace) - Live",
-      "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1691,6 +1695,22 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "added_at": "2022-11-04 15:58:47",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2022-11-04 15:58:47",
@@ -1759,22 +1779,6 @@
       "duration_ms": 314154,
       "name": "Sua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp"
-    },
-    {
-      "added_at": "2022-11-04 15:58:47",
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

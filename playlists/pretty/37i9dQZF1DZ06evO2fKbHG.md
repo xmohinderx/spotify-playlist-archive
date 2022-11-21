@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,873 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,939 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 42 | [He Who Dares or Is Tired](https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:53 |
 | 43 | [City of the Dead \(Live\) \[Remastered\]](https://open.spotify.com/track/744eHv8kvVhIYc4le3NEvt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [From Here to Eternity \(Live\) \[Remastered\]](https://open.spotify.com/album/70NjH8NkxcbYNvWAHnyv1e) | 2:47 |
 | 44 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 |
-| 45 | [North and South](https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:32 |
+| 45 | [Time is Tight](https://open.spotify.com/track/43IQfe1PKIKocv7SUky7xy) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 4:04 |
 | 46 | [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 |
-| 47 | [Time is Tight](https://open.spotify.com/track/43IQfe1PKIKocv7SUky7xy) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 4:04 |
-| 48 | [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 |
-| 49 | [Futura 2000](https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 5:54 |
+| 47 | [North and South](https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:32 |
+| 48 | [Futura 2000](https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 5:54 |
+| 49 | [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 |
 
-Snapshot ID: `Mjc4MTI5OTMsMDAwMDAwMDBlZjhmMTBiNTUzOTE1MzMxNDM2MjUwZTQ0ZjZlZDZlZg==`
+Snapshot ID: `Mjc4MTU5NTUsMDAwMDAwMDBjMmU3MjM1YzJmMTU1ZTRiN2E4YWIyYWRjYjMwZTA3NA==`

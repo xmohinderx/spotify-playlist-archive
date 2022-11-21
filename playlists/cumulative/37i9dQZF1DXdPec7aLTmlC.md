@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-703 songs - 1 day 13 hr 25 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
+704 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Crowd Go Crazy](https://open.spotify.com/track/0W58ZzQFWaZgRkKIbSFjde) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:00 | 2021-07-10 | 2021-10-16 |
 | [Cry No More Tears](https://open.spotify.com/track/3YPwgHNkJVJgxLbkUwOm8B) | [Sweet Chariots](https://open.spotify.com/artist/7jDZhAo6VIB9wgq4WqrRoY) | [Beat Based, Song Centered, Spiritled](https://open.spotify.com/album/3XF96STHrRAWK50BcsDuDh) | 4:11 | 2019-07-11 | 2019-08-05 |
 | [Crystal Dolphin](https://open.spotify.com/track/6kx8Hf1Udk4V0Ivq6zpoyG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Crust Fm](https://open.spotify.com/album/2YZJ2QWjBY1tDqcy8u4nkC) | 1:55 | 2020-10-23 | 2020-11-20 |
+| [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 | 2022-11-10 |  |
 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 | 2019-11-08 | 2022-04-15 |
 | [Dance Forever](https://open.spotify.com/track/1fa1st1zuVZvlmCCFRjNOK) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Dance Forever](https://open.spotify.com/album/3wddlyD4UqsOx3GdmL1IFw) | 2:44 | 2020-11-27 | 2020-12-09 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-07-21 |  |
@@ -328,7 +329,7 @@
 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 | 2019-05-26\* | 2020-01-01 |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-24 | 2022-11-13 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2020-01-04 |
-| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 |  |
+| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 | 2022-11-21 |
 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 | 2020-06-12 | 2022-04-19 |
 | [In Betweenin'](https://open.spotify.com/track/1UotQ5kMAEiCJVisAVkxOh) | [AUSTN](https://open.spotify.com/artist/6deoGjNPov9XZSS8A2PCST) | [In Betweenin'](https://open.spotify.com/album/5dQ8bWBsJ7nk6UR5Vw0N2w) | 3:12 | 2019-05-26\* | 2022-04-21 |
 | [In My Head](https://open.spotify.com/track/0TyOpxlWwDx98bjkIVHUgY) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo \(Deluxe Audio\)](https://open.spotify.com/album/773TVtjVxXvD6DFHsWFJGN) | 3:18 | 2019-10-22 | 2019-10-24 |

@@ -781,10 +781,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/0h20OvcHKLzhEiQBY4Xgqe"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51"
     },
     {
       "album": {

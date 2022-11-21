@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-802 songs - 1 day 23 hr 42 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+803 songs - 1 day 23 hr 45 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Change \(feat\. James Taylor\)](https://open.spotify.com/track/1EVVa8EtTKVMsCw35uJP0j) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Change \(feat\. James Taylor\)](https://open.spotify.com/album/51qJaDNYXndzT3HqRL4F3L) | 3:37 | 2022-01-05 | 2022-07-29 |
 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 | 2021-12-21 | 2022-11-19 |
 | [Changes](https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/1kXtiGkGi9myC9D35lwdG5) | 2:40 | 2021-12-21 | 2022-05-27 |
+| [Changes](https://open.spotify.com/track/45UAiFGe5KssWUbi5s1AOY) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:40 | 2022-11-11 |  |
 | [Changes](https://open.spotify.com/track/7cDpMO5wuWgvv3j4INRBeB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:40 | 2022-07-08 | 2022-11-17 |
 | [Cheers for the Tears](https://open.spotify.com/track/1luf18dR160FyYqTnIAXfE) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Cheers for the Tears](https://open.spotify.com/album/4yLYA25JyfmIYwbIaOchCq) | 2:54 | 2022-01-07 | 2022-07-18 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-08-05 | 2022-08-23 |
@@ -134,7 +135,7 @@
 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 | 2022-07-08 |  |
 | [Cut Me](https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi) | [Chris Medina](https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV) | [Cut Me](https://open.spotify.com/album/1FWXfOdSVUrPPCXymMMiCK) | 3:05 | 2021-12-21 |  |
 | [Cut Me \- Acoustic Version](https://open.spotify.com/track/2FfCXEfSZoNFGhpEd6p0EL) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [Cut Me](https://open.spotify.com/album/7ox5yZD7OaBgDW3HFiuBON) | 3:23 | 2022-01-07 | 2022-07-24 |
-| [Daddy’s Girl](https://open.spotify.com/track/6edJkD1ripHia4WzSHz6Lg) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Daddy’s Girl](https://open.spotify.com/album/1RNlWKu0OKu3Yg7HIQKfcx) | 3:11 | 2021-12-21 |  |
+| [Daddy’s Girl](https://open.spotify.com/track/6edJkD1ripHia4WzSHz6Lg) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Daddy’s Girl](https://open.spotify.com/album/1RNlWKu0OKu3Yg7HIQKfcx) | 3:11 | 2021-12-21 | 2022-11-21 |
 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 | 2022-03-24 | 2022-03-28 |
 | [Dancing in the Dark](https://open.spotify.com/track/1Lmm7Nz42ecjZn2WZU64JA) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dancing in the Dark](https://open.spotify.com/album/1DWOO7WkQznqcuPVDR8LHJ) | 2:58 | 2021-12-21 | 2022-04-18 |
 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 | 2021-12-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: Mbuzi Gang
 
-128 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
+129 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Peng Wa Mafilter](https://open.spotify.com/track/6BNI2fhdrzNRCQ2d6m8KaG) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Peng Wa Mafilter](https://open.spotify.com/album/2KjRmQZ49wSdv5IiyIT28v) | 3:23 | 2021-12-01 |  |
 | [Pepeta](https://open.spotify.com/track/1fcRS9mwgQgyx5dGDPiW3w) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Rekles](https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k) | [Pepeta](https://open.spotify.com/album/1NGU0NEQ5S0mGW7iBGQLac) | 3:07 | 2021-12-01 | 2022-11-12 |
 | [Pepeta](https://open.spotify.com/track/5IJnneYnN5bFbHJMtNlXE9) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Rekles](https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k) | [Pepeta](https://open.spotify.com/album/60NkWDM9kyb9Yqgj9w3eIj) | 3:07 | 2021-12-01 |  |
-| [Pussyprenuer](https://open.spotify.com/track/5g2xP34kZDwptddwkouXTt) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Full Vaibu](https://open.spotify.com/album/5zB64M0uGhnT39hTnL4i7c) | 2:51 | 2021-12-01 |  |
+| [Pussyprenuer](https://open.spotify.com/track/50ht3tppjMYKt3OxfpJ0LA) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Full Vaibu](https://open.spotify.com/album/24QyrxaSKWSmQOQIVem97A) | 2:51 | 2021-12-01 |  |
+| [Pussyprenuer](https://open.spotify.com/track/5g2xP34kZDwptddwkouXTt) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Full Vaibu](https://open.spotify.com/album/5zB64M0uGhnT39hTnL4i7c) | 2:51 | 2021-12-01 | 2022-11-21 |
 | [Rivas](https://open.spotify.com/track/1DIXojor14BaRen2pak0br) | [TheLuchi](https://open.spotify.com/artist/7As9lFEIoGFHpYL40hVHtC) | [Rivas](https://open.spotify.com/album/6dCdiyFhNjUG3fKwq4KTOc) | 2:25 | 2021-12-01 |  |
 | [Sambusa](https://open.spotify.com/track/4ME1bOfFbGncJfkHQJEDwf) | [Addi Chokoch](https://open.spotify.com/artist/1dAM5bKDDnFOOyyWtYwyaK), [EXRAY](https://open.spotify.com/artist/6RICeB1bwLU3CcDaJhkWc1), [Dmore](https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr), [Maddox](https://open.spotify.com/artist/2rQQE1RXSQKyRnnyN1gxnk), [NELLY THE GOON](https://open.spotify.com/artist/16xZVVb7kBrSkFfVX0oAdM) | [Sambusa](https://open.spotify.com/album/60zMsJRPnhJeKayXAlM9EX) | 3:25 | 2021-12-01 |  |
 | [Shamra Shamra](https://open.spotify.com/track/0zBeSzwKqoZ96EVfltBxp6) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Shamra Shamra](https://open.spotify.com/album/6IeH8qwDb9DrHhJ8OMpsma) | 3:21 | 2021-12-01 |  |

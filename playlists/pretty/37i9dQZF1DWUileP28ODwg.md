@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,563 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,606 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 36 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 |
 | 37 | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx) | 3:38 |
 | 38 | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Firm Foundation \(He Won't\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/6fyNpkBi15SKd0PBMdMbsM) | 3:49 |
-| 39 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
-| 40 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 |
+| 39 | [Things That I'm Afraid Of](https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Things That I'm Afraid Of](https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop) | 2:46 |
+| 40 | [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 |
 | 41 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 |
 | 42 | [Heart of God](https://open.spotify.com/track/0XUOsMM0n3jRGzRgagPqGH) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:54 |
 | 43 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 84 | [While We Wait](https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [While We Wait](https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI) | 3:19 |
 | 85 | [When I Say Yes](https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [When I Say Yes](https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp) | 3:17 |
 | 86 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 |
-| 87 | [On And On \- Radio](https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO) | 3:26 |
-| 88 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
-| 89 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 |
-| 90 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
-| 91 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
+| 87 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
+| 88 | [On And On \- Radio](https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO) | 3:26 |
+| 89 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
+| 90 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 |
+| 91 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
 | 92 | [Has It Been You](https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Has It Been You](https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP) | 3:20 |
 | 93 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 94 | [Wonder](https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Wonder](https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 |
 | 100 | [Free At Last](https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Free At Last](https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG) | 3:46 |
 
-Snapshot ID: `MTY2NDYwODAzNiwwMDAwMDAwMDc2OWM1OWI3MmE4ODk1MTBjZGJmNDI4NWY1MTEyMTZl`
+Snapshot ID: `MTY2NDYwODAzNiwwMDAwMDAwMGFmMzFmNDUxMGJhZTA2ZTExMDI0ZjlhMzRiNzQzZjQw`

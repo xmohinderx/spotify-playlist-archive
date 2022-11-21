@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 336130,
+  "num_followers": 336153,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMDNmOWExMzAxNTgyZDYyZjZjYjQyMWUxMjFkZDRlYWE1",
+  "snapshot_id": "MTY2NjU1MzA2MiwwMDAwMDAwMDZmMzNiZmFjOTc4YTZiMjYxMGZiMzhjZDUyNDYxZjQ0",
   "tracks": [
     {
       "added_at": "2022-10-23 19:24:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 225631,
-      "name": "By Any Means",
-      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
-    },
-    {
-      "added_at": "2022-10-23 19:24:22",
-      "album": {
         "name": "Lost In June - EP",
         "url": "https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 239767,
       "name": "Heavenly Mother",
       "url": "https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E"
+    },
+    {
+      "added_at": "2022-10-23 19:24:22",
+      "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 225631,
+      "name": "By Any Means",
+      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -811,34 +811,18 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Pedro Retro",
-          "url": "https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP"
-        },
-        {
-          "name": "Meron T",
-          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 226933,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/6D8fbdTViKv8biaCwcrquo"
+      "duration_ms": 189000,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
       "added_at": "2022-10-23 19:24:22",
@@ -859,22 +843,18 @@
     {
       "added_at": "2022-10-23 19:24:22",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
     }
   ],
   "unique_name": "Spotify & Chill",

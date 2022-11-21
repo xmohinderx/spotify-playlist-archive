@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Sofia Portanet
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,657 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,651 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unstoppable](https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Unstoppable](https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa) | 3:11 |
 | 2 | [ONLY 4 LIFE](https://open.spotify.com/track/3cSnRerT5ZRmPLMmGwRJLb) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [ONLY 4 LIFE](https://open.spotify.com/album/0nUeigcz2YIFDMWrZmnZLU) | 2:25 |
 | 3 | [Jennifer](https://open.spotify.com/track/77M47FwpTxJ8jhDpA2l5Dt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Jennifer](https://open.spotify.com/album/3liMvG4eUJiRc3lMyo3jmY) | 1:59 |
-| 4 | [würde es auch tun](https://open.spotify.com/track/0DtP2my2j6tXlt3VhGgepl) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [würde es auch tun](https://open.spotify.com/album/4gi0fUapv3mLwmrbJpTjxt) | 2:58 |
-| 5 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps) | 2:11 |
+| 4 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps) | 2:11 |
+| 5 | [würde es auch tun](https://open.spotify.com/track/0DtP2my2j6tXlt3VhGgepl) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [würde es auch tun](https://open.spotify.com/album/4gi0fUapv3mLwmrbJpTjxt) | 2:58 |
 | 6 | [Männer](https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [addeN](https://open.spotify.com/artist/37SgaZuWj0yxWXetbYOe7C) | [Männer](https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f) | 3:18 |
 | 7 | [Das muss Liebe sein](https://open.spotify.com/track/3hLU79BvIP0uJAQBj8TO7n) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Das muss Liebe sein](https://open.spotify.com/album/5r1BOuqrbsi0IOrZ3coCgn) | 2:39 |
 | 8 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Kater](https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Kater](https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1) | 2:47 |
 | 12 | [Sektfrühstück](https://open.spotify.com/track/164s1h9u0O4gWAGseDIBKR) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Sektfrühstück](https://open.spotify.com/album/6EtXewGaltDSG8CmlNMYgT) | 2:27 |
 | 13 | [badmómz.](https://open.spotify.com/track/4ZTK3Zsw7cawBxEWgO0GTr) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:03 |
-| 14 | [GASOLINA](https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [GASOLINA](https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9) | 2:14 |
-| 15 | [Grey's Anatomy](https://open.spotify.com/track/5CheTDfGjLq2j9Uk2gvsOf) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Grey's Anatomy](https://open.spotify.com/album/179HmxvzZVeFyFpJMeA7zg) | 2:07 |
+| 14 | [Grey's Anatomy](https://open.spotify.com/track/5CheTDfGjLq2j9Uk2gvsOf) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Grey's Anatomy](https://open.spotify.com/album/179HmxvzZVeFyFpJMeA7zg) | 2:07 |
+| 15 | [GASOLINA](https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [GASOLINA](https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9) | 2:14 |
 | 16 | [DEJA VU](https://open.spotify.com/track/54uPYRaxuV9AyLYrhyQW49) | [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM) | [DEJA VU](https://open.spotify.com/album/01NWWpfD8KdMXIJeKqonLE) | 2:44 |
 | 17 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 | 18 | [Nie Mehr](https://open.spotify.com/track/6CYKqDbvVwi6qlUtcenEDM) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Nie Mehr](https://open.spotify.com/album/5o8bPr5KDwwyM8R7VhWr4Z) | 2:00 |
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Komet](https://open.spotify.com/track/5m0vxNYxKq2toU20v8LaYL) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/384CJXmYVjdbN2gUU1qQUN) | 3:03 |
 | 34 | [Was soll ich im Himmel](https://open.spotify.com/track/1ixdRkSOviY8DaV2PFYAI4) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Skofi](https://open.spotify.com/artist/6Fip3yMOPnSLEhRRj99Olt) | [Was soll ich im Himmel](https://open.spotify.com/album/5ChOXcw4aSCVTStIv3xl8f) | 2:38 |
 | 35 | [Uncertain Cold](https://open.spotify.com/track/3XuQbegDSf5To2qCM4sZav) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Uncertain Cold](https://open.spotify.com/album/59LEVXmzZqjibAAbYiacpm) | 2:48 |
-| 36 | [Lorbeeren](https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK), [Melik](https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz) | [Lorbeeren](https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu) | 3:14 |
-| 37 | [Does She Know You?](https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Does She Know You?](https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95) | 2:31 |
+| 36 | [Does She Know You?](https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Does She Know You?](https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95) | 2:31 |
+| 37 | [Lorbeeren](https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK), [Melik](https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz) | [Lorbeeren](https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu) | 3:14 |
 | 38 | [X\-Faktor](https://open.spotify.com/track/2jSEuZ5b2B3C9C1JprPJLh) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp), [TEKA](https://open.spotify.com/artist/2F0Rs5ZuW4NHX4iGPWaL2c), [So Vital](https://open.spotify.com/artist/6vU3KUDQGWbkupZn1iu6W0) | [X\-Faktor](https://open.spotify.com/album/6bjGsSQcIQbAUHu60G3OCA) | 2:39 |
 | 39 | [Calling Your Name](https://open.spotify.com/track/2L4TchQ54d2rHkhhCbiMGT) | [MISSINCAT](https://open.spotify.com/artist/5P9sPzKeZ0A6OEe3hQAR0v) | [Calling Your Name](https://open.spotify.com/album/0dvHTrkKxj3YrYVO4xQKOW) | 3:19 |
-| 40 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 |
-| 41 | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq) | 2:51 |
+| 40 | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq) | 2:51 |
+| 41 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 |
 | 42 | [Keeping Strong \- Radio Edit](https://open.spotify.com/track/779ilPXl7ty7nVg6TLs4fC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Keeping Strong](https://open.spotify.com/album/78KzSdWVdX7uleTgTgsUTI) | 3:47 |
 | 43 | [Girlscout \- Radio Edit](https://open.spotify.com/track/1m7sthjJM36FPWPqxeCYrF) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [Girlscout \(Radio Edit\)](https://open.spotify.com/album/112fTyGIrQthQzrEODHTU2) | 3:23 |
 | 44 | [old songs from my hard drive](https://open.spotify.com/track/3HOv0kTPDcaCDeIzO0Tzbm) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [old songs from my hard drive](https://open.spotify.com/album/0uqviYM4nlEuvzLGqUpBIf) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Rivals](https://open.spotify.com/track/4d3aKUKaO2BWLoLKDi5rTq) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Rivals](https://open.spotify.com/album/6t12A79zxzSi3TTg1Vd0wK) | 4:07 |
 | 50 | [Devotion](https://open.spotify.com/track/2Pjw8w7KSQkPLPp8RjOvCZ) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Devotion](https://open.spotify.com/album/7ucUAUJPPqoDdmOW69I7vP) | 2:17 |
 
-Snapshot ID: `MTY2Nzg2MjAwMCwwMDAwMDAwMDczYzhmNDAyYzkxODQ2ZmIzOTJmMzFmYWFiM2M1NTRh`
+Snapshot ID: `MTY2Nzg2MjAwMCwwMDAwMDAwMGEyYTRmMmRlMzg0ZTRlMjNiM2E3YjE2YjA1ZTk3MGE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,966 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,987 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Surf](https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Cyncerely, C3](https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS) | 3:31 |
 | 50 | [Scared \- from the "Bruised" Soundtrack](https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Scared \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk) | 2:39 |
 
-Snapshot ID: `Mjc4MTI5OTQsMDAwMDAwMDBhMDI0YWYxOTM4ZDc0MjU1ODc4MjczYTlmMmQxNTAxMQ==`
+Snapshot ID: `Mjc4MTU5NTUsMDAwMDAwMDA1ZTAzMDJjZDYxOGVlMTBlNDIyYzZkNWU2YjUwNmI3Mw==`

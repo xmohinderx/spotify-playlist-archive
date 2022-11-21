@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: Meghan Trainor
 
-1,003 songs - 2 day 7 hr 20 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+1,004 songs - 2 day 7 hr 24 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2022-09-17 |
 | [All Your Exes](https://open.spotify.com/track/0sm5R6MjXORjLcs1bulN6n) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:29 | 2021-06-16 | 2021-07-10 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH) | 3:37 | 2019-05-26\* | 2020-08-14 |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-14 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-14 | 2022-11-21 |
 | [Alright \(feat\. Russell Dickerson\)](https://open.spotify.com/track/1h8X2tLPGk35kQ5hRY4rul) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Alright \(feat\. Russell Dickerson\)](https://open.spotify.com/album/77QWAkgoVbOBai1OpFRW9z) | 2:41 | 2020-08-30 | 2021-04-30 |
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-18 | 2021-10-23 |
 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 | 2022-02-18 | 2022-04-23 |

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg" > Blaqbonez </a>
 
-121 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
+122 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-08-12 |  |
 | [W.T.T.V](https://open.spotify.com/track/3Wg8cHwiHy1ihi0ylUlDhv) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Marv OTM](https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq) | [Welcome to the Ville](https://open.spotify.com/album/7xWUKgAAW04qKjrtNBZZpd) | 3:31 | 2022-10-14 | 2022-10-29 |
 | [Wahala Dey](https://open.spotify.com/track/65wqtxFoJRMpfzcR0F5Yjt) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Wahala Dey](https://open.spotify.com/album/2crjkW8wU8ZNbLto45i5UN) | 2:38 | 2022-10-14 | 2022-10-29 |
-| [Wake Up](https://open.spotify.com/track/1NuHrhcA3S9EygdCouQrvL) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:42 | 2022-11-04 |  |
+| [Wake Up](https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:42 | 2022-11-04 |  |
+| [Wake Up](https://open.spotify.com/track/1NuHrhcA3S9EygdCouQrvL) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:42 | 2022-11-04 | 2022-11-21 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-06-09 |  |
 | [Who U](https://open.spotify.com/track/1NnNx2eoTcUgkwgLUGpbFP) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Who U](https://open.spotify.com/album/63jO4I3MPDuq0wp6UvvACu) | 2:53 | 2022-06-09 | 2022-11-16 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2022-06-09 |  |

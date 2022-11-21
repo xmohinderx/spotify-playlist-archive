@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-432 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+433 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [PALMTREES](https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [PALMTREES](https://open.spotify.com/album/19TpbK79ZyrZUzgv2dwdfK) | 2:10 | 2022-05-20 |  |
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Xsist](https://open.spotify.com/artist/5UXNo7yX1QsF9VkPVCNKxW) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2022-05-20 |  |
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
-| [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 |  |
+| [Pear Pressure](https://open.spotify.com/track/29wKNESopFM6xHw0V0CGIw) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/6vr9gIYIHRXAsueGNLMK4k) | 2:22 | 2022-11-11 |  |
+| [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 | 2022-11-21 |
 | [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
 | [Pincushion Island](https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Pincushion Island](https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q) | 2:19 | 2022-10-28 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 | 2022-11-20 |

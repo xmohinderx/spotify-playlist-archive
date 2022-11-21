@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 LOS MUCHACHOS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,746 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,842 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 3 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
 | 4 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 5 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
-| 6 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
-| 7 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
+| 6 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 |
+| 7 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
 | 8 | [Sin Miedo Al Exito](https://open.spotify.com/track/0BTBUKMW9e2HF5e2Fsc3bX) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Sin Miedo Al Exito](https://open.spotify.com/album/2xE9QlPSFeFaI1E3hUe9tr) | 2:12 |
 | 9 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 | 10 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 61 | [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 |
 | 62 | [Hago Lo Que Quiero](https://open.spotify.com/track/0A7EQRUzKago08tYnnXC19) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 3:23 |
 | 63 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
-| 64 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 |
-| 65 | [Y Me la Paso](https://open.spotify.com/track/1SWXRT3dcHSAWN35YucH8Y) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Adrian Gallardo](https://open.spotify.com/artist/5jRgihy7wz3PwjfdjGCJgm) | [Y Me la Paso](https://open.spotify.com/album/5faQ729txoJrLt2mcjyoZQ) | 2:56 |
+| 64 | [Y Me la Paso](https://open.spotify.com/track/1SWXRT3dcHSAWN35YucH8Y) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Adrian Gallardo](https://open.spotify.com/artist/5jRgihy7wz3PwjfdjGCJgm) | [Y Me la Paso](https://open.spotify.com/album/5faQ729txoJrLt2mcjyoZQ) | 2:56 |
+| 65 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 |
 | 66 | [Estilo Irak](https://open.spotify.com/track/384Y0IlpEu4kcLHe30DlXX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Estilo Irak](https://open.spotify.com/album/3FfJJnpmOzkyb0IHtsEp5X) | 3:11 |
 | 67 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
 | 68 | [El Triste](https://open.spotify.com/track/2Lk910jTXaUex71wuTwJPK) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Triste](https://open.spotify.com/album/6FDQmwo5gCTxM2gRcL3mcQ) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Modo Vuelo](https://open.spotify.com/track/0uqNJ3WdaFNHt4KOsK5o5k) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Modo Vuelo](https://open.spotify.com/album/7CVOUsa2OugJkofhEFQUw6) | 3:11 |
 | 75 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
 
-Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMGVjOWQ2Y2JmZTIwNzQzMzkzNGU3ZjE5OTFjNzNmMTMw`
+Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDhmNjFlNmUwYjI2ODA4ZmYxOWVhMjFmOGY2N2UyYzk3`

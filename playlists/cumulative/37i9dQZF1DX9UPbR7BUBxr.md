@@ -4,7 +4,7 @@
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-79 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
+80 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/7qhRYDL50AsB9exwnr99dR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2022-06-17 |  |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-06-17 |  |
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2022-06-17 |  |
-| [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-17 |  |
+| [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-17 | 2022-11-21 |
+| [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-15 |  |
 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 | 2022-06-17 |  |
 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 | 2022-06-17 |  |
 | [Life is a Beach](https://open.spotify.com/track/53zk12RpNoKKP4tDGRYYi6) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Life is a Beach](https://open.spotify.com/album/0mMSswZ1Yqs6mO1oazYmF2) | 1:47 | 2022-06-17 |  |

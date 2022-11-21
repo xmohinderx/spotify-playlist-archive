@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,234 songs - 2 day 15 hr 11 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,235 songs - 2 day 15 hr 14 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Another Shot](https://open.spotify.com/track/2jhKxqWIkHiBfjAQcAMERw) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [Another Shot](https://open.spotify.com/album/1vIkXrFV8o2y7BhnlDzqgQ) | 3:12 | 2019-08-02 | 2019-11-09 |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2021-06-01 | 2021-08-06 |
 | [Antisocial Socialites](https://open.spotify.com/track/5siE2dsOEkxxB8GuyOxPyg) | [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp), [nicopop.](https://open.spotify.com/artist/7DFChT5ZG46iXGb5z2IxYq), [Yuri Joness](https://open.spotify.com/artist/4Aps5MV0tm2w87FMhnJPs8) | [Antisocial Socialites](https://open.spotify.com/album/7zjokF0bxNC9UKASxkLidq) | 3:29 | 2019-08-01 | 2019-08-09 |
-| [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 |  |
+| [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 | 2022-11-21 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-03-24 | 2022-07-29 |
 | [Anything](https://open.spotify.com/track/2kwQaT8FSZFmQwO6Q8pfW0) | [Alex Mattson](https://open.spotify.com/artist/1AqQ7buD0q6SRbQtYQUnou), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Anything](https://open.spotify.com/album/2uZHAqyl41q5Z1WMYa8DdJ) | 3:20 | 2019-07-31 | 2020-01-03 |
 | [Anything](https://open.spotify.com/track/3bYzubBRMy40lCbT9s8fAk) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Anything](https://open.spotify.com/album/1sNfKJGJspwKyzF1pOlIFo) | 3:27 | 2019-07-30 | 2020-01-03 |
@@ -294,6 +294,7 @@
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2022-03-24 | 2022-04-11 |
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2022-01-07 |  |
 | [Down](https://open.spotify.com/track/5HNp2CcOulrXfYwVg9eLsX) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Down](https://open.spotify.com/album/6mLwDqDy18K5K4hk0ZmNgY) | 3:16 | 2020-06-12 | 2020-06-13 |
+| [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-18 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-27 | 2022-04-17 |
 | [Dream On Me](https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dream On Me](https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN) | 3:02 | 2020-10-02 | 2022-07-22 |
 | [Dreamer](https://open.spotify.com/track/7BfiAzV3ASEK9egnfxN1v1) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [Dreamer](https://open.spotify.com/album/4jm93TAkXK8ZczlJkgXoDu) | 4:11 | 2019-08-02 | 2019-08-09 |

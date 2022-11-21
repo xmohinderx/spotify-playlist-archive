@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-186 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
+187 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2kFM7zqf6T4GVjlLl672z4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-07-25 |  |
 | [Fuck It I Love You](https://open.spotify.com/track/7eU1oQcE89ZS7T8oVuMn4G) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Fuck It I Love You](https://open.spotify.com/album/52Ey7PJjy1ct2Qoygs7h8W) | 3:23 | 2022-06-13 | 2022-07-27 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-07-25 | 2022-09-10 |
-| [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/4nvGIQPgLnWWJUJrnRsIOX) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 2:54 | 2022-10-10 |  |
+| [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/4nvGIQPgLnWWJUJrnRsIOX) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 2:54 | 2022-10-10 | 2022-11-21 |
 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-11-14 |  |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-06 | 2022-11-06 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-06-06 | 2022-07-28 |
@@ -134,6 +134,7 @@
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-05 | 2022-09-12 |
 | [Rinn](https://open.spotify.com/track/6vK1C6ELbAVDZ5epWtnxns) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Rinn](https://open.spotify.com/album/1b3cj4iOydUI91x94QuLEe) | 3:27 | 2022-07-11 | 2022-07-13 |
 | [Rules R Made 2 B Broken](https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk) | 2:38 | 2022-09-05 | 2022-09-12 |
+| [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2022-11-14 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-06-06 |  |
 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 | 2022-07-25 | 2022-11-14 |
 | [She’s Nothing](https://open.spotify.com/track/06JZhG8kkmhan3G79nKnFY) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Enda](https://open.spotify.com/artist/4ERsngIfRMCoYbB2PO59rb), [Achmad Satria](https://open.spotify.com/artist/0LUaCu2nL8WHKvXbbM3mLT) | [She’s Nothing](https://open.spotify.com/album/50VfNalazedQhxpLc9YyRY) | 3:06 | 2022-06-06 | 2022-07-28 |

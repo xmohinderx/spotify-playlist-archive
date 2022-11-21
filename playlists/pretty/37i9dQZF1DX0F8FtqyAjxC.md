@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,143 likes - 60 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,133 likes - 60 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 10 | [Ain't Gonna Cry](https://open.spotify.com/track/11deqEO4Yczb4IQHkkvVwU) | [Universal Togetherness Band](https://open.spotify.com/artist/0mq8nei4ndPkb0uWkqx12k) | [Universal Togetherness Band](https://open.spotify.com/album/2wkRTNczK0tRVNsG7veeeZ) | 5:30 |
 | 11 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 |
 | 12 | [Come to Mama](https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 2:58 |
-| 13 | [Shopping Cart](https://open.spotify.com/track/5vcSZ6uUeUaeOK55dLTF3f) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/1JwKb9iAcsmwQcbSgms96d) | 4:05 |
+| 13 | [Shopping Cart](https://open.spotify.com/track/57xHPifnfguNFDig9kHZOq) | [Parallel Dance Ensemble](https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71) | [Possessions And Obsessions](https://open.spotify.com/album/0Ehvg0k08rB3rpquQks9Vw) | 4:05 |
 | 14 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 | 15 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
 | 16 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 59 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 |
 | 60 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
 
-Snapshot ID: `MTY2NTc1NTE1OCwwMDAwMDAwMDIxMzhjMTIxMjkzMmY2NTJmMmU1YTUwNTQ1NjRhZWFk`
+Snapshot ID: `MTY2NTc1NTE1OCwwMDAwMDAwMDZhYTMzMTA3ZjhkYWUxZjRiMmYwMjIwMWFmNGRjY2Ey`

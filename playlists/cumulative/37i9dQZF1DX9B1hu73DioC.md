@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-556 songs - 1 day 10 hr 0 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+559 songs - 1 day 10 hr 11 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Baby Forgive Me](https://open.spotify.com/track/4WONLwwoPAgAvVGeU5mo8I) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/0CQ68SLY0B5e6L1rn8jfkc) | 4:16 | 2020-10-05\* | 2022-04-21 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2020-10-05\* | 2022-10-15 |
 | [Back of My Hand](https://open.spotify.com/track/3iyq3JgucI2SvbrlYzDzKs) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin’ Sun](https://open.spotify.com/album/7bfialTRQQRpzjqn7s7cJY) | 3:29 | 2021-06-04 | 2022-04-19 |
+| [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 |  |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-07 | 2022-04-13 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2020-10-16 |  |
 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 | 2020-10-16 | 2022-04-18 |
@@ -338,6 +339,7 @@
 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 | 2022-11-10 | 2022-11-13 |
 | [Motion Sickness](https://open.spotify.com/track/4jKuJqfWmoMEfY2bk5gOeW) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Motion Sickness](https://open.spotify.com/album/1nua8dbyLXPy9i63Wm1vRt) | 3:49 | 2020-10-16 | 2022-07-29 |
 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 | 2022-07-25 |  |
+| [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 | 2022-11-10 |  |
 | [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2020-10-16 | 2022-11-18 |
 | [Mrs Magic](https://open.spotify.com/track/45BBlVHECwB0uNt7BsJ97r) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/1q7N3YyxCng8awmwE3dNn5) | 3:28 | 2020-12-31 | 2022-04-21 |
 | [Mrs\. Moody](https://open.spotify.com/track/7lO1jT9SBPFdubZGRNW6Hz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Mrs\. Moody](https://open.spotify.com/album/7v6FhnCjqSjCDC5ny9kIA0) | 3:08 | 2022-03-07 | 2022-07-25 |
@@ -378,6 +380,7 @@
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [On Ice](https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [On Ice](https://open.spotify.com/album/24TVy5RXnynUdVAhiCA2VS) | 2:47 | 2020-10-20 | 2022-06-01 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-21 |
+| [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-21 |  |
 | [One Trick Ponies](https://open.spotify.com/track/3NARYtRUkQEU6KCd9OgEfq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:21 | 2020-10-06 | 2022-04-20 |
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2020-10-21 | 2022-04-12 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-03-07 | 2022-07-27 |
@@ -434,7 +437,7 @@
 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 | 2020-10-16 |  |
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2021-08-27 | 2022-11-13 |
 | [Scarlett](https://open.spotify.com/track/1xda2R5cSP7GKlqXY3Pji2) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Scarlett](https://open.spotify.com/album/7tkT2j5BuPSjzoBWVygIG7) | 2:38 | 2020-10-05\* | 2021-05-25 |
-| [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 |  |
+| [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 | 2022-11-21 |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2020-10-05\* | 2022-04-16 |
 | [Seventeen](https://open.spotify.com/track/1LZSkFSCaC3nTdAnEdIrd2) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Seventeen](https://open.spotify.com/album/6TDbUK0LN01O8RtujrBrJ9) | 4:31 | 2021-03-15 | 2022-04-16 |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-10 |  |
@@ -485,7 +488,7 @@
 | [The Night](https://open.spotify.com/track/3DDweM5gUHTpgAnWtWV9cJ) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [All in the Value](https://open.spotify.com/album/0oSo6YkoV8uhWzya7MLXis) | 5:01 | 2020-10-16 | 2022-04-21 |
 | [The One to Wait](https://open.spotify.com/track/3MPFzBWdqwaAeCSQpA7Ift) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/14h7FxQqVYilWuR8adP09G) | 6:33 | 2020-10-05\* | 2021-05-24 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-25 | 2022-11-19 |
-| [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-10-16 |  |
+| [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-10-16 | 2022-11-21 |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2021-03-14 | 2022-11-13 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2020-10-16 | 2022-11-09 |
 | [There Must Be a Song Like You](https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [There Must Be a Song Like You](https://open.spotify.com/album/2ewZt2tyRkCtIU3vczO5ST) | 4:50 | 2021-11-19 | 2022-07-27 |
@@ -546,7 +549,7 @@
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-05-06 | 2022-07-29 |
 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 | 2022-08-26 |  |
 | [When the Night is Over](https://open.spotify.com/track/7GN6EEENu7xnl2lEipjN4X) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/1QBpyjJ4y0Yp0Aj8mOji5o) | 5:11 | 2020-10-20 | 2022-04-03 |
-| [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2020-12-08 |  |
+| [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 | 2020-12-08 | 2022-11-21 |
 | [Where Were You](https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Where Were You](https://open.spotify.com/album/5RPP8SOWq7CJjwnkC1odTb) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-06-21 | 2022-08-27 |
 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 | 2020-10-16 |  |

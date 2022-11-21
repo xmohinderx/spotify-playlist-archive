@@ -4,12 +4,12 @@
 
 > Certi amori bruciano di più\. Cover: Luchè
 
-96 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
+98 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 | 2022-05-03 |  |
-| [3D](https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 3:30 | 2022-10-20 |  |
+| [3D](https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 3:30 | 2022-10-20 | 2022-11-21 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-30 |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-05-03 |  |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-05-03 |  |
@@ -24,6 +24,7 @@
 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 | 2022-07-28 |  |
 | [Brivido](https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 3:47 | 2022-05-03 | 2022-07-29 |
 | [Bugie Diverse](https://open.spotify.com/track/5F5vop7HZv4BjauPiUYY7R) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Bugie Diverse](https://open.spotify.com/album/4TMLaBQUFGzS7lfdJVs8bi) | 3:20 | 2022-05-03 |  |
+| [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 | 2022-11-20 |  |
 | [Caffè](https://open.spotify.com/track/4V5gmy8imyB0TJwdIYuGRv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Caffè](https://open.spotify.com/album/3NdDhj6QzpL3PB61C9i7m7) | 3:09 | 2022-05-03 |  |
 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-06-03 |  |
 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 | 2022-06-19 |  |
@@ -50,6 +51,7 @@
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2022-05-03 |  |
 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 | 2022-05-03 |  |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2022-05-03 |  |
+| [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-20 |  |
 | [Jet](https://open.spotify.com/track/0WqZO2B7m44ig4kwLvToYt) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Niente che non va](https://open.spotify.com/album/633YqTzw4kncLmIwFfsP0K) | 2:58 | 2022-05-03 | 2022-07-06 |
 | [La Notte di San Lorenzo](https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [La Notte di San Lorenzo](https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI) | 3:08 | 2022-07-28 |  |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2022-05-03 |  |

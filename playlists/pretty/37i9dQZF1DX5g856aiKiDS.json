@@ -1,15 +1,15 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 424637,
+  "num_followers": 424527,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk4MDY4NSwwMDAwMDAwMDg2NDFlYjg5MmNkM2ViODgwNjVkMTE5ZjgzODYzMTll",
+  "snapshot_id": "MTY2Nzk4MDY4NSwwMDAwMDAwMGNiN2VmNWVlODRmZWNlNmQzZmVlYjI2NDRlYTgzN2Vl",
   "tracks": [
     {
-      "added_at": "2022-11-20 01:33:26",
+      "added_at": "2022-11-21 01:32:16",
       "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
-      "added_at": "2022-11-20 01:33:26",
+      "added_at": "2022-11-21 01:32:16",
       "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-09 07:39:43",
       "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "added_at": "2022-11-09 07:39:43",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2022-11-09 07:39:43",
-      "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
       "added_at": "2022-11-09 07:39:43",

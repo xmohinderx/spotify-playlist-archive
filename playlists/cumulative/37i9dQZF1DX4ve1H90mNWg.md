@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Monaleo
 
-319 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+320 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 | 2022-07-22 | 2022-09-25 |
 | [The Wolves](https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP) | 2:54 | 2022-09-16 | 2022-10-26 |
 | [The Wolves](https://open.spotify.com/track/3JfT6BCInPrQaiNHGoAIVf) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 2:54 | 2022-10-25 |  |
-| [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-11 |  |
+| [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-11 | 2022-11-21 |
+| [They Want It, But No](https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 | 2022-11-11 |  |
 | [THICK \(P\-Valley Remix\)](https://open.spotify.com/track/09Zx4ISPmE9qM8xlOSiRNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [P\-Valley: Season 2, Episode 2 \(Music From the Original TV Series\)](https://open.spotify.com/album/6RXp6o6JemzT4UmHlVJMXe) | 2:59 | 2022-07-01 | 2022-07-23 |
 | [Think It’s Funny \(feat\. Babyface Ray\)](https://open.spotify.com/track/1mwj7ag32lH1x6nZyFtGPh) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 2:31 | 2022-10-25 | 2022-11-12 |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 | 2022-05-20 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-409 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+410 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 | 2021-03-10 |  |
 | [Golden Boy](https://open.spotify.com/track/6PQkriCkh2BjZGeK7qTC0q) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Golden Boy](https://open.spotify.com/album/1McymEd7UgLNxAuLe0vAwh) | 2:48 | 2022-03-11 | 2022-06-29 |
-| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 |  |
+| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 | 2022-11-21 |
 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 | 2022-03-11 |  |
 | [Gone \(with Jensen McRae\)](https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Gone](https://open.spotify.com/album/2BCjIiPpmiElGDN52fLmzI) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Good](https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [How To Talk To Strangers](https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW) | 2:49 | 2021-03-10 | 2022-07-30 |
@@ -149,6 +149,7 @@
 | [Happy Pills](https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Happy Pills](https://open.spotify.com/album/5t54vdZ7HdfogMEMKVfRR1) | 3:23 | 2022-03-04 | 2022-04-20 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-09-07 | 2022-07-29 |
 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 | 2022-06-27 | 2022-11-09 |
+| [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-07 |  |
 | [High](https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [High](https://open.spotify.com/album/0FYyTg1VD43MPJygKRURKw) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [High](https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young Rising Sons](https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50) | 2:45 | 2022-06-27 |  |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-06-27 | 2022-11-13 |

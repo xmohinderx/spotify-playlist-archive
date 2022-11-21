@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
+54 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Borderless II](https://open.spotify.com/track/6r5FHlXksRbAVXXaMvfTiu) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Imaginary Lines](https://open.spotify.com/album/52TCSSFCj4Zr8KCiijwplp) | 6:22 | 2021-05-11 |  |
 | [Breaking Formation](https://open.spotify.com/track/18DUuot6QcFh7TGK1d1e1F) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:31 | 2021-05-11 |  |
 | [Breaking Formation](https://open.spotify.com/track/5zASNpTjmgxkKAHLRoyKTz) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:31 | 2021-05-11 | 2022-11-20 |
-| [Chain of Command](https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:40 | 2021-05-11 |  |
+| [Chain of Command](https://open.spotify.com/track/5SmZpH8Aeq0EMwGTEa12ob) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:40 | 2021-05-11 |  |
+| [Chain of Command](https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:40 | 2021-05-11 | 2022-11-21 |
 | [Disco Love](https://open.spotify.com/track/4gb7wFrlBXabMyX8fAkAcW) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Meridian 2016](https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9) | 6:54 | 2021-05-11 |  |
 | [End of Line \- Remixed by Photek](https://open.spotify.com/track/2UBYw2qf9PkvoKQ610ocft) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [TRON: Legacy Reconfigured](https://open.spotify.com/album/382ObEPsp2rxGrnsizN5TX) | 5:18 | 2021-05-11 |  |
 | [Enough to Believe \- Jamie Jones Remix](https://open.spotify.com/track/4LtVrrqpn48l4Iq7KIshmi) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Battle Lines \[Remixed\]](https://open.spotify.com/album/1rVRWqock6arU9LRN0jHgK) | 5:14 | 2021-05-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: 🦉 Drake, 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,526 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,500 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 18 | [AQUATIC](https://open.spotify.com/track/0MUOeKm0iIGhaObtE2YSCN) | [Jordan Fall](https://open.spotify.com/artist/4BcBNqTmb9El9HdujCnN3K) | [HALF CRAZY](https://open.spotify.com/album/3eyjr02z1iTCSz4pdLysV5) | 2:33 |
 | 19 | [WAWA](https://open.spotify.com/track/3A2cxLJm3anmicrqgwsnZN) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [CATHARSIS](https://open.spotify.com/album/3Fnqh7BeThzMs8b2R0gczW) | 2:48 |
 | 20 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 |
-| 21 | [Hall of Fame](https://open.spotify.com/track/7y4nue0FszjgMIwDzfkkc8) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hall of Fame](https://open.spotify.com/album/6oE2gVBnhpLOJEaUM1kyu0) | 1:42 |
+| 21 | [Hall of Fame](https://open.spotify.com/track/7y4nue0FszjgMIwDzfkkc8) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Hall of Fame](https://open.spotify.com/album/6oE2gVBnhpLOJEaUM1kyu0) | 1:42 |
 | 22 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
 | 23 | [COLD](https://open.spotify.com/track/0jimKBDLlRruXw2VhoTY8J) | [PEAK](https://open.spotify.com/artist/5aZS5mYElPO6PvcIotNGfq), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [COLD](https://open.spotify.com/album/2DqDkloG5CyoLA5z87ZjE9) | 2:12 |
 | 24 | [Dizzy](https://open.spotify.com/track/76jKCvmLfkVJtKKU044aPG) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Dizzy](https://open.spotify.com/album/09vOUO9yItsncJWNgJGYat) | 2:36 |

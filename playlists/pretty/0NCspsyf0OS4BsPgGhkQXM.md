@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,026,517 likes - 151 songs - 8 hr 26 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,026,760 likes - 151 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

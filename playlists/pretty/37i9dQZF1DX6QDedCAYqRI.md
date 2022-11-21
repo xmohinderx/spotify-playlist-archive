@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,566 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,569 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 29 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 |
 | 30 | [H2O](https://open.spotify.com/track/4bsA6qZZ5v0EhWfGZKwWgi) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [H2O](https://open.spotify.com/album/43H3m9WMRPgufoOAC0z85Q) | 4:28 |
 | 31 | [Hell to the Liars](https://open.spotify.com/track/15pjLBdN42P2gyFefUt8DD) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 6:04 |
-| 32 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/7fVMOMzlZefV971fPVzphD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/63rRCIRub0b2Svp7FWO6IV) | 3:57 |
+| 32 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/2F7vTfBdCnlcFgVg9jqhh1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\) \[Radio Version\]](https://open.spotify.com/album/2notFP0aEoyCWBOHLanN6o) | 3:57 |
 | 33 | [Home](https://open.spotify.com/track/4NfyJOFtDvZvBnRQGeGWs7) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Home](https://open.spotify.com/album/4ZRKdHyUGWyRqxRiJ9MS4N) | 3:56 |
 | 34 | [Porcelain](https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 4:01 |
 | 35 | [Fond Adieu](https://open.spotify.com/track/4PBaW66WiNFXh5pdrYjlhE) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Fond Adieu](https://open.spotify.com/album/0eoPFyv4fmzB3IFG8U7JYi) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDYwZDM4Nzc1ZmQyMDY4YTM5NTNiZDUzZjMwMWYyZWRh`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDIwMmJkMWRkZTI5ZmEwMmVhMTg1ZGIwNDQ4NDM4NTE1`

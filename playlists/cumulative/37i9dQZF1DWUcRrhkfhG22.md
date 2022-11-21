@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-84 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+86 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 | 2021-05-14 |  |
 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 | 2022-04-01 |  |
 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 | 2020-09-18 |  |
-| [Back](https://open.spotify.com/track/0P7iti2eENyzPjWjvGaRzs) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 5:10 | 2020-09-18 |  |
+| [Back](https://open.spotify.com/track/0P7iti2eENyzPjWjvGaRzs) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 5:10 | 2020-09-18 | 2022-11-21 |
+| [Back](https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 5:10 | 2020-09-18 |  |
 | [BMBM](https://open.spotify.com/track/1Ibl3KfZXlzkvyuV9REdWd) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Night Cruisin'](https://open.spotify.com/album/6sL3gRxmuhhsSpc196Enif) | 3:06 | 2021-07-09 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/1hOOaJNogPDV1yQVAUipKy) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI), [Methrone](https://open.spotify.com/artist/3YqRniSXLT8kdm125ZfQF6), [Sinamin](https://open.spotify.com/artist/2R2Cc3QWntnZ2IbTOc47KS) | [Bonnie & Clyde](https://open.spotify.com/album/6l3CpW4VLWVSvC0ARj9Cfn) | 4:41 | 2021-03-05 |  |
 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 |  |
@@ -67,7 +68,8 @@
 | [Race Babbling](https://open.spotify.com/track/7GFNufAK34Llw3U6YKuAI6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Journey Through The Secret Life Of Plants](https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY) | 8:52 | 2020-09-18 |  |
 | [Ray Phunk Show](https://open.spotify.com/track/2jO8nQnIz4GfdNpv64cCgX) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4) | [Ray Phunk Show](https://open.spotify.com/album/43ptuA861r3UXQU1YeiFZ8) | 3:32 | 2022-02-11 |  |
 | [Scorpio](https://open.spotify.com/track/3oWXABQqIZ8ETgM7hxxxO5) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 4:55 | 2020-09-18 |  |
-| [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 |  |
+| [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 | 2020-09-18 |  |
+| [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 | 2022-11-21 |
 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 | 2020-09-18 |  |
 | [Show You A Thing Or Two](https://open.spotify.com/track/6KwTEWRdj3zH56wZar0B9o) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:10 | 2020-12-08 |  |
 | [Slow Down](https://open.spotify.com/track/4EVGxsNUEf1hFq4eZXdhtm) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN), [Exhel Boladisco](https://open.spotify.com/artist/0jlTWrSGnWuIYJfXQwNMg9) | [Slow Down](https://open.spotify.com/album/4QGqj4P4GD9ABJXcEC6WT1) | 3:25 | 2021-03-12 |  |

@@ -1325,10 +1325,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 189103,
       "name": "Sell Off",
       "url": "https://open.spotify.com/track/2w5QZbIg9O5Eq9e3wBIA4c"
+    },
+    {
+      "album": {
+        "name": "Sell Off",
+        "url": "https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Sell Off",
+      "url": "https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z"
     },
     {
       "album": {

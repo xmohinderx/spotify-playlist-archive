@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Polaco & La China.",
-  "num_followers": 1146738,
+  "num_followers": 1147079,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGY2MTM5ZTcxMTYyNDFjZDJlMmM3Y2M2ZGQ0ZWU5NTY0",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDVlNmM2ZTFmNDdkMWI3YWU1MTNmN2JlYWI1NWNjOWFk",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Cumbia Vieja",
         "url": "https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 165661,
       "name": "Cumbia Vieja",
       "url": "https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "La Dif\u00edcil",
         "url": "https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Con el Alcohol",
-        "url": "https://open.spotify.com/album/5XJpqHrHnczNDWSf08hz2U"
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
       "artists": [
         {
@@ -1316,13 +1316,13 @@
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
         }
       ],
-      "duration_ms": 165449,
-      "name": "Con el Alcohol",
-      "url": "https://open.spotify.com/track/2SwwyxbjKaCPx4kuiSsEdp"
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+        "name": "Con el Alcohol",
+        "url": "https://open.spotify.com/album/5XJpqHrHnczNDWSf08hz2U"
       },
       "artists": [
         {
@@ -1476,13 +1476,13 @@
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+      "duration_ms": 165449,
+      "name": "Con el Alcohol",
+      "url": "https://open.spotify.com/track/2SwwyxbjKaCPx4kuiSsEdp"
     },
     {
       "added_at": "2022-11-18 03:00:00",

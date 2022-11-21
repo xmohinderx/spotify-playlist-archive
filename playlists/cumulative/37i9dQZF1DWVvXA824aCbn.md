@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-335 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+336 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2020-10-20\* | 2022-06-30 |
 | [Fines Doubled](https://open.spotify.com/track/3QUbBo74iaNkC0eqLzVqiA) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 2:24 | 2021-07-01 |  |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-10 |  |
+| [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-04-11 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/0mnUFEVSj8hqWj9jJWzOHi) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [For Heaven's Sake](https://open.spotify.com/album/1OedLBy9HcEiqNWmjKXzp1) | 11:52 | 2021-04-23 | 2022-07-29 |
 | [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 | 2022-06-29 | 2022-10-30 |
@@ -336,7 +337,7 @@
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2021-10-01 |  |
 | [You Go To My Head](https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You Go To My Head](https://open.spotify.com/album/7FEy0OXhxkb2FnGRLj7XbS) | 4:29 | 2022-05-10 |  |
 | [You Go To My Head](https://open.spotify.com/track/4mFe5Dps693mNeAvnyT09T) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Cheek To Cheek](https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde) | 3:55 | 2020-10-20\* | 2021-04-10 |
-| [You Go To My Head](https://open.spotify.com/track/366IPHOgIJJNwxJlfAcnv9) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:27 | 2021-01-21 |  |
+| [You Go To My Head](https://open.spotify.com/track/366IPHOgIJJNwxJlfAcnv9) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:27 | 2021-01-21 | 2022-11-21 |
 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 | 2021-03-10 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-04-26 |  |

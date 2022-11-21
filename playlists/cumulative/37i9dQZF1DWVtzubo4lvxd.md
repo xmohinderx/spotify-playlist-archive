@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-206 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+207 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [another.wun](https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7) | 1:45 | 2022-04-15 |  |
 | [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 |  |
-| [Autumn Chills](https://open.spotify.com/track/1QeNanRwlzQT8gQ2RDsSqP) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/6YwhevuTpiBj2f4ABjntyF) | 1:54 | 2022-04-15 |  |
+| [Autumn Chills](https://open.spotify.com/track/1QeNanRwlzQT8gQ2RDsSqP) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/6YwhevuTpiBj2f4ABjntyF) | 1:54 | 2022-04-15 | 2022-11-21 |
 | [Autumn Chills](https://open.spotify.com/track/75reExYuxnJtFw5HYdR4ZW) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 |  |
@@ -189,6 +189,7 @@
 | [The Moon](https://open.spotify.com/track/4pVoppWJ8mrOV3U0fxmQts) | [Funk Andrews](https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh) | [Popsicle](https://open.spotify.com/album/5B0i573qDyP4p5fMp1zLvJ) | 3:01 | 2022-04-15 | 2022-07-29 |
 | [Thinkin About You](https://open.spotify.com/track/4qOS5NoY0Y1zOx98qFxorw) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:40 | 2022-04-15 | 2022-07-27 |
 | [this girl](https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 2:02 | 2022-04-15 | 2022-11-19 |
+| [this girl](https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 2:02 | 2022-04-15 |  |
 | [this one is for you](https://open.spotify.com/track/4LldbfLNmXOCgFbZdfGEAV) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV) | 1:18 | 2022-04-15 | 2022-07-25 |
 | [Tick Tock](https://open.spotify.com/track/3al8a3uZrOZIHc6J1n8i5f) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:13 | 2022-04-15 | 2022-11-17 |
 | [Tide](https://open.spotify.com/track/5la9kc6osTp6HZU9sHzEJx) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Tide](https://open.spotify.com/album/1zTcLZZrU1J9YISA0lCnYT) | 1:43 | 2022-04-15 | 2022-07-29 |

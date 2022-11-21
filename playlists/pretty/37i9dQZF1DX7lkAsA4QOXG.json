@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 58021,
+  "num_followers": 58241,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1NzY2NSwwMDAwMDAwMDVjZjhlNDQxYzU4ODdiNTAzZTU5Y2JhMzBlZDcyMTJl",
+  "snapshot_id": "MTY2ODc1NzY2NSwwMDAwMDAwMDk5NjFjYjU4Zjc0N2QzY2QxZjhlZTBjNmRiNTc5ZDZi",
   "tracks": [
     {
       "added_at": "2022-11-18 07:47:45",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e"
-    },
-    {
-      "added_at": "2022-11-18 07:47:45",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 237640,
       "name": "Dance Me To The End Of Love",
       "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
+    },
+    {
+      "added_at": "2022-11-18 07:47:45",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Heart of Darkness",
-        "url": "https://open.spotify.com/album/3R36rbkliSHiVAowHklThQ"
+        "name": "The Many Facets of George Shearing",
+        "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
       },
       "artists": [
         {
-          "name": "Natalia Mateo",
-          "url": "https://open.spotify.com/artist/0Ypm2UCjkVZpnog2SDlwPH"
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        },
+        {
+          "name": "Andrew Simpkins",
+          "url": "https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg"
         }
       ],
-      "duration_ms": 243314,
-      "name": "Take a Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/3mZuoV46mUS6MkzF7ACeZN"
+      "duration_ms": 296000,
+      "name": "Here, There and Everywhere",
+      "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -835,22 +839,18 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "The Many Facets of George Shearing",
-        "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
+        "name": "Heart of Darkness",
+        "url": "https://open.spotify.com/album/3R36rbkliSHiVAowHklThQ"
       },
       "artists": [
         {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        },
-        {
-          "name": "Andrew Simpkins",
-          "url": "https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg"
+          "name": "Natalia Mateo",
+          "url": "https://open.spotify.com/artist/0Ypm2UCjkVZpnog2SDlwPH"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Here, There and Everywhere",
-      "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
+      "duration_ms": 243314,
+      "name": "Take a Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/3mZuoV46mUS6MkzF7ACeZN"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "The End Of A Summer",
-        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
-      },
-      "artists": [
-        {
-          "name": "Julia H\u00fclsmann Trio",
-          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "Kiss From A Rose",
-      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
-    },
-    {
-      "added_at": "2022-11-18 07:47:45",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 342473,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/2mLjXYU12qbQRrMcxUhhse"
+    },
+    {
+      "added_at": "2022-11-18 07:47:45",
+      "album": {
+        "name": "The End Of A Summer",
+        "url": "https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt"
+      },
+      "artists": [
+        {
+          "name": "Julia H\u00fclsmann Trio",
+          "url": "https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
-    },
-    {
-      "added_at": "2022-11-18 07:47:45",
-      "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
         "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2022-11-18 07:47:45",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 356026,
-      "name": "She's Leaving Home",
-      "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
-    },
-    {
-      "added_at": "2022-11-18 07:47:45",
-      "album": {
         "name": "You Should Have Told Me",
         "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 239186,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
+    },
+    {
+      "added_at": "2022-11-18 07:47:45",
+      "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 356026,
+      "name": "She's Leaving Home",
+      "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1571,26 +1571,18 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
       "artists": [
         {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1619,18 +1611,26 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+        "name": "Speak Low II",
+        "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
         }
       ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
+      "duration_ms": 318086,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1647,6 +1647,22 @@
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
+    },
+    {
+      "added_at": "2022-11-18 07:47:45",
+      "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2022-11-18 07:47:45",
       "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
       },
       "artists": [
         {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+          "name": "Charlie Ballantine",
+          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
         }
       ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+      "duration_ms": 223373,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2022-11-18 07:47:45",
@@ -1719,22 +1735,6 @@
       "duration_ms": 282737,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"
-    },
-    {
-      "added_at": "2022-11-18 07:47:45",
-      "album": {
-        "name": "Falling Grace",
-        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ballantine",
-          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2022-11-18 07:47:45",

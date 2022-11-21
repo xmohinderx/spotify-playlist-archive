@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,323 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,310 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 17 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 |
 | 18 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 |
 | 19 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 |
-| 20 | [Breddaz](https://open.spotify.com/track/3eFK7YcmFd90Q0gozVo6q1) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/7rD5yTGXPn8LthwKhgKRG3) | 2:25 |
+| 20 | [Breddaz](https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/5FT4AWmrf82orNUV9Y8EwD) | 2:26 |
 | 21 | [Gib Gib](https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Gib Gib](https://open.spotify.com/album/557EOriY4Y0nOixN726p9C) | 2:59 |
 | 22 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 |
 | 23 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Tut mir nicht leid](https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [M \(Extended\)](https://open.spotify.com/album/1AnZRh08V385fqDx1qw979) | 3:02 |
 | 60 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDM5NjYwNGJlMzA1NDQyZTRjMGQ0OGFmMDNkZDhhYWE2`
+Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMGY1ZDQzMTQ3ZDZiNzRhYTJlNWVhZjBiYjU0Nzg3MGFi`

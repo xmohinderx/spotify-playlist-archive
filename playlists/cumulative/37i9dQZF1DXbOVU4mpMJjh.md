@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-439 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+440 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 | 2022-06-30 | 2022-09-16 |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-28 |  |
 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 | 2022-04-14 | 2022-10-08 |
+| [For Theodora](https://open.spotify.com/track/782yLVaT5RonpqxonaqbNu) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [For Theodora](https://open.spotify.com/album/06Ld3YPBpEKNrpFCwrURO3) | 3:08 | 2022-11-17 |  |
 | [For Wee Folks](https://open.spotify.com/track/0Uu93Y0BiC2h01Al6QpvWY) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4TaOCrT1cWbvKXq46fIMll) | 6:28 | 2022-04-14 | 2022-07-29 |
 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 | 2022-06-30 | 2022-10-02 |
 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 | 2022-06-30 | 2022-10-08 |
@@ -349,7 +350,7 @@
 | [Star Crossed Lovers](https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Cross Culture](https://open.spotify.com/album/6GU8My9KPSrMhSFiAVVJOM) | 7:34 | 2022-04-14 | 2022-09-23 |
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-11 |  |
 | [Stella By Starlight](https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 5:47 | 2022-04-14 | 2022-10-11 |
-| [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 | 2022-08-16 |  |
+| [Stillness is a Gift](https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 4:15 | 2022-08-16 | 2022-11-21 |
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2022-04-14 | 2022-10-11 |
 | [Stolen Moments](https://open.spotify.com/track/11jHKP7tpYcDrVuSctGG6o) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Jazz: 1950's and 60's Hits](https://open.spotify.com/album/6Rok1pvg6wcWkR8JmRxrqP) | 8:44 | 2022-04-14 | 2022-07-29 |
 | [Stolen Moments](https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 8:45 | 2022-06-30 | 2022-11-11 |

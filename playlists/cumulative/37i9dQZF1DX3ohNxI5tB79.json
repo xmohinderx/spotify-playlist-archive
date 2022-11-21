@@ -2559,10 +2559,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 145181,
       "name": "TIBBE",
       "url": "https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn"
+    },
+    {
+      "album": {
+        "name": "GISEKE",
+        "url": "https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145181,
+      "name": "TIBBE",
+      "url": "https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE"
     },
     {
       "album": {

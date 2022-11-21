@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 27068,
+  "num_followers": 27096,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYzODYyOSwwMDAwMDAwMDdlNjk3NmU1ZWQ4Y2E3YjdjMDBhYjZlOGNkNDEyZGU3",
+  "snapshot_id": "MTY2ODYzODYyOSwwMDAwMDAwMDY3YmFlMDVlNWU0YzM4NDIwMmE0ZDhjZDNjODcwMGIx",
   "tracks": [
     {
       "added_at": "2022-11-16 22:43:49",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2022-11-16 22:43:49",
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
-    },
-    {
-      "added_at": "2022-11-16 22:43:49",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2022-11-16 22:43:49",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
+    },
+    {
+      "added_at": "2022-11-16 22:43:49",
+      "album": {
         "name": "A Radiant Sign",
         "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
-    },
-    {
-      "added_at": "2022-11-16 22:43:49",
-      "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/0BFBuQK4HZdmQMzov1uDri"
-      },
-      "artists": [
-        {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/68F3LC3u2JSW4TJ9zhdyjR"
     },
     {
       "added_at": "2022-11-16 22:43:49",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2022-11-16 22:43:49",
+      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -1199,22 +1219,6 @@
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
-    },
-    {
-      "added_at": "2022-11-16 22:43:49",
-      "album": {
-        "name": "Late Delivery",
-        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 202963,
-      "name": "Late Delivery",
-      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-11-16 22:43:49",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+        "name": "Late Delivery",
+        "url": "https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552"
       },
       "artists": [
         {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         }
       ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+      "duration_ms": 202963,
+      "name": "Late Delivery",
+      "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
     },
     {
       "added_at": "2022-11-16 22:43:49",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Max Vidima",
+          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
+    },
+    {
+      "added_at": "2022-11-16 22:43:49",
+      "album": {
         "name": "Marco Polo",
         "url": "https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
-    },
-    {
-      "added_at": "2022-11-16 22:43:49",
-      "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Max Vidima",
-          "url": "https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX"
     },
     {
       "added_at": "2022-11-16 22:43:49",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2022-11-16 22:43:49",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf"
-      },
-      "artists": [
-        {
-          "name": "blue my mind",
-          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
-        },
-        {
-          "name": "Manil",
-          "url": "https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl"
-        }
-      ],
-      "duration_ms": 153812,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm"
-    },
-    {
-      "added_at": "2022-11-16 22:43:49",
-      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+    },
+    {
+      "added_at": "2022-11-16 22:43:49",
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf"
+      },
+      "artists": [
+        {
+          "name": "blue my mind",
+          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
+        },
+        {
+          "name": "Manil",
+          "url": "https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl"
+        }
+      ],
+      "duration_ms": 153812,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm"
     },
     {
       "added_at": "2022-11-16 22:43:49",

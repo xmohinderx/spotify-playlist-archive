@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-363 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+364 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Light Show](https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Light Show](https://open.spotify.com/album/5AejAkCVG5O9NpfMLKA1SH) | 2:40 | 2021-10-29 | 2022-01-05 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 |  |
 | [Like I Do](https://open.spotify.com/track/7JBD5qv7cyDNKK9NuZoOrN) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Like I Do](https://open.spotify.com/album/0vXwZFAWGvb87C0HfztBLd) | 3:25 | 2022-07-08 | 2022-11-15 |
+| [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 |  |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Lit](https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [Weird Times](https://open.spotify.com/album/4totTVKPMuKn4akaWB64jt) | 3:52 | 2021-10-29 | 2022-01-19 |
 | [LO\*E DR\*G](https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [LO\*E DR\*G](https://open.spotify.com/album/6WJVvCCjwcavVVMM9oOfdY) | 3:01 | 2021-10-29 | 2022-05-28 |
@@ -277,7 +278,7 @@
 | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/track/1cycPybSk3hzUNOGZ7l1Ya) | [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Renegade Master \(Back Once Again\) \[Volac Remix\]](https://open.spotify.com/album/2PVmLFvkSWx9yblbSXCPCY) | 3:04 | 2021-10-29 | 2022-01-20 |
 | [Represent](https://open.spotify.com/track/0m1T6bvHN1TtWJD88cgXLo) | [Hotfire](https://open.spotify.com/artist/1qNnOOSKdsCMmGIxeCdjtm) | [Thing + Represent](https://open.spotify.com/album/7cda4GMBkL9VXDmu7n9nda) | 3:33 | 2021-10-29 | 2022-01-03 |
 | [Ride with Us](https://open.spotify.com/track/71mJJ2kF8TnwDbNnBbSnzy) | [TCHDWN](https://open.spotify.com/artist/60niYEUa3Wsf65wvQUy5tw) | [Ride with Us](https://open.spotify.com/album/5JaU29Bf9psPTIBiBAntE6) | 3:58 | 2021-10-29 | 2022-01-11 |
-| [Ridiculous](https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Ridiculous](https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3) | 2:20 | 2022-06-03 |  |
+| [Ridiculous](https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Ridiculous](https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3) | 2:20 | 2022-06-03 | 2022-11-21 |
 | [Ring The Alarm](https://open.spotify.com/track/6HeKrqik6GxcbdKsk7FRnt) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Ring The Alarm](https://open.spotify.com/album/0hEbycKgvdwFSUZFWocFcm) | 3:35 | 2021-10-29 | 2022-01-22 |
 | [Ring The Alarm \- Habstrakt Remix](https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Ring The Alarm \(Remixes\)](https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w) | 2:56 | 2021-12-17 | 2022-04-23 |
 | [Riot Gear](https://open.spotify.com/track/4sfItXEPyigeIuV5E6pS8b) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Riot Gear](https://open.spotify.com/album/1AIZUnYfTMKXBlDLChdN6M) | 3:09 | 2021-10-29 | 2022-05-28 |

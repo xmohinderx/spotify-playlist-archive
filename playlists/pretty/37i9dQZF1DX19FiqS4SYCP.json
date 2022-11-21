@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140826,
+  "num_followers": 140822,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDNhNGEyMzBlYTJlNmJhOWEwMmE1MTg5OWZlZDUzZGUy",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDRhMjM4MDlkNGVjOWU1NjFkYTFiZDUzNzFmZWE2NGFi",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
-      },
-      "artists": [
-        {
-          "name": "Zenzio",
-          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
-        }
-      ],
-      "duration_ms": 175447,
-      "name": "Que Mentira",
-      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 240734,
       "name": "Cuatro Caminos",
       "url": "https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
+      },
+      "artists": [
+        {
+          "name": "Zenzio",
+          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
+        }
+      ],
+      "duration_ms": 175447,
+      "name": "Que Mentira",
+      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Live Sessions 1",
         "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 213211,
       "name": "Ya No Te Aguanto Moe (Live)",
       "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 188874,
       "name": "Desastre Natural",
       "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+      },
+      "artists": [
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
-      },
-      "artists": [
-        {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
-        }
-      ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Trampa De Amor",
         "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 161610,
       "name": "Trampa De Amor",
       "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+      },
+      "artists": [
+        {
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+        }
+      ],
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     },
     {
       "added_at": "2022-09-15 18:41:23",

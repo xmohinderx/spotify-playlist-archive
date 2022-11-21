@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 160392,
+  "num_followers": 160337,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGM3NTk2N2M0MjYzODA5NGVlYzc4MDk2ZjgwMjczYTcx",
+  "snapshot_id": "MTY2ODcwMDMxMSwwMDAwMDAwMGY4NTRhYjNhYjE2Y2MyNjNlOTNlMjE3NzIxYmZkZDVi",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+      "duration_ms": 257786,
+      "name": "Jealous Guy - Remastered 2010",
+      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 218186,
       "name": "The Long And Winding Road - Remastered 2009",
       "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Jealous Guy - Remastered 2010",
-      "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Living In The Material World (Remastered)",
-        "url": "https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Give Me Love (Give Me Peace On Earth)",
-      "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
-    },
-    {
       "added_at": "2021-11-23 12:54:05",
       "album": {
         "name": "Moondance (Deluxe Edition)",
@@ -971,6 +955,22 @@
       "duration_ms": 272160,
       "name": "And It Stoned Me - 2013 Remaster",
       "url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Give Me Love (Give Me Peace On Earth)",
+      "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1019,6 +1019,22 @@
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 190065,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 190065,
-      "name": "Dirty Work",
-      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -1167,6 +1167,38 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Every Night - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7zE7VClzAEYa9nUDC950pT"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
@@ -1211,38 +1243,6 @@
       "duration_ms": 177426,
       "name": "I'd Have You Anytime - Remastered 2014",
       "url": "https://open.spotify.com/track/0wZuvGn7nZbKoyKOlwZQMF"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "McCartney (Archive Collection)",
-        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "Every Night - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7zE7VClzAEYa9nUDC950pT"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
     },
     {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Book Of Dreams",
-        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Winter Time",
-      "url": "https://open.spotify.com/track/4yQCgQVUIRBUnLdmXtZ0bo"
-    },
-    {
       "added_at": "2022-07-05 15:51:51",
       "album": {
         "name": "CSN 2012",
@@ -1515,6 +1499,22 @@
       "duration_ms": 226560,
       "name": "Our House",
       "url": "https://open.spotify.com/track/6ofrP1AqJbDg5T3NKxcKlG"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Book Of Dreams",
+        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Winter Time",
+      "url": "https://open.spotify.com/track/4yQCgQVUIRBUnLdmXtZ0bo"
     },
     {
       "added_at": "2021-11-23 12:34:50",

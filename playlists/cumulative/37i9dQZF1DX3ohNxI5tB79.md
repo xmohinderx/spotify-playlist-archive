@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-162 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+163 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [The Optimist](https://open.spotify.com/track/6yefcxg5NPvCNPavfcq1VY) | [Toine Thys Trio](https://open.spotify.com/artist/5gfeHeriNmVvlaEPTJLcqp) | [The Optimist](https://open.spotify.com/album/2ElHab0qhKWa2W2l601M3u) | 6:26 | 2021-12-13 |  |
 | [This Could Be \(For The Travelling Soul\)](https://open.spotify.com/track/0uTdYqGBYFbtqVW5Bh5MH1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Escape Velocity](https://open.spotify.com/album/3VlHCSdtb0nKYFXMJmABEA) | 4:46 | 2021-12-13 | 2022-07-29 |
 | [This Could Be \(For The Travelling Soul\)](https://open.spotify.com/track/2gJAV3lXjwnf2sl3o7CWlQ) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Escape Velocity](https://open.spotify.com/album/45mH7pfxcuLpeWn5ncweBG) | 4:46 | 2022-07-05 | 2022-10-01 |
-| [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 | 2021-12-13 |  |
+| [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 | 2021-12-13 | 2022-11-21 |
+| [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 | 2022-10-30 |  |
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2021-12-13 |  |
 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 | 2022-09-30 |  |
 | [Toxic Love Affair](https://open.spotify.com/track/1l1oUS33fGuK1YKThB1bWD) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Sanguita](https://open.spotify.com/artist/596Z7VqyKPIb7kRE4hHjma) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:33 | 2021-12-13 | 2022-10-31 |

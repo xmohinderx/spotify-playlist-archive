@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-81 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1qWKcFnGWK5ylu3NU6p4us)
+82 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/1qWKcFnGWK5ylu3NU6p4us)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Remember Who You Are \- Reprise](https://open.spotify.com/track/4dSzqYdNc4nz3knQp7wXAO) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Remember Who You Are](https://open.spotify.com/album/5yCGSEkSYJdLMa57czbpOa) | 1:13 | 2022-05-25 |  |
 | [Riding the Tiger \- Single Mix](https://open.spotify.com/track/47O67rbzd7mokTaQu1CbpL) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:10 | 2022-05-31 | 2022-10-13 |
 | [Screamin' at the Moon](https://open.spotify.com/track/7K9lnr4hGsGkx1OtrxUz8g) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:09 | 2022-05-25 | 2022-10-13 |
+| [Set a Little Trap](https://open.spotify.com/track/35f3pH2ABjxmVpvqBYZ8kU) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 | 2022-11-20 |  |
 | [Sleep On It](https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:20 | 2022-05-27 |  |
 | [Slow Dancin'](https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:33 | 2022-06-02 | 2022-10-12 |
 | [So Strange \- 12" Version](https://open.spotify.com/track/7cjiv0EP4j3wbNkehZbb74) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 9:01 | 2022-08-15 | 2022-10-12 |
@@ -86,7 +87,7 @@
 | [Why Not Me](https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:40 | 2022-05-25 |  |
 | [You Just Don't Know](https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:14 | 2022-05-25 |  |
 | [You Know How to Love Me \- 7" Version](https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:46 | 2022-05-25 |  |
-| [You Sure Look Good to Me](https://open.spotify.com/track/2yBObzbh1q6Av50sdUQBZX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:20 | 2022-05-25 |  |
+| [You Sure Look Good to Me](https://open.spotify.com/track/2yBObzbh1q6Av50sdUQBZX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:20 | 2022-05-25 | 2022-11-21 |
 | [You're the One](https://open.spotify.com/track/1y0MAxhcUjl0oADI4xtdSO) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:21 | 2022-09-11 | 2022-09-15 |
 | [Your Move, My Heart](https://open.spotify.com/track/2hsYj0BZHBOj9aXTCEh13l) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:44 | 2022-05-25 | 2022-09-29 |
 

@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Disturbed
 
-557 songs - 1 day 9 hr 36 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+558 songs - 1 day 9 hr 39 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Come Alive](https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Come Alive](https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ) | 3:53 | 2021-04-16 | 2022-01-08 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-06-03 | 2022-07-02 |
 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 | 2022-06-24 | 2022-08-06 |
-| [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 | 2022-10-07 |  |
+| [Counting Sheep](https://open.spotify.com/track/1JUpOhMBQefPehm8W2tclo) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Wrap Your Head Around](https://open.spotify.com/album/2M4aK6tyusSZINJOWk7ayQ) | 3:24 | 2022-11-18 |  |
+| [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 | 2022-10-07 | 2022-11-21 |
 | [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-07-22 | 2022-10-14 |
 | [Crocus](https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Datura](https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY) | 3:57 | 2022-10-14 |  |
 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 | 2022-06-24 | 2022-10-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
-  "num_followers": 59910,
+  "num_followers": 59940,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGQyNGY2MGNmYWE1ZGNhY2E3Y2QxNzhkNjBjMDRiNTNk",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDFmNjQ3ZGQwYmZmNTI3OGI5YjBlNmFjMTYwMmViNzY5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -259,50 +259,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Como \u00d1engo (feat. Jota Rosa)",
-        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
-      },
-      "artists": [
-        {
-          "name": "Club16",
-          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Jota Rosa",
-          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
-        }
-      ],
-      "duration_ms": 204136,
-      "name": "Como \u00d1engo (feat. Jota Rosa)",
-      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Toque de Queda",
-        "url": "https://open.spotify.com/album/2rWEMcJOrENRu6uB4AJITv"
-      },
-      "artists": [
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Toque de Queda",
-      "url": "https://open.spotify.com/track/2xw8SE40VrzlJ1QHDe50ec"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -327,6 +283,50 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Toque de Queda",
+        "url": "https://open.spotify.com/album/2rWEMcJOrENRu6uB4AJITv"
+      },
+      "artists": [
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2xw8SE40VrzlJ1QHDe50ec"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Como \u00d1engo (feat. Jota Rosa)",
+        "url": "https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC"
+      },
+      "artists": [
+        {
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        }
+      ],
+      "duration_ms": 204136,
+      "name": "Como \u00d1engo (feat. Jota Rosa)",
+      "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "COMO TE VEO",
+        "url": "https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "COMO TE VEO",
+      "url": "https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Garabatos (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "COMO TE VEO",
-        "url": "https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "COMO TE VEO",
-      "url": "https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Q-Lito",
-        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Q-Lito",
-      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Prendete",
         "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 213837,
       "name": "Prendete",
       "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Q-Lito",
+        "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Q-Lito",
+      "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
       "added_at": "2022-11-18 05:01:00",

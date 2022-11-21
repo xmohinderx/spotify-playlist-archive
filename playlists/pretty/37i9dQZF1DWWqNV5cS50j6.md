@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,211 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,358 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NEW SHOES](https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [TM](https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA) | 3:18 |
 | 2 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 |
-| 3 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
-| 4 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
-| 5 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 |
-| 6 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
-| 7 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 |
-| 8 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
-| 9 | [Me n My Girl](https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Me n My Girl](https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT) | 2:10 |
-| 10 | [MONKEYBALL](https://open.spotify.com/track/01cE88yfT1liEsHfYrSaRo) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOGWASH](https://open.spotify.com/album/5obM1R5JkJfcnHFiXzEEsI) | 2:21 |
-| 11 | [NIGHT RIDER](https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:07 |
-| 12 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 |
-| 13 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
+| 3 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
+| 4 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 |
+| 5 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
+| 6 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
+| 7 | [MONKEYBALL](https://open.spotify.com/track/01cE88yfT1liEsHfYrSaRo) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOGWASH](https://open.spotify.com/album/5obM1R5JkJfcnHFiXzEEsI) | 2:21 |
+| 8 | [Me n My Girl](https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Me n My Girl](https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT) | 2:10 |
+| 9 | [NIGHT RIDER](https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:07 |
+| 10 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 |
+| 11 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
+| 12 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
+| 13 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 |
 | 14 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
 | 15 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
 | 16 | [Digital Damage](https://open.spotify.com/track/24RzjJ27ViMqSrBFATgeH3) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/0mHPOIHZsEAr10EWZVsPRg) | 2:29 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 61 | [Don't Ask, Don't Tell \(feat\. redveil, Sam Truth & Glen the Saiyan\)](https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Glen the Saiyan](https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 4:57 |
 | 62 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 |
 | 63 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
-| 64 | [Tattoos](https://open.spotify.com/track/0ho9SbEktNtbM7eBly2958) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/3zUAcJXXnaHWTGWimwp8iC) | 2:08 |
+| 64 | [Tattoos](https://open.spotify.com/track/59qGmxN1vJNZf1Y9NXbR00) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Bad Decisions](https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU) | 2:08 |
 | 65 | [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
 | 66 | [Rey Mysterio](https://open.spotify.com/track/5lMANswgAGvs6C8lUIQHxH) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Rey Mysterio](https://open.spotify.com/album/06qkxi5dRtOx8Wtzu0XSc5) | 2:26 |
 | 67 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [Can We Talk?](https://open.spotify.com/track/6nUn03gjgENFLXHt3c3LDq) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Can We Talk?](https://open.spotify.com/album/5TwgvZiqe2SfDkvTZ5Y2ni) | 3:46 |
 | 101 | [slumber](https://open.spotify.com/track/3Z6LBHVcNXuAEpXrKwUEAS) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [slumber](https://open.spotify.com/album/4Q4b9Ti4hXcyItDQC9KKR8) | 2:53 |
 
-Snapshot ID: `MTY2ODc4ODQ4OCwwMDAwMDAwMDAxOGMyNjhiODA0YjYxMWZkZjBmOWU3NTM2ZmE1NjEy`
+Snapshot ID: `MTY2ODk2Mjk3MywwMDAwMDAwMDFhNmU1NDM1OWU4OWY5YWFmYjZiYzBkMGVmOTE0NGI2`

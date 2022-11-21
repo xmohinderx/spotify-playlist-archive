@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Majo Aguilar en portada.",
-  "num_followers": 97644,
+  "num_followers": 97697,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDE2Y2IwMzgxODczZDk5ZGE5ZGY4ODMwYjYyY2VkOGE3",
+  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDZlYWNkZGFhMzI0ZThjZWFiMTU2ZjQwYWQxMWFhYTYy",
   "tracks": [
     {
       "added_at": "2022-11-11 06:00:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI"
     },
     {
-      "added_at": "2022-10-07 15:31:27",
-      "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
-    },
-    {
       "added_at": "2022-06-08 17:57:52",
       "album": {
         "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
@@ -1319,6 +1303,22 @@
       "duration_ms": 173174,
       "name": "Te Solt\u00e9 La Rienda",
       "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
+    },
+    {
+      "added_at": "2022-10-07 15:31:27",
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": "2022-06-08 17:57:52",

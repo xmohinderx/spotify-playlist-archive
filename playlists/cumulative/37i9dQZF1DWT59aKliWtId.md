@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. First Aid Kit
 
-567 songs - 1 day 10 hr 31 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+569 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Galacticana](https://open.spotify.com/track/3hwnMsJB7c8tF9f0AAt6ak) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 4:00 | 2021-12-10 | 2022-02-12 |
 | [German Cars](https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [German Cars](https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT) | 3:21 | 2022-06-24 | 2022-08-27 |
 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 | 2021-12-10 | 2022-03-05 |
-| [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 | 2022-11-04 |  |
+| [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 | 2022-11-04 | 2022-11-21 |
+| [Getting It Right](https://open.spotify.com/track/7zNFIqmdezDsHbvyQz86Gd) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 2:50 | 2022-11-18 |  |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 | 2022-04-09 |
 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-10 | 2022-02-12 |
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2022-06-24 | 2022-07-30 |
@@ -532,8 +533,9 @@
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-03-18 | 2022-06-25 |
 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 | 2021-12-10 | 2022-03-18 |
 | [Vault of Heaven](https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Vault of Heaven](https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe) | 3:59 | 2022-08-19 |  |
-| [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 | 2022-09-16 |  |
+| [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 | 2022-09-16 | 2022-11-21 |
 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3WnV3vhvmrvz70QZj1klJs) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Don't Want You To Know](https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb) | 5:37 | 2022-11-04 | 2022-11-13 |
+| [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 5:37 | 2022-11-18 |  |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 | 2022-02-11 | 2022-04-29 |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/3dDaJo3QS9Bohk8wrG5Pvv) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:25 | 2022-04-29 | 2022-09-24 |
 | [Virginia Beach](https://open.spotify.com/track/4O8uW41RxfVF6AJRehcG9W) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Virginia Beach](https://open.spotify.com/album/4P6mNT2XCm80IEWC34mG2Y) | 3:59 | 2021-12-10 | 2022-03-12 |

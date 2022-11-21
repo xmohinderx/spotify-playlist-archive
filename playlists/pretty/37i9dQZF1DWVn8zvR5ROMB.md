@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Ashley Cooke, Nate Smith, Blanco Brown  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,817 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,153 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

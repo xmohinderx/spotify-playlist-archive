@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,203 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,155 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 18 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 19 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 |
 | 20 | [Everybody Love \[Feat\. Musiq Soulchild & Posdnuos\]](https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:03 |
-| 21 | [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 |
+| 21 | [TIBBE](https://open.spotify.com/track/604GSvawPBPTa36Bw2pifE) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [GISEKE](https://open.spotify.com/album/3EVhMsdzVzTUe1I67viGDv) | 2:25 |
 | 22 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 23 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 |
 | 24 | [Mile High](https://open.spotify.com/track/1Qxqg9EGoPS9vaGsK6S3lG) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Mile High](https://open.spotify.com/album/0q4am7IpBH0w8vgwVyoMCM) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 89 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 | 90 | [Voodoo](https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/0SPo1dCxCB2boKeSGI7tVf) | 3:16 |
 
-Snapshot ID: `MTY2ODcyNzUxMiwwMDAwMDAwMDM3Yzc2NzY1MmIxNDM4ZGZiNjhjOWI0NjAzNzZhNTY5`
+Snapshot ID: `MTY2ODcyNzUxMiwwMDAwMDAwMDYxZWM4NTIxMzA2OTAzMTg0NmI1ODI0NmE4OThlODJj`

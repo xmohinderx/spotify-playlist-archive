@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,547 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,556 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 26 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 |
 | 27 | [Lustre Parfait](https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc), [Bob Rock](https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg) | [Lustre Parfait](https://open.spotify.com/album/3COm2ocWxMY5cupg6hLcRk) | 3:53 |
 | 28 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 |
-| 29 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 |
+| 29 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 |
 | 30 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 |
 | 31 | [Come Together](https://open.spotify.com/track/3LZwy0CZYV6qLowXzbzRE0) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Come Together](https://open.spotify.com/album/2kdNcS7QqKABgzxfcwR5xg) | 3:53 |
 | 32 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 |
 | 100 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDllZGYxODE4YmYzYjM1MjJiN2Q3YWM4NmU3MzRmNTEy`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDY4Nzg2N2JmOTVmZTBjNTI2NjE3ZGE1ZDhlNGZiNGNh`

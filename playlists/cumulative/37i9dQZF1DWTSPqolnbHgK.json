@@ -947,10 +947,28 @@
       ],
       "date_added": "2019-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 380626,
       "name": "Charles",
       "url": "https://open.spotify.com/track/5kjoBVjxyIvxbl3kwgubH8"
+    },
+    {
+      "album": {
+        "name": "Beanfield",
+        "url": "https://open.spotify.com/album/6d7iZSJBM3GlVWF7LX8AWJ"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380626,
+      "name": "Charles",
+      "url": "https://open.spotify.com/track/6tHe3Wh0lmuvbvEKS8B7sX"
     },
     {
       "album": {

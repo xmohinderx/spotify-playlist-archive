@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 315739,
+  "num_followers": 315672,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGFkMDliNjM0MWZjOGJlZWU4YjhlYjJhNWQ3ODAzMjI5",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGNmMDlhNGQ2Mjc0NzkzNDRjNmMyNDRmMDA4Y2UwYzEy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Gringos Revenge",
+        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Gringos Revenge",
+      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Black Betty - Single",
@@ -385,20 +401,20 @@
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Gringos Revenge",
-        "url": "https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF"
+        "name": "Why Don't You",
+        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
       },
       "artists": [
         {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+          "name": "Gramophonedzie",
+          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Gringos Revenge",
-      "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
+      "duration_ms": 170273,
+      "name": "Why Don't You - Radio Edit",
+      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -419,18 +435,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Why Don't You",
-        "url": "https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P"
+        "name": "Atlantic Ballroom",
+        "url": "https://open.spotify.com/album/5OibdNiyEx8gxw9ASUAkwI"
       },
       "artists": [
         {
-          "name": "Gramophonedzie",
-          "url": "https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc"
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "Patrizia Ferrara",
+          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
         }
       ],
-      "duration_ms": 170273,
-      "name": "Why Don't You - Radio Edit",
-      "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
+      "duration_ms": 193639,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4KMIxYB3OX5GvKGH2XXOiq"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -451,26 +471,6 @@
       "duration_ms": 138645,
       "name": "Wellerman - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Atlantic Ballroom",
-        "url": "https://open.spotify.com/album/5OibdNiyEx8gxw9ASUAkwI"
-      },
-      "artists": [
-        {
-          "name": "Waldeck",
-          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
-        },
-        {
-          "name": "Patrizia Ferrara",
-          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
-        }
-      ],
-      "duration_ms": 193639,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/4KMIxYB3OX5GvKGH2XXOiq"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Love!",
-        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Love!",
-      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Still Dancing",
@@ -575,6 +559,22 @@
       "duration_ms": 198453,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Love!",
+        "url": "https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Love!",
+      "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Doorsteps",
-        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
-      },
-      "artists": [
-        {
-          "name": "Kormac",
-          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
-        },
-        {
-          "name": "(feat. MC Little Tree)",
-          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
-        }
-      ],
-      "duration_ms": 328441,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
-    },
-    {
       "added_at": "2022-11-07 16:43:23",
       "album": {
         "name": "The Illusionist (Glenn Gatsby Remix)",
@@ -1155,6 +1135,26 @@
       "duration_ms": 171707,
       "name": "The Illusionist - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/16FCFtwDtgv4OamXVZrqim"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+      },
+      "artists": [
+        {
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+        }
+      ],
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Day & Night",
@@ -1375,6 +1359,22 @@
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     }
   ],
   "unique_name": "Electro Swing",

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14626,
+  "num_followers": 14631,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGY5YjlkMjRhYjljMWZiYTE5ODEzYzY4ZTliNzkxNDBj",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGE0NzUzOWE0ODEwMWMxYTFlOTVhNWJjZmNhZTE3ZmY1",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Strut (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189965,
-      "name": "Strut - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Aurora (The Remixes)",
         "url": "https://open.spotify.com/album/6Gv5PgU3GUfVRL45CE2Qa6"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 169053,
       "name": "Aurora (Hard Lights Remix)",
       "url": "https://open.spotify.com/track/0esrr1kWuUvArhYC1JZ7vL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Strut (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189965,
+      "name": "Strut - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1567,30 +1567,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Show Me Love (Sander van Doorn Remix)",
         "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 188437,
       "name": "Show Me Love - Sander van Doorn Remix",
       "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1843,34 +1843,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
-        "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
-        },
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
-      "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Wasted Love (feat. Lagique) [Remixes]",
         "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
@@ -1895,6 +1867,34 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Set Me Free (feat. MAX) [Martin Ikin Remix]",
+        "url": "https://open.spotify.com/album/3s0XyHRWHzvB3oIApjgA7H"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
+      "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2075,50 +2075,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Keleketla! Remixes",
-        "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
-      },
-      "artists": [
-        {
-          "name": "Keleketla!",
-          "url": "https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU"
-        },
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        },
-        {
-          "name": "The Lani Singers",
-          "url": "https://open.spotify.com/artist/05YSVaivb7p7TMX75xo3nC"
-        },
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Tamar Osborn",
-          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
-        },
-        {
-          "name": "Dele Sosimi",
-          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
-        },
-        {
-          "name": "Afla Sackey",
-          "url": "https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 336954,
-      "name": "Papua Merdeka - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -2167,26 +2123,46 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+        "name": "Keleketla! Remixes",
+        "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
       "artists": [
         {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+          "name": "Keleketla!",
+          "url": "https://open.spotify.com/artist/7jIuM7cuEe0bBfoNhISVXU"
         },
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
         },
         {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+          "name": "The Lani Singers",
+          "url": "https://open.spotify.com/artist/05YSVaivb7p7TMX75xo3nC"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        },
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        },
+        {
+          "name": "Afla Sackey",
+          "url": "https://open.spotify.com/artist/6HbtkYhKlvY9R1m2PkW6YS"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
         }
       ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+      "duration_ms": 336954,
+      "name": "Papua Merdeka - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2211,6 +2187,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "PURE (The Remixes)",
         "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
       },
@@ -2227,30 +2227,6 @@
       "duration_ms": 384000,
       "name": "PURE (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2275,6 +2251,30 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        }
+      ],
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2375,26 +2375,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Cry (with John Martin) [Remixes]",
-        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 233959,
-      "name": "Cry (with John Martin) - Trivecta Remix",
-      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     }
   ],
   "unique_name": "mint Remix",

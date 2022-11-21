@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Ana Nóbrega
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,915 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,979 likes - 75 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 35 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 |
 | 36 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
 | 37 | [Deus De Perto](https://open.spotify.com/track/4uJTecbkoIyPH4Ka7u9ENk) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Deus De Perto](https://open.spotify.com/album/0Ykpin9W5CRMKF60YqAKuo) | 6:29 |
-| 38 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
-| 39 | [Eu Disse](https://open.spotify.com/track/4H3FWYvpm1mCa0EySJaGti) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Eu Disse](https://open.spotify.com/album/3VfBCfcFcR03pnSdaoQgLX) | 4:37 |
+| 38 | [Eu Disse](https://open.spotify.com/track/4H3FWYvpm1mCa0EySJaGti) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Eu Disse](https://open.spotify.com/album/3VfBCfcFcR03pnSdaoQgLX) | 4:37 |
+| 39 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
 | 40 | [Santo](https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Santo](https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk) | 3:38 |
 | 41 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 42 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 68 | [Não Há Outro Lugar](https://open.spotify.com/track/5ArrwR5Id3g6yCufTNFptT) | [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Não Há Outro Lugar](https://open.spotify.com/album/087Z4NDbG4LrzfpagQctxU) | 4:05 |
 | 69 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
 | 70 | [O Rosto de Cristo](https://open.spotify.com/track/0tuPvRP9F6qsvH5zFsdDeW) | [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [O Rosto de Cristo](https://open.spotify.com/album/1R8USucR49aZQlUsy704a0) | 4:14 |
-| 71 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/7f6CRnVY5VyZldRMaAowuL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Preciso de Ti \(Ao Vivo\)](https://open.spotify.com/album/3D7jhKKajb7AD0ooCz9GdL) | 3:52 |
-| 72 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
+| 71 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
+| 72 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/7f6CRnVY5VyZldRMaAowuL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Preciso de Ti \(Ao Vivo\)](https://open.spotify.com/album/3D7jhKKajb7AD0ooCz9GdL) | 3:52 |
 | 73 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 74 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 75 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 
-Snapshot ID: `MTY2NjkzNTIzNSwwMDAwMDAwMDRjNDJjY2RiMTJjOWZlNGMyYzdmZWE3ODI2NjQ1Njc1`
+Snapshot ID: `MTY2NjkzNTIzNSwwMDAwMDAwMGI2ODkzMDUzNThmNWM0OGQ4MmVjMjBiZTJlNjUwZTM0`

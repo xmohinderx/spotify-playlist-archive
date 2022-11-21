@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 618387,
+  "num_followers": 618279,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjQyNCwwMDAwMDAwMDM2MzczYjNmOTgxZDhmODQ0Yzc0NWZmYmJjNGNlYzQ3",
+  "snapshot_id": "MTY2ODcyNjQyNCwwMDAwMDAwMDEyNGNmMmU0NWQ3MmY4NmY2NjVhYTE2NGNjYTVkNmY4",
   "tracks": [
     {
-      "added_at": "2022-11-20 01:28:55",
+      "added_at": "2022-11-21 01:28:21",
       "album": {
         "name": "El Sabor del Viejo Mar",
         "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La Enamorada",
-        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Mis Muertos",
-      "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 194981,
-      "name": "Ay, Ay",
-      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -1071,6 +1039,38 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "El Caribefunk",
         "url": "https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 298450,
       "name": "Juanita la Chismosa",
       "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
-    },
-    {
-      "added_at": "2022-09-03 02:45:23",
-      "album": {
-        "name": "Las 4:40",
-        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Las 4:40",
-      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1115,6 +1099,22 @@
       "duration_ms": 243240,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
+    },
+    {
+      "added_at": "2022-09-03 02:45:23",
+      "album": {
+        "name": "Las 4:40",
+        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 197017,
+      "name": "Las 4:40",
+      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1241,30 +1241,6 @@
       "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
-      "added_at": "2022-07-11 18:34:21",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
       "added_at": "2022-02-18 18:50:25",
       "album": {
         "name": "Laura Itandehui",
@@ -1315,6 +1291,30 @@
       "duration_ms": 238000,
       "name": "Pool Party",
       "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
+    },
+    {
+      "added_at": "2022-07-11 18:34:21",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
       "added_at": "2022-09-02 05:59:54",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Con la Fiesta a Cuestas",
-        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Con la Fiesta a Cuestas",
+        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
+    },
+    {
       "added_at": "2022-03-11 03:38:19",
       "album": {
         "name": "Penas con Pan",
@@ -1455,22 +1471,6 @@
       "duration_ms": 103235,
       "name": "Penas con Pan",
       "url": "https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
-      "added_at": "2022-01-04 01:50:46",
-      "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Ostriconi",
@@ -1539,6 +1523,22 @@
       "duration_ms": 219962,
       "name": "Baixi Baixi",
       "url": "https://open.spotify.com/track/4mxNgL8s7GZdoTFHGYXdvE"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Mr. Carisma",
+        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Mr. Carisma",
+      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Mr. Carisma",
-        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Mr. Carisma",
-      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1681,26 +1681,6 @@
       "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
     },
     {
-      "added_at": "2022-09-10 01:33:50",
-      "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4"
-      },
-      "artists": [
-        {
-          "name": "Nat\u00e1le",
-          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 258709,
-      "name": "Moreno",
-      "url": "https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Satingarona, Pt. 2",
@@ -1719,6 +1699,26 @@
       "duration_ms": 327923,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
+    },
+    {
+      "added_at": "2022-09-10 01:33:50",
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 258709,
+      "name": "Moreno",
+      "url": "https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl"
     },
     {
       "added_at": "2022-02-25 03:00:34",

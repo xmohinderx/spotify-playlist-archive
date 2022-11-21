@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-155 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+156 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-21 | 2022-10-13 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2022-09-27 |  |
 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 | 2021-12-21 |  |
+| [Mary's Boy Child](https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Mary's Boy Child](https://open.spotify.com/album/5e0Z0zZAOlCB8u8RiXklfR) | 2:06 | 2022-11-17 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 | 2022-01-03 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/6koO2ZIVo02KlCcsWonkxj) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Dinner Party](https://open.spotify.com/album/3DHkMDDJ9idaUq5yQVyg0y) | 3:25 | 2022-11-10 | 2022-11-13 |
 | [Merry Christmas Baby](https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Jazz Millennium Collection Vol\. 1 Eco](https://open.spotify.com/album/64tZFVp68PJouG0p03ZcJy) | 3:25 | 2021-12-21 | 2022-07-29 |
@@ -160,7 +161,7 @@
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-11-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:13 | 2021-12-21 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:14 | 2022-01-03 |  |
-| [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:46 | 2022-01-03 |  |
+| [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/4lsCXRfZRJYuD9zCHZhFav) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:46 | 2022-01-03 | 2022-11-21 |
 | [You Don't Have To Be A Santa Claus \(When Christmas Comes Around\)](https://open.spotify.com/track/2ruEhydzvd72btuYoXX1oV) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-11-17 |  |
 

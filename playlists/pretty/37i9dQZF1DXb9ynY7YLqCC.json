@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 131253,
+  "num_followers": 131308,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDA2NmFiMDEyMmY4ZjU1MTMyN2YxZGI0ZDE4NmYyYzMx",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDEyZGNjNmJiZDgwYjc1MGZiYmYzMjFiMmE1YzUyYzMw",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Se Viene",
-      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "El Impulso",
         "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 245986,
       "name": "Para No Verme M\u00e1s",
       "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Se Viene",
+      "url": "https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Alma en Pe\u00f1a",
         "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 236605,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
     },
     {
       "added_at": "2022-11-07 16:02:06",

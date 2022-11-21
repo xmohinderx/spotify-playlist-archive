@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-181 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+182 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 | 2022-07-01 |  |
 | [Disinformation](https://open.spotify.com/track/1pp9mg61pN7G7oJxBIqDmX) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Moral Hygiene](https://open.spotify.com/album/2GV4nMhDaSu4BUshdfQUK5) | 4:46 | 2022-07-01 | 2022-11-13 |
 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 | 2022-09-16 |  |
+| [Doctor Online](https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI) | 3:18 | 2022-10-21 |  |
 | [Don't Pray for Me](https://open.spotify.com/track/1lKr9lOnwqxAoGo8jd9UoC) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Don't Pray for Me](https://open.spotify.com/album/0M4jzt9bkGACpx4o8L6jfF) | 4:02 | 2022-07-01 | 2022-07-28 |
 | [Don't Question Me](https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce) | [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [Waylon Reavis](https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww) | [Don't Question Me](https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq) | 3:21 | 2022-07-01 |  |
 | [Don’t Know Zero \- Slighter Remix](https://open.spotify.com/track/07oj7iiZTd192Ehu0ADmaL) | [Angelspit](https://open.spotify.com/artist/7Coo58A8U3BCpCl4nQ3pda), [Miss Ballistic](https://open.spotify.com/artist/6tmwxgwbL2CGow7sWzOX9f), [Slighter](https://open.spotify.com/artist/2uwnOLxyzoQjJpqVfMLVZ0) | [Don't Know Zero \(Remixes\)](https://open.spotify.com/album/6cbSAt93f16nggfPxq0w8Y) | 4:50 | 2022-07-01 | 2022-07-27 |
@@ -114,7 +115,7 @@
 | [Living Fiction](https://open.spotify.com/track/3uYXxMCB48QOUE54abTfA4) | [Awake At Last](https://open.spotify.com/artist/6p8wVHDOljhtAZQWAwIHN8), [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Living Fiction](https://open.spotify.com/album/6oYbpXZX3bzCLPOH5cpme9) | 3:05 | 2022-07-01 | 2022-10-14 |
 | [Loco](https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 4:14 | 2022-10-14 |  |
 | [Loco](https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv) | 4:14 | 2022-08-12 | 2022-10-14 |
-| [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-07-01 |  |
+| [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-07-01 | 2022-11-21 |
 | [Many Thanks](https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH) | [Dope Stars Inc.](https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA) | [Terapunk](https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5) | 3:58 | 2022-07-01 |  |
 | [March Of The Pigs](https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 2:58 | 2022-07-01 | 2022-07-28 |
 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 | 2022-07-01 | 2022-10-29 |

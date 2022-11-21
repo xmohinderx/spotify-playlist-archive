@@ -3466,6 +3466,24 @@
     },
     {
       "album": {
+        "name": "i wish you loved me",
+        "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200409,
+      "name": "i wish you loved me",
+      "url": "https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7"
+    },
+    {
+      "album": {
         "name": "I WON'T COMPLAIN (feat. Tom The Mail Man)",
         "url": "https://open.spotify.com/album/0OeKDfEvjHo8mShswebshI"
       },
@@ -6105,7 +6123,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"

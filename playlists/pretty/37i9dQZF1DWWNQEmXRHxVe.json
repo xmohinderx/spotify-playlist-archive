@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 60123,
+  "num_followers": 60146,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDAzODk3ODhmODNmNzMxMzc2YjViY2EzOGI0OTA0ZDU1",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMGQ2Y2Q0M2IzNTk1YmNjNzcyMzZiZWI3NTZlNTQxMzEx",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2022-02-11 14:10:03",
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 313786,
-      "name": "Swimming Pools (Drank) - Extended Version",
-      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
-    },
-    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Hands All Over",
@@ -879,6 +863,22 @@
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+    },
+    {
+      "added_at": "2022-02-11 14:10:03",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 313786,
+      "name": "Swimming Pools (Drank) - Extended Version",
+      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -1155,26 +1155,18 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "The Saga Continues...",
-        "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Black Rob",
-          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
-        },
-        {
-          "name": "Mark Curry",
-          "url": "https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Bad Boy for Life",
-      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -1203,18 +1195,26 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "The Saga Continues...",
+        "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Black Rob",
+          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+        },
+        {
+          "name": "Mark Curry",
+          "url": "https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA"
         }
       ],
-      "duration_ms": 316813,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
+      "duration_ms": 253066,
+      "name": "Bad Boy for Life",
+      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
       "added_at": "2020-01-31 18:41:40",

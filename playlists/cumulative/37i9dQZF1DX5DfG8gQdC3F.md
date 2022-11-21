@@ -4,7 +4,7 @@
 
 > New music from Nickelback \(pictured\), Pharrell Williams ft\. Travis Scott, bbno$, Saweetie, and more!
 
-4,728 songs - 10 day 11 hr 55 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+4,729 songs - 10 day 11 hr 59 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1709,7 +1709,8 @@
 | [Hard Times](https://open.spotify.com/track/2ddH5gX6XblxRVW6QzgxKB) | [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Hard Times](https://open.spotify.com/album/687iDOJZMZnRo9lI1jzdNt) | 2:42 | 2022-09-23 | 2022-10-01 |
 | [Hard To Get](https://open.spotify.com/track/3nWHCAvvHeKmKIhJplifaG) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get](https://open.spotify.com/album/4UhwElBwXmYA17Ce01hhQ7) | 6:09 | 2022-09-30 | 2022-11-05 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2022-07-09 |
-| [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 | 2022-11-18 |  |
+| [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 | 2022-11-18 | 2022-11-21 |
+| [Hard to Love](https://open.spotify.com/track/4Xy5IUkDArWcbJZBJpvaJQ) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Hard to Love](https://open.spotify.com/album/0VMB9RGgCxODY6Ezx0Uc2D) | 3:39 | 2022-11-18 |  |
 | [Hard to Love](https://open.spotify.com/track/0CzOBmCyoTowx2n0k083CK) | [Justine Blanchet](https://open.spotify.com/artist/75gq8ktf7AEhIGPp1zRpfE) | [Hard to Love](https://open.spotify.com/album/3T5l7IMVjXNykujwaXyaPr) | 3:06 | 2022-08-19 | 2022-08-27 |
 | [Hard To Make A Living](https://open.spotify.com/track/3MLKmm3jUPCyjcRhPdmkNT) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Hard To Make A Living](https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7) | 3:20 | 2022-10-07 | 2022-10-15 |
 | [Hard To Sleep](https://open.spotify.com/track/2We63UGhJEyD2x4n74jwpa) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Khaza](https://open.spotify.com/album/5ob4kF4KkXFDqC5ysCdCV8) | 2:24 | 2022-06-17 | 2022-06-25 |

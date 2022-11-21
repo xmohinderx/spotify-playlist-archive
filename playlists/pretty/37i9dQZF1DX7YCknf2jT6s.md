@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,607 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,931 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 35 | [First Impression](https://open.spotify.com/track/7eNo1j7YOW1yUL5CjZrAB9) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [First Impression](https://open.spotify.com/album/0VpYnotDdHd4HVoGo49xI5) | 4:54 |
 | 36 | [Quanno chiove](https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Massimo Faraò Plays Pino Daniele's Ballads](https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy) | 4:44 |
 | 37 | [Mister Unknown](https://open.spotify.com/track/0YGxsYwJbxzaHJQ0lj37EL) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM) | [Legacy](https://open.spotify.com/album/5b3gna0s0ax6jG8BVULbUV) | 6:20 |
-| 38 | [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 |
+| 38 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 |
 | 39 | [Arrows](https://open.spotify.com/track/19JudMh7z6HFLiXKAUK5K7) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0), [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7), [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO), [Tao Ehrlich](https://open.spotify.com/artist/7LcYAos4LMZ9VNAlh2Kcyq) | [Arrows](https://open.spotify.com/album/0wG8wEDQxtgmRQF3oBJjrw) | 3:54 |
 | 40 | [Space Gems](https://open.spotify.com/track/6Lc95c9t985midynr3idWX) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo) | [Space Gems](https://open.spotify.com/album/6JJRJ4De9e6Hpv4LgxxFUZ) | 7:22 |
 | 41 | [Uptown in Orbit](https://open.spotify.com/track/2GTkObBFBYLIzgLRqPHHm1) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Uptown in Orbit](https://open.spotify.com/album/40Yb6bb6civQnvBC5CDEka) | 8:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Pasadena Sun](https://open.spotify.com/track/1yFHsZoKINCydPpNwovrFz) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2), [Sam Borrello](https://open.spotify.com/artist/7loneNMuZqVQ1YQtw51GQi) | [Pasadena Sun](https://open.spotify.com/album/7GuF9J8VaPAY8bBqhvFlxC) | 1:42 |
 | 100 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDJiYjBmNWUxNjA3ZTNmOTIzYjkwYjRiNTIyZWRlOGQx`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGU5ZTkxOGVlN2ViY2RiMzY2MDZkZTdiZTY3NWYzMTE0`

@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-31 songs - 1 hr 42 min - not published yet
+33 songs - 1 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2022-10-18 |  |
 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 | 2022-10-18 |  |
 | [Delicious Demon](https://open.spotify.com/track/7xUfx7xVgxt4wsIN0eQJ8e) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 2:41 | 2022-10-18 |  |
-| [Gregor's Third Fail](https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:31 | 2022-10-18 |  |
+| [Gregor's Third Fail](https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:31 | 2022-10-18 | 2022-11-21 |
+| [Gregor's Third Fail](https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:31 | 2022-10-18 |  |
 | [HERE CoMES TROUBLE](https://open.spotify.com/track/4a29OGFFyujnR6iOjqm8HK) | [STRIKING VIPERS](https://open.spotify.com/artist/4Wz9QHADy9XhAjDGoTchTU) | [STRiKiNG ViPERS](https://open.spotify.com/album/5DxmHJwrZYgaGkCqMOo31g) | 2:38 | 2022-10-18 |  |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-10-18 |  |
 | [I’m Sensitive](https://open.spotify.com/track/6SoZSWIEtPyf9C1rh6Ws4j) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You \(25th Anniversary Edition\)](https://open.spotify.com/album/1AKK0MFNHhYhOZGOWePh4o) | 2:56 | 2022-10-18 |  |
@@ -36,7 +37,8 @@
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2022-10-18 |  |
 | [Vision \(feat\. Zelooperz\)](https://open.spotify.com/track/79N9aDPDWEWND2oySCsTTa) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:14 | 2022-10-18 |  |
 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/4vNwP4hi3Ep76kQ4fTx7P6) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/album/1gRsdrNctsEVt119Ehyf7M) | 3:30 | 2022-10-18 | 2022-11-20 |
-| [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/6eFldLL9bU3XZHJXdSkCnq) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:30 | 2022-10-18 |  |
+| [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/5FXxHdzu0WW1ArMWrvlgHt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/album/3JdRTT9xQikqUp7pvkNDes) | 3:30 | 2022-10-18 |  |
+| [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/6eFldLL9bU3XZHJXdSkCnq) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:30 | 2022-10-18 | 2022-11-21 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2022-10-18 |  |
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2022-10-18 |  |
 

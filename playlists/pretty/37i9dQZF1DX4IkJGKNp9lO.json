@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 26841,
+  "num_followers": 26839,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMDgzOTk5NzcyYzFjM2YxZDRlMTJjNzk2YTZiYTI3YmNm",
+  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMGRiMzNlNGNmMTkxMDUyNzJhNzEyZjNhOTdkNjRiM2M2",
   "tracks": [
     {
       "added_at": "2021-12-14 14:04:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Snabbmat F\u00f6r Folk I Farten",
-        "url": "https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh"
-      },
-      "artists": [
-        {
-          "name": "Hans & Greta",
-          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sibylla",
-      "url": "https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Trubbel",
         "url": "https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 85760,
       "name": "Sibirien",
       "url": "https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Snabbmat F\u00f6r Folk I Farten",
+        "url": "https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh"
+      },
+      "artists": [
+        {
+          "name": "Hans & Greta",
+          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sibylla",
+      "url": "https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q"
     },
     {
       "added_at": "2021-12-14 14:04:58",

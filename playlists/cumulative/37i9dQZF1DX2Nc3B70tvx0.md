@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Wet Leg
 
-1,325 songs - 3 day 7 hr 16 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,326 songs - 3 day 7 hr 21 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,7 +871,7 @@
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-15 | 2021-04-15 |
 | [Paper Vows](https://open.spotify.com/track/7204dHwAw9v32ys7VCyWP5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Paper Vows](https://open.spotify.com/album/1ZcOfxocy488paPa5HcE7h) | 3:42 | 2022-01-07 | 2022-04-09 |
 | [Paperbacks](https://open.spotify.com/track/5wagMdtXxmWEiKXWqriCf9) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/3XKYPIKMJfJLVUz68XIwSF) | 3:00 | 2019-12-07 | 2020-05-15 |
-| [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-20 |  |
+| [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-20 | 2022-11-21 |
 | [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2021-01-13 | 2021-05-19 |
 | [paranoia party](https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/5kmn5lkE9iXZTcObGqtWam) | 3:05 | 2021-06-24 | 2022-04-21 |
 | [Parliaments](https://open.spotify.com/track/5tpDX58ps1R79zczsYiz8n) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Parliaments](https://open.spotify.com/album/5YtmYNbbPLO8HSCX5B6Mdl) | 2:52 | 2022-06-23 | 2022-07-03 |
@@ -960,6 +960,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-06-24 | 2022-04-30 |
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-05-27 | 2022-06-18 |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-03 | 2022-07-29 |
+| [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-11-16 |  |
 | [Rue](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Rue](https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP) | 3:36 | 2020-09-04 | 2021-03-10 |
 | [Run Away](https://open.spotify.com/track/4Ef1QKChVVBQLt0wmTycUS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/0TUxwnkbBEjBhriA5aTOL8) | 3:39 | 2020-10-13 | 2021-04-15 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-23 | 2022-08-05 |

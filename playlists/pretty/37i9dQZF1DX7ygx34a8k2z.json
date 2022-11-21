@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 85637,
+  "num_followers": 85822,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDg2OThjNTFhOWNjZmNlMGE5ZjY4ZDFiM2QxZDM0ZGRh",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGI5NmJjYjM4ZmE1MTUyNjc4NDllZDI5YzhkNWVkMmE1",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Kill the Moonlight",
-        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "The Way We Get By",
-      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Porno For Pyros",
         "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 216733,
       "name": "Pets",
       "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Kill the Moonlight",
+        "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "The Way We Get By",
+      "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "The Soft Bulletin",
-        "url": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Race for the Prize - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "March 16-20, 1992",
         "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 223640,
       "name": "Sandusky",
       "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "The Soft Bulletin",
+        "url": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Race for the Prize - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Under the Western Freeway",
-        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
-      },
-      "artists": [
-        {
-          "name": "Grandaddy",
-          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "A.M. 180",
-      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Under the Western Freeway",
+        "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "A.M. 180",
+      "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2022-05-30 14:05:21",

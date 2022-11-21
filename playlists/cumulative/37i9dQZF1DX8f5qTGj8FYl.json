@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 302288,
       "name": "Bunny Hop",
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
@@ -2215,6 +2215,24 @@
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
+    },
+    {
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
     },
     {
       "album": {

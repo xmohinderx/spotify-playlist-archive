@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,386 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,406 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 3 | [Fonnegra](https://open.spotify.com/track/1NlcTmZSe7Nbd1KClwmx51) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:09 |
 | 4 | [Fool's Gold](https://open.spotify.com/track/2qMOAJmGCJhUOJoZhtPAIb) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Fool's Gold](https://open.spotify.com/album/0fn9HuJ6H8wuIW4a1Yt9uH) | 1:35 |
 | 5 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 |
-| 6 | [Noble Metals](https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Noble Metals](https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3) | 3:32 |
+| 6 | [Noble Metals](https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:32 |
 | 7 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/6FEESiC65oKkgebXZlPc5J) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 2:54 |
 | 8 | [Give Thanks Instro \(Instrumental\)](https://open.spotify.com/track/1tJ0cJiI2hSY05InPQc93p) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1) | [Windmills of the Soul Instrumentals](https://open.spotify.com/album/21J9q0qN5O76XkGVUQLsM9) | 4:36 |
 | 9 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDFhMjhkM2M2YjNiNmU0NTNhYzJlM2Y5MmQxYmFmYzc0`
+Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDI0NjNmNjYwMjQ1OWFmYjE0OTQ5Njk1MTFmMGU2NGQz`

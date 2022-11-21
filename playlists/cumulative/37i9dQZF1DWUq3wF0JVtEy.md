@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-273 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+274 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2022-01-21 | 2022-07-29 |
 | [Fool for You](https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4) | [Fool for You](https://open.spotify.com/album/2UV9snZDoMGxjR8j40ZTyB) | 3:14 | 2021-10-29 | 2022-06-11 |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-11-11 |  |
-| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 |  |
+| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2022-09-09 | 2022-11-21 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 |  |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2022-10-16 |
@@ -171,6 +171,7 @@
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-08-05 |  |
 | [Maybe Don't \(feat\. JP Saxe\) \- MOTi Remix](https://open.spotify.com/track/40J6jOlSe5eS8rJYcYEmCR) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Maybe Don't \(feat\. JP Saxe\) \[MOTi Remix\]](https://open.spotify.com/album/2sCV27AuUvZB5Jg5vKKX2Q) | 3:06 | 2021-10-29 | 2022-08-06 |
 | [Midnight](https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Midnight](https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3) | 3:19 | 2022-07-22 |  |
+| [MIRRORS](https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [MIRRORS](https://open.spotify.com/album/05z888GjArijqttcX87svP) | 2:37 | 2022-11-18 |  |
 | [Mood](https://open.spotify.com/track/4Yq0j5W2HQPJGmu9Mapu8I) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Mood](https://open.spotify.com/album/0Y9TbXivPAbowEaJ1h5acK) | 3:11 | 2021-10-29 | 2022-07-29 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |

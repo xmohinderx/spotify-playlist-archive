@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,545 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,530 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 77 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 |
 | 78 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 |
 | 79 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
-| 80 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
+| 80 | [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 |
 | 81 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 |
 | 82 | [NHFN](https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [NHFN](https://open.spotify.com/album/5cSsUduepwm1Ry9nKx9WAA) | 4:13 |
 | 83 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 |
 | 100 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDI1ZmU5YmUzODU5MGJjMzQ5NzJkNWEyYjA0MzNlZGU0`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGNlY2NlNTE1NmFmNzZjNmZmMGNhMzk0NGQ4MjEyYzQx`

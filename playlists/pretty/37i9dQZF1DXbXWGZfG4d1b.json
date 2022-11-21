@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 15941,
+  "num_followers": 15950,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMGVjYzllNTczOTliNmI0NDVjMTIwMTkzMjU3YzUyMTJi",
+  "snapshot_id": "MTY2ODIwMzAzMiwwMDAwMDAwMGFkMGI0Y2M1M2VlMTQxOGZjMmVlMjMwZmZiNDRiOGFi",
   "tracks": [
     {
       "added_at": "2022-11-11 21:43:52",
@@ -347,22 +347,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Ya No",
-        "url": "https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0"
+        "name": "Puedo Con Esto (Fuera de Foco)",
+        "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         },
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 149773,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO"
+      "duration_ms": 234792,
+      "name": "Puedo Con Esto - Fuera de Foco",
+      "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -383,22 +383,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Puedo Con Esto (Fuera de Foco)",
-        "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0"
       },
       "artists": [
         {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         },
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         }
       ],
-      "duration_ms": 234792,
-      "name": "Puedo Con Esto - Fuera de Foco",
-      "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
+      "duration_ms": 149773,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Copia Viva",
+        "url": "https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg"
+      },
+      "artists": [
+        {
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "La Cascada de Tu Pelo Enredado",
+      "url": "https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 241078,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Copia Viva",
-        "url": "https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg"
-      },
-      "artists": [
-        {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "La Cascada de Tu Pelo Enredado",
-      "url": "https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Suavemente entusiasmado",
         "url": "https://open.spotify.com/album/0AOQ9H0w7MEcAnX6J3u8g2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 236445,
       "name": "Suavemente Entusiasmado",
       "url": "https://open.spotify.com/track/4imx5CrSaZv0xvhpmsJdCV"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Caldero",
+        "url": "https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 251124,
+      "name": "Semillas de Luz",
+      "url": "https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Caldero",
-        "url": "https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA"
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 251124,
-      "name": "Semillas de Luz",
-      "url": "https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa"
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": ":3",
-        "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
-      },
-      "artists": [
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 182045,
-      "name": "Verano En Espiral",
-      "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Igual",
         "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": ":3",
+        "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 182045,
+      "name": "Verano En Espiral",
+      "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
         "name": "Mujer Cebra",
         "url": "https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Una Pel\u00edcula",
-        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 320167,
-      "name": "Una Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1247,6 +1231,22 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Una Pel\u00edcula",
+        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 320167,
+      "name": "Una Pel\u00edcula",
+      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
         }
       ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+      "duration_ms": 211988,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1323,34 +1323,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
       },
       "artists": [
         {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 211988,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1367,6 +1351,22 @@
       "duration_ms": 127676,
       "name": "Cara de Mapa",
       "url": "https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
+        "name": "Somos 2",
+        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 152264,
+      "name": "Somos 2",
+      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Somos 2",
-        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 152264,
-      "name": "Somos 2",
-      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1547,18 +1547,34 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "Este Debe Ser el Lugar",
-        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
       },
       "artists": [
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Este Debe Ser el Lugar",
-      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
+    },
+    {
+      "added_at": "2022-11-11 21:43:52",
+      "album": {
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2022-11-11 21:43:52",
       "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+        "name": "Este Debe Ser el Lugar",
+        "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
       },
       "artists": [
         {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+      "duration_ms": 166133,
+      "name": "Este Debe Ser el Lugar",
+      "url": "https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99"
     },
     {
       "added_at": "2022-11-11 21:43:52",
@@ -1671,22 +1687,6 @@
       "duration_ms": 219239,
       "name": "El Toxi",
       "url": "https://open.spotify.com/track/0yVokwrSDaNuLhDGIYPDtP"
-    },
-    {
-      "added_at": "2022-11-11 21:43:52",
-      "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
     }
   ],
   "unique_name": "6PM Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,135 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,026 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 7 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
 | 8 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
 | 9 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 |
-| 10 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
-| 11 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 |
-| 12 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 |
-| 13 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 |
-| 14 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
-| 15 | [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 |
+| 10 | [BUONANOTTE](https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:40 |
+| 11 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
+| 12 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 |
+| 13 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 |
+| 14 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 |
+| 15 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
 | 16 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 |
 | 17 | [Dammi Un Motivo](https://open.spotify.com/track/32ixEZaSA1ZMrKOYInRbeP) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 3:24 |
 | 18 | [Cenere](https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Cenere](https://open.spotify.com/album/1lrhX79POrz4wSmgD4aeGg) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 54 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 55 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 |
 
-Snapshot ID: `MTY2ODcyNjA2MCwwMDAwMDAwMDA1YTYyM2FiYTQ0ZGJiOTc5ZTJhOWE2ZWI1ZmZiOTNl`
+Snapshot ID: `MTY2ODk4Mzg5NCwwMDAwMDAwMGI2MDcxZjkwMzQ4NDIwMDdlMGJmZjYyMWRjMzE0OWVi`

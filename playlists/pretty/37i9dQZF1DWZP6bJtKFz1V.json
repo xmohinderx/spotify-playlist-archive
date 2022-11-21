@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: spill tab",
-  "num_followers": 82549,
+  "num_followers": 82575,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE3NDE5NDQ1MTcwYWQxZTQ1NDE2ZTY5MmE4OTZhYzQ4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE1MWUxN2FmMjMwNWNhNzg5OGViYmNhNmRjNmM5YWM1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "spend the money (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199669,
-      "name": "spend the money (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 124247,
-      "name": "Pharmacist",
-      "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Trouble With This Bed",
         "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 226884,
       "name": "Trouble With This Bed",
       "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 124247,
+      "name": "Pharmacist",
+      "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "WICKED",
-        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
       "artists": [
         {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 210027,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
+      "duration_ms": 189202,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "WICKED",
+        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 189202,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
+      "duration_ms": 210027,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1051,6 +1051,22 @@
       "duration_ms": 152998,
       "name": "Puffer",
       "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+        "name": "This Is What They Meant",
+        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
       },
       "artists": [
         {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+      "duration_ms": 174986,
+      "name": "This Is What They Meant",
+      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "This Is What They Meant",
-        "url": "https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "This Is What They Meant",
-      "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "DIE OUT HERE (feat. POORSTACY)",
-        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 134266,
-      "name": "DIE OUT HERE (feat. POORSTACY)",
-      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "DIE OUT HERE (feat. POORSTACY)",
+        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (feat. POORSTACY)",
+      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1303,6 +1303,22 @@
       "duration_ms": 200988,
       "name": "All Day I Dream About",
       "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "It's Been So Long",
+        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 192541,
+      "name": "It's Been So Long",
+      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "To Let Go",
-        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 199263,
-      "name": "To Let Go",
-      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 199263,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Splinter",
-      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "BREAK THE CURSE",
         "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "It's Been So Long",
-        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 192541,
-      "name": "It's Been So Long",
-      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
+      "duration_ms": 148173,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Pastlife",
-        "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
+        "name": "i wish you loved me",
+        "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 232653,
-      "name": "See You When The End's Near",
-      "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
+      "duration_ms": 200409,
+      "name": "i wish you loved me",
+      "url": "https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7"
     }
   ],
   "unique_name": "Et Alt",

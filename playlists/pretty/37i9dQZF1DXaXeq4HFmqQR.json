@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9883,
+  "num_followers": 9890,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDFkMjk0ZTM1YjU0M2M0NDRlNzY3NmQxYTc2YTg5Yzlm",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGM0ZThhMmI0OGEzNmI2YWEyYTI0YWEzYWQwZmYyMjVk",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193474,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "\u00c0 PLUS",
         "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 190197,
       "name": "Brillando Alto",
       "url": "https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193474,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Scarlett O'hara",
+        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Scarlett O'hara",
+      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "U.U",
         "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
       },
@@ -511,6 +527,26 @@
       "duration_ms": 196295,
       "name": "Pros y Contras de Llamarte",
       "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 133818,
+      "name": "Sufrir De Mentira (feat. Nass G)",
+      "url": "https://open.spotify.com/track/2rJfaHGtPOjKJ5siBC4MI1"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -551,42 +587,6 @@
       "duration_ms": 209747,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3xLq0kSehSq1RPRDJWi51d"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Scarlett O'hara",
-        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Scarlett O'hara",
-      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 133818,
-      "name": "Sufrir De Mentira (feat. Nass G)",
-      "url": "https://open.spotify.com/track/2rJfaHGtPOjKJ5siBC4MI1"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "C\u00f3digo Bitches",
-        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
-      },
-      "artists": [
-        {
-          "name": "Fran Mazu",
-          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
-        },
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 167777,
-      "name": "C\u00f3digo Bitches",
-      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Rayo Polo",
         "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 159158,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "C\u00f3digo Bitches",
+        "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
+      },
+      "artists": [
+        {
+          "name": "Fran Mazu",
+          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 167777,
+      "name": "C\u00f3digo Bitches",
+      "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "\u00c0 PLUS",
         "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 191499,
       "name": "Volando en la Nube",
       "url": "https://open.spotify.com/track/0T6MzqYdTDGu0FG0aP8duW"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 130610,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
       },
       "artists": [
         {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
         }
       ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+      "duration_ms": 130610,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
     },
     {
       "added_at": "2022-11-04 00:00:00",

@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-206 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+207 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2020-11-13 | 2022-11-07 |
 | [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 | 2020-11-13 |  |
 | [Bruise Cruise](https://open.spotify.com/track/7HhEOS1ofdOux6MjupAjV1) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Bruise Cruise](https://open.spotify.com/album/1nqoZShtqXAOyP8h0a5wlS) | 2:13 | 2021-10-22 | 2022-07-29 |
-| [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 | 2022-02-25 |  |
+| [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 | 2022-02-25 | 2022-11-21 |
 | [Call Your Mom](https://open.spotify.com/track/2PiYyDEaXrT5PtJxJE3l7E) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [I Told You So](https://open.spotify.com/album/1wdTI56LWM9Bcbfx4zVxX4) | 3:59 | 2020-11-13 |  |
 | [Call Your Mom](https://open.spotify.com/track/2RkwQ3o9LzollOfk1bnjG4) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Call Your Mom](https://open.spotify.com/album/0OdzFifcrPoBzKYCzSq9r2) | 3:59 | 2020-11-13 | 2022-07-29 |
 | [Canoga Madness](https://open.spotify.com/track/5UsIWAdCNvh9b5bI9aPfK8) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/3IH4QMjY3P0d6wuvOofrmD) | 4:43 | 2020-11-13 | 2022-07-28 |
@@ -125,6 +125,7 @@
 | [Kashmir](https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [Our Kind of Movement](https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q) | 3:55 | 2020-11-13 |  |
 | [Keb's Bucket](https://open.spotify.com/track/2xDpbCLvTF5jEKPK8w3B3z) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled and Fried](https://open.spotify.com/album/4LSIevKcUj7YbQZvJ7R2C0) | 3:30 | 2020-11-13 | 2022-04-21 |
 | [Keb's Bucket](https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 3:30 | 2020-11-13 | 2022-10-16 |
+| [Keb's Bucket](https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 3:30 | 2020-11-13 |  |
 | [Kenni and the Jets](https://open.spotify.com/track/0uSbzFgJG9ve03a9Qfx7JE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds ...](https://open.spotify.com/album/2i6hdvwt1k6jewsrGmkj56) | 4:09 | 2020-11-13 | 2022-07-29 |
 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 | 2020-11-13 |  |
 | [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 | 2020-11-13 | 2022-07-28 |

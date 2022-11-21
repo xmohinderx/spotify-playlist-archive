@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 62640,
+  "num_followers": 62589,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDBkNzUyZTNhYmMzMmQ2Zjc5NDI0NGZlNjg4YTU3NGE0",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDBkZWFhM2YwNjU3MjI4NjUwMmQ5MTY2OWQxNWVmOTU1",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -499,8 +499,8 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/7tXdGpglPbHoZxBENtPc8m"
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp"
       },
       "artists": [
         {
@@ -518,7 +518,7 @@
       ],
       "duration_ms": 352258,
       "name": "Reset",
-      "url": "https://open.spotify.com/track/3w8x0OvRhqvwjSOyHdLhJz"
+      "url": "https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Plastic Mode",
         "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 235346,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
+      },
+      "artists": [
+        {
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
-      },
-      "artists": [
-        {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
+      },
+      "artists": [
+        {
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1059,6 +1059,22 @@
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Color My Love",
+        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "When I Let You Down / Boogie Tonight",
-        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
-      },
-      "artists": [
-        {
-          "name": "M & G",
-          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
-        }
-      ],
-      "duration_ms": 366076,
-      "name": "When I Let You Down - Extended Mix",
-      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Sound of Tony Esposito",
         "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 313133,
       "name": "Kalimba de luna",
       "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "When I Let You Down / Boogie Tonight",
+        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
+      },
+      "artists": [
+        {
+          "name": "M & G",
+          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
+        }
+      ],
+      "duration_ms": 366076,
+      "name": "When I Let You Down - Extended Mix",
+      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1271,34 +1287,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Color My Love",
-        "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
+        "name": "Baila Bolero (Marc Hartman Remix)",
+        "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
       },
       "artists": [
         {
           "name": "Fun Fun",
           "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Italo Disco Vol. 2",
-        "url": "https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK"
-      },
-      "artists": [
+        },
         {
-          "name": "Gang",
-          "url": "https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 313813,
-      "name": "KKK",
-      "url": "https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv"
+      "duration_ms": 300773,
+      "name": "Baila Bolero - Marc Hartman Remix",
+      "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
     }
   ],
   "unique_name": "Italo Disco",

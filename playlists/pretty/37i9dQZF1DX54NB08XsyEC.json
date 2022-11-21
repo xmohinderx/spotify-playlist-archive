@@ -1,15 +1,15 @@
 {
   "description": "pov: toca roque na missa? / Kim Petras",
-  "num_followers": 236039,
+  "num_followers": 235943,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTYwMCwwMDAwMDAwMDA2MmYzZmRmOGFmNmEyMWFkY2VmOTllNGU2NWU1ZmU2",
+  "snapshot_id": "MTY2ODEzNTYwMCwwMDAwMDAwMDY5MzUxZGE3MGZlYTBkZmJiMTE2M2Y2NTZlYWFmOGJm",
   "tracks": [
     {
-      "added_at": "2022-11-20 01:32:01",
+      "added_at": "2022-11-21 01:31:16",
       "album": {
         "name": "If Jesus Was A Rockstar",
         "url": "https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-11-20 01:32:01",
+      "added_at": "2022-11-21 01:31:16",
       "album": {
         "name": "Weapons",
         "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-11-20 01:32:01",
+      "added_at": "2022-11-21 01:31:16",
       "album": {
         "name": "para-raio",
         "url": "https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw"
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-07 13:37:03",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-11-07 13:37:03",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-11-07 13:37:03",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2022-11-07 13:37:03",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-11-07 13:37:03",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
-    },
-    {
-      "added_at": "2022-11-07 13:37:03",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2022-11-07 13:37:03",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
       "added_at": "2022-11-07 13:37:03",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-11-07 13:37:03",
       "album": {
-        "name": "Showed Me (How I Fell In Love With You)",
-        "url": "https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR"
+        "name": "N\u00e3o Fosse T\u00e3o Tarde",
+        "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
         }
       ],
-      "duration_ms": 195845,
-      "name": "Showed Me (How I Fell In Love With You)",
-      "url": "https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf"
+      "duration_ms": 205256,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde",
+      "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     }
   ],
   "unique_name": "pov",

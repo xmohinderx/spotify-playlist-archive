@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 121482,
+  "num_followers": 121458,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4MDk1MCwwMDAwMDAwMGQ1YjU4MDJiM2I2MWIxOGM2OGEzOTI3ZjQ0MjkxNjc4",
+  "snapshot_id": "MTY2ODc4MDk1MCwwMDAwMDAwMDhkMDIzNmM3OGRiN2FiYTBhODRkMTNiYjVhZTZiNGMx",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
+        "name": "View",
+        "url": "https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD"
       },
       "artists": [
         {
-          "name": "Third Attempt",
-          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
+          "name": "Himmel",
+          "url": "https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm"
         }
       ],
-      "duration_ms": 150870,
-      "name": "Transit - Radio Edit",
-      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+      "duration_ms": 244856,
+      "name": "View",
+      "url": "https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -307,34 +307,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "View",
-        "url": "https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD"
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
       "artists": [
         {
-          "name": "Himmel",
-          "url": "https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm"
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
         }
       ],
-      "duration_ms": 244856,
-      "name": "View",
-      "url": "https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+      "duration_ms": 150870,
+      "name": "Transit - Radio Edit",
+      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -355,38 +339,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "This Time, This Place\u2026",
-        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Beki Mari",
-          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
-        }
-      ],
-      "duration_ms": 464200,
-      "name": "This Time, This Place\u2026",
-      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -411,6 +375,42 @@
       "duration_ms": 493597,
       "name": "Games - Prins Thomas Diskomiks",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "This Time, This Place\u2026",
+        "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Beki Mari",
+          "url": "https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6"
+        }
+      ],
+      "duration_ms": 464200,
+      "name": "This Time, This Place\u2026",
+      "url": "https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+        }
+      ],
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Desire Lines",
         "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 493705,
       "name": "Love in the Night",
       "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
-      },
-      "artists": [
-        {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
-        }
-      ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2022-11-03 23:00:00",

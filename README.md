@@ -803,6 +803,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Café de Paris](/playlists/pretty/37i9dQZF1DX0ZO4kBlpsIH.md)
 - [Café montréalais](/playlists/pretty/37i9dQZF1DXcgNXUHsZlwX.md)
 - [Café, Libros.](/playlists/pretty/37i9dQZF1DWZkMGGysxknj.md)
+- [Caiiro DJ Mix](/playlists/pretty/37i9dQZF1DX2MZMfAvs6zl.md)
 - [Caipirinha](/playlists/pretty/37i9dQZF1DX11Pe3b7DsbG.md)
 - [California Rock State](/playlists/pretty/37i9dQZF1DWTlgzqHpWg4m.md)
 - [Calm](/playlists/pretty/37i9dQZF1DWTC99MCpbjP8.md)

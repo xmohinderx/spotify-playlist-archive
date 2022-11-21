@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers Band",
-  "num_followers": 389533,
+  "num_followers": 389508,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDg4MDQzODIyNGE5MzE3ZGQyYjMzMGFlNTgzNzM4ODdl",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDM3OWI4ZmZhYzliZTg3NWU1NzQ3NWZkODBjMGRmNWJi",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "717 Tapes the Album",
         "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238177,
       "name": "Tears the Size of Texas",
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
         }
       ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Who Am I to Judge",
         "url": "https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 232267,
       "name": "Who Am I to Judge",
       "url": "https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Two Left Feet",
-        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
-      },
-      "artists": [
-        {
-          "name": "Cameron James Smith",
-          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
     },
     {
       "added_at": "2022-11-18 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,394 likes - 147 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,395 likes - 147 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 70 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 71 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 72 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 |
-| 73 | [Lucky Me](https://open.spotify.com/track/6o2h1OLa4mUtoQmCQwFpTo) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/36HRu50kxgdUGI2Ln6beIQ) | 3:35 |
+| 73 | [Lucky Me](https://open.spotify.com/track/70DnlRCu1lCKuIvcrvQoq6) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Dreamers](https://open.spotify.com/album/2gyLkzfqDT1HfqEo9sv04a) | 3:35 |
 | 74 | [Love Takes Time](https://open.spotify.com/track/01YA6z2H4vYzQ9XLlrE3Qt) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Jonathan Hutcherson](https://open.spotify.com/album/2H4lPoj1CgW9dK3DukPdGh) | 2:39 |
 | 75 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |
 | 76 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 146 | [Couldn't Care Less](https://open.spotify.com/track/6Rk9YL0M14ofFwYKJKwUTc) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:08 |
 | 147 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGRiMGE3NjQ0NGNhZTU1MjU3MzAxZTBkMTM4MDJhYWQ3`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDFkMDJiZDllZjVlZDdlZWM2MGQ2MjMyZjVjYTE3ZDAz`

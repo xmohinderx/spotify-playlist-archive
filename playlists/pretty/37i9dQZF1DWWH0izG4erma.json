@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 482823,
+  "num_followers": 483178,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDRlNjc0NWNiNDg2Zjk3NDdjMzI1MDJhYjcyYTFiZjgy",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDMyYjFjMGIwNDEwYjlmNWVjZjIyMDMzOWIzNzA0ZWZl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Workin' Man",
-        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 218419,
-      "name": "Workin' Man",
-      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
         "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Crazy Angels",
-        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+      "duration_ms": 218419,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Crazy Angels",
+        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 184619,
-      "name": "Labels",
-      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Huckleberry",
         "url": "https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 230411,
       "name": "Huckleberry",
       "url": "https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "Labels",
+      "url": "https://open.spotify.com/track/6oX6Z8IRcQoE5c1huBv4hU"
     },
     {
       "added_at": "2022-11-18 05:00:00",

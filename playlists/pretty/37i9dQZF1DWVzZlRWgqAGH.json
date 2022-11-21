@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\uddc8 Smooth joints. Cover: Adi Oasis",
-  "num_followers": 753571,
+  "num_followers": 753799,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE0NTY4NDQwYmZjNzg4YTIxMTBkMDYzYzhkNGFlOWQ0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE0ZjkyMmIxMmE5NzAzNGFhODY1ODNmOGE0NWY1MTNl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Stressed - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Stressed - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -567,22 +551,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
+        "name": "Stressed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 215573,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+      "duration_ms": 186818,
+      "name": "Stressed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -603,6 +583,26 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "GEEKIN",
-        "url": "https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h"
-      },
-      "artists": [
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        },
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        }
-      ],
-      "duration_ms": 157921,
-      "name": "GEEKIN",
-      "url": "https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Circmvnt",
         "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "GEEKIN",
+        "url": "https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        }
+      ],
+      "duration_ms": 157921,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Message (Better Days)",
+        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 214504,
+      "name": "Message (Better Days)",
+      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "CYBAH (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 203064,
       "name": "TEARS OF JOY",
       "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Message (Better Days)",
-        "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 214504,
-      "name": "Message (Better Days)",
-      "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        }
-      ],
-      "duration_ms": 258650,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
       },
       "artists": [
         {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
         }
       ],
-      "duration_ms": 195000,
-      "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
+      "duration_ms": 258650,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 247133,
       "name": "Envy",
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 188200,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "EEK",
         "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
       },
@@ -1355,6 +1371,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Little Q, Pt. 2",
+      "url": "https://open.spotify.com/track/4W15aoR7Rl8ppUJxm05IFw"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1375,22 +1423,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "FutureNever",
         "url": "https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5"
       },
@@ -1407,22 +1439,6 @@
       "duration_ms": 233622,
       "name": "I Feel Electric (feat. Moxie Raia)",
       "url": "https://open.spotify.com/track/4nJuRd8cLin95rTr4B5sZP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Little Q, Pt. 2",
-      "url": "https://open.spotify.com/track/4W15aoR7Rl8ppUJxm05IFw"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1595,30 +1611,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
         "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
       },
@@ -1639,18 +1631,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "One More Kiss",
-        "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
       "artists": [
         {
-          "name": "Kenneth Whalum",
-          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         }
       ],
-      "duration_ms": 226629,
-      "name": "One More Kiss",
-      "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
+      "duration_ms": 247000,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1683,6 +1683,22 @@
       "duration_ms": 189333,
       "name": "My Sunrise",
       "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "One More Kiss",
+        "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Whalum",
+          "url": "https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "One More Kiss",
+      "url": "https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1779,6 +1795,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Studio Monk",
         "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
       },
@@ -1795,38 +1827,6 @@
       "duration_ms": 253622,
       "name": "Ooowee (feat. Elijah Dax)",
       "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/3eAGjyRLCiqf7Iwtgm6WDa"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5IX0QZ6B7dgur3SUg7v3oO"
     },
     {
       "added_at": "2022-11-18 05:00:00",

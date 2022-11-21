@@ -4,7 +4,7 @@
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-109 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
+111 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,8 +66,9 @@
 | [Lo Que No Fue No Será](https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 3:33 | 2022-01-28 |  |
 | [Lo Que No Fue No Será](https://open.spotify.com/track/4nopwvxfTJjX0QRb3OmfRu) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [25 Aniversario, Vol\. 1](https://open.spotify.com/album/3QCYYcASmJZYOKbTYBrXbw) | 3:34 | 2022-01-28 | 2022-11-13 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 | 2022-01-28 | 2022-07-29 |
-| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2022-01-28 |  |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2022-01-28 | 2022-11-21 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/0wqvXVSwZPQXSsZOUdPp1K) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/35FMUuGODtyT4i6OcU4tCT) | 3:17 | 2022-01-28 | 2022-11-13 |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2022-01-28 |  |
 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 | 2022-01-28 |  |
 | [Mary Es Mi Amor](https://open.spotify.com/track/0xAEgTHXmtY1UbHO6w1QN2) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/4azTPxPIIFJlPpG0TrIng4) | 3:08 | 2022-01-28 | 2022-11-13 |
 | [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 | 2022-01-28 |  |
@@ -75,8 +76,9 @@
 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 | 2022-01-28 |  |
 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 | 2022-01-28 |  |
 | [Melina](https://open.spotify.com/track/3RhvIbIMHJqUarymFi2Ax3) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Numero 1](https://open.spotify.com/album/0piqRAcsBKF2if4vmlBnsA) | 2:44 | 2022-01-28 | 2022-11-13 |
-| [Melina](https://open.spotify.com/track/3p0JLiO2eCaGurE0pG2tJZ) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 2:47 | 2022-01-28 |  |
+| [Melina](https://open.spotify.com/track/3p0JLiO2eCaGurE0pG2tJZ) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 2:47 | 2022-01-28 | 2022-11-21 |
 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 | 2022-01-28 | 2022-07-29 |
+| [Melina \- Remasterizado](https://open.spotify.com/track/1VIE012Xl6cTjVLXnfQNUq) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Forever](https://open.spotify.com/album/3ET9XdNnhaRwfKW6WXy03K) | 2:48 | 2022-01-28 |  |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2022-01-28 | 2022-07-29 |
 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2022-01-28 |  |
 | [Mentiras](https://open.spotify.com/track/5UxkcYi0ytAES0pkL5G1Qv) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Antología De Éxitos: Mentiras](https://open.spotify.com/album/25ZLl8ACzhVT5MZXIDZNJp) | 4:13 | 2022-01-28 | 2022-11-13 |

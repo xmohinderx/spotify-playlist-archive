@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 56300,
+  "num_followers": 56327,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDUxODZmNGZkYmQ3MmFiMTRkYjg5OWFmMjAxNDE5NWY4",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDJkODM1YzJlMDdhMmEwNTA2ZmIxNWUyMTUzMzQ3OThl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 145426,
       "name": "Brujerias",
       "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2021-12-17 05:01:00",

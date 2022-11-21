@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,027 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,980 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/6eFldLL9bU3XZHJXdSkCnq) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:30 |
+| 1 | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/track/5FXxHdzu0WW1ArMWrvlgHt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Who Do You Think You Are \(from the Netflix Film "The School For Good And Evil"\)](https://open.spotify.com/album/3JdRTT9xQikqUp7pvkNDes) | 3:30 |
 | 2 | [Toxic](https://open.spotify.com/track/10VGirghK8scti9gNw2NTw) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC) | 3:57 |
 | 3 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 | 4 | [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 22 | [Prelude No\. 1 in C Major, BWV 846: Well\-Tempered Klavier \- From the Well\-Tempered Klavier](https://open.spotify.com/track/6rrPRUbOf3Kvzktz4T5FST) | [Erica Goodman](https://open.spotify.com/artist/1EelcDEygYtkxrPAAK1vG0) | [Heavenly Harp](https://open.spotify.com/album/7wlkMkHsZ79mRM7G5zSOwV) | 2:31 |
 | 23 | [The Stymph](https://open.spotify.com/track/7nTFxjURswzKehFVNkzjcd) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:02 |
 | 24 | [The Ever Ball](https://open.spotify.com/track/6UeG5ncu0OKMmf3MuBJ93H) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 4:23 |
-| 25 | [Gregor's Third Fail](https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:31 |
+| 25 | [Gregor's Third Fail](https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:31 |
 | 26 | [True Love](https://open.spotify.com/track/4lCH00JMunFbuaySSm66HV) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:59 |
 
-Snapshot ID: `MTY2NjA3NjQwMCwwMDAwMDAwMDJjOWU3MDQ3ODIyNDBkYjc0N2IyNWQ0MjQzYTZmNTZl`
+Snapshot ID: `MTY2NjA3NjQwMCwwMDAwMDAwMGQ4MDFlOTZhODgxZDQ5Mjk1ZDllZTFiYWYwZjY0YTgz`

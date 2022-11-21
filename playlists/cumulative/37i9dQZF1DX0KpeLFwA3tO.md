@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Fucked Up
 
-746 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+747 songs - 1 day 13 hr 33 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Leap Year](https://open.spotify.com/track/7FHyKzr58dfo5DEN9Rglrj) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Leap Year](https://open.spotify.com/album/0Jm6plY3SnAKezKKgBCI5q) | 3:16 | 2022-08-25 | 2022-10-07 |
 | [Learn to Love the Lie \- Acoustic](https://open.spotify.com/track/7bBTK0paYdudfyRoHD9Obc) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Learn To Love The Lie \(Acoustic\)](https://open.spotify.com/album/0QTZtOAMSPZYqzsB7ict3N) | 3:43 | 2021-12-17 | 2022-01-28 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 | 2022-10-14 |
-| [Leave Her Johnny](https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Leave Her Johnny](https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh) | 3:13 | 2022-10-27 |  |
+| [Leave Her Johnny](https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Leave Her Johnny](https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh) | 3:13 | 2022-10-27 | 2022-11-21 |
+| [Leave Her Johnny](https://open.spotify.com/track/3el3bWRAzJhRLDJhAJYqQG) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Songs of the Highlands, Songs of the Sea](https://open.spotify.com/album/4lQJQoonyV4XpWMRwOuK9G) | 3:13 | 2022-11-18 |  |
 | [Leaving Candyland](https://open.spotify.com/track/19zYVOWm7HBRxylA1nJrCS) | [Handheld](https://open.spotify.com/artist/1RSIxRoxSc8mdUgtjtgIHX) | [Leaving Candyland](https://open.spotify.com/album/27CrBBpILjfIQxgnkwg9S6) | 2:40 | 2022-05-20 | 2022-07-01 |
 | [Leech](https://open.spotify.com/track/4PJYzWsL4EjU9s15owchBD) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Leech](https://open.spotify.com/album/3QATHeFuFAimHyxBMeP6Xr) | 5:10 | 2022-11-11 |  |
 | [Leisure Activities](https://open.spotify.com/track/0n9da6oT6NiADZhnlqWWxa) | [Italia 90](https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP) | [Leisure Activities](https://open.spotify.com/album/4qvlYE6T5cFDaVycLxHl9r) | 4:42 | 2022-09-15 | 2022-11-09 |

@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Eurotrash",
+        "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
+      },
+      "artists": [
+        {
+          "name": "Zeromancer",
+          "url": "https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Doctor Online",
+      "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
+    },
+    {
+      "album": {
         "name": "Don't Pray for Me",
         "url": "https://open.spotify.com/album/0M4jzt9bkGACpx4o8L6jfF"
       },
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"

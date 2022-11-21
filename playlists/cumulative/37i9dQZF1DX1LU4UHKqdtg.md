@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: SEVENTEEN
 
-423 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+424 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-19 | 2022-10-14 |
 | [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-17 |  |
-| [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 |  |
+| [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 | 2022-11-21 |
 | [Birthday Party](https://open.spotify.com/track/3FCDv2uvzQ7yEwusRn5k7L) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:18 | 2021-12-23 | 2022-03-30 |
 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 | 2022-09-20 |  |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
@@ -114,6 +114,7 @@
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-20 | 2022-10-08 |
 | [Doughnut](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | 4:23 | 2021-12-23 | 2022-03-23 |
 | [DREAM](https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [DREAM](https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb) | 3:06 | 2022-11-08 |  |
+| [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-20 |  |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-23 | 2022-03-30 |
 | [Drive](https://open.spotify.com/track/0TNYF3NLy6FgYs8jM10mwi) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5NvK8EDgRXrTNhYbSDKQ5j) | 3:05 | 2022-08-23 | 2022-10-05 |
 | [Drive](https://open.spotify.com/track/7N2ZqlzoDqXB7xMzUHevJ5) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/5N7p81PrhjsvkICINxnQXf) | 3:05 | 2022-08-23 | 2022-08-25 |

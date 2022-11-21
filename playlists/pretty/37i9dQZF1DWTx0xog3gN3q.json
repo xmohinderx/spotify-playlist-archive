@@ -1,12 +1,12 @@
 {
   "description": "Whenever you need a soulful boost.",
-  "num_followers": 1076487,
+  "num_followers": 1076808,
   "original_name": "Uplifting Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY0MCwwMDAwMDAwMGZjOWM3N2U2ZDNjZmU4YjY0N2ZlZjZmYzhkMzRkZmU4",
+  "snapshot_id": "MTY2MDgyNDY0MCwwMDAwMDAwMDIyNTE1NTAwZjI0YzgxYzQ4YzI0NmQzODg2Y2U2MjAy",
   "tracks": [
     {
       "added_at": "2022-05-11 12:27:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-05-11 12:27:31",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
-    },
-    {
-      "added_at": "2022-05-11 12:27:31",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 172333,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu"
+    },
+    {
+      "added_at": "2022-05-11 12:27:31",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2022-05-11 12:27:31",
@@ -505,7 +505,7 @@
         }
       ],
       "duration_ms": 226213,
-      "name": "Fantasy - Single Version",
+      "name": "Fantasy",
       "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {

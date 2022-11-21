@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Bring Me The Horizon",
-  "num_followers": 194024,
+  "num_followers": 194145,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMGI1ZTFiZWE1YTU2YTg5ODUyN2E3ZjAzNjU3YTA2NDk0",
+  "snapshot_id": "MTY2ODczNTczNiwwMDAwMDAwMDdiMjkxOTQxNGZiMTdlNzc3ZGM1MzEyMjY2OTAwNmE2",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 276764,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -367,22 +383,6 @@
       "duration_ms": 282920,
       "name": "Yuve Yuve Yu",
       "url": "https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Future Says Thank You",
-        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
-      },
-      "artists": [
-        {
-          "name": "Ithaca",
-          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
-        }
-      ],
-      "duration_ms": 218503,
-      "name": "The Future Says Thank You",
-      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 576912,
       "name": "Red River",
       "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Future Says Thank You",
+        "url": "https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg"
+      },
+      "artists": [
+        {
+          "name": "Ithaca",
+          "url": "https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x"
+        }
+      ],
+      "duration_ms": 218503,
+      "name": "The Future Says Thank You",
+      "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "EUGH!",
         "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WRAITH",
-        "url": "https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Diazepam",
+        "url": "https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 156195,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Breaks",
         "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 235214,
       "name": "Breaks",
       "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "akuma",
-        "url": "https://open.spotify.com/album/6KLzdU4IelYJvpQAzCQ4Yv"
-      },
-      "artists": [
-        {
-          "name": "SPARK!!SOUND!!SHOW!!",
-          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
-        }
-      ],
-      "duration_ms": 190590,
-      "name": "akuma",
-      "url": "https://open.spotify.com/track/3rsNKRINHRvYnQagyTqtnj"
     },
     {
       "added_at": "2022-11-18 01:42:16",

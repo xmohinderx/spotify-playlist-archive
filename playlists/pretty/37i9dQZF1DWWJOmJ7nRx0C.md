@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,429 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,680 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 110 | [SAY](https://open.spotify.com/track/7t8yNLOj8NSUxALwftaF7r) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [SAY](https://open.spotify.com/album/6mXPbUWAiKuMklIf64Jgv6) | 2:59 |
 | 111 | [My Own Device](https://open.spotify.com/track/1oOKI3gpk9skLhK54CQrwf) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [My Own Device](https://open.spotify.com/album/6V035P8rKn8whAVj0DDbEs) | 3:06 |
 | 112 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
-| 113 | [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 |
+| 113 | [Counting Sheep](https://open.spotify.com/track/1JUpOhMBQefPehm8W2tclo) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Wrap Your Head Around](https://open.spotify.com/album/2M4aK6tyusSZINJOWk7ayQ) | 3:24 |
 | 114 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 |
 | 115 | [No Longer Broken](https://open.spotify.com/track/4Pyji8Lazjmb13VNtajN99) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [No Longer Broken](https://open.spotify.com/album/5YE55mEf1XJJ9RUk0N4w8x) | 3:19 |
 | 116 | [Out of My Head](https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head](https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl) | 2:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Lucy](https://open.spotify.com/track/1tHk8blCzRJQKQd10K6i8I) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Lucy](https://open.spotify.com/album/78Aw9KMCkXDEOwogJ6h5lE) | 3:36 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDUyMTNjZGRjNmE1NWIxMTdlMTVhYjgxNjliN2E1YjQ1`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDExZDlhYjIwNzZiZDlkZjg3ODk4YmE5ODBlMzM2OTI1`

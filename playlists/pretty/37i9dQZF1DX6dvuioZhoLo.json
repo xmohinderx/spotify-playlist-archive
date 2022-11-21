@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 257505,
+  "num_followers": 257596,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGU0NDcyZjRmMzFhY2I3ZGMyNzNjNzQ2NzJkNzA1NzE3",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJjMDkzNzVjZjc0N2ViYmY4ZmM0ZDk0ZWY4OTdhYzQ2",
   "tracks": [
     {
       "added_at": "2022-04-01 04:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Heart of Somebody",
-      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Kitty Wells\u2019 Country Hit Parade",
         "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 152866,
       "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Heart of Somebody",
+      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -991,6 +991,38 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 240801,
+      "name": "Hotel Amarillo",
+      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1015,50 +1047,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+        "name": "Goodnight Rhonda Lee",
+        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         }
       ],
-      "duration_ms": 240801,
-      "name": "Hotel Amarillo",
-      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
-      },
-      "artists": [
-        {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+      "duration_ms": 153466,
+      "name": "Goodnight Rhonda Lee",
+      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Goodnight Rhonda Lee",
-        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
       "artists": [
         {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Goodnight Rhonda Lee",
-      "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
+      },
+      "artists": [
+        {
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
+        }
+      ],
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Midwest Farmer's Daughter",
         "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Sometimes Dogs Bark at Nothing",
-        "url": "https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD"
-      },
-      "artists": [
-        {
-          "name": "JP Harris",
-          "url": "https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy"
-        }
-      ],
-      "duration_ms": 236963,
-      "name": "When I Quit Drinking",
-      "url": "https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Sometimes Dogs Bark at Nothing",
+        "url": "https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD"
+      },
+      "artists": [
+        {
+          "name": "JP Harris",
+          "url": "https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy"
+        }
+      ],
+      "duration_ms": 236963,
+      "name": "When I Quit Drinking",
+      "url": "https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Let It Pass",
         "url": "https://open.spotify.com/album/2tWv4fEUE5nkK39FiDmwCE"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 206835,
       "name": "Light As a Fire",
       "url": "https://open.spotify.com/track/5pbu10jgX1LlVbJJ5iiFsY"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2022-04-01 04:00:00",

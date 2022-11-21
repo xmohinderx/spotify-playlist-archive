@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
+70 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 | 2022-08-24 |  |
 | [Eternal Roots \- PAAX \(Tulum\) remix](https://open.spotify.com/track/77JvaKaFCOvROjm2qfrfDR) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:35 | 2022-08-24 |  |
 | [Feeling Good](https://open.spotify.com/track/4wqtlpo7xtEmuY3zJjR2EE) | [Simone Vitullo](https://open.spotify.com/artist/2DmIxLxqj5Pu1QcZxuMZOQ), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Brigitte Wickens](https://open.spotify.com/artist/7MlbbUSbXf3BDOSyFCOOeO) | [Feeling Good](https://open.spotify.com/album/2ONyrF5at73dk9Dbb8AD30) | 6:55 | 2022-10-13 |  |
-| [Force](https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force EP](https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P) | 7:34 | 2022-08-24 |  |
+| [Force](https://open.spotify.com/track/35bOzO8Az5C9xsAgUjr0Bq) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force](https://open.spotify.com/album/1MpLubxJBJNRaFAjahk9Hj) | 7:34 | 2022-10-13 |  |
+| [Force](https://open.spotify.com/track/3y2b7uFFbUgtTFeh4TKHAp) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Force EP](https://open.spotify.com/album/3Vj7hxsIOeERxTr7lroS5P) | 7:34 | 2022-08-24 | 2022-11-21 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-08-24 |  |
 | [Gamora](https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Endless Forest](https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb) | 7:16 | 2022-08-24 | 2022-10-14 |
 | [How Can I Resist](https://open.spotify.com/track/0YnPozuKonupUAmhWinO88) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/4cL2WyIcSwWgRlQxrXDN2M) | 6:28 | 2022-10-13 |  |

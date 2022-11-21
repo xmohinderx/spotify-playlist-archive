@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,948 likes - 102 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,554 likes - 102 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 128043,
+  "num_followers": 128027,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDc4NDY0NTk0OTUxMjE1MzRmNjJlYTZmODdjOGQwODEx",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDcyZDBlMGQ0YjBkZmI2ZWMzYzE0MjEyZDU1YzIxYmUz",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Look Sharp!",
-        "url": "https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Is She Really Going Out With Him?",
-      "url": "https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Parklife (Special Edition)",
         "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Is She Really Going Out With Him?",
+      "url": "https://open.spotify.com/track/29SRvYOKbMLOZeOubNGtLb"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Band On The Run (Standard)",
-        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Jet - 2010 Remaster",
-      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "My Aim Is True",
         "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 204533,
       "name": "Alison",
       "url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Band On The Run (Standard)",
+        "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Jet - 2010 Remaster",
+      "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
     },
     {
       "added_at": "2021-12-16 19:14:26",

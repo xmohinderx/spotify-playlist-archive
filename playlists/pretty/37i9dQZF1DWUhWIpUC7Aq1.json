@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 64892,
+  "num_followers": 65036,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDNkMGJkZjliMTcwMWI1MzZkYTgxYWFjMmNmM2JiYmE1",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDE5MzMyNWJjYmY1ZjNhYzc1MmYwM2RmN2M2NGM1NDli",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Pains of Being Pure at Heart",
-        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "A Teenager in Love",
-      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Truckload Of Trouble",
         "url": "https://open.spotify.com/album/2ghVoguFTuCBLKSuDeojQ1"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 232133,
       "name": "Nothing To Be Done",
       "url": "https://open.spotify.com/track/4vReegUzNPc2t06jJKgieU"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Pains of Being Pure at Heart",
+        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "A Teenager in Love",
+      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
     },
     {
       "added_at": "2022-08-26 20:04:38",

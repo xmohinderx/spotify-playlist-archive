@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,351 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,439 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 64 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 |
 | 65 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 |
 | 66 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 |
-| 67 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 |
+| 67 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 |
 | 68 | [永久彗星短歌水](https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [.jp](https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ) | 6:12 |
 | 69 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 |
-| 70 | [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 |
+| 70 | [HATE](https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [TOMOSHIBI](https://open.spotify.com/album/1joJdTZveBD244bGKj994d) | 2:50 |
 
-Snapshot ID: `MTY2ODg5OTUzMiwwMDAwMDAwMGI1OWZlNzRhYWNlM2U3Y2Q4MzQ2YzVmNzcxZDgzOWY5`
+Snapshot ID: `MTY2ODg5OTUzMiwwMDAwMDAwMDc0N2I3NTdhNDdjYzlhZjdjMTMyNjI1N2Q5YjczMTlm`

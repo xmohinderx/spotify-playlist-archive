@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-574 songs - 2 day 1 hr 46 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+575 songs - 2 day 1 hr 50 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bridges](https://open.spotify.com/track/2eBdWSuKGDDYInmvWeK4AA) | [Arkentype](https://open.spotify.com/artist/4IzmDCzlwnl81Q2rwskK3g) | [Bridges](https://open.spotify.com/album/6lN0FkAKy6vIZA4Zm5WJQw) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Brutal Behavior](https://open.spotify.com/track/6wN8nayh7c9Gon16wLV5wv) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:31 | 2021-12-17 | 2022-01-28 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2022-07-13 |  |
-| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 |  |
+| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 | 2022-11-21 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-08 | 2022-09-03 |
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
@@ -261,6 +261,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/5o3XLBNTiwYyLeC107DXtF) | [Amplifier](https://open.spotify.com/artist/1lCspmd05bYpPS814xw5nl) | [Record](https://open.spotify.com/album/5eXxQkFPgNwngv9U6k2aCt) | 5:50 | 2021-12-17 | 2022-01-29 |
 | [Katabasis](https://open.spotify.com/track/4AQSYo9ooWD3aHWBxAB8Yv) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Katabasis](https://open.spotify.com/album/703y5eX545v5GdMr0bIK01) | 4:32 | 2022-01-14 | 2022-07-28 |
 | [Keep Me in the Dark](https://open.spotify.com/track/0KWmCXJtYoBNCNK0AI7bA7) | [Fiends](https://open.spotify.com/artist/59iJW8QarPpbSLWJVbsRoJ) | [Keep Me in the Dark](https://open.spotify.com/album/01WU9H7NkIFQKJ9GeBmePb) | 6:35 | 2021-12-17 | 2022-01-28 |
+| [Kijo](https://open.spotify.com/track/18M1T1KsPkj04qG8mUYmdK) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [Kijo](https://open.spotify.com/album/3IFvSb1HevXsV7NgT8Kp3J) | 3:42 | 2022-10-28 |  |
 | [Kijo](https://open.spotify.com/track/608RRgKIml4mVLlDDwqBv4) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [Kijo](https://open.spotify.com/album/4DsmxRjsSuFWq1tgZPQzvb) | 3:42 | 2022-01-14 | 2022-11-09 |
 | [Kill Your Darlings](https://open.spotify.com/track/4fGs6MdXpOr48D8nn5V4nt) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Kill Your Darlings](https://open.spotify.com/album/22gxet47WzD15dgYEsTCyy) | 5:08 | 2022-03-01 | 2022-04-21 |
 | [Kneel to Nothing](https://open.spotify.com/track/63tOiqREerOYZvJNYHSEjL) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Kneel to Nothing](https://open.spotify.com/album/60JeDpGTiuXDhDYNiXu8b3) | 4:38 | 2021-12-17 | 2022-07-01 |

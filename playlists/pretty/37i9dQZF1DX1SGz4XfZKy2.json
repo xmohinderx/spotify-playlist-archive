@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 61712,
+  "num_followers": 61701,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDJkNjNhNmMwZDE5YWFlYWY4Y2Y4OTEzNTRiMTNjNDJh",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGZjNGYzOTFlNWU2OWYyMGQ1MTc0MWNmNGYxOTIwMmE5",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson",
-        "url": "https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18"
-      },
-      "artists": [
-        {
-          "name": "Egyptian Meditation Temple",
-          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
-        }
-      ],
-      "duration_ms": 213027,
-      "name": "Dubai Midnight",
-      "url": "https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Shenididar",
         "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 260063,
       "name": "Apology",
       "url": "https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson",
+        "url": "https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Meditation Temple",
+          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
+        }
+      ],
+      "duration_ms": 213027,
+      "name": "Dubai Midnight",
+      "url": "https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Our Story",
-        "url": "https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f"
-      },
-      "artists": [
-        {
-          "name": "Hawa Dafi",
-          "url": "https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Faragh",
-      "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Singing with Swallows of Sigh",
         "url": "https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190080,
       "name": "Oud",
       "url": "https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Our Story",
+        "url": "https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f"
+      },
+      "artists": [
+        {
+          "name": "Hawa Dafi",
+          "url": "https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Faragh",
+      "url": "https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Bovad Aya",
-      "url": "https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM"
+      "duration_ms": 257320,
+      "name": "Baraamad",
+      "url": "https://open.spotify.com/track/2hITyZ541vVH3TElcLIlTh"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq"
         }
       ],
-      "duration_ms": 257320,
-      "name": "Baraamad",
-      "url": "https://open.spotify.com/track/2hITyZ541vVH3TElcLIlTh"
+      "duration_ms": 328000,
+      "name": "Bovad Aya",
+      "url": "https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM"
     },
     {
       "added_at": "2021-02-15 11:04:36",

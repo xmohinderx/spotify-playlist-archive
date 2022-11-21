@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186080,
+      "name": "In Person",
+      "url": "https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p"
+    },
+    {
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 909 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 924 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 10 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 11 | [Vacaciones En Chile \- Original Mix](https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB) | [Ilario Alicante](https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD) | [Warm Vibes](https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze) | 9:49 |
 | 12 | [Believe In Ghosts](https://open.spotify.com/track/0HVwpwnXY2L0M7VW1PbH5F) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [Believe In Ghosts](https://open.spotify.com/album/5VuscFaM5Rx8Irbv4vD8uX) | 2:46 |
-| 13 | [Skin on Skin](https://open.spotify.com/track/4Za6z9eWjkArKOA8xalmqN) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/3iwxFlpwd2wuIUZgnMGVzZ) | 6:45 |
+| 13 | [Skin on Skin](https://open.spotify.com/track/7hNOKF4ddD4LgWMMaa7OTb) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/7CbtzOCFKrf7wzLWTljrfH) | 6:45 |
 | 14 | [Skylighter \- Space 92 Meteor Remix](https://open.spotify.com/track/0FtATT9vuXJLZGkA9PESMx) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Skylighter](https://open.spotify.com/album/5GaQ4dj4Ln5cOO4C8Fb28P) | 7:09 |
 | 15 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 |
 | 16 | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC) | 2:54 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |
 | 48 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 |
 
-Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMGY5OTM1ZGJjM2I0MmU2NTAxMTJmYjJjMTMzYzA5NTRl`
+Snapshot ID: `MTY2MzIyMzA4MywwMDAwMDAwMGVlOTdkMDhkNzBlNGQ2ZDcwZWYwM2NjOTZjZjExYzEw`

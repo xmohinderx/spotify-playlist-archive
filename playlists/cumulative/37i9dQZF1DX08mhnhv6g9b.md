@@ -4,7 +4,7 @@
 
 > This is the PROOF of BTS history\. ARMY is unbeatable💜
 
-439 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
+440 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/0H29pOOi9iH82uofXTdelu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Dope](https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X) | 4:00 | 2022-05-27 |  |
 | [Dream Glow \(BTS World Original Soundtrack\) \- Pt\. 1](https://open.spotify.com/track/4c1WgUnHXq2LEncGHKgj1I) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Dream Glow \(BTS World Original Soundtrack\) \[Pt\. 1\]](https://open.spotify.com/album/7fEUnTEsnJOXEZtUYMKyOE) | 3:07 | 2022-06-10 | 2022-06-18 |
 | [Dream Glow \(BTS World Original Soundtrack\) \[Pt\. 1\]](https://open.spotify.com/track/6xtmK2QQfRd7xCwyejl2oV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:07 | 2022-06-23 |  |
+| [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-20 |  |
 | [Dynamite](https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite](https://open.spotify.com/album/3zWmE5c3alhuoPLphxjMVd) | 3:19 | 2022-06-10 | 2022-06-18 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-06-03 |  |
 | [Dynamite](https://open.spotify.com/track/72IwoG8tqvIWV10IHjpNNA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:19 | 2022-06-09 | 2022-11-08 |

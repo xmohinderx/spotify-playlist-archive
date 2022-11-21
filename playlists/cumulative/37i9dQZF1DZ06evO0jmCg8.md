@@ -4,7 +4,7 @@
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5SBFjzLYdFjuhwvf3Pcpzt)
+76 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/5SBFjzLYdFjuhwvf3Pcpzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 | 2022-05-30 |  |
 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 | 2022-05-30 |  |
 | [Rise of the Tyrant](https://open.spotify.com/track/4IgNweJc2Ph8KfXZ1Zl9y8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:33 | 2022-05-30 | 2022-09-11 |
-| [Savage Messiah](https://open.spotify.com/track/2XhiaLljpaCG9nZomMpZol) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 5:16 | 2022-05-30 |  |
+| [Savage Messiah](https://open.spotify.com/track/2XhiaLljpaCG9nZomMpZol) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 5:16 | 2022-05-30 | 2022-11-21 |
 | [Set Flame to the Night](https://open.spotify.com/track/06Fzhn4M28HZx48H9IXA4j) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 1:18 | 2022-07-06 | 2022-10-06 |
 | [Shadow On the Wall \- cover version](https://open.spotify.com/track/4KV8M1q7Rbzlyuv5IlVDt2) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 3:03 | 2022-06-07 | 2022-06-09 |
 | [Shout \- cover version](https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:45 | 2022-06-28 |  |
 | [Silent Wars](https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 | 2022-05-30 |  |
 | [Silverwing](https://open.spotify.com/track/32Y1ojAK8U4Ccyr1B99gVz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Burning Bridges \(Reissue\)](https://open.spotify.com/album/4qwaehBoGexegfX44egeEE) | 4:06 | 2022-05-30 | 2022-09-20 |
 | [Skeleton Dance](https://open.spotify.com/track/3eoOyd7gtD4f3x0x8v4H9E) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:33 | 2022-05-30 |  |
+| [Snow Bound](https://open.spotify.com/track/7p6uOhkvp95bbp4bKmLGcn) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 1:32 | 2022-11-20 |  |
 | [Spreading Black Wings](https://open.spotify.com/track/1AjomJSkQXEJCEpgxBRCKB) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:46 | 2022-08-16 | 2022-10-11 |
 | [Stolen Life](https://open.spotify.com/track/47j6K08MLO1PiYsxv7VCVM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 2:58 | 2022-05-30 |  |
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-30 | 2022-09-04 |

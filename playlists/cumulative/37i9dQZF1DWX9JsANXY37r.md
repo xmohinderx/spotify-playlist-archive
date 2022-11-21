@@ -4,7 +4,7 @@
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-218 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
+219 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/1auBputQiLOUbjD4e5chlL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-03-02 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-09-21 | 2022-11-17 |
 | [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2022-02-18 | 2022-07-29 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-09-21 |  |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2022-09-21 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2022-02-18 | 2022-10-13 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-09-21 | 2022-11-02 |
@@ -211,7 +212,7 @@
 | [Used To Love You](https://open.spotify.com/track/6BGB0heZVGWDOisMVMIj5S) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chapters \(Deluxe\)](https://open.spotify.com/album/7xmZhwCMmkqP70vLh7Kzmz) | 3:29 | 2022-03-25 | 2022-04-13 |
 | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/track/1SGhreIdQO3v7z6SOgEEHC) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Vibe for Me \(Bob for Me\)](https://open.spotify.com/album/1XQYewNWBnVBFFxLv4BFeR) | 2:31 | 2022-03-22 | 2022-04-18 |
 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 | 2022-08-12 |  |
-| [Waiting](https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [Take Off](https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP) | 4:22 | 2022-09-21 |  |
+| [Waiting](https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [Take Off](https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP) | 4:22 | 2022-09-21 | 2022-11-21 |
 | [Waiting \(feat\. Madelyn Grant\)](https://open.spotify.com/track/2v4maFtMJuNjiXGUurC9h4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Madelyn Grant](https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w) | [Take Off \- EP](https://open.spotify.com/album/0A2R7gz1Qvq9IUgmKhnHDu) | 4:22 | 2022-03-25 | 2022-04-18 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2022-03-25 | 2022-04-15 |
 | [What Do I Know](https://open.spotify.com/track/5vxMm3COhu046aV1MFVwbG) | [Jordan Lee](https://open.spotify.com/artist/44SQjq9FW4yPRpMxGIO0Em), [Tim Gustave](https://open.spotify.com/artist/0XFe8EaiJNIdwOPlikGKuM) | [Highlights](https://open.spotify.com/album/4nIdvGsWLIoaLhBWa34TM4) | 4:06 | 2022-03-04 | 2022-06-18 |

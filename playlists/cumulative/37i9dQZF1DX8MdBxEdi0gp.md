@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-163 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
+165 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 | 2022-05-10 |  |
 | [Lo Que Te Queda](https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ) | [Los Pulpos](https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:01 | 2022-05-10 |  |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 | 2022-05-10 | 2022-07-29 |
-| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2022-05-10 |  |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2022-05-10 | 2022-11-21 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/0wqvXVSwZPQXSsZOUdPp1K) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/35FMUuGODtyT4i6OcU4tCT) | 3:17 | 2022-05-10 | 2022-11-13 |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2022-05-10 |  |
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2022-05-10 |  |
 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 | 2022-05-10 |  |
 | [Mary Es Mi Amor](https://open.spotify.com/track/0xAEgTHXmtY1UbHO6w1QN2) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/4azTPxPIIFJlPpG0TrIng4) | 3:08 | 2022-05-10 | 2022-11-13 |
@@ -104,8 +105,9 @@
 | [Me llamas](https://open.spotify.com/track/2yPhGSmKyT0uumDd4oe0sv) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [De Marujeo](https://open.spotify.com/album/6ZQYQf6HvBMQFtozizRt04) | 4:35 | 2022-05-10 | 2022-11-13 |
 | [Me llamas](https://open.spotify.com/track/1Dlh7BkGvWBzWi8UxUP6EO) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [15 De Coleccion](https://open.spotify.com/album/7w7gtaOL9JBDympoY9SddQ) | 4:36 | 2022-05-10 | 2022-07-29 |
 | [Melina](https://open.spotify.com/track/3RhvIbIMHJqUarymFi2Ax3) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Numero 1](https://open.spotify.com/album/0piqRAcsBKF2if4vmlBnsA) | 2:44 | 2022-05-10 | 2022-11-13 |
-| [Melina](https://open.spotify.com/track/3p0JLiO2eCaGurE0pG2tJZ) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 2:47 | 2022-05-10 |  |
+| [Melina](https://open.spotify.com/track/3p0JLiO2eCaGurE0pG2tJZ) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 2:47 | 2022-05-10 | 2022-11-21 |
 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 | 2022-05-10 | 2022-07-29 |
+| [Melina \- Remasterizado](https://open.spotify.com/track/1VIE012Xl6cTjVLXnfQNUq) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Forever](https://open.spotify.com/album/3ET9XdNnhaRwfKW6WXy03K) | 2:48 | 2022-05-10 |  |
 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 | 2022-05-10 |  |
 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 | 2022-05-10 |  |
 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 | 2022-05-10 |  |

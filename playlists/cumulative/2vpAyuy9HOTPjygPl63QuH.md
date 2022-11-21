@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-593 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+595 songs - 1 day 10 hr 29 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-10-29 | 2022-11-06 |
 | [Answer Me \- Ranger Trucco Remix](https://open.spotify.com/track/7cCBhdkqXHORXDjrJFXTaf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Answer Me \(Ranger Trucco Remix\)](https://open.spotify.com/album/4EqlKPi1s31N9Q2D086W9r) | 3:30 | 2022-07-09 | 2022-07-16 |
 | [As Long As We Got House](https://open.spotify.com/track/1haSCrD5ejKJHEYH1gP6OW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [As Long As We Got House](https://open.spotify.com/album/5i2am7GXU3ROJFU8nOPnUz) | 2:53 | 2022-11-05 | 2022-11-12 |
+| [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [Toyzz](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 | 2022-11-20 |  |
 | [At The Club](https://open.spotify.com/track/3uZNgxv6kHuOK3XimZx6IT) | [Sampson.](https://open.spotify.com/artist/2kuBYXNzauzqVYmAUID2W9) | [SPLITS 003](https://open.spotify.com/album/7lVv0ud2nfn2nihXoui8MV) | 5:42 | 2022-07-17 | 2022-07-30 |
 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 | 2022-07-29 | 2022-08-06 |
 | [Away \- NuKey Extended Remix](https://open.spotify.com/track/1T9JOtUpav6PH3BOVbsuep) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Away \(NuKey Remix\)](https://open.spotify.com/album/0HVfuo2ZlhKP1gTLWRcmn6) | 3:25 | 2022-04-28 | 2022-05-14 |
@@ -481,6 +482,7 @@
 | [Stand By Me](https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Stand By Me](https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu) | 2:54 | 2022-09-23 | 2022-10-01 |
 | [Step Correct](https://open.spotify.com/track/6NlCfMAf2BUR8rLpnyYb0p) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Step Correct](https://open.spotify.com/album/6mWSOP4xoZPRMrNEXHt3Fd) | 2:33 | 2022-09-11 | 2022-09-18 |
 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 | 2022-11-18 |  |
+| [Street L](https://open.spotify.com/track/4bRSmEkAPh4RY6UD3c3KUS) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Street L](https://open.spotify.com/album/3mwDIDpMYSRvdWeMnM6pL6) | 2:28 | 2022-11-20 |  |
 | [String Theory](https://open.spotify.com/track/5VVfyoNTTsFyJSXnoRH9gd) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [String Theory](https://open.spotify.com/album/5fek0WffLqXW6Grw64q5r0) | 3:04 | 2022-04-28 | 2022-05-14 |
 | [Strip Club](https://open.spotify.com/track/3zKQlZFdwRw5RQKZ8S8WgW) | [The Schmidt](https://open.spotify.com/artist/7F0azW5NhgPjfwozhEryK5), [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Strip Club](https://open.spotify.com/album/3hd1XTMb5Z3tdl5OZ1atc7) | 3:01 | 2022-07-15 | 2022-07-30 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-18 |  |

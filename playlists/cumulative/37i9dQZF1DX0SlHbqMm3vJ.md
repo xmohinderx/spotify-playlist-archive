@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Johnny Drille
 
-275 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+276 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Coco Marijuana](https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:57 | 2022-01-21 | 2022-02-18 |
 | [Cocoa Butter](https://open.spotify.com/track/4nJood9eQoAj6T412JfGvx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9) | [Coco Butter](https://open.spotify.com/album/6XbRSuQaukH0Ywp6z019lU) | 2:46 | 2022-03-03 | 2022-03-05 |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 | 2022-09-23 |  |
-| [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 |  |
+| [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 |  |
+| [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
 | [Confam](https://open.spotify.com/track/1eC4Sn5UcMAufqvrZg8e9R) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Confam](https://open.spotify.com/album/6a571KAznEUtm9KmpqBtem) | 2:50 | 2022-03-18 | 2022-07-29 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2022-08-26 |
 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 | 2022-11-04 | 2022-11-13 |

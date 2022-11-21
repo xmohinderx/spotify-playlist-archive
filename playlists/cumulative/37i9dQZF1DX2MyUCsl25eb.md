@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-467 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+468 songs - 1 day 3 hr 14 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Drawn to You](https://open.spotify.com/track/3raxhmKSaQl8c5mDlSi4zA) | [Airpark](https://open.spotify.com/artist/3FhYulv2HI8so6GZy7AaU4), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [Drawn to You](https://open.spotify.com/album/4naCoL5HV9x5094350Vtuc) | 3:17 | 2022-09-02 | 2022-09-10 |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-09-05 |
 | [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 | 2022-10-10 |
-| [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-07-01 |  |
+| [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-07-01 | 2022-11-21 |
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2022-07-29 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-22 |  |
 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-24 | 2022-11-12 |
@@ -140,6 +140,7 @@
 | [False Alarms \(with Jon Bellion\)](https://open.spotify.com/track/4hG1MCciEGpxL4mOZaxRqt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 4:00 | 2021-08-04 | 2022-07-29 |
 | [Fast Talk](https://open.spotify.com/track/2NSHs7fnTlqosMNy72P7Mb) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Fast Talk](https://open.spotify.com/album/3SMoItGjCanLw0iCHTeffs) | 4:19 | 2021-08-04 | 2022-03-31 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
+| [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-03-18 |  |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2021-08-04 | 2022-08-13 |
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-08-26 |  |
 | [Feel The Need](https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:48 | 2021-08-05 | 2022-04-27 |
@@ -184,7 +185,7 @@
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-23 |  |
 | [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2021-08-04 | 2022-04-01 |
-| [Hideaway](https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS) | 2:43 | 2022-06-17 | 2022-11-20 |
+| [Hideaway](https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS) | 2:43 | 2022-06-17 |  |
 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 | 2022-05-27 | 2022-07-26 |
 | [Higher Love](https://open.spotify.com/track/2hSdHOOBLXNkh7zmmgoAn3) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early In The Morning](https://open.spotify.com/album/5unOlor1gcgB9RudFRQul7) | 3:35 | 2021-08-04 | 2022-04-19 |
 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 | 2021-08-04 | 2022-08-13 |
@@ -373,7 +374,7 @@
 | [SOME TIME\(S\)](https://open.spotify.com/track/3si68QloSfvdnNopCbtbh2) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 7: SOME TIME\(S\)](https://open.spotify.com/album/5jNH3x7fryq5BaPt1YhcYJ) | 2:11 | 2022-01-21 | 2022-07-06 |
 | [Somebody Else](https://open.spotify.com/track/4eaW9mt8VdDWqtC9CRUhLm) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Somebody Else](https://open.spotify.com/album/7BG5k1KQgcjVwB7knOwhHQ) | 3:13 | 2022-02-25 | 2022-04-17 |
 | [Somebody's Nobody](https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Somebody's Nobody](https://open.spotify.com/album/5tuZ5QFAdNcQqd6ghXAfbb) | 3:42 | 2022-06-24 | 2022-07-02 |
-| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 |  |
+| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 | 2022-11-21 |
 | [Something New](https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Something New](https://open.spotify.com/album/0WJ9MrW2T4ogWvBoH6u4iI) | 4:34 | 2022-04-22 | 2022-07-29 |
 | [Something To Hold](https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Something To Hold](https://open.spotify.com/album/58WEkFrueGp8HFOZlJKRdw) | 4:31 | 2021-10-22 | 2022-07-28 |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2022-08-26 | 2022-09-03 |

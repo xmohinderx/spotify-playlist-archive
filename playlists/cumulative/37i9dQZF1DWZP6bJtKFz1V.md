@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: spill tab
 
-449 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+450 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-22 | 2022-08-06 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2022-03-25 | 2022-10-08 |
 | [I Want to Feel It All](https://open.spotify.com/track/4p2Qe0tYuz6G7d6uDGTirU) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [I Want to Feel It All](https://open.spotify.com/album/0WLSgALXrDuYcBI9N2QY61) | 3:28 | 2022-02-04 | 2022-03-26 |
+| [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 | 2022-11-18 |  |
 | [I WON'T COMPLAIN \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/1oMSJ93bJIhk4HLbmjhott) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [I WON'T COMPLAIN \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/0OeKDfEvjHo8mShswebshI) | 2:27 | 2022-02-04 | 2022-03-26 |
 | [I'M NOT SORRY](https://open.spotify.com/track/1RcHsx2rw6ojtQyFlLr99O) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [I'M NOT SORRY](https://open.spotify.com/album/4cw4dZdBBmHxwQfSOVwbJ8) | 2:42 | 2022-07-22 | 2022-08-13 |
 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-08 | 2022-10-08 |
@@ -333,7 +334,7 @@
 | [scaredy cat](https://open.spotify.com/track/6h25pN6clHAfaO443edhwS) | [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [scaredy cat](https://open.spotify.com/album/5fFrqDeUxm6LkKtXHABKHd) | 3:06 | 2022-04-01 | 2022-05-28 |
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-06 | 2022-10-26 |
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-07-01 | 2022-10-08 |
-| [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-06-24 |  |
+| [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-06-24 | 2022-11-21 |
 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-02-04 | 2022-03-05 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-02-04 | 2022-05-14 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-07-09 |

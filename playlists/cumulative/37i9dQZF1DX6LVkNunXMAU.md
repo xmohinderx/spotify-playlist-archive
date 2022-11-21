@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-138 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
+139 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/4BUp4yjqSNj5hKWR44pt15)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 |  |
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2022-05-20 | 2022-08-27 |
 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 | 2022-07-15 |  |
-| [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 |  |
+| [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 | 2022-11-21 |
 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 | 2022-05-20 |  |
 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 | 2022-05-20 |  |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 |  |
@@ -70,6 +70,7 @@
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 |  |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 |  |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 |  |
+| [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 | 2022-11-11 |  |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 |  |
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-05-20 |  |
 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 | 2022-05-20 | 2022-07-16 |

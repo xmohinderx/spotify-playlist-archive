@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,271 likes - 96 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,018 likes - 96 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

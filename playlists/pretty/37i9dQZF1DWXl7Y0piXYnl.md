@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,271 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,285 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 53 | [Cash Romantic](https://open.spotify.com/track/7ohB7weILWUB5w5iHcpaQG) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 4:11 |
 | 54 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 |
 | 55 | [Infinite Window](https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2) | 4:49 |
-| 56 | [1994\-3 \- Substance Remix](https://open.spotify.com/track/2CoyqUcgdxrRzCO7FixB9w) | [Fundamental Knowledge](https://open.spotify.com/artist/24ePLr1kFCBUa6domV6ogS), [Substance](https://open.spotify.com/artist/2OhRlg8iJc0v8XeRiXRr4H) | [1994\-20/3](https://open.spotify.com/album/7ILbkJD8Snfqy6BtrTxkgq) | 4:45 |
+| 56 | [1994\-3 \- Substance Remix](https://open.spotify.com/track/7qu5rZJSBRtXlSM5LOJUBh) | [Fundamental Knowledge](https://open.spotify.com/artist/24ePLr1kFCBUa6domV6ogS), [Substance](https://open.spotify.com/artist/2OhRlg8iJc0v8XeRiXRr4H) | [1994\-20/3](https://open.spotify.com/album/01PuoiVCrazF3h4n2gcSq6) | 4:45 |
 | 57 | [Telepathic Abuse](https://open.spotify.com/track/0cv35nHGvz3XcCCYY0Vnme) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H), [DANNN](https://open.spotify.com/artist/57AjAsEr22xkpRJa6XOPcT) | [Telepathic Abuse](https://open.spotify.com/album/0gK4e43yD6C7lXcujdUfip) | 4:07 |
 | 58 | [Behind Closed Doors](https://open.spotify.com/track/0T1HIrp2Y8akLW4IsoNV5G) | [Less\-O](https://open.spotify.com/artist/1EdiDxp9Yx76lRNzqM45FO) | [Shenanigans](https://open.spotify.com/album/0xo3h16YVXIu2gTb1kfKe9) | 3:09 |
 | 59 | [Olha Ja](https://open.spotify.com/track/0ya0bggTksQ6reU4JZxz6k) | [DJ Lycox](https://open.spotify.com/artist/6HPUbM6BB61jpGbYOYMQ9C) | [SUJEIRA](https://open.spotify.com/album/6r2anSKGq1NfcFXQxRVPFV) | 3:00 |
 | 60 | [Close Call](https://open.spotify.com/track/47TYels9yNyhcVTLfypPz9) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo), [Spectr](https://open.spotify.com/artist/1pQBPMOeVPKEclryZMzHaz) | [Close Call](https://open.spotify.com/album/61B6UkQACI73CR484Hwoq4) | 5:09 |
 | 61 | [Crab Ride](https://open.spotify.com/track/6Ume6jodiuUsMOtbHVeotc) | [Karima F](https://open.spotify.com/artist/0t8fdNcHd9rP9mqzv83RLg) | [Fief Fief](https://open.spotify.com/album/2UPkjxDxd5A90UNsd98vlw) | 5:23 |
-| 62 | [The Corpse of a Frozen Flower \- Eiko Ishibashi Vocal Version](https://open.spotify.com/track/1KFlfBqzvIWGSdmSXy3ZpP) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [The Corpse of a Frozen Flower \(Eiko Ishibashi Vocal Version\)](https://open.spotify.com/album/7i3xLVHJCNgB74tQjLOWRy) | 4:49 |
+| 62 | [The Corpse of a Frozen Flower](https://open.spotify.com/track/6jFqs5z2EMkkbprCyOIgvV) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/1zZlS9NOEVUsyf1liL78cC) | 4:48 |
 | 63 | [Thermal Cycler](https://open.spotify.com/track/1s1WSGkX3NNY2ZfF3QJ47q) | [Piska Power](https://open.spotify.com/artist/3nwpEvWFXksDJUhjapCGJm) | [Thermal Cycler](https://open.spotify.com/album/3Z3REtlVMyzf6sgU6vTpOf) | 4:50 |
 | 64 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/60VjArH5XWBvpahor9I7RF) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 4:37 |
 | 65 | [Rip The Cut](https://open.spotify.com/track/12SYgE6TAQFZtBOGqv5yni) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [The Messenger](https://open.spotify.com/album/2paOtQ1JS1bUWkkedbZcP6) | 8:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 |
 | 70 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGU5NGRjNzQ2OTUzZWRmNDUyZmQwNGU2MDM1ZDM0Mjli`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDhiZjkwYzY5MzM2ZWY1NTRhOGZlMjJlZDk0M2ZhYzg0`

@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Kaash Paige
 
-368 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+369 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2022-08-05 |  |
 | [kill for you](https://open.spotify.com/track/0FCX6zRbAERkYNg9FJ2Vo3) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [kill for you](https://open.spotify.com/album/6xon6un9ZsuGxFcbYdcX42) | 2:27 | 2022-03-25 | 2022-04-02 |
 | [KMS](https://open.spotify.com/track/4ZKPZXtB2PabDQ1Rei2ElK) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [KMS](https://open.spotify.com/album/1Hi2mMUYpuLqN6WDTNmui5) | 2:25 | 2022-02-18 | 2022-07-25 |
+| [Late Night](https://open.spotify.com/track/3wieNkso3b4ctBodn0xUlQ) | [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Late Night](https://open.spotify.com/album/2aO2w1pK8fyvgTyJb4Q4SV) | 2:38 | 2022-11-18 |  |
 | [Late Night N\*gga](https://open.spotify.com/track/1Dy9O207OlHxlIoC7dcJ3O) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/5rvnhFt8e5gwCOvXiHqEnD) | 3:48 | 2022-02-04 | 2022-07-27 |
 | [Lay Up](https://open.spotify.com/track/6XkHHMfaghZ1SNf3V5yM5b) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:06 | 2021-12-15 | 2022-07-27 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-14 |  |
@@ -209,7 +210,7 @@
 | [Let You Go](https://open.spotify.com/track/4EMi40PsBg8uwJcEyNhdPJ) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Let You Go](https://open.spotify.com/album/76hyS0MpstCRbSqt46w7Th) | 2:53 | 2021-12-15 | 2022-05-10 |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-04-15 | 2022-04-19 |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-02-18 |  |
-| [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 |  |
+| [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 | 2022-11-21 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-08-06 |
 | [Lie to Me](https://open.spotify.com/track/7uO1XDd18BoIWNWd873Qn7) | [Michael from the East](https://open.spotify.com/artist/55nF1IVzx7JDsELhSQiPu4) | [Lie to Me](https://open.spotify.com/album/0D5aDxNLuP56No2g6kZ0yf) | 3:28 | 2021-12-15 | 2022-03-13 |
 | [Lie To Me](https://open.spotify.com/track/4tGGaI4N2KDjmAwXxF1e7P) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lie To Me](https://open.spotify.com/album/2rJoBiht61YjK4VZVe98kH) | 3:12 | 2021-12-15 | 2022-07-27 |

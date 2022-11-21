@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 482612,
+  "num_followers": 482670,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDkxODYwNzhiMmMxN2MyNzc2N2VkYzVjNzVjOWMyYmU4",
+  "snapshot_id": "MTY0NjM3MDAwMCwwMDAwMDAwMDFmMjZiNTBkYTlhYTljOTQ2N2MyZTQ0YjVhN2QzYjk0",
   "tracks": [
     {
       "added_at": "2022-02-17 17:26:43",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+      "duration_ms": 220920,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -627,22 +643,6 @@
       "duration_ms": 276466,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Cautionary Tale",
-        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Cautionary Tale",
-      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 197737,
+      "name": "Head Right",
+      "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 197737,
-      "name": "Head Right",
-      "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Cool Jam/Good For You",
-        "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Cool Jam",
-      "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Head of Roses",
         "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 382455,
       "name": "Price of Blue",
       "url": "https://open.spotify.com/track/17R1gfKdZ1m2MBeTBwD68c"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Cool Jam/Good For You",
+        "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Cool Jam",
+      "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
     },
     {
       "added_at": "2022-02-17 17:26:43",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-02-17 17:26:43",
       "album": {
-        "name": "Mercury & Lightning",
-        "url": "https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 281205,
-      "name": "Wilderlove",
-      "url": "https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE"
-    },
-    {
-      "added_at": "2022-02-17 17:26:43",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2022-02-17 17:26:43",
+      "album": {
+        "name": "Mercury & Lightning",
+        "url": "https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 281205,
+      "name": "Wilderlove",
+      "url": "https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE"
     },
     {
       "added_at": "2022-02-17 17:26:43",

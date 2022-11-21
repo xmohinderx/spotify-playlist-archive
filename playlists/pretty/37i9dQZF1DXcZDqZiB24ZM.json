@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 6182,
+  "num_followers": 6190,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDNiOTMyODRmMWE1ZmRmODI0YzVjZDU5ZGUxM2MxMjBj",
+  "snapshot_id": "MTY1NjUyNzU5MCwwMDAwMDAwMDdhOTJmZmFkNjYyMGViOWYxN2RiOTY5ZmEzZDUzMTEw",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Up Next",
+        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "duration_ms": 149363,
+      "name": "West Side",
+      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Monarque",
         "url": "https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 194805,
       "name": "Femme fatale",
       "url": "https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Up Next",
-        "url": "https://open.spotify.com/album/0cdS1I81C36z0QAeKreCob"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 149363,
-      "name": "West Side",
-      "url": "https://open.spotify.com/track/40Tr9d2wr9yBvT7p9MIKFh"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Trapstar",
-        "url": "https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi"
+        "name": "H\u00f4tel d\u00e9lices",
+        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
       },
       "artists": [
         {
-          "name": "Kino",
-          "url": "https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe"
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
         }
       ],
-      "duration_ms": 187343,
-      "name": "Trapstar",
-      "url": "https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz"
+      "duration_ms": 208160,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "H\u00f4tel d\u00e9lices",
-        "url": "https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML"
+        "name": "Trapstar",
+        "url": "https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi"
       },
       "artists": [
         {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+          "name": "Kino",
+          "url": "https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe"
         }
       ],
-      "duration_ms": 208160,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf"
+      "duration_ms": 187343,
+      "name": "Trapstar",
+      "url": "https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Nuit des Longs Couteaux",
-        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 283613,
-      "name": "\u00c9l\u00e9phant",
-      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Les Fr\u00e8res Cueilleurs",
         "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228092,
       "name": "\u00c7a que c'tait",
       "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "La Nuit des Longs Couteaux",
+        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 283613,
+      "name": "\u00c9l\u00e9phant",
+      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1199,6 +1199,38 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "C'est pas la qualit\u00e9 qui compte",
+        "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
+      },
+      "artists": [
+        {
+          "name": "Qualit\u00e9 Motel",
+          "url": "https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC"
+        },
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Curieux B\u00e9gin",
+          "url": "https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO"
+        },
+        {
+          "name": "Vinny Bombay",
+          "url": "https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH"
+        },
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 159688,
+      "name": "Basilic",
+      "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Oh Ma Loca",
         "url": "https://open.spotify.com/album/4lkzEyFaYSXp5pTm1W2VRC"
       },
@@ -1243,38 +1275,6 @@
       "duration_ms": 215511,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "C'est pas la qualit\u00e9 qui compte",
-        "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
-      },
-      "artists": [
-        {
-          "name": "Qualit\u00e9 Motel",
-          "url": "https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC"
-        },
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Curieux B\u00e9gin",
-          "url": "https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO"
-        },
-        {
-          "name": "Vinny Bombay",
-          "url": "https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH"
-        },
-        {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 159688,
-      "name": "Basilic",
-      "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Gesamtkunstwerk",
+        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 481800,
+      "name": "Explosif",
+      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 243721,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Gesamtkunstwerk",
-        "url": "https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 481800,
-      "name": "Explosif",
-      "url": "https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "4:00AM",
-        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
-      },
-      "artists": [
-        {
-          "name": "Kevin Na$h",
-          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "I Roll",
-      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Le sens des paroles",
         "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 235075,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "4:00AM",
+        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
+      },
+      "artists": [
+        {
+          "name": "Kevin Na$h",
+          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
+        }
+      ],
+      "duration_ms": 202515,
+      "name": "I Roll",
+      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Jean-Talon",
+        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
+      },
+      "artists": [
+        {
+          "name": "Calamine",
+          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+        },
+        {
+          "name": "Liamliamliam",
+          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
+        }
+      ],
+      "duration_ms": 175262,
+      "name": "Jean-Talon",
+      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Kanvaz",
         "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
       },
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "wesh",
-        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Kirouac",
-          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
-        },
-        {
-          "name": "Kodakludo",
-          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
-        }
-      ],
-      "duration_ms": 170351,
-      "name": "back",
-      "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "5 / 5",
         "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
       },
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Jean-Talon",
-        "url": "https://open.spotify.com/album/7EOTPOGsZYkBpKmqSTwYfE"
+        "name": "wesh",
+        "url": "https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF"
       },
       "artists": [
         {
-          "name": "Calamine",
-          "url": "https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ"
+          "name": "Kirouac",
+          "url": "https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt"
         },
         {
-          "name": "Liamliamliam",
-          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
+          "name": "Kodakludo",
+          "url": "https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ"
         }
       ],
-      "duration_ms": 175262,
-      "name": "Jean-Talon",
-      "url": "https://open.spotify.com/track/4iyjztJtT9o5N6ka7grAdq"
+      "duration_ms": 170351,
+      "name": "back",
+      "url": "https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b"
     },
     {
       "added_at": "2022-03-11 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 79545,
+  "num_followers": 79752,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNTMwMCwwMDAwMDAwMGY4MjdmMjM3ZGVhMTk5NjBjZWNlZDIwMDI5YmJiODYz",
+  "snapshot_id": "MTY2NzUzNTMwMCwwMDAwMDAwMDk4MWNlNjQxNDNhYjVlZDhiMzU3Mzc2MjBiN2VmZWI0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:15:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "Highlight Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "All I See (feat. CASS)",
         "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
@@ -943,18 +943,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "I Need Peace",
-        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
+        "name": "All Joy No Stress (feat. Tedashii)",
+        "url": "https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd"
       },
       "artists": [
         {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         }
       ],
-      "duration_ms": 201632,
-      "name": "I Need Peace",
-      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
+      "duration_ms": 184563,
+      "name": "All Joy No Stress (feat. Tedashii)",
+      "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -975,22 +979,18 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "All Joy No Stress (feat. Tedashii)",
-        "url": "https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd"
+        "name": "I Need Peace",
+        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
       },
       "artists": [
         {
-          "name": "Rhett Walker",
-          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
-        },
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 184563,
-      "name": "All Joy No Stress (feat. Tedashii)",
-      "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
+      "duration_ms": 201632,
+      "name": "I Need Peace",
+      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 198591,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 138250,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Destined For Greatness",
         "url": "https://open.spotify.com/album/3gKB01Zw0wFbUxPg47AQ0M"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 217293,
       "name": "Praying Hands",
       "url": "https://open.spotify.com/track/1UBJn7Gl6weQ4vZ68EAphl"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Sonshine",
+        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        }
+      ],
+      "duration_ms": 223687,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/0vHhhXkGGV2zF1NsN2EfIr"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 231600,
       "name": "Do It Anyway (feat. Kadence)",
       "url": "https://open.spotify.com/track/25L031n0unw4IKDjabQuwN"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Sonshine",
-        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
-      },
-      "artists": [
-        {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
-        }
-      ],
-      "duration_ms": 223687,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/0vHhhXkGGV2zF1NsN2EfIr"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "WAY MAKER",
+        "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
+      },
+      "artists": [
+        {
+          "name": "Kkah$o",
+          "url": "https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp"
+        },
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "WAY MAKER",
+      "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "Grind (feat. Kaleb Mitchell)",
         "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
       },
@@ -1703,22 +1723,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "WAY MAKER",
-        "url": "https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9"
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
       "artists": [
         {
-          "name": "Kkah$o",
-          "url": "https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         },
         {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 163578,
-      "name": "WAY MAKER",
-      "url": "https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG"
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Church House Trap House",
-        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Church House Trap House",
-      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Rise Up (Lazarus) [FRANKLIN Remix]",
         "url": "https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD"
       },
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
+        "name": "Church House Trap House",
+        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         },
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+      "duration_ms": 138600,
+      "name": "Church House Trap House",
+      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "NO GOOD",
         "url": "https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 177530,
       "name": "NO GOOD",
       "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Pastor Monty",
-        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Pastor Monty",
-      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Stuck Inside My Head",
         "url": "https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 197300,
       "name": "Stuck Inside My Head - Single Mix",
       "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Pastor Monty",
+        "url": "https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Pastor Monty",
+      "url": "https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -2083,6 +2099,22 @@
       "duration_ms": 193648,
       "name": "Stuff Back",
       "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2111,38 +2143,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Ain't Playin'",
         "url": "https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H"
       },
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 100587,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 152359,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 100587,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Fight for It",
-        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 153046,
-      "name": "Fight for It",
-      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Underdogs",
         "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 197064,
       "name": "Underdogs",
       "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Fight for It",
+        "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 153046,
+      "name": "Fight for It",
+      "url": "https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "TWO UP TWO DOWN",
         "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
       },
@@ -2431,6 +2411,26 @@
       "duration_ms": 172313,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 145330,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
         "name": "Pray 2 God",
         "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
@@ -2655,6 +2639,22 @@
     {
       "added_at": "2022-11-04 04:15:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 145330,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
         "name": "It's Not a Game",
         "url": "https://open.spotify.com/album/4w112nlXlKhCRxMqCICFF3"
       },
@@ -2671,22 +2671,6 @@
       "duration_ms": 174166,
       "name": "It's Not a Game",
       "url": "https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk"
-    },
-    {
-      "added_at": "2022-11-04 04:15:00",
-      "album": {
-        "name": "NOW OR LATER",
-        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 146401,
-      "name": "LOOK AT ME NOW",
-      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
     },
     {
       "added_at": "2022-11-04 04:15:00",
@@ -2715,6 +2699,22 @@
       "duration_ms": 160458,
       "name": "Unstoppable (Do It Again) - Global Remix",
       "url": "https://open.spotify.com/track/012mT5JjqPWeIMw22u4eZj"
+    },
+    {
+      "added_at": "2022-11-04 04:15:00",
+      "album": {
+        "name": "NOW OR LATER",
+        "url": "https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 146401,
+      "name": "LOOK AT ME NOW",
+      "url": "https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe"
     },
     {
       "added_at": "2022-11-04 04:15:00",

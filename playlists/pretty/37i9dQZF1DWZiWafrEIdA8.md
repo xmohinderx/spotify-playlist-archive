@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,385 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,379 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 30 | [Lee Rohan \(Prod\. by Padi\)](https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [School Rapper 2 Final](https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE) | 4:39 |
 | 31 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 | 32 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 |
-| 33 | [home sh\*t home](https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [DARKROOM : roommates only](https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE) | 3:29 |
-| 34 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
+| 33 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
+| 34 | [home sh\*t home](https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [DARKROOM : roommates only](https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE) | 3:29 |
 | 35 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 36 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 | 37 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 | 50 | [Going Home](https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 3:58 |
 
-Snapshot ID: `MTY2NzMwNjIwNiwwMDAwMDAwMDUwZDQxZDA5YTdjYTJmNDk4NzJjMDI2Y2Y5ZGNmNGIw`
+Snapshot ID: `MTY2NzMwNjIwNiwwMDAwMDAwMDM3MzBkMGRjZTViMGU4NmJjNzAzZTBlNzg1NDRiMjZk`

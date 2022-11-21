@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,068 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,094 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 12 | [Maniac](https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 2:58 |
 | 13 | [Geet Weh](https://open.spotify.com/track/3UeNRslRMrBxd6fDytLvWL) | [Silk Boss](https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF), [Terro Don](https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7) | [Geet Weh](https://open.spotify.com/album/2uRMF6ahQkrTDiVDabe635) | 2:51 |
 | 14 | [1Uptown](https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [1Uptown](https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX) | 2:17 |
-| 15 | [Sell Off](https://open.spotify.com/track/2w5QZbIg9O5Eq9e3wBIA4c) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7qH2cqU9MMR2zMvGaLPSXC) | 3:09 |
+| 15 | [Sell Off](https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5) | 3:09 |
 | 16 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
 | 17 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 18 | [Foot](https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Foot](https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV) | 2:47 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 60 | [Three Little Birds](https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP) | 3:28 |
 | 61 | [Perfect Timing](https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 |
 
-Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMDAzMzNiNjE4NzZhZGFkZjllNmIxNGFkMzVhMTU2NWFm`
+Snapshot ID: `MTY1OTY5NzY4MywwMDAwMDAwMGVhNTU3ZTA0NTQ3ZWYyMzQ3YzBjYmM3Mzg3NDc2ZWMy`

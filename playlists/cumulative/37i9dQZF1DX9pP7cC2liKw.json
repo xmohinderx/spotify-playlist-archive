@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 542507,
       "name": "Deep Cumbia",
       "url": "https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL"
@@ -3891,10 +3891,32 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
+    },
+    {
+      "album": {
+        "name": "Jaguar Sound",
+        "url": "https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205067,
+      "name": "Starry Nights",
+      "url": "https://open.spotify.com/track/4D9ryGgf2IrajDXXGNqm1H"
     },
     {
       "album": {
@@ -3985,7 +4007,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 289576,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"

@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: C\u00e9line Dion",
-  "num_followers": 255497,
+  "num_followers": 255691,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5ODc1MywwMDAwMDAwMGRiMjg0N2U0OWVlNmMzNjQ0NGFiZDI4ODY2NzllYTZj",
+  "snapshot_id": "MTY2ODA5ODc1MywwMDAwMDAwMDZjNDhhZjRiMjJjNDBkNzJiMDhiZjA0ODUxMzE4ZjBm",
   "tracks": [
     {
       "added_at": "2022-11-10 16:45:53",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
-    },
-    {
-      "added_at": "2022-11-10 16:45:53",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2022-11-10 16:45:53",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2022-11-10 16:45:53",

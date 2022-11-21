@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> The 2000+ people ahead of me in line is not the breeze in my hair on the weekend
+> I can still make the whole place SHIMMMMMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710,255 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710,447 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 102 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 103 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
 
-Snapshot ID: `MTY2ODc5NDU2MiwwMDAwMDAwMGQwOWM3OWM4ZGNiZTg4Y2E4NjQxZTMyNmI1NWQ4MWI2`
+Snapshot ID: `MTY2ODk3MDg3MSwwMDAwMDAwMDI1Yjg0M2VjMGFmNDM0ZTQ4Mzc0ZWRiMTg3ZjRhOWRh`

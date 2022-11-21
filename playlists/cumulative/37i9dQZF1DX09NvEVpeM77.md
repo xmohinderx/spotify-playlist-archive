@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-129 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/4rcVJdftMBLNicfMZ5tILR)
+130 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/4rcVJdftMBLNicfMZ5tILR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Down On The Corner](https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:46 | 2022-03-04 |  |
 | [Dream Baby Dream](https://open.spotify.com/track/03VQOmKVUZIOBym1Tt0IAa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dream Baby Dream](https://open.spotify.com/album/6UE3XEwebpGb5oyDNH5gNw) | 5:02 | 2014-01-07 | 2022-03-06 |
 | [Every Picture Tells A Story](https://open.spotify.com/track/7cYuolexJpsjD91G6i7XIm) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:59 | 2022-03-31 | 2022-05-31 |
-| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-14 |  |
+| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-14 | 2022-11-21 |
 | [Face It Alone](https://open.spotify.com/track/4Pdd0rUKJeK9LHE2WotEP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Classic Rock Gems](https://open.spotify.com/album/3Q0R296AVU8k5BrSrrV3JN) | 4:07 | 2022-10-14 | 2022-11-13 |
+| [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 | 2022-10-14 |  |
 | [Feelin' Stronger Every Day \- 2002 Remaster](https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago VI \(Expanded & Remastered\)](https://open.spotify.com/album/1GFLP3fsozSH4uBKA4oDYM) | 4:14 | 2022-03-04 | 2022-07-28 |
 | [Flame Trees \- 2011 Remastered](https://open.spotify.com/track/5qBmTXgCdtvCqKc9yrLoWg) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Twentieth Century](https://open.spotify.com/album/43kr4D7peDZ128pt5im3cr) | 4:24 | 2022-03-14 | 2022-04-21 |
 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 | 2022-03-04 | 2022-11-15 |

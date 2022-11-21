@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Young Bombs
 
-574 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+575 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,8 +282,9 @@
 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 | 2022-03-18 | 2022-04-09 |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 | 2022-05-28 |
 | [Loveless \(with Teddy Swims\)](https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Loveless \(with Teddy Swims\)](https://open.spotify.com/album/75MSTtzRgALg57B8yPJHAC) | 3:03 | 2022-04-01 | 2022-07-02 |
-| [Lovesick](https://open.spotify.com/track/2xcNKsFTcNOyKrlWqIAWCe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/0VTT2sEaF6dMAe44IaFW4i) | 2:09 | 2022-11-04 |  |
+| [Lovesick](https://open.spotify.com/track/2xcNKsFTcNOyKrlWqIAWCe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/0VTT2sEaF6dMAe44IaFW4i) | 2:09 | 2022-11-04 | 2022-11-21 |
 | [Lovesick](https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/2WYETJesea0OP320GV0e3e) | 2:09 | 2022-11-04 | 2022-11-19 |
+| [Lovesick](https://open.spotify.com/track/6HMEmqVeDpIeL5DlgFU9Gx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:09 | 2022-11-04 |  |
 | [Lovesick](https://open.spotify.com/track/0Thld0Q3wHmomTXRf5a3vw) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Lovesick](https://open.spotify.com/album/7BsK668URclg7QKzr9TyD8) | 2:25 | 2022-04-29 | 2022-07-02 |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-06-10 | 2022-08-06 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 | 2022-07-23 |

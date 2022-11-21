@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 | 2022-07-16 |  |
 | [Si je pleure](https://open.spotify.com/track/4KcBeLXAO66WKw40p06KBE) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 3:45 | 2022-06-24 | 2022-07-29 |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-06-24 | 2022-10-14 |
-| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-09-23 |  |
+| [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 | 2022-09-23 |  |
+| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-09-23 | 2022-11-21 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2022-06-24 |  |
 | [Surface](https://open.spotify.com/track/0pYE7AScjJGhUMJef6EUII) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Surface](https://open.spotify.com/album/7GFsC4bDEEw3rFgP3dRZZ9) | 3:13 | 2022-06-24 | 2022-07-17 |
 | [Ta main](https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Ta main](https://open.spotify.com/album/23cFhtNMnvM3aXnQoJ2f3C) | 4:05 | 2022-06-24 |  |

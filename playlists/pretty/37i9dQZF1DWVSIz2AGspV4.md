@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,050 likes - 53 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,118 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 48 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 |
 | 49 | [Al Kaaen Al Khyali](https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Kaaen Al Khyali](https://open.spotify.com/album/2V5GC1ERTCwPPxcvkZEqHl) | 2:37 |
 | 50 | [Etlaa Aghati](https://open.spotify.com/track/10juBpJzpYj5v0fd6rPJUx) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Etlaa Aghati](https://open.spotify.com/album/4CZhwExlvM6ij99vFei40Q) | 3:04 |
-| 51 | [Jaybiale](https://open.spotify.com/track/7y5xSuRJxX2J273yPJ3HmU) | [Maher Ahmad](https://open.spotify.com/artist/5yLHbf0ksRIA5w44VysqvC) | [Jaybiale](https://open.spotify.com/album/3mfasbwnaWRjREVfzXDoih) | 3:39 |
-| 52 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 |
-| 53 | [Nazel](https://open.spotify.com/track/6SEzeBRGe7ogNQixZzebDp) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Moe](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Nazel](https://open.spotify.com/album/4Zyp8rzt5VCSyO7cz066QI) | 3:46 |
 
-Snapshot ID: `MTY2ODc2NjcwMiwwMDAwMDAwMDI3OWFjOGQ4M2YxMDJjZmNkYzIwNDllZjBkMmY2NGE1`
+Snapshot ID: `MTY2ODkxMjcxNiwwMDAwMDAwMGNkYTAzNGRiMTMyMzI5YmZjY2I4MDQ3MjVjYTE0YmJk`

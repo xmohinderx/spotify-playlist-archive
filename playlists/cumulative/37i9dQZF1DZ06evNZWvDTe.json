@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 213861,
       "name": "Forever (feat. Kranium)",
       "url": "https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 218978,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/2ZD3mHmyjphne8L61uNZfk"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
@@ -2359,6 +2359,28 @@
       "duration_ms": 189040,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "She Bad (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5"
     },
     {
       "album": {

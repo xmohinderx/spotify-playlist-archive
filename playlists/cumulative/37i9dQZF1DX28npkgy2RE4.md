@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-370 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+371 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Don't Go Far](https://open.spotify.com/track/0ZqW2Io1QDmy0R7GffmeSC) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Bite](https://open.spotify.com/album/7wk5T0X8Op7jvjOIOIXAWZ) | 3:39 | 2021-11-12 | 2022-04-21 |
 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 | 2022-07-11 |  |
 | [Don't Think About Me](https://open.spotify.com/track/5BfhJ9N50RVkDtkZuu3hZs) | [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [Don't Think About Me](https://open.spotify.com/album/67DBeQ0CWU1R9SU7fVeN05) | 2:54 | 2021-11-12 | 2022-07-28 |
-| [Don't Want You To Know](https://open.spotify.com/track/0EBp8oLuOJhPLfCLkPqPhS) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Don't Want You To Know](https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb) | 3:56 | 2022-10-14 |  |
+| [Don't Want You To Know](https://open.spotify.com/track/0EBp8oLuOJhPLfCLkPqPhS) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Don't Want You To Know](https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb) | 3:56 | 2022-10-14 | 2022-11-21 |
+| [Don't Want You To Know](https://open.spotify.com/track/3IJjf4p7B7qaKnt93zpm6T) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 3:56 | 2022-10-14 |  |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-05-25 | 2022-11-13 |
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-11-12 |  |
 | [Dope Queen Blues](https://open.spotify.com/track/5FixijSOYM02IlrVTGm0Z8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:06 | 2021-11-12 | 2022-03-05 |

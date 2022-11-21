@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 68 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 27 | [Aware](https://open.spotify.com/track/35hYVvbhGge5GDJRA09z7X) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/0teSfu89CBi3XMGUbibIZw) | 1:55 |
 | 28 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
 | 29 | [Staycation](https://open.spotify.com/track/0csvQK4CkxifOBDs3rEHRu) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Cats in the Alley](https://open.spotify.com/album/2Q4EwaUfWI6ZiEPwzOqOZ0) | 2:15 |
-| 30 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 |
+| 30 | [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 |
 | 31 | [A Part of the Ocean](https://open.spotify.com/track/7DbzpAXt9fls5zYipE9WAx) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Calming Winds](https://open.spotify.com/album/5YFsqDM2sTjko8d0DaIath) | 3:26 |
 | 32 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 |
 | 33 | [Eye Of The Storm](https://open.spotify.com/track/4DTfDKKSDkUeTWrTdmbSWe) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Eye Of The Storm](https://open.spotify.com/album/70BCNQtP6mmhmiXRrp6uKR) | 2:02 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 | 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 
-Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMDJjMDQyYjViMDdjODhiZWNiOTk1NDJkOGFmNzE3OThj`
+Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMGZlMzcyMTVhNDhiZTVjN2U2YTVkNTY3YTc2OTZiYWI3`

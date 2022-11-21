@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Queen P
 
-301 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+302 songs - 14 hr 31 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Envy](https://open.spotify.com/track/4jd4JdmPdbFcTNSiuwy6Ze) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Envy](https://open.spotify.com/album/7wFySan7YYZEuQoZKG9wCc) | 4:16 | 2022-03-21 | 2022-04-01 |
 | [Everyday Struggle](https://open.spotify.com/track/1L5eVkQE10XK5jCwmxhIVg) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Everyday Struggle](https://open.spotify.com/album/4lecNiMhwOKgOiA4iQJflY) | 2:32 | 2022-06-23 | 2022-08-26 |
 | [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-05-26 | 2022-09-22 |
-| [Failure](https://open.spotify.com/track/405xu818MRM5KnOj0bMxef) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/62MeNgkwj9lBXfdB4S9HOP) | 3:41 | 2022-09-16 |  |
+| [Failure](https://open.spotify.com/track/405xu818MRM5KnOj0bMxef) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/62MeNgkwj9lBXfdB4S9HOP) | 3:41 | 2022-09-16 | 2022-11-21 |
 | [FALL BACK](https://open.spotify.com/track/6uz8LJVC855p0mAjb36HTo) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [FALL BACK](https://open.spotify.com/album/0uxPdMDxGswyeKxMjoCJyW) | 2:29 | 2022-09-15 |  |
 | [Favourite](https://open.spotify.com/track/2T1HDMEh7BDKfCZlKxET3D) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Favourite](https://open.spotify.com/album/6yZo8WscLdGcBeMyN8J3VH) | 2:27 | 2022-05-26 | 2022-10-28 |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 |  |
@@ -118,6 +118,7 @@
 | [HEARTBREAK](https://open.spotify.com/track/1gP57mFKlNNMT1DhwlN8mF) | [Yeloboi Tommy](https://open.spotify.com/artist/6sZgmrmf7pl9yez8UvGgJa) | [HEARTBREAK](https://open.spotify.com/album/7l6IMweJV2ZNDkfUFRfYzr) | 2:22 | 2022-03-21 | 2022-05-11 |
 | [HEARTLESS](https://open.spotify.com/track/7hBvKINP7pM0MWBBD1eXVF) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [HEARTLESS](https://open.spotify.com/album/1DEOv4NMWgsrW0SzJ9JgFj) | 3:00 | 2022-09-30 |  |
 | [Hit My Line](https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [Jose Poly](https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0) | [Hit My Line](https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614) | 2:43 | 2022-04-14 | 2022-07-05 |
+| [HOLD ON](https://open.spotify.com/track/0izMjfGBbmhdVf0ecnM5bz) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P) | [HOLD ON](https://open.spotify.com/album/1UziPVwThn1bDCH7rt8ivr) | 3:05 | 2022-11-21 |  |
 | [Home](https://open.spotify.com/track/1U3NqKbVURMcvK81oAknpo) | [VTA](https://open.spotify.com/artist/39OhVpcxkMUgRN5pCLh5Us), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Home](https://open.spotify.com/album/39bv4dQD70MwZJSEXDB6Ly) | 3:01 | 2022-10-06 |  |
 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 | 2022-03-21 | 2022-08-05 |
 | [HoodBars](https://open.spotify.com/track/4xEtZV7oNIjlr7XsPZdklQ) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [HoodBars](https://open.spotify.com/album/3o21gdPvDC1eSmbHpjClsN) | 2:39 | 2022-04-07 | 2022-08-05 |

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-159 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+160 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ozu](https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK) | [Arp](https://open.spotify.com/artist/3nmCWNVgTseDuX2OyUeTsX) | [ZEBRA](https://open.spotify.com/album/5trQl5XvIPRgpl2zjmIBb0) | 2:18 | 2022-07-08 |  |
 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 | 2022-10-14 |  |
 | [Passage](https://open.spotify.com/track/1O9RWAwUb7MhiohlNpM4vp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Antarctican Dream Machine](https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz) | 3:23 | 2022-08-11 |  |
+| [Peaceful Garden](https://open.spotify.com/track/2mgmnEhmvdFKBf9FZyn377) | [Wendy Panoah](https://open.spotify.com/artist/63YMcX7Qq0SkEB0vpxaLcC) | [Peaceful Garden](https://open.spotify.com/album/0TiHJCNjzaz6Pf3tdBnhj0) | 3:11 | 2022-11-11 |  |
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 | 2022-10-21 |
 | [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 |  |
@@ -139,7 +140,7 @@
 | [Surfacing](https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j) | [Origin ST](https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9) | [Surfacing](https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo) | 6:13 | 2022-05-18 |  |
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 |  |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
-| [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 |  |
+| [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2022-11-21 |
 | [The Anatomy of Clouds \(Malibu Sweet Hereafter Remix\) I](https://open.spotify.com/track/1eRpubYdTxJ2RtuOCu5hSg) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Malibu](https://open.spotify.com/artist/5mYo4YwZlsy9pbftU3j3xR) | [The Hope of Better Weather](https://open.spotify.com/album/419TYWSCyXp4Wez6XbdUDo) | 9:03 | 2022-03-17 | 2022-09-29 |
 | [The Signals From the Abyss](https://open.spotify.com/track/1BtGXDNmvkFfC5W8rU2od2) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1) | 7:48 | 2022-07-08 | 2022-07-29 |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |

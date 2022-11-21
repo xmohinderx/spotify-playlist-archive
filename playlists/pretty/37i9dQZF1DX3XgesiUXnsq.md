@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: MF DOOM 🕊
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,795 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,678 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 13 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 | 14 | [X\-Wing \- Cold Blooded Soul Version](https://open.spotify.com/track/2GzUm7Ps1WbaiMiSY7CY0S) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future \(The Extended Edition\)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI) | 3:06 |
 | 15 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 |
-| 16 | [Hall of Fame](https://open.spotify.com/track/7y4nue0FszjgMIwDzfkkc8) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hall of Fame](https://open.spotify.com/album/6oE2gVBnhpLOJEaUM1kyu0) | 1:42 |
+| 16 | [Hall of Fame](https://open.spotify.com/track/7y4nue0FszjgMIwDzfkkc8) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Hall of Fame](https://open.spotify.com/album/6oE2gVBnhpLOJEaUM1kyu0) | 1:42 |
 | 17 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 |
 | 18 | [The Ending](https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Ending](https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv) | 1:48 |
 | 19 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:55 |

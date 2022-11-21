@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,544 likes - 199 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,645 likes - 199 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 59 | [Pathways](https://open.spotify.com/track/7Bha2btgoPHzSwWwyzcTI8) | [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Pathways](https://open.spotify.com/album/7rmvsiZrRELGCaCIyestXt) | 1:58 |
 | 60 | [Moving On](https://open.spotify.com/track/0OKlzcuA2lZFCve9fJdZCB) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Moving On](https://open.spotify.com/album/3dvbkdGKNIIl8maPEI6TwD) | 2:08 |
 | 61 | [A Place To Sleep](https://open.spotify.com/track/1yJJzYvAZMDZC9qmR9mBsd) | [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA), [Bitter Blossom](https://open.spotify.com/artist/5d66sWR2eYa7f627BC2t6Q) | [A Place To Sleep](https://open.spotify.com/album/03aWMhiJgWNJSN1qAgxXvs) | 3:08 |
-| 62 | [seascape](https://open.spotify.com/track/68RsORfEUe2HAfYNSNfbse) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/10XA4FN29CUxGD9ja9fjQC) | 2:17 |
+| 62 | [seascape](https://open.spotify.com/track/12CFFjAlfinT0TYzoNv5Ki) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/6Hmp3LvswJ1dXJ8wMThWFT) | 2:17 |
 | 63 | [Seseh Spirit](https://open.spotify.com/track/6eRP8s0naeeB2GWQKlRcBN) | [slow luna](https://open.spotify.com/artist/3MW5fdqmiIb1rKXccPjEID), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Seseh Spirit](https://open.spotify.com/album/1tR1FQ87DZDcA7qvoRaPx8) | 2:06 |
 | 64 | [calmaria](https://open.spotify.com/track/2hQhgG4J8ykWnxAqLagnwV) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [calmaria](https://open.spotify.com/album/5URCubzluLIK82yLR2QuFr) | 3:12 |
 | 65 | [New Beginnings](https://open.spotify.com/track/6OrNqWMPi3YEXql3FmyaNm) | [Hunter Krasa](https://open.spotify.com/artist/0lbfoBbo5kFeWz4Q4ivuun) | [New Beginnings](https://open.spotify.com/album/3A311Ryde9dWZRleRWQu0n) | 2:00 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 198 | [JP Photo Bounce](https://open.spotify.com/track/52drfrfdOabG98VBtK2qwC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [JP Photo Bounce](https://open.spotify.com/album/47aQvzo4dJD4NR8eKSOiE1) | 2:35 |
 | 199 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDNmZjk2YTkyOTIxZjk4NjMxMmY2NWYwZGYwYjJkNWYw`
+Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDAyMDM1ZTFkYTNiNTI5Zjk5YTNmMDBhMjYwNzk0OGQw`

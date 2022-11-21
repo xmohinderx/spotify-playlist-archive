@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Busta Rhymes 🇯🇲
 
-291 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
+292 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [5 Star \(with Rick Ross\)](https://open.spotify.com/track/5shjJZp662loniBOyjqr8h) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [5 Star \(with Rick Ross\)](https://open.spotify.com/album/6IX1qlt5sGAWAF2XPteKy6) | 2:49 | 2022-09-23 |  |
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-18 |  |
 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 | 2022-05-27 | 2022-06-04 |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-18 | 2022-11-21 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2022-06-10 |  |
 | [Amazing](https://open.spotify.com/track/3JtRYW6aYGDVDIQvdGrZWt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Amazing](https://open.spotify.com/album/73nIh6lr0BYYVG6t7asy8N) | 2:37 | 2022-09-16 |  |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-05-27 |  |

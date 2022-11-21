@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,410 songs - 3 day 8 hr 4 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,411 songs - 3 day 8 hr 7 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [I Found You](https://open.spotify.com/track/1b1Wb55rTakaXDtWzn9QwX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [I Found You](https://open.spotify.com/album/3mvyLqpqEQrXayhvATjGow) | 2:31 | 2019-08-02 | 2022-07-29 |
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/3ASrlku9X40moDdtdoPDqb) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IRbJUSU6v0dJr8IZvX1IP) | 2:47 | 2021-03-09 | 2022-04-12 |
 | [I Know Alone](https://open.spotify.com/track/4OwAVWPdiLsPCXG5adO2Cd) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4dY0XBJyOrSw5WdbwewIDH) | 3:46 | 2020-06-12 | 2022-04-11 |
+| [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-10-27 |  |
 | [I Like Me Better](https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/7l6fTSFvlumnPFpOSrbnDV) | 3:17 | 2019-08-10 | 2022-04-07 |
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-07-28 | 2022-11-02 |
 | [I Like The Way](https://open.spotify.com/track/5c8gnM9rNbdgLkeeQAZAKb) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Liam Ferrari](https://open.spotify.com/artist/3dkie6yywJJVPCTO4b5AP9) | [I Like The Way](https://open.spotify.com/album/5x5Dd6XXDMZj3xhc50fi9I) | 2:51 | 2019-08-04 | 2019-08-27 |
@@ -927,7 +928,7 @@
 | [Painkiller](https://open.spotify.com/track/1abFkY2jm6KDFMZ7RD9YJh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller](https://open.spotify.com/album/68WyGdXBIZQZLezPVSDrxC) | 3:33 | 2019-08-06 | 2020-05-30 |
 | [Paper Planes](https://open.spotify.com/track/3ZlFUr0RBrUYYsmlcFvD0e) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Paper Planes](https://open.spotify.com/album/3Q4AExMfGDlydTUPWiCOiK) | 3:25 | 2021-03-19 | 2021-05-19 |
 | [Paradise](https://open.spotify.com/track/7njKgVl3AnLflRad38o7AG) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Paradise](https://open.spotify.com/album/5mLjE4CPn8kNpzqNNslabJ) | 2:49 | 2019-08-10 | 2021-05-27 |
-| [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2020-11-20 |  |
+| [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2020-11-20 | 2022-11-21 |
 | [Party](https://open.spotify.com/track/6LZOgBvntXL1egqIHHPnhn) | [Christine Anu](https://open.spotify.com/artist/0VyhYyWWF5yYomHQR4hCMl) | [Stylin' Up](https://open.spotify.com/album/5aAUULuBofq0pQXbvQt6g4) | 3:14 | 2019-07-29\* | 2019-08-01 |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2019-07-29\* | 2022-04-18 |
 | [Pash](https://open.spotify.com/track/03Bgy8sbBMxyQ3yYNwhTxR) | [Kate Ceberano](https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx) | [Pash](https://open.spotify.com/album/6YemsIs4ISzI0mK1M8eYui) | 4:20 | 2019-10-25 | 2019-10-26 |

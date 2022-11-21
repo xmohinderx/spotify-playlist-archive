@@ -4,7 +4,7 @@
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-96 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/3CquFwW4oGs8sHYO00Y4PM)
+97 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3CquFwW4oGs8sHYO00Y4PM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 | 2020-09-04 |  |
 | [End of the World](https://open.spotify.com/track/01yPhHRM0V95CenZmFQKjw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 3:24 | 2020-09-04 |  |
 | [End of the World](https://open.spotify.com/track/0qnW2lTiIkUQmSuOEEqjyW) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/4Vfcpe8U84tm22ObXUcHG8) | 3:24 | 2020-09-04 | 2022-07-29 |
+| [Fill My Cup](https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1) | [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [If In Case You Feel The Same](https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA) | 4:49 | 2020-09-04 |  |
 | [Fill My Cup](https://open.spotify.com/track/2YDVxQTu09686BaIvMVI2Q) | [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [West Coast](https://open.spotify.com/album/6CiKLOWD4XuETGf8SUJNpS) | 4:49 | 2020-09-04 | 2022-07-29 |
 | [fire](https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/2TdZAtLwl4wurksd6oYRnt) | 3:09 | 2020-09-04 |  |
 | [fire](https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0) | 3:09 | 2020-09-04 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 | 2020-09-04 |  |
 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 | 2020-09-04 |  |
 | [Perfect Sense](https://open.spotify.com/track/2DePPpTXAXq75jLDObF8Az) | [The Overstory](https://open.spotify.com/artist/3BRxXnd7h14dwrzHor2hoM) | [Perfect Sense](https://open.spotify.com/album/53qkJ4gSKYLN04MNbceDIL) | 2:44 | 2020-09-04 | 2022-07-29 |
-| [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 | 2020-09-04 |  |
+| [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 | 2020-09-04 | 2022-11-21 |
 | [Queen Songs / human.](https://open.spotify.com/track/0JVCVctt51JnBAmOhxLhkm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/3eJySaHVIrzzPGrVKTNccc) | 8:00 | 2020-09-04 | 2022-07-29 |
 | [Queen Songs / human.](https://open.spotify.com/track/3iQjudKcOPBZQ5tDHFINHd) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 8:00 | 2020-09-04 |  |
 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 | 2020-09-04 |  |

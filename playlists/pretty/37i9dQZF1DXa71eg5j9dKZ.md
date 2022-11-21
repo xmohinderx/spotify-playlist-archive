@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Romy
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,296 likes - 119 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,425 likes - 119 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

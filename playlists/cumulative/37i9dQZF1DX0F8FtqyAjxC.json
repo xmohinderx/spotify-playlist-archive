@@ -941,6 +941,24 @@
     {
       "album": {
         "name": "Possessions And Obsessions",
+        "url": "https://open.spotify.com/album/0Ehvg0k08rB3rpquQks9Vw"
+      },
+      "artists": [
+        {
+          "name": "Parallel Dance Ensemble",
+          "url": "https://open.spotify.com/artist/7bi3KdGErnScN1PrviZI71"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245955,
+      "name": "Shopping Cart",
+      "url": "https://open.spotify.com/track/57xHPifnfguNFDig9kHZOq"
+    },
+    {
+      "album": {
+        "name": "Possessions And Obsessions",
         "url": "https://open.spotify.com/album/1JwKb9iAcsmwQcbSgms96d"
       },
       "artists": [
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 245955,
       "name": "Shopping Cart",
       "url": "https://open.spotify.com/track/5vcSZ6uUeUaeOK55dLTF3f"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,653 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,710 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 23 | [Rei](https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [Sensei Songs](https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb) | [Rei](https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua) | 2:23 |
 | 24 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
 | 25 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 |
-| 26 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 |
-| 27 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
+| 26 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
+| 27 | [Os Dois Lados](https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Os Dois Lados](https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG) | 3:39 |
 | 28 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 29 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
 | 30 | [God Vem](https://open.spotify.com/track/5fnIy8tlUEBJR7uyCOROY4) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps) | [God Vem](https://open.spotify.com/album/14rj4ezy5VAkPG1FD4WzGX) | 3:04 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 42 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
 | 43 | [Poder](https://open.spotify.com/track/4SHnNqSXIwT7u2Lnc5guWy) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Poder](https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK) | 3:40 |
 | 44 | [Vazio](https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Vazio](https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA) | 2:34 |
-| 45 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
-| 46 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 |
+| 45 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 |
+| 46 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
 | 47 | [BABY](https://open.spotify.com/track/2BRwBwyJfVjZcDW5LJ0Uow) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [BABY](https://open.spotify.com/album/4dzKbTq1stnawn67OPO024) | 2:27 |
 | 48 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 |
 | 49 | [Céu](https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh) | 2:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 |
 | 65 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MTY2NjkzNTQ5NywwMDAwMDAwMGFlYWFlZmJiMTRhMmI3MDAyMjdiZTQ3ODM1NjYzMWEz`
+Snapshot ID: `MTY2NjkzNTQ5NywwMDAwMDAwMGFlMTU3Njc0MjI0MDliYWU4YzkwNDIwYmNmNmFmNzNm`

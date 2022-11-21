@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 5385,
+  "num_followers": 5379,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMwNjIwNiwwMDAwMDAwMDUwZDQxZDA5YTdjYTJmNDk4NzJjMDI2Y2Y5ZGNmNGIw",
+  "snapshot_id": "MTY2NzMwNjIwNiwwMDAwMDAwMDM3MzBkMGRjZTViMGU4NmJjNzAzZTBlNzg1NDRiMjZk",
   "tracks": [
     {
       "added_at": "2022-11-01 12:36:46",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-01 12:36:46",
       "album": {
-        "name": "DARKROOM : roommates only",
-        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 209086,
-      "name": "home sh*t home",
-      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
-    },
-    {
-      "added_at": "2022-11-01 12:36:46",
-      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2022-11-01 12:36:46",
+      "album": {
+        "name": "DARKROOM : roommates only",
+        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 209086,
+      "name": "home sh*t home",
+      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
     },
     {
       "added_at": "2022-11-01 12:36:46",

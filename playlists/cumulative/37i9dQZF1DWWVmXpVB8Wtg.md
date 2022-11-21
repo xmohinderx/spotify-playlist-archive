@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-50 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
+51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Puppet](https://open.spotify.com/track/0ehGrMuw8VqVK3wz5xCk5s) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Puppet](https://open.spotify.com/album/0FtiUhuWshUIS6mB0h90C9) | 2:11 | 2022-09-15 |  |
 | [Say Good Bye](https://open.spotify.com/track/28wpHGozJtShA2FNy6wLU1) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Say Good Bye](https://open.spotify.com/album/6VjmQihXEP1KPPsOZkBS2b) | 2:27 | 2022-09-15 |  |
 | [Secrets](https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:10 | 2022-09-15 |  |
-| [Skin on Skin](https://open.spotify.com/track/4Za6z9eWjkArKOA8xalmqN) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/3iwxFlpwd2wuIUZgnMGVzZ) | 6:45 | 2022-09-15 |  |
+| [Skin on Skin](https://open.spotify.com/track/4Za6z9eWjkArKOA8xalmqN) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/3iwxFlpwd2wuIUZgnMGVzZ) | 6:45 | 2022-09-15 | 2022-11-21 |
+| [Skin on Skin](https://open.spotify.com/track/7hNOKF4ddD4LgWMMaa7OTb) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Bjurman](https://open.spotify.com/artist/2Mah50rowOCI0gYAZOaLbY) | [Skin on Skin](https://open.spotify.com/album/7CbtzOCFKrf7wzLWTljrfH) | 6:45 | 2022-09-15 |  |
 | [Skylighter \- Space 92 Meteor Remix](https://open.spotify.com/track/0FtATT9vuXJLZGkA9PESMx) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Skylighter](https://open.spotify.com/album/5GaQ4dj4Ln5cOO4C8Fb28P) | 7:09 | 2022-09-15 |  |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-09-15 |  |
 | [Stand Strong](https://open.spotify.com/track/2Vl9YLdLXa6oViIhKJIxCe) | [SVNF8](https://open.spotify.com/artist/5K3s5fnJzDpLDd622LmQVX), [Mariel Jacoda](https://open.spotify.com/artist/0eqWbinsRY0hNZ2cW9zwwQ) | [Stand Strong](https://open.spotify.com/album/7MVNs6WRm0gUdPu1r62z2U) | 4:22 | 2022-09-15 |  |

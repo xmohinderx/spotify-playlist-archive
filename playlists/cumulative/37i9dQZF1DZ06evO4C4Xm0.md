@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-95 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6sqVTJGS7SH6N8LENVKMbv)
+96 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/6sqVTJGS7SH6N8LENVKMbv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Sky Saw \- 2004 Digital Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 | 2022-05-29 | 2022-09-11 |
 | [Small Craft on a Milk Sea](https://open.spotify.com/track/7GTzB4QUfO0oXfvzwtKBom) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 1:48 | 2022-09-02 |  |
 | [Sombre Reptiles \- 2004 Digital Remaster](https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:21 | 2022-05-29 |  |
+| [Sparrowfall \(1\) \- Remastered 2005](https://open.spotify.com/track/7DRYIvDSGHCJk9FMck3a7c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:10 | 2022-11-20 |  |
 | [Spider And I \- 2004 Digital Remaster](https://open.spotify.com/track/6nDzGTp2IvrtEEEgCTInMX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 4:10 | 2022-07-19 | 2022-10-13 |
 | [Spinning Away](https://open.spotify.com/track/0EZ4GxnjKkB5Q0X5MhMNEf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP) | 5:27 | 2022-05-29 |  |
 | [Spring Frost](https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:07 | 2022-05-29 |  |

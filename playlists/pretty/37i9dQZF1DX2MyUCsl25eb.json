@@ -1,15 +1,15 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 973086,
+  "num_followers": 973003,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDkxYjVlYzYyNGFjMGY3NjU0M2ExNmY3MTJhMzQxZjcw",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDgxNDE1YjVmYmY0N2Y0ODdiOWMwZTJhMjIxNjY2NjNj",
   "tracks": [
     {
-      "added_at": "2022-11-20 01:26:16",
+      "added_at": "2022-11-21 01:24:38",
       "album": {
         "name": "The Good Parts",
         "url": "https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3TRmdYcOKFEmTWeJJKiatY"
     },
     {
-      "added_at": "2022-11-20 01:26:16",
+      "added_at": "2022-11-21 01:24:38",
       "album": {
         "name": "Girl Of My Dreams (Deluxe)",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4WH2dF8Bd0ZhftyysLGXKb"
     },
     {
-      "added_at": "2022-11-20 01:26:16",
+      "added_at": "2022-11-21 01:24:38",
       "album": {
         "name": "Venting to Strangers",
         "url": "https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ"
     },
     {
-      "added_at": "2022-11-20 01:26:16",
+      "added_at": "2022-11-21 01:24:38",
       "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/1nOXTYjvYANIhIS4k0HwkM"
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
     },
     {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "The Hardest Part",
@@ -587,6 +571,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Two Places at Once (Part I)",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Yours",
@@ -667,6 +651,22 @@
       "duration_ms": 204967,
       "name": "Yours",
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Two Places at Once (Part I)",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Songs of Sonder",
-        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Like All My Friends",
@@ -813,22 +797,6 @@
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Carry It Well",
@@ -843,6 +811,22 @@
       "duration_ms": 215048,
       "name": "Carry It Well",
       "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -893,6 +877,22 @@
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+    },
+    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "One Step Ahead",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
@@ -965,20 +949,20 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -997,22 +981,6 @@
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "The Hardest Part",
@@ -1027,6 +995,22 @@
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -1045,22 +1029,6 @@
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "18",
-      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Sunday Crossword",
@@ -1075,6 +1043,22 @@
       "duration_ms": 184827,
       "name": "Sunday Crossword",
       "url": "https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/7v8cb4h5R8a0i1NzjWLUod"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "18",
+      "url": "https://open.spotify.com/track/54F792TiwJOWmTJpbUqbXu"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1113,22 +1097,6 @@
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Mr. Percocet",
-      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
-    },
-    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Always Almost",
@@ -1145,22 +1113,6 @@
       "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Crisis",
-      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Aftershock",
@@ -1175,6 +1127,38 @@
       "duration_ms": 203600,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/1mEM6KkVMwpuAuqusCMD6m"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1209,22 +1193,6 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Someone Who Loved You",
-        "url": "https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "All The Way Over",
@@ -1239,6 +1207,38 @@
       "duration_ms": 188426,
       "name": "All The Way Over",
       "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
     }
   ],
   "unique_name": "Morning Commute",

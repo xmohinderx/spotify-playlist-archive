@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,638 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,693 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 24 | [Mac's Boogie](https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Dr\. John Plays Mac Rebennack The Legendary Sessions V\. 1](https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF) | 4:01 |
 | 25 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 |
 | 26 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 |
-| 27 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
+| 27 | [Boogie Woogie Blues](https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX) | [Jean\-Pierre Bertrand](https://open.spotify.com/artist/77PBFv21ChvCL07tXkoP3x), [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Dani Gugolz](https://open.spotify.com/artist/2PVYlFb0RH1qflbHCe3MyW), [Peter Müller](https://open.spotify.com/artist/7lQJmgdxJyKDhOqQIz3ZgE) | [Piano Brotherhood \(feat\. Dani Gugolz, Peter Müller\)](https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl) | 3:41 |
 | 28 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
-| 29 | [Boogie Woogie Blues](https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX) | [Jean\-Pierre Bertrand](https://open.spotify.com/artist/77PBFv21ChvCL07tXkoP3x), [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Dani Gugolz](https://open.spotify.com/artist/2PVYlFb0RH1qflbHCe3MyW), [Peter Müller](https://open.spotify.com/artist/7lQJmgdxJyKDhOqQIz3ZgE) | [Piano Brotherhood \(feat\. Dani Gugolz, Peter Müller\)](https://open.spotify.com/album/2CNgsFsRSxb6Yoo0PaRowl) | 3:41 |
+| 29 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 30 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
 | 31 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
 | 32 | [E\-Flat Flyer](https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [Lost in Boogie](https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK) | 3:32 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 39 | [Swanee River Hop](https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [They Call Me The Fat Man \(The Legendary Imperial Recordings\)](https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr) | 2:52 |
 | 40 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
 | 41 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
-| 42 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
-| 43 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 42 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
+| 43 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
 | 44 | [Caroline's Boogie](https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:21 |
 | 45 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
 | 46 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 49 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 50 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 
-Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMGQzMjE3YTU1N2RjZGI3MTc0OWM1NTA3MWRhODgxMmRm`
+Snapshot ID: `MTY2NTQwNjM2OCwwMDAwMDAwMDYyOTIwMTQxYTBiM2I0MjQ5NGNkMzdjYWZiZTZkYmZm`

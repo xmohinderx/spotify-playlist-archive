@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/3RYiM0Z1VUR8qi10gB3VQT)
+66 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/3RYiM0Z1VUR8qi10gB3VQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 | 2022-09-14 |  |
 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 | 2022-09-14 |  |
 | [Son Of Heaven \- Live](https://open.spotify.com/track/3Cf8qr0MolfdZ1EqxTSRG4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [House Of Miracles \(Live\)](https://open.spotify.com/album/17fDsLWssfoHLMcMLMF52K) | 15:31 | 2022-09-14 |  |
-| [Soul On Fire \(Live\)](https://open.spotify.com/track/6NudOEKNlGZphEHAzZuHEq) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:30 | 2022-09-14 |  |
+| [Soul On Fire \(Live\)](https://open.spotify.com/track/6NudOEKNlGZphEHAzZuHEq) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:30 | 2022-09-14 | 2022-11-21 |
 | [The Answer Is Yes](https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:29 | 2022-11-02 |  |
 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 | 2022-09-14 |  |
+| [The In Between \- from The Chosen](https://open.spotify.com/track/3roS62frfF60JQD8jiacOK) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The In Between \(from The Chosen\)](https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv) | 3:58 | 2022-11-20 |  |
 | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Joy of Jesus \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\) \(feat\. Matt Maher, Mac Powell & Ellie Holcomb\)](https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ) | 2:37 | 2022-09-14 |  |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-09-14 |  |
 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 | 2022-09-14 |  |

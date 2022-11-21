@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrate Women's History Month with these powerful voices\. Cover: Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,960 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,002 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 3 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
 | 4 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 5 | [No Me Hacen Falta](https://open.spotify.com/track/2yEyuAFPazUmZ9ApIuZN4z) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:01 |
-| 6 | [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:50 |
-| 7 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
+| 6 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
+| 7 | [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:50 |
 | 8 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 9 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 10 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 105 | [Flow Romántico](https://open.spotify.com/track/66bYpXlvjXz2Eh8OXGDKJF) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/0l7kBoTdW9p4NBsiZT9VX3) | 2:55 |
 | 106 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 |
 | 107 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
-| 108 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
-| 109 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
+| 108 | [Lo Que Yo Diga](https://open.spotify.com/track/2z73UZLP42AKB1xFtdvDCB) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lo Que Yo Diga](https://open.spotify.com/album/5bFC6O53uKjv2iVtDtkIq4) | 2:32 |
+| 109 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 |
 | 110 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 |
 | 111 | [Aguardiente \- Remix](https://open.spotify.com/track/6pCUhBhx6VE8L15A6usvi2) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Mauricio Renfigo](https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l), [Andrés Torres](https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q) | [Aguardiente \(Remix\)](https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh) | 2:46 |
 | 112 | [Soy Así](https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Soy Así](https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH) | 3:32 |
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 115 | [Flotando](https://open.spotify.com/track/2AoRRax8pJeQEj9nGDUKob) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando](https://open.spotify.com/album/5oauhyLdeLTkCcv8bqjjZK) | 4:02 |
 | 116 | [Feelings](https://open.spotify.com/track/4n1n6LadWODpql8E1QxxN6) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Feelings](https://open.spotify.com/album/1X7N9J7vljruYHfXuww2tv) | 3:02 |
 | 117 | [Vuelvo](https://open.spotify.com/track/73xcMyVkC760tH1Jkfxzd6) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo \(Pt\. 1\)](https://open.spotify.com/album/2bxfZA2NjHPCMGF9pANMzp) | 2:42 |
-| 118 | [Y Tú No Estás \- Versión Banda](https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Y Tú No Estás \(Versión Banda\)](https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs) | 2:40 |
-| 119 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 |
-| 120 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 |
+| 118 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 |
+| 119 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 |
+| 120 | [Y Tú No Estás \- Versión Banda](https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Y Tú No Estás \(Versión Banda\)](https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs) | 2:40 |
 | 121 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
 | 122 | [Te Quiero Olvidar](https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Quiero Olvidar](https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR) | 3:35 |
 | 123 | [Na Na Na](https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:18 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 139 | [CHILL](https://open.spotify.com/track/4nj7NcgKbJk4yLfQvWwVhG) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [CHILL](https://open.spotify.com/album/27NpFm9IMURWBKYNChlELH) | 2:50 |
 | 140 | [Knock Out](https://open.spotify.com/track/4lIJsl9Miy2ealGNSC6SqX) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Knock Out](https://open.spotify.com/album/1PTsZlgjqklM8w7Lyz30cG) | 2:31 |
 
-Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMDViYmZhZmEzM2FmNzg4YWYxMTczMDAzYzBlOTFlNjA1`
+Snapshot ID: `MTY0ODQ3NzQyMywwMDAwMDAwMDk5NjM1NWE2ZWQxNTA3ZTFlZWY5MTAxNjg5ZmM3NDM4`

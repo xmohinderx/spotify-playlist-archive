@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-263 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
+264 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Safe Lines](https://open.spotify.com/track/4NYsjmwUAP7YnuwhVK0NVz) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Safe Lines](https://open.spotify.com/album/5jhukSqjKsW3erE3uaMGnt) | 2:00 | 2022-09-09 | 2022-10-29 |
 | [said & done](https://open.spotify.com/track/3ZLXYsLYDagaczN7eeh6xo) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [said & done](https://open.spotify.com/album/2sOQxN0wUhPnoT0SJN7vcx) | 2:02 | 2022-09-09 |  |
 | [Say Goodbye](https://open.spotify.com/track/5OgUAkKomjUxeTcu9KzRbg) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Say Goodbye](https://open.spotify.com/album/5Lj7oOBoPlMrJmuuNyBnEA) | 2:02 | 2022-09-09 |  |
-| [seascape](https://open.spotify.com/track/68RsORfEUe2HAfYNSNfbse) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/10XA4FN29CUxGD9ja9fjQC) | 2:17 | 2022-09-23 |  |
+| [seascape](https://open.spotify.com/track/12CFFjAlfinT0TYzoNv5Ki) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/6Hmp3LvswJ1dXJ8wMThWFT) | 2:17 | 2022-11-18 |  |
+| [seascape](https://open.spotify.com/track/68RsORfEUe2HAfYNSNfbse) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [seascape](https://open.spotify.com/album/10XA4FN29CUxGD9ja9fjQC) | 2:17 | 2022-09-23 | 2022-11-21 |
 | [Secluded Forest](https://open.spotify.com/track/4heInUSuX7x85fxsCjdJWI) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Secluded Forest](https://open.spotify.com/album/1VFp3JB0iQtTUBBjprc6SJ) | 2:10 | 2022-10-14 |  |
 | [Secret Place](https://open.spotify.com/track/5BaRhe7Rv9ciEFsvOcQBX4) | [Nivyer G](https://open.spotify.com/artist/1oh4y1bJOM0oUzEm3dZgWv) | [Secret Place](https://open.spotify.com/album/0h1bpFcp0vs5kAWle5om3i) | 2:30 | 2022-11-18 |  |
 | [See you soon](https://open.spotify.com/track/0AAmMbWCDAzq6EmI5NUGNC) | [Gedimi](https://open.spotify.com/artist/68cLSTXnIf1UtW0muey7LG) | [See you soon](https://open.spotify.com/album/73exb1SFjcjvVDh1xgabkI) | 2:26 | 2022-09-09 |  |

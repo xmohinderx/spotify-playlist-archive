@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1397102,
+  "num_followers": 1396916,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGJhNTA3YzliNjBhMjVkOGFkYTFiYWVjNzExMmE2NzQy",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMDcwOTNmYWZmM2E2ZWUwNTUxMTZjZGU2YTViNTY3NjRl",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 198387,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Tighter (feat. Jalja) [CamelPhat Remix]",
         "url": "https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -697,24 +697,28 @@
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
-      "added_at": "2022-08-26 04:00:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 255991,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -741,28 +745,24 @@
       "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Out Of Reach",
-        "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 255991,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -807,42 +807,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -863,6 +827,42 @@
       "duration_ms": 199680,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
-        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 329349,
-      "name": "Strangers (with Mansionair) - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Hypercolour",
         "url": "https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "This Time / Ray",
+        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "duration_ms": 414646,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Atlas (Shall Ocin & Artbat Remix)",
@@ -1647,22 +1663,6 @@
       "duration_ms": 380952,
       "name": "Atlas - Shall Ocin & Artbat Remix",
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "This Time / Ray",
-        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
-      },
-      "artists": [
-        {
-          "name": "Avoure",
-          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
-        }
-      ],
-      "duration_ms": 414646,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1699,6 +1699,26 @@
       "duration_ms": 220649,
       "name": "Artefact",
       "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1873,26 +1893,6 @@
       "url": "https://open.spotify.com/track/4OEnG3txRzS0UebAHOA2bG"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Close My Eyes",
@@ -1911,6 +1911,26 @@
       "duration_ms": 222580,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
+      },
+      "artists": [
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1949,40 +1969,28 @@
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
+        "name": "A Drug From God (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3m9iHkgf9wX6fM5ZekvZPZ"
       },
       "artists": [
         {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+        },
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+      "duration_ms": 188251,
+      "name": "A Drug From God (Reb\u016bke Remix)",
+      "url": "https://open.spotify.com/track/2O0ESQqVFf95Hcm6NMeEON"
     }
   ],
   "unique_name": "Night Rider",

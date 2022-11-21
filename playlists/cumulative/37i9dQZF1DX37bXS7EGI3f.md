@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-502 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+503 songs - 1 day 14 hr 47 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [My Demons and I](https://open.spotify.com/track/5KWXj0NY74p7Pqctwk79jU) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Brittney Slayes](https://open.spotify.com/artist/1Ea0u6DNv731liS6GfD7aK) | [My Demons and I](https://open.spotify.com/album/1h30AxSI16qbIZqPQX3tZh) | 4:16 | 2021-12-11 | 2022-06-18 |
 | [My Method Your Madness](https://open.spotify.com/track/6Ne5lWuCctXmKedZdcq4mM) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [My Method Your Madness](https://open.spotify.com/album/0j1eKsLQ5jnPN1iD4sp6Ix) | 3:34 | 2021-07-10 | 2021-08-28 |
 | [My Mother Told Me](https://open.spotify.com/track/4DoyIK599jZyOJxj5CK6Vu) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [My Mother Told Me](https://open.spotify.com/album/2KC12Gr5uv2PfS7AALSgQo) | 3:16 | 2021-06-19 | 2021-08-14 |
-| [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 |  |
+| [My Shadow Self](https://open.spotify.com/track/0i5p8lyhwKkqCb08dGJOoe) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/4GZZdYlHV5QtJvjYWv539s) | 3:02 | 2022-11-18 |  |
+| [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 | 2022-11-21 |
 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 | 2022-06-24 |  |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 | 2021-11-27 | 2022-07-29 |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/6UNSOj1v6OHzRyYfPD1Vbo) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [The Book of Fire \(Platinum Edition\)](https://open.spotify.com/album/0B3E24p9cEOI9ByIFXoAy1) | 3:58 | 2022-07-08 | 2022-09-02 |

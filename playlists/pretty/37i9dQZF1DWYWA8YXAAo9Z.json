@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 32092,
+  "num_followers": 32155,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDZiY2FjNGI2ZGMxNzljZDA1NzY1NzIwMTZhYzkyZjdl",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDE3ZTc3N2RhYmZiMjYzZDM0YTZmMjFlMzRjYzQ4Y2Qy",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 437906,
+      "name": "A Sea Of Love",
+      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 134000,
       "name": "Moon In Your Eye",
       "url": "https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 437906,
-      "name": "A Sea Of Love",
-      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 330000,
       "name": "Efflorescence",
       "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "North of Roswell",
-        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 154830,
-      "name": "North of Roswell",
-      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Plonk",
-        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+        "name": "North of Roswell",
+        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
       },
       "artists": [
         {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
         }
       ],
-      "duration_ms": 382111,
-      "name": "Plonk III",
-      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+      "duration_ms": 154830,
+      "name": "North of Roswell",
+      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -563,6 +547,22 @@
       "duration_ms": 468000,
       "name": "Long Dizzying Air Through A Balcony Door",
       "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 382111,
+      "name": "Plonk III",
+      "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Let Night Come On Bells End The Day",
-        "url": "https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Garlands",
-      "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Probe 6-8",
         "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Let Night Come On Bells End The Day",
+        "url": "https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Garlands",
+      "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Vu Hijera",
-        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Vu Hijera",
-      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "My Birthday Suit",
         "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 225054,
       "name": "My Birthday Suit",
       "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Vu Hijera",
+        "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Vu Hijera",
+      "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
       },
       "artists": [
         {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+      "duration_ms": 216000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
       "artists": [
         {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Orange Blue Green",
-        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Orange Blue Green",
-      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Orange Blue Green",
+        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Orange Blue Green",
+      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Wrecked Exotic",
         "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "full/new",
-        "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
-      },
-      "artists": [
-        {
-          "name": "Lightbath",
-          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
-        }
-      ],
-      "duration_ms": 452476,
-      "name": "The Hermit",
-      "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Aerious EP",
         "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+        "name": "full/new",
+        "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
       },
       "artists": [
         {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+          "name": "Lightbath",
+          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
         }
       ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+      "duration_ms": 452476,
+      "name": "The Hermit",
+      "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1215,6 +1199,22 @@
       "duration_ms": 333604,
       "name": "Home Stories",
       "url": "https://open.spotify.com/track/3zKh4uoo7A7Mu6nuASKTDt"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     },
     {
       "added_at": "2022-10-04 14:14:28",

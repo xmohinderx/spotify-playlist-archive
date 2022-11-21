@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -3499,7 +3499,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 228837,
       "name": "Divided",
       "url": "https://open.spotify.com/track/1BcR6Hi28MIxGqeT3W71Cz"
@@ -4195,7 +4195,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 125419,
       "name": "EF \u00deEIR VILJA BEEF",
       "url": "https://open.spotify.com/track/6uU1QhxwtrnOdALd4K1nBs"
@@ -4367,7 +4367,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "Eitt l\u00edti\u00f0 j\u00f3lalag",
       "url": "https://open.spotify.com/track/7iiP7OrzPN1JAkPKkJCThg"
@@ -4719,7 +4719,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -5539,7 +5539,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 252920,
       "name": "FL\u00ddG UPP",
       "url": "https://open.spotify.com/track/2iHiVyfDAm6EjhkGELpqPK"
@@ -7681,7 +7681,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
@@ -9007,7 +9007,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -9239,10 +9239,28 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 223124,
       "name": "J\u00f3labr\u00f3\u00f0ir",
       "url": "https://open.spotify.com/track/0mkQpJ4pvcYGn3g3LdI5mL"
+    },
+    {
+      "album": {
+        "name": "Sniglabandi\u00f0 1985 - 1995",
+        "url": "https://open.spotify.com/album/6gADVfs1jbRqGTWkPaaiTZ"
+      },
+      "artists": [
+        {
+          "name": "Sniglabandi\u00f0",
+          "url": "https://open.spotify.com/artist/4Uz0pHuaABFuqkkErrSMha"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265868,
+      "name": "J\u00f3lahj\u00f3l",
+      "url": "https://open.spotify.com/track/1bjDn2g6VX62OB1Igw5cNo"
     },
     {
       "album": {
@@ -9367,6 +9385,32 @@
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/4L8MTvkf2uLxBcalXgjA1f"
+    },
+    {
+      "album": {
+        "name": "J\u00f3lin eru okkar",
+        "url": "https://open.spotify.com/album/07Et0ZrzTUPhqSI58e4dpQ"
+      },
+      "artists": [
+        {
+          "name": "Baggal\u00fatur",
+          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
+        },
+        {
+          "name": "Valdimar Gu\u00f0mundsson",
+          "url": "https://open.spotify.com/artist/28FtvCIh12VQL6ggWDS1ps"
+        },
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244089,
+      "name": "J\u00f3lin eru okkar",
+      "url": "https://open.spotify.com/track/7au6uJoviW8jXgpVPUrrAb"
     },
     {
       "album": {
@@ -9577,7 +9621,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 199855,
       "name": "Klisja",
       "url": "https://open.spotify.com/track/38KOnmdRLQrizMIFHIwuOA"
@@ -10167,7 +10211,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -11265,7 +11309,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
@@ -12509,6 +12553,24 @@
     {
       "album": {
         "name": "J\u00f3l \u00ed g\u00f3\u00f0u lagi",
+        "url": "https://open.spotify.com/album/4eAG7fBY4HtttUFeOZN5Tn"
+      },
+      "artists": [
+        {
+          "name": "HLH flokkurinn",
+          "url": "https://open.spotify.com/artist/2YJAktxfmSVrAOnNr24EgP"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215109,
+      "name": "Nei, nei, ekki um j\u00f3lin",
+      "url": "https://open.spotify.com/track/2Oh97IIdGSJ8jrIeIAPwMO"
+    },
+    {
+      "album": {
+        "name": "J\u00f3l \u00ed g\u00f3\u00f0u lagi",
         "url": "https://open.spotify.com/album/1PKxBUJpT3i8w2SnIyfKdl"
       },
       "artists": [
@@ -13229,7 +13291,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
@@ -14125,7 +14187,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
@@ -14617,7 +14679,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -15031,7 +15093,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -15999,6 +16061,24 @@
       "duration_ms": 100945,
       "name": "Sn\u00e1\u00f0ar",
       "url": "https://open.spotify.com/track/2EmFNa3we4yPEnIPHw0rmn"
+    },
+    {
+      "album": {
+        "name": "Bestu j\u00f3lal\u00f6g Bj\u00f6rgvins",
+        "url": "https://open.spotify.com/album/6v9O6NfLVSzGo8QvX1jXi4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125341,
+      "name": "Sn\u00e6finnur snj\u00f3karl",
+      "url": "https://open.spotify.com/track/0VIiCofkLOS1DRxkmlLT8J"
     },
     {
       "album": {

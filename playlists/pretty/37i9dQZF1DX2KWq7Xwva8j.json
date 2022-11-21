@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20139,
+  "num_followers": 20126,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDExNzljNzRjZWJhNzI1N2E3YmU1ZGI2Y2VkNzNjMzQ4",
+  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMGI2ZDEyZjZjZTJhMGJiOWY2ZjA1ZWNlMDg0N2M5NjIw",
   "tracks": [
     {
       "added_at": "2022-11-11 11:01:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "Disneyland Paris",
         "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 144624,
       "name": "Disneyland Paris",
       "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2022-11-11 11:01:19",

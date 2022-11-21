@@ -4,7 +4,7 @@
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-72 songs - 4 hr 20 min - not published yet
+73 songs - 4 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Colors \- Coca\-Cola® Anthem, 2018 FIFA World CupTM](https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Colors \(Coca\-Cola® Anthem, 2018 FIFA World CupTM\)](https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d) | 3:07 | 2022-11-07 |  |
 | [Come Alive](https://open.spotify.com/track/0oZj6Xl6JJrr15jn05fcAe) | [FMLYBND](https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh) | [Come Alive](https://open.spotify.com/album/6ju6GANi9RGSl1ThPMtQj4) | 3:12 | 2022-11-07 |  |
 | [Dar um Jeito \(We Will Find a Way\) \[The Official 2014 FIFA World Cup Anthem\] \(feat\. Avicii & Alexandre Pires\)](https://open.spotify.com/track/4RabxUkDmdvt6hJRqblvEZ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Dar um Jeito \(We Will Find a Way\) \[The Official 2014 FIFA World Cup Anthem\] \(feat\. Avicii & Alexandre Pires\)](https://open.spotify.com/album/7cvaMOw45VA4HJ2zxiALnu) | 3:48 | 2022-11-07 |  |
+| [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-20 |  |
 | [Finale \(feat\. Nicholas Petricca\)](https://open.spotify.com/track/0DanGj9TtgZIjJnHdTbW9v) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Nicholas Petricca](https://open.spotify.com/artist/7MfqTaqzU4P7AqqnFj3rYk) | [Finale](https://open.spotify.com/album/0HVrSL0ICBN2rnc9NUr6wB) | 3:25 | 2022-11-07 |  |
 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2022-11-07 |  |
 | [Game On \- The Official 2010 FIFA World Cup\(TM\) Mascot Song](https://open.spotify.com/track/1SgA9LyTP9O9zyRTuwfz1F) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:19 | 2022-11-07 |  |

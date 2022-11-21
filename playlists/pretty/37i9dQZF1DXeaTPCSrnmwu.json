@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 19286,
+  "num_followers": 19313,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDY0MTc3NzMwNWFhYmUzZGY2NWRmM2Q5YjBjMTA2ZjE3",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDMzZDAyOTI4MWNiMjRjZjBjNWQ5ZmI2OTEwMTk2OWFl",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Clark Younger",
-        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
-      },
-      "artists": [
-        {
-          "name": "Clark Younger",
-          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
-        }
-      ],
-      "duration_ms": 196852,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Orobroy",
         "url": "https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232720,
       "name": "Ventanales",
       "url": "https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Clark Younger",
+        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
+      },
+      "artists": [
+        {
+          "name": "Clark Younger",
+          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
+        }
+      ],
+      "duration_ms": 196852,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni"
     },
     {
       "added_at": "2021-01-18 15:57:14",

@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 285836,
+  "num_followers": 285920,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDQ1NTJlMTk1YzE0NGFiOTg5MzQwODVjYzUyN2FmNmE5",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDNhMDc0MzQ2OTA4ODM3ZDk2OTMzYzIxMTAyYmJkNjAz",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "ADOLESCENCE",
         "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 240924,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "i can't go outside",
         "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-06-20 14:19:42",

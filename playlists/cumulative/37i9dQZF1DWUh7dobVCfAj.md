@@ -4,7 +4,7 @@
 
 > Sing\-along favorites\. Cover: Billy Joel
 
-72 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/2MyINiSmtZ2BJuybb4XTsA)
+73 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2MyINiSmtZ2BJuybb4XTsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-10-22 |  |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2021-10-22 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/5idEVWkC6NT5D8Wemi9XIQ) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Never Forget The '60s!](https://open.spotify.com/album/5ipYiRXmgoh0Hk3QDdyRof) | 3:00 | 2021-10-22 | 2022-07-29 |
-| [Build Me Up Buttercup \- Rerecorded](https://open.spotify.com/track/2n5ehoU6AEG9uutDoDRM97) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [16 Best of 60's Rock 'n' Roll](https://open.spotify.com/album/6EG0eC55mXEtjT4ZZBuOnS) | 3:05 | 2021-10-22 |  |
+| [Build Me Up Buttercup \- Rerecorded](https://open.spotify.com/track/0XZN0LwG7CRXJ8SrlGiWYU) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [20 Best of 60s Rock 'n' Roll](https://open.spotify.com/album/69JdEYYGYAwIynFurnmdFz) | 3:05 | 2021-10-22 |  |
+| [Build Me Up Buttercup \- Rerecorded](https://open.spotify.com/track/2n5ehoU6AEG9uutDoDRM97) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [16 Best of 60's Rock 'n' Roll](https://open.spotify.com/album/6EG0eC55mXEtjT4ZZBuOnS) | 3:05 | 2021-10-22 | 2022-11-21 |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 | 2021-10-22 |  |
 | [Chariot](https://open.spotify.com/track/4dygMGhvfENVhwRXmAscbl) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:59 | 2022-09-01 |  |
 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 | 2022-06-30 |  |

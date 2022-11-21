@@ -4,7 +4,7 @@
 
 > New music from Pharrell, Pinkpantheress, Roddy Ricch, Don Toliver, Fana Hues, and more
 
-1,316 songs - 2 day 17 hr 20 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,317 songs - 2 day 17 hr 22 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,7 +1176,8 @@
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 | 2022-07-22 | 2022-08-06 |
 | [The Wire \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [More Than Music, Pt\. 2](https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO) | 2:59 | 2022-07-22 | 2022-08-06 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-14 | 2022-11-05 |
-| [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 |  |
+| [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 | 2022-11-21 |
+| [They Want It, But No](https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 | 2022-11-04 |  |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-09-16 | 2022-10-08 |
 | [Third Wheel \- Piano Version](https://open.spotify.com/track/07WWLbwLfugNotm1Uyo4Na) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel \(Piano Version\)](https://open.spotify.com/album/6FdSbFJv0TPUIuXKGB1IUs) | 2:15 | 2022-08-05 | 2022-08-27 |
 | [This Fronto](https://open.spotify.com/track/07BKha6N3jBvHHNHo78GBu) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [This Fronto](https://open.spotify.com/album/2Xr99g8kM4r3Nt2YjSTuu0) | 3:11 | 2022-06-10 | 2022-07-02 |

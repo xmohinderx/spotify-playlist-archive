@@ -4,7 +4,7 @@
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-211 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
+212 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2e4OmeRUwQvswEW0cNS2Ew)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-31 | 2022-10-05 |
 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 | 2022-10-04 |  |
 | [Never Ever \- Radio Edit](https://open.spotify.com/track/4IJargf2Qc5v7vmZOOWwxj) | [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W), [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4) | [Never Ever](https://open.spotify.com/album/5diZebWSFq0ZGe8Z40WWqf) | 4:00 | 2022-08-02 | 2022-10-05 |
-| [Ready For Juju](https://open.spotify.com/track/4FX3RhM9pHRmJ95lpurtyL) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Ready For Juju](https://open.spotify.com/album/7iwBk1RMCaoMFoSshZkx1d) | 2:55 | 2022-10-04 |  |
+| [Ready For Juju](https://open.spotify.com/track/1DDzP3Taf81IHnmaI7e8zx) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:55 | 2022-11-01 |  |
+| [Ready For Juju](https://open.spotify.com/track/4FX3RhM9pHRmJ95lpurtyL) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Ready For Juju](https://open.spotify.com/album/7iwBk1RMCaoMFoSshZkx1d) | 2:55 | 2022-10-04 | 2022-11-21 |
 | [Rolling](https://open.spotify.com/track/4AJIZkKtEhT5w5Q1sc7Z2I) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rolling](https://open.spotify.com/album/3RL2IP0ib81VRV64f8aWKq) | 3:36 | 2022-04-05 | 2022-05-04 |
 | [Roya](https://open.spotify.com/track/4mmyAhGY3mLh4pU7LopsLH) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Roya](https://open.spotify.com/album/5zHQb6ghq3nsIPQIRPBm2Y) | 3:06 | 2022-11-01 |  |
 | [Scared](https://open.spotify.com/track/0se8OZtSoIVedBVNaKitBD) | [Gali Givon](https://open.spotify.com/artist/2DiOrNDsdtk2BAPfBhnPEQ) | [Scared](https://open.spotify.com/album/2NKfcIjX4fpZ8ndVfXsosf) | 2:55 | 2022-05-31 | 2022-08-03 |

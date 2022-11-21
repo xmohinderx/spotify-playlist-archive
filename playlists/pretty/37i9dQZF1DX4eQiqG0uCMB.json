@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 11991,
+  "num_followers": 11985,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0NzQ5MiwwMDAwMDAwMGU5MzIzNDI4NmQyNTg2ZDllOGRmNzc3ODg0ZjgxZmEz",
+  "snapshot_id": "MTY2NzU0NzQ5MiwwMDAwMDAwMDFmMTU1YjRiMTZjNTQ1NGM5YTM4MmQ1YzAzMjYyMTVm",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "No Dey Form",
@@ -679,6 +663,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2022-06-09 23:00:00",

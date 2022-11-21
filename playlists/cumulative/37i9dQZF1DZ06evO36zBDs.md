@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/32ULFsVKbCsfzD3V68Z4iN)
+75 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/32ULFsVKbCsfzD3V68Z4iN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [clever](https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:19 | 2022-06-09 |  |
 | [CLICK](https://open.spotify.com/track/3lVjrhRTt8nQ99kan7pOmj) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:29 | 2022-06-09 |  |
 | [CLICK \-season 02\-](https://open.spotify.com/track/3ey9NGmQAQ21guN77Kp1v1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:31 | 2022-06-09 | 2022-10-13 |
-| [CLICK \-TV MIX\-](https://open.spotify.com/track/0tvkAHEkyzrITMugyijmZy) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [CLICK \-TV MIX\-](https://open.spotify.com/album/5LCXVRcG1D86tGtnzTmj7i) | 1:30 | 2022-06-09 |  |
+| [CLICK \-TV MIX\-](https://open.spotify.com/track/0tvkAHEkyzrITMugyijmZy) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [CLICK \-TV MIX\-](https://open.spotify.com/album/5LCXVRcG1D86tGtnzTmj7i) | 1:30 | 2022-06-09 | 2022-11-21 |
 | [Diamonds](https://open.spotify.com/track/4CUnP1yLlZOxdW5puFIZN9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS \-夏のうた\-](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 5:05 | 2022-06-09 | 2022-10-18 |
 | [distance](https://open.spotify.com/track/1j2WgKVPAlGlX1AP1kzxDT) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:57 | 2022-06-09 | 2022-07-01 |
 | [Fairy Party](https://open.spotify.com/track/1ijOD2KVBWe4p6kfhu80Wo) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:33 | 2022-06-09 | 2022-10-13 |
@@ -43,6 +43,7 @@
 | [treasure](https://open.spotify.com/track/0a6dL9FS3oWoGlAtR3yxQr) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:20 | 2022-06-09 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 | 2022-06-09 |  |
 | [Wake Up](https://open.spotify.com/track/2bQTmdOKGgqO2OT2jEVf1g) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:13 | 2022-06-09 |  |
+| [WHITE BREATH](https://open.spotify.com/track/60eixnGh71dTDl76Wpvd9J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WHITE BREATH](https://open.spotify.com/album/6pGPeXHobvENA0wuJOAzEf) | 4:06 | 2022-11-20 |  |
 | [with you](https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 3:54 | 2022-06-12 | 2022-08-09 |
 | [ひらひら ひらら](https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition\)](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 5:13 | 2022-06-09 |  |
 | [もういちど ルミナス](https://open.spotify.com/track/2nMVkKOSXWlx39bDb6O3Ac) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [丸山彩 from Pastel\*Palettes](https://open.spotify.com/artist/0N8XbKOOPtJqiSZcjKPfCI) | [もういちど ルミナス](https://open.spotify.com/album/3iAPqnmOiEYK1Il7Ngydj5) | 4:21 | 2022-06-09 | 2022-09-17 |

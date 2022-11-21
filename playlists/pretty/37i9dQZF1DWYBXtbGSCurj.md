@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,973 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,157 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Luxo No Morro](https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Eagleboy](https://open.spotify.com/artist/0EQLszMpAykZ7pHGCx717u), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:20 |
+| 1 | [Luxo No Morro](https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [A Jolly Child](https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:20 |
 | 2 | [SANTO AMARO](https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:32 |
 | 3 | [Lugar na mesa](https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 2:59 |
 | 4 | [Elevador](https://open.spotify.com/track/6h8CDJt88Xzdj5NhCAgWcU) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Elevador](https://open.spotify.com/album/09MiXbCqSxtV4FMWSgq8AZ) | 3:11 |

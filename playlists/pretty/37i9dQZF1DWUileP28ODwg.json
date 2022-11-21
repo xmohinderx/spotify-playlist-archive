@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 257563,
+  "num_followers": 257606,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDc2OWM1OWI3MmE4ODk1MTBjZGJmNDI4NWY1MTEyMTZl",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGFmMzFmNDUxMGJhZTA2ZTExMDI0ZjlhMzRiNzQzZjQw",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Things That I'm Afraid Of",
+        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "Things That I'm Afraid Of",
+      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Things That I'm Afraid Of",
-        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "Things That I'm Afraid Of",
-      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 206576,
-      "name": "On And On - Radio",
-      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -1487,6 +1471,38 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 206576,
+      "name": "On And On - Radio",
+      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1519,22 +1535,6 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2022-10-01 07:07:16",

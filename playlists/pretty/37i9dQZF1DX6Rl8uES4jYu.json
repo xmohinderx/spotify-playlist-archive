@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235897,
+  "num_followers": 235890,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDJjMDRiODcyYWI0MTIzYzZmMThlNjY3MGI5OWI1MTRl",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGNkZjJiMDlhN2U4ZjFmNzNiZDI1NjFkOTViM2JlMWVl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 205862,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Automatic",
@@ -763,22 +779,6 @@
       "duration_ms": 168700,
       "name": "just another song",
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -901,26 +901,6 @@
       "url": "https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Woman (feat. Lianne La Havas)",
-        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Woman (feat. Lianne La Havas)",
-      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Chicken Wings (Remix)",
@@ -945,6 +925,26 @@
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Woman (feat. Lianne La Havas)",
+        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Woman (feat. Lianne La Havas)",
+      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Golden",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
       "added_at": "2022-07-12 18:25:04",
       "album": {
         "name": "ITS ALL GOOD",
@@ -991,6 +975,22 @@
       "duration_ms": 187618,
       "name": "ITS ALL GOOD",
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Matisyahu",
+        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Mama Please Don't Worry",
+      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1011,22 +1011,6 @@
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "According To You",
@@ -1131,6 +1115,22 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 159126,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "AM Gold (Tobtok Remix)",
         "url": "https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 189079,
       "name": "AM Gold - Tobtok Remix",
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 159126,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
       "added_at": "2021-09-21 15:07:50",

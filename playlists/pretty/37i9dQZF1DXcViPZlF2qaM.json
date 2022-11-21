@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 33529,
+  "num_followers": 33595,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ5ODE1NCwwMDAwMDAwMDk2MTI4YjVkMTk0NTUwMTY1ODIxMGIxZDFkMGE2YjA4",
+  "snapshot_id": "MTY2ODQ5ODE1NCwwMDAwMDAwMDZhNjA5NjFkODUxODI3ZjU5OTI0NzdhZmQzMmVmYTU0",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -101,42 +101,6 @@
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
-      "added_at": "2022-04-08 19:03:44",
-      "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
-        }
-      ],
-      "duration_ms": 297664,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
-    },
-    {
-      "added_at": "2022-11-15 07:41:03",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
-      },
-      "artists": [
-        {
-          "name": "Mon de Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
-        }
-      ],
-      "duration_ms": 222005,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
-    },
-    {
       "added_at": "2022-04-01 20:35:15",
       "album": {
         "name": "Entren Los Que Quieran",
@@ -163,6 +127,42 @@
       "duration_ms": 301426,
       "name": "Latinoam\u00e9rica (feat. Tot\u00f3 la Momposina, Susana Baca & Maria Rita)",
       "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
+    },
+    {
+      "added_at": "2022-11-15 07:41:03",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
+      },
+      "artists": [
+        {
+          "name": "Mon de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
+        }
+      ],
+      "duration_ms": 222005,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
+    },
+    {
+      "added_at": "2022-04-08 19:03:44",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
-      "added_at": "2022-11-20 01:44:50",
+      "added_at": "2022-11-21 01:44:16",
       "album": {
         "name": "Las Olas del Mar",
         "url": "https://open.spotify.com/album/5xYifiyDQBBzpxuU0P5ri0"
@@ -719,26 +719,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "COMO LA PIEL",
-        "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
-        }
-      ],
-      "duration_ms": 275751,
-      "name": "Quien lo dir\u00eda",
-      "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 278640,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "COMO LA PIEL",
+        "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "duration_ms": 275751,
+      "name": "Quien lo dir\u00eda",
+      "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
     },
     {
       "added_at": "2022-02-18 18:49:36",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
@@ -861,20 +877,20 @@
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-01-14 04:35:40",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+        "name": "Mis Amigos",
+        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
+      "duration_ms": 180569,
+      "name": "Mis Amigos",
+      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -895,22 +911,6 @@
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
-    },
-    {
-      "added_at": "2022-01-14 04:35:40",
-      "album": {
-        "name": "Mis Amigos",
-        "url": "https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 180569,
-      "name": "Mis Amigos",
-      "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
-    },
-    {
       "added_at": "2022-03-30 19:53:15",
       "album": {
         "name": "Cantos revolucionarios de america latina",
@@ -991,6 +975,22 @@
       "duration_ms": 270160,
       "name": "Hasta siempre",
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2021-10-16 00:59:30",

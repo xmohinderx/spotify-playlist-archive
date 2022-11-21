@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Chelsea Cutler
 
-1,120 songs - 2 day 11 hr 41 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,122 songs - 2 day 11 hr 47 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [All the Animals I Drew as a Kid](https://open.spotify.com/track/3u2jRaRg7kfD6D6LLEo1d9) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 4:04 | 2020-12-13 | 2021-03-19 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-09-04 | 2022-10-08 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/7nDYw1nNAW4dAqgmW2W3tq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/2k7vcF0Yr1drY0YsJQAACa) | 3:37 | 2020-04-26\* | 2020-07-31 |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-14 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-14 | 2022-11-21 |
 | [Alone](https://open.spotify.com/track/4SVuJDPtk2kJl3ULqO5nvF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Alone](https://open.spotify.com/album/4xAOOAuLxBOqEworUmUWhc) | 3:04 | 2021-09-25 | 2022-02-19 |
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-18 | 2022-02-12 |
 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2020-04-26\* | 2020-05-01 |
@@ -296,6 +297,7 @@
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/16fxWByj3xZ3yWxwZieyD7) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 2:30 | 2022-10-05 | 2022-10-07 |
 | [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 | 2022-10-05 | 2022-11-03 |
+| [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2022-11-18 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 | 2022-10-06 |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2021-12-11 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2020-08-21 | 2020-10-16 |
@@ -610,7 +612,7 @@
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2020-08-14 | 2020-10-09 |
 | [Loser](https://open.spotify.com/track/6BLs0nPSOmuBbfvUoHVmVM) | [Hank Compton](https://open.spotify.com/artist/7jKKTuM4iwzCuZ790quOMI) | [Loser](https://open.spotify.com/album/1WNetF03fOQeXWo33tTsiS) | 3:33 | 2020-06-19 | 2020-06-29 |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2020-04-26\* | 2020-10-09 |
-| [Lost](https://open.spotify.com/track/5uBxWyHmRbUCzJ87E34MP8) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Lost](https://open.spotify.com/album/53iFxvl6PuMcgxh2MJz4B5) | 3:01 | 2022-09-09 |  |
+| [Lost](https://open.spotify.com/track/5uBxWyHmRbUCzJ87E34MP8) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Lost](https://open.spotify.com/album/53iFxvl6PuMcgxh2MJz4B5) | 3:01 | 2022-09-09 | 2022-11-21 |
 | [Lost \- Lucian Remix](https://open.spotify.com/track/0m6odnrNnNMsD4nZnshfnq) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Lost \(Lucian Remix\)](https://open.spotify.com/album/3P7SMGjdcSCQ1tz0jO18pu) | 2:32 | 2021-01-23 | 2021-06-12 |
 | [Lost Without You](https://open.spotify.com/track/36uJxopqjp6UXC9BGx6jcm) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Lost Without You \(feat\. Clara Mae\)](https://open.spotify.com/album/7yQrCMYq5XrIebKDS1ezBa) | 2:45 | 2020-07-18 | 2020-12-04 |
 | [love and hate](https://open.spotify.com/track/1vDKQnddTOwYevfB0lbIXu) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [love and hate](https://open.spotify.com/album/22RD49QYSQoEAnpHOBmp6m) | 3:10 | 2021-07-10 | 2021-09-25 |

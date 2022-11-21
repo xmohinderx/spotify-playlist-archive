@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Lucrecia Dalt Artwork: Thami Nabil",
-  "num_followers": 96172,
+  "num_followers": 96235,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwMTg4MCwwMDAwMDAwMDQzZTBkYzcwOWVmZTIwOGEyYmI0NmNhNjUxYTBkMDVh",
+  "snapshot_id": "MTY2ODAwMTg4MCwwMDAwMDAwMGMyZjM0OGFlNmQyN2FiMWY0MzI0NjE3NzQxZjAzMDRj",
   "tracks": [
     {
       "added_at": "2022-11-09 13:51:20",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
       "added_at": "2022-09-21 02:54:10",
       "album": {
         "name": "Nutrition",
@@ -421,22 +437,6 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
       "added_at": "2022-09-27 23:34:16",
       "album": {
         "name": "Right to Riot",
@@ -451,22 +451,6 @@
       "duration_ms": 300392,
       "name": "Right to Riot",
       "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
-    },
-    {
-      "added_at": "2022-08-31 04:02:01",
-      "album": {
-        "name": "The Truth Is",
-        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
-      },
-      "artists": [
-        {
-          "name": "Cameron Morse",
-          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
-        }
-      ],
-      "duration_ms": 402356,
-      "name": "The Fifty",
-      "url": "https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -485,20 +469,20 @@
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
     },
     {
-      "added_at": "2022-09-27 23:34:16",
+      "added_at": "2022-08-31 04:02:01",
       "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+        "name": "The Truth Is",
+        "url": "https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8"
       },
       "artists": [
         {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+          "name": "Cameron Morse",
+          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
         }
       ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+      "duration_ms": 402356,
+      "name": "The Fifty",
+      "url": "https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA"
     },
     {
       "added_at": "2022-09-14 04:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 210520,
       "name": "Our Wretched Fantasy",
       "url": "https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E"
+    },
+    {
+      "added_at": "2022-09-27 23:34:16",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+      },
+      "artists": [
+        {
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+        }
+      ],
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
       "added_at": "2022-09-27 23:34:16",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-09-21 02:54:10",
       "album": {
-        "name": "Castlefields",
-        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin",
-          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
-        },
-        {
-          "name": "Sunny Joe Paradisos",
-          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
-        }
-      ],
-      "duration_ms": 494686,
-      "name": "Castlefields",
-      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
-    },
-    {
-      "added_at": "2022-09-21 02:54:10",
-      "album": {
         "name": "Eyeline",
         "url": "https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 104544,
       "name": "DOG",
       "url": "https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy"
+    },
+    {
+      "added_at": "2022-09-21 02:54:10",
+      "album": {
+        "name": "Castlefields",
+        "url": "https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin",
+          "url": "https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6"
+        },
+        {
+          "name": "Sunny Joe Paradisos",
+          "url": "https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI"
+        }
+      ],
+      "duration_ms": 494686,
+      "name": "Castlefields",
+      "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
     },
     {
       "added_at": "2022-09-27 23:34:16",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl"
     },
     {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "Vertiko",
-        "url": "https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB"
-      },
-      "artists": [
-        {
-          "name": "Popp",
-          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
-        }
-      ],
-      "duration_ms": 299263,
-      "name": "Vertiko",
-      "url": "https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg"
-    },
-    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "you're always with me",
@@ -839,6 +823,22 @@
       "duration_ms": 248934,
       "name": "you're always with me",
       "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "Vertiko",
+        "url": "https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB"
+      },
+      "artists": [
+        {
+          "name": "Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        }
+      ],
+      "duration_ms": 299263,
+      "name": "Vertiko",
+      "url": "https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg"
     },
     {
       "added_at": "2022-08-31 04:02:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=0FitoAV0TlikCEZmOSnlsg" > Ayra Starr </a>  and <a href="https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB?si=3UjT\-tueQkqS39KEoK6dGA" > Kelly Rowland</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,286 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,309 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

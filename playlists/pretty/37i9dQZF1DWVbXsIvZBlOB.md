@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,376 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 35 | [Better](https://open.spotify.com/track/3NfBk95LO64opvc5zBJcso) | [Gali Givon](https://open.spotify.com/artist/2DiOrNDsdtk2BAPfBhnPEQ) | [Better](https://open.spotify.com/album/3TqUbDtXBeXjhxCX6u6soi) | 3:04 |
 | 36 | [רואים לי בעיניים](https://open.spotify.com/track/1r31dA7kMJwdHH1ORB1WCo) | [Eti Bitton](https://open.spotify.com/artist/7MzV6mIgDnggfqOqfs69Ze) | [רואים לי בעיניים](https://open.spotify.com/album/5ABLYHA7L3gLnn65eJT5Gp) | 3:26 |
 | 37 | [אבא](https://open.spotify.com/track/0yaSrsHZHXZFBoTtz7XO1p) | [Dikla](https://open.spotify.com/artist/02XPYZHiiXvgdluCi3Esxg) | [אבא](https://open.spotify.com/album/1ew1zAoIFHlgGiu5Cpmkd0) | 2:58 |
-| 38 | [Ready For Juju](https://open.spotify.com/track/4FX3RhM9pHRmJ95lpurtyL) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Ready For Juju](https://open.spotify.com/album/7iwBk1RMCaoMFoSshZkx1d) | 2:55 |
+| 38 | [Ready For Juju](https://open.spotify.com/track/1DDzP3Taf81IHnmaI7e8zx) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:55 |
 | 39 | [הכל כבר כתוב](https://open.spotify.com/track/3llheMqLVItv2kIKUXnUo9) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [הכל כבר כתוב](https://open.spotify.com/album/21Y3yG2bQHLNj6joYws28U) | 4:10 |
 | 40 | [לרקוד ככה](https://open.spotify.com/track/6fesl4bSTs5hNDryQyQl2a) | [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [לרקוד ככה](https://open.spotify.com/album/0SX3RPtAOIx0QJxsUNCiyY) | 3:29 |
 | 41 | [הארץ המובטחת](https://open.spotify.com/track/2pEgCKfTEcOcl0Fw96jVex) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [הארץ המובטחת](https://open.spotify.com/album/4dfrLoP4ewNRQPLbpyGpZo) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [מה תעשי בלעדיי?](https://open.spotify.com/track/0wI7bezsgafxJaJFyvs4N0) | [Margalit Tzan'ani](https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM) | [מה תעשי בלעדיי?](https://open.spotify.com/album/1VUMmjoEWN1gZhvv6Ad8G9) | 3:19 |
 | 50 | [תקפצו לי](https://open.spotify.com/track/0cPx0S4t90ZuPEs8Zt8wyu) | [הדר פרג'ון](https://open.spotify.com/artist/6MjdGFM41dTrcBfxgwK7Xh) | [תקפצו לי](https://open.spotify.com/album/4NlUVgKbRVJqiB7QQqxK12) | 2:54 |
 
-Snapshot ID: `MTY2NzM0MDAwMCwwMDAwMDAwMGEzODExNTU2ZmYwYzY0YjZkNDMyM2RkYWZlNWU1MmZm`
+Snapshot ID: `MTY2NzM0MDAwMCwwMDAwMDAwMGMzNjM3NmFhNmFhNzA3MTk1MTY5ZDIxOGIzZjhjYTU3`

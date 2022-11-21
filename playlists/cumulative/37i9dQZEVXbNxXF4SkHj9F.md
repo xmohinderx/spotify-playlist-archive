@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-907 songs - 2 day 3 hr 11 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+908 songs - 2 day 3 hr 14 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Drawer](https://open.spotify.com/track/1OQ3PoRZRtE7RH0NIh3p1O) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Beloved Summer \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1EZNobvRioRsfH5Av4fjBv) | 3:57 | 2022-01-05 | 2022-03-03 |
 | [DREAM](https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [DREAM](https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb) | 3:06 | 2022-11-10 | 2022-11-12 |
 | [Dreamer](https://open.spotify.com/track/2dGQn6Dqb5PPLqtbmvfcFf) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:29 | 2021-09-19 | 2021-09-20 |
+| [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-20 |  |
 | [Dreaming](https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2021-12-16 | 2021-12-18 |
 | [Dreams Come True](https://open.spotify.com/track/2GyZkPeiJXXBqYY1ddtsjk) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:24 | 2022-07-09 | 2022-07-11 |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-21 | 2022-05-29 |
@@ -879,7 +880,7 @@
 | [Why Me?](https://open.spotify.com/track/4SkwI7BxrIk5t5bpbvcrs6) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 4:05 | 2021-09-12 | 2021-09-19 |
 | [Winter Sleep](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Pieces](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) | 4:22 | 2021-12-30 | 2022-02-13 |
 | [Winter Spring](https://open.spotify.com/track/1JUfVQxyt17lszAHbno101) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [Winter Spring](https://open.spotify.com/album/3qGehi71Ks2W237Vb2f2Qq) | 4:02 | 2022-03-13 | 2022-03-21 |
-| [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 |  |
+| [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-11-21 |
 | [With you \- Instrumental](https://open.spotify.com/track/7M30L99pePlQ3wh8IxVUsD) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-06-01 |
 | [Without You \(Feat\. ASH ISLAND\) \(Prod\. GRAY\)](https://open.spotify.com/track/4t3Vgfjl9Sb6ZR5q5kGOUL) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 3:47 | 2021-12-07 | 2022-02-16 |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-05-03 | 2021-05-09 |

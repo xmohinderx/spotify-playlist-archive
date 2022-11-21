@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-494 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+495 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,8 +135,9 @@
 | [Everything Or Nothing At All](https://open.spotify.com/track/0oGZaR3AqOKjJMHno0uE9T) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Flight Risk](https://open.spotify.com/album/6UQqFaB5RsrjbLBhphH2dt) | 3:24 | 2022-10-14 |  |
 | [Everything's Electric](https://open.spotify.com/track/0HzZB3Z6gIk3VOlS5WjT49) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:36 | 2022-05-27 | 2022-06-18 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2022-05-28 |
-| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-14 |  |
+| [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-14 | 2022-11-21 |
 | [Face It Alone](https://open.spotify.com/track/4Pdd0rUKJeK9LHE2WotEP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Classic Rock Gems](https://open.spotify.com/album/3Q0R296AVU8k5BrSrrV3JN) | 4:07 | 2022-11-11 | 2022-11-13 |
+| [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 | 2022-11-18 |  |
 | [fading](https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [happily catastrophic](https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM) | 3:52 | 2022-05-13 | 2022-06-18 |
 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 | 2022-09-09 |  |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-04-01 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 30948,
+  "num_followers": 30937,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY3OTYzMSwwMDAwMDAwMGE3ODg2YzM4ZTg3YjY2NGZiZjA3NjgyMjU1NDk0MWY1",
+  "snapshot_id": "MTY2ODY3OTYzMSwwMDAwMDAwMDdmMWE0OWExZDE3YTRjNzdlZGEwNGU3ZjgyNjZhODI5",
   "tracks": [
     {
       "added_at": "2022-11-17 10:07:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-17 10:07:11",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2022-11-17 10:07:11",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
+    },
+    {
+      "added_at": "2022-11-17 10:07:11",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-11-17 10:07:11",
@@ -903,22 +903,18 @@
     {
       "added_at": "2022-11-17 10:07:11",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
       },
       "artists": [
         {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 252616,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+      "duration_ms": 303408,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
     },
     {
       "added_at": "2022-11-17 10:07:11",
@@ -939,18 +935,22 @@
     {
       "added_at": "2022-11-17 10:07:11",
       "album": {
-        "name": "CDW",
-        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 303408,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
     },
     {
       "added_at": "2022-11-17 10:07:11",

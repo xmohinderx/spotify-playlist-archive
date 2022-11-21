@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 468289,
+  "num_followers": 468167,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNDcyMiwwMDAwMDAwMDNiYTVkOWVmODlhNGIxOTFhZjE4OTRhMjU1ZjQ5M2Jl",
+  "snapshot_id": "MTY2ODcxNDcyMiwwMDAwMDAwMDZhNDUyOTRkOWMzZDRjZmNlMTY4ZjE0YmY4YmZhNjg2",
   "tracks": [
     {
       "added_at": "2022-11-17 19:52:02",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Your Teeth In My Neck",
+      "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 440013,
       "name": "Palace/Curse (feat. Tyler, The Creator & Steve Lacy)",
       "url": "https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Your Teeth In My Neck",
-      "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "oh my love",
+      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "oh my love",
-      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
         "name": "LOVE BLACK",
         "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
       },
@@ -1031,26 +1031,6 @@
       "duration_ms": 210730,
       "name": "IDK WHAT TO TELL YOU",
       "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1071,6 +1051,26 @@
       "duration_ms": 303230,
       "name": "Count Contessa",
       "url": "https://open.spotify.com/track/5qc9oEjMRZvdECu3g5vU8P"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1103,22 +1103,6 @@
       "duration_ms": 147920,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
-        "name": "orange juice",
-        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "orange juice",
-      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
+        "name": "orange juice",
+        "url": "https://open.spotify.com/album/4bmluZugh54DkReHoghYGu"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "orange juice",
+      "url": "https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
+        "name": "U KNOW ME",
+        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "U KNOW ME",
+      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
         "name": "The Essential Electric Light Orchestra",
         "url": "https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
-        "name": "U KNOW ME",
-        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
       "artists": [
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 174640,
-      "name": "U KNOW ME",
-      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1239,22 +1255,6 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
-        "name": "Dinsdag",
-        "url": "https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6"
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
       },
       "artists": [
         {
-          "name": "Vieze Asbak",
-          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
-        },
-        {
-          "name": "Rarri Jackson",
-          "url": "https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A"
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
         }
       ],
-      "duration_ms": 162997,
-      "name": "Dinsdag",
-      "url": "https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR"
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
-        "name": "Sad B!tch",
-        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
+        "name": "Dinsdag",
+        "url": "https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6"
       },
       "artists": [
         {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        },
+        {
+          "name": "Rarri Jackson",
+          "url": "https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A"
         }
       ],
-      "duration_ms": 135069,
-      "name": "Sad B!tch",
-      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+      "duration_ms": 162997,
+      "name": "Dinsdag",
+      "url": "https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
         "name": "Wrote a Lil Song",
         "url": "https://open.spotify.com/album/1MkF1udZZGjXUiowE99wNx"
       },
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2022-11-17 19:52:02",
       "album": {
-        "name": "RAGGA",
-        "url": "https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 162111,
-      "name": "RAGGA",
-      "url": "https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
         "name": "Jam",
         "url": "https://open.spotify.com/album/3ohDyQ11gPOSIbpXFgJ4Ks"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 221217,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1GOEgRr0Mm0mDjGisgnC6y"
+    },
+    {
+      "added_at": "2022-11-17 19:52:02",
+      "album": {
+        "name": "RAGGA",
+        "url": "https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 162111,
+      "name": "RAGGA",
+      "url": "https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF"
     },
     {
       "added_at": "2022-11-17 19:52:02",
@@ -1983,22 +1999,6 @@
       "duration_ms": 159509,
       "name": "Ready Pa Volar",
       "url": "https://open.spotify.com/track/21t46dR7JRFXPeIIfqxl0g"
-    },
-    {
-      "added_at": "2022-11-17 19:52:02",
-      "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     }
   ],
   "unique_name": "'fit check",

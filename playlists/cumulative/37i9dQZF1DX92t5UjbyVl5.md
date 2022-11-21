@@ -4,7 +4,7 @@
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-91 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
+92 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Jug Land \(Instrumental\)](https://open.spotify.com/track/3e9uxlY1LKd9ph62BenTkA) | [Swagg B](https://open.spotify.com/artist/1cOflD6lP1v0Uuywrt80Iu) | [Swagg B Beatz, Vol\. 3](https://open.spotify.com/album/5PMD85bc1N1pNmXzuLTKof) | 3:50 | 2021-11-19 |  |
 | [Kali Yuga](https://open.spotify.com/track/0hkHNlWZYBCOc4BL8jmuuF) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumental Mixtape 4 Sampler](https://open.spotify.com/album/1GoZjbdEgjuH6XyTBV6XXi) | 2:14 | 2021-11-19 |  |
 | [Kingta](https://open.spotify.com/track/4EwUy1s4RiUfMaxi5iqqLN) | [Dannyteks](https://open.spotify.com/artist/3FghLL9ePSRolWAzQzcc7m), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Kingta](https://open.spotify.com/album/6RnpBgJlHBszyMdXgz3LXJ) | 3:14 | 2022-02-07 |  |
-| [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/10W6cSzVxb5Pn17y2Ll90Z) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:35 | 2021-11-19 |  |
+| [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/10W6cSzVxb5Pn17y2Ll90Z) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs) | 2:35 | 2021-11-19 | 2022-11-21 |
+| [Laif Is Tu Short \- Instrumental](https://open.spotify.com/track/4a60fGnWygEx4njLHZK4n8) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F), [DJ Pere](https://open.spotify.com/artist/0OHe56BrinIZV4Xqu4EEbP) | [Laif Is Tu Short](https://open.spotify.com/album/2osIjJPyOPli3uUgNfbslN) | 2:35 | 2022-02-07 |  |
 | [Last Wish](https://open.spotify.com/track/0VtanrAoaETJZIbjs0774r) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Last Wish](https://open.spotify.com/album/3qVv7p85Mh5TAkl78VsSFw) | 2:28 | 2021-11-19 |  |
 | [Leave It That Way](https://open.spotify.com/track/0n99I1623b6nC4dBfpEljZ) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Shooter On](https://open.spotify.com/album/0BRRMCcCM2UjEUt0jUPTfQ) | 3:32 | 2021-11-19 |  |
 | [Little Biggie](https://open.spotify.com/track/7nUPCYLMcE8ZLvEnqW5QfO) | [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Little Biggie](https://open.spotify.com/album/1OdSvRcnEDHilSS5u7TPD9) | 2:08 | 2021-11-19 |  |

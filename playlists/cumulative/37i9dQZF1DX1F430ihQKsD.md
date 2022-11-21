@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-235 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+236 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-03-25 | 2022-10-01 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-25 |  |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-03-25 | 2022-10-14 |
-| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-10-07 |  |
+| [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 | 2022-11-11 |  |
+| [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 | 2022-10-07 | 2022-11-21 |
 | [STP](https://open.spotify.com/track/64XbzMVPTMR2cvtOwgzRlw) | [BAAB](https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR) | [STP](https://open.spotify.com/album/36pVjg0nR9spir2KlZqxaU) | 3:44 | 2022-03-25 | 2022-09-17 |
 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 | 2022-07-22 | 2022-11-12 |
 | [Supermonkeyball](https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Supermonkeyball](https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3) | 3:48 | 2022-05-20 |  |

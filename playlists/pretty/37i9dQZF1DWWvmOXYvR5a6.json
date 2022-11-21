@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: ASH ISLAND(\uc560\uc26c \uc544\uc77c\ub79c\ub4dc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 166237,
+  "num_followers": 166306,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA3MTIwMCwwMDAwMDAwMDc0YzdmNjI2ZTUyMDBiOTA1OGViY2M1MDlmZmJhZjk5",
+  "snapshot_id": "MTY2ODA3MTIwMCwwMDAwMDAwMDc1ZjhjNTJlZjhkOTgyNjNiYTExY2Y5MzU2ZTg2YWQx",
   "tracks": [
     {
       "added_at": "2022-11-10 09:06:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
-    },
-    {
-      "added_at": "2022-11-10 09:06:40",
-      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 199866,
       "name": "Summer (Feat. BE\u2019O)",
       "url": "https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8"
+    },
+    {
+      "added_at": "2022-11-10 09:06:40",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
     },
     {
       "added_at": "2022-11-10 09:06:40",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
-        "name": "MR. BAD",
-        "url": "https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "MR. BAD (Feat. Woo)",
-      "url": "https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg"
-    },
-    {
-      "added_at": "2022-11-10 09:06:40",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
+    },
+    {
+      "added_at": "2022-11-10 09:06:40",
+      "album": {
+        "name": "MR. BAD",
+        "url": "https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "MR. BAD (Feat. Woo)",
+      "url": "https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg"
     },
     {
       "added_at": "2022-11-10 09:06:40",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2022-11-10 09:06:40",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1351,26 +1367,6 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2022-11-10 09:06:40",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
-      },
-      "artists": [
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Daisy (feat. pH-1)",
-      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
     },
     {
       "added_at": "2022-11-10 09:06:40",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
       "artists": [
         {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+      "duration_ms": 189480,
+      "name": "Daisy (feat. pH-1)",
+      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
     },
     {
       "added_at": "2022-11-10 09:06:40",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
-        }
-      ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
-    },
-    {
-      "added_at": "2022-11-10 09:06:40",
-      "album": {
         "name": "3-PAKTORY02",
         "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 257986,
       "name": "When I fall in love",
       "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
+    },
+    {
+      "added_at": "2022-11-10 09:06:40",
+      "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+        }
+      ],
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2022-11-10 09:06:40",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-11-10 09:06:40",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
-    },
-    {
-      "added_at": "2022-11-10 09:06:40",
-      "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 228066,
       "name": "California Love (feat. JENO of NCT)",
       "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+    },
+    {
+      "added_at": "2022-11-10 09:06:40",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2022-11-10 09:06:40",

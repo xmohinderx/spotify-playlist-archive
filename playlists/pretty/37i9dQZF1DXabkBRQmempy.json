@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 137652,
+  "num_followers": 138023,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDYxNzk4NmE2NmYwOTkyOWE0MGY1NGY4M2RhMWJlZTIz",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDNmZmFhYzBlZWE3YWNiZmI0MTk4YjMxZjRlYmRhMzk4",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
         "name": "La Danza De La Ciudad",
         "url": "https://open.spotify.com/album/44adPKDzweqAm43dx0zyIf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 274000,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2022-07-06 19:49:25",

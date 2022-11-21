@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-211 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+212 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2021-12-04 |  |
 | [Afsos](https://open.spotify.com/track/5O2TLsYT9WwPZ3Gy4plGz3) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [Afsos](https://open.spotify.com/album/4ypbnAlf7ZUhZeThC1Z9Ll) | 2:43 | 2021-04-06 | 2021-04-12 |
 | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/6Aq6LN9pt3TxjkfAJmet5A) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Aila Re Aillaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/4eh49RMjtblXH3IKE98rps) | 2:36 | 2021-10-24 | 2022-01-04 |
+| [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 5:29 | 2022-11-20 |  |
 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 | 2021-01-25\* | 2021-07-08 |
 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 | 2022-04-11 |  |
 | [Baarish Ban Jaana](https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Baarish Ban Jaana](https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310) | 3:20 | 2021-06-08 |  |

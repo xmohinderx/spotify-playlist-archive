@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Photo: Devon Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,317 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,342 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 22 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 |
 | 23 | [One Night Left](https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [One Night Left](https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4) | 3:27 |
 | 24 | [Never Wanted This](https://open.spotify.com/track/1OayqR9ZUXeGJvUbKdeoaR) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [eight gardengate](https://open.spotify.com/album/4544NYUPO0Rafsdk4ctFr6) | 2:31 |
-| 25 | [Lovesick](https://open.spotify.com/track/2xcNKsFTcNOyKrlWqIAWCe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/0VTT2sEaF6dMAe44IaFW4i) | 2:09 |
+| 25 | [Lovesick](https://open.spotify.com/track/6HMEmqVeDpIeL5DlgFU9Gx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:09 |
 | 26 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 |
 | 27 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
 | 28 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
 | 100 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDkyZTdlZDFhODNjMjRkZDk2ZmIxNDlkMTJjZDIzMzVm`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDgxMTFjMmU1NTAyY2M5NzFiNmMwZjkwNGM1Y2NjY2Qw`

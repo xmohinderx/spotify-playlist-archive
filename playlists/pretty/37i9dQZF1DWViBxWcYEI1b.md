@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,096 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,102 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 44 | [dna \(with Jordin Sparks\)](https://open.spotify.com/track/4NDFiJ2Zk3295biDFz9wSt) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [dna \(with Jordin Sparks\)](https://open.spotify.com/album/202BJY2BNtYYglnUa6uJBT) | 3:19 |
 | 45 | [How We Used To Be](https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [How We Used To Be](https://open.spotify.com/album/5maMPYNEI011eYny2uOcsO) | 3:18 |
 | 46 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 |
-| 47 | [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 |
+| 47 | [Hard to Love](https://open.spotify.com/track/4Xy5IUkDArWcbJZBJpvaJQ) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Hard to Love](https://open.spotify.com/album/0VMB9RGgCxODY6Ezx0Uc2D) | 3:39 |
 | 48 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 |
 | 49 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 50 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Birthday Candles](https://open.spotify.com/track/35mg2KWWSX3dkSOS25O54v) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Birthday Candles](https://open.spotify.com/album/1YenToGAsE92Di1G3D2Sa2) | 3:13 |
 | 100 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDczZGRhYWYyYzdjMTkzYTU4YWY4NjM2ZTdhYWI4NTMw`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDUzMzk4YjllYjFmYjQwYmYyNDc4NzUyNDBjODhmZTQw`

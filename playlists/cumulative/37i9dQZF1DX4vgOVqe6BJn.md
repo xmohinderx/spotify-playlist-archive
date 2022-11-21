@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-118 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
+119 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Don't Be Scared \(feat\. Takura\)](https://open.spotify.com/track/530JUX50nrszQU6q5RiWSw) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:58 | 2022-09-22 |  |
 | [Dreamer](https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE) | 2:52 | 2022-09-22 |  |
 | [Drive](https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Drive](https://open.spotify.com/album/5QTZrBgBPbCjskB6olU8Hg) | 3:28 | 2022-09-22 | 2022-11-09 |
+| [Drive](https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Drive](https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5) | 3:28 | 2022-09-22 |  |
 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 | 2022-09-22 |  |
 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 | 2022-09-22 |  |
 | [Feel It](https://open.spotify.com/track/4I6PEk4Mg4P1sHt3kjxD1W) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Feel It](https://open.spotify.com/album/3VgZSMJAnTTut2qI4gkAeF) | 3:51 | 2022-09-22 | 2022-10-01 |
@@ -57,7 +58,7 @@
 | [High Level](https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/221gN8YGCd9AvgolHsd2eC) | 2:39 | 2022-09-22 |  |
 | [Hurt Me](https://open.spotify.com/track/2u2nlJGXbc4cFCOSaSB0rL) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/3hyDsN7pD5tXtNTFDatTQp) | 3:23 | 2022-09-22 | 2022-10-13 |
 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 | 2022-09-22 |  |
-| [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 | 2022-09-30 |  |
+| [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 | 2022-09-30 | 2022-11-21 |
 | [i'm not okay](https://open.spotify.com/track/3GEPiS4iuMdtbtJdO5jBka) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:35 | 2022-09-22 |  |
 | [Jagna](https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Jagna](https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg) | 3:41 | 2022-09-22 |  |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-09-22 |  |

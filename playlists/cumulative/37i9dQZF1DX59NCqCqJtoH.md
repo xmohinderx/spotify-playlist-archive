@@ -4,7 +4,7 @@
 
 > We hear you.
 
-516 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+517 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-09-20 | 2022-05-21 |
 | [Breadcrumbs](https://open.spotify.com/track/3XIsyH2KHrcPCkE8wkcKX6) | [Andy Leon](https://open.spotify.com/artist/7lzWd2qQhkOvuCBsLM6GAo) | [Breadcrumbs](https://open.spotify.com/album/2MoenbLVlkYVDvc2gOXipG) | 4:08 | 2021-04-02 | 2022-04-21 |
 | [Brittle](https://open.spotify.com/track/3hnj2130ThmuKOthw825PD) | [Char Chris](https://open.spotify.com/artist/3dhWzpDCZToKwpdCMgasCW) | [Brittle](https://open.spotify.com/album/2dmoj3b4sXYIjODIXpgJB9) | 3:41 | 2021-04-02 | 2022-04-15 |
+| [Brockhampton](https://open.spotify.com/track/02YuLkTLNkOzKfl5Pmvs2S) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 4:32 | 2022-11-18 |  |
 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 | 2021-04-02 |  |
 | [Bromance](https://open.spotify.com/track/4PlvsQWAgHjSscntux5SQj) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Bromance](https://open.spotify.com/album/0zKoq6ocLENqItdg0VxMnG) | 2:02 | 2021-04-02 | 2022-04-19 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [Lost and Found](https://open.spotify.com/track/1yc79H1wfOV63IKhF7e5OF) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Lost and Found](https://open.spotify.com/album/32jPsEofo7cB4RJ5ggzcJU) | 2:36 | 2021-04-02 | 2022-04-12 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |
-| [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-11-11 |  |
+| [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2022-11-11 | 2022-11-21 |
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-10-08 | 2022-04-19 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-08-12 | 2022-09-15 |
 | [love hurts](https://open.spotify.com/track/5ZFDe85SjknlaOXEF3f2zc) | [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [love hurts](https://open.spotify.com/album/2eOi5ApV50tDp9ihQALpdM) | 2:53 | 2021-04-02 | 2022-05-02 |

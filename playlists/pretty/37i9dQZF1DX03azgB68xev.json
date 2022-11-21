@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193070,
+  "num_followers": 193067,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGNmNTEwZjE5NzZmMmJhNWYwYzhlZjNmYjY5ZmIwNzg4",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGYzZmM4NDU0M2MwNDI1NzU4YTIxZjA1MzAxYjRmMDBm",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+      "duration_ms": 205328,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "High Low",
-        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 205328,
-      "name": "High Low",
-      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "III (Reimagined)",
-        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -1199,22 +1179,46 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Glorify (feat. Toby Mac & Terrian)",
+      "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
     }
   ],
   "unique_name": "Pop for Life",

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Field Medic
 
-267 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
+268 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/79VfqS6HkEXhUlS19WFnTQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2022-04-13 | 2022-07-28 |
 | [AEIOU](https://open.spotify.com/track/3DfdycOWmEvE3StaotW2vN) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/7vSeR0JZxdfbHvaQ84kJFt) | 4:57 | 2022-04-13 | 2022-07-29 |
 | [AEIOU](https://open.spotify.com/track/5ezRobByzA1eN0bLfGGaeo) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB), [Brooklyn Youth Chorus](https://open.spotify.com/artist/1GWl4Xx2O4QywxMtxXI6mM) | [AEIOU](https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI) | 4:57 | 2022-04-29 | 2022-09-15 |
-| [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 | 2022-04-29 |  |
+| [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 | 2022-04-29 | 2022-11-21 |
 | [Air Forces](https://open.spotify.com/track/69bqljA2mItBcXom1vkjQX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/3uS8BaiM7cV3lqQ5OIpgaH) | 2:58 | 2022-04-13 | 2022-04-21 |
 | [Alice Hyatt](https://open.spotify.com/track/4L6m6KIvCodAtkX8cvFph9) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [What's New, Tomboy?](https://open.spotify.com/album/2AOoaetZMVWczRP2E18Ou7) | 2:42 | 2022-01-21 | 2022-07-25 |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-29 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 | 2022-04-29 |  |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2022-04-13 | 2022-07-28 |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-04-13 | 2022-07-28 |
+| [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 |  |
 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 | 2022-04-13 |  |
 | [zombie girl](https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:44 | 2022-01-21 |  |
 

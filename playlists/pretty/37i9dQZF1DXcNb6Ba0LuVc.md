@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,065 likes - 213 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,352 likes - 213 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 10 | [A Costa](https://open.spotify.com/track/74qtgpInZebIwsTAb2p7lr) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/44zGTrCwyKDspOhtzTKIar) | 2:12 |
 | 11 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 |
 | 12 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 |
-| 13 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 |
+| 13 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 |
 | 14 | [Late at Night](https://open.spotify.com/track/7E9D2k2LU9hqzf9Wp4IZpW) | [Tiny Anthem](https://open.spotify.com/artist/4mvPTefcTixgsLnqjwc8K2) | [Late at Night](https://open.spotify.com/album/5waBBAq9BKnpUjmEpdAC9c) | 3:00 |
 | 15 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 | 16 | [Night Blue Skies](https://open.spotify.com/track/69oebUHeibzbgcD1MUsSsl) | [Midnight Smoothie](https://open.spotify.com/artist/6f4iOB89UDwS8PToDSVkMB) | [Night Blue Skies](https://open.spotify.com/album/13kmXJCG5VJtNalpumVr0e) | 2:08 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 108 | [love in the morning sun](https://open.spotify.com/track/6RWgGlkUfIb1DKR47S49T5) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/3X32Fal5LpkL5DFOBL39BZ) | 2:02 |
 | 109 | [For a PEACE of mind](https://open.spotify.com/track/2ScMY1kpX6MZTeSBsOYtg5) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [For a PEACE of mind](https://open.spotify.com/album/66uqRIaXvvPVTlJMPJ0I09) | 2:16 |
 | 110 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 |
-| 111 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 |
+| 111 | [Pear Pressure](https://open.spotify.com/track/29wKNESopFM6xHw0V0CGIw) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/6vr9gIYIHRXAsueGNLMK4k) | 2:22 |
 | 112 | [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 |
 | 113 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 |
 | 114 | [Carajillo](https://open.spotify.com/track/2IMBbincKzb9X0N3phueCk) | [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid) | [Carajillo](https://open.spotify.com/album/3YTez8YVKUJJR95W1DYeSV) | 1:49 |
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 180 | [Kickers & Curbs](https://open.spotify.com/track/5wtHOgqZrDGthuxu22Ezxx) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Kickers & Curbs](https://open.spotify.com/album/4e30gdx3YwHfuPOs8m1j9E) | 1:51 |
 | 181 | [Sakura Swing](https://open.spotify.com/track/7kIaI2ibCp2mMNHCO25lgn) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Sakura Swing](https://open.spotify.com/album/6lfROtvEjk7t1VTzfvc4T8) | 3:32 |
 | 182 | [The Daily Special](https://open.spotify.com/track/5dcMlKN1C2ClRibYqMQ9K4) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Solar Daze](https://open.spotify.com/album/7oGRn9KKdNkyl2zfox62Vm) | 2:12 |
-| 183 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 |
+| 183 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 |
 | 184 | [Desert Mustang](https://open.spotify.com/track/3DBNG6S3TzIqzuBul1n9jd) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pomegranate Beaches](https://open.spotify.com/album/5GFcwOXqDCLv73W91FVogB) | 2:24 |
 | 185 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
 | 186 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 196 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 |
 | 197 | [Fountain of Youth](https://open.spotify.com/track/6qV7mgZJ93bfPlECJ8cp8j) | [fwn.](https://open.spotify.com/artist/1Fqwbp1tTD8kx2CmB8j6tu), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Fountain of Youth](https://open.spotify.com/album/6V8htjUIh2ovsKFHb5CbZn) | 2:13 |
 | 198 | [Good Life](https://open.spotify.com/track/3qRWNLXIMrxZOrld6JiOco) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:05 |
-| 199 | [Verão](https://open.spotify.com/track/72rhfLBwRG8Px3dFDtdGWc) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/2KAExA9jGiDulUnV1NAom4) | 2:35 |
+| 199 | [Verão](https://open.spotify.com/track/1CsyRF8KNY7c9hZezar55d) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/6yKNDEcv2JZ36kUFMsE3CJ) | 2:35 |
 | 200 | [Just Chillin](https://open.spotify.com/track/6T1zioLOmigDyfB3wyX2x6) | [Johnny Everly](https://open.spotify.com/artist/7oln2CG62XuWwTnfd8FzH9) | [Just Chillin](https://open.spotify.com/album/5v9OaK3DHoTq4CgWBIGJkL) | 2:12 |
 | 201 | [Roses and Birds.](https://open.spotify.com/track/71aKz9AODYPgi9L9xyRfZG) | [Arlie P](https://open.spotify.com/artist/5QkBNJ0KWZ5tHybx5eHYOu) | [Roses and Birds.](https://open.spotify.com/album/1l3SkDIMzEvKCBzgHYngHQ) | 2:14 |
 | 202 | [Poolside](https://open.spotify.com/track/6PslwiDDiwfIq5iuZ01Pm9) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Poolside](https://open.spotify.com/album/5fkOOREIyQWdpq3Hzo44yx) | 1:12 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 213 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMGY4YmU3NTI0YTBhNzE4MTVkYmVjOWY2NTczODZmOGY0`
+Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMDE0MmRhYmViYjk5MmIyNmYzYTA0ZjQ5ZmVkYjIzMzIw`

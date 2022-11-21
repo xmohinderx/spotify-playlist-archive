@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-311 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+312 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/5sJFvB6DpUw3hBtGDOFBXE) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/4TRdjgekcPOLvGklngJiVc) | 2:46 | 2021-12-23 | 2022-07-29 |
 | [Scars](https://open.spotify.com/track/1EdktpB83X3KfUavH6Vf7b) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Scars](https://open.spotify.com/album/0yPPQFsu18ZvricvGcULjZ) | 3:50 | 2021-12-23 | 2022-07-29 |
 | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/track/3IrBRRFdG4aPWAoGllIqHU) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Seasons \(feat\. Nenashi\)](https://open.spotify.com/album/1vHS4sfFRx5XmNiIz07TJO) | 3:25 | 2022-03-24 | 2022-06-18 |
-| [Self Voodoo](https://open.spotify.com/track/3bzXiqsNRSLNBpFNRM4l0a) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Self Voodoo](https://open.spotify.com/album/2etUfe2zN46ky5EFNY4j6T) | 2:49 | 2022-10-27 |  |
+| [Self Voodoo](https://open.spotify.com/track/3bzXiqsNRSLNBpFNRM4l0a) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [Self Voodoo](https://open.spotify.com/album/2etUfe2zN46ky5EFNY4j6T) | 2:49 | 2022-10-27 | 2022-11-21 |
+| [Self Voodoo](https://open.spotify.com/track/7BlWbTMkXIFiIgewaTQqf1) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk) | [All Rivers](https://open.spotify.com/album/4sE9YpuUHkoVFQrsN7NTTx) | 2:49 | 2022-11-17 |  |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2021-12-23 | 2022-07-27 |
 | [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2022-07-28 |  |
 | [Sentiment](https://open.spotify.com/track/6nxO1eTD64Dodjy04YMJCF) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/0iKRPPeWPnsP6Ft48G10P9) | 3:53 | 2022-02-24 | 2022-07-29 |

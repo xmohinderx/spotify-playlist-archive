@@ -4,7 +4,7 @@
 
 > Nothing but the best modern country music\. Cover: Nate Smith
 
-328 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+329 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 | 2022-09-02 | 2022-10-15 |
 | [AA](https://open.spotify.com/track/6aIrXGmaFqPafbYgxbMUsj) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 3:09 | 2022-01-21 | 2022-01-29 |
 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 |  |
+| [Ain't Like Me](https://open.spotify.com/track/07k48fi5DxcVuLC0VHz3oE) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Party In The Back](https://open.spotify.com/album/59nmdA2FySwbzYkZiboJ4L) | 2:54 | 2022-11-18 |  |
 | [Ain't Like Me](https://open.spotify.com/track/5KTh8rAnac5XrZ9pm2KXZq) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Ain't Like Me](https://open.spotify.com/album/6eLGa9wM5Ua0h1qQkz2C7L) | 2:54 | 2022-04-08 | 2022-07-29 |
-| [Ain't Like Me](https://open.spotify.com/track/5XbhQuCnEv2EzTVGoyLAEj) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Ain't Like Me](https://open.spotify.com/album/3FZO63AzhNptwUosUwgFpc) | 2:54 | 2022-07-22 |  |
+| [Ain't Like Me](https://open.spotify.com/track/5XbhQuCnEv2EzTVGoyLAEj) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Ain't Like Me](https://open.spotify.com/album/3FZO63AzhNptwUosUwgFpc) | 2:54 | 2022-07-22 | 2022-11-21 |
 | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Ain't the Same \(feat\. 98°\)](https://open.spotify.com/album/1Lcn4LF9y54gMTM3Vy4ZRS) | 3:08 | 2022-04-22 | 2022-09-17 |
 | [All Night](https://open.spotify.com/track/54dEctyawPXA7WsakKPrNL) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [All Night](https://open.spotify.com/album/53kNGz1qGKuHNOFYxGPZVs) | 2:52 | 2022-04-29 | 2022-09-03 |
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 | 2022-09-17 |

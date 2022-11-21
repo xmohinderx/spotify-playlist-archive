@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,975 likes - 300 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,040 likes - 300 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 161 | [Lifelike Figures](https://open.spotify.com/track/2NmdoCM6MIkKTKWYQaiZGc) | [Multicolor Vowels](https://open.spotify.com/artist/7Ll3x4zA90V5UkSUf3EtDX) | [Looking Up](https://open.spotify.com/album/0Ke4WK296drZDOwSZeBUA9) | 2:38 |
 | 162 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |
 | 163 | [The Little Things](https://open.spotify.com/track/7AoMssgMP6vK7QPrKg4wkf) | [Headie Nines](https://open.spotify.com/artist/2gGo4Y4A7rKSSIRAfXxYyu) | [The Little Things](https://open.spotify.com/album/3DvppFZflvsgmMH6RzkChO) | 2:29 |
-| 164 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 |
+| 164 | [Pear Pressure](https://open.spotify.com/track/29wKNESopFM6xHw0V0CGIw) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/6vr9gIYIHRXAsueGNLMK4k) | 2:22 |
 | 165 | [So Addictive](https://open.spotify.com/track/2BDKKL4We7h8JwGk4NWpE5) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [So Addictive](https://open.spotify.com/album/5YoehEM1Hr5aE4gtrkN95m) | 3:12 |
 | 166 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 |
 | 167 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMGQ4N2M0ZDE4ZDFkYTkzNTJkOTJlMjEwMDI3YzhkN2I0`
+Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMGM4MDVhNDg1YWQ1MWY3YTY2OTlkNDFhNWUyMDNkOTg0`

@@ -4,7 +4,7 @@
 
 > With autumn comes darker days and colder weather.
 
-307 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/0ZYpBWkMbWIgKuZRtQFkdd)
+308 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/0ZYpBWkMbWIgKuZRtQFkdd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Calmative](https://open.spotify.com/track/6k1DasduiT5LjawgYPg3pF) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO) | 3:42 | 2019-10-07 | 2022-07-29 |
 | [Charles](https://open.spotify.com/track/1RoFpgEJ8VT6dDVcmuqeam) | [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH) | [Café del Mar 35th Anniversary \(1980\-2015\)](https://open.spotify.com/album/4eIrWkH0gh7MfShOg4oJTZ) | 6:17 | 2022-09-27 | 2022-11-13 |
 | [Charles](https://open.spotify.com/track/3OsBbIwYl6juCO5AZvzGIK) | [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH) | [Beanfield](https://open.spotify.com/album/03HlGSi5iTjitt1dSXk3dB) | 6:20 | 2019-10-07 | 2022-07-29 |
-| [Charles](https://open.spotify.com/track/5kjoBVjxyIvxbl3kwgubH8) | [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH) | [Beanfield](https://open.spotify.com/album/2I7stGBwrFJxtg37whLxvj) | 6:20 | 2019-10-07 |  |
+| [Charles](https://open.spotify.com/track/5kjoBVjxyIvxbl3kwgubH8) | [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH) | [Beanfield](https://open.spotify.com/album/2I7stGBwrFJxtg37whLxvj) | 6:20 | 2019-10-07 | 2022-11-21 |
+| [Charles](https://open.spotify.com/track/6tHe3Wh0lmuvbvEKS8B7sX) | [Beanfield](https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH) | [Beanfield](https://open.spotify.com/album/6d7iZSJBM3GlVWF7LX8AWJ) | 6:20 | 2022-09-27 |  |
 | [Clear Sky](https://open.spotify.com/track/3rvNNaoCyHMQpTxvaPM2ko) | [Sunscreen](https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2) | [Sunbed Chill Out \(Best Of 2014\-2016\)](https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R) | 5:53 | 2019-10-07 | 2022-07-29 |
 | [Clear Sky](https://open.spotify.com/track/6lkmtKLtuXXgq57mUZbUAd) | [Sunscreen](https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2) | [Sunbed Chill Out Vol\. 1](https://open.spotify.com/album/6Wf8QeSOXF5kghQk99DpZb) | 5:53 | 2019-10-07 |  |
 | [Cool Hot Love](https://open.spotify.com/track/3K5iMtqjpefs3MvxUd9EXd) | [4 PM](https://open.spotify.com/artist/6n4LC99DYefuU6icCPk1zU) | [By The Seaside \(Vol 1\)](https://open.spotify.com/album/69UR42xROShbe69CoqCjSI) | 4:00 | 2019-10-07 |  |

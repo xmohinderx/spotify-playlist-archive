@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,206 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,270 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 3 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 |
 | 4 | [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 |
 | 5 | [Corner House](https://open.spotify.com/track/77zVEDRU3U5RtgtukAxIPQ) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Corner House](https://open.spotify.com/album/3L08I0qiASk86BkiNAQh4b) | 2:30 |
-| 6 | [Limoncello](https://open.spotify.com/track/3y69a6CepJM4Z4tVTNiyv7) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:34 |
+| 6 | [Limoncello](https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:34 |
 | 7 | [Don't Check Me](https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 2:45 |
 | 8 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 | 9 | [I Can't](https://open.spotify.com/track/3f9wbU2d3wjWuikyhZGFIp) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Killa Cam](https://open.spotify.com/artist/4pr3PuSCMEUzZSTPvxJqt7), [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ) | [I Can't](https://open.spotify.com/album/381kTih0S6k1pQKBuIzf5o) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 49 | [Gang Gang](https://open.spotify.com/track/41OQzTfVOGpI5F1LZFxS4s) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG) | [G Way 3](https://open.spotify.com/album/7hhRY1PXp3mnJy0pchCX04) | 2:57 |
 | 50 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDQ0ZmJhNzk5NWRjMjU3MTQ4ZjgxM2VkODY5YTM2MjQ0`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDY3NTI4MWU0OTE4NmFjZDk5ZjJiY2MwOWViY2IwYWQz`

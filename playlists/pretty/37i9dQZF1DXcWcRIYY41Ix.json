@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: \u00c1lex Eugenio.",
-  "num_followers": 97452,
+  "num_followers": 97507,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMDA1OGU4YzRhOWQ4MTIyMDg3MWNkZTM3MDFlYzM2ODg0",
+  "snapshot_id": "MTY2ODc1MTIwMCwwMDAwMDAwMDcyNDlhZDEyMmI2Njg0MmFiOTUwZjc5NjU4ODNmM2Ri",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "El Siglo del Loro",
         "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 100253,
       "name": "Ponme",
       "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 188769,
       "name": "La Aguja",
       "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo"
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
       "artists": [
         {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 270049,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     }
   ],
   "unique_name": "Cancionistas",

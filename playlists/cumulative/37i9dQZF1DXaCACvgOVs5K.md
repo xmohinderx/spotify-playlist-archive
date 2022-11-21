@@ -4,7 +4,7 @@
 
 > Ibiza season is back for 2022\. Let's dance!
 
-114 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/6Sj7A3m3iitpInsJSHHl3W)
+115 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/6Sj7A3m3iitpInsJSHHl3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-26 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |
 | [Feel The Heat](https://open.spotify.com/track/3r9CbJJKdAQ1Djfu932w22) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel The Heat](https://open.spotify.com/album/3mDPmJJwXuTE8azVXFBD7n) | 2:44 | 2022-08-26 |  |
+| [Feel The Vibe](https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Astrotrax](https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Feel The Vibe](https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm) | 3:05 | 2022-08-26 |  |
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-08-26 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-08-26 |  |
 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 | 2022-08-26 |  |
@@ -80,7 +81,7 @@
 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 | 2022-08-26 |  |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 | 2022-08-26 |  |
 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 | 2022-08-26 |  |
-| [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-08-26 |  |
+| [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2022-08-26 | 2022-11-21 |
 | [On My Mind](https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:09 | 2022-08-26 |  |
 | [Peaches & Cream](https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Peaches & Cream](https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36) | 3:18 | 2022-08-26 |  |
 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 | 2022-08-26 |  |

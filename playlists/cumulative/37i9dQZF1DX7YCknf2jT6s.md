@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Grace Kelly
 
-615 songs - 2 day 1 hr 54 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
+616 songs - 2 day 1 hr 57 min - [published](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/track/7atmsefAJDBe9Sq3fzWGiz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [MB \(for Ma’Khia Bryant\)](https://open.spotify.com/album/3OjIvO3LxyUUSsq6JMHmBT) | 5:33 | 2022-07-29 | 2022-09-17 |
 | [Michael Franks](https://open.spotify.com/track/5g5BKnkFRPbNLy8VitcGk8) | [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Radio Live Stream](https://open.spotify.com/album/0RuDQmcuq6knk2TXz8ZJET) | 3:06 | 2021-12-23 | 2022-01-07 |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-08-12 | 2022-09-24 |
-| [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 | 2022-09-02 |  |
+| [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 | 2022-09-02 | 2022-11-21 |
+| [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2022-09-02 |  |
 | [Miscellaneous \(Live\)](https://open.spotify.com/track/13EHxipY8tNTgJBtOrVMQi) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 3:22 | 2022-02-18 | 2022-04-29 |
 | [Miss Kane](https://open.spotify.com/track/3b5bgnDoFfVv4tbg8gbQlO) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Miss Kane](https://open.spotify.com/album/5HzRLKWt1K2eCNP1RMwOoX) | 4:15 | 2022-08-19 |  |
 | [Miss Psilo](https://open.spotify.com/track/3pRDe0XJ9fFVnExfNPGuWD) | [Jerk](https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf) | [Miss Psilo](https://open.spotify.com/album/2MiZZhxNdvCJ4D1jaWMeJt) | 3:34 | 2022-10-07 |  |

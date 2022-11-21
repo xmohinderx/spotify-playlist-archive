@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 121844,
+  "num_followers": 121872,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMGE0YmJiMGY5NjNiNDBmZjQwZDk3ZGU4YzY2ZDllYzg3",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMGU2YTI3OGMzMzcxMmQyYjIxOTA3YzMwNGRmNWZmZDkx",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "Caf\u00e9 Caf\u00e9",
+        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
+      },
+      "artists": [
+        {
+          "name": "Radio Jarocho",
+          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Caf\u00e9 Caf\u00e9",
+      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
         "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 130493,
       "name": "El Siquisiri",
       "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Caf\u00e9 Caf\u00e9",
-        "url": "https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S"
-      },
-      "artists": [
-        {
-          "name": "Radio Jarocho",
-          "url": "https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Caf\u00e9 Caf\u00e9",
-      "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "El tilingo",
-      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "La Ruta del Son Mexicano",
         "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 271040,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "El tilingo",
+      "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Nuestro Mexico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
-      },
-      "artists": [
-        {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
-        }
-      ],
-      "duration_ms": 342933,
-      "name": "Musica De Mi Tierra-Mexico Lindo Y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa-Mexico Lindo Y Querido",
-      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Vamos A La Fiesta",
         "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Nuestro Mexico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+      },
+      "artists": [
+        {
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+        }
+      ],
+      "duration_ms": 342933,
+      "name": "Musica De Mi Tierra-Mexico Lindo Y Querido-Cielito Lindo-La Pajarera-All\u00e1 En El Rancho Grande-La Raspa-Mexico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/6454lzNH5DaY3jP570hrJ2"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
-        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW"
       },
       "artists": [
         {
-          "name": "Dueto Caleta",
-          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 158066,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
+      "duration_ms": 201680,
+      "name": "El toro viejo",
+      "url": "https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
+        "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
+      },
+      "artists": [
+        {
+          "name": "Dueto Caleta",
+          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Sones Ra\u00edces",
         "url": "https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 127333,
       "name": "El Colirio",
       "url": "https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Las Ma\u00f1anitas",
-        "url": "https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "El toro viejo",
-      "url": "https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Pasi\u00f3n Huasteca",
-        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
-      },
-      "artists": [
-        {
-          "name": "Macuilxochitl",
-          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
-        }
-      ],
-      "duration_ms": 170493,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "No Tiene Fin",
         "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 317133,
       "name": "La Herlinda",
       "url": "https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Pasi\u00f3n Huasteca",
+        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
+      },
+      "artists": [
+        {
+          "name": "Macuilxochitl",
+          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos R\u00edos",
-          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Antolog\u00eda de la M\u00fasica P'urhepecha Vol. VIII",
         "url": "https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 194680,
       "name": "Los Once Pueblos (Eraxamani)",
       "url": "https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos R\u00edos",
+          "url": "https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1699,30 +1699,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
-        }
-      ],
-      "duration_ms": 181465,
-      "name": "Ansia Marimba",
-      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 100395,
       "name": "Huapango 2010",
       "url": "https://open.spotify.com/track/2t6Egk8teqWy5U4OkB1Hap"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        }
+      ],
+      "duration_ms": 181465,
+      "name": "Ansia Marimba",
+      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
     },
     {
       "added_at": "2022-08-31 15:41:18",

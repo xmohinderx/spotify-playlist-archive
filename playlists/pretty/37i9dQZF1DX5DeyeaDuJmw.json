@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 120719,
+  "num_followers": 120666,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDdlZjE4YzU1NDZmZTQ0ODViZTg4MWU2YzAyZGRkMmU3",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGUyMzhmM2ZmMzNmMDc4NTk0OTY1YWJhNDJhMDJhZDMw",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Dimelo Ma",
-        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Dimelo Ma",
-      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "BLUNTED 5 (Remix)",
         "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
       },
@@ -1143,18 +1123,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Pantano",
-        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
+        "name": "Dimelo Ma",
+        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
       },
       "artists": [
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Pantano",
-      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
+      "duration_ms": 173187,
+      "name": "Dimelo Ma",
+      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Pantano",
+        "url": "https://open.spotify.com/album/0L5lmyKYKfGn99wSCYS4Ad"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/1a7P6xiwNHCMi21paaOPl7"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/70VKqWL5FWgipcGP9ugXBw"
       },
@@ -1191,30 +1191,6 @@
       "duration_ms": 240306,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Farandulera",
-        "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        }
-      ],
-      "duration_ms": 254689,
-      "name": "Farandulera",
-      "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1255,6 +1231,46 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Farandulera",
+        "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "duration_ms": 254689,
+      "name": "Farandulera",
+      "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Rata Tan Tan",
+        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 152731,
+      "name": "Rata Tan Tan",
+      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "La Jeepeta",
         "url": "https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Rata Tan Tan",
-        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 152731,
-      "name": "Rata Tan Tan",
-      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "INMORTALES",
         "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
       },
@@ -1311,6 +1311,26 @@
       "duration_ms": 155000,
       "name": "TOTA",
       "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Las Naik",
+        "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 175258,
+      "name": "Las Naik",
+      "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1343,26 +1363,6 @@
       "duration_ms": 275241,
       "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
       "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Las Naik",
-        "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 175258,
-      "name": "Las Naik",
-      "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
-      },
-      "artists": [
-        {
-          "name": "Pusho",
-          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 224267,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 220310,
       "name": "It's a Vibe",
       "url": "https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
+      },
+      "artists": [
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 224267,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "No Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "No Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Guayo",
         "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "No Me Equivoqu\u00e9",
-        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "No Me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 194579,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "ANHMATSV",
         "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 174666,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 194579,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Cerrando Cap\u00edtulo",
-        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 172054,
-      "name": "Coraz\u00f3n Ego\u00edsta",
-      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Antonio",
         "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 187411,
       "name": "Ansioso",
       "url": "https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Cerrando Cap\u00edtulo",
+        "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 172054,
+      "name": "Coraz\u00f3n Ego\u00edsta",
+      "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
     },
     {
       "added_at": "2022-11-18 03:00:00",

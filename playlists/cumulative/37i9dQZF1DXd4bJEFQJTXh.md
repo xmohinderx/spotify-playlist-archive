@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-191 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,8 +141,9 @@
 | [Room For You \- Original Song from Clifford The Big Red Dog performed by Madison Beer](https://open.spotify.com/track/1haivuHgqfSo4KMfXFEiZH) | [Clifford The Big Red Dog](https://open.spotify.com/artist/6TOPat9EQ0djnOhHy6syi2) | [Room For You \(Original Song from Clifford The Big Red Dog performed by Madison Beer\)](https://open.spotify.com/album/0Nve7kcH28BGuR3t5BOGaS) | 2:50 | 2022-03-25 |  |
 | [Scooby\-Doo, Where Are You?](https://open.spotify.com/track/72Wnt432yCa6SXVcC8DB0K) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [SCOOB! \(Original Motion Picture Score\)](https://open.spotify.com/album/4KL8ojXg68NbS1wXbhHUrh) | 1:25 | 2022-03-25 |  |
 | [Sh\-Boom](https://open.spotify.com/track/0qlLEZdBA4DsOHZz9HZjD5) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Oldies Hits](https://open.spotify.com/album/01jEdlExRQM7nPYF8UJQDr) | 2:24 | 2022-03-25 | 2022-11-13 |
+| [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 | 2022-03-25 |  |
 | [Sh\-Boom](https://open.spotify.com/track/7Hi0AyrsS4KSkVotGRI2gk) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Cars \(Versión de Colección\)](https://open.spotify.com/album/5fn6VH2E4CipGPG9NkBytd) | 2:25 | 2022-03-25 | 2022-07-29 |
-| [Sh\-Boom](https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Doo Wop Classics, Vol\. 6](https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX) | 2:27 | 2022-03-25 |  |
+| [Sh\-Boom](https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Doo Wop Classics, Vol\. 6](https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX) | 2:27 | 2022-03-25 | 2022-11-21 |
 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 | 2022-03-25 |  |
 | [Shiny](https://open.spotify.com/track/1IZwCzAmaFmmdJj0cmhaax) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:05 | 2022-03-25 | 2022-11-14 |
 | [Shiny](https://open.spotify.com/track/3iGBEhd5POWz2B1YsRcyD0) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6WcwTfjz7H5SPRFF4Hf7g5) | 3:05 | 2022-03-25 | 2022-07-29 |

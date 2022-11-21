@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Stella Jang\(스텔라장\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Lucid Fall\(루시드폴\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-418 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+419 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 | 2022-09-27 |  |
 | [Just another breakup song \(with Yun DDanDDan of 2016\)](https://open.spotify.com/track/7rTVQk8fang6utPONH93NV) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Old Pieces](https://open.spotify.com/album/4xzSvcmwdc0CHsRh3vPBJT) | 3:50 | 2022-06-09 | 2022-06-14 |
 | [Just thinking about you](https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Just thinking about you](https://open.spotify.com/album/5Svdk66Dvkf51EyVQCIf5u) | 3:38 | 2021-12-10 | 2022-07-24 |
-| [KeeB Going](https://open.spotify.com/track/06BqqEcWYMAw2KexwfjSNW) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [KeeB Going](https://open.spotify.com/album/2lSRYdUmYfIP6mDZVI3AFb) | 1:47 | 2022-11-11 |  |
+| [KeeB Going](https://open.spotify.com/track/06BqqEcWYMAw2KexwfjSNW) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [KeeB Going](https://open.spotify.com/album/2lSRYdUmYfIP6mDZVI3AFb) | 1:47 | 2022-11-11 | 2022-11-21 |
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 | 2022-07-29 |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |
@@ -278,6 +278,7 @@
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 |  |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |
+| [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 |  |
 | [Sappy Love Song](https://open.spotify.com/track/003Z3hDiS7KMpstUZDVBVF) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Sappy Love Song](https://open.spotify.com/album/32V0RRuEcdnpY1DL1ln5iT) | 3:18 | 2021-12-10 | 2022-04-10 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2021-12-10 | 2022-07-27 |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |

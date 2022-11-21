@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-101 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+102 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Lo Siento Mi Amor](https://open.spotify.com/track/4NtwvBrXStiOyN1xOJ1mUR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:34 | 2020-09-10 | 2022-07-29 |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:35 | 2020-09-10 |  |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 | 2020-09-10 | 2022-07-29 |
-| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2020-09-10 |  |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2020-09-10 | 2022-11-21 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/0wqvXVSwZPQXSsZOUdPp1K) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/35FMUuGODtyT4i6OcU4tCT) | 3:17 | 2020-09-10 | 2022-11-13 |
+| [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2020-09-10 |  |
 | [Maracas](https://open.spotify.com/track/3nKCBdEMj46mWNt2p4hFAq) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Los Mejores Duetos De](https://open.spotify.com/album/5AgB60Z3LgBvN4tIvw9Xd3) | 3:09 | 2020-09-10 | 2022-07-29 |
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2020-09-10 |  |
 | [Maracas](https://open.spotify.com/track/5CrzFDK0cq8ATv6fMwcbQc) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Las Meritas Rolas](https://open.spotify.com/album/5YFS2n2pOsK6pALUUeTKi2) | 3:08 | 2020-09-10 | 2022-11-13 |

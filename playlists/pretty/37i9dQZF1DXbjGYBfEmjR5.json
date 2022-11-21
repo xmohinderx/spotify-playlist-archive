@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 245246,
+  "num_followers": 245414,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMGRhYzMzY2IyMWE3Yjc3NDQ2MDIzMjAwMjVmN2JlMWQw",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDI1YTAwMmEyODg5YjdhNzJlMjUyNTAwODRjMjQ4NjQw",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
+      },
+      "artists": [
+        {
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
+        }
+      ],
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 145312,
       "name": "Idols",
       "url": "https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
-      },
-      "artists": [
-        {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1103,40 +1103,8 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Nautical Nonsense",
-        "url": "https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm"
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
       "artists": [
         {
@@ -1144,9 +1112,25 @@
           "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Show Me Your Moves",
-      "url": "https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a"
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1163,6 +1147,22 @@
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Super Groove Love Club",
-        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Super Groove Love Club",
-      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Super Groove Love Club",
+        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Super Groove Love Club",
+      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 226874,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1283,6 +1267,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
@@ -1295,6 +1299,22 @@
       "duration_ms": 183750,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 245882,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1315,18 +1335,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Lynx",
-        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "Pure Gem",
+          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
         }
       ],
-      "duration_ms": 245882,
-      "name": "Lynx",
-      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
+      "duration_ms": 141145,
+      "name": "Shiny Shiny",
+      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1351,54 +1371,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
       "artists": [
         {
-          "name": "Pure Gem",
-          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
         }
       ],
-      "duration_ms": 141145,
-      "name": "Shiny Shiny",
-      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Asteriod",
-        "url": "https://open.spotify.com/album/69MxbIQjR3do4AcpCM2Ndp"
-      },
-      "artists": [
-        {
-          "name": "Chrylo",
-          "url": "https://open.spotify.com/artist/1aMHe9PtM7QWfGRccCrU5q"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Asteriod",
-      "url": "https://open.spotify.com/track/2tDEvQX8TTkXPvi1cMWgVW"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+        "name": "Nautical Nonsense",
+        "url": "https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm"
       },
       "artists": [
         {
           "name": "Engelwood",
           "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
         }
       ],
-      "duration_ms": 128399,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
+      "duration_ms": 153652,
+      "name": "Show Me Your Moves",
+      "url": "https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+        "name": "Asteriod",
+        "url": "https://open.spotify.com/album/69MxbIQjR3do4AcpCM2Ndp"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+          "name": "Chrylo",
+          "url": "https://open.spotify.com/artist/1aMHe9PtM7QWfGRccCrU5q"
         }
       ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+      "duration_ms": 156375,
+      "name": "Asteriod",
+      "url": "https://open.spotify.com/track/2tDEvQX8TTkXPvi1cMWgVW"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "First Season",
         "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Nautical Nonsense",
-        "url": "https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 150024,
-      "name": "Funky Zeit",
-      "url": "https://open.spotify.com/track/1Dq5LzBRvbeDNqwZzBVKvQ"
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1683,34 +1683,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "Nautical Nonsense",
+        "url": "https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
         }
       ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 150024,
+      "name": "Funky Zeit",
+      "url": "https://open.spotify.com/track/1Dq5LzBRvbeDNqwZzBVKvQ"
     },
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Strike!",
-        "url": "https://open.spotify.com/album/3tzQ2dCK6WK9ytIHRgzc4G"
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
       "artists": [
         {
-          "name": "Snowdream",
-          "url": "https://open.spotify.com/artist/2WkJ2Z45dn0LIj3E5s1sSb"
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Strike!",
-      "url": "https://open.spotify.com/track/3oB0rVqdnZ2qExIi1ADioK"
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     }
   ],
   "unique_name": "Future Funk",

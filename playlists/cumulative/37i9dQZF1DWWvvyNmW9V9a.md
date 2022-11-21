@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> The 2000+ people ahead of me in line is not the breeze in my hair on the weekend
+> I can still make the whole place SHIMMMMMMER
 
 558 songs - 1 day 4 hr 46 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 

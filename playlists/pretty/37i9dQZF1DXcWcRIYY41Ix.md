@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Álex Eugenio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,452 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,507 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 72 | [Niña de mis ojos](https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 5:12 |
 | 73 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 |
 | 74 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 |
-| 75 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 |
-| 76 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 |
+| 75 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 |
+| 76 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 |
 | 77 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 |
 | 78 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
 | 79 | [Rumba en Cahuita](https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf) | 2:47 |
 | 80 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
 | 81 | [Tu Casa](https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu Casa](https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH) | 3:20 |
 | 82 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 |
-| 83 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
-| 84 | [La Aguja](https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 3:08 |
+| 83 | [La Aguja](https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 3:08 |
+| 84 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
 | 85 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 |
 | 86 | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Despedida \(feat\. Valeria Castro\)](https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm) | 3:38 |
 | 87 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 97 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
 | 98 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
 | 99 | [Corazoncito Mío](https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 3:15 |
-| 100 | [Claroscuro](https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Claroscuro](https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo) | 4:30 |
+| 100 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
 
-Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDA1OGU4YzRhOWQ4MTIyMDg3MWNkZTM3MDFlYzM2ODg0`
+Snapshot ID: `MTY2ODc1MTIwMCwwMDAwMDAwMDcyNDlhZDEyMmI2Njg0MmFiOTUwZjc5NjU4ODNmM2Ri`

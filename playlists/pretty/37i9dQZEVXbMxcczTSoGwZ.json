@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 131846,
+  "num_followers": 131883,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIyMTc2Nzk4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyMjU5MjU5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Ihana kipu",
         "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "My love & homie",
         "url": "https://open.spotify.com/album/7tPPPHCyPzRgAiYzxapWlj"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/2Xt73nX1u3QHzJmQlpuGMP"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Sun takii",
         "url": "https://open.spotify.com/album/05NutfwAQPoswnCT1g7bRV"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/3dMSUouXkSMQRxrn5tQFB6"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Sen pituinen se (feat. Kiki)",
         "url": "https://open.spotify.com/album/49D3EeuhiTRjIHT8o1tqqN"
@@ -141,27 +141,7 @@
       "url": "https://open.spotify.com/track/79Hll9uh2wBbKqDJc4LuXl"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Yksinkertasta (feat. Costi)",
-        "url": "https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy"
-      },
-      "artists": [
-        {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 182211,
-      "name": "Yksinkertasta (feat. Costi)",
-      "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Tippa-T",
         "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
@@ -181,7 +161,63 @@
       "url": "https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Yksinkertasta (feat. Costi)",
+        "url": "https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 182211,
+      "name": "Yksinkertasta (feat. Costi)",
+      "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Magaluf",
+        "url": "https://open.spotify.com/album/26rG3cfmL07TaJymnczwd4"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "duration_ms": 169445,
+      "name": "Magaluf",
+      "url": "https://open.spotify.com/track/66uNjN5dWYiyJ6I4GttOgg"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Aktiverad (feat. Turisti, DAVI & Nebi)",
         "url": "https://open.spotify.com/album/7Ez6knBilI0ksP6BUgK6oG"
@@ -209,43 +245,7 @@
       "url": "https://open.spotify.com/track/7jWTlHrI7yiqOrXekfVPW2"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Magaluf",
-        "url": "https://open.spotify.com/album/26rG3cfmL07TaJymnczwd4"
-      },
-      "artists": [
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        },
-        {
-          "name": "Jami Faltin",
-          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
-        }
-      ],
-      "duration_ms": 169445,
-      "name": "Magaluf",
-      "url": "https://open.spotify.com/track/66uNjN5dWYiyJ6I4GttOgg"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Ne otti hoon pois",
-      "url": "https://open.spotify.com/track/3MekCg06LOHRmSI3HLM7cO"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Sammumaton / Ram pam pam (English version)",
         "url": "https://open.spotify.com/album/70CtDYgaNgKHl6B9jo7RII"
@@ -297,7 +281,39 @@
       "url": "https://open.spotify.com/track/7BI3gFHdPNtstVEetNx7w6"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Reiviluola",
+      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Tulipalo",
+        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 183806,
+      "name": "Tulipalo",
+      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "DEEP DOWN (feat. Costi)",
         "url": "https://open.spotify.com/album/7DoCR048Uthto8y9NkYjOC"
@@ -317,23 +333,23 @@
       "url": "https://open.spotify.com/track/2h9FYDFYIScQ4dHtsL70gn"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
-        "name": "Tulipalo",
-        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
+        "name": "Mun tapa pelata",
+        "url": "https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK"
       },
       "artists": [
         {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
         }
       ],
-      "duration_ms": 183806,
-      "name": "Tulipalo",
-      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
+      "duration_ms": 121960,
+      "name": "Amatimies",
+      "url": "https://open.spotify.com/track/0WzmYcHhfkchwvZagvItxK"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "L\u00f6yly\u00e4 liss\u00e4\u00e4 (feat. JVG)",
         "url": "https://open.spotify.com/album/1TVdx8E2Aq9fyGh8dkgtPF"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/77Xs6TA4v3Eems2C0fM1sR"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Makso Mit\u00e4 Makso",
         "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
@@ -373,23 +389,7 @@
       "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
-      },
-      "artists": [
-        {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Reiviluola",
-      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -409,23 +409,55 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
-        "name": "Mun tapa pelata",
-        "url": "https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK"
+        "name": "Vastustamaton",
+        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
       },
       "artists": [
         {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
         }
       ],
-      "duration_ms": 121960,
-      "name": "Amatimies",
-      "url": "https://open.spotify.com/track/0WzmYcHhfkchwvZagvItxK"
+      "duration_ms": 179444,
+      "name": "Ne otti hoon pois",
+      "url": "https://open.spotify.com/track/3MekCg06LOHRmSI3HLM7cO"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Villiel\u00e4in",
+        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Villiel\u00e4in",
+      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Sekavaa ja hiton vaikeet",
         "url": "https://open.spotify.com/album/0NVcNe049YbVzoiV5kfQ1X"
@@ -441,7 +473,71 @@
       "url": "https://open.spotify.com/track/6bwGTXDFEoW3d6W6kE1LMT"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Vastustamaton",
+        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 158748,
+      "name": "Kombo",
+      "url": "https://open.spotify.com/track/05Fn1zIHdLdG6zLZaU4ugU"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Leffa",
         "url": "https://open.spotify.com/album/2K1QT0iPEOEewwEJQqmApV"
@@ -469,103 +565,23 @@
       "url": "https://open.spotify.com/track/32lTOYfEDhk8tfCNULYk4v"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Ram pam pam",
+        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 179878,
+      "name": "Ram pam pam",
+      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 158748,
-      "name": "Kombo",
-      "url": "https://open.spotify.com/track/05Fn1zIHdLdG6zLZaU4ugU"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Villiel\u00e4in",
-        "url": "https://open.spotify.com/album/2rZeRZDAChITruWkjr1ihC"
-      },
-      "artists": [
-        {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Villiel\u00e4in",
-      "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Masennust & massii (Deluxe)",
-        "url": "https://open.spotify.com/album/5DmbSN5wSHeCgeGtFw6DO8"
-      },
-      "artists": [
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 202073,
-      "name": "Masennust & massii",
-      "url": "https://open.spotify.com/track/0EBlI2CwheONWVsUf3eM1K"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "N\u00e4iden t\u00e4htien alla",
-        "url": "https://open.spotify.com/album/0eJFW5pm8DaRo6DuObgu4K"
-      },
-      "artists": [
-        {
-          "name": "WIL",
-          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
-        }
-      ],
-      "duration_ms": 149673,
-      "name": "N\u00e4iden t\u00e4htien alla",
-      "url": "https://open.spotify.com/track/4RjP1NfFGbCF4rFY298jnA"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -585,7 +601,39 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "N\u00e4iden t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/0eJFW5pm8DaRo6DuObgu4K"
+      },
+      "artists": [
+        {
+          "name": "WIL",
+          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+        }
+      ],
+      "duration_ms": 149673,
+      "name": "N\u00e4iden t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/4RjP1NfFGbCF4rFY298jnA"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/3nAhQyPcUPixMmaubT3Ecq"
@@ -601,7 +649,55 @@
       "url": "https://open.spotify.com/track/4CUwPg9TWRoXYbPaB5K6oU"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Tanssi Tytt\u00f6 Tanssi",
+        "url": "https://open.spotify.com/album/3jM55qyqvGinFgzJFoLc1G"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "duration_ms": 166149,
+      "name": "Tanssi Tytt\u00f6 Tanssi",
+      "url": "https://open.spotify.com/track/7wAh8Hbsv4QX6AavYDcrhM"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Nuorgam (feat. TIPPA)",
         "url": "https://open.spotify.com/album/5AFpQZZC9syQHjCv4dUIXV"
@@ -621,103 +717,7 @@
       "url": "https://open.spotify.com/track/64fagmhTnpUkqm9ngt7xWd"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 204193,
-      "name": "Ei leiki",
-      "url": "https://open.spotify.com/track/7DqZAdpcn1o0F5yzdH2lHa"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Top G",
-        "url": "https://open.spotify.com/album/3LD8AivVWUrAyFXNL7AA7T"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        }
-      ],
-      "duration_ms": 162078,
-      "name": "Top G",
-      "url": "https://open.spotify.com/track/2eJAOtd4MY1mVfs9ivPcgt"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Mustaa",
-        "url": "https://open.spotify.com/album/7KUtgglbnmjVCVWWA7Udit"
-      },
-      "artists": [
-        {
-          "name": "Bee",
-          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Mustaa",
-      "url": "https://open.spotify.com/track/6ZKsByZ9KfZ6j0h40jQlwi"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 234256,
-      "name": "500 Hevosta",
-      "url": "https://open.spotify.com/track/3HD1IgJXdTI3guoBatBVSG"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Tanssi Tytt\u00f6 Tanssi",
-        "url": "https://open.spotify.com/album/3jM55qyqvGinFgzJFoLc1G"
-      },
-      "artists": [
-        {
-          "name": "Dilemma",
-          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
-        }
-      ],
-      "duration_ms": 166149,
-      "name": "Tanssi Tytt\u00f6 Tanssi",
-      "url": "https://open.spotify.com/track/7wAh8Hbsv4QX6AavYDcrhM"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "meik\u00e4 matadori / relevantti",
         "url": "https://open.spotify.com/album/7t89lzNCLOSgKOSpBYMhCD"
@@ -737,23 +737,7 @@
       "url": "https://open.spotify.com/track/2QNcMX51ubQSyLcNPly7Xa"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Ram pam pam",
-        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 179878,
-      "name": "Ram pam pam",
-      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -762,18 +746,14 @@
         {
           "name": "Gettomasa",
           "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        },
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 206296,
-      "name": "Rantatontti",
-      "url": "https://open.spotify.com/track/0lms4A7g1CpKPWGQLHPAQE"
+      "duration_ms": 234256,
+      "name": "500 Hevosta",
+      "url": "https://open.spotify.com/track/3HD1IgJXdTI3guoBatBVSG"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Kangastus",
         "url": "https://open.spotify.com/album/5WoeDkYtOJyfQXSh4WsKje"
@@ -789,7 +769,7 @@
       "url": "https://open.spotify.com/track/5zHwltOissBAu6ZedTFFLW"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
@@ -809,23 +789,7 @@
       "url": "https://open.spotify.com/track/4lqwfA11KZ0wYfbCddjHj8"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
-        "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
-      },
-      "artists": [
-        {
-          "name": "Nebi",
-          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
-        }
-      ],
-      "duration_ms": 233218,
-      "name": "GoDdAmN",
-      "url": "https://open.spotify.com/track/27KdLYj7Alpe6y3UxC87ga"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "40K",
         "url": "https://open.spotify.com/album/23snaZbhW9jzET6wWtiEPk"
@@ -841,27 +805,7 @@
       "url": "https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
-      "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Chillaa veli",
         "url": "https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d"
@@ -877,7 +821,7 @@
       "url": "https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
         "name": "Ongelmalapsi",
         "url": "https://open.spotify.com/album/5yWO8CAusbgc9rJf9mb1oT"
@@ -897,24 +841,68 @@
       "url": "https://open.spotify.com/track/76WsnMaiOG5ky6ENnJjI0r"
     },
     {
-      "added_at": "2022-11-19 12:39:58",
+      "added_at": "2022-11-20 11:34:19",
       "album": {
-        "name": "Draama (Remix)",
-        "url": "https://open.spotify.com/album/0mnDBfdnfUdNmzlRWMfG6d"
+        "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
+        "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
       },
       "artists": [
         {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
         }
       ],
-      "duration_ms": 168675,
-      "name": "Draama - Remix",
-      "url": "https://open.spotify.com/track/2oo4aF7LnxR3ZFkcRcctAe"
+      "duration_ms": 233218,
+      "name": "GoDdAmN",
+      "url": "https://open.spotify.com/track/27KdLYj7Alpe6y3UxC87ga"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Vastustamaton",
+        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 204193,
+      "name": "Ei leiki",
+      "url": "https://open.spotify.com/track/7DqZAdpcn1o0F5yzdH2lHa"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "El\u00e4m\u00e4n ABC",
+        "url": "https://open.spotify.com/album/7ruMtcNvujCUoOmEPfZIkZ"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "El\u00e4m\u00e4n ABC",
+      "url": "https://open.spotify.com/track/7ffZ0iPT1UQvgm4e1KsaDC"
+    },
+    {
+      "added_at": "2022-11-20 11:34:19",
+      "album": {
+        "name": "Kyl\u00e4baari",
+        "url": "https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "duration_ms": 226996,
+      "name": "Kyl\u00e4baari",
+      "url": "https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA"
     }
   ],
   "unique_name": "Top 50 - Finland",

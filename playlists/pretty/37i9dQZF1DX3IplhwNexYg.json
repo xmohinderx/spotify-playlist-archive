@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Chilli Jesson",
-  "num_followers": 110895,
+  "num_followers": 110850,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMGU4NDU3Zjk3ZmFkMTQwOTQ2M2JmMTczOWEwM2RhNDgz",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMGZiMzIzYzZjMmViMDhhMzAxYTk0NGI3ZWU2YzFlNjJh",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "SCARING ME",
-      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "No Rule",
         "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 325888,
       "name": "No Rule",
       "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "angel in realtime.",
+        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "the angel of 8th ave.",
+      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "I've Never Been To LA",
         "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "angel in realtime.",
-        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 238653,
-      "name": "the angel of 8th ave.",
-      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -415,22 +431,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -479,18 +463,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Makes Me Sick Makes Me Smile",
-        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 229961,
-      "name": "Self Fulfilling Prophecy",
-      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Makes Me Sick Makes Me Smile",
+        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 229961,
+      "name": "Self Fulfilling Prophecy",
+      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Kool Aid",
         "url": "https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 216665,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -571,6 +555,38 @@
       "duration_ms": 177529,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -635,22 +651,6 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Fingers of Steel",
-        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 147378,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "duration_ms": 147378,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Only Good Things",
+        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 195430,
+      "name": "Only Good Things",
+      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "One Of A Million",
         "url": "https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 217712,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Only Good Things",
-        "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 195430,
-      "name": "Only Good Things",
-      "url": "https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -975,18 +975,34 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Flip It",
-        "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
+        "name": "The Dance You Sell",
+        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
       },
       "artists": [
         {
-          "name": "Bleached",
-          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+          "name": "L'objectif",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
         }
       ],
-      "duration_ms": 188898,
-      "name": "Flip It",
-      "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
+      "duration_ms": 242512,
+      "name": "The Dance You Sell",
+      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 269409,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "The Dance You Sell",
-        "url": "https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7"
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
       },
       "artists": [
         {
-          "name": "L'objectif",
-          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
         }
       ],
-      "duration_ms": 242512,
-      "name": "The Dance You Sell",
-      "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
+      "duration_ms": 188898,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 269409,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Green Dream in F#",
         "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Never Good Enough",
-        "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
+        "name": "Hachiko",
+        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
       },
       "artists": [
         {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
         }
       ],
-      "duration_ms": 227115,
-      "name": "Never Good Enough",
-      "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
+      "duration_ms": 174652,
+      "name": "Hachiko",
+      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "At Least I'm Free",
-        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
+        "name": "Never Good Enough",
+        "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
       "artists": [
         {
-          "name": "WAAX",
-          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
         }
       ],
-      "duration_ms": 216613,
-      "name": "Read Receipts",
-      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
+      "duration_ms": 227115,
+      "name": "Never Good Enough",
+      "url": "https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1231,34 +1231,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Hachiko",
-        "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
+        "name": "At Least I'm Free",
+        "url": "https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP"
       },
       "artists": [
         {
-          "name": "Nathan Day",
-          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
         }
       ],
-      "duration_ms": 174652,
-      "name": "Hachiko",
-      "url": "https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Best of It",
-        "url": "https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 128276,
-      "name": "Best of It",
-      "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
+      "duration_ms": 216613,
+      "name": "Read Receipts",
+      "url": "https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o"
+        "name": "Best of It",
+        "url": "https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v"
       },
       "artists": [
         {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
         }
       ],
-      "duration_ms": 194253,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW"
+      "duration_ms": 128276,
+      "name": "Best of It",
+      "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 226660,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
     }
   ],
   "unique_name": "pulp",

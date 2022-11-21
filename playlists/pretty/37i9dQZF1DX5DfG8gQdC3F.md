@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nickelback \(pictured\), Pharrell Williams ft\. Travis Scott, bbno$, Saweetie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,242 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,175 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 84 | [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 |
 | 85 | [Let Her Go](https://open.spotify.com/track/69JydcowMschSR4VsU8zoL) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [Let Her Go](https://open.spotify.com/album/1QpchE0BI4Rs97HSM6q1i4) | 3:19 |
 | 86 | [bet you'll get off on this](https://open.spotify.com/track/73RMaD9aBr66HauQdertbc) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [bet you'll get off on this](https://open.spotify.com/album/3xHOBcV42ALjdT3jYdg7q3) | 2:49 |
-| 87 | [Hard to Love](https://open.spotify.com/track/1NpAYFZ58WLzNpYjeQA0Bx) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Fall in Love / Apart](https://open.spotify.com/album/5dgFO79KvANy5k3A9sFbJw) | 3:39 |
+| 87 | [Hard to Love](https://open.spotify.com/track/4Xy5IUkDArWcbJZBJpvaJQ) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Hard to Love](https://open.spotify.com/album/0VMB9RGgCxODY6Ezx0Uc2D) | 3:39 |
 | 88 | [Never Coming Down](https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Never Coming Down](https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU) | 5:56 |
 | 89 | [Body Love](https://open.spotify.com/track/4nnjabY2jXxrt0LDU3Hvmb) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Body Love](https://open.spotify.com/album/0n0DwUBnOTypoVY5EGRI25) | 2:48 |
 | 90 | [is that ok?](https://open.spotify.com/track/625bxBqkhkMzNMQVTxAZaN) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [is that ok?](https://open.spotify.com/album/1y7B3yhsnTMX4e6YApcba3) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Load The Gun](https://open.spotify.com/track/1zf3zXsUVES4L0nrXrqNQ0) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Load The Gun](https://open.spotify.com/album/5kFwMuhDb5ZfwwsgJhPhac) | 2:40 |
 | 100 | [Clear To Me](https://open.spotify.com/track/4KgzvwcrcOzyMG48Q3S1dL) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Clear To Me](https://open.spotify.com/album/267funQEo5MV9JwFeMAvRi) | 2:42 |
 
-Snapshot ID: `MTY2ODc4NzQ3MCwwMDAwMDAwMDZiNmRiYTg3NTVlMzY3MTNlMDU0NjQ3MWQ5MDYwYzM3`
+Snapshot ID: `MTY2ODc4NzQ3MCwwMDAwMDAwMDUwZDNhY2ZlOGY3ZWQ1YjRiMmQ1ZmY1MzdlZDU4MjJj`

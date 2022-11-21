@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDgxOGI3NDExM2E1Y2E1ZTc5ZDk5NzRmNmQ3NWJlY2Y3",
+  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDFhNTI3YTYzOTI5YWNjNmRkMDJkNWUzYWIxOWU4NjBh",
   "tracks": [
     {
       "added_at": "2021-10-08 04:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj"
-      },
-      "artists": [
-        {
-          "name": "RadioClub",
-          "url": "https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj"
+      },
+      "artists": [
+        {
+          "name": "RadioClub",
+          "url": "https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Je suis \u00e0 toi (MOTO BLANCO REMIX)",
-        "url": "https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Je suis \u00e0 toi (Moto Blanco Remix)",
-      "url": "https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 152613,
       "name": "Barquette",
       "url": "https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Je suis \u00e0 toi (MOTO BLANCO REMIX)",
+        "url": "https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Je suis \u00e0 toi (Moto Blanco Remix)",
+      "url": "https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "L'orage",
-        "url": "https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 194122,
-      "name": "L\u2019orage",
-      "url": "https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "maison",
         "url": "https://open.spotify.com/album/2fzWviAbjksegQijmpa433"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 188585,
       "name": "Bient\u00f4t",
       "url": "https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "L'orage",
+        "url": "https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 194122,
+      "name": "L\u2019orage",
+      "url": "https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps"
     },
     {
       "added_at": "2021-10-08 04:01:00",

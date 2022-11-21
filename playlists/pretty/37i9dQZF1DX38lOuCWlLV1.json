@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 172630,
+  "num_followers": 172544,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDI0ZWE3ZDEyNjMzMjliZGM3NGVlYTBmZDQ5MmU3OWFh",
+  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDI2Mjc4ZDkyNjRjZGEyMmI3YmZkNTAwYWFhMzM1OTdi",
   "tracks": [
     {
       "added_at": "2022-10-12 17:57:49",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 250668,
-      "name": "Til Kingdom Come",
-      "url": "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 250668,
+      "name": "Til Kingdom Come",
+      "url": "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "Radio Retaliation",
         "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 288933,
       "name": "Sweet Tides",
       "url": "https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     },
     {
       "added_at": "2022-10-12 17:57:49",

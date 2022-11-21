@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,292 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,310 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 27 | [The Don Waltz](https://open.spotify.com/track/5XcOoA1V7bj4g2I49dOXbk) | [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Don 2](https://open.spotify.com/album/567IupuTzzBF0cgmtucllU) | 3:28 |
 | 28 | [Time To Meet My Friend](https://open.spotify.com/track/4b6B8CxuXAtmgh7eXgo5tZ) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 4:02 |
 | 29 | [Maachis Theme Closing](https://open.spotify.com/track/5H83kULz9wDkDdNkFUFFuI) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Maachis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kc4rAQ1kkW3orZ87Le7M6) | 2:57 |
-| 30 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
+| 30 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
 | 31 | [Ishan's Theme](https://open.spotify.com/track/6lFMO7ymvqHFVUOsUK98a7) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Taare Zameen Par](https://open.spotify.com/album/3krigkIAxyZMBcxYfE0jlE) | 4:22 |
 | 32 | [Bombay Theme \- Bombay / Soundtrack Version](https://open.spotify.com/track/7n6YJCoiTHtdhytgAliYDu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:18 |
-| 33 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
+| 33 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
 | 34 | [Andhadhun Theme 02](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 2:40 |
 | 35 | [Rangoon Theme](https://open.spotify.com/track/3PkLK8b0tRTIgggmM1vwib) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 1:31 |
 | 36 | [Victory \- Instrumental](https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Cherrapunji Instrumental \- Bheeg Gaya Mera Mann](https://open.spotify.com/track/1YuyMJ3BfzJnAgm5uZiUiA) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 6:57 |
 | 50 | [Crush The Rebels](https://open.spotify.com/track/5JES4hDzGsLOzfPQFpB9Uj) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Sardar Udham \(Original Background Score\)](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 5:11 |
 
-Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDQ3NTRhMDE5NmVlYmMyNzIzNDA4M2VmMTQzMmVmMDdm`
+Snapshot ID: `MTY2NDM2Mjk5NywwMDAwMDAwMDkzOTFkMjNmODg5OTIyODNhYTdiY2FmYTI4Y2UwYmVk`

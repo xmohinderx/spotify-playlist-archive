@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 447854,
+  "num_followers": 448092,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDRkODViM2RmM2Q3ZWY4NjQ5OGRhMTljM2E1NTNkYjkz",
+  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMGQ1ZTFmYWQ2MTczODBmMzdhZjkxZGY4YjQwZWMxZTEy",
   "tracks": [
     {
       "added_at": "2022-11-07 15:33:57",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
     },
     {
-      "added_at": "2022-11-20 01:42:03",
+      "added_at": "2022-11-21 01:42:24",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "Halcyon Nights",
         "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 154440,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 236680,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 202146,
       "name": "I Believe in Us",
       "url": "https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 141757,
-      "name": "Honey (with Muni Long)",
-      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 141757,
+      "name": "Honey (with Muni Long)",
+      "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
+        "name": "Eternally Even",
+        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 293413,
+      "name": "The World's Smiling Now",
+      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
         "name": "Put D'Angelo On",
         "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
-        "name": "Eternally Even",
-        "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "The World's Smiling Now",
-      "url": "https://open.spotify.com/track/6KrDF0sid0jwhbVIT0tatx"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 178246,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
+      },
+      "artists": [
+        {
+          "name": "Only Girl",
+          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
+    },
+    {
+      "added_at": "2022-11-07 15:33:57",
+      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
       },
@@ -2387,18 +2403,18 @@
     {
       "added_at": "2022-11-07 15:33:57",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
       },
       "artists": [
         {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+          "name": "Furns",
+          "url": "https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy"
         }
       ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
+      "duration_ms": 265518,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO"
     },
     {
       "added_at": "2022-11-07 15:33:57",
@@ -2415,22 +2431,6 @@
       "duration_ms": 204333,
       "name": "If the Creek Don't Rise",
       "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
-    },
-    {
-      "added_at": "2022-11-07 15:33:57",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl"
-      },
-      "artists": [
-        {
-          "name": "Furns",
-          "url": "https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO"
     },
     {
       "added_at": "2022-11-07 15:33:57",

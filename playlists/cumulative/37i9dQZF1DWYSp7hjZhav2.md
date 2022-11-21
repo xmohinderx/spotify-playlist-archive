@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-56 songs - 5 hr 32 min - not published yet
+57 songs - 5 hr 39 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Moth To A Flame \(feat\. The Weeknd\) \- Adriatique Remix](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame \(Adriatique Remix\)](https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC) | 6:29 | 2022-10-05 |  |
 | [Never Alone \(ft\. Dix\_On The Phone\)](https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 4:08 | 2022-10-05 |  |
 | [Never Ends](https://open.spotify.com/track/7EBx3o9ENjW5ZcjuoLlXRY) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [One EP](https://open.spotify.com/album/0MCd3eOJFu5zuaeLbEU043) | 6:40 | 2022-10-05 |  |
-| [No One Gets Left Behind \- Konstantin Sibold Remix](https://open.spotify.com/track/3sUhSOFaSojQYP7qWL2g1d) | [DJ Yellow](https://open.spotify.com/artist/65d01n0bjvSlBMQTIAurTU), [Flowers and Sea Creatures](https://open.spotify.com/artist/5FShZPKtOs19K5qcZHkw3Q), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Compost Black Label \#105](https://open.spotify.com/album/0RJsKbB0kqMtWbUmIUFPMz) | 6:50 | 2022-10-05 |  |
+| [No One Gets Left Behind \- Konstantin Sibold Remix](https://open.spotify.com/track/3sUhSOFaSojQYP7qWL2g1d) | [DJ Yellow](https://open.spotify.com/artist/65d01n0bjvSlBMQTIAurTU), [Flowers and Sea Creatures](https://open.spotify.com/artist/5FShZPKtOs19K5qcZHkw3Q), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Compost Black Label \#105](https://open.spotify.com/album/0RJsKbB0kqMtWbUmIUFPMz) | 6:50 | 2022-10-05 | 2022-11-21 |
+| [No One Gets Left Behind \- Konstantin Sibold Remix](https://open.spotify.com/track/4XyU0ejVdU766tdJ0EnIiP) | [DJ Yellow](https://open.spotify.com/artist/65d01n0bjvSlBMQTIAurTU), [Flowers and Sea Creatures](https://open.spotify.com/artist/5FShZPKtOs19K5qcZHkw3Q), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Compost Black Label \#105](https://open.spotify.com/album/4YXE4PXOFSYjIFrsNIKLfX) | 6:50 | 2022-11-07 |  |
 | [Nostalgia](https://open.spotify.com/track/2LoMz4ATefJEQjtS03wDHu) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Nostalgia](https://open.spotify.com/album/7DS09pXwf2q17wOBN7cJ8z) | 4:42 | 2022-10-05 |  |
 | [Nostalgia](https://open.spotify.com/track/7AsIHUJdG9CN7KXmYXUoON) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [en:close \- The Sound Of The Jane](https://open.spotify.com/album/3FElf806T53F7s77wSHTOA) | 4:42 | 2022-11-07 | 2022-11-14 |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-10-05 |  |

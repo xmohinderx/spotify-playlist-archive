@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,039 songs - 2 day 7 hr 48 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+1,040 songs - 2 day 7 hr 52 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Armada](https://open.spotify.com/track/0NOsqjim8zDnjXLYULEnqv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:33 | 2021-09-12 | 2021-09-13 |
 | [Arme de poing](https://open.spotify.com/track/2WYpG3Kv1xRTqMSNXVOpAN) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2022-01-23 |
 | [Arsenik](https://open.spotify.com/track/4bSbrbMLExS6H5OCCqjsmm) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:27 | 2022-05-28 | 2022-05-30 |
-| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-11-20 |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Assassinat](https://open.spotify.com/track/3fdOkTuwYW2nyBi8vIibKc) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:58 | 2021-06-27 | 2021-07-18 |
 | [Assoces](https://open.spotify.com/track/65qLZYZ9jtjC4oHJlNz3RF) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:31 | 2021-03-27\* | 2021-04-04 |
@@ -379,7 +379,7 @@
 | [Galerie](https://open.spotify.com/track/2hsEYpnAtMH7CbZJajUU5C) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Galerie](https://open.spotify.com/album/3wzW6OkUdpj8RFn8UCCNF3) | 2:45 | 2021-11-12 | 2021-11-14 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2021-08-29 | 2022-05-22 |
-| [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 |  |
+| [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 | 2022-11-21 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
 | [Geronimo](https://open.spotify.com/track/6v85G6mHevBjdpylVuGNGB) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Geronimo](https://open.spotify.com/album/7ck2Cibgjw4kEAx9jfVhpN) | 2:32 | 2021-10-23 | 2021-10-31 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 | 2022-05-12 |
@@ -510,7 +510,7 @@
 | [La Kush](https://open.spotify.com/track/0RAeV4QzrdHzsn4R0Pdgcp) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Tony Corrida](https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC) | [La Kush](https://open.spotify.com/album/1JHZrthJic7JLR83GFvloZ) | 2:19 | 2022-10-29 | 2022-11-06 |
 | [La loi du plus fort](https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:43 | 2022-06-11 | 2022-06-16 |
 | [La maison que je voulais](https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:41 | 2021-12-05 | 2022-01-08 |
-| [La Marseillaise](https://open.spotify.com/track/5VUm2SH1nTCXgIs8MA5WtE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Marseillaise](https://open.spotify.com/album/32q8A5dbdkPx3kuFg5CQRv) | 3:17 | 2022-11-05 |  |
+| [La Marseillaise](https://open.spotify.com/track/5VUm2SH1nTCXgIs8MA5WtE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Marseillaise](https://open.spotify.com/album/32q8A5dbdkPx3kuFg5CQRv) | 3:17 | 2022-11-05 | 2022-11-21 |
 | [La Maxance](https://open.spotify.com/track/4QOJFimR0EQPF7bSiIyccl) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 2:31 | 2022-06-18 | 2022-06-23 |
 | [La Maxance](https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La Maxance](https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu) | 2:31 | 2022-05-19 | 2022-05-29 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2021-12-12 | 2022-06-30 |
@@ -871,6 +871,7 @@
 | [Sex \(Interlude\)](https://open.spotify.com/track/78XZ8m1aqtiFXyHTV4aRRb) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Voulez\-vous coucher avec moi](https://open.spotify.com/album/0U9XYTYWK68OPNuO9UJwjM) | 1:50 | 2022-03-01 | 2022-03-12 |
 | [Señorita](https://open.spotify.com/track/0pRLi4RAWK1ZglN3UmwvnU) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/3IIykrRD1Kqw521QJC0USe) | 3:23 | 2021-06-23 | 2021-06-26 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2022-09-11 | 2022-11-18 |
+| [Shining Light](https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:37 | 2022-11-20 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-04-24 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-22 | 2021-10-31 |
 | [Shonen](https://open.spotify.com/track/3Z8gDycWX48tv06vVRMQtg) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 2:33 | 2021-11-21 | 2022-10-31 |

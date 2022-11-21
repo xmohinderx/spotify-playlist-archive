@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 389217,
+  "num_followers": 389515,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMGQ0MjQ3NTAzNjU2NGQ0NGEyYmNmMjU0YWI4ZTY0Mjdl",
+  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDFlZThkNzcwZWUyYmY1YTc3ODkxOTM3MjIzZGFhYWI5",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
       "artists": [
         {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
         }
       ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
       },
       "artists": [
         {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
         }
       ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "AHH!!",
         "url": "https://open.spotify.com/album/3DLP1NdK5qoxL5khIxYy0d"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
-      },
-      "artists": [
-        {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "I Want To Be With You",
         "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Forever at Last",
         "url": "https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Dreams of Losing Teeth",
+        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 202818,
+      "name": "Dreams of Losing Teeth",
+      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Dreams of Losing Teeth",
-        "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 202818,
-      "name": "Dreams of Losing Teeth",
-      "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1663,6 +1647,26 @@
       "duration_ms": 172729,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+      },
+      "artists": [
+        {
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     }
   ],
   "unique_name": "Lo-fi Indie",

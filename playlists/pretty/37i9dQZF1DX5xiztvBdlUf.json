@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 536476,
+  "num_followers": 536695,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMGVhOTUyOWRjODMwMWU0YmYwOGIwMWUwMGJlNTFmYzgy",
+  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMDY0ZTRmOTUxYzBlMmM1ZGY0YThmMmE4OGM1ZTc5MmM3",
   "tracks": [
     {
       "added_at": "2022-10-28 13:07:34",
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Circle of Life",
         "url": "https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Feelin' / Don't Lose Control",
         "url": "https://open.spotify.com/album/2lauqd4ZtaiPpgo45tpcQE"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Future Memories",
         "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
-      "added_at": "2022-11-20 01:34:06",
+      "added_at": "2022-11-21 01:32:33",
       "album": {
         "name": "Phanta",
         "url": "https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1"
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "If We Only Had",
+        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "If We Only Had",
+      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "If We Only Had",
-        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "If We Only Had",
-      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "St Claire",
-        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        }
-      ],
-      "duration_ms": 214337,
-      "name": "St Claire",
-      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "NOSTALGIA*",
         "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 145000,
       "name": "NOSTALGIA*",
       "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "St Claire",
+        "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 214337,
+      "name": "St Claire",
+      "url": "https://open.spotify.com/track/7qrch7xVClA6bB299puPoz"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Disco Voador (Oliver Koletzki Remix)",
-        "url": "https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL"
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        },
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
         }
       ],
-      "duration_ms": 381442,
-      "name": "Disco Voador - Oliver Koletzki Remix",
-      "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+        "name": "Disco Voador (Oliver Koletzki Remix)",
+        "url": "https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        },
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
+      "duration_ms": 381442,
+      "name": "Disco Voador - Oliver Koletzki Remix",
+      "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Camaleon",
+        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 359211,
+      "name": "Camaleon",
+      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Camaleon",
-        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 359211,
-      "name": "Camaleon",
-      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
     },
     {
       "added_at": "2022-10-28 13:07:34",

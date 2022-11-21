@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 45211,
+  "num_followers": 45304,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDA4Mzc0NTRlZDFiNzlmNDBhYTdkYjQzNzkzMGMzN2M0",
+  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMGMxZTgwZjQ3YzE3NDMzODI2NGJkNTM0ZmFiN2MwYzgz",
   "tracks": [
     {
       "added_at": "2022-10-06 07:29:28",
@@ -151,26 +151,18 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Angular Blues",
-        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
       "artists": [
         {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 315493,
-      "name": "H\u00fcttengriffe",
-      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -211,18 +203,26 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+        "name": "Angular Blues",
+        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
         }
       ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
+      "duration_ms": 315493,
+      "name": "H\u00fcttengriffe",
+      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "The Next Step",
         "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Vital Techtones",
         "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -1211,30 +1211,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx"
+        "name": "Standard Brands",
+        "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
       "artists": [
         {
-          "name": "Jonathan Kreisberg",
-          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
+          "name": "Lenny Breau",
+          "url": "https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or"
         },
         {
-          "name": "Gary Versace",
-          "url": "https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Mark Ferber",
-          "url": "https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w"
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
         }
       ],
-      "duration_ms": 443720,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
+      "duration_ms": 348066,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1271,22 +1263,30 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Standard Brands",
-        "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/1sVOdEgJidStrGyDLrwqcx"
       },
       "artists": [
         {
-          "name": "Lenny Breau",
-          "url": "https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or"
+          "name": "Jonathan Kreisberg",
+          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
         },
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+          "name": "Gary Versace",
+          "url": "https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Mark Ferber",
+          "url": "https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w"
         }
       ],
-      "duration_ms": 348066,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
+      "duration_ms": 443720,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Free Flying",
         "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
+      },
+      "artists": [
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Joachim Schoenecker",
+          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "Dialogues",
-        "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
-      },
-      "artists": [
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        },
-        {
-          "name": "Joachim Schoenecker",
-          "url": "https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF"
     },
     {
       "added_at": "2022-10-06 07:29:28",

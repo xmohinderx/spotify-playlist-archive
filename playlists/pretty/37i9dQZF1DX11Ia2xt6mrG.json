@@ -1,15 +1,15 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 53112,
+  "num_followers": 53127,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg1MzY1MywwMDAwMDAwMDZkM2NhNWI0NjhiNDJhNmFmNzgzMTY3YWM4OTA0ZTRl",
+  "snapshot_id": "MTY2Nzg1MzY1MywwMDAwMDAwMDlmNzcyYTVhZDUyN2Y3NjJkNTMxMTM4ZjM2NjY2ZmQw",
   "tracks": [
     {
-      "added_at": "2022-11-20 01:24:21",
+      "added_at": "2022-11-21 01:22:45",
       "album": {
         "name": "Se Va",
         "url": "https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S"
@@ -595,30 +595,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Benlon",
-          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
-        },
-        {
-          "name": "Sharpz",
-          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
       },
@@ -631,30 +607,6 @@
       "duration_ms": 184000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg"
-      },
-      "artists": [
-        {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL"
-        },
-        {
-          "name": "House Music Bro",
-          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
-        }
-      ],
-      "duration_ms": 265153,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -679,6 +631,54 @@
       "duration_ms": 202500,
       "name": "Tribu Latina",
       "url": "https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
+        },
+        {
+          "name": "Sharpz",
+          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg"
+      },
+      "artists": [
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL"
+        },
+        {
+          "name": "House Music Bro",
+          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
+        }
+      ],
+      "duration_ms": 265153,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "To The Top",
         "url": "https://open.spotify.com/album/6Y1gNtIMIVHvhtBjprkErG"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 160941,
       "name": "To The Top",
       "url": "https://open.spotify.com/track/4gXBqKIx8bCR5d1BZ5D4GV"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Camellos",
         "url": "https://open.spotify.com/album/3yT69oNV3uFDFs5whmF5qO"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 224010,
       "name": "Camellos",
       "url": "https://open.spotify.com/track/6djw15CRE09NkoyVKLWGyP"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/4cUZ6cXbaWqVbe3xJJmdWu"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/2Qs5tIbboAR14vYDIbuCRp"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1011,6 +1011,26 @@
       "duration_ms": 183870,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/3AtsqKQ6fcU3iIUSAAMyeV"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        },
+        {
+          "name": "Stefan Obermaier",
+          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
+        }
+      ],
+      "duration_ms": 394918,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1083,22 +1103,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Senses",
-        "url": "https://open.spotify.com/album/3AtsqKQ6fcU3iIUSAAMyeV"
+        "name": "De Sur A Norte",
+        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
       },
       "artists": [
         {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        },
-        {
-          "name": "Stefan Obermaier",
-          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 394918,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/6v6AOyEwnzthASohlRwYrS"
+      "duration_ms": 288813,
+      "name": "Polen",
+      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "De Sur A Norte",
-        "url": "https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "Polen",
-      "url": "https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Nocturno",
         "url": "https://open.spotify.com/album/4SmO2ZcJDCs94LSsi86etw"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 209146,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/4lnjB1wmSnLO8SWJgiMADy"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Steller",
-          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "The King Is Dead",
-      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1199,22 +1179,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Playa",
-        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3yRxD3JAUKPgjDrAkQXXho"
       },
       "artists": [
         {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
+      "duration_ms": 155224,
+      "name": "The King Is Dead",
+      "url": "https://open.spotify.com/track/1JkMlh3QfX8Sed828vjI0g"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1291,6 +1271,26 @@
       "duration_ms": 180800,
       "name": "\u00a1V\u00e1monos De Viaje! - Edit",
       "url": "https://open.spotify.com/track/37aiG4NvRA0PUI70KKJjm2"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Iskander",
+          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/0f26pWyvXwc0gP6qdBRjWD"
-      },
-      "artists": [
-        {
-          "name": "SBM",
-          "url": "https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Levante la Mano (Remixes)",
         "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/0f26pWyvXwc0gP6qdBRjWD"
+      },
+      "artists": [
+        {
+          "name": "SBM",
+          "url": "https://open.spotify.com/artist/10sogTUsGzLPeCcrOcEPF1"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1767,6 +1767,38 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Deliciosa",
+        "url": "https://open.spotify.com/album/4cVgkXdCAOs6EJDOtLY5Ku"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        },
+        {
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+        },
+        {
+          "name": "Morenito De Fuego",
+          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+        },
+        {
+          "name": "Vakera Gal\u00e1ctica",
+          "url": "https://open.spotify.com/artist/5LjSjvk38NOn5BXiXsojTj"
+        },
+        {
+          "name": "Bombatomika",
+          "url": "https://open.spotify.com/artist/5ArVuIgibMKsZzlMaYZTSA"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Deliciosa",
+      "url": "https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Mujer del Desierto",
         "url": "https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG"
       },
@@ -1799,38 +1831,6 @@
       "duration_ms": 274716,
       "name": "cielo",
       "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Deliciosa",
-        "url": "https://open.spotify.com/album/4cVgkXdCAOs6EJDOtLY5Ku"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        },
-        {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
-        },
-        {
-          "name": "Morenito De Fuego",
-          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
-        },
-        {
-          "name": "Vakera Gal\u00e1ctica",
-          "url": "https://open.spotify.com/artist/5LjSjvk38NOn5BXiXsojTj"
-        },
-        {
-          "name": "Bombatomika",
-          "url": "https://open.spotify.com/artist/5ArVuIgibMKsZzlMaYZTSA"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Deliciosa",
-      "url": "https://open.spotify.com/track/4y3nepjBAX0GOz3gJ1wx3z"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/4QHSMXk4TjKaRpHGMDaCCo"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 228000,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1kMVjZ6gDQpMckNs895asT"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2022-08-02 18:48:01",

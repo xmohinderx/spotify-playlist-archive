@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 48239,
+  "num_followers": 48354,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYwNzk5MiwwMDAwMDAwMGVhYjE4MjIyMDM5ODQ3MWQzMmExNTYzMTRhYTRlMzY1",
+  "snapshot_id": "MTY2ODYwNzk5MiwwMDAwMDAwMDNhYmQ5Y2Y3MGM0NDg2MTUxYTZhNWEwMjNhOGUwMWZl",
   "tracks": [
     {
       "added_at": "2022-11-16 14:13:12",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
+      "duration_ms": 259973,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 259973,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/75YDo9npGeipsBmVIxcPtC"
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Livin' Large",
         "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178933,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
         "name": "Feelin' It",
         "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 392506,
       "name": "Sensuality",
       "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
       },
       "artists": [
         {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
         }
       ],
-      "duration_ms": 343093,
-      "name": "That's The Way Of The World",
-      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
         }
       ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
+      "duration_ms": 343093,
+      "name": "That's The Way Of The World",
+      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228573,
       "name": "A Quiet Place",
       "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 265893,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 280868,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Somethin' Bout Love",
         "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
       "artists": [
         {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
         }
       ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+      "duration_ms": 280868,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1227,6 +1211,22 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+      },
+      "artists": [
+        {
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+        }
+      ],
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
       },
@@ -1343,22 +1327,18 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Believing",
-        "url": "https://open.spotify.com/album/3PMe70a4lVLhawiCJmsrkq"
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
       "artists": [
         {
-          "name": "Marcio Rocha",
-          "url": "https://open.spotify.com/artist/0NnpQP7ESvBerYZhbjbRr5"
-        },
-        {
-          "name": "Hoto Jr.",
-          "url": "https://open.spotify.com/artist/7lOwbBviHzCCv92wSSDelt"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 289071,
-      "name": "Brownie",
-      "url": "https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH"
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1391,6 +1371,26 @@
       "duration_ms": 256506,
       "name": "Missing in Venice",
       "url": "https://open.spotify.com/track/18PwsjZKbuoC3pBRhywxlf"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/3PMe70a4lVLhawiCJmsrkq"
+      },
+      "artists": [
+        {
+          "name": "Marcio Rocha",
+          "url": "https://open.spotify.com/artist/0NnpQP7ESvBerYZhbjbRr5"
+        },
+        {
+          "name": "Hoto Jr.",
+          "url": "https://open.spotify.com/artist/7lOwbBviHzCCv92wSSDelt"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "Brownie",
+      "url": "https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH"
     },
     {
       "added_at": "2022-11-16 14:13:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-11-16 14:13:12",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
-    },
-    {
-      "added_at": "2022-11-16 14:13:12",
-      "album": {
         "name": "Til the Morning Light",
         "url": "https://open.spotify.com/album/3ZASeCmSy50JdfVhHfcoSn"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 270036,
       "name": "Til the Morning Light",
       "url": "https://open.spotify.com/track/0cLaBxrMKtBKjpeelpxvYG"
+    },
+    {
+      "added_at": "2022-11-16 14:13:12",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
     },
     {
       "added_at": "2022-11-16 14:13:12",

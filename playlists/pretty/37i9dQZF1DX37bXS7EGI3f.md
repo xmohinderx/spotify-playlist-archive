@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,082 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,958 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 47 | [A Cloak Woven of Stars](https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [A Cloak Woven of Stars](https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm) | 3:37 |
 | 48 | [Dismantled](https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Nekonomicon](https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ) | 3:57 |
 | 49 | [Solitude's Bane](https://open.spotify.com/track/3S4FfGDSpmPSHqSR0DyMH4) | [Gladenfold](https://open.spotify.com/artist/5fReK32sz2vmbh61o5TGLe) | [Nemesis](https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo) | 3:37 |
-| 50 | [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 |
+| 50 | [My Shadow Self](https://open.spotify.com/track/0i5p8lyhwKkqCb08dGJOoe) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/4GZZdYlHV5QtJvjYWv539s) | 3:02 |
 | 51 | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Sons of the Wind \(Back to the 80's Remix\)](https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m) | 5:30 |
 | 52 | [New Evil](https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [New Evil](https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx) | 4:25 |
 | 53 | [Wayward Sun](https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1) | [Xaon](https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz) | [Wayward Sun](https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 | 80 | [Kraven the Hunter \- Single Edit](https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y) | [Power Paladin](https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB) | [Kraven The Hunter](https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma) | 4:42 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDFjMzY4ZDJlNWNkOTdlZDUwNjVhZjExNmFhNWM5ZGFh`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDhmYTYwODQ1NTM0ZThiZDIwZTM0MWI0NmI2MTZkMDc4`

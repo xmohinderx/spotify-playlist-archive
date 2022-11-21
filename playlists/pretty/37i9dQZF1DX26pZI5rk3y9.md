@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 28 | [Route 66](https://open.spotify.com/track/7cZmWjebbtSMIxN2MkJWuv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:45 |
 | 29 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
 | 30 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
-| 31 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
-| 32 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
+| 31 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
+| 32 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
 | 33 | [I Love The Woman](https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Freddy King Sings](https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs) | 2:48 |
 | 34 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 |
 | 35 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 44 | [Cole Slaw \(Sorghum Switch\)](https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [Best Of Rhythm & Blues](https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4) | 3:11 |
 | 45 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
 | 46 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 |
-| 47 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
-| 48 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 |
+| 47 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 |
+| 48 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
 | 49 | [Alligator Meat](https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn) | [Joe Swift](https://open.spotify.com/artist/2O5OHlHQnNgg8rsv8kA1KX), [Maxwell Davis](https://open.spotify.com/artist/1fhYtOLzN01tp4kUfdNLGF) | [Sax Star: Maxwell's Best, Vol\. 1](https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB) | 2:56 |
 | 50 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 |
 | 51 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDlmNGIxNjIxMjYxODRjYzMwOGEzMmVmYzk0MGNhMTYz`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMGQ1MGVjNDE3Y2Y1YjM5MjYzNTFkZmM1ZDljYTBmYzA4`

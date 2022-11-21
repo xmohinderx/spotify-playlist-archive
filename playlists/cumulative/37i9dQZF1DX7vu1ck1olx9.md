@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-138 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+140 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 | 2020-11-12 |  |
 | [Fresh Breeze](https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Fresh Breeze](https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW) | 2:14 | 2021-10-29 | 2022-08-02 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2020-11-12 |  |
-| [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 |  |
+| [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 | 2022-11-21 |
+| [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-09-16 |  |
 | [golota](https://open.spotify.com/track/0cgDB0690FbtqSPV7eavS9) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [Hemond](https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg) | [cordata spring](https://open.spotify.com/album/4zFGXMdAWcUuVFFyO10Hr7) | 2:08 | 2020-11-12 | 2022-07-29 |
 | [Good Evening](https://open.spotify.com/track/3LDhrFGz0EJ7yt2gsqbB7R) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5I1Rdf76k3dEbzhM6RxYim) | 2:01 | 2020-11-12 | 2022-07-29 |
 | [Good Evening](https://open.spotify.com/track/3xSCsPe98emSQSpxCtIkhv) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Good Evening](https://open.spotify.com/album/4lF7OpXCx2JnngN8zeCxMJ) | 2:01 | 2020-11-12 | 2022-07-17 |
@@ -93,7 +94,7 @@
 | [Night.Owls](https://open.spotify.com/track/6cNfp0BOhhlETMpN7pBsXY) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [Night.Owls](https://open.spotify.com/album/4wHuyp7aHvQvmRDKBhTveN) | 2:43 | 2021-10-22 | 2022-07-29 |
 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 |  |
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 |  |
-| [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 |  |
+| [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 | 2022-11-21 |
 | [Nuz An Tara](https://open.spotify.com/track/7rwsFWNQmvPk7GovBbSE9U) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/3AjEgD7OL43XaoqnGFrP9z) | 2:12 | 2020-11-12 | 2022-07-27 |
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
@@ -112,6 +113,7 @@
 | [Single Phial](https://open.spotify.com/track/0ShdJEt3nvxq8WNDgYLzWm) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:43 | 2020-11-12 |  |
 | [Single Phial](https://open.spotify.com/track/67R6DqIitHxBe2wJYC0FZK) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl) | 1:43 | 2020-11-12 | 2022-07-29 |
 | [Smoking at Midnight](https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:35 | 2020-11-12 | 2022-11-19 |
+| [Smoking at Midnight](https://open.spotify.com/track/69r4VkTUiqOlcDN6ZbsblI) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:35 | 2020-11-12 |  |
 | [Solitude](https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L) | [DCS Lefty](https://open.spotify.com/artist/39Y0ja9MWC0yMdKMFGu4L7) | [Solitude](https://open.spotify.com/album/5TIBOPZs2qfJ5SwvAaGqJz) | 2:25 | 2020-11-12 |  |
 | [Solstånd](https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Solstånd](https://open.spotify.com/album/4KoyVhHi6YflFzXwanmrlD) | 2:21 | 2022-06-03 | 2022-10-19 |
 | [something easy](https://open.spotify.com/track/3ERiZbndVXtCGXIREDHKgD) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [gay story](https://open.spotify.com/album/6wNgoamY7ZcZA1mEVXAuZV) | 1:02 | 2020-11-12 |  |

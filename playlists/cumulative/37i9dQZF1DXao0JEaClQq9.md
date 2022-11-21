@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-460 songs - 1 day 4 hr 28 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+461 songs - 1 day 4 hr 31 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-07-15 | 2022-07-23 |
 | [After All](https://open.spotify.com/track/0tPeDp2sLfmzPqCEGayKWQ) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Road To Grapeness](https://open.spotify.com/album/4uSVMn4SUFy1Jns7A9cJbS) | 2:38 | 2021-11-30 | 2022-07-18 |
 | [Afterglow](https://open.spotify.com/track/02b4Ndz5u5JY3Ve512vNqd) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Afterglow](https://open.spotify.com/album/6Q1KVHPwszH4q8o3yS6tt6) | 3:18 | 2021-06-03 | 2022-04-23 |
+| [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 | 2022-10-28 |  |
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-06-03 | 2022-10-13 |
 | [All I Ever Wanted](https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [All I Ever Wanted](https://open.spotify.com/album/0CkXPeR6nuF5pgE2iNWMl2) | 3:23 | 2021-09-10 | 2022-07-09 |
 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 | 2022-04-22 | 2022-04-24 |
@@ -191,7 +192,7 @@
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-07-28 |
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-05-24 | 2022-05-30 |
 | [Hit Me Where It Hurts](https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:04 | 2021-06-03 | 2022-06-04 |
-| [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 | 2021-06-03 |  |
+| [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 | 2021-06-03 | 2022-11-21 |
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-06-24 | 2022-09-19 |
 | [Holy Water](https://open.spotify.com/track/0y6YKUUfgrEAUqzCSTSS0j) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [True North](https://open.spotify.com/album/5CMPddM08M99BREQ7Rc5Tl) | 3:47 | 2021-06-03 | 2022-04-20 |
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-03 | 2022-06-04 |

@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 178840,
       "name": "Corrido de Chihuhua Sonora Querida",
       "url": "https://open.spotify.com/track/4nxrWWGSI4V03zjUT7ds8Q"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 232333,
       "name": "El Soltero",
       "url": "https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 147146,
       "name": "El Toro Zacatecano - Banda Sinaloense",
       "url": "https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg"
@@ -834,6 +834,28 @@
     },
     {
       "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "Lamento de Amor",
+      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+    },
+    {
+      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -993,7 +1015,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Mi Amiga Mi Esposa y Mi Amante",
       "url": "https://open.spotify.com/track/1D72stKLFdW30djzszFRgc"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 164733,
       "name": "Mi Matamoros Querido",
       "url": "https://open.spotify.com/track/5nZpxQ5za8QNYALVpcBZip"

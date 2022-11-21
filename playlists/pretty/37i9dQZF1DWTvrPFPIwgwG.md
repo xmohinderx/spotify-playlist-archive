@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cassiane, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,150 likes - 85 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,208 likes - 85 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 2 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 |
 | 3 | [Eu Não Desisto](https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Eu Não Desisto](https://open.spotify.com/album/6D3eEwIDgbIgoqJsBauwRq) | 4:30 |
 | 4 | [Eu Permiti o Vento](https://open.spotify.com/track/6oJc0Rbi2CosPI7uklUoV4) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Eu Permiti o Vento](https://open.spotify.com/album/6XaDKEzmAipRBCbXyCGEzn) | 6:13 |
-| 5 | [Deus Está Te Ensinando](https://open.spotify.com/track/6gbH6X0ngGL0XK6wAnAMpy) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Deus Está Te Ensinando](https://open.spotify.com/album/3HpJF8iPtOu6Gitthnyqjs) | 4:39 |
-| 6 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 |
+| 5 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 |
+| 6 | [Deus Está Te Ensinando](https://open.spotify.com/track/6gbH6X0ngGL0XK6wAnAMpy) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Deus Está Te Ensinando](https://open.spotify.com/album/3HpJF8iPtOu6Gitthnyqjs) | 4:39 |
 | 7 | [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 |
 | 8 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 |
 | 9 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 |
 | 10 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
 | 11 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 |
-| 12 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 |
+| 12 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
 | 13 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 |
-| 14 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
+| 14 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 |
 | 15 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 |
 | 16 | [Despreocupa](https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Despreocupa](https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI) | 5:10 |
 | 17 | [Onde Está Sua Fé?](https://open.spotify.com/track/3HBifoZvJ5ThoUuYdHpKpr) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Onde Está Sua Fé?](https://open.spotify.com/album/7JvK5SH4FvGMZWA8iDdsem) | 5:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY2NzU4NDY3OSwwMDAwMDAwMGZhM2M1ZTM3ZTAxNWZhMzEzODAxMWY5M2M2MjJkZmQ4`
+Snapshot ID: `MTY2NzU4NDY3OSwwMDAwMDAwMDA2NGQ1N2NhODkxMDk0YjhjMmQyMjc4MWNlZTE3MTY1`

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Freddie Dredd
 
-336 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+337 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-04-22 | 2022-07-29 |
 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 | 2022-07-08 | 2022-10-29 |
 | [Mindset](https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [The Vault II](https://open.spotify.com/album/5kOE2LtmpW9YqnyeFlmBAx) | 2:48 | 2021-09-17 | 2022-11-19 |
-| [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 | 2022-08-26 |  |
+| [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 | 2022-09-02 |  |
+| [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 | 2022-08-26 | 2022-11-21 |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-09-17 | 2022-04-19 |
 | [Molasses](https://open.spotify.com/track/6S3SnnZ7HRMoTF11Fqu8th) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Molasses](https://open.spotify.com/album/0XYwE2kQ3N6vpCiHQkjGHT) | 2:22 | 2022-03-16 | 2022-06-04 |
 | [MONOCHROME](https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MONOCHROME](https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg) | 2:19 | 2022-11-18 |  |

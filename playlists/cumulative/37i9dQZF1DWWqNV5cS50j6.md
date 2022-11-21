@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,199 songs - 2 day 10 hr 6 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,200 songs - 2 day 10 hr 8 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,8 @@
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-10-13\* | 2021-05-29 |
 | [Tarantino](https://open.spotify.com/track/3FBiYeUHxCbgsQmRz10abu) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/26LTl351R5RC8NwHJkGV6P) | 3:23 | 2021-01-25 | 2021-05-03 |
 | [tattoo](https://open.spotify.com/track/6SWZ5b6AEsa6eLfGhVFMf6) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [tattoo](https://open.spotify.com/album/6KBtMovsmrkQTnIj8YOiG6) | 1:47 | 2020-10-13\* | 2020-11-03 |
-| [Tattoos](https://open.spotify.com/track/0ho9SbEktNtbM7eBly2958) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/3zUAcJXXnaHWTGWimwp8iC) | 2:08 | 2022-10-25 |  |
+| [Tattoos](https://open.spotify.com/track/0ho9SbEktNtbM7eBly2958) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/3zUAcJXXnaHWTGWimwp8iC) | 2:08 | 2022-10-25 | 2022-11-21 |
+| [Tattoos](https://open.spotify.com/track/59qGmxN1vJNZf1Y9NXbR00) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Bad Decisions](https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU) | 2:08 | 2022-10-25 |  |
 | [Tattoos](https://open.spotify.com/track/7I68hTitgzvnxr9oUdUwmS) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Tattoos](https://open.spotify.com/album/4iH2XqPAfcKaSyxHGrAxCK) | 2:08 | 2022-07-01 | 2022-08-06 |
 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 | 2020-10-13\* | 2021-03-26 |
 | [Tell Me](https://open.spotify.com/track/7CNlUOUZbaxcyorkQle8o5) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Ghost With Skin](https://open.spotify.com/album/4fHPtUfTxQLSRSh4JqA4uf) | 3:41 | 2022-05-09 | 2022-05-24 |

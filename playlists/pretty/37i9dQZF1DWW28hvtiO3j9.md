@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,527 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,621 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 17 | [アクアマリンのままでいて \- 2021 Remix](https://open.spotify.com/track/3lIgUSh6MzLR0x6jg6EMlZ) | [Carlos Toshiki And Omega Tribe](https://open.spotify.com/artist/3ZSJOcGvaMOI6Op3PYpMM9) | [The Reverb 2022 OMEGA TRIBE \(WARNER MUSIC JAPAN Edition\)](https://open.spotify.com/album/36gn7tmmZceCd3SxHLBrg5) | 4:31 |
 | 18 | [Wash](https://open.spotify.com/track/0M9q4H3pQaoNUgBXZj34U1) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 4:31 |
 | 19 | [君は天然色](https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 5:06 |
-| 20 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
-| 21 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
+| 20 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
+| 21 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
 | 22 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
 | 23 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
 | 24 | [我がままなハイヒール](https://open.spotify.com/track/0SNdUPM8z7PlBlN3pyqVjB) | [Kaoru Akimoto](https://open.spotify.com/artist/4LUn6its1opwPzxJC1RM72) | [Cologne](https://open.spotify.com/album/5uEl2mEcKfGMij4tpMT164) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [サザンクロス](https://open.spotify.com/track/1kRBdvP2yok6k2mL0xxLWq) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [EDGE OF TIME](https://open.spotify.com/album/1AQ8E6n2dX0GBE53bGL7hj) | 5:37 |
 | 50 | [クルージング・オン](https://open.spotify.com/track/2MQUTZtyF7azClmtcbQwFB) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Monday Morning](https://open.spotify.com/album/3AXCgA9qtAcTM3zatEKkje) | 4:25 |
 
-Snapshot ID: `MTY2ODU2MDE3OSwwMDAwMDAwMGZkNWUxMGY4NGRkZTIzMmQ2M2U0YjU2MDc3YzhmMTE1`
+Snapshot ID: `MTY2ODU2MDE3OSwwMDAwMDAwMGYxNTVlYzYzMTRhMGQ4OTEwZDJhZGViY2I2NWQ4YTdk`

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 637331,
+  "num_followers": 637403,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0ODEzNywwMDAwMDAwMDE3MjY3OGNhNzhjZWEyOTNiZjczMmEwMGNhMzBiZDQz",
+  "snapshot_id": "MTY2ODE0ODEzNywwMDAwMDAwMGY4N2FlY2Y4YTU2MDZkYTZiNTZiNjY2YmVhNTdlMTZl",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
-      "added_at": "2022-11-20 01:08:27",
+      "added_at": "2022-11-21 01:06:07",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
-      "added_at": "2022-11-20 01:08:27",
+      "added_at": "2022-11-21 01:06:07",
       "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
-      "added_at": "2022-11-20 01:08:27",
+      "added_at": "2022-11-21 01:06:07",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -275,62 +275,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 117211,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
-    },
-    {
-      "added_at": "2022-11-20 01:08:27",
-      "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
-      },
-      "artists": [
-        {
-          "name": "Katori Walker",
-          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
-        }
-      ],
-      "duration_ms": 144519,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Walkin (Key Glock remix)",
-        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Walkin - Key Glock remix",
-      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
       },
@@ -351,6 +295,62 @@
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "added_at": "2022-11-21 01:06:07",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "duration_ms": 144519,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3d7aL2Z4Ovrwei3wevMEIt"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Walkin (Key Glock remix)",
+        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Walkin - Key Glock remix",
+      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Plain Sight",
-        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Plain Sight",
-      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 92000,
       "name": "Jus Lef Phoenix",
       "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Plain Sight",
+        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Plain Sight",
+      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
     },
     {
       "added_at": "2022-11-04 04:00:00",

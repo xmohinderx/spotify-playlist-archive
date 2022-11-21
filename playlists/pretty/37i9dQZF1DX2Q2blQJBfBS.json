@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 14226,
+  "num_followers": 14180,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGU2MzYxNmVlNmEyYzZlOTYzMmJhZDYxOGVkNzgxODQ3",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDA4MWUxYzYyN2VlOWY2M2ZmOGU2YjJmODUxNGRjYTcz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Don't Sweat The Technique",
+        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Don't Sweat The Technique",
+      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Don't Sweat The Technique",
-        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Don't Sweat The Technique",
-      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 244250,
       "name": "Peppas (feat. Black Star)",
       "url": "https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/0X9tyUxH6fPN0C2BgESONf"
     },
     {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "The Prof Meets The SUPER VILLAIN",
+        "url": "https://open.spotify.com/album/1akrx117lSf7Exc1OQlLcu"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "The Prof.",
+          "url": "https://open.spotify.com/artist/7wwrfbv1PQvXAShKzNRdv8"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "My Favorite Ladies",
+      "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
+    },
+    {
       "added_at": "2022-05-27 13:52:51",
       "album": {
         "name": "Orville",
@@ -949,26 +969,6 @@
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "The Prof Meets The SUPER VILLAIN",
-        "url": "https://open.spotify.com/album/1akrx117lSf7Exc1OQlLcu"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "The Prof.",
-          "url": "https://open.spotify.com/artist/7wwrfbv1PQvXAShKzNRdv8"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "My Favorite Ladies",
-      "url": "https://open.spotify.com/track/1BQ7NbAotfutwilc1ErwYz"
-    },
-    {
       "added_at": "2022-05-27 12:00:00",
       "album": {
         "name": "Carry Me Home",
@@ -983,26 +983,6 @@
       "duration_ms": 132000,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
-    },
-    {
-      "added_at": "2022-05-13 12:00:00",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Cataracts",
-      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1027,6 +1007,26 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-05-13 12:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Cataracts",
+      "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Fantastic, Vol. 2.10",
+        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "2 P'z In A Pod",
         "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 177819,
       "name": "Vanilla Cream",
       "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Fantastic, Vol. 2.10",
-        "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 209119,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/0Q5lwuDqIW85PupgHFJwVb"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -1453,26 +1453,6 @@
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
-      },
-      "artists": [
-        {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
-        },
-        {
-          "name": "Deca",
-          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
-        }
-      ],
-      "duration_ms": 221029,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
-    },
-    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "No Gold Teeth",
@@ -1491,6 +1471,26 @@
       "duration_ms": 153600,
       "name": "No Gold Teeth",
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
+      },
+      "artists": [
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Deca",
+          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
+        }
+      ],
+      "duration_ms": 221029,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
       "added_at": "2022-07-08 12:00:00",
@@ -1833,6 +1833,30 @@
       "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "MOVIN'",
+        "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+        }
+      ],
+      "duration_ms": 153028,
+      "name": "MOVIN'",
+      "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
       "added_at": "2022-07-29 12:00:00",
       "album": {
         "name": "Desired Effect",
@@ -1877,6 +1901,22 @@
       "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Poppin' Wheelies",
@@ -1895,22 +1935,6 @@
       "duration_ms": 177946,
       "name": "Poppin' Wheelies",
       "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1935,30 +1959,6 @@
       "duration_ms": 184013,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Feeling Like Jah",
-        "url": "https://open.spotify.com/album/0QnLoxNh9dkgQ745a8Auiu"
-      },
-      "artists": [
-        {
-          "name": "Phro.",
-          "url": "https://open.spotify.com/artist/5YXHkRQUQU314daYoZDI9n"
-        },
-        {
-          "name": "Jayy Grams",
-          "url": "https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd"
-        },
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Feeling Like Jah",
-      "url": "https://open.spotify.com/track/0N4D8Z006iarE9WUhWCMlf"
     },
     {
       "added_at": "2022-05-10 19:26:35",

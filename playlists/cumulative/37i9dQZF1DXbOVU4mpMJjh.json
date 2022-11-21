@@ -2212,6 +2212,24 @@
     },
     {
       "album": {
+        "name": "For Theodora",
+        "url": "https://open.spotify.com/album/06Ld3YPBpEKNrpFCwrURO3"
+      },
+      "artists": [
+        {
+          "name": "The Central Park North",
+          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188355,
+      "name": "For Theodora",
+      "url": "https://open.spotify.com/track/782yLVaT5RonpqxonaqbNu"
+    },
+    {
+      "album": {
         "name": "Countdown",
         "url": "https://open.spotify.com/album/4TaOCrT1cWbvKXq46fIMll"
       },
@@ -6609,7 +6627,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 255896,
       "name": "Stillness is a Gift",
       "url": "https://open.spotify.com/track/4cPz5Fm127FenLUfTJ6G2l"

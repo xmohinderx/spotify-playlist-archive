@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 802851,
+  "num_followers": 802982,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMDY4MWE4Y2FiM2Q0MmRjMmY0OTdlZDBiYmU3ZWI0ODRk",
+  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMDI3ZjQwNmVkMDM1NjA1MmZiMjQ4ZDUxMTljNmFhYjM4",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -395,18 +375,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "INTER SHIBUYA (FERXXO EDITION)",
-        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 189613,
-      "name": "AMOR DE MI VIDA",
-      "url": "https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK"
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -459,6 +443,22 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "INTER SHIBUYA (FERXXO EDITION)",
+        "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "AMOR DE MI VIDA",
+      "url": "https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -817,6 +817,26 @@
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
     },
     {
+      "added_at": "2022-11-21 01:15:38",
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+    },
+    {
       "added_at": "2022-08-05 16:27:56",
       "album": {
         "name": "No Te Enamores (Remix)",
@@ -847,26 +867,6 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
-    },
-    {
-      "added_at": "2022-11-20 01:17:31",
-      "album": {
-        "name": "Un Minuto",
-        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
-      },
-      "artists": [
-        {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "Un Minuto",
-      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 165957,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 267109,
       "name": "Vuelva A Ver - Remix",
       "url": "https://open.spotify.com/track/0GrGfs8ldZRWOrksG5uraH"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
     },
     {
       "added_at": "2022-08-05 16:27:56",

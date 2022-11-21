@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 166231,
       "name": "I Will Be Better Than You At Letting Go",
       "url": "https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA"
@@ -1114,6 +1114,28 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
+    },
+    {
+      "album": {
         "name": "Love Is A State Of Mind (feat. Ramona Renea)",
         "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
       },
@@ -1129,7 +1151,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-21",
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
@@ -1673,6 +1695,24 @@
       "duration_ms": 197487,
       "name": "Time I Love To Waste",
       "url": "https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi"
+    },
+    {
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/7rvSSNrAP99MNu9mKYrU5X"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283596,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/3v2yVqzxhUa79fphga70JJ"
     },
     {
       "album": {

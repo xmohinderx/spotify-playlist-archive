@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
-  "num_followers": 732514,
+  "num_followers": 732627,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDljNjY3ZWUxNGM4ZGYzMWM3MTg5MzA0Zjg2YzQyYjEy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDYzMTVkNTUzNGM1Yzc5MzIxN2Q4N2VmNDI2MTJlNzlm",
   "tracks": [
     {
       "added_at": "2021-11-26 07:27:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/0uFnnurkT6KwgzfQ6KAvSi"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "VF VOL II",
-        "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 178389,
-      "name": "THE ONE",
-      "url": "https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "NO TOMORROW",
@@ -757,24 +741,20 @@
       "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
     },
     {
-      "added_at": "2022-03-18 15:52:34",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "FLOW IN YOU",
-        "url": "https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu"
+        "name": "VF VOL II",
+        "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "June One",
-          "url": "https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 185142,
-      "name": "FLOW IN YOU",
-      "url": "https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB"
+      "duration_ms": 178389,
+      "name": "THE ONE",
+      "url": "https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -795,6 +775,26 @@
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+    },
+    {
+      "added_at": "2022-03-18 15:52:34",
+      "album": {
+        "name": "FLOW IN YOU",
+        "url": "https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "June One",
+          "url": "https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "FLOW IN YOU",
+      "url": "https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/3p2Dz6a0slY4fWQLC8eXsS"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Data Loss",
-        "url": "https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W"
-      },
-      "artists": [
-        {
-          "name": "JKuch",
-          "url": "https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT"
-        },
-        {
-          "name": "Adam Tell",
-          "url": "https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl"
-        }
-      ],
-      "duration_ms": 165526,
-      "name": "Data Loss",
-      "url": "https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O"
-    },
-    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "The Letter Blue (Branchez Remix)",
@@ -983,6 +963,26 @@
       "duration_ms": 150545,
       "name": "The Letter Blue - Branchez Remix",
       "url": "https://open.spotify.com/track/6Ybtd0fwLZnOqU4Kd8etj9"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Data Loss",
+        "url": "https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W"
+      },
+      "artists": [
+        {
+          "name": "JKuch",
+          "url": "https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT"
+        },
+        {
+          "name": "Adam Tell",
+          "url": "https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl"
+        }
+      ],
+      "duration_ms": 165526,
+      "name": "Data Loss",
+      "url": "https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Everybody You Hurt",
-        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
-      },
-      "artists": [
-        {
-          "name": "Aaron Kates",
-          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Everybody You Hurt",
-      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "it's the end of the world, but it's ok",
         "url": "https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Everybody You Hurt",
+        "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kates",
+          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Everybody You Hurt",
+      "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Knock the Wind Out",
         "url": "https://open.spotify.com/album/0cgdngdkYBSeSkoQ07SnLZ"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 184761,
       "name": "Knock the Wind Out",
       "url": "https://open.spotify.com/track/2z6rarDaYU9H2z1IY1QLqv"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/2nUyuLjvJR5TWoiT0yZZf5"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "dawsonLIED",
-          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1191,22 +1171,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Blueberry",
-        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2nUyuLjvJR5TWoiT0yZZf5"
       },
       "artists": [
         {
-          "name": "Direct",
-          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         },
         {
-          "name": "Exist Strategy",
-          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+      "duration_ms": 213817,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1235,22 +1215,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "T0NITE",
-        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
-      },
-      "artists": [
-        {
-          "name": "HELLHEIM",
-          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
-        }
-      ],
-      "duration_ms": 123259,
-      "name": "T0NITE",
-      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Hurting on Purpose (feat. K.Flay)",
         "url": "https://open.spotify.com/album/1l1LupuEyKmrHfDa3HOtCF"
       },
@@ -1267,6 +1231,42 @@
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Blueberry",
+        "url": "https://open.spotify.com/album/4r0rVzP7g7nZWpiDHxDKTr"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Exist Strategy",
+          "url": "https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "T0NITE",
+        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
+      },
+      "artists": [
+        {
+          "name": "HELLHEIM",
+          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
+        }
+      ],
+      "duration_ms": 123259,
+      "name": "T0NITE",
+      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Sakura VIP",
-        "url": "https://open.spotify.com/album/3K8aKx7HyQOHrpeMU4pMOZ"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
       },
       "artists": [
         {
-          "name": "NUU$HI",
-          "url": "https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Sakura VIP",
-      "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
+      "duration_ms": 174283,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
+        "name": "Sakura VIP",
+        "url": "https://open.spotify.com/album/3K8aKx7HyQOHrpeMU4pMOZ"
       },
       "artists": [
         {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+          "name": "NUU$HI",
+          "url": "https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh"
         }
       ],
-      "duration_ms": 174283,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
+      "duration_ms": 150857,
+      "name": "Sakura VIP",
+      "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1541,6 +1541,26 @@
       "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
     },
     {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT"
+      },
+      "artists": [
+        {
+          "name": "Duumu",
+          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
+        },
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
+    },
+    {
       "added_at": "2021-10-08 04:03:00",
       "album": {
         "name": "Drugs in California",
@@ -1571,26 +1591,6 @@
       "duration_ms": 201637,
       "name": "care about u",
       "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT"
-      },
-      "artists": [
-        {
-          "name": "Duumu",
-          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
-        },
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1671,18 +1671,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "gold",
-        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
+        "name": "Rooms on the Ark",
+        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
       },
       "artists": [
         {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Alex Arcoleo",
+          "url": "https://open.spotify.com/artist/1Al565vLrClijuyyPwapim"
         }
       ],
-      "duration_ms": 193175,
-      "name": "gold",
-      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
+      "duration_ms": 210266,
+      "name": "The Gallery",
+      "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1699,6 +1703,22 @@
       "duration_ms": 259660,
       "name": "Something Wonderful",
       "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 193175,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1735,26 +1755,6 @@
       "duration_ms": 238206,
       "name": "Temper",
       "url": "https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Rooms on the Ark",
-        "url": "https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Alex Arcoleo",
-          "url": "https://open.spotify.com/artist/1Al565vLrClijuyyPwapim"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "The Gallery",
-      "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
     },
     {
       "added_at": "2022-05-13 04:28:02",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Vultures",
-        "url": "https://open.spotify.com/album/1tSLHZZYhk0uQgfuvevnkF"
-      },
-      "artists": [
-        {
-          "name": "Chee",
-          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 136551,
       "name": "You",
       "url": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/1tSLHZZYhk0uQgfuvevnkF"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2081,22 +2081,6 @@
       "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 163669,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "The Deep End",
@@ -2111,6 +2095,22 @@
       "duration_ms": 206250,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 163669,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2269,22 +2269,6 @@
       "url": "https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Dish",
-        "url": "https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1"
-      },
-      "artists": [
-        {
-          "name": "Pheeno",
-          "url": "https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Dish",
-      "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
-    },
-    {
       "added_at": "2022-01-26 15:34:59",
       "album": {
         "name": "Narrow",
@@ -2303,6 +2287,22 @@
       "duration_ms": 216200,
       "name": "Narrow",
       "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Dish",
+        "url": "https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1"
+      },
+      "artists": [
+        {
+          "name": "Pheeno",
+          "url": "https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Dish",
+      "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
     },
     {
       "added_at": "2022-07-22 04:01:00",

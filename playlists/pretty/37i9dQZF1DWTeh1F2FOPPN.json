@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 7118,
+  "num_followers": 7260,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDRmYWE5N2U0ZTJlMjFlOTkwY2MxNjU4ZjMzM2U1N2Q3",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDhhOWI3ZjU4MDMzMmM5OThmMmVhMmM3ZjI0OWEyMDhk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Get It Over With",
-      "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215466,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Get It Over With",
+      "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
     },
     {
       "added_at": "2022-10-01 16:54:27",

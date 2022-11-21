@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Dermot Kennedy
 
-1,493 songs - 3 day 5 hr 18 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,495 songs - 3 day 5 hr 25 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [All We Got \(feat\. KIDDO\)](https://open.spotify.com/track/1FP9s72rDYty6mfoOEYKnE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [All We Got \(feat\. KIDDO\)](https://open.spotify.com/album/7wzcIKvtXDWs1VA2BMHuaY) | 3:10 | 2020-10-16 | 2021-01-15 |
 | [All You Ever Wanted](https://open.spotify.com/track/2kBKorwFFeinUr5KwGeBmk) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [All You Ever Wanted](https://open.spotify.com/album/3b8Z3Rdgam0S8ynVeYlp1B) | 3:06 | 2021-01-29 | 2021-02-19 |
 | [All Your Exes](https://open.spotify.com/track/2SDswD3RdceDWthkgCrCCU) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [All Your Exes](https://open.spotify.com/album/1yo1w1CBfPMLaXycgfNj70) | 3:29 | 2021-03-26 | 2021-06-19 |
-| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-11-18 |  |
+| [Alone](https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 3:41 | 2022-11-18 | 2022-11-21 |
 | [Alone](https://open.spotify.com/track/4SVuJDPtk2kJl3ULqO5nvF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Alone](https://open.spotify.com/album/4xAOOAuLxBOqEworUmUWhc) | 3:04 | 2021-09-25 | 2021-10-16 |
 | [alone in a room full of people](https://open.spotify.com/track/6D7Y1ifRZYfqaTvffJ2zGT) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [misery lake](https://open.spotify.com/album/6vqNFOfIgqe0l2Ui47YSyO) | 2:34 | 2021-08-14 | 2021-09-11 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-13 | 2021-12-04 |
@@ -280,7 +281,8 @@
 | [Company \(feat\. Future\)](https://open.spotify.com/track/3JVTsvTldB6arHVlmxmTnM) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 3:33 | 2021-04-10 | 2021-05-15 |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-04 | 2022-06-04 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-10-08 |
-| [Con La Brisa](https://open.spotify.com/track/4M6pDt6pICsMiiwXGkufLe) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:47 | 2022-11-18 |  |
+| [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2022-11-18 |  |
+| [Con La Brisa](https://open.spotify.com/track/4M6pDt6pICsMiiwXGkufLe) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:47 | 2022-11-18 | 2022-11-21 |
 | [Confetti](https://open.spotify.com/track/5jGFX898BfHJ8Laz6Fjdeo) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/6XARsSgDs7DjxJFawTlhCH) | 2:47 | 2020-11-06 | 2020-11-20 |
 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-08-26 | 2022-09-17 |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-01-15 | 2021-01-29 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Dermot Kennedy \(pictured\), PinkPantheress, Sam Smith and more!
 
-528 songs - 1 day 4 hr 42 min - not published yet
+529 songs - 1 day 4 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-04 | 2022-11-11 |
 | [Spot It I Got It](https://open.spotify.com/track/7fHWYqJHAeM1eyvZZVbhwY) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Spot It I Got It](https://open.spotify.com/album/61NAFgM8Hmj6sME58lAyh2) | 2:41 | 2022-11-11 | 2022-11-18 |
 | [State Of Mind](https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [State Of Mind](https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN) | 3:25 | 2022-11-18 |  |
-| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-18 |  |
+| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-18 | 2022-11-21 |
+| [Stay Awhile](https://open.spotify.com/track/4wCZOU5q8Xlir3MBux8WzO) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Profound Mysteries III](https://open.spotify.com/album/6u9KIeN3HGS6gZIwzogb5x) | 6:11 | 2022-11-18 |  |
 | [Stay on the Phone](https://open.spotify.com/track/1hd1V2YCoibJFgB1bYCyjB) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Stay on the Phone](https://open.spotify.com/album/7DzgH7oxnttnZruu0Azjy1) | 3:01 | 2022-11-11 | 2022-11-18 |
 | [Stick up Man](https://open.spotify.com/track/4XJPAIcSCBc0ltPAW3K4sB) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Stick up Man](https://open.spotify.com/album/1lcIhKIzYmbifWY7fhEfMo) | 1:45 | 2022-11-04 | 2022-11-11 |
 | [streetlights](https://open.spotify.com/track/4snHVqheyvbhY5lstQsc1N) | [Oliver Keane](https://open.spotify.com/artist/5ZkAOoZPehfyH4V00NYVb8) | [streetlights](https://open.spotify.com/album/3ymvyBafzZgEeiLKjjD2O6) | 3:25 | 2022-11-18 |  |

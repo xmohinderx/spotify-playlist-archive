@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,927 likes - 124 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,964 likes - 124 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

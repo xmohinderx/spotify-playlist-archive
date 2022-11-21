@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-221 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+222 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Abu Simbel \- Hania Rani Invalides Version](https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Abu Simbel \(Hania Rani Invalides Version\)](https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900) | 5:39 | 2022-07-22 |  |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 |  |
 | [And Then It Rained](https://open.spotify.com/track/6uXVIBmojLA2TiNLp9tLjm) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [City Lake](https://open.spotify.com/album/1YXP2GYpNBLrXBWD5j9iM1) | 4:52 | 2022-03-25 | 2022-04-02 |
-| [Appearing](https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Appearing](https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai) | 3:54 | 2022-10-28 |  |
+| [Appearing](https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Appearing](https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai) | 3:54 | 2022-10-28 | 2022-11-21 |
 | [autre part](https://open.spotify.com/track/77Lhltr0ekivd0ZXDK9ESe) | [Peter Belec](https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu), [Jeff Roy](https://open.spotify.com/artist/2TKigSrU6lcEAq168uMq2g) | [autre part](https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit) | 3:10 | 2022-05-13 | 2022-07-22 |
 | [Beethoven: Für Elise in 432 Hz \(Redesigned\)](https://open.spotify.com/track/78feddr4aLFD6QoxZrVH2D) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Adelio](https://open.spotify.com/artist/4rwNUpjXrIWSIbWDM8Xz69) | [Beethoven: Für Elise in 432 Hz \(Redesigned\)](https://open.spotify.com/album/2tFVmygcqXtYk6dRPttag6) | 2:19 | 2022-02-18 | 2022-04-01 |
 | [Bells Variation](https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Bells Variation](https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ) | 2:59 | 2022-01-21 | 2022-08-24 |
@@ -145,6 +145,7 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-08-26 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-07-22 | 2022-08-26 |
 | [My Perception of Love](https://open.spotify.com/track/2DmRw6o0JSOvznQe9UGuiD) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [12.95 \- A Shortstory](https://open.spotify.com/album/2ObSe5nRNskTL9NhNVjWCD) | 3:59 | 2022-03-25 | 2022-04-02 |
+| [New Beginning](https://open.spotify.com/track/4Pvt5sRCWGXDFa1Zyv7X7Q) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [New Beginning](https://open.spotify.com/album/1haQIg0VfdYNGMLVsplGzo) | 6:05 | 2022-11-18 |  |
 | [New Grass — piano reworks](https://open.spotify.com/track/3E8cDI21EQkDQjncehTKFL) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [New Grass — piano reworks](https://open.spotify.com/album/4KGB54dfOJOX4e6wEiryws) | 3:36 | 2022-09-16 |  |
 | [Newborn](https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Newborn](https://open.spotify.com/album/3sjsBHfPPgzwsF9PR8qR8i) | 4:21 | 2021-12-10 | 2022-04-02 |
 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 | 2021-12-10 |  |

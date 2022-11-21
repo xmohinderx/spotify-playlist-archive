@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: CLASS:y\(클라씨\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: BIBI\(비비\)
 
-324 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+325 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BARCODE](https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [BARCODE](https://open.spotify.com/album/0IZZIwintx6HphavroWxdN) | 3:36 | 2021-11-14 | 2022-07-22 |
 | [BByong](https://open.spotify.com/track/5kVS7aNCn4N7X4zQ39auiK) | [Saturday](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph) | [The 3rd Single Album 'IKYK'](https://open.spotify.com/album/2WWuzV3ig4U9SanbnkQWyM) | 3:29 | 2021-01-15 | 2022-04-18 |
 | [because I can not decide](https://open.spotify.com/track/3Vj6e7Fbyt0LqXiDxnd1qg) | [Jenyer](https://open.spotify.com/artist/05uheFGPahVh2nHIZK1KuB) | [the moment i loved](https://open.spotify.com/album/3KJwj3qcRvAXEiYDZ5IP88) | 3:27 | 2021-01-17 | 2022-04-21 |
+| [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-20 |  |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-02-28 | 2022-04-16 |
 | [BINU](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BINU](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 | 2021-03-14 | 2021-03-17 |
 | [Black](https://open.spotify.com/track/5mJV0fXk6rRey5B1KeYbNQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:14 | 2021-02-26 | 2022-04-19 |
@@ -272,7 +273,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [The Boots](https://open.spotify.com/track/73BjKZxwy47mJuTfIlcXfI) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 3:21 | 2021-03-07 | 2021-03-08 |
 | [Thumbs Up](https://open.spotify.com/track/1TDvkATTyjLCh8Teuqa7Dc) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Thumbs Up](https://open.spotify.com/album/3PG4dq1ZweU7obfiKRQCtw) | 3:18 | 2021-02-26 | 2021-03-18 |
-| [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 |  |
+| [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-26 | 2022-11-21 |
 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 | 2021-10-27 | 2022-06-01 |
 | [Tiger Eyes](https://open.spotify.com/track/1boEZE7JfhFGU8ZhJOmoWF) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [RYU SU JEONG 1st Mini Album \[Tiger Eyes\]](https://open.spotify.com/album/4HHW42BPxobSoqn8P5sUGE) | 3:37 | 2020-10-13\* | 2021-02-16 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-21 | 2022-07-28 |

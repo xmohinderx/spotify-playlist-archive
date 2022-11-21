@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: AJR
 
-2,019 songs - 4 day 4 hr 50 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+2,020 songs - 4 day 4 hr 54 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2022-06-04 |
 | [Dreambaby](https://open.spotify.com/track/6EfH5YcHB8uimx9xkz0ZZt) | [Photographic Memory](https://open.spotify.com/artist/64x3JwG14gkRHW8lVDvvSV) | [Dreambaby](https://open.spotify.com/album/0Q8RCv2RqKyb20ktL5D04V) | 2:22 | 2022-07-15 | 2022-07-30 |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-07-23 |
+| [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-20 |  |
 | [Drive Me Crazy](https://open.spotify.com/track/2kF1ckubDNFobZKvn7WcV2) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Drive Me Crazy](https://open.spotify.com/album/72KiEcpgHnTHc4fmfALsIA) | 2:29 | 2022-11-04 | 2022-11-19 |
 | [Drown](https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Drown](https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB) | 3:01 | 2022-09-09 | 2022-09-24 |
 | [Drowning](https://open.spotify.com/track/4mXPA7pFHil9wtWk6LaGmT) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Drowning](https://open.spotify.com/album/0ajrIRYzVQ3srvWYtlWOp5) | 2:43 | 2022-02-11 | 2022-03-05 |

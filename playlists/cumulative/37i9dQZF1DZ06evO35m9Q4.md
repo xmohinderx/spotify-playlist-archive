@@ -4,7 +4,7 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/2sTCeRqFZP7FBgs84k9rr5)
+60 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/2sTCeRqFZP7FBgs84k9rr5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Gone Home](https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:04 | 2022-08-22 | 2022-09-29 |
 | [I'm Cryin'](https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:43 | 2022-08-07 | 2022-09-25 |
 | [I'm Leaving You \(Commit A Crime\) \- Live](https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 5:35 | 2022-08-05 |  |
-| [Iced Over \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:11 | 2022-08-05 |  |
+| [Iced Over \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:11 | 2022-08-05 | 2022-11-21 |
 | [In the Open \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/07DsSy1L0z2JsiUfwR0pu7) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 5:53 | 2022-08-05 |  |
 | [Intro \- Ken Dashow / John Hammond \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/240SjhK6MlhtKUdU7fLBxt) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 2:09 | 2022-08-05 |  |
 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 | 2022-08-05 |  |
@@ -41,6 +41,7 @@
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:46 | 2022-08-05 |  |
 | [Match Box Blues](https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 7:39 | 2022-09-04 | 2022-11-18 |
 | [May I Have a Talk with You](https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 5:48 | 2022-08-05 |  |
+| [Old Times](https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 1:15 | 2022-11-20 |  |
 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 | 2022-08-05 |  |
 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2022-08-05 |  |
 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 |  |

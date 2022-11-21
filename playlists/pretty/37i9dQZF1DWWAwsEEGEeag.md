@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,813 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,825 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 98 | [Way to be Loved](https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Picture You Staring](https://open.spotify.com/album/4z3LIKiUlP8T192JheUI1U) | 4:23 |
 | 99 | [Recto Verso \- Mall Grab Remix](https://open.spotify.com/track/5FVdng1BLqLy5Q1u71LuY6) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Recto Versions](https://open.spotify.com/album/0OwJqkCyb1CLLcIvauh1Uo) | 5:54 |
 | 100 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
-| 101 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
+| 101 | [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDhjMWQ2ZmY2NGUzMDZkNjEyMGJlOThlOGZiYzY2OTI0`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDkyYjY1MDJmNjA3ZGRiZDkwYmFhYzRiYTE5OGMyZTY3`

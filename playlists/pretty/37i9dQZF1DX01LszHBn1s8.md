@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🚓 arrest the people that threw skittles at harry styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,848 likes - 593 songs - 1 day 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,106 likes - 593 songs - 1 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

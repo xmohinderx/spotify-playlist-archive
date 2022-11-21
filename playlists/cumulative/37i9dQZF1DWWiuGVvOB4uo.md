@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-216 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
+217 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Wish You Were Here](https://open.spotify.com/track/4GKleQApcyCJduauR13QIi) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [Wish You Were Here](https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn) | 3:18 | 2022-08-26 |  |
 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 | 2022-08-26 |  |
 | [Without Me](https://open.spotify.com/track/7lw7mmUri6oG70hhp6YAMP) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 3:52 | 2022-08-26 |  |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 | 2022-08-26 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2022-10-28 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 | 2022-08-26 | 2022-11-21 |
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4) | 3:30 | 2022-08-26 |  |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-08-26 |  |
 
