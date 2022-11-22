@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-67 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
+68 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Very little wishes](https://open.spotify.com/track/0sy481jsaYC1fNqGWgKTM2) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [MACROSS PLUS ORIGINAL SOUNDTRACK](https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8) | 2:29 | 2022-04-19 |  |
 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 | 2022-03-25 |  |
 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 | 2022-03-25 | 2022-07-29 |
+| [それぞれの居場所は](https://open.spotify.com/track/53qehEsM6WQvVvAN2c8QCv) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [映画「雨を告げる漂流団地」Original Soundtrack](https://open.spotify.com/album/5ByRDSKXANCR64CrrUsppt) | 2:48 | 2022-11-21 |  |
 | [まったりとした日常](https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:28 | 2022-03-25 |  |
 | [めぐり](https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:50 | 2022-03-25 | 2022-07-29 |
 | [ガーシュイン:ラプソディ・イン・ブルー ドラマエンディングロングヴァージョン](https://open.spotify.com/track/0xcemfCcLJt8eftaOXtYI6) | [のだめカンタービレ](https://open.spotify.com/artist/6nWWsbt4NZhcUKinYxZ8PN) | [のだめカンタービレ スペシャル BEST!](https://open.spotify.com/album/36ClMaSzNcAarTjk2LC3ej) | 1:55 | 2022-03-25 | 2022-07-29 |

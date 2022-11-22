@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Roddy Ricch, Pharrell Williams ft\. Travis Scott, Sean Leon ft\. Ye, and Saweetie is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,622 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,740 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "ESTADO CRITICAL",
+        "url": "https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe"
+      },
+      "artists": [
+        {
+          "name": "Critical Baby",
+          "url": "https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131332,
+      "name": "HIP\u00d3CRITA",
+      "url": "https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf"
+    },
+    {
+      "album": {
         "name": "HIP\u00d3CRITA",
         "url": "https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz"
       },

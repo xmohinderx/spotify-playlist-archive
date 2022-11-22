@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,474 songs - 7 day 2 hr 37 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,475 songs - 7 day 2 hr 39 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3818,7 +3818,8 @@
 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-11-05 | 2022-05-27 |
 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2020-10-28 | 2021-10-20 |
 | [Synergy](https://open.spotify.com/track/01ArL6Ix0SUyFHkAGAMBE2) | [Lofi Astronaut](https://open.spotify.com/artist/0BQRdk9XRbCZE8wGYAz4dG) | [Synergy \(Lofi Music\)](https://open.spotify.com/album/3q78HwaB3CJqbHQxZGWc7l) | 2:53 | 2022-08-05 | 2022-11-18 |
-| [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-18 |  |
+| [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-18 | 2022-11-22 |
+| [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 | 2022-11-18 |  |
 | [Synthetic Love](https://open.spotify.com/track/4cdUlJdtucjfgP5ZtJTRLC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/3bwD9r16L9AO8wnFxIgO9y) | 2:48 | 2022-09-23 | 2022-11-20 |
 | [Synthetic Love](https://open.spotify.com/track/5BEgq7uOF1rGPA9ZKi04kC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/6dCGTeSHnnuY80DFvTVQhF) | 2:48 | 2022-11-18 | 2022-11-21 |
 | [São Paulo Coffee](https://open.spotify.com/track/6cyyXQq8PPh9mMMFtQPxRf) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [São Paulo Coffee](https://open.spotify.com/album/6ikvNfZHMcXxxPQZgss50v) | 1:58 | 2021-10-20 | 2022-04-15 |

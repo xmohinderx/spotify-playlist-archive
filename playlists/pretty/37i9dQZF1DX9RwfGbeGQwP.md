@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,057 likes - 500 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,299 likes - 500 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 266 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 |
 | 267 | [Lovely](https://open.spotify.com/track/6pCeOoucc7fLEQuINzJ2Fk) | [YJKL](https://open.spotify.com/artist/3BhHTALkwD57tJXbvOw3AR), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Lovely](https://open.spotify.com/album/6KHanFx0MzObgqKBhesl0F) | 1:47 |
 | 268 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 |
-| 269 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 |
+| 269 | [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 |
 | 270 | [Walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 |
 | 271 | [Dream Infinite](https://open.spotify.com/track/6V8CcTlVfqScjBMEyt1tih) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dream Infinite](https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q) | 1:44 |
 | 272 | [Half Moon](https://open.spotify.com/track/5T1jVQdly3YDNGe2x1RZ7v) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Half Moon](https://open.spotify.com/album/6fwb2iWqz4SW2mTfjgDfZC) | 2:24 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Happy 35](https://open.spotify.com/track/5GJGmY77aFrnD12H125nMS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/3KIu2RcUaixIF4SzNU9TSD) | 2:35 |
 | 500 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
 
-Snapshot ID: `MTY2ODE2NTgwNSwwMDAwMDAwMDZiYWFjMGFmYzg0OTcyMDEzMzZkNjYyYjk4NjFlMTk0`
+Snapshot ID: `MTY2ODE2NTgwNSwwMDAwMDAwMDE3OWQxMjcxNmExMWNiMmFmMDQ0MDQ3OWZlODI3NzAx`

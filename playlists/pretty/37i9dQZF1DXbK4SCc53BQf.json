@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 76518,
+  "num_followers": 76543,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDY4NmU1MzkyNzUxMjdhYTZhZjMxYzI1YWI0MzU2YWU4",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDVlYWNjNGZhNWFhYTg0ZjY2ZDg5YjcyMWJmZGMzYzIx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -159,6 +159,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Voy a Amarte",
+        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
+      },
+      "artists": [
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Volar\u00e9",
         "url": "https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf"
       },
@@ -179,50 +195,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Voy a Amarte",
-        "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
       },
       "artists": [
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Al Taller del Maestro",
-        "url": "https://open.spotify.com/album/5zA0BCRlgbhR7bBbDcrQsi"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Al Taller del Maestro",
-      "url": "https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -243,18 +227,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+        "name": "Al Taller del Maestro",
+        "url": "https://open.spotify.com/album/5zA0BCRlgbhR7bBbDcrQsi"
       },
       "artists": [
         {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+      "duration_ms": 312666,
+      "name": "Al Taller del Maestro",
+      "url": "https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -275,6 +259,22 @@
       "duration_ms": 202000,
       "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Los Revolucionarios",
         "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Soy Sonero - Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Vuelvo a Nacer",
+      "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Soy Sonero - Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
       "artists": [
         {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Vuelvo a Nacer",
-      "url": "https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma"
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "This Is My Time",
         "url": "https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 228089,
       "name": "Yo Te Prometo",
       "url": "https://open.spotify.com/track/2MHniwGrGDFCG43jLenfpI"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/5obRq2pwQQHNOeG3Tp1Tv0"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/13zI0iUXyWpiHIPVte2cD2"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 222458,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Desde Mi Alma",
         "url": "https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Vestida De Adoracion",
         "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 257650,
       "name": "Yo Te Adoro",
       "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Colaboraciones de Ayer y Hoy",
-        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
-      },
-      "artists": [
-        {
-          "name": "Rescate",
-          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "Soy Jose",
-      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -811,6 +791,26 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Colaboraciones de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Soy Jose",
+      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
     },
     {
       "added_at": "2020-11-24 13:23:55",

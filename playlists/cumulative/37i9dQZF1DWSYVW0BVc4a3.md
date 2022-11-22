@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: ARTBAT
 
-233 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+234 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-27 | 2022-11-04 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 | 2022-10-31 |
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
-| [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-15 |  |
+| [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-15 | 2022-11-22 |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/track/23TU00ZacXcRMkL4iclubv) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Sam Phay](https://open.spotify.com/artist/0zTCoyOV9kZ4RNUWpZsLTb) | [Dominoes \(feat\. Sam Phay\)](https://open.spotify.com/album/1OmjAxwm3U3mxCEkYAioMX) | 4:27 | 2022-08-18 | 2022-08-20 |
 | [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4) | 5:56 | 2022-08-18 | 2022-11-13 |
@@ -121,6 +121,7 @@
 | [Let Us Rave \(feat\. Naeem & Velvet Negroni\)](https://open.spotify.com/track/6QCXhEwzuHhytkeWNlUPvi) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Naeem](https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX), [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [Let Us Rave \(feat\. Naeem & Velvet Negroni\)](https://open.spotify.com/album/06IFDe9uzaphIEtCAPEqmf) | 2:38 | 2022-10-27 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-08-18 | 2022-11-18 |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-08-18 |  |
+| [Lift Me Up](https://open.spotify.com/track/72TMpXTDPAo7aWpHleue8S) | [Oliver Rauch](https://open.spotify.com/artist/69A0XvHkEgLaSNelHsSuuV) | [Lift Me Up](https://open.spotify.com/album/69wmSV0itJ2bNrv0kEUsga) | 5:51 | 2022-11-22 |  |
 | [Like Me](https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Like Me](https://open.spotify.com/album/55ctcV31rSIjUUlCfENH2L) | 4:12 | 2022-08-18 | 2022-10-23 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2022-08-19 |  |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-08-18 |  |

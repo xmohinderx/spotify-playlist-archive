@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-949 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+950 songs - 1 day 12 hr 1 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,7 +818,8 @@
 | [Sweev](https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Sweev](https://open.spotify.com/album/1HOCEZCmzrrIhYuhB7rPef) | 2:18 | 2022-01-27 | 2022-05-20 |
 | [Swing and miss](https://open.spotify.com/track/10yfgyCghuupvr2fyed4CR) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Swing and miss](https://open.spotify.com/album/4Bir9zuvbKUiyU5ZlBp4Qf) | 2:28 | 2022-06-03 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-01-27 | 2022-09-09 |
-| [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-11 |  |
+| [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-11 | 2022-11-22 |
+| [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 | 2022-11-11 |  |
 | [Synthetic Love](https://open.spotify.com/track/4cdUlJdtucjfgP5ZtJTRLC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/3bwD9r16L9AO8wnFxIgO9y) | 2:48 | 2022-09-23 | 2022-11-20 |
 | [Synthetic Love](https://open.spotify.com/track/5BEgq7uOF1rGPA9ZKi04kC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/6dCGTeSHnnuY80DFvTVQhF) | 2:48 | 2022-11-11 | 2022-11-21 |
 | [Syphone](https://open.spotify.com/track/6ZPMtkVR8cyVCy8vKDxyFM) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [Syphone](https://open.spotify.com/album/4dkFK5szg05kgVOwPECKmL) | 1:36 | 2022-08-19 |  |

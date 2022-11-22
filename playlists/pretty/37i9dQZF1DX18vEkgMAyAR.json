@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 52383,
+  "num_followers": 52469,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5OTAxNiwwMDAwMDAwMDAzNTI1MjAyYjQwMDQ0MTYxYjZkOTE1MzBjNGNhNDdl",
+  "snapshot_id": "MTY2ODU5OTAxNiwwMDAwMDAwMGU1YWUzYmM5MWJiMjE4MmQ0MjVhYjdhYzY3ZTFhYTdj",
   "tracks": [
     {
       "added_at": "2021-01-21 22:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2018-09-24 13:56:36",
       "album": {
+        "name": "Good as Gold",
+        "url": "https://open.spotify.com/album/2QJkT49xznJniFP2LfpOWz"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Good as Gold",
+      "url": "https://open.spotify.com/track/7sxiJ4a8uROYMvhkgGbQcK"
+    },
+    {
+      "added_at": "2018-09-24 13:56:36",
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2018-09-24 13:56:36",
-      "album": {
-        "name": "Good as Gold",
-        "url": "https://open.spotify.com/album/2QJkT49xznJniFP2LfpOWz"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Good as Gold",
-      "url": "https://open.spotify.com/track/7sxiJ4a8uROYMvhkgGbQcK"
     },
     {
       "added_at": "2020-11-13 10:44:30",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR"
     },
     {
+      "added_at": "2021-06-17 21:59:00",
+      "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 213833,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS"
+    },
+    {
       "added_at": "2020-07-21 09:50:39",
       "album": {
         "name": "Mortal Man",
@@ -905,20 +921,20 @@
       "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
-      "added_at": "2021-06-17 21:59:00",
+      "added_at": "2020-05-21 21:59:00",
       "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A"
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ"
       },
       "artists": [
         {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
         }
       ],
-      "duration_ms": 213833,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS"
+      "duration_ms": 197584,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr"
     },
     {
       "added_at": "2022-08-11 21:59:00",
@@ -977,22 +993,6 @@
       "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
     },
     {
-      "added_at": "2020-05-21 21:59:00",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 197584,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr"
-    },
-    {
       "added_at": "2018-09-24 13:56:36",
       "album": {
         "name": "The Woods (Evida Remix)",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE"
     },
     {
-      "added_at": "2018-09-24 13:56:36",
-      "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
-    },
-    {
       "added_at": "2021-05-21 05:41:41",
       "album": {
         "name": "Fine Little Rhythm",
@@ -1047,6 +1031,22 @@
       "duration_ms": 211306,
       "name": "Fine Little Rhythm",
       "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
+    },
+    {
+      "added_at": "2018-11-04 13:10:53",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+      },
+      "artists": [
+        {
+          "name": "Rubber Duc",
+          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
       "added_at": "2021-05-21 05:41:41",
@@ -1069,20 +1069,20 @@
       "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
     },
     {
-      "added_at": "2018-11-04 13:10:53",
+      "added_at": "2018-09-24 13:56:36",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
+        "name": "Critical As Water",
+        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
       },
       "artists": [
         {
-          "name": "Rubber Duc",
-          "url": "https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU"
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
+      "duration_ms": 180066,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
     },
     {
       "added_at": "2018-09-24 13:56:36",

@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-146 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/2m0rOYjqZBGwuIjvVWSPjN)
+147 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/2m0rOYjqZBGwuIjvVWSPjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Malargalae](https://open.spotify.com/track/62vYuJH6RHDPFsVwlHfM8j) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Birds](https://open.spotify.com/album/2EXhA2k0LttCoCLIqRmuHw) | 0:30 | 2021-10-15 |  |
 | [Mazhai Thuli](https://open.spotify.com/track/5GOpGwEYbfUblK5IwDzXnR) | [M.S.V.](https://open.spotify.com/artist/1loeYAYgelYo8nyykhMkck), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Sangamam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vdKBhSKTE87sq6zq4BoAM) | 6:50 | 2021-10-15 | 2022-11-20 |
 | [Mazhai Thulli \(From "Sangamam"\)](https://open.spotify.com/track/3UXCfv1d0Moyizip51Oz24) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [M\. S\. Viswanathan](https://open.spotify.com/artist/5s4EGgZl6O8Y7p9KDGnL0f) | [Mega Buster Hits 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3d3ljN8u4QxigI00I1cpNd) | 6:50 | 2021-10-15 | 2022-11-21 |
-| [Mazhai Thulli \(From "Sangamam"\)](https://open.spotify.com/track/69U4N2i6FOqCgvg2wM0YVW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [M\. S\. Viswanathan](https://open.spotify.com/artist/5s4EGgZl6O8Y7p9KDGnL0f) | [Dance Buster 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3c5ROB3X0Ui4YfcaC1jice) | 6:50 | 2021-10-15 |  |
+| [Mazhai Thulli \(From "Sangamam"\)](https://open.spotify.com/track/69U4N2i6FOqCgvg2wM0YVW) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [M\. S\. Viswanathan](https://open.spotify.com/artist/5s4EGgZl6O8Y7p9KDGnL0f) | [Dance Buster 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3c5ROB3X0Ui4YfcaC1jice) | 6:50 | 2021-10-15 | 2022-11-22 |
+| [Mazhai Thulli \(From "Sangamam"\)](https://open.spotify.com/track/7E1Qyl7N5euUUOuAHUVw7M) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [M\. S\. Viswanathan](https://open.spotify.com/artist/5s4EGgZl6O8Y7p9KDGnL0f) | [Power Hits By A R Rahman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PRpeLmKMvlrk4jpaR87TJ) | 6:50 | 2021-10-15 |  |
 | [Mettuppodu Mettuppodu](https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:15 | 2021-10-15 |  |
 | [Minnalea En Vazhvin](https://open.spotify.com/track/6078vTOfNPOHZDuyzzsMLx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:36 | 2021-10-15 |  |
 | [MINSARA KANNA](https://open.spotify.com/track/5C7jL8A15C30ksUYLc4kwW) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Nithyasree Mahadevan](https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 6:19 | 2021-10-15 |  |

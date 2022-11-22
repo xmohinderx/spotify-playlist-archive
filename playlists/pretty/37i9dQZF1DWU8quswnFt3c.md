@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,574 likes - 72 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,532 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [La Quería](https://open.spotify.com/track/1nk5MsUS4yGK1peQAFaJc3) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Folcrónica](https://open.spotify.com/album/3cAE3TZQGJELs8gxtFd1eL) | 3:53 |
 | 45 | [So Stunning](https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 3:02 |
 | 46 | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/track/3o4JJ3laC0xZnVvOCrDa36) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/album/5WS85NSCkBrCxQQaGkNddk) | 3:36 |
-| 47 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 |
-| 48 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 |
-| 49 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 47 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 48 | [Hard Feelings](https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:19 |
+| 49 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 |
 | 50 | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv) | 3:11 |
 | 51 | [La Lune](https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz) | 4:27 |
 | 52 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 53 | [愛你](https://open.spotify.com/track/3nVm63feCNkGcXmuGUjKA3) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [My! Cyndi!](https://open.spotify.com/album/37a8fX3JtjXiMRvuTMhVOa) | 3:30 |
 | 54 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 |
 | 55 | [Monalisa](https://open.spotify.com/track/0gfEQOK1puSeHEWwUH8kHy) | [Deize Tigrona](https://open.spotify.com/artist/2VQ0nYO5CBFp0KVWziJDhY), [JLZ](https://open.spotify.com/artist/2sJ1nJfjqfcUoLLSDcVQZJ) | [Foi Eu Que Fiz](https://open.spotify.com/album/74eeMTSSfH4H0myIaBMwdB) | 3:13 |
-| 56 | [Spell Me Free](https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Spell Me Free](https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h) | 6:15 |
-| 57 | [จบตั้งแต่เริ่ม \(NOIR\)](https://open.spotify.com/track/2qFkRbhuceZK6doTK3hqz9) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [จบตั้งแต่เริ่ม \(NOIR\)](https://open.spotify.com/album/2fAogeZdrHM1TGAkOwS8lr) | 4:06 |
+| 56 | [จบตั้งแต่เริ่ม \(NOIR\)](https://open.spotify.com/track/2qFkRbhuceZK6doTK3hqz9) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [จบตั้งแต่เริ่ม \(NOIR\)](https://open.spotify.com/album/2fAogeZdrHM1TGAkOwS8lr) | 4:06 |
+| 57 | [Spell Me Free](https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Spell Me Free](https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h) | 6:15 |
 | 58 | [WATER](https://open.spotify.com/track/4mdv4NsCL6nw4VG6U9YXMZ) | [Clara](https://open.spotify.com/artist/5w0sAq7EzeETFpmOe0EkHc) | [WATER](https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR) | 3:08 |
 | 59 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 |
 | 60 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
 | 72 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
 
-Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMDYxZWNkZmExYWY2YTk5OGI5MGQ1OTIzN2M3YmFkZTdl`
+Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMGZjNWIyYzFiZjMwYzg3ZmEzMTE0N2M4Y2ZiNWJlZTMw`

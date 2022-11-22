@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 46467,
+  "num_followers": 46500,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGZjM2JlYzJmZTVlYjBhYWZmNGNjYjZiMGMwODdkMWM2",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGNlOTdmMzBiZDQ1Njc0NGI4YTg3Y2UyMjIzZWMzZjgx",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Powers of Ten",
+        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 421306,
+      "name": "Singularity",
+      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 494256,
       "name": "Opal - Four Tet Remix",
       "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Powers of Ten",
-        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 421306,
-      "name": "Singularity",
-      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Syvsover",
         "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 360118,
       "name": "Ghostly",
       "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -315,38 +315,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Epoch",
-        "url": "https://open.spotify.com/album/2hgVjzYQb3Yb5FHT8smg4T"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 345387,
-      "name": "Epoch",
-      "url": "https://open.spotify.com/track/18xvedQqps2lWmU3PKsBoY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Rages 1992",
         "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 435000,
       "name": "Kollera",
       "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -871,22 +855,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Warped",
-        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
-      },
-      "artists": [
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 450457,
-      "name": "Warped",
-      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -903,18 +871,34 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+        "name": "Warped",
+        "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
       },
       "artists": [
         {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+      "duration_ms": 450457,
+      "name": "Warped",
+      "url": "https://open.spotify.com/track/3jgpE2RhPNOD98t5PoYTrT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -935,18 +919,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
       "artists": [
         {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
         }
       ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1203,6 +1187,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1239,26 +1243,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
-      },
-      "artists": [
-        {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Reachy Prints",
         "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 288554,
       "name": "Hawkmoth",
       "url": "https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 401084,
+      "name": "Godt Begyndt",
+      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/4SJLeiw3U7Dw4Gj9sp9yUB"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 401084,
-      "name": "Godt Begyndt",
-      "url": "https://open.spotify.com/track/2g7kwYBHS4lQ7ZBeFVOFSD"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Endless Sacrifice",
         "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Shift I - II",
+        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Shift II - Original Mix",
+      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Ars Vivendi",
         "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Shift I - II",
-        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+        "name": "In search of Moksha... Or something of the kind",
+        "url": "https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S"
       },
       "artists": [
         {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+          "name": "Aron Estocolmo",
+          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
         }
       ],
-      "duration_ms": 356571,
-      "name": "Shift II - Original Mix",
-      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
+      "duration_ms": 397894,
+      "name": "The Ganga river unpolluted once more",
+      "url": "https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki"
     }
   ],
   "unique_name": "Deep Study",

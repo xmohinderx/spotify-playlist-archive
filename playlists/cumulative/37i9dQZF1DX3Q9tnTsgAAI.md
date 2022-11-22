@@ -4,7 +4,7 @@
 
 > AOMG's mr\. wide\-range rapper: Loco
 
-110 songs - 6 hr 46 min - not published yet
+111 songs - 6 hr 49 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Sweaty \(Prod\. GRAY\)](https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:16 | 2022-09-20 |  |
 | [Take Care](https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [박나래](https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4) | [Take Care](https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w) | 3:42 | 2022-09-20 |  |
 | [Tangled Up \(feat\. pH\-1\)](https://open.spotify.com/track/4JHbjHpTmqjdzDGJWWgACq) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [HELLO](https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP) | 3:47 | 2022-09-20 |  |
+| [Tasty x Tasty](https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Tasty x Tasty](https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF) | 2:49 | 2022-11-21 |  |
 | [That Girl \(Feat\. Loco\)](https://open.spotify.com/track/2eXziVXVdsftkKrKOcyVNX) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [JUNG YONG HWA 1ST MINI ALBUM DO DISTURB](https://open.spotify.com/album/4D53QLzhxZOs3TVLm86esQ) | 3:28 | 2022-09-20 |  |
 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 | 2022-09-20 |  |
 | [Thinking about you \(feat.JAY PARK\)](https://open.spotify.com/track/5GOIbFxCKgLe9dB8grrUZZ) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOCOMOTIVE](https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG) | 2:52 | 2022-09-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.",
-  "num_followers": 306971,
+  "num_followers": 307101,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODk1NTg5MSwwMDAwMDAwMDM2OTY5NDVlYTA4ZDEwYWE3ZTUzOTRkYmMwMjg2ODZm",
+  "snapshot_id": "MTY2OTAzODQzNCwwMDAwMDAwMDIxMzdkYjY1ZmRlMGFkZjg5ZjVlNmNlZDYwMjQxOTYy",
   "tracks": [
     {
       "added_at": "2022-11-20 14:51:31",
@@ -79,6 +79,34 @@
       "duration_ms": 206527,
       "name": "Stunten",
       "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2022-11-20 14:51:31",
+      "album": {
+        "name": "POV",
+        "url": "https://open.spotify.com/album/6h9E9C3gGVt3kumf0YH2G1"
+      },
+      "artists": [
+        {
+          "name": "Smitmeister",
+          "url": "https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY"
+        },
+        {
+          "name": "La June",
+          "url": "https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f"
+        },
+        {
+          "name": "SK Ontspannen",
+          "url": "https://open.spotify.com/artist/0YSfcFH1WHuxlThNLippr0"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "duration_ms": 112647,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L"
     },
     {
       "added_at": "2022-11-20 14:51:31",
@@ -427,34 +455,6 @@
       "duration_ms": 152049,
       "name": "Big Man Ting",
       "url": "https://open.spotify.com/track/5ulIfOLr3pg4EDuVmF96RD"
-    },
-    {
-      "added_at": "2022-11-20 14:51:31",
-      "album": {
-        "name": "POV",
-        "url": "https://open.spotify.com/album/6h9E9C3gGVt3kumf0YH2G1"
-      },
-      "artists": [
-        {
-          "name": "Smitmeister",
-          "url": "https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY"
-        },
-        {
-          "name": "La June",
-          "url": "https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f"
-        },
-        {
-          "name": "SK Ontspannen",
-          "url": "https://open.spotify.com/artist/0YSfcFH1WHuxlThNLippr0"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        }
-      ],
-      "duration_ms": 112647,
-      "name": "POV",
-      "url": "https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L"
     },
     {
       "added_at": "2022-11-20 14:51:31",

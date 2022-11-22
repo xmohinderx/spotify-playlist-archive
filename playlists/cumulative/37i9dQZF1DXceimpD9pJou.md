@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Jinys
 
-596 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+597 songs - 1 day 19 hr 25 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Lo de Adentro](https://open.spotify.com/track/5IbengZi8118xmuhu67cAy) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Lo de Adentro](https://open.spotify.com/album/1VuVEJ4ezS8IjdLhs7RB5R) | 2:25 | 2022-08-26 | 2022-11-05 |
 | [Lo Perdí Todo](https://open.spotify.com/track/1wgzaBDIRujRjKxqPNuvGv) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Lo Perdí Todo](https://open.spotify.com/album/0nDO8j4onWGKw5GeUDaGSt) | 3:34 | 2022-09-23 |  |
 | [Lo Primero](https://open.spotify.com/track/62wcs7NhqaDGt9PILwW2AG) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Lo Primero](https://open.spotify.com/album/2NaWsKweNrktENSMR12255) | 3:04 | 2022-02-25 | 2022-04-07 |
+| [Lo Primero](https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lo Primero](https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG) | 3:19 | 2022-11-18 |  |
 | [Lo Que Dios Te Prometió](https://open.spotify.com/track/1HPbRI9kZoEuanrnPOFXty) | [Egleyda Belliard](https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl) | [Lo Que Dios Te Prometió](https://open.spotify.com/album/3KtmQcdKxmdmdWHNAWA6tf) | 5:15 | 2022-03-11 | 2022-05-14 |
 | [Lo Que Era](https://open.spotify.com/track/7eQBfRk8lukEnmS1iyqBCh) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Lo Que Era](https://open.spotify.com/album/38l4fJrDtbZbnnYLJcTanz) | 3:45 | 2022-02-25 | 2022-03-17 |
 | [Lo Que Has Comenzado](https://open.spotify.com/track/1QnPkSwaky40rZuT23NEBK) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Lo Que Has Comenzado](https://open.spotify.com/album/2brSHsXD0E1UIBeqDuhZIs) | 5:05 | 2022-09-23 |  |
@@ -521,7 +522,7 @@
 | [Tierra Prometida](https://open.spotify.com/track/7bwwh84dalgKpYpbXenUA5) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Tierra Prometida](https://open.spotify.com/album/2X2TKIVD411wzu9uWcERLR) | 3:33 | 2022-03-18 | 2022-05-14 |
 | [Todo](https://open.spotify.com/track/4F32nuyJZiR44CI4GcNLd1) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Todo](https://open.spotify.com/album/4eddoLwIvlhjJuwP6vVkSg) | 2:09 | 2022-06-10 | 2022-08-13 |
 | [Todo bien saldrá](https://open.spotify.com/track/47QieKoNOx4Pqpz0iZNdDO) | [Alex Martinz](https://open.spotify.com/artist/2KETScn8R3HXAIiYYDyJ5m) | [Todo bien saldrá](https://open.spotify.com/album/3L1CDKsTxv16h9ZPorMaaI) | 4:19 | 2022-06-10 | 2022-08-13 |
-| [Todo Es Posible](https://open.spotify.com/track/5qxaoad8qzoe6630ZJbtzu) | [Unción del Cielo](https://open.spotify.com/artist/2mb1n5fQObNv5Ne8TAugg0), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Todo Es Posible](https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF) | 3:07 | 2022-11-11 |  |
+| [Todo Es Posible](https://open.spotify.com/track/5qxaoad8qzoe6630ZJbtzu) | [Unción del Cielo](https://open.spotify.com/artist/2mb1n5fQObNv5Ne8TAugg0), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Todo Es Posible](https://open.spotify.com/album/3iuqVncBZOIcOMWzaqf8OF) | 3:07 | 2022-11-11 | 2022-11-22 |
 | [Todo Por Ti](https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Todo Por Ti](https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh) | 2:28 | 2022-03-25 | 2022-05-19 |
 | [Transparente](https://open.spotify.com/track/5QJBsfM5P9dHR5qSdiBNiR) | [J\-Con](https://open.spotify.com/artist/7yA7E9bMAkStIKoQc6Eu4G) | [Transparente](https://open.spotify.com/album/7d9ouCkRWJRZgbsaWRLkGs) | 3:09 | 2022-09-09 | 2022-10-09 |
 | [Tres Tazas](https://open.spotify.com/track/1QfWCkCKjpcZCq1IWSiBL9) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Tres Tazas](https://open.spotify.com/album/49ffcYz0L6JbDn3IkjD3kt) | 3:17 | 2022-04-15 | 2022-06-04 |

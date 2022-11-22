@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 4656,
+  "num_followers": 4848,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDVmOTRmOWVlNmM5YjFlYWE3OThkNjBmODgzN2ExYzVh",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDBhYTI0M2IzM2JlZGUxMDI4NTVlMzc3MjIyMmE5MGI5",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "If There Was Ever a Time",
         "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 165866,
       "name": "Super Spreader",
       "url": "https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Pursuit of Liberty",
-        "url": "https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF"
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
       },
       "artists": [
         {
-          "name": "Bad Cop, Bad Cop",
-          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 203150,
-      "name": "Pursuit of Liberty",
-      "url": "https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw"
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
     }
   ],
   "unique_name": "Political Punks",

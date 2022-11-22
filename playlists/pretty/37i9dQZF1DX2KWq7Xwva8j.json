@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20126,
+  "num_followers": 20139,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMGI2ZDEyZjZjZTJhMGJiOWY2ZjA1ZWNlMDg0N2M5NjIw",
+  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDdjYjhlOTljZjcwMmFhNTc1OGY1MWE0N2IyMDU2YjQ4",
   "tracks": [
     {
       "added_at": "2022-11-11 11:01:19",
@@ -187,26 +187,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "Por Encima Del Dinero",
         "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "por qu\u00e9 vuelvo a quererte?",
-        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "por qu\u00e9 vuelvo a quererte?",
-      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 192000,
       "name": "Duro",
       "url": "https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "por qu\u00e9 vuelvo a quererte?",
+        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "por qu\u00e9 vuelvo a quererte?",
+      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Alex Turner",
+        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Alex Turner",
+      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
       },
@@ -343,54 +359,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Mi Manera de Vivir",
-        "url": "https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 134954,
-      "name": "Mi Manera de Vivir",
-      "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Cosas Que Dijimos De Hacer",
-        "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Cosas Que Dijimos De Hacer",
-      "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Alex Turner",
-        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Alex Turner",
-      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "me gustas mas que un bigmac",
         "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
       },
@@ -407,6 +375,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Mi Manera de Vivir",
+        "url": "https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 134954,
+      "name": "Mi Manera de Vivir",
+      "url": "https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Indie esperanzador",
         "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 170285,
       "name": "Indie esperanzador",
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "Cosas Que Dijimos De Hacer",
+        "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Cosas Que Dijimos De Hacer",
+      "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -451,62 +451,6 @@
       "duration_ms": 148915,
       "name": "EN EL CIELO",
       "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "de qu\u00e9 sirve?",
-      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "A Contraluz",
-      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -547,6 +491,42 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "de qu\u00e9 sirve?",
+      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -583,22 +563,6 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
         "name": "CHINO CADA MARTES",
         "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
@@ -611,6 +575,26 @@
       "duration_ms": 163125,
       "name": "chino cada martes",
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "A Contraluz",
+      "url": "https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -631,6 +615,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Disneyland Paris",
         "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Roma No Es Amor",
         "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 193243,
       "name": "Roma No Es Amor",
       "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -699,22 +699,6 @@
       "duration_ms": 179984,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -803,6 +787,22 @@
       "duration_ms": 172710,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J"
     },
     {
       "added_at": "2022-11-11 11:01:19",

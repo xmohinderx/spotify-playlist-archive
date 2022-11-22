@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 115831,
+  "num_followers": 115996,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGJjMDEwYzlmYWVlNzRmNGRkNWJmYjA1NDI0ZDM3NmIz",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGI4NTYwNjBhOWU5NmU3ZGZkMGM4OTdmNTAwMzliM2U1",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -147,6 +147,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)",
+      "url": "https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Doug's Party Mix",
         "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)",
-      "url": "https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "UFO Tofu",
         "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 214373,
       "name": "Sex in a Pan",
       "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -335,18 +351,26 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "What Did He Say? (Remastered)",
-        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
       },
       "artists": [
         {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        },
+        {
+          "name": "Luca Scarpa",
+          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
         }
       ],
-      "duration_ms": 282946,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+      "duration_ms": 272300,
+      "name": "The Sniper",
+      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -383,30 +407,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        },
-        {
-          "name": "Luca Scarpa",
-          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
-        }
-      ],
-      "duration_ms": 272300,
-      "name": "The Sniper",
-      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 138791,
       "name": "Beyond The Rift",
       "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Not of This World",
-        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
-      },
-      "artists": [
-        {
-          "name": "Adam Nitti",
-          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "Cosmic Underground",
-      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -455,6 +439,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Not of This World",
+        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
+      },
+      "artists": [
+        {
+          "name": "Adam Nitti",
+          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
+        }
+      ],
+      "duration_ms": 397640,
+      "name": "Cosmic Underground",
+      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
         "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 96096,
       "name": "Purple Interlude",
       "url": "https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
+      },
+      "artists": [
+        {
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
+        }
+      ],
+      "duration_ms": 385533,
+      "name": "Cosmic Joke",
+      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -499,22 +515,6 @@
       "duration_ms": 240933,
       "name": "Soldier of the Groove",
       "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
-      },
-      "artists": [
-        {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
-        }
-      ],
-      "duration_ms": 385533,
-      "name": "Cosmic Joke",
-      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
-      },
-      "artists": [
-        {
-          "name": "Brian Bromberg",
-          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
-        }
-      ],
-      "duration_ms": 335588,
-      "name": "Is That the Best You Can Do?",
-      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Notes With Attachments",
         "url": "https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 154361,
       "name": "Off The Cuff",
       "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "duration_ms": 335588,
+      "name": "Is That the Best You Can Do?",
+      "url": "https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "M2",
-        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 192361,
       "name": "Don't Look Back Again",
       "url": "https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "M2",
+        "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
+        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
       },
       "artists": [
         {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+          "name": "Ida Nielsen",
+          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
         }
       ],
-      "duration_ms": 261866,
-      "name": "P.A.C. Man",
-      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+      "duration_ms": 223895,
+      "name": "F.U.NKWHY",
+      "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
     }
   ],
   "unique_name": "Bottoms Up",

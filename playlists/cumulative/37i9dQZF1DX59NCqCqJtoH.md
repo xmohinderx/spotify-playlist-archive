@@ -4,7 +4,7 @@
 
 > We hear you.
 
-517 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+518 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 | 2022-07-20 |
 | [Free With You](https://open.spotify.com/track/37KYM3zuGyozpEwDuO2OVw) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Free With You](https://open.spotify.com/album/1MXwnwrBqGVgu9UsnqLnLl) | 2:48 | 2021-04-02 | 2022-04-16 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2021-04-02 | 2022-04-21 |
-| [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 |  |
+| [Friends Don't Keep Secrets](https://open.spotify.com/track/63krJmqmJJ5j0bbWCfibuY) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Friends Don't Keep Secrets](https://open.spotify.com/album/5T7s4mCdPHrvnWmMmjgDwr) | 2:10 | 2022-10-14 | 2022-11-22 |
 | [From Me, the Moon](https://open.spotify.com/track/0gDKiMAurqJFzRKEKUOVbE) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [From Me, the Moon](https://open.spotify.com/album/0IE0MxJKt1oM6YeXsg5mLN) | 3:55 | 2021-04-02 | 2022-04-20 |
 | [fuckboy](https://open.spotify.com/track/7bHPn0RHLGSuR4PWiLsMiR) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [fuckboy](https://open.spotify.com/album/0ZKTeYihwEGqJsYxbIA7Zs) | 2:37 | 2021-04-02 | 2022-06-16 |
 | [FUNERAL](https://open.spotify.com/track/37UUsGW1KK3Cindm8Rqlu9) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FUNERAL](https://open.spotify.com/album/7gI0fMPJM42rMt5TWZwEyA) | 3:53 | 2022-01-27 | 2022-05-22 |
@@ -316,6 +316,7 @@
 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 | 2022-07-15 |  |
 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-11-18 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-23 | 2022-04-17 |
+| [My American Life](https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:27 | 2022-11-18 |  |
 | [MY HEAD :\(](https://open.spotify.com/track/13Qe9Ad3zLm58cIb9n4YtG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MY HEAD :\(](https://open.spotify.com/album/46Fu5oHyF6cVkhfu8QA9AY) | 1:32 | 2021-04-02 | 2022-07-14 |
 | [needle & thread](https://open.spotify.com/track/6wWflNzMVvWKvzgpgM6Oeb) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [needle & thread](https://open.spotify.com/album/0rrmT3DkwMLWW8CBK4uWfL) | 3:24 | 2021-04-02 | 2022-04-20 |
 | [Never Coming Home](https://open.spotify.com/track/417NzypnPVicWbske0doX7) | [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Never Coming Home](https://open.spotify.com/album/7mWOGsPRO497bpKlmSRMe8) | 4:00 | 2021-04-02 | 2022-07-23 |

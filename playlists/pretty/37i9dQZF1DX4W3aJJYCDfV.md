@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dermot Kennedy \(pictured\), PinkPantheress, Sam Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,430 likes - 138 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,757 likes - 138 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 75 | [It's All Fake Anyway](https://open.spotify.com/track/4Upg4za60onP6MQfZqM8wZ) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [It's All Fake Anyway](https://open.spotify.com/album/6H4tUB33UvonpR4Ww5Bpeu) | 3:00 |
 | 76 | [So It Seems](https://open.spotify.com/track/75uXGW15HuwW2WuOjU0fui) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [So It Seems](https://open.spotify.com/album/5fLfWfamnKW6KhDYQF8w1a) | 5:02 |
 | 77 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 |
-| 78 | [Medicine feat\. Maleek Berry and LADIPOE](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine feat\. Maleek Berry and LADIPOE](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 |
+| 78 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 |
 | 79 | [Honestly](https://open.spotify.com/track/2e8d2VJ1V2seFa0b0h8KqY) | [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Honestly](https://open.spotify.com/album/0Lli6HDLUhSP67vL0oJJB5) | 2:36 |
 | 80 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 |
 | 81 | [Gone Girl](https://open.spotify.com/track/7DVExWnUrXWfG2BoPSVuIV) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [A Means To An End](https://open.spotify.com/album/4PNJUaEtXtEDNgg7a7YOko) | 2:18 |

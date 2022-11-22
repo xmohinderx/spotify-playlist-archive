@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 35902,
+  "num_followers": 35946,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMGVhZTdjNTk0OGNkNjg0OTgxNTk1NTY5ZjZhZjlmMGI3",
+  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMDUxNWE1ZWI4Yjc4YWNiNjliYmNiNGNjMzExMDE3ZDMw",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "SUNSHOWER",
-        "url": "https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Summer Connection",
-      "url": "https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "LAGOON (Remastered 2017)",
         "url": "https://open.spotify.com/album/1uJBFSrpHi56AWzvBuhU8b"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 184626,
       "name": "It's the Falling in Love",
       "url": "https://open.spotify.com/track/051QXVSpUF3jmPni6iUabU"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "SUNSHOWER",
+        "url": "https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Summer Connection",
+      "url": "https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
-      },
-      "artists": [
-        {
-          "name": "Raji",
-          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "THE TOKYO TASTE",
-      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "\u30b5\u30de\u30fc\u30fb\u30b7\u30a7\u30a4\u30c9",
         "url": "https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 294800,
       "name": "CLOSE YOUR EYES",
       "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Raji",
+          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "THE TOKYO TASTE",
+      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -519,38 +519,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
-        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
-          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
-      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
-      },
-      "artists": [
-        {
-          "name": "Jun Fukamachi",
-          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "LETTER TO NEW YORK",
-      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "WE ARE JUST TAKING OFF",
         "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
@@ -567,6 +535,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30fb\u30de\u30de",
+        "url": "https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a3\u30f3\u30fb\u30d1\u30f3\u30fb\u30a2\u30ec\u30fc",
+          "url": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
+      "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 247773,
       "name": "\u611b\u306e\u708e",
       "url": "https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "\u30aa\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz"
+      },
+      "artists": [
+        {
+          "name": "Jun Fukamachi",
+          "url": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "LETTER TO NEW YORK",
+      "url": "https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "\u30b6\u30fb\u30d9\u30b9\u30c8",
         "url": "https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "MINAKO",
-        "url": "https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8"
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
       },
       "artists": [
         {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 237160,
-      "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
+      "duration_ms": 233186,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "MINAKO",
+        "url": "https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Amii - versary (\u6771\u829dEMI\u7de8)",
         "url": "https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "Late Late Summer",
         "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 256480,
       "name": "\u30bf\u30d0\u30b3\u30ed\u30fc\u30c9 20",
       "url": "https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
       },
       "artists": [
         {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 234666,
-      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+      "duration_ms": 185893,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
     }
   ],
   "unique_name": "City Pop '70s",

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-219 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+220 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Kyoto](https://open.spotify.com/track/6PjXctzAvL8UjkSozwctep) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Kyoto](https://open.spotify.com/album/2z2Z5IohSxt1cNL3hSs5E3) | 2:21 | 2021-12-09 | 2022-06-24 |
 | [Last Forever](https://open.spotify.com/track/6jt9ksqmpgggBsIj5pVZNd) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Not from Here](https://open.spotify.com/album/3wltnpCzev9PmIK5aQmDhv) | 4:14 | 2021-12-09 | 2022-05-21 |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2022-05-20 | 2022-05-31 |
+| [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-10-07 |  |
 | [Levante](https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Hidden Treasures EP](https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn) | 3:13 | 2021-12-09 |  |
 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 | 2021-12-09 | 2022-10-02 |
 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 | 2022-10-08 |
@@ -188,7 +189,7 @@
 | [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2021-12-09 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 |  |
 | [Sunsets & Birds](https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/5QG6HT610I43dQBQIIE82v) | 2:28 | 2021-12-09 | 2022-07-29 |
-| [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 |  |
+| [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 | 2022-11-22 |
 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 | 2021-12-09 | 2022-01-05 |
 | [Svanur \(feat\. Rökkurró\)](https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Rökkurró](https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4) | [Svanur](https://open.spotify.com/album/3g9O3lDO7O4AfW0CuCPKKa) | 4:56 | 2021-12-09 | 2022-05-21 |
 | [Swim](https://open.spotify.com/track/7qHfaAlihkWeA4Xu60v3Pi) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Swim](https://open.spotify.com/album/5mNaZAGvS4jljaYgQxvYQs) | 2:07 | 2021-12-09 |  |

@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,200 songs - 2 day 10 hr 8 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,201 songs - 2 day 10 hr 12 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2021-07-24 | 2021-10-16 |
 | [Hot Rod](https://open.spotify.com/track/6t8MIRE7HlRiWteL5EqruV) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Hot Rod](https://open.spotify.com/album/72E7gOHQneXKHXHTZOENX3) | 3:26 | 2021-10-09 | 2021-10-16 |
 | [HOTEL ROOM](https://open.spotify.com/track/5quEdxM0g27wKFO4Pvl9He) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [HOTEL ROOM](https://open.spotify.com/album/5B95aqaQKYyoVNxZpaMp6A) | 2:28 | 2022-02-11 | 2022-03-12 |
-| [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 | 2022-05-13 |  |
+| [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 | 2022-05-13 | 2022-11-22 |
 | [hotmess](https://open.spotify.com/track/18Xh2jWQ32W2712sbUfTwZ) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB), [Boyblue](https://open.spotify.com/artist/0R5LLKgL2DHpLX3CuEe6kj) | [hotmess](https://open.spotify.com/album/1pX4bpyc0ErRDJh7SMebpq) | 2:44 | 2022-03-11 | 2022-07-01 |
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-10-13\* | 2021-05-03 |
 | [Houston](https://open.spotify.com/track/6oe4wBW2OdcZJKPhokh8aI) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [Houston Riots](https://open.spotify.com/album/0WZUUYoDXk6fdYsZpEtEs3) | 1:49 | 2022-06-13 | 2022-06-18 |
@@ -654,7 +654,7 @@
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-23 | 2022-03-01 |
 | [Mastodon Matador](https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:56 | 2022-11-08 |  |
-| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 |  |
+| [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-11-22 |
 | [maybe not](https://open.spotify.com/track/1WnfHYAmjW9XwiCeLUpKLc) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [maybe not](https://open.spotify.com/album/1Q52MWeo7WqYYJnB8suIlL) | 2:42 | 2022-08-05 |  |
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-18 | 2022-11-10 |
 | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/track/5f7MdwR02i1Lxy9TLi80SA) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/album/5fAID5buWAhtqIdpVDwvar) | 2:51 | 2021-01-06 | 2021-02-20 |
@@ -759,6 +759,7 @@
 | [off the map](https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [off the map](https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ) | 2:09 | 2022-09-10 |  |
 | [Oh God](https://open.spotify.com/track/3jQRh7laQ983q2bFGWpWuD) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Oh God](https://open.spotify.com/album/2Yu3wsBaJjFveHhuqD4DK7) | 2:59 | 2022-11-11 |  |
 | [Oh Yeah](https://open.spotify.com/track/00S56mM2szrRreAaglglag) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Oh Yeah](https://open.spotify.com/album/4NiLEk70DGFpYQBBUmpZvQ) | 2:55 | 2022-06-17 | 2022-08-06 |
+| [Oh! Frenchy](https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh) | [Mosie](https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql) | [Tangerine](https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p) | 3:54 | 2022-11-21 |  |
 | [On Me](https://open.spotify.com/track/6I50jyqSlDnzL74mIdsUc2) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Strict Face](https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq) | [Parallel World](https://open.spotify.com/album/1Mo1cqa1k11rCtSSm4iUhR) | 2:56 | 2021-05-08 | 2021-10-16 |
 | [On My Own](https://open.spotify.com/track/4g83PCfbuS7n8QqOGnhGTC) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ERYS](https://open.spotify.com/album/63ipjhu8XSx8se8X3XYlJZ) | 4:04 | 2020-10-13\* | 2020-11-03 |
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2020-10-13\* | 2021-01-23 |

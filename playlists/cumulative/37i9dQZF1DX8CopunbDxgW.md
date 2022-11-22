@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Krystal Klear
+> The essential indie dance, featuring Barry Can't Swim
 
 650 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
@@ -469,7 +469,7 @@
 | [Renegade](https://open.spotify.com/track/7n74B8CVy1kWH0IOXnbrj2) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Renegade](https://open.spotify.com/album/0SrEtp8X0AH2gd0WX4Qh8Y) | 3:17 | 2021-11-19 | 2021-12-29 |
 | [Restless Bones](https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Restless Bones](https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9) | 2:25 | 2022-11-08 |  |
 | [Reverie](https://open.spotify.com/track/7b2FRWT62YHpuX6LFhLeN8) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Reverie](https://open.spotify.com/album/2wD0srVS14cqbCmAORNF7n) | 3:25 | 2021-10-08 | 2022-01-27 |
-| [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 |  |
+| [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 | 2022-11-22 |
 | [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 | 2022-10-14 |  |
 | [Ricercar](https://open.spotify.com/track/4rRULachZbPpeUrzS3d9Fg) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Ricercar](https://open.spotify.com/album/3pJakXDJwdIQLaIZsZVywa) | 4:11 | 2022-03-25 | 2022-07-25 |
 | [Ricercar](https://open.spotify.com/track/7gqE5VsdxQ2iq60Bwt3G5G) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Mercury](https://open.spotify.com/album/7LCvb7UtkTLBcQA45BwPIQ) | 4:11 | 2022-09-17 | 2022-10-06 |
@@ -624,7 +624,7 @@
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-05 |  |
 | [Water](https://open.spotify.com/track/0HX7Qdf2R0pfeDueFpF6C4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/2yj9MtZaGfQXkiH1CR3AeA) | 3:29 | 2021-07-09 | 2022-02-11 |
 | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX) | 2:46 | 2022-04-29 |  |
-| [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:45 | 2022-09-09 | 2022-11-19 |
+| [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:45 | 2022-09-09 |  |
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-07-15 | 2022-09-22 |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-06-10 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-06-10 |  |

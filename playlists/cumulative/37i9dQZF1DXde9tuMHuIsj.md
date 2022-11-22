@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
 
-175 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
+176 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2022-03-18 | 2022-05-04 |
 | [Luna Llena](https://open.spotify.com/track/09CDTYEf6OPwzSqFXhdt2j) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Last Chance](https://open.spotify.com/album/4HU4G9Tf59At2kLSVdLueb) | 2:15 | 2022-05-03 | 2022-09-17 |
 | [Mami Dijo](https://open.spotify.com/track/6miAVDdheid0YA8WTmzNQ6) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:13 | 2022-04-15 | 2022-05-04 |
+| [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 | 2022-11-21 |  |
 | [Mcgregor](https://open.spotify.com/track/5zaIVQv1oPnTa86BUmmbjz) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 4:43 | 2022-03-18 |  |
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2022-05-03 |  |
 | [Mi Ego](https://open.spotify.com/track/7kMEULSicpabScwQenlnK7) | [El Pinche Valentin](https://open.spotify.com/artist/7EquQBFR1KIRdtc9wtq77m), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Anubis](https://open.spotify.com/album/4dP6IVaVS03eOk30hJqLby) | 2:25 | 2022-04-01 | 2022-05-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 522284,
+  "num_followers": 522736,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDgyYjZkN2FjYTgzZTk2NmFjNzMyMWI3MmVhYWYxOWQ3",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGVjOWVjN2ZlZjAwNzg2ZDI4OWFiODY0NTg1NjNiNmQ2",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 154186,
       "name": "Lungs - Live",
       "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 190906,
       "name": "Graves",
       "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216840,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Long Time Travelin'",
+      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "A Mountain Is a Mouth",
         "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Long Time Travelin'",
-      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Digging Up Birds: A Collection of Rarities & Others",
-        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
-      },
-      "artists": [
-        {
-          "name": "Graham Lindsey",
-          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
-        }
-      ],
-      "duration_ms": 188660,
-      "name": "No Way Out but Down (Alternate Version)",
-      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Blood Money (Anniversary Edition)",
@@ -1551,6 +1535,22 @@
       "duration_ms": 292112,
       "name": "All The World Is Green - Live",
       "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Digging Up Birds: A Collection of Rarities & Others",
+        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+      },
+      "artists": [
+        {
+          "name": "Graham Lindsey",
+          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "No Way Out but Down (Alternate Version)",
+      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
     },
     {
       "added_at": "2022-06-06 19:18:28",

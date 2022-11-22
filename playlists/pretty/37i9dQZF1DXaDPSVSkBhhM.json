@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 56397,
+  "num_followers": 56405,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMGIxYmE1YTA5NWIzYzgwMWY0OGM4NWE5NGM0MTBiY2Ni",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMGUzNzQ4NjUxM2E3MjRiNzYzMmJiOGM3NjQ1ZWFiZTQx",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "No Digas Lo Siento",
-        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 171821,
-      "name": "No Digas Lo Siento",
-      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Clavo",
         "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 170400,
       "name": "Clavo",
       "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "No Digas Lo Siento",
+        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 171821,
+      "name": "No Digas Lo Siento",
+      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
     },
     {
       "added_at": "2022-10-01 18:54:42",

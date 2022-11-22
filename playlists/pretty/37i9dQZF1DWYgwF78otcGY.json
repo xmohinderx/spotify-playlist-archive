@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24152,
+  "num_followers": 24166,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDUzYjMyYzU4NTdjZDFiMzA5NDRkNjliYzQ2ZmFiZjlh",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDJkNjgzMWQwMzczMGY5ZTcxMTdhNmFhZGViMzI0MGZl",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -59,22 +59,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -703,22 +703,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
-      },
-      "artists": [
-        {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Live Forever - The Album (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 182626,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+      },
+      "artists": [
+        {
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
     },
     {
       "added_at": "2019-02-28 12:57:58",

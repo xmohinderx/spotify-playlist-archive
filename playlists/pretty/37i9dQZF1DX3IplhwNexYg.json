@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Chilli Jesson",
-  "num_followers": 110850,
+  "num_followers": 110879,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMGZiMzIzYzZjMmViMDhhMzAxYTk0NGI3ZWU2YzFlNjJh",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDcyYzcwNzQ0MDM2YTczN2E4YjFmMmZjZjRmNjlhMDNj",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -527,38 +527,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 268906,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 177529,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Miss Power",
         "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 268906,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Fingers of Steel",
         "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 177529,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 156600,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 269409,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/2GJx1j54AfcuG0eG6ENdH2"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 242512,
       "name": "The Dance You Sell",
       "url": "https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 269409,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Clearing Up",
-        "url": "https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Clearing Up",
-      "url": "https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Hachiko",
         "url": "https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Clearing Up",
+        "url": "https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Clearing Up",
+      "url": "https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Best of It",
-        "url": "https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 128276,
-      "name": "Best of It",
-      "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/2YLMK1WHaaFM9DoZNaYFNs"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2Ry7t04pq9buAzPucJhr5o"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW"
     }
   ],
   "unique_name": "pulp",

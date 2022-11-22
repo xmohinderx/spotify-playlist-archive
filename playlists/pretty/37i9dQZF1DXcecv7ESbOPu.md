@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,244 likes - 109 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,278 likes - 109 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [You've Done](https://open.spotify.com/track/5tOvJyK9O72lBg30XYlF7K) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [You've Done](https://open.spotify.com/album/5WieXzX1xygAQcv4hL4e58) | 2:30 |
 | 100 | [COME OUTSIDE](https://open.spotify.com/track/1QniXlbTBov33SAobGAQSM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [DEAR JAZ](https://open.spotify.com/album/3NZi3twMJ46CVPOyCpLDKy) | 3:27 |
 | 101 | [AWESOME](https://open.spotify.com/track/5O6XUXibuVgl0folQt5e4p) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:44 |
-| 102 | [Medicine feat\. Maleek Berry and LADIPOE](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine feat\. Maleek Berry and LADIPOE](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 |
+| 102 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 |
 | 103 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 |
 | 104 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 | 105 | [Antingen eller](https://open.spotify.com/track/0vvzbddeWW3LiF7mTFo7zA) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Antingen eller](https://open.spotify.com/album/6bnZgjxYoOBQFQppx1yOQc) | 2:11 |

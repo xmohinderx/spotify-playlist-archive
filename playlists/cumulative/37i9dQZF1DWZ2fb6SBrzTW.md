@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-180 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+181 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Break Fast Cruise Beat](https://open.spotify.com/track/1zClq7VnMvfXbJCWSHHvFq) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Break Fast Cruise Beat](https://open.spotify.com/album/5djbahNtBZLdhiKrwrVjCe) | 3:15 | 2022-04-14 | 2022-07-29 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-05-05 |  |
 | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/track/5xF4mGKhhEzQTsyRq0rRa9) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BY YOUR SIDE \(feat\. Blxckie\)](https://open.spotify.com/album/2vZ9iueqO6h60I0X3NHxIX) | 3:57 | 2021-12-02 | 2022-07-26 |
+| [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 | 2022-11-18 |  |
 | [Cash Out](https://open.spotify.com/track/09nKQUX0rISchtWlsDS4uB) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Cash Out](https://open.spotify.com/album/1Ne4TthIrhxHoCM4TrlzXX) | 3:08 | 2022-10-21 | 2022-11-19 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
@@ -61,7 +62,7 @@
 | [Freeway](https://open.spotify.com/track/66XN0FxB0BEZdth8FORzmg) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [DJ Pee Raven](https://open.spotify.com/artist/2h75TpDQVymQj3VJ1cxk0E) | [Freeway](https://open.spotify.com/album/4fBfJVLmH5IF0qs8HAPksa) | 4:21 | 2021-10-08 | 2022-07-28 |
 | [Fresh \(feat\. Focalistic, Costa Titch & Pabi Cooper\)](https://open.spotify.com/track/2TPeS0lnHdt9ekFmpkQ3pj) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 4:27 | 2022-03-11 | 2022-08-03 |
 | [Fuku](https://open.spotify.com/track/0EYxr62cSeDetJKoIBaPbq) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Fuku](https://open.spotify.com/album/1pOAikaQyKcyGpFnor2gdZ) | 3:01 | 2022-10-21 |  |
-| [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 | 2022-07-28 |  |
+| [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 | 2022-07-28 | 2022-11-22 |
 | [Fvck Off](https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fvck Off](https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48) | 2:37 | 2022-05-19 | 2022-10-08 |
 | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/track/4UkCWodJ0mU4BQ1M5Aifdb) | [Ak Songstress](https://open.spotify.com/artist/52lFu2pWl3LZrSer7G5K3a), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/album/1kKY6PVggt76lqta770b9y) | 3:23 | 2022-03-24 | 2022-07-25 |
 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 | 2022-10-07 |  |

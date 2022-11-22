@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-269 songs - 17 hr 42 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+270 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Somebody Else's Guy](https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Somebody Else's Guy](https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09) | 6:26 | 2022-08-02 |  |
 | [SoulMate](https://open.spotify.com/track/4YLtrBhzjsI2LT6ybXQHeD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [SoulMate](https://open.spotify.com/album/2FljC0wx1bLyT6GW3FDQFX) | 3:16 | 2021-11-10 |  |
 | [Soulmate \(Heartstrings\)](https://open.spotify.com/track/7tC8VI0VlMv4ZyNssmKpJG) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [Love In Synthesis](https://open.spotify.com/album/69rgvUHKOYmwre7xkWDJcf) | 3:28 | 2021-11-10 |  |
+| [South of the River](https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:29 | 2022-11-07 |  |
 | [South of the River](https://open.spotify.com/track/5w3yxRRxy5pvZdUvBJF6ve) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:29 | 2021-11-10 | 2022-11-18 |
 | [Special](https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:54 | 2022-09-30 |  |
 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 | 2021-11-10 |  |
@@ -223,7 +224,7 @@
 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 | 2021-11-10 |  |
 | [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2021-11-10 | 2022-11-20 |
 | [The Million Dollar Song](https://open.spotify.com/track/19ipHROLvBiPdGsWm4SMB2) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [The Million Dollar Song](https://open.spotify.com/album/3b9g8yzP8GNAg2z9I7XXDO) | 3:14 | 2021-11-10 | 2022-07-29 |
-| [The Million Dollar Song](https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [The Million Dollar Song](https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs) | 3:14 | 2022-06-03 |  |
+| [The Million Dollar Song](https://open.spotify.com/track/1UrEvrgnY0kl2hsHC8p5xm) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [The Million Dollar Song](https://open.spotify.com/album/592Fk2bocDzEzrFNBmHBRs) | 3:14 | 2022-06-03 | 2022-11-22 |
 | [The Sweetest Meditation](https://open.spotify.com/track/1QVF9JOvsO9koQhq1XQTzy) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/08gaJDLvSafVxpaaZCo9Pm) | 5:54 | 2021-11-10 | 2022-07-29 |
 | [The Sweetest Meditation](https://open.spotify.com/track/6Ds341awJUTMJ7Zmx3Gl1i) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2l6MYrhN7T3DwsH05XsXxp) | 5:54 | 2022-06-03 | 2022-09-19 |
 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 | 2021-11-10 |  |

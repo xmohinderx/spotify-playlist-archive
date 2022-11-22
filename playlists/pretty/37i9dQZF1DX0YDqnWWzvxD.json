@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 49780,
+  "num_followers": 49987,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4NzU4MywwMDAwMDAwMDkzMWJkMzY0NmU0ZWNmY2NiMDIzMTVlNmI5NWQxNDJl",
+  "snapshot_id": "MTY2ODc4NzU4MywwMDAwMDAwMGJkYmM3NDZlMDNjOWVmYjhiODg4ZGE5NDgxMmQzZjc5",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Echoes of Silence",
         "url": "https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 174706,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/4bSme6KVdAamqx94sRuMJ4"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
+      },
+      "artists": [
+        {
+          "name": "Garth Stevenson",
+          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
+        }
+      ],
+      "duration_ms": 239367,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
-      },
-      "artists": [
-        {
-          "name": "Garth Stevenson",
-          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
-        }
-      ],
-      "duration_ms": 239367,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
         "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
       },
@@ -371,8 +371,8 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Reiki Healing Music - at 432 Hz",
-        "url": "https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT"
+        "name": "Romantic Evening Ragas'",
+        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
         }
       ],
-      "duration_ms": 596181,
-      "name": "Gratitude at 432 Hz",
-      "url": "https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f"
+      "duration_ms": 172640,
+      "name": "Raga Hemavati (Flute)",
+      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Reiki Healing Music - at 432 Hz",
+        "url": "https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 596181,
+      "name": "Gratitude at 432 Hz",
+      "url": "https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Long Long Sleep",
         "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
@@ -495,6 +511,26 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Chakra Healing",
+        "url": "https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O"
+      },
+      "artists": [
+        {
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        },
+        {
+          "name": "Jonathan Kramer",
+          "url": "https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO"
+        }
+      ],
+      "duration_ms": 465893,
+      "name": "Heart Chakra - Breath of Love",
+      "url": "https://open.spotify.com/track/0AvQspmvZCDfbTAJVphhwW"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Still Moment",
         "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
       },
@@ -523,22 +559,6 @@
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Romantic Evening Ragas'",
-        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
-      },
-      "artists": [
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Raga Hemavati (Flute)",
-      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -575,42 +595,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Chakra Healing",
-        "url": "https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O"
-      },
-      "artists": [
-        {
-          "name": "Dean Evenson",
-          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
-        },
-        {
-          "name": "Jonathan Kramer",
-          "url": "https://open.spotify.com/artist/3ee0r66FCAvb7mtNHYPRWO"
-        }
-      ],
-      "duration_ms": 465893,
-      "name": "Heart Chakra - Breath of Love",
-      "url": "https://open.spotify.com/track/0AvQspmvZCDfbTAJVphhwW"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Prana: Music for Yoga, Meditation & Relaxation",
-        "url": "https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1"
-      },
-      "artists": [
-        {
-          "name": "Shaman's Dream",
-          "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
-        }
-      ],
-      "duration_ms": 624026,
-      "name": "Storm of Prayers",
-      "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+        "name": "Prana: Music for Yoga, Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1"
       },
       "artists": [
         {
-          "name": "Nature Sound Series",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+          "name": "Shaman's Dream",
+          "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
+      "duration_ms": 624026,
+      "name": "Storm of Prayers",
+      "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -671,6 +655,22 @@
       "duration_ms": 399666,
       "name": "Goddess Evocation",
       "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Series",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
-        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
-      },
-      "artists": [
-        {
-          "name": "Massage Tribe",
-          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
-        }
-      ],
-      "duration_ms": 659773,
-      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
-      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pamanyungan",
         "url": "https://open.spotify.com/album/1OlZjnAiLGv7MqlHG12hVH"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Spa Music: Tibet (80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation)",
+        "url": "https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3"
+      },
+      "artists": [
+        {
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
+        }
+      ],
+      "duration_ms": 659773,
+      "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
+      "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Yoga Harmony",
+        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
+      },
+      "artists": [
+        {
+          "name": "Terry Oldfield",
+          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
+        }
+      ],
+      "duration_ms": 499696,
+      "name": "Earth and Sky",
+      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Spirit of Yoga",
         "url": "https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Yoga Harmony",
-        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
-      },
-      "artists": [
-        {
-          "name": "Terry Oldfield",
-          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
-        }
-      ],
-      "duration_ms": 499696,
-      "name": "Earth and Sky",
-      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
-      },
-      "artists": [
-        {
-          "name": "Alan Ellis",
-          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "The Longest Rest",
-      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Surya Namaskar",
         "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 918750,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "The Longest Rest",
+      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
-        "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
-      },
-      "artists": [
-        {
-          "name": "Kundalini Yoga Group",
-          "url": "https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV"
-        }
-      ],
-      "duration_ms": 215020,
-      "name": "Savasana Yoga",
-      "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Meditation & Sleep - Relaxation Sleeping Mindfulness Meditation Music, Relaxing Mind Music for Good Night, Sleeping and Dreaming",
         "url": "https://open.spotify.com/album/4dGGznVrt12Gg7kTwaMj0G"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+        "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
+        "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
       },
       "artists": [
         {
-          "name": "Natural Meditation Guru",
-          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+          "name": "Kundalini Yoga Group",
+          "url": "https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV"
         }
       ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep Sleep",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
+      "duration_ms": 215020,
+      "name": "Savasana Yoga",
+      "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1595,6 +1579,22 @@
       "duration_ms": 129432,
       "name": "Deep Meditation",
       "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Natural Meditation Guru",
+          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep Sleep",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     }
   ],
   "unique_name": "Savasana",

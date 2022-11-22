@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-321 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+322 songs - 1 day 12 hr 2 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Diversity](https://open.spotify.com/track/5U7zjbm7p4s7N9qX3XifW5) | [Boss Axis](https://open.spotify.com/artist/0LbAebKs7ZKbgtOnIizXLk) | [Diversity](https://open.spotify.com/album/3MFQKYBfpsuiCPSUDciVTa) | 6:51 | 2019-05-26\* | 2019-06-22 |
 | [Dosya](https://open.spotify.com/track/3bKKHo2lQzInMU5aPNO0UY) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [Kastis Torrau](https://open.spotify.com/artist/1KDezZmDSr7pT6dh6EGIfF) | [Dosya](https://open.spotify.com/album/28CfhjWRh1lCqaVqS82LBb) | 6:42 | 2019-06-22 | 2020-11-14 |
 | [Draumzer](https://open.spotify.com/track/7jYQpquKgqUdH24HVUhNoB) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7) | [Draumzer](https://open.spotify.com/album/2PdOXZvmAjoSKMUzHT5AIK) | 8:46 | 2019-05-26\* | 2021-05-28 |
-| [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 | 2022-05-20 |  |
+| [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 | 2022-05-20 | 2022-11-22 |
 | [Eagles](https://open.spotify.com/track/3q4gmVrPTMPL8tDrNFFLmu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Eagles](https://open.spotify.com/album/687LI57BvGEzBP2lvCmk0D) | 5:07 | 2019-07-05 | 2020-01-04 |
 | [Eagles \- Aalson Remix](https://open.spotify.com/track/7lLjt2Hdnn3Q0EqRgmvBAG) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Aalson](https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY) | [Eagles \(Aalson Remix\)](https://open.spotify.com/album/1KC8G5Zg5fRmq3lSv2dvxe) | 8:19 | 2020-01-04 | 2022-04-05 |
 | [Earth](https://open.spotify.com/track/5ZrT1f69ISeELuHAHdYste) | [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Days Of Change](https://open.spotify.com/album/5mFEKLT0INqNsAXwsjJahE) | 7:54 | 2020-11-03 | 2022-07-28 |
@@ -91,6 +91,7 @@
 | [Elements of Trust \- Sanchez & Pietkun Remix](https://open.spotify.com/track/0TT6SbrHgkhmWx01S03jah) | [Gabriel Filip](https://open.spotify.com/artist/0RTHaVU7mWqrznMzZ9PwTP), [Pietkun](https://open.spotify.com/artist/2TAEAlmHigdK9FoOiSiruu), [Ignacio Sanchez](https://open.spotify.com/artist/61EaMjDo9dzzoU2FJVwWew) | [Elements of Trust](https://open.spotify.com/album/7aIdMrakwT0uSvy4CTsMjp) | 7:01 | 2019-05-26\* | 2020-08-22 |
 | [Embodiment](https://open.spotify.com/track/1eVEFo0iGFNMunr2sGwXMv) | [Norman Nodge](https://open.spotify.com/artist/3XsZjgYO83dSNppZzXlzFB) | [Embodiment](https://open.spotify.com/album/3UD3Eck2EbnyanmHbK4Vwn) | 5:24 | 2019-06-04 | 2019-12-21 |
 | [Empty Supply \- Original Mix](https://open.spotify.com/track/76P0yHwCGNN1OC8Xp69hPu) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Empty Supply EP](https://open.spotify.com/album/2omw3ityk3KV0dj4VIg3GV) | 7:06 | 2020-04-02 | 2022-04-21 |
+| [Endless Dancing](https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Lost in Berlin](https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU) | 4:19 | 2022-09-30 |  |
 | [Endless Dancing](https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Endless Dancing](https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi) | 4:19 | 2022-04-04 | 2022-10-23 |
 | [Endorphine](https://open.spotify.com/track/2ZOMdszeOsFaj31wt8mDNn) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Endorphine](https://open.spotify.com/album/7cGTSxBKUuqU4EUCIEUf6f) | 4:02 | 2021-07-05 | 2021-11-27 |
 | [Entrudo \- Booka Shade Remix](https://open.spotify.com/track/2sYMIOU4lJd70MGwVfrGKZ) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Nikki & Entrudo Remixes](https://open.spotify.com/album/0NUun0yAHQJbWvHlBlVjGS) | 6:52 | 2021-07-04 | 2022-07-29 |

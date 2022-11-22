@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: kid apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,199 likes - 133 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,195 likes - 133 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

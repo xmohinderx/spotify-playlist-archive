@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 335186,
+  "num_followers": 335681,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDU5NzI0MDRiMDljYjU1ZTFhYmE5NTk1YjRkMjM5MWY3",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDE2Y2QyMTQwNTRkOTMzMzY1ODljMTFhOGJlMjkxNzQ5",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Halcyon Digest",
         "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -315,22 +331,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "I Follow You",
-      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+      "duration_ms": 214400,
+      "name": "I Follow You",
+      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -407,22 +407,6 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Some Time Alone, Alone",
-      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -523,6 +507,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Some Time Alone, Alone",
+      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Misery Is a Butterfly",
         "url": "https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 267274,
       "name": "Tal Uno",
       "url": "https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -587,6 +603,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 317093,
+      "name": "Sweetness and Light",
+      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Sub Versions",
         "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 130063,
       "name": "Avril 14th",
       "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -667,22 +683,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 317093,
-      "name": "Sweetness and Light",
-      "url": "https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Blood (Remastered)",
         "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 194226,
       "name": "You And Your Sister - Remastered",
       "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
     },
     {
       "added_at": "2022-03-18 05:40:30",
@@ -727,6 +711,22 @@
       "duration_ms": 203848,
       "name": "Come On Let's Go",
       "url": "https://open.spotify.com/track/60unSmULyw8lqCI5CoP0fF"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM"
     },
     {
       "added_at": "2021-10-01 10:38:06",

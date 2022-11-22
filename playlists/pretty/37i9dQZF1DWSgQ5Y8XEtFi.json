@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 131248,
+  "num_followers": 131665,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGE5YTU1MzYwM2Y5M2E4ZDM3MTM5OTRmOGEyMDQwYjhj",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDYzYjRjMjdhYTQ2NWI0NGEyZTBjNTg2ZDg5MTBiNjM0",
   "tracks": [
     {
       "added_at": "2022-11-04 22:24:27",
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -403,26 +423,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
-        }
-      ],
-      "duration_ms": 108013,
-      "name": "Want (feat. prodby668)",
-      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
       },
@@ -453,24 +453,20 @@
       "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Tanaka 2",
-        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
       "artists": [
         {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 188724,
-      "name": "Tanaka 2",
-      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
       "added_at": "2022-10-25 15:20:00",
@@ -493,20 +489,24 @@
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
     },
     {
-      "added_at": "2022-10-07 11:48:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+        "name": "Tanaka 2",
+        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         }
       ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+      "duration_ms": 188724,
+      "name": "Tanaka 2",
+      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f"
+      },
+      "artists": [
+        {
+          "name": "Cal Scruby",
+          "url": "https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu"
+        }
+      ],
+      "duration_ms": 128662,
+      "name": "Money Buy Drugs (Interlude)",
+      "url": "https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Scratch Paper",
         "url": "https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 145624,
       "name": "Flash Bang",
       "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "While You Were Sleeping",
-        "url": "https://open.spotify.com/album/5gAiNgUKm0s1sFKfxcOH7f"
-      },
-      "artists": [
-        {
-          "name": "Cal Scruby",
-          "url": "https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu"
-        }
-      ],
-      "duration_ms": 128662,
-      "name": "Money Buy Drugs (Interlude)",
-      "url": "https://open.spotify.com/track/4LxHF9sQ6KXrxZatMPV2EL"
     },
     {
       "added_at": "2022-10-07 11:48:00",

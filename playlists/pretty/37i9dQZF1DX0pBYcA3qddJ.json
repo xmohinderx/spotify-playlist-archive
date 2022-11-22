@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43169,
+  "num_followers": 43201,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5NzIwMCwwMDAwMDAwMGYzZWI1NjMzM2M5MjI2N2Y4ZTFhMTFjYjEwNjJkMDk2",
+  "snapshot_id": "MTY2ODY5NzIwMCwwMDAwMDAwMGRiMWY5ZDk0MjUxZGRjMDI3MjA0N2U1YjdiMzgxYWI5",
   "tracks": [
     {
       "added_at": "2022-11-17 15:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234174,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Weird Goodbyes (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234174,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -735,18 +739,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 184532,
-      "name": "Lonely Bones",
-      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+      "duration_ms": 121250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 121250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
+      "duration_ms": 184532,
+      "name": "Lonely Bones",
+      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -835,50 +835,6 @@
       "duration_ms": 182108,
       "name": "The Girl with the Flaxen Hair",
       "url": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
-      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2 \u301c\u30aa\u30fc\u30dc\u30a8\u4f5c\u54c1\u96c6\u301c",
-        "url": "https://open.spotify.com/album/1zQg6ITPmT6O6DU2V13OFx"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30c3\u30c1\u30fc\u30cb\u30fb\u30b8\u30e5\u30ea\u30aa",
-          "url": "https://open.spotify.com/artist/3r74od2bke9JO6JRZfaw9F"
-        },
-        {
-          "name": "Shoko Ikeda",
-          "url": "https://open.spotify.com/artist/1GzO6918uAAGHPN3uExNoj"
-        },
-        {
-          "name": "Miwako Ishida",
-          "url": "https://open.spotify.com/artist/6xpoC2CNmTq2GXMbwWcJuO"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "\u30ab\u30c3\u30c1\u30fc\u30cb\u306e\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5hAVhz6ksyTExsgbxGe07e"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -907,6 +863,50 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2 \u301c\u30aa\u30fc\u30dc\u30a8\u4f5c\u54c1\u96c6\u301c",
+        "url": "https://open.spotify.com/album/1zQg6ITPmT6O6DU2V13OFx"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30c3\u30c1\u30fc\u30cb\u30fb\u30b8\u30e5\u30ea\u30aa",
+          "url": "https://open.spotify.com/artist/3r74od2bke9JO6JRZfaw9F"
+        },
+        {
+          "name": "Shoko Ikeda",
+          "url": "https://open.spotify.com/artist/1GzO6918uAAGHPN3uExNoj"
+        },
+        {
+          "name": "Miwako Ishida",
+          "url": "https://open.spotify.com/artist/6xpoC2CNmTq2GXMbwWcJuO"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "\u30ab\u30c3\u30c1\u30fc\u30cb\u306e\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5hAVhz6ksyTExsgbxGe07e"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "My Favorite Songs",
         "url": "https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX"
       },
@@ -923,22 +923,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -963,18 +959,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "TAPE 2/FOMALHAUT",
-        "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
       },
       "artists": [
         {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
         }
       ],
-      "duration_ms": 189166,
-      "name": "TO BE LOVED",
-      "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1631,26 +1631,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ"
+        "name": "TAPE 2/FOMALHAUT",
+        "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
       },
       "artists": [
         {
-          "name": "Florence Beatrice Price",
-          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Z\u00fcrcher Kammerorchester",
-          "url": "https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM"
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Adoration (Version for Solo Violin and String Orchestra)",
-      "url": "https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu"
+      "duration_ms": 189166,
+      "name": "TO BE LOVED",
+      "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1683,18 +1675,26 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "A Safe Place To Be",
-        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+        "name": "America",
+        "url": "https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ"
       },
       "artists": [
         {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Z\u00fcrcher Kammerorchester",
+          "url": "https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM"
         }
       ],
-      "duration_ms": 199152,
-      "name": "I Wanna See You Smile",
-      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
+      "duration_ms": 232000,
+      "name": "Adoration (Version for Solo Violin and String Orchestra)",
+      "url": "https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu"
     },
     {
       "added_at": "2022-11-17 15:00:00",

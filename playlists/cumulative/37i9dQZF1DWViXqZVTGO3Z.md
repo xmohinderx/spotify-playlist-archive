@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-237 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+238 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Before the King](https://open.spotify.com/track/7ncXTtHMsR1BI6GjHG9mxk) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD), [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Before the King](https://open.spotify.com/album/2h1OcTgV8kOHmgDt9L9iZA) | 4:41 | 2021-12-24 |  |
 | [Behold](https://open.spotify.com/track/04Q8Fegzmky1vAnlVvzssN) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Behold](https://open.spotify.com/album/3rqm2bP90S8oJb2XHjogcN) | 5:59 | 2021-12-24 | 2022-07-29 |
 | [Behold Him](https://open.spotify.com/track/0kB2TGiaMHKOfMwQg2sYuC) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:40 | 2021-12-11 |  |
+| [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 |  |
 | [Being Home for Christmas](https://open.spotify.com/track/6C5kkTtjWio0ah4AZDEiFS) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Home for Christmas](https://open.spotify.com/album/63XoYgQykqbqTiGa3jBvki) | 4:16 | 2021-12-11 | 2022-07-28 |
 | [Born A King](https://open.spotify.com/track/4NheMcbW4kXGqisZrbXf3z) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born A King](https://open.spotify.com/album/7H8V9kMl38nY44DT1i2y6T) | 3:39 | 2021-12-11 |  |
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2021-12-24 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [Messiah](https://open.spotify.com/track/4egkdMYi6fuLYH2PNTnpGW) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:38 | 2021-12-11 | 2022-07-26 |
 | [Messiah](https://open.spotify.com/track/0vf6DSd9O9Y1xlzNaNK2kV) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Where I Find You: Christmas Edition](https://open.spotify.com/album/4tubRHJq8r0x1w6O0GltyL) | 4:24 | 2021-12-24 |  |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-11 |  |
-| [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 |  |
+| [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2022-11-22 |
 | [Mothers and Shepherds](https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Mothers and Shepherds](https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4) | 5:02 | 2021-12-11 |  |
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2021-12-24 | 2022-07-29 |
 | [Noel \- Live](https://open.spotify.com/track/5eMK2CHhWtufXfNrA6FgpG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:17 | 2021-12-11 | 2022-11-13 |

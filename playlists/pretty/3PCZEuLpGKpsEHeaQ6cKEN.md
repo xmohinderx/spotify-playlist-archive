@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| This week the playlist is about Dreamfields Festival, where Armada is hosting a stage, including artists like Matt Guy, Maxim Lany, ARTY, Kasablanca, Aly &amp; Fila\. And on top of that, Armin van Buuren and Will Sparks are performing
+> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| This week the playlist is about Dreamfields Festival, where Armada hosts a stage, including artists like Matt Guy, Maxim Lany, ARTY, Kasablanca, Aly &amp; Fila\.  Also, Armin van Buuren and Will Sparks are performing at the mainstage.
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,114 likes - 153 songs - 7 hr 54 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,116 likes - 153 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 152 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 |
 | 153 | [PYRO](https://open.spotify.com/track/3aDhgouoRk6awklXL4QBGQ) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [PYRO](https://open.spotify.com/album/1pUyOjLNNT79a8OhVFsD5x) | 2:28 |
 
-Snapshot ID: `NTIyMjgsMjhmMTZiNjg4Mjk0ZTMwNDIyNmE0MDdmMmNhMWUyZjE4MzYyYzIwMg==`
+Snapshot ID: `NTIyMzEsZmQ1YjlhMDcwYWQ5ZDgyNDlkZjQyYmY1NjcxZTg5ZjE3NjcxZDRkZA==`

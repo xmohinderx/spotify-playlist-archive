@@ -4,7 +4,7 @@
 
 > Ahh ingen gör det som oss!!!
 
-434 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
+435 songs - 19 hr 32 min - [published](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Fylla på fjället](https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fylla på fjället](https://open.spotify.com/album/66OVGhMeiP7JPwkygu3PVg) | 2:00 | 2022-09-29 | 2022-10-07 |
 | [Gasen i botten](https://open.spotify.com/track/4oDtrm4m6Op3krgnZmgg6c) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS) | [En jävla massa hits](https://open.spotify.com/album/61YtIcx4S60zeiYe45rqgG) | 3:20 | 2022-09-29 | 2022-10-21 |
 | [Gaz](https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h) | [Filip Dikmen](https://open.spotify.com/artist/7qSCidF75d5rOsImAFid1z), [Lilla Al\-Fadji](https://open.spotify.com/artist/2R4c3b62zoVN4269pxHJWU) | [Gaz](https://open.spotify.com/album/2BHNIahI6BbaDblKM71cNZ) | 3:06 | 2021-12-16 | 2022-07-12 |
+| [Genom Dalarna](https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Genom Dalarna](https://open.spotify.com/album/7qT77qFCP5oiA1PIb9eZeW) | 2:42 | 2022-11-21 |  |
 | [Genom Eld & Vatten](https://open.spotify.com/track/0rIk20p6JGNZhvnwkBDjyj) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Nordic Brave House](https://open.spotify.com/artist/0CVdI90FSc2KH68L8KapyN) | [Genom Eld & Vatten](https://open.spotify.com/album/5ZFT3C4inz5PVUYVewibRb) | 3:11 | 2022-06-23 | 2022-08-26 |
 | [Genom eld & vatten](https://open.spotify.com/track/1l9715jTuQmzvvRjnMGpAj) | [Dolores](https://open.spotify.com/artist/4qyhURA0g9oibogcNPMZaP) | [Genom eld & vatten](https://open.spotify.com/album/4SPeBlmlxTZOUssNyperUX) | 2:31 | 2021-12-16 | 2022-04-22 |
 | [Genom eld & vatten \- Remix](https://open.spotify.com/track/0602UxfoZWLLErZI6Ji6WV) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [Genom eld & vatten \(Remix\)](https://open.spotify.com/album/1jEELJDqnbS3CNHc3sn0SP) | 3:07 | 2022-10-27 |  |
@@ -231,7 +232,7 @@
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2022-07-28 |  |
 | [MEDVETSLÖS](https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:23 | 2022-08-25 |  |
 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 | 2022-08-25 |  |
-| [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi) | 2:22 | 2022-06-29 |  |
+| [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi) | 2:22 | 2022-06-29 | 2022-11-22 |
 | [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 | 2022-09-08 |  |
 | [Mera E](https://open.spotify.com/track/3IBIfOeAb1jmiFPokguGCQ) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Mera E](https://open.spotify.com/album/4Bq39X6FqqE8iQQt7VnEBk) | 2:04 | 2021-12-16 | 2022-04-14 |
 | [Mera Eva](https://open.spotify.com/track/5KNNHlJw4DOKjxrs8LxHtL) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Mera Eva](https://open.spotify.com/album/4986vDC7DMN8nsPPArb5hq) | 2:23 | 2021-12-16 | 2022-07-21 |

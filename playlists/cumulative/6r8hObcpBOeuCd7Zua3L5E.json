@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love Alone (Stripped Version)",
+        "url": "https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Fall In Love Alone - Sped Up Version",
+      "url": "https://open.spotify.com/track/6ButBCeYcNMlllAOI4BIZb"
+    },
+    {
+      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 171439,
       "name": "go - Higher & Faster",
       "url": "https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi"
@@ -1706,6 +1724,32 @@
     },
     {
       "album": {
+        "name": "Remember (Versions)",
+        "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154146,
+      "name": "Remember - Acoustic / Sped Up",
+      "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
+    },
+    {
+      "album": {
         "name": "Shallowside Baby (Fast)",
         "url": "https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM"
       },
@@ -2281,7 +2325,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 194062,
       "name": "Wasted (Nightcore)",
       "url": "https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI"

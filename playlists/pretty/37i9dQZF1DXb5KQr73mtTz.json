@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 6859,
+  "num_followers": 6878,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzQ2NiwwMDAwMDAwMDU0MTNiYjZhN2UwMDViYTIyYTExOTExZTUyMmQ0NjI1",
+  "snapshot_id": "MTY2NzQ2NzQ2NiwwMDAwMDAwMDM4NDhiYzFlOTJhM2YxNTMwZDlkYmU2NjM5M2RmNjE0",
   "tracks": [
     {
       "added_at": "2022-11-03 09:24:26",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 192430,
-      "name": "Forgetting You",
-      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+      "duration_ms": 316506,
+      "name": "My sea",
+      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -187,22 +203,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "My sea",
-      "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "My Liberation Notes OST Part 11",
         "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -387,34 +371,18 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "If You Wish Upon Me OST Part.1",
-        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
       "artists": [
         {
-          "name": "Kim Sung Kyu",
-          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 219413,
-      "name": "LONER",
-      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -451,22 +419,18 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "If You Wish Upon Me OST Part.1",
+        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
         }
       ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+      "duration_ms": 219413,
+      "name": "LONER",
+      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -483,6 +447,42 @@
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 15",
         "url": "https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 216266,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 199577,
-      "name": "Into My Heart",
-      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -711,6 +679,22 @@
       "duration_ms": 278454,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -731,8 +715,8 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "\uaf43",
-        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+        "name": "Encounter (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 258872,
-      "name": "\uc81c\ubc1c",
-      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
+      "duration_ms": 199577,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -811,6 +795,22 @@
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Things I Loved Most 2",
+        "url": "https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 210581,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
     },
     {
       "added_at": "2022-11-03 09:24:26",

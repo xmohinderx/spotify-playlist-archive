@@ -1,95 +1,15 @@
 {
   "description": "The Vitamin String Quartet share their favorite chilled classical covers. ",
-  "num_followers": 95447,
+  "num_followers": 95854,
   "original_name": "Chilled Classical Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMDYzNGIyNGQ0NzRlNjczOTMyMjYyMzg1NTc1NGZhZmE4",
+  "snapshot_id": "MTY2OTAyMjY3NSwwMDAwMDAwMDU1YmUwN2NiOGY4YTRhOWZhN2NmZmFjMzMwMWM2Zjdl",
   "tracks": [
     {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "VSQ Performs the Hits of 2014, Vol. 2",
-        "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "VSQ Performs the Hits of 2021, Vol. 2",
-        "url": "https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "VSQ Performs BTS",
-        "url": "https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Westworld: Season 1 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "VSQ Performs Lana Del Rey",
-        "url": "https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Young and Beautiful",
-      "url": "https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG"
@@ -105,7 +25,87 @@
       "url": "https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 2",
+        "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22"
+    },
+    {
+      "added_at": "2022-11-21 09:24:35",
+      "album": {
+        "name": "VSQ Performs the Hits of 2021, Vol. 2",
+        "url": "https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC"
+    },
+    {
+      "added_at": "2022-11-21 09:24:35",
+      "album": {
+        "name": "VSQ Performs BTS",
+        "url": "https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b"
+    },
+    {
+      "added_at": "2022-11-21 09:24:35",
+      "album": {
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq"
+    },
+    {
+      "added_at": "2022-11-21 09:24:35",
+      "album": {
+        "name": "VSQ Performs Lana Del Rey",
+        "url": "https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Young and Beautiful",
+      "url": "https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP"
+    },
+    {
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Sigur R\u00f3s",
         "url": "https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2CuDFSFwIy2pwpXNHPLwZ3"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2018, Vol. 2",
         "url": "https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2018",
         "url": "https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2020",
         "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3ecktnbNRZujmDisEq9C7O"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Coldplay's Viva La Vida",
         "url": "https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Flaming Lips' Do You Realize?? and All We Have is Now",
         "url": "https://open.spotify.com/album/7gexROsunplskcUZRIMuoy"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5LMQkt9cgMPc5FDZzWpch2"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Rock Hits of 2016",
         "url": "https://open.spotify.com/album/5lNn9yKy0QHZpJOM9eYiLN"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7eyofqtirJUi7bae1HaX7E"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Lana Del Rey",
         "url": "https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/0RXFGoIYK7w64zkYZ3IR4w"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Our Flashback Wedding",
         "url": "https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2019",
         "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6JTRAVwH9ahy1l9NGkt64s"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2020",
         "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4foUpkmdBE9IGKMgWvx3rD"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 1",
         "url": "https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3lDVrC13oxt1IMvBbqT1Es"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2019",
         "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2016, Vol. 2",
         "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/1pQtiUNaBpjcspLcqetigX"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Sigur R\u00f3s",
         "url": "https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/3ds1kgDCu5z8223fX1FWIN"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Regina Spektor",
         "url": "https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Geek Wedding Forever, Vol. 3",
         "url": "https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/5Ccu4rB501CNiuZYI1sJAW"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2021, Vol. 1",
         "url": "https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/3IG7pa9dwz2yuGhgXk6tXS"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
         "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2019, Vol. 2",
         "url": "https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2019",
         "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/37MspE4lVtZzAvvYknWKdp"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2018, Vol. 2",
         "url": "https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2018",
         "url": "https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/48JM5ZeFDq8fT90UWQoqlm"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2017 Vol. 2",
         "url": "https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/1uUf3j1JanarEIsAcX6NGd"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2017",
         "url": "https://open.spotify.com/album/2BMSgGCgF7q9OdtobRwhP1"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/6iqc5uXMFI87x4aoyk3RsV"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Weeknd",
         "url": "https://open.spotify.com/album/42uXnfr69zoPYoudG0wBNc"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/2PoEsGyvkuyQQA03W5rdAL"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2016, Vol. 2",
         "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Radiohead's \"True Love Waits\" and \"Burn the Witch\"",
         "url": "https://open.spotify.com/album/7lHx4M8wxfrSKJQGRoXOoc"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/0JFVqqRU2Cm3oKAs3DyGbT"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Beatles' Norwegian Wood",
         "url": "https://open.spotify.com/album/3kVjXxjeoWSanIECpV7b2W"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/2bh6efWH0r9tFHa42PG5hv"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2015, Vol. 1",
         "url": "https://open.spotify.com/album/60cEfy1gNvNLktg5UAlf36"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1D7gsXVvw3TShPsODTbYmZ"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Gotye's Somebody That I Used to Know",
         "url": "https://open.spotify.com/album/6ItDt8bkHreshCqpX3zDhF"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4C0prnOdpjkYh0cpay5sXj"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2017 Vol. 2",
         "url": "https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/6CHgoOm1x4XPSDPd1jNMDi"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Modern Rock Hits 2011 Vol. 2",
         "url": "https://open.spotify.com/album/2GF8X4yqyIqazuGB40zoO5"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/2lYLFwtSnahWTXZqqNiIFy"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Owl City's Fireflies",
         "url": "https://open.spotify.com/album/3igoQSJBfxk4FHtJatKToG"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/18b2wZBDyaiQzRitdYOuXg"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2016, Vol. 1",
         "url": "https://open.spotify.com/album/22bGVJ3OITsYg6IfBNjfKw"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/28NnTNYumoVjjrGq9UIF9m"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Daft Punk's Random Access Memories",
         "url": "https://open.spotify.com/album/4kRcTnhismcDg7nicWGAKB"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/53adoODXmH7iY9g7YquSNT"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2015, Vol. 3",
         "url": "https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/2WU5ezRzy3mJO4d9MdqW5X"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2015, Vol. 2",
         "url": "https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 3",
         "url": "https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 1",
         "url": "https://open.spotify.com/album/2nXsjLHluXH1EDCGaI4Uf9"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/2LeC0NaJmwC49JvuQsHtLO"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2013, Vol. 1",
         "url": "https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2015, Vol. 3",
         "url": "https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/2sJqQqodYHAv9gHhSbFVo2"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2013, Vol. 2",
         "url": "https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Songbirds: VSQ Celebrates the Women of Modern Rock",
         "url": "https://open.spotify.com/album/7msqnm8LfMD88A3dnKrYcu"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/1WWgAxgMDRNrSi26x4weoR"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Music from the Films of Wes Anderson",
         "url": "https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/5yhAp5zikhraHkUJgsUYHN"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs The Decemberists",
         "url": "https://open.spotify.com/album/6H2zbBBOWSTxiat8AhpO1R"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/3raq8Hy4VIHlj9k5Chsfmp"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vsq Film School: Cult Classics & Indie Faves",
         "url": "https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/4R5pCOhqXDaXKdRQ3LIQFr"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Music from Dazed and Confused",
         "url": "https://open.spotify.com/album/2iIlIEHKjwleMaeeG83Rib"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/2Aw5U9y7uTE9jDo2O6u8Iw"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "The Modern Wedding Collection, Vol. 2",
         "url": "https://open.spotify.com/album/2XwUsjzSF4Qxd7cHcFSCsm"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/6yoNRCtmcgAqKUJ9hvLaqT"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Beaucoup de VSQ",
         "url": "https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Death Cab for Cutie: Ghost",
         "url": "https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Alternative Hits of the 90s",
         "url": "https://open.spotify.com/album/3M5lwpG7B3HuKhyYcBLfkn"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/3DtqQPayLqTqcnDuMqRcCQ"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Smashing Pumpkins",
         "url": "https://open.spotify.com/album/1QAHaP5KYmqmZJu88FxMEF"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/7s04KoVEsVuCOIvf3TocBj"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Hits of 2014, Vol. 2",
         "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/25pt0oRs4Y8ZRXK6sdi8Pn"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Deftones",
         "url": "https://open.spotify.com/album/4Us0cxN1m9rBykK1es9tw9"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0WBYXkgh8c40tU8kpHuCg5"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Bon Iver",
         "url": "https://open.spotify.com/album/6UAIWIcYacQ7saZDNvk0Gs"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4m11ClVp23KZpJl7dnunv7"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Music from the Films of Wes Anderson",
         "url": "https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6HoVFd8SJYyxD5cRUVD56M"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs the Cure",
         "url": "https://open.spotify.com/album/61kwUPXYy2ZUEIPBttwxvl"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1FoV6wB83NNrTQyDWXf2lB"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Performs Arcade Fire's Funeral",
         "url": "https://open.spotify.com/album/1h9qdv1DW59qUFj4kNx3qY"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3zGQHvq4qqRa77Mst3RF8f"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "VSQ Power Ballads",
         "url": "https://open.spotify.com/album/1RGdqBZNNmAqL6jfu6HYEz"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/405UQdWBjsxAjYyHRPVaDM"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol. 2",
         "url": "https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf"
     },
     {
-      "added_at": "2022-11-18 04:00:00",
+      "added_at": "2022-11-21 09:24:35",
       "album": {
         "name": "Vsq Film School: Cult Classics & Indie Faves",
         "url": "https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W"

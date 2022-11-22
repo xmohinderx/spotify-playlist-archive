@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
+> Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Ditto\(동감\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,722 likes - 102 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,389 likes - 102 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 |
-| 2 | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/track/41aK2m09u10TnlKHOyHH1C) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/album/0Bp0eaX0UqiJ1kvMNwJ5NX) | 4:25 |
+| 1 | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/track/41aK2m09u10TnlKHOyHH1C) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/album/0Bp0eaX0UqiJ1kvMNwJ5NX) | 4:25 |
+| 2 | [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 |
 | 3 | [For A Long Time](https://open.spotify.com/track/3dRfH2VxbflPsmxAY0VuDn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [For A Long Time \(CURTAIN CALL OST Part.5\)](https://open.spotify.com/album/4HH8pNiWSCxwK8jDAjUDfL) | 3:45 |
 | 4 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 |
 | 5 | [Childhood Dreams](https://open.spotify.com/track/35bkvjqWuHTg8w09yDKPy2) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Behind Every Star \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7C2ACjJmvMsOddvB37vYaw) | 3:45 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 101 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
 | 102 | [I'm here](https://open.spotify.com/track/2UCX1ls4T8RRCOpedsC66G) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/68C9H1PJkEOmRSr7a7AJ8d) | 3:41 |
 
-Snapshot ID: `MTY2ODY2NjU3NywwMDAwMDAwMDBiZDNiM2Q2Yjc0YzlkZmI4NzIzZjM5OWU2ZDhlYTFi`
+Snapshot ID: `MTY2OTAyMTkwMywwMDAwMDAwMDRhMGQxMzMxNTQ2M2ZiN2NlMTY1NzQ2MGVmODAyNWZh`

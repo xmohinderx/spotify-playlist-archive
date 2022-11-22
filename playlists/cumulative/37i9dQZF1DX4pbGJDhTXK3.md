@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-106 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+107 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 | 2022-07-28 |  |
 | [Baby Can't Stop](https://open.spotify.com/track/0vY62UbGD8b6P29Ei5kioB) | [Lindstrøm & Christabelle](https://open.spotify.com/artist/1s5e7OUQurxwsCCmpIfRXV) | [Real Life Is No Cool](https://open.spotify.com/album/28dJVop66m0uKswunCD9JH) | 6:06 | 2022-06-02 | 2022-07-27 |
 | [Balearic Incarnation](https://open.spotify.com/track/67xQFI4hUMJWLlaR6H0PHH) | [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Balearic Incarnation \(Todd Terje Rmx\)](https://open.spotify.com/album/4S71fM2WtlFSnQZdIvcMcV) | 6:19 | 2022-06-02 | 2022-11-20 |
+| [Balearic Incarnation](https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o) | [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Balearic Incarnation \(Todd Terje Rmx\)](https://open.spotify.com/album/51keyf40DWWo50Vbd7n4mF) | 6:19 | 2022-11-03 |  |
 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 | 2022-06-02 |  |
 | [beefs, bad blood and burning vendettas](https://open.spotify.com/track/67q2kAzAD0xfJ4qvtwqmRc) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [beefs, bad blood and burning vendettas](https://open.spotify.com/album/4ox6yvsuLchkGQjJ6nkuLm) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Blinded By The LEDs \- Edit](https://open.spotify.com/track/5tVGnPxbP3d6wwWq3HoZbt) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Blinded By The LEDs](https://open.spotify.com/album/3FjlEG9kLx0nfWM5D9kuZE) | 4:15 | 2022-06-02 | 2022-07-29 |
@@ -70,7 +71,7 @@
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 | 2022-07-28 |  |
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/4K3yHlxUKbaSJG8a0oq1jy) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/3NnwznPu0g0NBbua3tDkBj) | 13:33 | 2022-06-02 | 2022-07-29 |
 | [Moonie](https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Moonie](https://open.spotify.com/album/5AGH3AW6WZ5faWkogVv4Sk) | 6:08 | 2022-06-02 | 2022-11-13 |
-| [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 | 2022-06-02 |  |
+| [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 | 2022-06-02 | 2022-11-22 |
 | [Nitten Nitti \(Harvey's Not Normal Mix\)](https://open.spotify.com/track/52J9ryxIHPcNDy6hgJDLOC) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/5Xc6x9djXES2YS1j3515j7) | 5:03 | 2022-06-02 | 2022-07-29 |
 | [Nitten Nitti \- Harvey's Not Normal Mix](https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR) | 5:03 | 2022-07-28 |  |
 | [Nocturne](https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Songs From the End of the World](https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF) | 6:17 | 2022-06-23 |  |

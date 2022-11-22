@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/7EM6VUKspXVgEu8uref4au"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160085,
+      "name": "Christmas Will Really Be Christmas",
+      "url": "https://open.spotify.com/track/1XnK3vy0uLNYAW60O5Xn88"
+    },
+    {
+      "album": {
         "name": "Alternative Christmas 2022",
         "url": "https://open.spotify.com/album/3R11jqVNSusHsqYltCIJeV"
       },
@@ -1149,6 +1167,24 @@
       "duration_ms": 153800,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+    },
+    {
+      "album": {
+        "name": "Groovy Xmas",
+        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133028,
+      "name": "Groovy Xmas",
+      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
     },
     {
       "album": {
@@ -1713,7 +1749,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 258594,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1oMDICe4Bbv7NnYXXTBg5j"
@@ -1800,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/60HYitDBZuRnyquGeoaDtj"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216547,
+      "name": "Last Christmas - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7vaojIyvb52pVcNAWf2sG5"
+    },
+    {
+      "album": {
         "name": "Christmas EP",
         "url": "https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf"
       },
@@ -1851,6 +1905,24 @@
       "duration_ms": 124853,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/7yTsGb3OoTQulmgKZRtDKe"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/5F2LTPWjIl2YWeDlZSbNb3"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232067,
+      "name": "Little Drummer Boy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7tTPXjxNFjij4xzGeO3KLt"
     },
     {
       "album": {
@@ -2695,6 +2767,24 @@
       "duration_ms": 159027,
       "name": "Sally Sweet Tooth",
       "url": "https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2"
+    },
+    {
+      "album": {
+        "name": "Santa Baby (Recorded at Strongroom Studios London)",
+        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163741,
+      "name": "Santa Baby - Recorded at Strongroom Studios London",
+      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| This week the playlist is about Dreamfields Festival, where Armada is hosting a stage, including artists like Matt Guy, Maxim Lany, ARTY, Kasablanca, Aly &amp; Fila\. And on top of that, Armin van Buuren and Will Sparks are performing
+> The biggest Armada tracks of the moment! \| Updated weekly on Friday \| This week the playlist is about Dreamfields Festival, where Armada hosts a stage, including artists like Matt Guy, Maxim Lany, ARTY, Kasablanca, Aly &amp; Fila\.  Also, Armin van Buuren and Will Sparks are performing at the mainstage.
 
 323 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 

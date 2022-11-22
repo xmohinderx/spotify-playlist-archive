@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-80 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+81 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 4:09 | 2022-09-12 |  |
 | [Wesh Gabak](https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF) | [DEEJAY TAMER](https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh) | [Wesh Gabak](https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK) | 4:09 | 2022-08-14 |  |
 | [Win \- Lesstars Remix](https://open.spotify.com/track/0F9RxNpcbyw0uif75wpqrz) | [Halim yousfi](https://open.spotify.com/artist/6EUe84nUL0UynwPD7ddtgp), [Gultrah Sound System](https://open.spotify.com/artist/3ifW3hBoqUFSwwwjGrQtba), [Lesstars](https://open.spotify.com/artist/6QKz2YMVPepGdsvvOqeAg9) | [Win \(Lesstars Remix\)](https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS) | 4:17 | 2022-06-23 |  |
+| [XP](https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [XP](https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd) | 6:39 | 2022-11-21 |  |
 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-12 |  |
 | [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 | 2022-03-30 |  |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2022-03-30 |  |

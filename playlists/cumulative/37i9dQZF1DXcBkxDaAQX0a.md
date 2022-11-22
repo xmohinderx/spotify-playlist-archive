@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-259 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+260 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Buried Without a Name](https://open.spotify.com/track/3Sz5n8f7rSVFAeGSa4FwOX) | [Single Wound](https://open.spotify.com/artist/45NdlnaWFaG6bGqjFNvRde) | [Buried Without a Name](https://open.spotify.com/album/1ODU3FiH4JBuhrmGqAun04) | 3:52 | 2022-04-04 | 2022-04-13 |
 | [California \(Acoustic\)](https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [California \(Acoustic\)](https://open.spotify.com/album/4yx7hj2FSxSit2mBktlrZL) | 4:18 | 2021-02-08 | 2022-07-27 |
 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 | 2021-02-08 |  |
-| [Cement](https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:05 | 2022-04-04 |  |
+| [Cement](https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:05 | 2022-04-04 | 2022-11-22 |
 | [Cement](https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/1euaS5eK34iGgsrG6fBiwd) | 3:05 | 2021-02-08 | 2022-07-29 |
 | [Clairvoyant](https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story so Far / Stick to Your Guns Split \- EP](https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M) | 3:01 | 2021-02-08 |  |
 | [Cold in the City \(Acoustic\)](https://open.spotify.com/track/3IZMgZIbzIb73Ly3ObfvxJ) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City \(Acoustic\)](https://open.spotify.com/album/52cYagyGndWByJ8fNyNcQh) | 3:17 | 2022-04-04 | 2022-07-27 |
@@ -250,6 +250,7 @@
 | [Voldemort \(Acoustic\)](https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Voldemort](https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7) | 3:18 | 2022-04-04 |  |
 | [Wake Me Up When September Ends \- One World: Together At Home](https://open.spotify.com/track/2xHEVUWs1kCSuvwiPXlZtV) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG) | [One World: Together At Home](https://open.spotify.com/album/2VcZJySG0Skmua8JkfXGcz) | 2:59 | 2022-04-04 | 2022-07-29 |
 | [Walking Disaster](https://open.spotify.com/track/2qllvKclzdC7rbiow3o6QB) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Walking Disaster](https://open.spotify.com/album/1GNivcazyX6cP93YSHoaYi) | 3:15 | 2021-02-08 | 2022-11-06 |
+| [Walking Disaster](https://open.spotify.com/track/5aVoovrdVz1PLZa6iLl2cf) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Walking Disaster](https://open.spotify.com/album/3cqogTHL6NnU25ijfLpLtg) | 3:15 | 2022-04-04 |  |
 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 | 2021-02-08 |  |
 | [We Have A Body Count \- Acoustic](https://open.spotify.com/track/5oUOIuwiUmBVdJiJ2w4VPg) | [Veara](https://open.spotify.com/artist/252zzAWhtQayw6tlcCkSZu) | [We Have A Body Count \(Acoustic\)](https://open.spotify.com/album/2mjwbYnWShNqC6y1rVD8X4) | 3:01 | 2021-02-08 | 2022-04-19 |
 | [Weight of the World \(Acoustic\)](https://open.spotify.com/track/2YG5TPqTTVM4OwJtvqBbSG) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy) | [Acoustic \- EP](https://open.spotify.com/album/4k6Op6vjH8YS1XnapIu7H2) | 2:54 | 2021-02-08 | 2022-07-01 |

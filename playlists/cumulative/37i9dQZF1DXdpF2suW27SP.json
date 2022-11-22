@@ -2856,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "TINA DANCE",
+        "url": "https://open.spotify.com/album/6h0qqal5ouuuCeyZfGhwlU"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144084,
+      "name": "TINA DANCE",
+      "url": "https://open.spotify.com/track/4P5EPz6Sz8mURxMXlkA8jB"
+    },
+    {
+      "album": {
         "name": "Tirar Bilhete",
         "url": "https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG"
       },

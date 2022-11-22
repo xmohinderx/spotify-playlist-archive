@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Featuring new music by Yung Gravy.
 
-471 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+472 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Fly By](https://open.spotify.com/track/6MtKPVlt0AKVj3ZdQFHkqJ) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Fly By](https://open.spotify.com/album/3YrxOKDzXJnDdevVIgnEJ3) | 1:36 | 2022-05-20 | 2022-07-30 |
 | [Forever Known](https://open.spotify.com/track/5a8UxWWXVhCs9vZRsfk6XD) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [TTB: STREETS CHOSE ME](https://open.spotify.com/album/6Q4v67qp7kf3J8g5uey5MT) | 3:12 | 2021-10-01 | 2022-02-26 |
 | [Frankenstein](https://open.spotify.com/track/7vkFn4MeLp77flJYqffY1r) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Bin Reaper 2](https://open.spotify.com/album/1tv75OLGopTFJOGLUc25hx) | 2:28 | 2021-11-29 | 2022-02-05 |
+| [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-11-21 |  |
 | [freddie](https://open.spotify.com/track/72qubW4aIepd7GDHKK9TP5) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [freddie](https://open.spotify.com/album/6vWhewsZZLkEr04qwpLqRr) | 1:37 | 2022-10-14 | 2022-11-19 |
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2022-08-29 |  |
 | [From Tha Back](https://open.spotify.com/track/6yPXp9wf5SVk98bhJdOZkM) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Huncho Da Rockstar](https://open.spotify.com/artist/4VrY0JpWXcvse8rsqAIZj3) | [From Tha Back](https://open.spotify.com/album/2uH6mlobFkCOzoTS7oqvKy) | 2:46 | 2021-09-21 | 2022-03-26 |

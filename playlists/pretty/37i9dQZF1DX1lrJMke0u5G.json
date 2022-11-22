@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 23996,
+  "num_followers": 24023,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGNkZWIyMjc3YmJiMjcxMjNkMDhiNGNjY2FhZmY1YjUz",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGI1YTA4MDYyY2YyNTg5N2IzYzQ3MmQ3N2MwM2JmYTMx",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pijamas",
+      "url": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pijamas",
-      "url": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 144129,
       "name": "NI\u00d1O GORDO FLACO",
       "url": "https://open.spotify.com/track/0Wz6TToEPwxzH482fuGEwO"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "El Disco de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/1nZJhX71HCQuyaCIyojXNG"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -307,6 +291,38 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 155920,
+      "name": "Carism\u00e1tico",
+      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "El Disco de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/1nZJhX71HCQuyaCIyojXNG"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 155920,
-      "name": "Carism\u00e1tico",
-      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "CARAVANA",
         "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 302788,
       "name": "Antes y Despu\u00e9s",
       "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -439,6 +423,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 187132,
+      "name": "Risa",
+      "url": "https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "POST MORTEM",
         "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 185905,
       "name": "PELOTUDA",
       "url": "https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Hacer Un Puente",
-        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        }
-      ],
-      "duration_ms": 282958,
-      "name": "Hacer un puente",
-      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -487,34 +471,34 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 187132,
-      "name": "Risa",
-      "url": "https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s"
+      "duration_ms": 206053,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
     },
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Hacer Un Puente",
+        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 282958,
+      "name": "Hacer un puente",
+      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -531,6 +515,22 @@
       "duration_ms": 196745,
       "name": "CANGURO",
       "url": "https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 149433,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Talism\u00e1n",
+        "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "El Golem de Paternal",
+      "url": "https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Puedo Con Esto (Fuera de Foco)",
         "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 211493,
       "name": "Partenaire",
       "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Talism\u00e1n",
-        "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "El Golem de Paternal",
-      "url": "https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Sinfon\u00edas Libertarias",
-        "url": "https://open.spotify.com/album/19zeVAtY5p7o5n7xLOkKya"
-      },
-      "artists": [
-        {
-          "name": "La Chancha Muda",
-          "url": "https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Policarbonatos de Plutonio",
-      "url": "https://open.spotify.com/track/1H3GvWazWl7oGBJfpT8Onz"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Tipos Serios",
         "url": "https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh"
       },
@@ -1611,22 +1595,6 @@
       "duration_ms": 150880,
       "name": "Tengo Todo",
       "url": "https://open.spotify.com/track/6x9PGO5Dijv5BfqfLRuKDS"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Serie Oro",
-        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Paisano De Hurlingham",
-      "url": "https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1663,6 +1631,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Sinfon\u00edas Libertarias",
+        "url": "https://open.spotify.com/album/19zeVAtY5p7o5n7xLOkKya"
+      },
+      "artists": [
+        {
+          "name": "La Chancha Muda",
+          "url": "https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Policarbonatos de Plutonio",
+      "url": "https://open.spotify.com/track/1H3GvWazWl7oGBJfpT8Onz"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "14:14",
         "url": "https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Serie Oro",
+        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Paisano De Hurlingham",
+      "url": "https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26"
     },
     {
       "added_at": "2022-02-07 20:34:45",

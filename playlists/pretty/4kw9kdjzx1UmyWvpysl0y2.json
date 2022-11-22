@@ -1,63 +1,35 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127161,
+  "num_followers": 127157,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc5OSw1NDc4ZDcwZWFlMTgyN2ZjMzM2OTU2M2M0YTgyZGUxMTY3YzA0YzU3",
+  "snapshot_id": "MzgzMiw4YTYyOTQ5Y2EwMTcxYjE3OThjZjQzYzE4ZjlmNGIyZmI2OGI5YTA5",
   "tracks": [
     {
-      "added_at": "2022-11-19 05:23:35",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
-        "name": "Journey To Ascendance",
-        "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
       },
       "artists": [
         {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Wish You Stayed",
-      "url": "https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix"
-    },
-    {
-      "added_at": "2022-11-19 05:23:35",
-      "album": {
-        "name": "Journey To Ascendance",
-        "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
-      },
-      "artists": [
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
         {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 222564,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2UsEuBZl1HRTe8BLfApoMt"
+      "duration_ms": 222400,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
     },
     {
-      "added_at": "2022-11-19 05:23:35",
-      "album": {
-        "name": "Journey To Ascendance",
-        "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
-      },
-      "artists": [
-        {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
-        }
-      ],
-      "duration_ms": 177295,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR"
-    },
-    {
-      "added_at": "2022-11-19 05:23:35",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Journey To Ascendance",
         "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
@@ -73,55 +45,7 @@
       "url": "https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR"
     },
     {
-      "added_at": "2022-11-19 05:23:35",
-      "album": {
-        "name": "Journey To Ascendance",
-        "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
-      },
-      "artists": [
-        {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/5DsHIpQYhemlXf5OZ1VYlw"
-    },
-    {
-      "added_at": "2022-11-19 05:23:35",
-      "album": {
-        "name": "Journey To Ascendance",
-        "url": "https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL"
-      },
-      "artists": [
-        {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
-        }
-      ],
-      "duration_ms": 261795,
-      "name": "Journey To Ascendance",
-      "url": "https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd"
-    },
-    {
-      "added_at": "2022-11-19 05:23:56",
-      "album": {
-        "name": "Eagle Rock",
-        "url": "https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN"
-      },
-      "artists": [
-        {
-          "name": "Alex H",
-          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Eagle Rock",
-      "url": "https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ"
-    },
-    {
-      "added_at": "2022-11-19 05:23:56",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Eagle Rock",
         "url": "https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN"
@@ -137,7 +61,7 @@
       "url": "https://open.spotify.com/track/1YSpczovBtz4fk8BxWrhvn"
     },
     {
-      "added_at": "2022-11-17 20:02:38",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Collecting Thoughts",
         "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
@@ -157,7 +81,7 @@
       "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     },
     {
-      "added_at": "2022-11-16 19:19:43",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "destination heartbreak pt. 1",
         "url": "https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA"
@@ -173,39 +97,7 @@
       "url": "https://open.spotify.com/track/0Hp6vVEvnAcUl6weg2tUBM"
     },
     {
-      "added_at": "2022-11-19 05:24:29",
-      "album": {
-        "name": "destination heartbreak pt. 1",
-        "url": "https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "spadina 3am",
-      "url": "https://open.spotify.com/track/7IfCF8HvCvtZBlB0nfWVCv"
-    },
-    {
-      "added_at": "2022-11-19 05:24:29",
-      "album": {
-        "name": "destination heartbreak pt. 1",
-        "url": "https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "who we are",
-      "url": "https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ"
-    },
-    {
-      "added_at": "2022-11-15 19:38:19",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "To Another World",
         "url": "https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P"
@@ -221,63 +113,7 @@
       "url": "https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw"
     },
     {
-      "added_at": "2022-11-19 05:25:04",
-      "album": {
-        "name": "Existentia",
-        "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Integration Sequence",
-      "url": "https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE"
-    },
-    {
-      "added_at": "2022-11-19 05:25:04",
-      "album": {
-        "name": "Existentia",
-        "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 167172,
-      "name": "Sell Your Soul",
-      "url": "https://open.spotify.com/track/2FePeEwAsqh7tspWUV2Ui6"
-    },
-    {
-      "added_at": "2022-11-19 05:25:04",
-      "album": {
-        "name": "Existentia",
-        "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "AFTERMYFALL",
-          "url": "https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Prophecy",
-      "url": "https://open.spotify.com/track/1YwyNIHtNHaIuvz8ngtx8q"
-    },
-    {
-      "added_at": "2022-11-16 19:18:53",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Existentia",
         "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
@@ -293,23 +129,7 @@
       "url": "https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH"
     },
     {
-      "added_at": "2022-11-19 05:25:04",
-      "album": {
-        "name": "Existentia",
-        "url": "https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "2Nite",
-      "url": "https://open.spotify.com/track/0VeY3NqMDTymaHmFoQWAZq"
-    },
-    {
-      "added_at": "2022-11-11 17:17:41",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Nimbus",
         "url": "https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx"
@@ -329,7 +149,7 @@
       "url": "https://open.spotify.com/track/00uWPR2Xr54sF4MS2hnZ1m"
     },
     {
-      "added_at": "2022-11-10 14:06:14",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir"
@@ -345,7 +165,7 @@
       "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
     },
     {
-      "added_at": "2022-11-09 17:40:14",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
@@ -361,7 +181,7 @@
       "url": "https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs"
     },
     {
-      "added_at": "2022-11-09 17:40:14",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug"
@@ -377,7 +197,7 @@
       "url": "https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j"
     },
     {
-      "added_at": "2022-11-09 11:17:06",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Malva",
         "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
@@ -393,7 +213,7 @@
       "url": "https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3"
     },
     {
-      "added_at": "2022-11-14 23:29:31",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Malva",
         "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
@@ -413,7 +233,7 @@
       "url": "https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV"
     },
     {
-      "added_at": "2022-11-08 19:27:28",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ"
@@ -429,7 +249,7 @@
       "url": "https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP"
     },
     {
-      "added_at": "2022-11-07 16:45:35",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "GALACTICAL",
         "url": "https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa"
@@ -445,7 +265,7 @@
       "url": "https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ"
     },
     {
-      "added_at": "2022-11-04 22:32:20",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Endless (Best of Me)",
         "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
@@ -465,7 +285,7 @@
       "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
     },
     {
-      "added_at": "2022-11-04 22:32:42",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "On The Run",
         "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
@@ -485,59 +305,7 @@
       "url": "https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia"
     },
     {
-      "added_at": "2022-11-04 22:32:42",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Luke Coulson",
-          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb"
-    },
-    {
-      "added_at": "2022-11-04 22:32:42",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 194125,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/0QyD3WGQ1yYy01fpZYMl93"
-    },
-    {
-      "added_at": "2022-11-04 22:32:42",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy"
-    },
-    {
-      "added_at": "2022-11-03 17:17:35",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "CODES",
         "url": "https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj"
@@ -557,7 +325,7 @@
       "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
     },
     {
-      "added_at": "2022-11-02 19:10:15",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Garden's Edge",
         "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
@@ -573,7 +341,7 @@
       "url": "https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir"
     },
     {
-      "added_at": "2022-11-04 22:33:34",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Garden's Edge",
         "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
@@ -589,7 +357,7 @@
       "url": "https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh"
     },
     {
-      "added_at": "2022-11-01 16:56:50",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi"
@@ -605,7 +373,7 @@
       "url": "https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt"
     },
     {
-      "added_at": "2022-10-31 16:12:49",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Madara",
         "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
@@ -625,7 +393,7 @@
       "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
     },
     {
-      "added_at": "2022-10-29 00:53:03",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy"
@@ -645,7 +413,7 @@
       "url": "https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh"
     },
     {
-      "added_at": "2022-10-29 00:53:27",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Sky",
         "url": "https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi"
@@ -661,7 +429,7 @@
       "url": "https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT"
     },
     {
-      "added_at": "2022-10-27 19:07:14",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Be Here (La La La)",
         "url": "https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM"
@@ -681,7 +449,7 @@
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
     },
     {
-      "added_at": "2022-10-26 19:10:18",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
@@ -701,7 +469,7 @@
       "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
     },
     {
-      "added_at": "2022-10-29 00:54:29",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
@@ -717,7 +485,7 @@
       "url": "https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB"
     },
     {
-      "added_at": "2022-10-29 00:54:29",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
@@ -733,7 +501,7 @@
       "url": "https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa"
     },
     {
-      "added_at": "2022-10-29 00:54:29",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
@@ -749,7 +517,7 @@
       "url": "https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4"
     },
     {
-      "added_at": "2022-10-25 19:43:59",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "scars",
         "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
@@ -765,7 +533,7 @@
       "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
     },
     {
-      "added_at": "2022-10-27 19:10:27",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "My Heart\u2019s on Fire",
         "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
@@ -785,7 +553,7 @@
       "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5"
@@ -805,7 +573,7 @@
       "url": "https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd"
     },
     {
-      "added_at": "2022-10-27 19:11:33",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5"
@@ -825,7 +593,7 @@
       "url": "https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "SLEEPER / SICKO",
         "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
@@ -841,7 +609,7 @@
       "url": "https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q"
     },
     {
-      "added_at": "2022-10-27 19:11:54",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "SLEEPER / SICKO",
         "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
@@ -857,7 +625,7 @@
       "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Nara",
         "url": "https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN"
@@ -873,7 +641,7 @@
       "url": "https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Slip Away",
         "url": "https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9"
@@ -893,7 +661,7 @@
       "url": "https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD"
@@ -913,7 +681,7 @@
       "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb"
@@ -929,7 +697,7 @@
       "url": "https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Invane",
         "url": "https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW"
@@ -949,7 +717,7 @@
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "The Lost Ancient Charm",
         "url": "https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G"
@@ -969,7 +737,7 @@
       "url": "https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e"
@@ -985,7 +753,7 @@
       "url": "https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo"
@@ -1005,7 +773,7 @@
       "url": "https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
@@ -1025,7 +793,7 @@
       "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/4Y4QTmcND8jyE7zCKuRL7b"
@@ -1045,7 +813,7 @@
       "url": "https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-11-21 22:52:33",
       "album": {
         "name": "The Dead March",
         "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
@@ -1063,6 +831,262 @@
       "duration_ms": 162356,
       "name": "The Dead March",
       "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        }
+      ],
+      "duration_ms": 236874,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Out of the Dark",
+        "url": "https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Out of the Dark",
+      "url": "https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "RAD",
+        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Luke Coulson",
+          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19"
+      },
+      "artists": [
+        {
+          "name": "Hoaprox",
+          "url": "https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "FULL ASSAULT / ALL THAT U WANT",
+        "url": "https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS"
+      },
+      "artists": [
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        },
+        {
+          "name": "Psylla",
+          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
+        },
+        {
+          "name": "JACKIE EXTREME",
+          "url": "https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "FULL ASSAULT",
+      "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Sell Your Soul",
+        "url": "https://open.spotify.com/album/1xVPfRWBXIb5d5FXFYSWYC"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 167172,
+      "name": "Sell Your Soul",
+      "url": "https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        },
+        {
+          "name": "Julian Gray",
+          "url": "https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN"
+        },
+        {
+          "name": "Avrii Castle",
+          "url": "https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8"
+        }
+      ],
+      "duration_ms": 168624,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW"
+      },
+      "artists": [
+        {
+          "name": "Mick Mazoo",
+          "url": "https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve"
+        }
+      ],
+      "duration_ms": 152827,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "INEEDU / SOYUZ",
+        "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 213942,
+      "name": "INEEDU",
+      "url": "https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "INEEDU / SOYUZ",
+        "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "duration_ms": 227657,
+      "name": "SOYUZ",
+      "url": "https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v"
+    },
+    {
+      "added_at": "2022-11-21 22:52:33",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM"
+      },
+      "artists": [
+        {
+          "name": "Ra5im",
+          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
+        }
+      ],
+      "duration_ms": 247948,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

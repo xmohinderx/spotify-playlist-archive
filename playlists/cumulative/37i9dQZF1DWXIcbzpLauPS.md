@@ -4,7 +4,7 @@
 
 > This is the new Core at its finest\. Cover: Chelsea Grin
 
-596 songs - 1 day 13 hr 39 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+597 songs - 1 day 13 hr 42 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2021-12-17 | 2022-01-22 |
 | [Bury My Flame](https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Bury My Flame](https://open.spotify.com/album/2xbuGSzEAtxnR8mv2lci00) | 3:40 | 2022-02-11 | 2022-05-06 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2022-07-08 |
-| [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 |  |
+| [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 | 2022-11-22 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-07-23 |
 | [Careless Offering](https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Heavy Pendulum](https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t) | 4:55 | 2022-05-20 | 2022-08-20 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
@@ -323,6 +323,7 @@
 | [Little Light](https://open.spotify.com/track/5cemE29LCUtsLtg0a18kK2) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [In the Balance](https://open.spotify.com/album/6uHaWH6DIPK4weWssYgoHv) | 3:03 | 2021-12-17 | 2022-01-22 |
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-05-06 |
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2022-07-13 | 2022-07-15 |
+| [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 | 2022-11-18 |  |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-17 | 2022-11-20 |
 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 | 2022-05-27 |  |
 | [Lost](https://open.spotify.com/track/4mWx5WcTcwWqynzuB18mSJ) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Lost](https://open.spotify.com/album/4ikmxObwNxiJxUnaDM4INx) | 3:06 | 2021-12-17 | 2022-02-11 |

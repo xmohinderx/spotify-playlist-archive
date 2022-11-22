@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
 
-### [Goal ! 골!](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
+### [Reds, Korea! \(축구 응원가\)](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 674 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 703 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 68 | [Premier League Anthem](https://open.spotify.com/track/2G369PWLsQasfuNwLeDrZw) | [Premier League](https://open.spotify.com/artist/7jdi4Wj9TKBABuJTKsxQKn) | [Premier League Anthem](https://open.spotify.com/album/6gb8ZFqOodTjLpxvBtlpIe) | 3:12 |
 | 69 | [This Is Premier League](https://open.spotify.com/track/49ujze11sPOADic4ssGnrO) | [Premier League Music](https://open.spotify.com/artist/7BO1yFil6IhV5i73zeU9gO) | [This Is Premier League](https://open.spotify.com/album/2YTQepsyrqmSypnw5VKMJr) | 3:24 |
 
-Snapshot ID: `MTY2ODk1NDIwNSwwMDAwMDAwMDg0MTIwMjdjZjg3MTY1ZWUxNmM5NjhmNmM2MmFhOTMx`
+Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMDRkYTNlNWY0ZWFiNTUwMmI0NDgzMTM1MjhlMTFhOTc3`

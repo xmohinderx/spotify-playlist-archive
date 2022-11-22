@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9ET7mtaGmRc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ET7mtaGmRc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ET7mtaGmRc)
 
-### [Goal ! 골!](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
+### [Reds, Korea! \(축구 응원가\)](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 

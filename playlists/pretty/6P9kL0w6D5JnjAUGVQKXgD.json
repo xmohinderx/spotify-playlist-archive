@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Kriss Reeve, Biscits",
-  "num_followers": 48407,
+  "num_followers": 48406,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTU1NSxlNGJiZGE2MDA3MmQxYzVlNzkxNWRjNjY3YmJhZTYxYWMzZWY2OTE5",
+  "snapshot_id": "MTU1NixjYzVjMDhhN2M0ZmMzYjYxYzFjN2EyNDQ4Y2U1ZDNkOWM5NGY0ZDI3",
   "tracks": [
     {
       "added_at": "2022-09-23 15:41:02",
@@ -1145,6 +1145,26 @@
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
+      "added_at": "2022-10-12 15:44:02",
+      "album": {
+        "name": "Nothing's Perfect",
+        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Nothing's Perfect",
+      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
+    },
+    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "Sideways",
@@ -1167,26 +1187,6 @@
       "duration_ms": 251830,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F"
-    },
-    {
-      "added_at": "2022-10-12 15:44:02",
-      "album": {
-        "name": "Nothing's Perfect",
-        "url": "https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Nothing's Perfect",
-      "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
     },
     {
       "added_at": "2021-08-06 15:42:05",
@@ -1427,30 +1427,6 @@
     {
       "added_at": "2022-10-25 15:41:02",
       "album": {
-        "name": "Hearts on Fire",
-        "url": "https://open.spotify.com/album/0eItNaBNC91NxyysINXARv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 236317,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
-    },
-    {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
         "name": "First Time (feat. iann dior) [Goodboys Remix]",
         "url": "https://open.spotify.com/album/7lDyZGWrXZ2sRKKiPrwdfM"
       },
@@ -1471,6 +1447,30 @@
       "duration_ms": 168681,
       "name": "First Time (feat. iann dior) - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FIQXdn2HUa7F7AsqGWRit"
+    },
+    {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "Hearts on Fire",
+        "url": "https://open.spotify.com/album/0eItNaBNC91NxyysINXARv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 236317,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/02oT3HvcsXD64VwOBtH8yM"
     },
     {
       "added_at": "2021-08-27 15:43:05",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
-    },
-    {
       "added_at": "2022-08-10 15:41:02",
       "album": {
         "name": "Goosebumps (Remix)",
@@ -1559,6 +1543,22 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 168375,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
     },
     {
       "added_at": "2022-10-12 15:44:02",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-11-15 15:45:04",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 167845,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ"
-    },
-    {
-      "added_at": "2022-11-15 15:45:04",
-      "album": {
         "name": "Feeling Right (Everything Is Nice) [feat. Popcaan & Wale]",
         "url": "https://open.spotify.com/album/4Hq1UiCCPrJWOG4q3CK8az"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
+    },
+    {
+      "added_at": "2022-11-15 15:45:04",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5Lm6ONdbKjUFkM4h4Stgu7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 167845,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ"
     },
     {
       "added_at": "2022-11-17 15:41:02",

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 346439,
+  "num_followers": 346721,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODg5OTUzMiwwMDAwMDAwMDc0N2I3NTdhNDdjYzlhZjdjMTMyNjI1N2Q5YjczMTlm",
+  "snapshot_id": "MTY2ODg5OTUzMiwwMDAwMDAwMDg2YWVhYTliMjNhYTQxOTgwMWI3YzEwMzg4YzA3Mjlm",
   "tracks": [
     {
       "added_at": "2022-11-19 23:12:12",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+        "name": "Running In The Dark (Image Song for Arknights mobile game)",
+        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
         }
       ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+      "duration_ms": 220533,
+      "name": "Running In The Dark - Image Song for Arknights mobile game",
+      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
     },
     {
       "added_at": "2022-11-19 23:12:12",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": "Running In The Dark (Image Song for Arknights mobile game)",
-        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
       "artists": [
         {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Running In The Dark - Image Song for Arknights mobile game",
-      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2022-11-19 23:12:12",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
-    },
-    {
-      "added_at": "2022-11-19 23:12:12",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
+    },
+    {
+      "added_at": "2022-11-19 23:12:12",
+      "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
     },
     {
       "added_at": "2022-11-19 23:12:12",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
+        "name": "D'Addario",
+        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "duration_ms": 288241,
+      "name": "D'Addario",
+      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
+    },
+    {
+      "added_at": "2022-11-19 23:12:12",
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 197135,
       "name": "Lights (feat. Blu)",
       "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
-    },
-    {
-      "added_at": "2022-11-19 23:12:12",
-      "album": {
-        "name": "D'Addario",
-        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
-      },
-      "artists": [
-        {
-          "name": "ZOOKARADERU",
-          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
-        }
-      ],
-      "duration_ms": 288241,
-      "name": "D'Addario",
-      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
     },
     {
       "added_at": "2022-11-19 23:12:12",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": "Amber (DJ Mitsu the Beats Remix)",
-        "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        },
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Amber - DJ Mitsu the Beats Remix",
-      "url": "https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B"
-    },
-    {
-      "added_at": "2022-11-19 23:12:12",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa"
       },
@@ -1207,18 +1187,38 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": ".jp",
-        "url": "https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ"
+        "name": "Amber (DJ Mitsu the Beats Remix)",
+        "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
       "artists": [
         {
-          "name": "bonobos",
-          "url": "https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        },
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 372800,
-      "name": "\u6c38\u4e45\u5f57\u661f\u77ed\u6b4c\u6c34",
-      "url": "https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ"
+      "duration_ms": 206933,
+      "name": "Amber - DJ Mitsu the Beats Remix",
+      "url": "https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B"
+    },
+    {
+      "added_at": "2022-11-19 23:12:12",
+      "album": {
+        "name": "TOMOSHIBI",
+        "url": "https://open.spotify.com/album/1joJdTZveBD244bGKj994d"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "duration_ms": 170729,
+      "name": "HATE",
+      "url": "https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI"
     },
     {
       "added_at": "2022-11-19 23:12:12",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-11-19 23:12:12",
       "album": {
-        "name": "TOMOSHIBI",
-        "url": "https://open.spotify.com/album/1joJdTZveBD244bGKj994d"
+        "name": "WARUNORI",
+        "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
       },
       "artists": [
         {
-          "name": "Swagcky",
-          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 170729,
-      "name": "HATE",
-      "url": "https://open.spotify.com/track/2vGzFBY2hxsSQq6i0DwKsI"
+      "duration_ms": 259956,
+      "name": "WARUNORI",
+      "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
     }
   ],
   "unique_name": "Tokyo Rising",

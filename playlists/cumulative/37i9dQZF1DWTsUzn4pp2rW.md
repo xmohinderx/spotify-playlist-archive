@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-229 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+230 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Breakdown](https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:18 | 2021-11-19 |  |
 | [By the Time I Get to Phoenix](https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz) | [Varitda Bhirombhakdi](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB), [Koh Mr\. Saxman](https://open.spotify.com/artist/2TueWSGZCFcRxPMTDUrE2s) | [Mood](https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ) | 4:38 | 2021-11-19 |  |
 | [Can't Fight Love](https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW) | [Marifé](https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X) | [Can't Fight Love](https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV) | 4:16 | 2021-11-19 | 2022-10-27 |
-| [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 | 2021-11-19 |  |
+| [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 | 2021-11-19 | 2022-11-22 |
 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 | 2021-11-19 | 2022-05-18 |
 | [Changing Lanes](https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes](https://open.spotify.com/album/79kk1P3ZjLoVtsWveGxF5C) | 3:19 | 2021-11-19 | 2022-07-29 |
 | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm) | 3:19 | 2022-07-14 | 2022-10-08 |
@@ -210,6 +210,7 @@
 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 | 2021-11-19 | 2022-11-20 |
 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 | 2021-11-19 | 2022-10-08 |
 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 | 2021-11-19 |  |
+| [The Birds and the Bees](https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J) | 3:50 | 2022-11-16 |  |
 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 | 2021-11-19 | 2022-10-12 |
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-11-19 | 2022-01-19 |
 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 | 2021-11-19 | 2022-10-27 |

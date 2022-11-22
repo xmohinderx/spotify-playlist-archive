@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31550,
+  "num_followers": 31542,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjQ0MSw1N2EzODdhNzg1MzM5ZDA2NTM2Y2ZmYTRkOWZlNDZiOTNiNGQ0Yjg3",
+  "snapshot_id": "MjQ0NCw4YTZiYjI4ZDRlZWY5OGMxODA5YjAzYjcwNzViZmY1ZTk5YzExNTdh",
   "tracks": [
     {
       "added_at": "2022-11-18 05:24:18",
@@ -387,6 +387,34 @@
       "duration_ms": 181685,
       "name": "Taste",
       "url": "https://open.spotify.com/track/2oAu6FcBxUemCoj9jiGIky"
+    },
+    {
+      "added_at": "2022-11-21 04:20:51",
+      "album": {
+        "name": "In The Dark (feat. Polarwulf)",
+        "url": "https://open.spotify.com/album/2vWqRy4gy9Xnk4WJQtm711"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
+        },
+        {
+          "name": "Polarwulf",
+          "url": "https://open.spotify.com/artist/3deQmijeodGxK0rTtn69fe"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "In The Dark (feat. Polarwulf)",
+      "url": "https://open.spotify.com/track/3lDgYcZ9LjM8w0ibLkaKIr"
     },
     {
       "added_at": "2022-11-18 05:24:18",
@@ -1127,26 +1155,6 @@
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
-      "added_at": "2022-11-18 05:24:18",
-      "album": {
-        "name": "How Do I Breathe",
-        "url": "https://open.spotify.com/album/1AipPgkR29yMlqxbqx6sdt"
-      },
-      "artists": [
-        {
-          "name": "Chumpion",
-          "url": "https://open.spotify.com/artist/5GW0wfiA8Hly7xkiEJZ0BQ"
-        },
-        {
-          "name": "Jesse James",
-          "url": "https://open.spotify.com/artist/2sS8bFwfkrcDY97gXMAUa0"
-        }
-      ],
-      "duration_ms": 167070,
-      "name": "How Do I Breathe",
-      "url": "https://open.spotify.com/track/4md2Xy17q21v4RUQQ91W7V"
     }
   ],
   "unique_name": "Morning Workout",

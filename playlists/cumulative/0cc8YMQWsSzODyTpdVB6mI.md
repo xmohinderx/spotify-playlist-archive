@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-100 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+101 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
 | [Inside Times](https://open.spotify.com/track/5yiXsIhgEhouvwNsNc6XIE) | [Josh Dives](https://open.spotify.com/artist/0D5RZwiNLoTfvvV1JoySmS) | [Inside Times](https://open.spotify.com/album/5KMl2yl1vBZmheg5NtLqKN) | 3:46 | 2022-11-04 |  |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 | 2022-10-15 |
-| [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |
+| [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 | 2022-11-22 |
+| [It's About Time](https://open.spotify.com/track/0plbSDugi1FZzzX0A5CmSB) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [It's About Time](https://open.spotify.com/album/4cOi1XyWHJ28c7GbqQF9wQ) | 4:03 | 2022-11-21 |  |
 | [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |
 | [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 |  |
 | [Lava In The Sky \- Club Edit](https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu) | 4:13 | 2022-11-18 |  |

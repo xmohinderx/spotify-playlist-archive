@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > O Poder Dessa Garota e os funks mais 🔑 do Brasil\. Foto: MC Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,021,397 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,025,021 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

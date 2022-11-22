@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-193 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+196 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Child's Christmas in Wales](https://open.spotify.com/track/4KCmvWOJCXFCXyY4TvH7DE) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/4EHx0sAHOQT805dBoiiSpf) | 3:53 | 2021-11-09 | 2022-07-29 |
 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 | 2021-11-09 |  |
 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 | 2021-11-09 |  |
+| [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2022-11-21 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/41acBwmsazBajcgBiJZtJP) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 2:14 | 2021-11-09 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3hpq8jEIKgTRQHSTjpsNZY) | [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Auld Lang Syne](https://open.spotify.com/album/1ks0JpE2S3GixJUdKsUJ67) | 2:19 | 2021-11-09 |  |
 | [Auld Lang Syne \(Acoustic Version\)](https://open.spotify.com/track/5jBQiN221tbZckBghFBNAD) | [Loving Caliber](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) | [Auld Lang Syne \(Acoustic Version\)](https://open.spotify.com/album/6QG2pi4v7LeDkYkeZ330Lf) | 3:18 | 2021-11-09 |  |
@@ -104,6 +105,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/29fdyIvVGmhRqj0rMOfaJi) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/0Enxtkz1M9zc020K4qVrc3) | 3:10 | 2021-11-09 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/2iMRkpZz0nxGAGHIsUE351) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/7wCQaCitH2PFAxx61t3kQ9) | 3:10 | 2021-11-09 | 2022-07-29 |
 | [Little Drummer Boy](https://open.spotify.com/track/54Adnogc6smoL36D371Hpa) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:10 | 2021-11-09 | 2022-11-13 |
+| [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-11-21 |  |
 | [Merry Christmas Darling](https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kate Bernhardt](https://open.spotify.com/artist/4tD1DjtxZogb0F6uRn2ty4), [Coco Reilly](https://open.spotify.com/artist/4B0rRuYqf9TbbnJSnGpW0Q) | [Merry Christmas Darling](https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4) | 3:11 | 2021-11-09 |  |
 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 | 2021-11-09 |  |
 | [Mvmt I, "Rejoice! Rejoice!"](https://open.spotify.com/track/7tTkdF0gJssYoID20Uw70i) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4) | 6:37 | 2021-11-09 | 2022-07-29 |
@@ -117,7 +119,7 @@
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0NxlSa51JTQCT50BXxOQ2b) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0CN516j2AZgfUEV1gpD0tI) | 3:10 | 2021-11-09 | 2022-07-29 |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0ZeOfglrCPCjY4tsslY5eT) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [brokenhearted at christmas](https://open.spotify.com/album/1elM9otVitZPwvQtFems11) | 3:10 | 2021-11-09 | 2022-11-13 |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/7lbYAsV9grcE2bxyiW96ex) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3KZxHnEJ7Z3iv9YkpfRdiT) | 3:10 | 2021-11-09 |  |
-| [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 | 2021-11-09 |  |
+| [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 | 2021-11-09 | 2022-11-22 |
 | [O Holy Night](https://open.spotify.com/track/0hRLfeRqwNUAyFdmH8K4Hj) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 4:25 | 2021-11-09 |  |
 | [O Holy Night](https://open.spotify.com/track/6IuGY9dLmKc8riJmP0RLt2) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Wonder](https://open.spotify.com/album/4PQTPY07Isdve9WYAGUfjx) | 4:25 | 2021-11-09 | 2022-07-29 |
 | [O Holy Night](https://open.spotify.com/track/4t00TeUJmmFg9tZoJ0twpx) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 5:15 | 2021-11-09 |  |
@@ -153,6 +155,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR) | [SHEL](https://open.spotify.com/artist/4OCTXxXeu6etfZqxfqFihq) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 3:06 | 2021-11-09 |  |
 | [Snow](https://open.spotify.com/track/2Dx7CbP88KSx88nmvXHARg) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/7JBhb8SSKqeTMWsSytyfJA) | 3:38 | 2021-11-09 | 2022-07-29 |
 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 | 2021-11-09 |  |
+| [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-21 |  |
 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 | 2021-11-09 |  |
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-11-09 | 2022-07-29 |
 | [The Christmas Song](https://open.spotify.com/track/24MfeH4tGo8SxmNH311YzO) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [The Christmas Song](https://open.spotify.com/album/0qz6VbQmFw0WLZwD3k9QdT) | 2:02 | 2021-11-09 |  |

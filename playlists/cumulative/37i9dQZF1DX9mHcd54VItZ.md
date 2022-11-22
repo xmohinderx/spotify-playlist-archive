@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock\. Cover: <a href="https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO?si=ShwKhUgxTQ2nMhtDaz8WZw">Frans Karoo</a>
 
-152 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+153 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 | 2022-04-08 |  |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
 | [Selfish Lover](https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:14 | 2022-02-25 | 2022-03-19 |
+| [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr) | [ARD Matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo), [Just Jinjer](https://open.spotify.com/artist/4ywF40MvBzMeS8jijufoao), [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC), [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/album/1dqY6TUiXJMyMOsQ657mw4) | 4:38 | 2022-11-21 |  |
 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 | 2021-05-05 | 2022-11-18 |
 | [She's My Prison](https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy) | [L.A\. Cobra](https://open.spotify.com/artist/0zNNwyg2hDNqsmvxCyvHDs) | [She's My Prison](https://open.spotify.com/album/1nRv2ODqAVDimTiTHWGUvf) | 3:33 | 2022-03-31 | 2022-08-05 |
 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 | 2021-11-11 | 2022-11-18 |
@@ -120,7 +121,7 @@
 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 | 2021-09-02 | 2022-11-18 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-11-17 |  |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
-| [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 |  |
+| [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 | 2022-11-22 |
 | [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 | 2022-08-04 |  |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |

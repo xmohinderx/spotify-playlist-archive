@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:1GDbiv3spRmZ1XdM1jQbT7\u201d>Natti Natasha</a>. ",
-  "num_followers": 21670,
+  "num_followers": 21702,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMGYxZjhmODdlYTRiY2RkMjkzYTg0YmUwN2E5OWNjNjUy",
+  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMGY4OTFiZTBiYTI5NDg4ZTlhZGM5MDRjMjYxNWY3ZDMx",
   "tracks": [
     {
       "added_at": "2022-11-02 15:49:58",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
+        "name": "Love Abuser (Save Me)",
+        "url": "https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
         "name": "ACTIVA",
         "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 261527,
       "name": "ACTIVA",
       "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
-        "name": "Love Abuser (Save Me)",
-        "url": "https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa"
     },
     {
       "added_at": "2022-11-02 15:49:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "Say It (To My Face)",
+        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2022-11-02 15:49:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "Smoking Weed Alone",
-        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Smoking Weed Alone",
-      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 160695,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "Smoking Weed Alone",
+        "url": "https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Smoking Weed Alone",
+      "url": "https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK"
     },
     {
       "added_at": "2022-11-02 15:49:58",

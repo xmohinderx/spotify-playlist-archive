@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Pharrell, Pinkpantheress, Roddy Ricch, Don Toliver, Fana Hues, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,900 likes - 98 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,989 likes - 98 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

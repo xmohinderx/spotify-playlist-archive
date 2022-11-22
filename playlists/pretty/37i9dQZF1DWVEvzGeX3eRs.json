@@ -1,12 +1,12 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1470846,
+  "num_followers": 1471162,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDk1YTY4N2IxZjJkYmFmNmVmNmQ0YjcyYTI1ZTk2ZDA5",
+  "snapshot_id": "MTYxNDkwMjU5NywwMDAwMDAwMDgzOTZkNjVmNjg5ZGUzOGY1NGZhZGVlOGUxM2UzMjI0",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
@@ -615,6 +615,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Whip Appeal",
+      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "Levert.Sweat.Gill",
         "url": "https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 291706,
       "name": "All the Times (feat. Faith Evans, Coko & Missy Elliott)",
       "url": "https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Whip Appeal",
-      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -775,18 +775,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Radio Waves Of The '90s: Urban Hits",
-        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
       },
       "artists": [
         {
-          "name": "Lokey",
-          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 257399,
-      "name": "I Got A Thang 4 Ya!",
-      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+      "duration_ms": 375706,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0"
     }
   ],
   "unique_name": "'90s Baby Makers",

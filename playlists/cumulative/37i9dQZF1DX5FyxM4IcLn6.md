@@ -2,7 +2,7 @@
 
 ### [The GRAMMYs Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5FyxM4IcLn6)
 
-> The official playlist for the 64rd GRAMMY Awards.
+> The official playlist for the 64th GRAMMY Awards.
 
 380 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/4M8EQTBLyNauX4M36rMoZJ)
 

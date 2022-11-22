@@ -1,13 +1,29 @@
 {
   "description": "the perfect fight scene. ft. Lucy from Cyberpunk: Edgerunners",
-  "num_followers": 202518,
+  "num_followers": 203687,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNzcwOCwwMDAwMDAwMDJjZDk1NDhkZDNhM2E3MDZlODQ5ZDJiYWUzYWY2YWRk",
+  "snapshot_id": "MTY2OTA2NjQ1OCwwMDAwMDAwMDQ3NGNkYjI1OWJjYWMzMzQ2ZjFjZGJmYTIwNjI2MWMy",
   "tracks": [
+    {
+      "added_at": "2022-11-21 21:34:18",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "added_at": "2022-11-21 16:24:34",
+      "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -45,7 +77,23 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-11-21 01:36:32",
+      "added_at": "2022-11-21 16:30:34",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
+      "added_at": "2022-11-17 20:41:48",
       "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
@@ -75,22 +123,6 @@
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -139,38 +171,6 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 135122,
-      "name": "ILoveUIHateU",
-      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Heat Signature",
-        "url": "https://open.spotify.com/album/2RovCyMajVvGr1rhHOp1cz"
-      },
-      "artists": [
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 120003,
-      "name": "Heat Signature",
-      "url": "https://open.spotify.com/track/1GssCptrx184Jcnki9ynvb"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -263,6 +263,38 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
         "name": "By the Sword",
         "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
       },
@@ -279,18 +311,18 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+        "name": "Aces",
+        "url": "https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "dkj",
+          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
         }
       ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+      "duration_ms": 122250,
+      "name": "Aces",
+      "url": "https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -327,22 +359,6 @@
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Aces",
-        "url": "https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex"
-      },
-      "artists": [
-        {
-          "name": "dkj",
-          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Aces",
-      "url": "https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -555,6 +571,22 @@
       "duration_ms": 129196,
       "name": "Killin' On Demand",
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2022-11-21 21:34:18",
+      "album": {
+        "name": "af1",
+        "url": "https://open.spotify.com/album/50p7eSBfscW5XKSWbEQbD4"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "duration_ms": 141007,
+      "name": "af1",
+      "url": "https://open.spotify.com/track/14piiV64kkkkPPKKcb8I9d"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -927,22 +959,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 149145,
       "name": "Hatchback",
       "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2022-11-10 18:57:08",
       "album": {
-        "name": "Bars No Jutsu",
-        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
-      },
-      "artists": [
-        {
-          "name": "Louis Capone",
-          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
-        }
-      ],
-      "duration_ms": 148642,
-      "name": "Bars No Jutsu",
-      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
         "name": "Naruto Bluebird Freestyle",
         "url": "https://open.spotify.com/album/7keMCtMuSyvoRCnHnofyFz"
       },
@@ -1135,6 +1151,22 @@
       "duration_ms": 102893,
       "name": "Naruto Bluebird Freestyle",
       "url": "https://open.spotify.com/track/0lVp0ajGZ2huxjV0LjnLI4"
+    },
+    {
+      "added_at": "2022-11-10 18:57:08",
+      "album": {
+        "name": "Bars No Jutsu",
+        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
+      },
+      "artists": [
+        {
+          "name": "Louis Capone",
+          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "Bars No Jutsu",
+      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
     },
     {
       "added_at": "2022-11-10 18:57:08",
@@ -1223,46 +1255,6 @@
       "duration_ms": 188706,
       "name": "99.9",
       "url": "https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "Nikes",
-        "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
-      },
-      "artists": [
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        },
-        {
-          "name": "kid toni",
-          "url": "https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy"
-        }
-      ],
-      "duration_ms": 139910,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
-    },
-    {
-      "added_at": "2022-11-10 18:57:08",
-      "album": {
-        "name": "OLIVIA",
-        "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
-      },
-      "artists": [
-        {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "Yung Kage",
-          "url": "https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT"
-        }
-      ],
-      "duration_ms": 143587,
-      "name": "OLIVIA",
-      "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
     },
     {
       "added_at": "2022-11-10 18:57:08",

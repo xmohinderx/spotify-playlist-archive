@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > The Vitamin String Quartet share their favorite chilled classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,447 likes - 69 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,854 likes - 69 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
-| 2 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 |
-| 3 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 |
-| 4 | [Motion Picture Soundtrack](https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:42 |
-| 5 | [Young and Beautiful](https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Lana Del Rey](https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT) | 3:36 |
-| 6 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 |
+| 1 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 |
+| 2 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
+| 3 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 |
+| 4 | [Save Me](https://open.spotify.com/track/4xeZFxASZR1MdL6DVrp54b) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BTS](https://open.spotify.com/album/2mWJADpEak5CNXxMevndVI) | 3:20 |
+| 5 | [Motion Picture Soundtrack](https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:42 |
+| 6 | [Young and Beautiful](https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Lana Del Rey](https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT) | 3:36 |
 | 7 | [Hoppípolla](https://open.spotify.com/track/2CuDFSFwIy2pwpXNHPLwZ3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Sigur Rós](https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o) | 4:11 |
 | 8 | [SAD!](https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 2:51 |
 | 9 | [God's Plan](https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:23 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 68 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 |
 | 69 | [Wise Up](https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 3:25 |
 
-Snapshot ID: `MTY2ODc0NDAwMCwwMDAwMDAwMDYzNGIyNGQ0NzRlNjczOTMyMjYyMzg1NTc1NGZhZmE4`
+Snapshot ID: `MTY2OTAyMjY3NSwwMDAwMDAwMDU1YmUwN2NiOGY4YTRhOWZhN2NmZmFjMzMwMWM2Zjdl`

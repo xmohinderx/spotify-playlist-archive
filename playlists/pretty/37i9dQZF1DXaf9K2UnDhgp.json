@@ -1,12 +1,12 @@
 {
   "description": "Riffing around the Christmas tree. Cover: My Chemical Romance",
-  "num_followers": 132554,
+  "num_followers": 133152,
   "original_name": "Rock Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4MzQwMCwwMDAwMDAwMDJiZDUzYWZlZGY2MTk1M2YwZTg4NGM1Mzk5MWZiNTQ3",
+  "snapshot_id": "MTY2OTA3NDc4MywwMDAwMDAwMGQzNGE2Y2QxMzAxZjhiNTIwYjk4MjM2ZjFkNGEyNjA0",
   "tracks": [
     {
       "added_at": "2022-11-09 00:34:36",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
+      "added_at": "2022-11-21 23:53:03",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/5F2LTPWjIl2YWeDlZSbNb3"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 232067,
+      "name": "Little Drummer Boy - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7tTPXjxNFjij4xzGeO3KLt"
+    },
+    {
       "added_at": "2022-11-09 00:34:36",
       "album": {
         "name": "Don't Waste Your Wishes",
@@ -199,22 +215,18 @@
     {
       "added_at": "2022-11-09 00:34:36",
       "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+        "name": "Jingle Bell Rock -Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
       },
       "artists": [
         {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+      "duration_ms": 142893,
+      "name": "Jingle Bell Rock -Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -231,6 +243,22 @@
       "duration_ms": 221013,
       "name": "Yule Shoot Your Eye Out - Bonus Track",
       "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"
+    },
+    {
+      "added_at": "2022-11-21 23:53:03",
+      "album": {
+        "name": "Santa Baby (Recorded at Strongroom Studios London)",
+        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 163741,
+      "name": "Santa Baby - Recorded at Strongroom Studios London",
+      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -251,34 +279,18 @@
     {
       "added_at": "2022-11-09 00:34:36",
       "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
         }
       ],
-      "duration_ms": 119800,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/2PN5zVxcfK9z8ZdGfCPblr"
-    },
-    {
-      "added_at": "2022-11-09 00:34:36",
-      "album": {
-        "name": "Christmas Songs Vol. 1",
-        "url": "https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -303,6 +315,22 @@
     {
       "added_at": "2022-11-09 00:34:36",
       "album": {
+        "name": "X-M@$",
+        "url": "https://open.spotify.com/album/2z2D8A4HGkR5HQtSvb2lV8"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "X-M@$",
+      "url": "https://open.spotify.com/track/1a8UIPEA1syyBSNhWwRfrY"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/21Txm9MFkx4lEuO4h7CAFY"
       },
@@ -317,20 +345,56 @@
       "url": "https://open.spotify.com/track/4pK7lH8K4GrsRIWcJ9DTFk"
     },
     {
-      "added_at": "2022-11-11 16:16:40",
+      "added_at": "2022-11-21 23:53:03",
       "album": {
-        "name": "Cry Christmas",
-        "url": "https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp"
+        "name": "Groovy Xmas",
+        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 197116,
-      "name": "Cry Christmas",
-      "url": "https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez"
+      "duration_ms": 133028,
+      "name": "Groovy Xmas",
+      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 119800,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/2PN5zVxcfK9z8ZdGfCPblr"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
       "added_at": "2022-11-11 16:16:40",
@@ -365,20 +429,36 @@
       "url": "https://open.spotify.com/track/4O4eusrM8djmOn91VqOqeV"
     },
     {
-      "added_at": "2022-11-09 00:34:36",
+      "added_at": "2022-11-11 16:16:40",
       "album": {
-        "name": "X-M@$",
-        "url": "https://open.spotify.com/album/2z2D8A4HGkR5HQtSvb2lV8"
+        "name": "Cry Christmas",
+        "url": "https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp"
       },
       "artists": [
         {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 153293,
-      "name": "X-M@$",
-      "url": "https://open.spotify.com/track/1a8UIPEA1syyBSNhWwRfrY"
+      "duration_ms": 197116,
+      "name": "Cry Christmas",
+      "url": "https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
+        "name": "Christmas Songs Vol. 1",
+        "url": "https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -395,22 +475,6 @@
       "duration_ms": 212405,
       "name": "Christmas Saves The Year",
       "url": "https://open.spotify.com/track/6ZTFZm4IEFnMSDfO6mVgMY"
-    },
-    {
-      "added_at": "2022-11-09 00:34:36",
-      "album": {
-        "name": "Jingle Bell Rock -Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 142893,
-      "name": "Jingle Bell Rock -Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -569,6 +633,22 @@
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
     },
     {
+      "added_at": "2022-11-21 23:53:03",
+      "album": {
+        "name": "Last Christmas (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/60HYitDBZuRnyquGeoaDtj"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Last Christmas - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7vaojIyvb52pVcNAWf2sG5"
+    },
+    {
       "added_at": "2022-11-09 00:34:36",
       "album": {
         "name": "The Beach Boys' Christmas Album",
@@ -633,20 +713,52 @@
       "url": "https://open.spotify.com/track/0cGgN5pGXfECL8OLZEeIf2"
     },
     {
-      "added_at": "2022-11-09 00:34:36",
+      "added_at": "2022-11-21 23:53:03",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/7EM6VUKspXVgEu8uref4au"
       },
       "artists": [
         {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Christmas Treat",
-      "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+      "duration_ms": 160085,
+      "name": "Christmas Will Really Be Christmas",
+      "url": "https://open.spotify.com/track/1XnK3vy0uLNYAW60O5Xn88"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz"
+    },
+    {
+      "added_at": "2022-11-09 00:34:36",
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Merry Christmas, Kiss My Ass",
+      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -679,38 +791,6 @@
       "duration_ms": 208680,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0WR3Y6l751tKYI1fRsn8ac"
-    },
-    {
-      "added_at": "2022-11-09 00:34:36",
-      "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Merry Christmas, Kiss My Ass",
-      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
-    },
-    {
-      "added_at": "2022-11-09 00:34:36",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree",
-        "url": "https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv"
-      },
-      "artists": [
-        {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz"
     },
     {
       "added_at": "2022-11-09 00:34:36",
@@ -1075,22 +1155,6 @@
       "duration_ms": 177345,
       "name": "Holiday Rock",
       "url": "https://open.spotify.com/track/1QG0ibNEFUb0sIFDsIYrMk"
-    },
-    {
-      "added_at": "2022-11-09 00:34:36",
-      "album": {
-        "name": "A GC Christmas, Pt. 1",
-        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 258594,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/1oMDICe4Bbv7NnYXXTBg5j"
     },
     {
       "added_at": "2022-11-09 00:34:36",

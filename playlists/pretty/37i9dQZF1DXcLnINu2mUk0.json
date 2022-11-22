@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 21021,
+  "num_followers": 21081,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDM0NGJhM2MxODAyNmVjN2EyNzc4NGFiZThjMzU1ZDJh",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDgzYjI2NjRhNTExYmFmN2MwM2JmMWQ4MWNiZTZhNDY3",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong - Single Version",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Scroll",
         "url": "https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 157177,
       "name": "Scroll",
       "url": "https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -511,22 +479,34 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 243180,
+      "name": "Do You No Wrong - Single Version",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -543,6 +523,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -611,6 +611,22 @@
       "duration_ms": 256144,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
         }
       ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+      "duration_ms": 144982,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 196021,
       "name": "Lembra-te",
       "url": "https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq"
-      },
-      "artists": [
-        {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        }
-      ],
-      "duration_ms": 144982,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
-      },
-      "artists": [
-        {
-          "name": "Bere",
-          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
-        }
-      ],
-      "duration_ms": 161163,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Alaska (feat. Lil Noon)",
         "url": "https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 136294,
       "name": "Alaska (feat. Lil Noon)",
       "url": "https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        }
+      ],
+      "duration_ms": 161163,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
     },
     {
       "added_at": "2022-11-18 00:00:00",

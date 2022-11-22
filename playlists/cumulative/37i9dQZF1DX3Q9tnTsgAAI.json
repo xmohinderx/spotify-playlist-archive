@@ -2174,6 +2174,28 @@
     },
     {
       "album": {
+        "name": "Tasty x Tasty",
+        "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Tasty x Tasty",
+      "url": "https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv"
+    },
+    {
+      "album": {
         "name": "JUNG YONG HWA 1ST MINI ALBUM DO DISTURB",
         "url": "https://open.spotify.com/album/4D53QLzhxZOs3TVLm86esQ"
       },

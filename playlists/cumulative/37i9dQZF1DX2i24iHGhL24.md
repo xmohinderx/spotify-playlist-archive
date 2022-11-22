@@ -4,12 +4,13 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-345 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+346 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1C27aWAYNOiGtKuLLXucha) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 | 2022-07-08 |  |
+| [A Million Dreams](https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY) | [Ravi Adelekan & Friends](https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Olugbenga](https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB) | [A Million Dreams](https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS) | 4:49 | 2022-11-22 |  |
 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 | 2021-12-17 |  |
 | [abcdefu](https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO) | [The Butterfly Effect](https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY) | [abcdefu](https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv) | 3:09 | 2022-04-01 |  |
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-12-17 | 2022-05-02 |

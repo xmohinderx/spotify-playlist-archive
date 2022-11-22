@@ -1,15 +1,31 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 10766,
+  "num_followers": 10774,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MTU5NTUsMDAwMDAwMDBhODQ5N2VkYzMzYThmMDM1ZjI2NDM3YzU2N2EwNjExYQ==",
+  "snapshot_id": "Mjc4MTczMzAsMDAwMDAwMDA4YTk0Yzc3NTMxMmUwODYxZmQ4YTQxNzU1N2Y3OGFjZQ==",
   "tracks": [
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Gospel Train",
+        "url": "https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 122946,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Presenting Sister Rosetta Tharpe",
         "url": "https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/0Oz3Xcyk76Ok86R7kgJrXG"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Singing In My Soul",
         "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
@@ -65,23 +81,27 @@
       "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
       },
       "artists": [
         {
           "name": "Sister Rosetta Tharpe",
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        },
+        {
+          "name": "Lucky Millinder & His Orchestra",
+          "url": "https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR"
         }
       ],
-      "duration_ms": 167367,
-      "name": "Strange Things Happening Every Day",
-      "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
+      "duration_ms": 160093,
+      "name": "Rock Me",
+      "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -105,7 +125,23 @@
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 167367,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
@@ -121,30 +157,10 @@
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
-      },
-      "artists": [
-        {
-          "name": "Lucky Millinder & His Orchestra",
-          "url": "https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR"
-        },
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 160520,
-      "name": "Shout, Sister, Shout!",
-      "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "We're Listening to Sister Rosetta Tharpe, Vol. 2",
-        "url": "https://open.spotify.com/album/3AahaKw3G98axWbYmf8Rmb"
+        "name": "The Decca Singles, Vol. 4",
+        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
       },
       "artists": [
         {
@@ -152,12 +168,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 196653,
-      "name": "The Natural Facts",
-      "url": "https://open.spotify.com/track/6xDQ3GKPIfNDZ8QoZdQ2SX"
+      "duration_ms": 184683,
+      "name": "There'll Be Peace In The Valley For Me",
+      "url": "https://open.spotify.com/track/4jC4Jt97udeQMFlMtTBWwx"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/3bmT6zIM0SmV3hv4kGgmqN"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
         "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
@@ -193,10 +209,10 @@
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "The Decca Singles, Vol. 4",
-        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
       "artists": [
         {
@@ -204,12 +220,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 184683,
-      "name": "There'll Be Peace In The Valley For Me",
-      "url": "https://open.spotify.com/track/4jC4Jt97udeQMFlMtTBWwx"
+      "duration_ms": 119744,
+      "name": "99 1/2 Won't Do",
+      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Decca Singles, Vol. 3",
         "url": "https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/0LSWwfEcpIbHiQLZrcJ1HW"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -245,23 +261,7 @@
       "url": "https://open.spotify.com/track/1JzOFnaBuWxnbtETqaotzh"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 119744,
-      "name": "99 1/2 Won't Do",
-      "url": "https://open.spotify.com/track/7AJRlFDvX1PhxFIDJRMMFS"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Authorized Sister Rosetta Tharpe Collection",
         "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Decca Singles, Vol. 4",
         "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
@@ -329,23 +329,7 @@
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "My Journey To The Sky",
-        "url": "https://open.spotify.com/album/6SLaXW0yovRCvDA5Sraj4X"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 175976,
-      "name": "I Want A Tall Skinny Papa",
-      "url": "https://open.spotify.com/track/3bgc4FWPIHWAcFA5lSsJWr"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Gospel Truth: All New! Her Greatest Gospel Hits",
         "url": "https://open.spotify.com/album/3qwLiCPnFuFL7KY6wLEoWa"
@@ -361,10 +345,10 @@
       "url": "https://open.spotify.com/track/2KBFYYiNCW7cKogYmWopbw"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+        "name": "My Journey To The Sky",
+        "url": "https://open.spotify.com/album/6SLaXW0yovRCvDA5Sraj4X"
       },
       "artists": [
         {
@@ -372,28 +356,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 204959,
-      "name": "Beams Of Heaven",
-      "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
+      "duration_ms": 175976,
+      "name": "I Want A Tall Skinny Papa",
+      "url": "https://open.spotify.com/track/3bgc4FWPIHWAcFA5lSsJWr"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 196127,
-      "name": "Were You There When They Crucified My Lord?",
-      "url": "https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Decca Singles, Vol. 4",
         "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
@@ -409,7 +377,39 @@
       "url": "https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 196127,
+      "name": "Were You There When They Crucified My Lord?",
+      "url": "https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "Pure Religion",
+      "url": "https://open.spotify.com/track/5QYpxuGQBvYhnqRNbbXS1t"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
@@ -425,23 +425,7 @@
       "url": "https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "The Original Soul Sister",
-        "url": "https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 214273,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "American Epic: The Soundtrack",
         "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
@@ -457,23 +441,7 @@
       "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "Trouble in Mind",
-        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "I Want to Live So God Can Use Me",
-      "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Decca Singles, Vol. 3",
         "url": "https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T"
@@ -489,10 +457,10 @@
       "url": "https://open.spotify.com/track/4T1b4VKS2sJPDz0rgmVotp"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
       },
       "artists": [
         {
@@ -500,12 +468,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 212181,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
+      "duration_ms": 155360,
+      "name": "I Want to Live So God Can Use Me",
+      "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
@@ -521,10 +489,10 @@
       "url": "https://open.spotify.com/track/4hqlFwFTpMtyPWRW5ue378"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Trouble in Mind",
-        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
       "artists": [
         {
@@ -532,12 +500,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 185973,
-      "name": "Sleep on Darling Mother",
-      "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
+      "duration_ms": 212181,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Decca Singles, Vol. 1",
         "url": "https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD"
@@ -553,7 +521,63 @@
       "url": "https://open.spotify.com/track/2VxtCOakItrvUBCLmSg29r"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Sleep on Darling Mother",
+      "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Last Mile Of The Way",
+      "url": "https://open.spotify.com/track/41JBvVRFAh46z8bj4L4UWv"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Blessed Assurance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        },
+        {
+          "name": "The Rosettes",
+          "url": "https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD"
+        },
+        {
+          "name": "Sam Price Trio",
+          "url": "https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "Somebody Needs Jesus",
+      "url": "https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
@@ -573,10 +597,10 @@
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG"
       },
       "artists": [
         {
@@ -584,12 +608,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Last Mile Of The Way",
-      "url": "https://open.spotify.com/track/41JBvVRFAh46z8bj4L4UWv"
+      "duration_ms": 165373,
+      "name": "All Over This World",
+      "url": "https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
@@ -605,23 +629,7 @@
       "url": "https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Strange Things Are Happening",
-      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
@@ -637,10 +645,10 @@
       "url": "https://open.spotify.com/track/3TqsHhRYY9uLcnPHccHhlH"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
       },
       "artists": [
         {
@@ -648,12 +656,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Precious Lord Take My Hand",
-      "url": "https://open.spotify.com/track/0h64MC2GRtFMXbvjkjxEke"
+      "duration_ms": 201533,
+      "name": "Strange Things Are Happening",
+      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "The Gospel Of The Blues",
         "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
@@ -669,7 +677,23 @@
       "url": "https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Precious Lord Take My Hand",
+      "url": "https://open.spotify.com/track/0h64MC2GRtFMXbvjkjxEke"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Rosetta Tharpe Is Wonderful",
         "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
         "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
@@ -701,7 +725,7 @@
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Sister Rosetta Tharpe",
         "url": "https://open.spotify.com/album/3y9w0vx1P3uMXolaoulLxy"
@@ -717,7 +741,7 @@
       "url": "https://open.spotify.com/track/61EpKrGU81sawyLmR5wcPS"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
@@ -733,23 +757,7 @@
       "url": "https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "The Gospel Truth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 117760,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/4PwLdioxIXipvEaYqIy5kD"
@@ -765,10 +773,10 @@
       "url": "https://open.spotify.com/track/2B5WhsYvmpk2ioGZA5I1L6"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+        "name": "The Gospel Truth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl"
       },
       "artists": [
         {
@@ -776,12 +784,12 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 147701,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
+      "duration_ms": 117760,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Bring Back Those Happy Days",
         "url": "https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11"
@@ -797,23 +805,7 @@
       "url": "https://open.spotify.com/track/4qAYd3Z76F8mo5F2T3LoVq"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
-      "album": {
-        "name": "The Authorized Sister Rosetta Tharpe Collection",
-        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Go Ahead",
-      "url": "https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01"
-    },
-    {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
         "name": "Vacation in the Sky",
         "url": "https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO"
@@ -829,10 +821,10 @@
       "url": "https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y"
     },
     {
-      "added_at": "2022-11-20 15:15:17",
+      "added_at": "2022-11-21 14:10:42",
       "album": {
-        "name": "Presenting Sister Rosetta Tharpe",
-        "url": "https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm"
+        "name": "Live in 1960",
+        "url": "https://open.spotify.com/album/3HySlTcJp61IznncKRWK50"
       },
       "artists": [
         {
@@ -840,9 +832,25 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 158560,
-      "name": "Nobody Knows, Nobody Cares",
-      "url": "https://open.spotify.com/track/5h82CLQd1C0ExhBuuZZM7r"
+      "duration_ms": 110270,
+      "name": "Can't Sit Down - Live",
+      "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
+    },
+    {
+      "added_at": "2022-11-21 14:10:42",
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Peace In The Valley",
+      "url": "https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5"
     }
   ],
   "unique_name": "This Is Sister Rosetta Tharpe",

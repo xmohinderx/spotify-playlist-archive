@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 315009,
+  "num_followers": 315258,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDFmZjg5YTVhYjk2MzdmZGNlNDEzNDI2ZmE1Njc1NTNl",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDg0Yzk0YzY0ZDVhZTFhMzdkN2QzMjRjMmU0YTVmNDNm",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Ventriloquism",
+        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 277985,
+      "name": "Don't Disturb This Groove",
+      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "BEcoming",
         "url": "https://open.spotify.com/album/49eOVYOGoUjNjgyplB6JJF"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 185356,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Ventriloquism",
-        "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 277985,
-      "name": "Don't Disturb This Groove",
-      "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
     },
     {
       "added_at": "2021-01-15 05:01:00",

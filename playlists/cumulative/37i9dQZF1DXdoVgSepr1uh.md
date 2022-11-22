@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Trueno.
 
-142 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
+143 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/6tDUGVVPmoQw2RkVQfmtJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-07-28 | 2022-08-27 |
 | [Hagámoslo de Nuevo](https://open.spotify.com/track/5nqd99eG78DHIFLTKlEW8C) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Hagámoslo de Nuevo](https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681) | 2:05 | 2022-06-17 |  |
 | [HIPÓCRITA](https://open.spotify.com/track/3MzIbS7vJQDqECgY5NbEk9) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/4YPvY8FTDgGAbkqkn6jU70) | 2:11 | 2022-05-24 | 2022-07-29 |
+| [HIPÓCRITA](https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [ESTADO CRITICAL](https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe) | 2:11 | 2022-11-18 |  |
 | [HIPÓCRITA](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 | 2022-07-28 |  |
 | [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-05-24 | 2022-06-11 |
 | [Inseguridades](https://open.spotify.com/track/7LbbirHUrbo8NzKwiT7yOW) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Inseguridades](https://open.spotify.com/album/2ssQJdINLCv9ecZqOuIHk8) | 3:26 | 2022-05-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 269670,
+  "num_followers": 269761,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMGJlZjJmMjA0Y2NlMmExYWE5OWI3NWNlNTQzODVmNTcw",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDU0NmU4NWQyODJlZGE0YzNjM2EyZTg4NGVjNmZlODg1",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -159,38 +159,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 292200,
-      "name": "Run Outs",
-      "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX"
       },
@@ -211,18 +179,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+      "duration_ms": 292200,
+      "name": "Run Outs",
+      "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -239,6 +207,22 @@
       "duration_ms": 280400,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -275,6 +259,22 @@
       "duration_ms": 490509,
       "name": "What If Nile Rodgers And Fela Kuti Were Friends",
       "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -407,74 +407,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Yellow (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "The Rings Of Saturn",
-      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Just The Same",
         "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
       },
@@ -503,6 +435,42 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 286184,
       "name": "Dat It",
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Yellow (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "The Rings Of Saturn",
+      "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "yield",
-        "url": "https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p"
-      },
-      "artists": [
-        {
-          "name": "cktrl",
-          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
-        }
-      ],
-      "duration_ms": 143244,
-      "name": "lucidly (ft. Ophie)",
-      "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -607,38 +607,6 @@
       "duration_ms": 426240,
       "name": "The Spoon",
       "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Wave Decay",
-        "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "Wave Decay",
-      "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Cristo Redentor",
-        "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 320253,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -663,18 +631,50 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Leader",
-        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
+        "name": "yield",
+        "url": "https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p"
       },
       "artists": [
         {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+          "name": "cktrl",
+          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
         }
       ],
-      "duration_ms": 215413,
-      "name": "Leader",
-      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
+      "duration_ms": 143244,
+      "name": "lucidly (ft. Ophie)",
+      "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Cristo Redentor",
+        "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 320253,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -695,6 +695,38 @@
       "duration_ms": 292306,
       "name": "(Why You So) Green With Envy",
       "url": "https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Wave Decay",
+        "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "Wave Decay",
+      "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "The Morning Side of Love",
+        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "The Morning Side of Love",
+      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -735,54 +767,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "The Morning Side of Love",
-        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "The Morning Side of Love",
-      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
-      },
-      "artists": [
-        {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Beggin' Man",
         "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 224322,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+      },
+      "artists": [
+        {
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Motherland Journey",
         "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 259247,
       "name": "Motherland Journey",
       "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Through The Noise (Chant No. 2)",
         "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 288933,
       "name": "Through The Noise (Chant No. 2)",
       "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Badeep",
-        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 363554,
-      "name": "Badeep",
-      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Ina Crueler",
         "url": "https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc"
       },
@@ -1075,38 +1059,6 @@
       "duration_ms": 214062,
       "name": "Ina Crueler",
       "url": "https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "TECHNICOLOUR",
-        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 209071,
-      "name": "TECHNICOLOUR",
-      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1127,38 +1079,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Kyoto Rain",
-        "url": "https://open.spotify.com/album/1J90rzB7mwUMMZHphgoS4z"
+        "name": "Badeep",
+        "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
       "artists": [
         {
-          "name": "The Laszlo Project",
-          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 333712,
-      "name": "Kyoto Rain",
-      "url": "https://open.spotify.com/track/7z87TW9gdPZPjUNhWUoyCT"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "No Confusion (feat. Kojey Radical)",
-      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+      "duration_ms": 363554,
+      "name": "Badeep",
+      "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1183,18 +1115,70 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "love + war",
-        "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
       },
       "artists": [
         {
-          "name": "cktrl",
-          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 205032,
-      "name": "love + war (ft. Ophie)",
-      "url": "https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk"
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Kyoto Rain",
+        "url": "https://open.spotify.com/album/1J90rzB7mwUMMZHphgoS4z"
+      },
+      "artists": [
+        {
+          "name": "The Laszlo Project",
+          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
+        }
+      ],
+      "duration_ms": 333712,
+      "name": "Kyoto Rain",
+      "url": "https://open.spotify.com/track/7z87TW9gdPZPjUNhWUoyCT"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "TECHNICOLOUR",
+        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 209071,
+      "name": "TECHNICOLOUR",
+      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "love + war",
+        "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
+      },
+      "artists": [
+        {
+          "name": "cktrl",
+          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
+        }
+      ],
+      "duration_ms": 205032,
+      "name": "love + war (ft. Ophie)",
+      "url": "https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Two For Mistake",
-        "url": "https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 372548,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 355493,
       "name": "Ego Killah",
       "url": "https://open.spotify.com/track/2PK9U7mNneWb55trrTP3S5"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Two For Mistake",
+        "url": "https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 372548,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
     },
     {
       "added_at": "2022-11-18 00:00:00",

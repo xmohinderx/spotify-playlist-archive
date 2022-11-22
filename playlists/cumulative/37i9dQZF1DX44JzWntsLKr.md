@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-125 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+126 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [No Reason](https://open.spotify.com/track/6zSXg2Ejji6GcwvjGTgK60) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:24 | 2021-12-09 |  |
 | [Nobody Else](https://open.spotify.com/track/68qPGupXKOqzykZVJrWEpe) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2021-12-09 |  |
 | [Now or Never](https://open.spotify.com/track/5trVbkxq7o5UtqHWVTu5ro) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:11 | 2021-12-09 |  |
+| [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-21 |  |
 | [Oi](https://open.spotify.com/track/0zwI1aFLA85Ux0wM9vZjjY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:11 | 2021-12-09 |  |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-09 |  |
 | [Party Time](https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:10 | 2021-12-09 |  |

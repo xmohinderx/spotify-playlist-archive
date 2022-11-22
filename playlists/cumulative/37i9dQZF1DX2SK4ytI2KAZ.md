@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-410 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+411 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-05-27 | 2022-07-30 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-05-27 |  |
 | [Faith](https://open.spotify.com/track/0c5rPwlRxcBmVLNARI2kGQ) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/2Zp4jloZJFW8K9Lls75luH) | 3:06 | 2021-03-10 | 2022-07-29 |
-| [Faith](https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn) | 3:06 | 2022-10-07 |  |
+| [Faith](https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn) | 3:06 | 2022-10-07 | 2022-11-22 |
 | [Falling Down \- Edit](https://open.spotify.com/track/6jRNplNtd8xT0sc4iUJyW5) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Falling Down \(Edit\)](https://open.spotify.com/album/2biOtCehtzEDKjyZH8AbMv) | 3:11 | 2022-03-11 | 2022-04-20 |
 | [Famous Son](https://open.spotify.com/track/7o4BF5REJbrZwgYaOdYO2b) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Famous Son](https://open.spotify.com/album/5rfM6bb7ZmgTXFpv7DOcI8) | 3:00 | 2021-05-04 | 2022-07-29 |
 | [Fangs](https://open.spotify.com/track/618DIJLSOg5ffmXaFFRsnv) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Fangs](https://open.spotify.com/album/41yYEgLaRvDor6cNwWBsfB) | 3:35 | 2022-03-11 | 2022-04-21 |
@@ -130,7 +130,7 @@
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 | 2021-03-10 |  |
 | [Golden Boy](https://open.spotify.com/track/6PQkriCkh2BjZGeK7qTC0q) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Golden Boy](https://open.spotify.com/album/1McymEd7UgLNxAuLe0vAwh) | 2:48 | 2022-03-11 | 2022-06-29 |
-| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 | 2022-11-21 |
+| [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-08-12 |  |
 | [Gone](https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS) | 3:47 | 2022-03-11 |  |
 | [Gone \(with Jensen McRae\)](https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Gone](https://open.spotify.com/album/2BCjIiPpmiElGDN52fLmzI) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Good](https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1) | [How To Talk To Strangers](https://open.spotify.com/album/2OQRvCNt3r4fO1MSBNbPQW) | 2:49 | 2021-03-10 | 2022-07-30 |
@@ -217,8 +217,9 @@
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 |  |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 |  |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
+| [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 | 2022-10-07 |  |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 | 2022-08-18 |
-| [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 |  |
+| [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 | 2022-11-22 |
 | [Loser](https://open.spotify.com/track/1dRaYeS22TQZ3jRLFfe7vM) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Subject to Flooding](https://open.spotify.com/album/3C96WnL2IhxgpmOIuokjm4) | 2:55 | 2021-03-10 | 2022-04-21 |
 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 | 2022-06-27 |  |
 | [Love Is Mystical](https://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Love Is Mystical](https://open.spotify.com/album/5gmi6GYczChNiZSBdwtjBo) | 3:34 | 2022-03-11 | 2022-04-14 |

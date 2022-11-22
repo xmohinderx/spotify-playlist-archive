@@ -1,33 +1,13 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Triple Riding",
-  "num_followers": 42665,
+  "num_followers": 42776,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4NjM3MywwMDAwMDAwMGRkYmE4YmVkNDBiYjVkZjU0YWY0MTE0NGFmNGY0ZTQy",
+  "snapshot_id": "MTY2OTAzMDUzOSwwMDAwMDAwMDMwYTM5Y2Q3Y2EyNTc3ZTM2YzU0ZjdjYzZkMGEyODE1",
   "tracks": [
-    {
-      "added_at": "2022-11-07 06:39:00",
-      "album": {
-        "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
-        "url": "https://open.spotify.com/album/5CTNYY0avYZ9QGsjkuA0EA"
-      },
-      "artists": [
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
-      "url": "https://open.spotify.com/track/36abs6RCtMszC7MjJWZDQz"
-    },
     {
       "added_at": "2022-11-09 10:49:51",
       "album": {
@@ -93,6 +73,26 @@
       "url": "https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2"
     },
     {
+      "added_at": "2022-11-07 06:39:00",
+      "album": {
+        "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
+        "url": "https://open.spotify.com/album/5CTNYY0avYZ9QGsjkuA0EA"
+      },
+      "artists": [
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 84138,
+      "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
+      "url": "https://open.spotify.com/track/36abs6RCtMszC7MjJWZDQz"
+    },
+    {
       "added_at": "2022-10-27 11:48:36",
       "album": {
         "name": "Head Bush",
@@ -107,6 +107,22 @@
       "duration_ms": 216923,
       "name": "Habibi Habibi",
       "url": "https://open.spotify.com/track/5JOg1vfzLwNsattTDq9QbO"
+    },
+    {
+      "added_at": "2022-11-21 11:35:39",
+      "album": {
+        "name": "Raymo",
+        "url": "https://open.spotify.com/album/6oSbXane1jXMmsQWONC2Bh"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 174162,
+      "name": "Raymo Faymo",
+      "url": "https://open.spotify.com/track/0p6qHeb2DDsOwE6cmW6wHH"
     },
     {
       "added_at": "2022-09-16 05:21:59",
@@ -165,6 +181,42 @@
       "url": "https://open.spotify.com/track/05dbmOdgMUJJUTwN57iJcd"
     },
     {
+      "added_at": "2022-11-21 11:35:39",
+      "album": {
+        "name": "Kamblihula",
+        "url": "https://open.spotify.com/album/5tzWqE63pcgttJO54xtnYo"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        }
+      ],
+      "duration_ms": 236378,
+      "name": "Helabeku Yellavannu",
+      "url": "https://open.spotify.com/track/2B74gqICeP9boID7SmQ4SC"
+    },
+    {
+      "added_at": "2022-11-14 11:31:00",
+      "album": {
+        "name": "Sasanasabha (Hindi)",
+        "url": "https://open.spotify.com/album/5PWRd9OYj2lcqatQjOGems"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        }
+      ],
+      "duration_ms": 199928,
+      "name": "Mere Darling",
+      "url": "https://open.spotify.com/track/1PlrhgOLo85I88EliwFIHX"
+    },
+    {
       "added_at": "2022-11-14 11:31:00",
       "album": {
         "name": "Barthale Barthale (From \"Ugravathara\")",
@@ -205,28 +257,24 @@
       "url": "https://open.spotify.com/track/4pilBzcDFw8G58jpQp3REK"
     },
     {
-      "added_at": "2022-11-14 11:31:00",
+      "added_at": "2022-11-21 11:35:39",
       "album": {
-        "name": "Nanna Kattikondre (From \"Sasanasabha - Kannada\")",
-        "url": "https://open.spotify.com/album/6BTjCvh8X4sa1NmDwF50Xc"
+        "name": "Nambabeda",
+        "url": "https://open.spotify.com/album/6QShIC7cJ8ptIFaJBcW8ya"
       },
       "artists": [
         {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+          "name": "Basavanth Rao",
+          "url": "https://open.spotify.com/artist/0aRObP4WhRc4ywXa2nqgjp"
         },
         {
-          "name": "Airaa Udupi",
-          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+          "name": "Chirayu",
+          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Nanna Kattikondre (From \"Sasanasabha - Kannada\")",
-      "url": "https://open.spotify.com/track/0CdGODZAR8qBukydjANb6j"
+      "duration_ms": 277359,
+      "name": "Love You Dear",
+      "url": "https://open.spotify.com/track/1lx8xUbgT0QDB5rmz8zYB4"
     },
     {
       "added_at": "2022-11-07 06:39:00",
@@ -243,6 +291,22 @@
       "duration_ms": 188393,
       "name": "Neene Yella Berenilla",
       "url": "https://open.spotify.com/track/6rfh8n36P9VIjMPCLAW2ZE"
+    },
+    {
+      "added_at": "2022-11-21 11:35:39",
+      "album": {
+        "name": "Sasanasabha (Kannada)",
+        "url": "https://open.spotify.com/album/5txWihdEHgrkobfDCSyijF"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "duration_ms": 209103,
+      "name": "Nee Nadedare Sabhe",
+      "url": "https://open.spotify.com/track/6i6lHvKTLMg2xSpwqygB7q"
     },
     {
       "added_at": "2022-11-11 07:07:49",
@@ -303,26 +367,6 @@
       "duration_ms": 197663,
       "name": "Neenu Yaaro Naanu Yaaro",
       "url": "https://open.spotify.com/track/736GpWVkTn1qd6zknBknYG"
-    },
-    {
-      "added_at": "2022-11-04 08:43:35",
-      "album": {
-        "name": "Hubli Dhaba",
-        "url": "https://open.spotify.com/album/2JOQ4m4PWCxdvBxGttLSRI"
-      },
-      "artists": [
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        },
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        }
-      ],
-      "duration_ms": 245548,
-      "name": "Thaggodilla",
-      "url": "https://open.spotify.com/track/7I9gsDStObgEjzQwn1vpts"
     },
     {
       "added_at": "2022-11-18 15:46:13",
@@ -679,26 +723,6 @@
       "duration_ms": 148309,
       "name": "Usire Nanagada (From \"Baby Missing\")",
       "url": "https://open.spotify.com/track/5pa0EMuhQ9hYzPaqn8zWCO"
-    },
-    {
-      "added_at": "2022-11-04 08:43:35",
-      "album": {
-        "name": "Super Figure Figure Da (From\" Geleya\")",
-        "url": "https://open.spotify.com/album/6fF8yXAy7xXkQt48bs4U5j"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        },
-        {
-          "name": "M.S.Thyagaraja",
-          "url": "https://open.spotify.com/artist/5rCZqUof0PAWaGGwFIoZY4"
-        }
-      ],
-      "duration_ms": 128307,
-      "name": "Super Figure Figure Da - From\" Geleya\"",
-      "url": "https://open.spotify.com/track/1P0W8Z4iHDlTVIN8gbgxef"
     },
     {
       "added_at": "2022-11-04 08:43:35",

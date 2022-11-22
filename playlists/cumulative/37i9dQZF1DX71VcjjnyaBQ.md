@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-157 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+158 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dave](https://open.spotify.com/track/0NHnOig4DwclyoFDqPjCkh) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Dave](https://open.spotify.com/album/36Oiew8ljfc2W0ZUvLogOC) | 3:43 | 2022-02-10 | 2022-07-29 |
 | [Dave](https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 3:43 | 2022-06-30 |  |
 | [Dear Don](https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4) | [Christophe Marguet](https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ) | [Happy Hours](https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r) | 6:37 | 2021-12-21 |  |
+| [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 | 2022-11-17 |  |
 | [Den Grønbenede Rørhøne](https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Den Grønbenede Rørhøne](https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV) | 5:54 | 2022-02-24 |  |
 | [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-21 |  |
 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 | 2022-01-07 |  |
@@ -138,7 +139,7 @@
 | [The Starter](https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2) | 6:15 | 2021-12-21 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
-| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2022-11-22 |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |

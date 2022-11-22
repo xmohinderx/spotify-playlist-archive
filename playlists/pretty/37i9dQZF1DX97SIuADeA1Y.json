@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 276459,
+  "num_followers": 276559,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMDEyMTc3YzI4NTYyZWU5ODBhNWMwMmExZDEyZjQ4NzNj",
+  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMGRlYzlkYTJiYzgyNGIwYjdiYjlhNjRjNzM3MGE4NDg2",
   "tracks": [
     {
       "added_at": "2022-11-11 09:37:05",
@@ -151,26 +151,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 153719,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 153719,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
     },
     {
       "added_at": "2022-11-11 09:37:05",

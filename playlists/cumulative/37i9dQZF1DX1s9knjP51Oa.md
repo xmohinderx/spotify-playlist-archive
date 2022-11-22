@@ -4,7 +4,7 @@
 
 > Slow down with some calming keys.
 
-559 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
+565 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2021-12-13 |  |
 | [calm](https://open.spotify.com/track/7oqrEgk6YezFAT793tw4Hf) | [montemar](https://open.spotify.com/artist/63SdkVMrIukQRL1rGR2oh0) | [calm](https://open.spotify.com/album/5GSIb0dmrclTqrYXd8tu4m) | 2:52 | 2021-12-13 | 2022-09-24 |
 | [Calvaire](https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Calvaire](https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB) | 2:16 | 2021-12-13 | 2022-11-12 |
+| [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2022-11-21 |  |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-24 |  |
 | [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-29 |  |
 | [Carvoeiro](https://open.spotify.com/track/6VJ0cJWV19lwXzeDb4f35D) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Carvoeiro](https://open.spotify.com/album/1MdhGVfEl3ITet1idA1eFN) | 2:31 | 2022-10-04 | 2022-11-12 |
@@ -237,6 +238,7 @@
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-03-02 |  |
 | [In The Mood For Dreaming](https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [In The Mood For Dreaming](https://open.spotify.com/album/29HPgBWHyeiRju7jogQNhT) | 3:03 | 2021-12-13 | 2022-07-22 |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2021-12-13 |  |
+| [In your arms](https://open.spotify.com/track/2cdLFYUbixZXuZOs5B0HvG) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Remembrance](https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce) | 2:49 | 2022-11-21 |  |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2021-12-13 | 2022-10-05 |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2021-12-13 | 2022-10-25 |
 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 | 2021-12-13 |  |
@@ -278,7 +280,8 @@
 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 | 2021-12-13 | 2022-07-22 |
 | [Les couleurs du ciel](https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx) | [Évariste Lacroix](https://open.spotify.com/artist/0d5qOOMJckpL05pEN7aKhz) | [Les couleurs du ciel](https://open.spotify.com/album/7mrY9VkXPs93zAM44QbWjB) | 2:41 | 2021-12-13 | 2022-11-12 |
 | [Les débuts](https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [Les débuts](https://open.spotify.com/album/3nK1eHhGeRlFfD2PDMYiQY) | 2:13 | 2021-12-13 | 2022-09-13 |
-| [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-13 |  |
+| [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 | 2022-11-21 |  |
+| [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-13 | 2022-11-22 |
 | [Libellule](https://open.spotify.com/track/1ypwYxSqProWa2PHp8try8) | [De Gruy](https://open.spotify.com/artist/1yfYcQByfFNOqdcv2u9J9q) | [Libellule](https://open.spotify.com/album/4g0YAEbTo4dqyxkPxqRiVV) | 2:20 | 2021-12-13 | 2022-07-22 |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-01-04 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2021-12-13 | 2022-09-13 |
@@ -421,6 +424,7 @@
 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 |  |
 | [Sensibilities](https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:06 | 2021-12-13 | 2022-07-22 |
 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 | 2021-12-13 | 2022-05-27 |
+| [September Sun](https://open.spotify.com/track/3aJ8BLnUcoLpBavcg8AM3O) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [September Sun](https://open.spotify.com/album/5fmbZAskrtQhtpoTiBWNMQ) | 2:23 | 2022-11-21 |  |
 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 | 2021-12-13 | 2022-11-12 |
 | [Serenade](https://open.spotify.com/track/4eOuwMCVbEnUx6O7rjsoKw) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Serenade](https://open.spotify.com/album/2Y8wMNppPqzJcntikfChbK) | 2:41 | 2022-10-04 |  |
 | [Serenity](https://open.spotify.com/track/2I9qjveKy0l2SqyDb1F9jj) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Mansellastica](https://open.spotify.com/album/57UbkSTXlX14SUDc7yakvx) | 3:49 | 2021-12-13 | 2022-05-27 |
@@ -463,7 +467,7 @@
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2021-12-13 |  |
 | [Sui](https://open.spotify.com/track/3CNyikzIjzTLdcMSriulrg) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sui](https://open.spotify.com/album/1pxpKat9HD0bN45GWhgKSZ) | 2:34 | 2021-12-13 | 2022-07-22 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2021-12-13 | 2022-10-25 |
-| [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-17 |  |
+| [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-17 | 2022-11-22 |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2021-12-13 | 2022-02-16 |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-03-02 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2021-12-13 | 2022-05-27 |
@@ -511,6 +515,7 @@
 | [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2021-12-13 | 2022-07-22 |
 | [Two Steps Forward](https://open.spotify.com/track/63YGmJOvR3ARYmWmR5e0hz) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Two Steps Forward](https://open.spotify.com/album/0uEBYJqMCvg6NXkwOYIYHz) | 2:26 | 2021-12-13 |  |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-02-15 |  |
+| [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2022-11-21 |  |
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2021-12-13 | 2022-09-24 |
 | [Unchanged](https://open.spotify.com/track/0q4JUAatgC3sES0zcFc38T) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [Unchanged](https://open.spotify.com/album/22ZNd4npOSNgt3bahUyRe0) | 2:26 | 2022-11-11 |  |
 | [Underverse](https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [In Faith](https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl) | 3:12 | 2022-07-21 |  |
@@ -520,6 +525,7 @@
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-03-17 |  |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2021-12-13 | 2022-10-25 |
 | [Until We Meet Again](https://open.spotify.com/track/2QYem8rVrhWvKTXC3rYypY) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Until We Meet Again](https://open.spotify.com/album/0u2MEx3IaZYcNltnLoV6Wu) | 2:44 | 2022-09-23 |  |
+| [Up North](https://open.spotify.com/track/3V683fg4xkvLX58ReRRISt) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Catching The Light](https://open.spotify.com/album/6dTVYbMJ85y2x9f3Qm01JD) | 2:23 | 2022-11-21 |  |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-21 |  |
 | [Vardo](https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Vardo](https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035) | 2:28 | 2022-10-13 |  |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-13 | 2022-05-27 |

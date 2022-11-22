@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 24689,
+  "num_followers": 24767,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMGJmMGM2ZjQwYWU5NDQxNDc5OTJkNGUyYWYxNjZjMjFk",
+  "snapshot_id": "MTY2ODcxMTQxOCwwMDAwMDAwMGMwZThhMTUwOTExYWQ5ZDc0OGZkMDkzMzQ2Mzc0MDU1",
   "tracks": [
     {
       "added_at": "2022-11-17 18:56:58",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "Blues, Candy & Big Maybelle",
-        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "That's A Pretty Good Love",
-      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -199,18 +183,18 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -243,6 +227,22 @@
       "duration_ms": 190026,
       "name": "Devil's Gonna Git You",
       "url": "https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
         "name": "Trixie Smith Vol. 2 1925-1929",
         "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 296333,
       "name": "Born Under A Bad Sign",
       "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -519,38 +519,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -567,6 +535,22 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 187146,
       "name": "Billie's Blues",
       "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
     },
     {
       "added_at": "2022-11-17 18:56:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-17 18:56:58",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
-    },
-    {
-      "added_at": "2022-11-17 18:56:58",
-      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 172987,
       "name": "Dead Drunk Blues",
       "url": "https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg"
+    },
+    {
+      "added_at": "2022-11-17 18:56:58",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2022-11-17 18:56:58",

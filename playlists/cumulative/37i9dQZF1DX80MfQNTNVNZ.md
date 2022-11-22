@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-312 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+313 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 | 2022-03-24 | 2022-07-26 |
 | [It Run's Through Me](https://open.spotify.com/track/51Q2IPSmoFuDAkMmaYwjjF) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/2g49Kw03cpc5HQygEw450P) | 4:21 | 2022-04-14 | 2022-04-20 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-07-28 | 2022-11-17 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-11-17 |  |
 | [It's a Moot Point](https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7xoKAS8YKaD85hP4FjOKyL) | 4:02 | 2021-12-23 | 2022-07-29 |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-13 | 2022-07-20 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-24 | 2022-04-20 |
@@ -130,7 +131,7 @@
 | [Kumbaya](https://open.spotify.com/track/2LiAbVThDjRxRWz8SQaWuw) | [Nick Dorian](https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Kumbaya](https://open.spotify.com/album/57LuWIUr292QLP9xJhBzgp) | 3:21 | 2021-12-23 | 2022-07-29 |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2022-03-31 | 2022-04-18 |
 | [Laputa \(Taylor McFerrin Remix feat\. Anderson .Paak\)](https://open.spotify.com/track/5UFtKaL5KBumqv4tpgdm0p) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6) | [Recalibrations, Vol\. 1](https://open.spotify.com/album/7EWi5y6EgXcW1TuW81Y3Yi) | 4:04 | 2022-03-24 | 2022-04-14 |
-| [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2021-12-23 |  |
+| [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2021-12-23 | 2022-11-22 |
 | [Lavender & Red Roses](https://open.spotify.com/track/0lPZumEzxNLBOklVCEyiA4) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lavender & Red Roses](https://open.spotify.com/album/3UIVM6d0j9G2hSi7uBp6d4) | 2:54 | 2022-03-31 | 2022-04-19 |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-03-31 | 2022-04-20 |
 | [Lemon Squeeze](https://open.spotify.com/track/14LgwZInulRb4IDix4jiBE) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [YEO CIG](https://open.spotify.com/artist/3OwLFw3VPQXWMa7WmLvQIE) | [Lemon Squeeze](https://open.spotify.com/album/5GEcEjaGF0fGXUmd8psXuh) | 3:02 | 2022-02-10 | 2022-04-21 |

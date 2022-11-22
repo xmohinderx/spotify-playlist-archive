@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11044,
+  "num_followers": 11045,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDlhMWRkN2RlMWUwZmZjOGZkNGViZTFjNGEzNTk4MWY4",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGRkYjRjNDlmZmQ4NDU2ZmU1NTMzNmY3NDA5MTk4YTJj",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
+        "name": "Little Earthquakes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 341813,
+      "name": "Winter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
         "name": "Strange Weirdos: Music From And Inspired By The Film Knocked Up",
         "url": "https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 235400,
       "name": "The Foundation",
       "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Little Earthquakes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 341813,
-      "name": "Winter - 2015 Remaster",
-      "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
     },
     {
       "added_at": "2022-06-09 16:13:45",

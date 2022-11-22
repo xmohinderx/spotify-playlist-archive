@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-198 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+199 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Day Dreaming](https://open.spotify.com/track/2uLo22etHF1lbCBngK0Bim) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:09 | 2022-07-25 |  |
 | [Day Dreaming](https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Day Dreaming](https://open.spotify.com/album/4cZS7wksFqyCGblehHhhep) | 3:09 | 2021-08-05 | 2022-07-26 |
 | [Days Go Slow](https://open.spotify.com/track/04DM0trBKr2vMpvwYR8guH) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Days Go Slow](https://open.spotify.com/album/1G7fV4sP0wYhTW0F3skmaR) | 3:14 | 2021-08-05 | 2022-07-29 |
-| [DEEP END](https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [TAKE WHAT YOU NEED](https://open.spotify.com/album/1WVAm4lq7ob7loCVzobUjK) | 3:38 | 2022-08-17 |  |
+| [DEEP END](https://open.spotify.com/track/4oXgYIpKj7qMCJ2U0xvR6y) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [TAKE WHAT YOU NEED](https://open.spotify.com/album/1WVAm4lq7ob7loCVzobUjK) | 3:38 | 2022-08-17 | 2022-11-22 |
 | [DEEP END](https://open.spotify.com/track/79ZyInaWPKY9X2NGyM7KmS) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [DEEP END](https://open.spotify.com/album/2twYkPl1yaCtPSvinnca8L) | 3:38 | 2021-08-05 | 2022-07-29 |
 | [Doctor](https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Doctor](https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [Downtown](https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 4:27 | 2021-08-05 | 2022-04-21 |
@@ -122,6 +122,7 @@
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-16 |  |
 | [Mood Swing](https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5) | [Nick Vyner](https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7) | [Mood Swing](https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7) | 3:05 | 2021-08-05 |  |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn) | 4:45 | 2022-03-04 | 2022-11-20 |
+| [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2022-10-06 |  |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2021-08-05 | 2022-07-29 |
 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 | 2022-10-14 | 2022-11-13 |
 | [n2o](https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [n2o](https://open.spotify.com/album/0hNrShA8luMoMv9JQ0HZyy) | 2:59 | 2022-03-31 |  |

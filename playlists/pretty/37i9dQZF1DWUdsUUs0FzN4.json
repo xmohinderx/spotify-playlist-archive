@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidxs al mundo del bellaqueo, con Bellakath.",
-  "num_followers": 4599,
+  "num_followers": 4629,
   "original_name": "Reggaet\u00f3n Chakal\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDkyNCwwMDAwMDAwMDQ1ZjkxYTViNmQxYzEwMzM1NWJjY2M3MGQ3ZDgxZDA4",
+  "snapshot_id": "MTY2ODU2MDkyNCwwMDAwMDAwMDIzMTI4NTlkYjRlZjIyNjdkYzAxMmU4NzJmOWMzMmMw",
   "tracks": [
     {
       "added_at": "2022-09-27 22:49:43",
@@ -167,26 +167,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "La Gata de la Agricola Oriental",
-        "url": "https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Kery",
-          "url": "https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "La Gata de la Agricola Oriental",
-      "url": "https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
         "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
@@ -203,6 +183,30 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
+        "name": "Toketeo",
+        "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Toketeo",
+      "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
         "name": "Reggaeton Latino Y M\u00e1s",
         "url": "https://open.spotify.com/album/5CYsAeq9qjHS4HXS90K3kV"
       },
@@ -215,6 +219,26 @@
       "duration_ms": 110788,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "La Gata de la Agricola Oriental",
+        "url": "https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Kery",
+          "url": "https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "La Gata de la Agricola Oriental",
+      "url": "https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -295,30 +319,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Toketeo",
-        "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Toketeo",
-      "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Bien Beb\u00e9",
         "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
       },
@@ -335,6 +335,42 @@
       "duration_ms": 163469,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa"
+      },
+      "artists": [
+        {
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        }
+      ],
+      "duration_ms": 227608,
+      "name": "Tu Pones la Hora y Yo Le Caigo",
+      "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -363,42 +399,6 @@
       "duration_ms": 222275,
       "name": "Lluvia De Micheladas",
       "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Tu Pones la Hora y Yo Le Caigo",
-        "url": "https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa"
-      },
-      "artists": [
-        {
-          "name": "DJ Cobra Monterrey",
-          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
-        }
-      ],
-      "duration_ms": 227608,
-      "name": "Tu Pones la Hora y Yo Le Caigo",
-      "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Cumbiatronik",
-        "url": "https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 192424,
-      "name": "Cumbiatronik",
-      "url": "https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 170400,
       "name": "Perra",
       "url": "https://open.spotify.com/track/1vEHlZqC9x8fVyVjPeIgVn"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Cumbiatronik",
+        "url": "https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 192424,
+      "name": "Cumbiatronik",
+      "url": "https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -815,34 +815,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "La Mano (feat. Tavo Rayo)",
-        "url": "https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Tavo Rayo",
-          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
-        }
-      ],
-      "duration_ms": 187580,
-      "name": "La Mano (feat. Tavo Rayo)",
-      "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Flow Soltera",
         "url": "https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "La Mano (feat. Tavo Rayo)",
+        "url": "https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        }
+      ],
+      "duration_ms": 187580,
+      "name": "La Mano (feat. Tavo Rayo)",
+      "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -955,30 +955,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Baja",
-        "url": "https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 203181,
-      "name": "Baja",
-      "url": "https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "A Mover Ese Booty (feat. n-Yel)",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 215201,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Baja",
+        "url": "https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "Baja",
+      "url": "https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4"
     }
   ],
   "unique_name": "Reggaet\u00f3n Chakal\u00f3n",

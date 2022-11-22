@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 72254,
+  "num_followers": 72326,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDcwZjZhMTQzMDM5NTFkMzA2OTZkM2UzZjQzMDhjMDMy",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE5M2FiZjE3YWNkN2I4NjdkZWUyZmFkMmUyNWE2MDI5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -331,34 +331,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Ari PenSmith",
-          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
-        },
-        {
-          "name": "Eight9FLY",
-          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Vex Oh (feat. Eight9FLY)",
-      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Pray For Haiti",
         "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
       },
@@ -391,6 +363,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -411,18 +399,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Ari PenSmith",
+          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
         }
       ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
+      "duration_ms": 162146,
+      "name": "Vex Oh (feat. Eight9FLY)",
+      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 133835,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/0RkPcmicZvMLJDLtEnyfVh"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/62ptOZbGCjY46nmzmCejEn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Dejanbem",
-      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "Dejanbem",
+      "url": "https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Mafia",
-        "url": "https://open.spotify.com/album/7lWSZKNdrWOFr2x8vjbEx0"
-      },
-      "artists": [
-        {
-          "name": "Kai",
-          "url": "https://open.spotify.com/artist/7B6Ajzkbv8vuRUJfOZE9GH"
-        },
-        {
-          "name": "Kenny Haiti",
-          "url": "https://open.spotify.com/artist/4uq6GFJfxdvAJpyTHUAHTf"
-        }
-      ],
-      "duration_ms": 305456,
-      "name": "Mafia",
-      "url": "https://open.spotify.com/track/0HcT7vpmX7KXbaCMEus16l"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Show Me Love (feat. Meer Colon)",
         "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/7lWSZKNdrWOFr2x8vjbEx0"
+      },
+      "artists": [
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/7B6Ajzkbv8vuRUJfOZE9GH"
+        },
+        {
+          "name": "Kenny Haiti",
+          "url": "https://open.spotify.com/artist/4uq6GFJfxdvAJpyTHUAHTf"
+        }
+      ],
+      "duration_ms": 305456,
+      "name": "Mafia",
+      "url": "https://open.spotify.com/track/0HcT7vpmX7KXbaCMEus16l"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1019,6 +1019,34 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Eskize Mwen",
+        "url": "https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE"
+      },
+      "artists": [
+        {
+          "name": "Josh X",
+          "url": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
+        },
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Dj Bullet",
+          "url": "https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg"
+        },
+        {
+          "name": "Raboday",
+          "url": "https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Eskize Mwen - Raboday Mix",
+      "url": "https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Tap (Remix)",
         "url": "https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU"
       },
@@ -1055,34 +1083,6 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Eskize Mwen",
-        "url": "https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE"
-      },
-      "artists": [
-        {
-          "name": "Josh X",
-          "url": "https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc"
-        },
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Dj Bullet",
-          "url": "https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg"
-        },
-        {
-          "name": "Raboday",
-          "url": "https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Eskize Mwen - Raboday Mix",
-      "url": "https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1183,6 +1183,42 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Baby Who",
+        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1219,42 +1255,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Baby Who",
-        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Baby Who",
-      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Tonm Tonm",
         "url": "https://open.spotify.com/album/2tvzTfdkKLEoJZcXqHwlKv"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 193846,
       "name": "Tonm Tonm",
       "url": "https://open.spotify.com/track/1WvbHRemlLGWYg4hm320U6"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1347,6 +1367,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Te revoir",
         "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
@@ -1415,26 +1455,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Designa",
         "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
       },
@@ -1487,46 +1507,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "House Life",
-        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "House Life",
-      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "House Life",
+        "url": "https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "House Life",
+      "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "REFLEXION",
         "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
@@ -1772,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Oublier",
-      "url": "https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM"
+      "duration_ms": 165720,
+      "name": "Hallyday",
+      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 159832,
       "name": "Ocho",
       "url": "https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1839,26 +1839,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Trip Tropikal",
-        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
       },
       "artists": [
         {
-          "name": "ManitoNation",
-          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
-        },
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
-        },
-        {
-          "name": "Kabysh",
-          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Na Va W\u00e8 Yo",
-      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+      "duration_ms": 166400,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/3KOhDk9R0Ze1hgEMCK0GLM"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1879,6 +1871,30 @@
       "duration_ms": 201040,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Trip Tropikal",
+        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
+      },
+      "artists": [
+        {
+          "name": "ManitoNation",
+          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
+        },
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
+        },
+        {
+          "name": "Kabysh",
+          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Na Va W\u00e8 Yo",
+      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1931,26 +1947,6 @@
       "duration_ms": 241104,
       "name": "Zeptima",
       "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
-      },
-      "artists": [
-        {
-          "name": "Chabin",
-          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 173025,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
     }
   ],
   "unique_name": "Haitian Heat",

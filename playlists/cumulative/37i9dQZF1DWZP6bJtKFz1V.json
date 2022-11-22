@@ -2734,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "girls just wanna have sex",
+        "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124029,
+      "name": "girls just wanna have sex",
+      "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+    },
+    {
+      "album": {
         "name": "Girls Make Me Wanna Die",
         "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
       },
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 224080,
       "name": "I Do You",
       "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
@@ -5704,6 +5722,24 @@
     },
     {
       "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145947,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
+    },
+    {
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -7919,7 +7955,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F"

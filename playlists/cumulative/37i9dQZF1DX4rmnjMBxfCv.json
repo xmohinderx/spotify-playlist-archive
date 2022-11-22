@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "XP",
+        "url": "https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd"
+      },
+      "artists": [
+        {
+          "name": "BluePaper",
+          "url": "https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399433,
+      "name": "XP",
+      "url": "https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg"
+    },
+    {
+      "album": {
         "name": "Ghouroub",
         "url": "https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V"
       },

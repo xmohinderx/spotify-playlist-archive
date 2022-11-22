@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-619 songs - 1 day 9 hr 37 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+621 songs - 1 day 9 hr 44 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2022-05-20 |
 | [Gal Sun Ke](https://open.spotify.com/track/5B1lbZYUPga3sZgD87um0W) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Lovey Akhtar](https://open.spotify.com/artist/5baJF3Zd6EDt4njVMaqhoD) | [Gal Sun Ke](https://open.spotify.com/album/31lU2rJSfpFZjKWPUhMxM8) | 3:14 | 2022-02-28 | 2022-03-11 |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2022-03-02 | 2022-04-06 |
+| [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 | 2022-11-21 |  |
 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 | 2022-11-06 |  |
 | [Gallan Baatan](https://open.spotify.com/track/1GS3cGSTsGOIkPh8WvgCm4) | [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq), [Jaya](https://open.spotify.com/artist/3Z3RmuFa0nCgwCQfjAmFUb) | [Gallan Baatan](https://open.spotify.com/album/0PxRLUKODqDGCLB9aJBDbX) | 2:50 | 2022-01-08 | 2022-02-01 |
 | [Gallan Changian](https://open.spotify.com/track/7CEOyYKB42jZVdOGOkQDBN) | [Ranbir Dhaliwal](https://open.spotify.com/artist/2ENJOCxUIor2B9hLqfzvk0) | [Gallan Changian](https://open.spotify.com/album/4C1CCvGOLVodYT3h8O0zZL) | 3:58 | 2022-07-15 | 2022-08-18 |
@@ -476,6 +477,7 @@
 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 | 2022-03-11 |
 | [Saiyaan](https://open.spotify.com/track/6QgW1YysLYl1kZJo3AdAIB) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Saiyaan](https://open.spotify.com/album/0Diu3K0PxRPqNH5qTMcdcl) | 2:55 | 2021-12-02 | 2022-02-01 |
 | [Sajjna Ve Sajjna](https://open.spotify.com/track/4bgzuGzDwPhcSF2EdMgLC3) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Yuvika Chaudary](https://open.spotify.com/artist/3e3LG7qmfc6MuNb7cnQqrV) | [Sajjna Ve Sajjna](https://open.spotify.com/album/177O8i5y5Exarm3nan0Bta) | 2:39 | 2022-04-15 | 2022-07-06 |
+| [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-11-21 |  |
 | [SAJNA](https://open.spotify.com/track/5UNSEO2M2ARiRZUHkZa1MX) | [Poojan Kohli](https://open.spotify.com/artist/6VQy77NaASzZZ7ZvvsEfOn) | [SAJNA](https://open.spotify.com/album/3m7rx2rYRg1VKshZZkxxfT) | 3:38 | 2022-07-08 | 2022-08-18 |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-01 |
 | [Sakhiyaan\-Reprise Version](https://open.spotify.com/track/1TZ9lSsoy3eKky3usMJLhm) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI) | [Sakhiyaan\-Reprise Version](https://open.spotify.com/album/3SolvbUSvZ98ZxdABZ2bej) | 3:24 | 2022-04-27 | 2022-05-20 |

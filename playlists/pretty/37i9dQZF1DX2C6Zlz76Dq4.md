@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Ronnie Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,715 likes - 124 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,153 likes - 124 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

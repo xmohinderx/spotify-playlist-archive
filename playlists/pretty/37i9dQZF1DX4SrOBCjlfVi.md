@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Roddy Ricch, Rod Wave and more\. Cover: BROCKHAMPTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,655 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,003 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 |
 | 12 | [Break My Heart](https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Break My Heart](https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz) | 2:49 |
 | 13 | [Heavier](https://open.spotify.com/track/0msR8896ZHk8aNM10D7I7a) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:49 |
-| 14 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:17 |
+| 14 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:18 |
 | 15 | [YAH Know](https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [YAH Know](https://open.spotify.com/album/2hco0gyL8UJN4olim98vEy) | 5:58 |
 | 16 | [Big Burna](https://open.spotify.com/track/3cmPUqi8Dnv1a9MRjgMZGa) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Big Burna](https://open.spotify.com/album/2uG3PrRbukgoFFBCrOvVQJ) | 2:42 |
 | 17 | [Grab1 Get1 Pick1](https://open.spotify.com/track/4Tgy75bDEsSNQXd1hmigFJ) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Grab1 Get1 Pick1](https://open.spotify.com/album/3Gu5TL4JK1XfjNyxZOTeVO) | 1:49 |

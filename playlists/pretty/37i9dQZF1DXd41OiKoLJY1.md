@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Gabriel Tagadtad, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,735 likes - 92 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,740 likes - 92 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

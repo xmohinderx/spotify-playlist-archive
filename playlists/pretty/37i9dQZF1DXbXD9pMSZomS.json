@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 398122,
+  "num_followers": 398242,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGY1NjI4ZDhkZDYzYzNkNTkwYWIyYjQ0YzQyN2VkYWMx",
+  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGU4YzA4ZGE5NmY5ZjVhZTM5MDZjMmY4MzgwMTBmN2Iz",
   "tracks": [
     {
       "added_at": "2022-10-21 12:02:40",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "TJD006",
+        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 308874,
+      "name": "WhereYouGonnaGo?",
+      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Hunch Music",
         "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
       },
@@ -123,34 +139,18 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "TJD006",
-        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 308874,
-      "name": "WhereYouGonnaGo?",
-      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
-      },
-      "artists": [
-        {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
-        }
-      ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Everytime EP",
         "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 308269,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+      },
+      "artists": [
+        {
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+        }
+      ],
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -695,6 +695,54 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "I Needed / Intercession, On Behalf",
+        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
+        }
+      ],
+      "duration_ms": 397640,
+      "name": "I Needed",
+      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+      },
+      "artists": [
+        {
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+        }
+      ],
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Hyperspace (feat. Teza Sumendra)",
         "url": "https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX"
       },
@@ -731,22 +779,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
-      },
-      "artists": [
-        {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
-        }
-      ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Back To My Place",
         "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "I Needed / Intercession, On Behalf",
-        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "I Needed",
-      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -851,42 +851,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Spanish Steroids",
-        "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
-      },
-      "artists": [
-        {
-          "name": "Le Hutin",
-          "url": "https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8"
-        },
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 371205,
-      "name": "Spanish Steroids",
-      "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -903,6 +867,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -935,38 +915,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Godson of House",
-        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
+        "name": "Spanish Steroids",
+        "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
       },
       "artists": [
         {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+          "name": "Le Hutin",
+          "url": "https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8"
         },
         {
-          "name": "Byron the Aquarius",
-          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 516409,
-      "name": "Godson of House",
-      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Alone Girl",
-        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Alone Girl",
-      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
+      "duration_ms": 371205,
+      "name": "Spanish Steroids",
+      "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -991,22 +955,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Spaven x Sandunes",
-        "url": "https://open.spotify.com/album/0rQWKsKdG0SOZDSYhQYQM8"
+        "name": "Godson of House",
+        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
       },
       "artists": [
         {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         },
         {
-          "name": "Sandunes",
-          "url": "https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn"
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
         }
       ],
-      "duration_ms": 290431,
-      "name": "1759 (Outro)",
-      "url": "https://open.spotify.com/track/1kGVpWlJn77314BjntTLNI"
+      "duration_ms": 516409,
+      "name": "Godson of House",
+      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -1023,6 +987,42 @@
       "duration_ms": 349857,
       "name": "Longing For U",
       "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Alone Girl",
+        "url": "https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Alone Girl",
+      "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Spaven x Sandunes",
+        "url": "https://open.spotify.com/album/0rQWKsKdG0SOZDSYhQYQM8"
+      },
+      "artists": [
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        },
+        {
+          "name": "Sandunes",
+          "url": "https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn"
+        }
+      ],
+      "duration_ms": 290431,
+      "name": "1759 (Outro)",
+      "url": "https://open.spotify.com/track/1kGVpWlJn77314BjntTLNI"
     }
   ],
   "unique_name": "Lo-Fi House",

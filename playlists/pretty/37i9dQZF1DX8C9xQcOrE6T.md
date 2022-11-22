@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Disenchanted\. Stream Disenchanted on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674,726 likes - 122 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,676,315 likes - 122 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

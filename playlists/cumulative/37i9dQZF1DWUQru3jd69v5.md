@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: 167 Gang, Medy
 
-309 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+310 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2022-06-23 |
 | [Parenti](https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Parenti](https://open.spotify.com/album/5fvdfPY8mllbK4d4vDODmI) | 2:24 | 2022-09-22 | 2022-09-30 |
 | [Peccato](https://open.spotify.com/track/6c0Uy3qCH3PzlY19ONxrv9) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [Peccato](https://open.spotify.com/album/6f9oGh5gPqbMHM9jXrKyJm) | 2:40 | 2022-05-10 | 2022-05-13 |
-| [Pegaso](https://open.spotify.com/track/3ndyS9nSROW6Pvhm9A99k4) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pegaso](https://open.spotify.com/album/3pJgSYFqO11OIjaN0DtS55) | 2:08 | 2022-11-17 |  |
+| [Pegaso](https://open.spotify.com/track/3ndyS9nSROW6Pvhm9A99k4) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pegaso](https://open.spotify.com/album/3pJgSYFqO11OIjaN0DtS55) | 2:08 | 2022-11-17 | 2022-11-22 |
+| [Pegaso](https://open.spotify.com/track/5nAczxA6dirSZLz2X0YfUK) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [RETINA](https://open.spotify.com/album/4f5Jr2DIoPsQP2K8DCLQhJ) | 2:08 | 2022-11-21 |  |
 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:25 | 2022-11-10 |  |
 | [PENSAVA](https://open.spotify.com/track/7crSaHFvZ4GjDlNxOlQs9m) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:25 | 2022-11-14 | 2022-11-18 |
 | [Per i Roiz 2](https://open.spotify.com/track/0wqh8UaAV1rqMyFOtFRWMT) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Per i Roiz 2](https://open.spotify.com/album/55RAY16Dyy9bMIfyKRKatF) | 2:33 | 2022-10-13 | 2022-11-18 |

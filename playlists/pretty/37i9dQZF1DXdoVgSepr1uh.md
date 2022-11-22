@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,971 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,048 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 91 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 |
 | 92 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 |
 | 93 | [Sola](https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Sola](https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN) | 2:50 |
-| 94 | [HIPÓCRITA](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [HIPÓCRITA](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 |
+| 94 | [HIPÓCRITA](https://open.spotify.com/track/3lXc5YpK6Pta0e7LpVb2lf) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [ESTADO CRITICAL](https://open.spotify.com/album/4jEiRYaIUUEjHWvZdTQZVe) | 2:11 |
 | 95 | [El Freno](https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [El Freno](https://open.spotify.com/album/6mvuFU08OZXKTNT7C17ALE) | 2:25 |
 | 96 | [Anoche \(Remix\)](https://open.spotify.com/track/2k6RWRsm2yYD8lOJjer5qa) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Anoche \(Remix\)](https://open.spotify.com/album/0ibOm3Sm7K1o6wG8I9B6QQ) | 3:48 |
 | 97 | [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 99 | [DONDE SEA](https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [DONDE SEA](https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6) | 2:38 |
 | 100 | [Me acostumbré](https://open.spotify.com/track/0qGWqojAabUzXnEpERBM6t) | [teoh](https://open.spotify.com/artist/61wE1ArCFvqhi7aMMsawAw), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Me Acostumbré](https://open.spotify.com/album/6c0OHXqlHJ3fQHrGWlw26Z) | 3:33 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGI3MzQ3NmJlZTRmNzhkZGFlMzA0OTZkOWM3ZWRhNDQ1`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDZhYmNkMGNkMDVjOGVlYTMwMzYxMWYzNmQ0ZmM0ZDc5`

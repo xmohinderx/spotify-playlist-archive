@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nickelback \(pictured\), Pharrell Williams ft\. Travis Scott, bbno$, Saweetie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,175 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,333 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

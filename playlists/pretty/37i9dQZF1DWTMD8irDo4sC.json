@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 47470,
+  "num_followers": 47514,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDY5MzhmMTQ0MGZmNGY0YjFiYmNhNGY2MWIwMDBjMGQz",
+  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMGQ5YzU2NTUyNzdiMzVmNDg1MWQ0MTc4NWI0ZmM2MmM5",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -347,6 +347,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "K'lma",
+        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
+      },
+      "artists": [
+        {
+          "name": "Fay\u00e7al Azizi",
+          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
+        },
+        {
+          "name": "Sakina Lafdaili",
+          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Warda Ala Warda",
+      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Brya",
         "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 222440,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "K'lma",
-        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
-      },
-      "artists": [
-        {
-          "name": "Fay\u00e7al Azizi",
-          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
-        },
-        {
-          "name": "Sakina Lafdaili",
-          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Warda Ala Warda",
-      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Matalib - COLORS Sudan",
-        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Matalib - COLORS Sudan",
-      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Fuqaati (My Bubble)",
         "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 268502,
       "name": "Fuqaati (My Bubble)",
       "url": "https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        },
+        {
+          "name": "Frankly Jazz",
+          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
+      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-        "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        },
-        {
-          "name": "Frankly Jazz",
-          "url": "https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
-      "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "W3od",
         "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 168000,
       "name": "W3od",
       "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Bshi Yom",
-        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
-      },
-      "artists": [
-        {
-          "name": "Yousef Kekhia",
-          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
-        }
-      ],
-      "duration_ms": 294402,
-      "name": "Bshi Yom",
-      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -919,6 +903,22 @@
       "duration_ms": 346293,
       "name": "Munaya (Dream)",
       "url": "https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Bshi Yom",
+        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
+      },
+      "artists": [
+        {
+          "name": "Yousef Kekhia",
+          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
+        }
+      ],
+      "duration_ms": 294402,
+      "name": "Bshi Yom",
+      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Holm / The Man Who Sold The World",
-        "url": "https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY"
-      },
-      "artists": [
-        {
-          "name": "Emel",
-          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "Holm",
-      "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Dayman Bekheir",
         "url": "https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 246000,
       "name": "Dayman Bekheir",
       "url": "https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Holm / The Man Who Sold The World",
+        "url": "https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY"
+      },
+      "artists": [
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "Holm",
+      "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
     },
     {
       "added_at": "2022-05-09 08:05:11",

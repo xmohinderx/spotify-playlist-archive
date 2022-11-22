@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM) | 2:22 | 2021-12-16 |  |
+| [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ElMundoFuera \(Improvisación\)](https://open.spotify.com/album/0aeEduveGwn87AfHFnwFPM) | 2:22 | 2021-12-16 | 2022-11-22 |
 | [6:00 a.m\. \- Versión Acústica en Vivo](https://open.spotify.com/track/0UubSGVhoTEpsWUk7DCfzi) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Cruce de caminos: Acústico, real y en vivo](https://open.spotify.com/album/21AcAVNJQfFr5nolH78DCZ) | 5:02 | 2021-12-16 | 2022-07-29 |
-| [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 | 2021-12-16 | 2022-11-14 |
+| [A Estas Horas Del Amor](https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [A Estas Horas Del Amor](https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz) | 5:02 | 2021-12-16 |  |
 | [A Mí y a Nadie Más](https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [A Mí y a Nadie Más](https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P) | 2:37 | 2021-12-16 |  |
 | [Adiós Amor](https://open.spotify.com/track/1Jdvv5TBIaS4cqvwgISvc2) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Covers II](https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ) | 3:47 | 2021-12-16 |  |
 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 | 2021-12-16 |  |

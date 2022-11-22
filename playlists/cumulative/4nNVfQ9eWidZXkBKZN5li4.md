@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- Brahmastra \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-193 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
+194 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baarishon Mein](https://open.spotify.com/track/7doebiokA0utWXWcw7rD82) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Baarishon Mein](https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT) | 3:44 | 2022-07-15 |  |
 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 | 2020-10-06 | 2022-04-19 |
 | [Bad Boy X Bad Girl \(feat\. Nikhita Gandhi\)](https://open.spotify.com/track/6LvHrLiW1z8PS7MIAiufKg) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Bad Boy X Bad Girl \(feat\. Nikhita Gandhi\)](https://open.spotify.com/album/2zBorimEpgHINDifNil0Un) | 3:19 | 2021-09-20 | 2022-09-07 |
+| [Bahara X](https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Bahara X](https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm) | 2:47 | 2022-11-21 |  |
 | [Bajre Da Sitta](https://open.spotify.com/track/5LDvAJwWczQ4DOjKIEtWZs) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Bajre Da Sitta](https://open.spotify.com/album/2Z58gr9ZIZdHOC2tL7tbYa) | 2:44 | 2021-01-14 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2021-07-28 | 2022-09-07 |
 | [Bekhayali \(From "Kabir Singh"\)](https://open.spotify.com/track/1feANd8EfcDP5UqSvbheM3) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Bekhayali \(From "Kabir Singh"\)](https://open.spotify.com/album/5m5aIc0rrrPUMDARDnQzB9) | 6:11 | 2021-01-25\* | 2021-03-06 |

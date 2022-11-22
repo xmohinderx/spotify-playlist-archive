@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-360 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+361 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Ensom](https://open.spotify.com/track/1g3P8HDqj2koVaHBvY5O3q) | [Parting Gift](https://open.spotify.com/artist/6Rm6Kxqg4WmFqDodsAf0Gi) | [Ensom](https://open.spotify.com/album/5gAMff2vRgIoObTMVqX8wZ) | 4:38 | 2021-11-30 | 2022-07-28 |
 | [Everything I'm Not](https://open.spotify.com/track/3JOA9ckn1TFwO2DfqJ0UHs) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everything I'm Not](https://open.spotify.com/album/3q6oMOe6OZMeXvjGfMPmnw) | 3:22 | 2021-11-30 | 2022-06-06 |
 | [Everything Is Ordinary](https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Everything Is Ordinary](https://open.spotify.com/album/0erUOZsXrMTm8BVOPzgAm3) | 3:30 | 2021-11-30 | 2022-07-27 |
-| [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 | 2022-01-21 |  |
+| [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 | 2022-01-21 | 2022-11-22 |
 | [Fake Interest](https://open.spotify.com/track/55Ry23F254Wn0Qeqq7o5cC) | [Tunic](https://open.spotify.com/artist/51M2l9r2xX31tNp0SA4WZf) | [Fake Interest](https://open.spotify.com/album/3lagrnqYqoTOlImbz70GqU) | 1:58 | 2022-04-01 | 2022-06-09 |
 | [Fall Until We Fly](https://open.spotify.com/track/0n8tIXRZ2IVzsJAUe2dh6q) | [NU\-95](https://open.spotify.com/artist/14m3SMNSx3L5LhkCrgbHBa) | [Fall Until We Fly](https://open.spotify.com/album/05myJzgPpbXsEf0KRex7Ck) | 3:45 | 2021-11-30 | 2022-07-17 |
 | [False Gods](https://open.spotify.com/track/7im5oojn29v9sJYorEZmz1) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [False Gods](https://open.spotify.com/album/6RV5vUAsUYwmcL2RO08cIb) | 3:07 | 2021-11-30 | 2022-07-20 |
@@ -203,6 +203,7 @@
 | [Loneliness](https://open.spotify.com/track/0Zawi4KtjKvLWCQZMPP2W9) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Loneliness](https://open.spotify.com/album/4zyQXrqSKRzvyHxpmYcRza) | 3:39 | 2021-11-30 | 2022-07-26 |
 | [Lonely Bong](https://open.spotify.com/track/47K38vCbe8Rl3FyvocpPUi) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Lonely Bong](https://open.spotify.com/album/2NT4UiwdYqk9nXyCs9O9jn) | 3:07 | 2022-04-01 | 2022-07-23 |
 | [Lose My Number](https://open.spotify.com/track/6zdtODRpVe9dVI5vuCwB88) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time](https://open.spotify.com/album/6N2gLkY2jG2YMzCVS7IKja) | 4:02 | 2021-11-30 | 2022-07-22 |
+| [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 | 2022-04-01 |  |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2022-02-28 | 2022-11-20 |
 | [Love is War](https://open.spotify.com/track/1jG8barnM7s5bKFp86920v) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [Love is War](https://open.spotify.com/album/56cmXy0uY6SO7wJo4JVZ2q) | 3:17 | 2021-11-30 | 2022-07-28 |
 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 | 2022-01-21 |  |

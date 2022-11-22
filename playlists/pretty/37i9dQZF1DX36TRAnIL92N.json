@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 58493,
+  "num_followers": 59304,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYzOTYwMCwwMDAwMDAwMDY0NWY0ZDE1MDNkZDc5ZWJlMDJmNjYyMTFjMDg0Mjli",
+  "snapshot_id": "MTY2ODYzOTYwMCwwMDAwMDAwMDJkMmRlOWYzZWVmYTU3NjM3NDY4M2FmMzM2OTE1MjFm",
   "tracks": [
     {
       "added_at": "2022-10-28 13:27:40",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
-      "added_at": "2022-11-21 01:26:49",
+      "added_at": "2022-11-22 01:29:22",
       "album": {
         "name": "Remixed 2022",
         "url": "https://open.spotify.com/album/6gUKd1vXmHzBnEaKefAtkd"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-11-21 01:26:49",
+      "added_at": "2022-11-22 01:29:22",
       "album": {
         "name": "Can You Move To The Beat",
         "url": "https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi"
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "You Are Mine EP",
-        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 414545,
-      "name": "You Are Mine - Original Mix",
-      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/3mowlp2V47vxB53ER6kCDn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 313700,
       "name": "The Outsiders - T78 Remix",
       "url": "https://open.spotify.com/track/0qP89hbMRlounSq9QDSK6v"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "You Are Mine EP",
+        "url": "https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 414545,
+      "name": "You Are Mine - Original Mix",
+      "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
-      "added_at": "2022-11-21 01:26:49",
+      "added_at": "2022-11-22 01:29:22",
       "album": {
         "name": "Something Unreal",
         "url": "https://open.spotify.com/album/16yV0fyBdH0wqT74rEKsPD"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
-      "added_at": "2022-11-21 01:26:49",
+      "added_at": "2022-11-22 01:29:22",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/12hjUaYiyK6xe4oz2lllu5"
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Little Hero",
-        "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boys",
-          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Little Hero",
-      "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "Sex and the Machine",
         "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
       },
@@ -751,26 +731,22 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Light + Shadow Remixes, Vol. 1",
-        "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
+        "name": "Little Hero",
+        "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
       },
       "artists": [
         {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
         },
         {
-          "name": "Z\u00f8e",
-          "url": "https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft"
-        },
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         }
       ],
-      "duration_ms": 370750,
-      "name": "Flash - Marco Faraone Remix",
-      "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
+      "duration_ms": 390000,
+      "name": "Little Hero",
+      "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -799,18 +775,26 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Hydro",
-        "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
+        "name": "Light + Shadow Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
       "artists": [
         {
-          "name": "Filterheadz",
-          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        },
+        {
+          "name": "Z\u00f8e",
+          "url": "https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft"
+        },
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
         }
       ],
-      "duration_ms": 405737,
-      "name": "Hydro",
-      "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
+      "duration_ms": 370750,
+      "name": "Flash - Marco Faraone Remix",
+      "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -831,6 +815,22 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "Hydro",
+        "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
+      },
+      "artists": [
+        {
+          "name": "Filterheadz",
+          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+        }
+      ],
+      "duration_ms": 405737,
+      "name": "Hydro",
+      "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
     },
     {
       "added_at": "2022-10-28 13:27:40",

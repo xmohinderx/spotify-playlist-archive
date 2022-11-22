@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7051,
+  "num_followers": 7064,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGY3MTgwODNkMjQ4M2Q5MzdlMTIyNDQxNThhMzU1NDkw",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDExYzBmNGU2Y2U1NGQ0NTBmMGJmOTk3YWE5ZWU5YTI0",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -231,6 +215,38 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Stay Proud of Me",
         "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Crutches",
-        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Crutches",
-      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+        "name": "Crutches",
+        "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
         }
       ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+      "duration_ms": 170066,
+      "name": "Crutches",
+      "url": "https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Man Who Loves You",
-      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "What Happened, Happened",
         "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "good juju : vol. 1",
         "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 222928,
       "name": "NEVERLAND",
       "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Open up Babe (Perry twins remix)",
-        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
-      },
-      "artists": [
-        {
-          "name": "Wils",
-          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
-        },
-        {
-          "name": "Perry Twins",
-          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Open up Babe - Perry twins remix",
-      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Open up Babe (Perry twins remix)",
+        "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
+      },
+      "artists": [
+        {
+          "name": "Wils",
+          "url": "https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn"
+        },
+        {
+          "name": "Perry Twins",
+          "url": "https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Open up Babe - Perry twins remix",
+      "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 221820,
       "name": "All I Have To Do Is Dream",
       "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -683,6 +667,22 @@
       "duration_ms": 220821,
       "name": "I Won't Envy 2.0",
       "url": "https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2022-08-25 15:45:44",

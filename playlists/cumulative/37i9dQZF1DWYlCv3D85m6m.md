@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-177 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
+178 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 To 10](https://open.spotify.com/track/74oWejX8MG6SEaJiz1334D) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 | 2022-07-19 |  |
 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/2pczTxiMdmkR2crPgZkbyR) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:18 | 2022-03-24 | 2022-07-29 |
 | [1, 3, 2 \(JEONGYEON, MINA, TZUYU\)](https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-19 |  |
+| [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 | 2022-11-21 |  |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-03-24 |  |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-24 |  |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2022-03-24 |  |

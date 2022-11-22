@@ -4,7 +4,7 @@
 
 > Wet Bed Gang entram na zona.
 
-150 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+151 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Teu Cheiro](https://open.spotify.com/track/4hwguRVq6Kv6llWmKf9G88) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Teu Cheiro](https://open.spotify.com/album/4pdhXTGmIQ4JnIdGrOF4nj) | 3:35 | 2022-07-16 |  |
 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 | 2022-07-16 | 2022-10-14 |
 | [The Cold Room \- S2\-E10 \- Pt.1](https://open.spotify.com/track/1cpiaL8iQnE3BssTcp6DvV) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Tweeko](https://open.spotify.com/artist/22wD142FUVQatdB5g8mxTF), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [The Cold Room \- S2\-E10](https://open.spotify.com/album/0u9GlXYupjr425whxAzcuA) | 2:54 | 2022-10-06 |  |
+| [TINA DANCE](https://open.spotify.com/track/4P5EPz6Sz8mURxMXlkA8jB) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [TINA DANCE](https://open.spotify.com/album/6h0qqal5ouuuCeyZfGhwlU) | 2:24 | 2022-11-21 |  |
 | [Tirar Bilhete](https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Tirar Bilhete](https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG) | 3:05 | 2022-07-16 |  |
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 |  |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

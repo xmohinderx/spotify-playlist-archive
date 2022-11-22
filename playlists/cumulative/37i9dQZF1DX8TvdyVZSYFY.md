@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-451 songs - 1 day 2 hr 48 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
+452 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/15USUzNR9YKdH5WRjqJCtH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,11 +61,12 @@
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2021-03-09 |  |
 | [By Your Side \- Abbey Road Live Version](https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [By Your Side \(Abbey Road Live Version\)](https://open.spotify.com/album/3mH8f6BWGWZOVzteyY1A7q) | 3:13 | 2021-03-09 | 2022-11-13 |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2021-03-09 |  |
-| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 |  |
+| [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 | 2021-03-09 | 2022-11-22 |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2021-03-09 |  |
 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 | 2021-03-09 |  |
 | [Can't Stop The Feeling](https://open.spotify.com/track/64mIsDq15574VzIws46Axl) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Can't Stop The Feeling](https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2) | 4:23 | 2021-03-09 |  |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/0zk9XRxtcGu12MbY25mjXm) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 1](https://open.spotify.com/album/26hWv2VK4QdRA6Y4YmQ0uE) | 2:28 | 2022-01-10 | 2022-11-20 |
+| [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 1](https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M) | 2:28 | 2022-01-10 |  |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5xcsnZOeoLJkgFz3uVNc7h) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/album/2UBUdGZKPM7ZEuKi1uMkNC) | 2:28 | 2021-03-09 | 2022-07-29 |
 | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/track/5z78nwLTw2qC0JR3HmaaV0) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Can't Stop the Feeling / This Is What You Came For](https://open.spotify.com/album/006rjbaCKSsLhWRVCF9cc1) | 2:28 | 2022-01-10 | 2022-11-13 |
 | [Candle In the Wind \- Acoustic](https://open.spotify.com/track/2EKVsbv9yGs7i3EXc4qOlh) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Candle In the Wind \(Acoustic\)](https://open.spotify.com/album/1kNzg5RryF2tBM76TgtLuW) | 2:24 | 2021-03-09 | 2022-07-29 |

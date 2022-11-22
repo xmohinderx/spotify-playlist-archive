@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.",
+  "description": "The latest tracks from Mad Decent and friends. Eartheater Trinity (Deluxe), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.",
   "name": "Mad Decent Weekly",
   "published_playlist_ids": [
     "1Yjpd6pirY2pY0xv9m96EC"
@@ -1229,6 +1229,32 @@
       "duration_ms": 384495,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH"
+    },
+    {
+      "album": {
+        "name": "Dance For You (Blue Hawaii and DJ Kirby Remix)",
+        "url": "https://open.spotify.com/album/0TWtR6w6CC5Xs64UQWJImq"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        },
+        {
+          "name": "DJ Kirby",
+          "url": "https://open.spotify.com/artist/5OaPThfnN888Dy4mpAEBcD"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203964,
+      "name": "Dance For You (Blue Hawaii and DJ Kirby Remix)",
+      "url": "https://open.spotify.com/track/5ejJgNva64ivxYKBkPCAR6"
     },
     {
       "album": {
@@ -5054,6 +5080,28 @@
     },
     {
       "album": {
+        "name": "Trinity (Deluxe)",
+        "url": "https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Hara Kiri",
+          "url": "https://open.spotify.com/artist/4U7pRwxS462rFn3iUKvQc0"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289218,
+      "name": "Solid Liquid Gas - Hara Kiri VIP",
+      "url": "https://open.spotify.com/track/3wjqPj94Bdx9Ir1zZvNgcV"
+    },
+    {
+      "album": {
         "name": "These Things Will Come To Be (LSDXOXO Remix)",
         "url": "https://open.spotify.com/album/4OyQfqNVWeDqRSJY7S38uj"
       },
@@ -5189,6 +5237,28 @@
       "duration_ms": 192964,
       "name": "Super Villain",
       "url": "https://open.spotify.com/track/0vpx5ziYXkv6K6t77jdYSt"
+    },
+    {
+      "album": {
+        "name": "Trinity (Deluxe)",
+        "url": "https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188139,
+      "name": "Supersoaker - COUCOU CHLOE Remix",
+      "url": "https://open.spotify.com/track/26aLMSgcLsV7KKEc1smdjf"
     },
     {
       "album": {

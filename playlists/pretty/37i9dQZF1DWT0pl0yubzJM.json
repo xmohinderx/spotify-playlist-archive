@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 12130,
+  "num_followers": 12138,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGE3NDVhODMyNDE5ZWNjZTY1N2Y0MGU1ODU3NThlNzBm",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGVmZDQzZWJkYzA0ZjA2YjI0MzBmNDIxZmIzMzJhYmJk",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dopadromo",
-        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Viva Satana",
-      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Colores Santos",
         "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dopadromo",
+        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Viva Satana",
+      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "San Cipriano",
         "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
       },
@@ -251,6 +251,26 @@
       "duration_ms": 163626,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Colores Santos",
+        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Daniel Melero",
+          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+        }
+      ],
+      "duration_ms": 323640,
+      "name": "Pudo Ser",
+      "url": "https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -287,18 +307,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -319,26 +339,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Colores Santos",
-        "url": "https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Daniel Melero",
-          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
-        }
-      ],
-      "duration_ms": 323640,
-      "name": "Pudo Ser",
-      "url": "https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 228466,
       "name": "Post Crucifixion",
       "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -387,8 +371,8 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Pasto",
-        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 230626,
-      "name": "D-Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -451,22 +435,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
-      },
-      "artists": [
-        {
-          "name": "Pez",
-          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Lo Que Se Ve No Es Lo Real",
-      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -483,18 +451,34 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Manzana de Metal",
-        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
         }
       ],
-      "duration_ms": 263173,
-      "name": "Atl\u00e1ntico",
-      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+      "duration_ms": 240333,
+      "name": "Lo Que Se Ve No Es Lo Real",
+      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Pasto",
+        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 230626,
+      "name": "D-Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -511,6 +495,22 @@
       "duration_ms": 199146,
       "name": "Jubilados Violentos",
       "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Manzana de Metal",
+        "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
+      },
+      "artists": [
+        {
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Atl\u00e1ntico",
+      "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
       },
       "artists": [
         {
-          "name": "Altocamet",
-          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 318453,
-      "name": "Manzana de Metal",
-      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
+      "duration_ms": 202800,
+      "name": "Remisero",
+      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

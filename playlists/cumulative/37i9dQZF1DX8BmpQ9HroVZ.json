@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "4AM in Karachi",
+      "url": "https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj"
+    },
+    {
+      "album": {
         "name": "6 Maheenay",
         "url": "https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs"
       },
@@ -67,7 +89,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 328615,
       "name": "Aazma Le",
       "url": "https://open.spotify.com/track/1X1aKjG5Au5Fj5DnDc14pm"
@@ -361,6 +383,28 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157868,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3UxpWx6vH0qx9iTyy8m80I"
     },
     {
       "album": {
@@ -899,7 +943,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 331764,
       "name": "Kab Tak",
       "url": "https://open.spotify.com/track/7bu8qrmyzKhsJKvpeUL4KY"
@@ -1053,7 +1097,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/4g2c7NoTWAOSYDy44l9nub"
@@ -1593,7 +1637,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 162760,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX"
@@ -2013,7 +2057,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-22",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

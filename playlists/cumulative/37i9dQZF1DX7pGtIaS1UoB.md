@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-247 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
+248 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/5iFkvSVaOfjtCz6w0iDsyy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [因為你](https://open.spotify.com/track/5gYQqYiNNynwCQJX8mXQ1N) | [StellaVee](https://open.spotify.com/artist/130SQgBPtO40M6lKRS79Vi) | [朋友說](https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1) | 3:05 | 2022-07-18 | 2022-07-21 |
 | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/track/51vZ7YbD7bxoPaLXRFUGu6) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Felicia Kusumo](https://open.spotify.com/artist/7bQI4SEqo54mA0h1rdlNeg) | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/album/7heJz7mX6WqZwEmAFnYRvG) | 3:00 | 2022-06-13 | 2022-07-11 |
 | [在家裡 \- feat.方大同](https://open.spotify.com/track/5kSI0cQklLNXQtK9btXYff) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [我想要的](https://open.spotify.com/album/0BgXOIWCoxjO5Lh6z58o4S) | 4:09 | 2022-06-06 | 2022-07-28 |
-| [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 |  |
+| [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 | 2022-07-25 | 2022-11-22 |
 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/48rVMYgcxxTAKBvCirg7Np) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/6xSNiK14HcybKglAJBUDc6) | 3:29 | 2022-06-06 | 2022-07-28 |
 | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/track/27I1DB7fCuuhRcXt8r8fnx) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [墨菲定律 \(feat\. Sherman Zhuo\)](https://open.spotify.com/album/39U4JqGLKnFoSzAyo3wwMP) | 3:02 | 2022-06-06 | 2022-06-17 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
@@ -220,6 +220,7 @@
 | [習慣 \(feat\. 米非\)](https://open.spotify.com/track/6Jd9vU3RRyhFUzG5IUty95) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI), [米非](https://open.spotify.com/artist/4BpQufMVrZH7PXsFJOic1h) | [永興行](https://open.spotify.com/album/0yQIhbx8fmvvsKcFzFLuAm) | 4:10 | 2022-06-06 | 2022-07-29 |
 | [老公公老婆婆](https://open.spotify.com/track/3Iovz38Pe2gt6U2hKiL67A) | [朱主爱](https://open.spotify.com/artist/5EadBit4jjumcmcXsxTaQ6) | [老公公老婆婆](https://open.spotify.com/album/3vSduIlZ6Y9sJGrt5q4Uw7) | 3:36 | 2022-06-06 | 2022-07-27 |
 | [聖誕之吻](https://open.spotify.com/track/61sWMgH5gHAVTjxwy6mHDS) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [聖誕之吻](https://open.spotify.com/album/63zHQlg0xTAbsbRngzDwm9) | 4:35 | 2022-06-06 | 2022-07-25 |
+| [能不能](https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb) | [吴映香](https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI) | [能不能](https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4) | 2:55 | 2022-11-22 |  |
 | [能不能有默契](https://open.spotify.com/track/3XPZJfYt8GQXoTh4CRghDL) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0), [吳東翰](https://open.spotify.com/artist/6BzI7B48EmLMoFilVaskIZ) | [能不能有默契](https://open.spotify.com/album/4VfTpEmnKbpLSuzTn6JWlw) | 3:54 | 2022-06-20 | 2022-07-08 |
 | [腦公](https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 2:52 | 2022-06-27 |  |
 | [膽小鬼](https://open.spotify.com/track/5w4HRtuuF0pj70GGlePSET) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [梁詠琪gigi](https://open.spotify.com/album/3DJ9oBFFrxUiDgkgjSlpc7) | 4:18 | 2022-06-20 | 2022-07-22 |
