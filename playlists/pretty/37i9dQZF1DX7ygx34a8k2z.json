@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 86013,
+  "num_followers": 86230,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGFmZWE0MjQ2MzQyZTRlMTVhMmQ3ZjI1NTBhMzQ0YTQz",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDFhM2MwZTUwNWEzOWI0MTQ2ZDlmZWViYjNmMjVmY2Vk",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Under the Western Freeway",
         "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 200666,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "24 Hour Revenge Therapy (Remastered)",
         "url": "https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 115120,
       "name": "Boxcar",
       "url": "https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2022-05-30 14:05:21",

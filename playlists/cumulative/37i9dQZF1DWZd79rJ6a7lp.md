@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-728 songs - 1 day 12 hr 48 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+733 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Morning Mist Rising](https://open.spotify.com/track/62w7vY3oBAnoEe8YZVui50) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Morning Mist Rising](https://open.spotify.com/album/4FkVG3tMc2RDeycqAjNZM3) | 3:49 | 2020-10-20\* | 2021-05-04 |
 | [Moves Like Waves](https://open.spotify.com/track/4wtTfmaWIdWLUNlE05UrZH) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Moves Like Waves](https://open.spotify.com/album/7HJZbRYfPgzbmzDa38oiWp) | 3:41 | 2022-06-16 |  |
 | [Moving On](https://open.spotify.com/track/1jap0U96d4528KaolN2nnz) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Angel Wings](https://open.spotify.com/album/4psQ5TZuuI03EmVtmuHkR4) | 3:04 | 2020-10-20\* | 2021-05-04 |
+| [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-09-02 |  |
 | [Mussidia](https://open.spotify.com/track/2mj5YHtlPbn4ojOKTn581M) | [Reverend XYZ](https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW) | [Baggy Green](https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT) | 3:52 | 2020-10-20\* | 2021-02-06 |
 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-07 |  |
@@ -486,6 +487,7 @@
 | [Pending Mind](https://open.spotify.com/track/7xC69b3ezFngpneuu7SVkU) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Nightscapes](https://open.spotify.com/album/3IYo20mfoUluxPOTMaKbyb) | 4:16 | 2020-10-20\* | 2020-12-12 |
 | [Pendulum](https://open.spotify.com/track/3Ad4g7Jvp7B0QlV7XpJYCU) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Equilibrium](https://open.spotify.com/album/3Tr4GGB3iahsp5CVYtubVj) | 4:29 | 2020-10-20\* | 2020-12-12 |
 | [Pendwmpian](https://open.spotify.com/track/0RJMCNCnzAePPYHcktJSFK) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Pendwmpian](https://open.spotify.com/album/1sCu7wc862uarquyvhCQBi) | 3:36 | 2020-10-20\* | 2021-03-14 |
+| [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2022-11-22 |  |
 | [Perspectives](https://open.spotify.com/track/3chCZBYrCCjcUmT4mX5x8E) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Perspectives](https://open.spotify.com/album/6SKpBhqxzknHdxfGsEQMkw) | 4:09 | 2021-05-04 | 2021-06-16 |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2020-10-20\* | 2021-05-04 |
 | [Phonaesthetics](https://open.spotify.com/track/6HpMcAZZhc9wNitIohrY76) | [Devin Echo](https://open.spotify.com/artist/2FMBuPowBpiUWnwcpJ41DM) | [Phonaesthetics](https://open.spotify.com/album/3FkiWVSOevq1nrao1UQFUG) | 2:36 | 2022-05-19 |  |
@@ -536,6 +538,7 @@
 | [Rêvasseur](https://open.spotify.com/track/64zhFuKM4TwZ0dcKogeKAN) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Rêvasseur](https://open.spotify.com/album/0PKKJXGWqGgxhYZ9ExhWeC) | 3:23 | 2020-10-20\* | 2021-02-06 |
 | [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 | 2020-10-20\* | 2020-12-12 |
 | [Sangre](https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 3:46 | 2020-10-20\* | 2020-12-12 |
+| [Sant](https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Sant](https://open.spotify.com/album/7pt1yJzAhU0RaxvTkno8Of) | 3:38 | 2022-11-22 |  |
 | [Saoradh](https://open.spotify.com/track/6hF7PFj60NCD6BtoRqyWZY) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Saoradh](https://open.spotify.com/album/1SS2uJ9I8a7OB31J1PfAv7) | 2:10 | 2022-10-15 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2021-10-06 |  |
 | [Saturno](https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Constelaciones](https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1) | 3:40 | 2020-10-20\* | 2021-03-14 |
@@ -645,6 +648,7 @@
 | [The Crossing](https://open.spotify.com/track/3i9yFRj5GHDs0XclLOVbkL) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Endless](https://open.spotify.com/album/5BdpJRE7rlejWs9T0iPtSM) | 2:43 | 2020-10-20\* | 2020-11-03 |
 | [The Destination](https://open.spotify.com/track/2mGpfyZuvwQT7qimhly4S1) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Time Traveller](https://open.spotify.com/album/6PqJZZ81yzT16VmqLUST6A) | 4:07 | 2020-10-20\* | 2020-12-12 |
 | [The Fortune](https://open.spotify.com/track/58zhcQ4sAaEMHDgMw3A3mN) | [Dream Thieves](https://open.spotify.com/artist/5yBqFQdWyfcHT3VUQt8Jnr) | [Here or There](https://open.spotify.com/album/2bLd7cymj2Wo7AduPF48sR) | 3:54 | 2020-10-20\* | 2020-12-12 |
+| [The Light](https://open.spotify.com/track/0cJOITxJRoFwuMkP4H6v4O) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [The Light](https://open.spotify.com/album/4N3mQcawYnSYJPRl1LFPFV) | 2:53 | 2022-11-22 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2021-08-17 | 2021-09-22 |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-07-07 |  |
 | [The Sea Of Tranquility](https://open.spotify.com/track/1xSShAVCtaLdetNXE5TcnQ) | [Sleeping Luna](https://open.spotify.com/artist/3qgnBj2gbx4W6sWwyJpkWM) | [The Sea Of Tranquility](https://open.spotify.com/album/62JyAC5h2bYL3GSPY0Iv1W) | 2:53 | 2022-10-15 |  |
@@ -686,6 +690,7 @@
 | [Unfolded](https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y) | [Aca Malvina](https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO) | [Unfolded](https://open.spotify.com/album/3iMTy9vlz8gkjb3ZfqURa1) | 2:40 | 2022-11-11 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2020-10-20\* | 2021-10-06 |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2020-10-20\* | 2021-03-14 |
+| [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2022-11-22 |  |
 | [Up Above](https://open.spotify.com/track/3lyvwZ5DUyj7qlnb49DyRg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Up Above](https://open.spotify.com/album/1sheGcDitJ34SQSTHCPGrv) | 3:04 | 2021-07-07 |  |
 | [Us](https://open.spotify.com/track/3A97MxM8H57n3bRRq0XYgf) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Other](https://open.spotify.com/album/6FBEfKK9pxJ8Nm6BW5ozXp) | 2:28 | 2021-05-04 | 2022-10-01 |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2021-03-14 | 2021-10-23 |
@@ -701,7 +706,7 @@
 | [Viento Estelar](https://open.spotify.com/track/0f5IlhiVWUUq4SGHyrRxIt) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Galaxia](https://open.spotify.com/album/5ILrjJzxzyn3h8CCdRQszR) | 3:05 | 2021-02-06 |  |
 | [Views from Tower Two](https://open.spotify.com/track/6BY4VEgqQ0DHcT0JvkssqM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 6:33 | 2020-10-20\* | 2021-03-14 |
 | [Vila](https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Återhämtning](https://open.spotify.com/album/5JmOVXdiaiknwkK3JHyiev) | 3:48 | 2021-07-07 | 2022-06-25 |
-| [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2021-05-04 |  |
+| [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2021-05-04 | 2022-11-23 |
 | [vindur](https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc) | [Atli Þórirsson](https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4) | [vindur](https://open.spotify.com/album/7Kq9BZt3SVPSMHYcIRkeKy) | 2:33 | 2021-03-14 | 2022-09-03 |
 | [Visions](https://open.spotify.com/track/5h3851Qxv7ASuTSNi4T3oN) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Visions](https://open.spotify.com/album/0xU18dAYezTrxCcQbVNx2o) | 4:14 | 2020-10-20\* | 2021-05-04 |
 | [Visit](https://open.spotify.com/track/2shMUWiutqxULZqBxNbJ9W) | [Visitors Not Strangers](https://open.spotify.com/artist/3jiDtQvnpmxeUCapyKvJv6) | [Visit](https://open.spotify.com/album/5KDEix44VycShIM4fl3EKU) | 3:41 | 2020-10-20\* | 2021-03-14 |

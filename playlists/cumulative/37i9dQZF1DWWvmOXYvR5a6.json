@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: ASH ISLAND(\uc560\uc26c \uc544\uc77c\ub79c\ub4dc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: OVAN(\uc624\ubc18)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "TrenChill K-Hip Hop",
   "published_playlist_ids": [
     "6YybdrER9IpLcTWs3zQt76"
@@ -1530,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/3JOPFaUPMNSZigHMxXDpOI"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1d219co69sYkVNGY07WoA9"
+    },
+    {
+      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/7Ejo0LEshrxBDqd3T2xfTA"
       },
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 218800,
       "name": "Cheetos",
       "url": "https://open.spotify.com/track/2LbNAKighVWykuwfVHaAqe"
@@ -6207,7 +6225,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 203731,
       "name": "meet me in Toronto",
       "url": "https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd"
@@ -8111,7 +8129,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 97206,
       "name": "pure heart",
       "url": "https://open.spotify.com/track/1zelOJt9rCaWtpOB5zjSHd"
@@ -9377,7 +9395,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 174386,
       "name": "So Far So Good (feat. TRADE L, JAEHA & Mirani)",
       "url": "https://open.spotify.com/track/5d3rQVvcXkwYPRut655ANV"
@@ -9763,7 +9781,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Summer Love (feat. Verbal Jint, Basick)",
       "url": "https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG"

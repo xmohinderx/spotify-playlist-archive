@@ -391,6 +391,24 @@
     {
       "album": {
         "name": "Chrissy, Wake Up",
+        "url": "https://open.spotify.com/album/46XFVGwSxul3vUb3IqsXiZ"
+      },
+      "artists": [
+        {
+          "name": "The Gregory Brothers",
+          "url": "https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65454,
+      "name": "Chrissy, Wake Up",
+      "url": "https://open.spotify.com/track/4Ov2fry0a3OSJMca7FF4NR"
+    },
+    {
+      "album": {
+        "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
       },
       "artists": [
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 65454,
       "name": "Chrissy, Wake Up",
       "url": "https://open.spotify.com/track/6w2pWpwDY4igt0UAtowyAV"

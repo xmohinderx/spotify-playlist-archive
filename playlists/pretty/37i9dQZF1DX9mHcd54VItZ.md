@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock\. Cover: <a href="https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO?si=ShwKhUgxTQ2nMhtDaz8WZw">Frans Karoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,299 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,302 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

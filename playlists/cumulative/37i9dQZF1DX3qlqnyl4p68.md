@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
-58 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+59 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 | 2021-10-25 |  |
 | [Kill Party](https://open.spotify.com/track/1wkYDg8BUgjSwdvQVpA6Tw) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs) | 0:50 | 2021-10-25 | 2022-11-17 |
 | [Kill Party](https://open.spotify.com/track/76r9tesmwZzwJWl3UzZaWU) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y) | 0:50 | 2022-07-15 |  |
-| [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 3:13 | 2022-09-02 |  |
+| [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/2z8NOEUtfyV4chIbngXYDi) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1) | 3:13 | 2022-09-02 |  |
+| [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 3:13 | 2022-09-02 | 2022-11-23 |
 | [Lights Out](https://open.spotify.com/track/1YNt8zvYiVPIdqL1YCDPAc) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz) | 2:22 | 2022-07-15 |  |
 | [Lights Out](https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 2:22 | 2022-07-15 | 2022-11-17 |
 | [Lights Out](https://open.spotify.com/track/4BxIJSZ9HlozFVCSUvjqpX) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/70imhSWOEIsbf9HREtSVbB) | 2:22 | 2021-10-25 | 2022-07-29 |

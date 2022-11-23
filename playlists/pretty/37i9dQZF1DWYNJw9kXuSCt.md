@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 
 > The 2022 nominees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,015 likes - 149 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,004 likes - 149 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

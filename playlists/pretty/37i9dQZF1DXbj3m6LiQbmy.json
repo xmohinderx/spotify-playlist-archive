@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4846,
+  "num_followers": 4847,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDhkMjhhZWI3Nzg4NDFiM2Q1MmYwYzYyMzA3ZDk3N2E4",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGM2ZjU2ZDYzOGEyYzUzOTZiNmNmOWMyODQ3NmU2Y2Fh",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 188307,
       "name": "SCANDALOSA",
       "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -671,18 +671,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
+        "name": "Don Dada",
+        "url": "https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb"
       },
       "artists": [
         {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Proper Villains",
+          "url": "https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S"
         }
       ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
+      "duration_ms": 185434,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Don Dada",
-        "url": "https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb"
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
       },
       "artists": [
         {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "Proper Villains",
-          "url": "https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S"
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
         }
       ],
-      "duration_ms": 185434,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5"
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "6 un caxxo di rave",
-        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
-      },
-      "artists": [
-        {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
-        },
-        {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "6 un caxxo di rave",
-      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "NYC2MIA (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 189152,
       "name": "NYC2MIA - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
+      },
+      "artists": [
+        {
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+        },
+        {
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+        }
+      ],
+      "duration_ms": 320971,
+      "name": "Moisture - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "I\u2019m Calling You From My Dreams",
-        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
-      },
-      "artists": [
-        {
-          "name": "Matilde Davoli",
-          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Tell Me What You See",
-      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Malcostume",
         "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
       },
@@ -1163,6 +1167,38 @@
       "duration_ms": 238074,
       "name": "Insegnami la vita",
       "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "I\u2019m Calling You From My Dreams",
+        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
+      },
+      "artists": [
+        {
+          "name": "Matilde Davoli",
+          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Tell Me What You See",
+      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Superomantico",
+        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
+      },
+      "artists": [
+        {
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
+        }
+      ],
+      "duration_ms": 161302,
+      "name": "Superomantico",
+      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1211,22 +1247,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
-      },
-      "artists": [
-        {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
-        }
-      ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "L'Incantesimo Delle Ciliegie",
         "url": "https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa"
       },
@@ -1267,22 +1287,6 @@
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Mystic Motel",
-        "url": "https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4"
-      },
-      "artists": [
-        {
-          "name": "Laila Al Habash",
-          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6xktijW71ZdOvRNoWwBQU4"
     }
   ],
   "unique_name": "Pride Italia",

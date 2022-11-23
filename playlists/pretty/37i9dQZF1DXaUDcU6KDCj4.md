@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Andy Shauf
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,857 likes - 160 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,980 likes - 160 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 59 | [Burn](https://open.spotify.com/track/5OXKRcuhKDHZgAWGl2dKKJ) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 4:24 |
 | 60 | [Thinkin' On You](https://open.spotify.com/track/0bMHwCKXAJJNbiyzpq8Zeb) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Thinkin' On You](https://open.spotify.com/album/6xINh0FKm5h00HsQAUsHIp) | 3:09 |
 | 61 | [Turning Stones](https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [Turning Stones](https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE) | 2:26 |
-| 62 | [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 |
+| 62 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 |
 | 63 | [The Grass Widow In The Glass Window](https://open.spotify.com/track/3WQoagvXfwFT9Q8CZL5nEm) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [The Grass Widow In The Glass Window](https://open.spotify.com/album/6vZueLAOgN635kuL2o4lR9) | 6:23 |
 | 64 | [Another Night](https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 2:51 |
 | 65 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 160 | [Blood Moon](https://open.spotify.com/track/5MO0UtyOvEgRWSIZCuPIP9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Blood Moon](https://open.spotify.com/album/1KG0u5ZqDPcJJSP6BFY1au) | 2:48 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDhhODA5MzcyZDQzZDE1YzZmYWUzN2E1OWE2YTcxMmQw`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDUxN2I2MjVhMmFkNmYwZTQxZjk0Y2M5YzM0NmI5ZTFi`

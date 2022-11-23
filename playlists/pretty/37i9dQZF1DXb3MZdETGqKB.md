@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,695 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,745 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 48 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 |
 | 49 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
 | 50 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
-| 51 | [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 |
+| 51 | [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 |
 | 52 | [It Is What It Is](https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh) | [Bill Daniels](https://open.spotify.com/artist/1AaxjORCdqUfWScr7UACJT) | [It Is What It Is](https://open.spotify.com/album/2Ktr9SyLhkvAKtvBEMqcoF) | 3:01 |
 | 53 | [Darkness I Feel](https://open.spotify.com/track/43haQPyxARYypn8u8ocsym) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Darkness I Feel](https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj) | 3:11 |
 | 54 | [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 78 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 |
 | 79 | [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 |
 
-Snapshot ID: `MTY2NjM2NTc2MywwMDAwMDAwMDk2MTRlYThjYmU4NGEwNzEwZjQxOWVhOTA3Nzk1NzM3`
+Snapshot ID: `MTY2NjM2NTc2MywwMDAwMDAwMGNlYTllZDIyNWEyNTg1ZTgxM2ZiMmIwYmI4YzRlMDEz`

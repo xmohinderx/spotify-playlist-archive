@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 55869,
+  "num_followers": 55863,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGFlNDFlMGRiOWVmNTM3MzAzYmEyMmRiYzMwMTM0NzE2",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDcxZDVjZDk1NGIzODgzZTIzY2M1MzE3NDYzZDY5NjFh",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -667,38 +667,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Los Numero 1",
-        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
-      },
-      "artists": [
-        {
-          "name": "El General Larguito",
-          "url": "https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Navidad Sin Mi Madre",
-      "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "60 \u00c9xitos",
-        "url": "https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "La Correa",
-      "url": "https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Maria Diaz y Luis Vargas",
         "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 267493,
       "name": "La Torera",
       "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Tatico Henr\u00edquez",
+        "url": "https://open.spotify.com/album/0JD61srO8ptHAXAghonKen"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Los Numero 1",
+        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
+      },
+      "artists": [
+        {
+          "name": "El General Larguito",
+          "url": "https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Navidad Sin Mi Madre",
+      "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -791,8 +791,8 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Tatico Henr\u00edquez",
-        "url": "https://open.spotify.com/album/0JD61srO8ptHAXAghonKen"
+        "name": "60 \u00c9xitos",
+        "url": "https://open.spotify.com/album/49AtvL6fjFXMg8ckR7cFjm"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
         }
       ],
-      "duration_ms": 163866,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl"
+      "duration_ms": 168489,
+      "name": "La Correa",
+      "url": "https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9"
     },
     {
       "added_at": "2019-09-09 17:49:24",

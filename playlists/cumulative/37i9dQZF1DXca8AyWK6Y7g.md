@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,412 songs - 3 day 0 hr 21 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,413 songs - 3 day 0 hr 24 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Flight](https://open.spotify.com/track/5QKcEj7uhcOG9xeKIV5I5B) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Flight](https://open.spotify.com/album/4jKwV2mPQqqyNPXiEYKux1) | 3:06 | 2019-09-14 | 2020-01-16 |
 | [Flipside](https://open.spotify.com/track/6vm88lvfgozG18wZR4j1oI) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Flipside](https://open.spotify.com/album/6F3bsbbfEc9KNexxUP6TlO) | 3:04 | 2021-09-28 | 2021-11-20 |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/69aQw9lS9lhGGnGcuoX5c7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You \(Remixes\)](https://open.spotify.com/album/61MBQ27mg5uDNDk1ANjPvq) | 3:20 | 2019-05-26\* | 2019-09-14 |
+| [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/0ITryF6orazSmjZ7HulP4i) | [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Fly Me To The Moon](https://open.spotify.com/album/6TXk4ZijQvQcq5EqHkJ5bI) | 2:52 | 2020-06-12 | 2021-10-12 |
 | [Flying](https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Flying](https://open.spotify.com/album/6MAUGRgUwKMzw55LI6JXcQ) | 3:18 | 2022-08-19 | 2022-09-24 |
 | [FMF!](https://open.spotify.com/track/2Zfz6a8l5kVFevqnJ7p0nN) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Everything I Wish I Told You](https://open.spotify.com/album/4f1Qlmf19NGCYXxYR7kACp) | 3:01 | 2021-02-27 | 2021-11-05 |
@@ -1324,7 +1325,7 @@
 | [Upside Down](https://open.spotify.com/track/4r9KYNUd7IX94A97uUdBNN) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5) | [Upside Down](https://open.spotify.com/album/3T4tIHIe10qzjnKWqSPZAy) | 3:09 | 2019-05-26\* | 2020-02-19 |
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2021-02-22 | 2021-05-27 |
 | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/track/5SRbCgZtJwjql6ITCrRmeV) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/album/2O1LT1yAOyvF0WIssbcdQu) | 3:36 | 2020-04-18 | 2021-11-06 |
-| [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 | 2022-11-18 |  |
+| [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 | 2022-11-18 | 2022-11-23 |
 | [used to](https://open.spotify.com/track/1qGkpyAYRid7blCDbEpT2w) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Cassette Tapes](https://open.spotify.com/artist/720HJ3Ql6chO1V56okaUSV) | [used to](https://open.spotify.com/album/5OaolzqDjg5aoWEhTNgQMq) | 2:47 | 2020-05-30 | 2021-11-10 |
 | [Used To You](https://open.spotify.com/track/7t3Ldw0z7zS0WyzlV7aJGV) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Used To You](https://open.spotify.com/album/1wsDnm2tdaK86BQs5gth5f) | 3:12 | 2019-05-26\* | 2019-06-15 |
 | [Vertigo](https://open.spotify.com/track/3oPo4NNfp4CZCtV5I6P7Bm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vertigo](https://open.spotify.com/album/2z6ruRHlcugqblwV17FfqA) | 2:50 | 2022-03-11 | 2022-03-26 |

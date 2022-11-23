@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217104,
       "name": "Family For Christmas",
       "url": "https://open.spotify.com/track/4gc4UD9nony5vYnR5nxDI0"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 142493,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq"
@@ -2272,6 +2272,24 @@
     },
     {
       "album": {
+        "name": "Last Minute Fathers",
+        "url": "https://open.spotify.com/album/2kEju0iGdHYoVsHdCOf3u3"
+      },
+      "artists": [
+        {
+          "name": "dwi",
+          "url": "https://open.spotify.com/artist/0n0BULRAX5VITDuIraw1kl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283247,
+      "name": "Last Minute Fathers",
+      "url": "https://open.spotify.com/track/1Yizm8VL9EBz1MZqmrLSpB"
+    },
+    {
+      "album": {
         "name": "Last Xmas",
         "url": "https://open.spotify.com/album/2u9Rn2STUFI6gtvsoHRTqH"
       },
@@ -2835,7 +2853,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 223266,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,117 likes - 105 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,116 likes - 105 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AMAZING TIMELESS VACATION](https://open.spotify.com/track/0GCxSxEsGCfavLuttWUxlw) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a), [萬妮達](https://open.spotify.com/artist/3O8ycHPjfgLnrJ90xeXp2C) | [TRIP](https://open.spotify.com/album/73NxjJkH3RwvdSjYa6CWt0) | 4:03 |
+| 1 | [AMAZING TIMELESS VACATION](https://open.spotify.com/track/0GCxSxEsGCfavLuttWUxlw) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [TRIP](https://open.spotify.com/album/73NxjJkH3RwvdSjYa6CWt0) | 4:03 |
 | 2 | [一個人狂歡](https://open.spotify.com/track/0KLdue5leosj23yDKQZUFP) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [一個人狂歡](https://open.spotify.com/album/3Evnb3YXbdhFrEEljrA5ci) | 3:10 |
 | 3 | [我回來了](https://open.spotify.com/track/0COaAhiIV1h2Ioskf8REFz) | [Nan Quan Mama](https://open.spotify.com/artist/48Smhc0ISwYYRSad1uXSns) | [我回來了](https://open.spotify.com/album/5NC7o098LwcYEQHX34SXpq) | 3:49 |
 | 4 | [免死金牌](https://open.spotify.com/track/4tyzI1J819jmIldlo1fQGg) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [免死金牌](https://open.spotify.com/album/4mg1qNudoBBoRTwRtZp3cO) | 4:21 |

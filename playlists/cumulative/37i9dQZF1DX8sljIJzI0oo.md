@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Mixtape \#026 coming in hot 🔥 featuring Bizarrap\. Find a new mixtape every Thursday.
+> Mixtape \#026 is coming in hot 🔥 featuring Bizarrap\. Find a new mixtape every Thursday.
 
 581 songs - 1 day 9 hr 20 min - [published](https://open.spotify.com/playlist/0hSeYoVweORyDdvXeDmbIS)
 

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 178139,
+  "num_followers": 178286,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGZhNTQ0MDczZGQwMDJlOGUwZDI0OWRkOTZjMmNmMzlm",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGM4MjdjZDZjOGM1NzA4YTlkMjM0MWI1Y2JlZDgyMzk2",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Going Back to My Roots",
-      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Going Back to My Roots",
+      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Miracles (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 338453,
       "name": "Heaven of My Life - Full Length Album Mix",
       "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",

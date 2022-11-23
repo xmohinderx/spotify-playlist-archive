@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Bizarrap y Duki
 
-2,860 songs - 6 day 11 hr 40 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,860 songs - 6 day 11 hr 38 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,7 +1367,7 @@
 | [Las Mañanas](https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bellos Años](https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au) | 2:26 | 2022-04-08 | 2022-04-16 |
 | [las vegas](https://open.spotify.com/track/1pAZ7AD3g1jOpDFJgWldya) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [las vegas](https://open.spotify.com/album/2GXwcJoXK2TQXXlXNoki5T) | 3:15 | 2022-09-09 | 2022-09-17 |
 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2022-10-07 | 2022-10-15 |
-| [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 4:13 | 2022-11-18 |  |
+| [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 | 2022-11-18 |  |
 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 | 2022-11-04 | 2022-11-12 |
 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 | 2022-08-19 | 2022-08-27 |
 | [Lealtad de Barrio](https://open.spotify.com/track/5gnFDvCUXU8IkEr9IilRjM) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Lealtad de Barrio](https://open.spotify.com/album/3uKdPOWpj3d6KEsrNfHtu8) | 3:30 | 2022-02-04 | 2022-02-12 |
@@ -2110,7 +2110,7 @@
 | [Que Nunca Sepa](https://open.spotify.com/track/6hrC1xs7FbpJzKyaWTYTbI) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Que Nunca Sepa](https://open.spotify.com/album/409j2gQB7jbyuIHQdcx8lF) | 3:23 | 2022-02-04 | 2022-02-12 |
 | [Que Pasaría](https://open.spotify.com/track/3BsCi8MKJcoO36EniFs1f7) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Que Pasaría](https://open.spotify.com/album/7L17MHmDXzJI4bkdQmShl4) | 3:18 | 2022-11-04 | 2022-11-12 |
 | [Que Quieres de Mi](https://open.spotify.com/track/4J8vi3UEoxaSwuy0r2TnTu) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Que Quieres de Mi](https://open.spotify.com/album/2vF2OqfqgbCG7SMK9iDauU) | 3:00 | 2022-06-24 | 2022-07-02 |
-| [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo Por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2022-11-18 |  |
+| [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2022-11-18 |  |
 | [Que Sea Bien](https://open.spotify.com/track/7k44TCZBNM6dqVuOku4fCg) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Que Sea Bien](https://open.spotify.com/album/2IIWWzBAetALlgarSr0r4I) | 2:59 | 2022-04-01 | 2022-04-09 |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-07 | 2022-10-15 |
 | [Que Te Diga La Luna](https://open.spotify.com/track/3yMLwuafxI9Bjt1uglo6Bl) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Que Te Diga La Luna](https://open.spotify.com/album/6edehg5uNMB2ylPBCF3hkg) | 3:09 | 2022-07-15 | 2022-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,386 likes - 39 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,365 likes - 39 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

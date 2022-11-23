@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 285871,
+  "num_followers": 285857,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg4MDg0OCwwMDAwMDAwMDlmMWE5MTI4NWM4ZmM0ZjFiNjc2ZTM1MTYwYjlkOWJi",
+  "snapshot_id": "MTY2Nzg4MDg0OCwwMDAwMDAwMGQ2OWVlMGY1Y2FmMjI5ZjgzOGQ0YzhlNzY0OWYwNDk0",
   "tracks": [
     {
       "added_at": "2022-11-08 04:14:08",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "La Ni\u00f1a del Tambor",
-        "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 266808,
-      "name": "Jes\u00fas",
-      "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
         "name": "Abriendo Puertas",
         "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 322066,
       "name": "M\u00e1s All\u00e1 - Beyond",
       "url": "https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
+        "name": "La Ni\u00f1a del Tambor",
+        "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 266808,
+      "name": "Jes\u00fas",
+      "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Mi Navidad (Remastered)",
-        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 195743,
-      "name": "Dios nos bendecir\u00e1",
-      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
         "name": "Navidad, Navidad",
         "url": "https://open.spotify.com/album/1LBvVHmVIiLz40w6OYUT0d"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 166300,
       "name": "Navidad, Navidad",
       "url": "https://open.spotify.com/track/046nCoUyoSiuK2VXxoCYy8"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
+        "name": "Mi Navidad (Remastered)",
+        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 195743,
+      "name": "Dios nos bendecir\u00e1",
+      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Amor Navide\u00f1o",
-        "url": "https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV"
+        "name": "As\u00ed Es La Navidad",
+        "url": "https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 225125,
-      "name": "Santa Quiero",
-      "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
+      "duration_ms": 189266,
+      "name": "As\u00ed Es La Navidad",
+      "url": "https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
+        "name": "Amor Navide\u00f1o",
+        "url": "https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "Santa Quiero",
+      "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
         "name": "Posada",
         "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 286320,
       "name": "Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/6nMPySUjYhQcGNGR51eGPj"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
-        "name": "As\u00ed Es La Navidad",
-        "url": "https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "As\u00ed Es La Navidad",
-      "url": "https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
+          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Se Va Diciembre",
+      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 181146,
       "name": "Va a nevar (with the Patrick Williams Orchestra)",
       "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
-          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Se Va Diciembre",
-      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 215851,
+      "name": "Mis Deseos",
+      "url": "https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
         "name": "\u00a1Feliz Navidad!",
         "url": "https://open.spotify.com/album/0M3p54IgNDKl6R1eNvvTZh"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 177703,
       "name": "Burrito Sabanero",
       "url": "https://open.spotify.com/track/1f6KVDUrTzBTYzCfjAh5mp"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 215851,
-      "name": "Mis Deseos",
-      "url": "https://open.spotify.com/track/1s3oRXdJVLMPvsqCZMOGxz"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Navidad Mexicana",
-        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
+        "name": "Naviduetos Vol. 1",
+        "url": "https://open.spotify.com/album/3wAnzbWgdDiY0n7EhNBtk4"
       },
       "artists": [
         {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/3G2l8ozoaFgjwxUq8Ars9G"
+        },
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/2RgwK55VFMeb9DkiSaNJIo"
         }
       ],
-      "duration_ms": 178720,
-      "name": "Llorar\u00e1s en Navidad",
-      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
+      "duration_ms": 182042,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs"
     }
   ],
   "unique_name": "Feliz Navidad",

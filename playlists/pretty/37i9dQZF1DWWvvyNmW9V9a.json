@@ -1,12 +1,12 @@
 {
   "description": "The petition to add Sabrina Carpenter to The Eras Tour starts here.",
-  "num_followers": 1712074,
+  "num_followers": 1710779,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAxNTk5MywwMDAwMDAwMDRiMDY1ZjA5ODM2NDQzMmQ4Y2NkZTExZGQyOGM1YmQ3",
+  "snapshot_id": "MTY2OTE1NzI3MiwwMDAwMDAwMDIyMjJlZGRjNmIyZDIyZTE3ZDBkMTAyN2U2NDczMTli",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -93,20 +93,36 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+        "name": "Nonsense (Sped Up Version)",
+        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+      "duration_ms": 137514,
+      "name": "Nonsense - Sped Up Version",
+      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
+    },
+    {
+      "added_at": "2022-08-23 03:41:03",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2022-10-26 03:02:34",
@@ -133,20 +149,20 @@
       "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
     },
     {
-      "added_at": "2022-08-23 03:41:03",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
       "artists": [
         {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -163,22 +179,6 @@
       "duration_ms": 161917,
       "name": "deathmatch",
       "url": "https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Nonsense (Sped Up Version)",
-        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Nonsense - Sped Up Version",
-      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
     },
     {
       "added_at": "2022-07-18 04:05:40",
@@ -472,7 +472,7 @@
       "added_at": "2022-08-29 16:05:57",
       "album": {
         "name": "It's Corn",
-        "url": "https://open.spotify.com/album/6UA672BEiCeihRReCCnlPb"
+        "url": "https://open.spotify.com/album/6k2aT1q9lervaS6Iy3Fqg9"
       },
       "artists": [
         {
@@ -490,7 +490,7 @@
       ],
       "duration_ms": 167733,
       "name": "It's Corn",
-      "url": "https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG"
+      "url": "https://open.spotify.com/track/4mxSjy9pz9JxWlNKU28PVm"
     },
     {
       "added_at": "2022-08-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Sofia Reyes
 
-2,832 songs - 6 day 5 hr 53 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,832 songs - 6 day 5 hr 52 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,7 +1341,7 @@
 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 | 2022-02-18 | 2022-02-26 |
 | [Last Christmas](https://open.spotify.com/track/1wAKmYDAowcKs5B0vO32Kn) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [Mi Regalo](https://open.spotify.com/album/5SpmdxUqsrZGgQ63bQy5Wz) | 3:34 | 2021-12-24 | 2022-01-08 |
 | [LATE](https://open.spotify.com/track/2CR2smbfNpSXK6KraQ0xT4) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [LATE](https://open.spotify.com/album/6EEEh3KWLTEueqlNY8WrC1) | 3:22 | 2022-06-10 | 2022-06-18 |
-| [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 4:13 | 2022-11-18 |  |
+| [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 | 2022-11-18 |  |
 | [Latina](https://open.spotify.com/track/0IZSFGODly7pYchJ5y3u4u) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Latina](https://open.spotify.com/album/2k8wbyTNjHAt9XqUqZRz9p) | 2:35 | 2022-07-15 | 2022-07-23 |
 | [LAURA PAUSINI](https://open.spotify.com/track/7Bupzsl4guDXKZA2VnCbI3) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [LAURA PAUSINI](https://open.spotify.com/album/2ZJhBx40WM4lt3ZS3mZjOJ) | 2:38 | 2022-01-21 | 2022-01-29 |
 | [Layback](https://open.spotify.com/track/4nRypz0G0SxZ3W8GLyb2oq) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Layback](https://open.spotify.com/album/2RwfJHKZI6BjIYRhfaqPjw) | 3:03 | 2022-07-08 | 2022-07-16 |
@@ -2103,7 +2103,7 @@
 | [Que Raro](https://open.spotify.com/track/3ojvSojw2CF9fQDoAfAqJG) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Que Raro](https://open.spotify.com/album/7dDFKnpDJYSKDLJ2941cgu) | 2:52 | 2022-07-01 | 2022-07-09 |
 | [Que Rica](https://open.spotify.com/track/0GFhxvcbEKTzsc8VjiLipD) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Que Rica](https://open.spotify.com/album/7dCSJbxphSUmZjMTDziBSJ) | 3:39 | 2022-11-04 | 2022-11-12 |
 | [que rica](https://open.spotify.com/track/1KoqJSArMWy9VOBdDY0u1L) | [Laya Kalima](https://open.spotify.com/artist/486wYu7oGhLQ5LjKPBcCMM) | [que rica](https://open.spotify.com/album/77INBx21P4JP4eVhKPKvM5) | 2:24 | 2022-10-28 | 2022-11-05 |
-| [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo Por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2022-11-18 |  |
+| [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2022-11-18 |  |
 | [QUE SE JODA](https://open.spotify.com/track/5CdmlxPbX9OFHhNvby0ah6) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [QUE SE JODA](https://open.spotify.com/album/4lJe9DmLyk7oejxrGCnJZU) | 2:52 | 2022-08-26 | 2022-09-03 |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-07 | 2022-10-15 |
 | [Que Sufra, Que Chupe y Que Llore \- Bachata Version](https://open.spotify.com/track/5mSBjjqyRgHjshFh9mag56) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Mayker](https://open.spotify.com/artist/0QidC9In3L5jgJHvm7IUs7) | [Que Sufra, Que Chupe y Que Llore \(Bachata Version\)](https://open.spotify.com/album/2xJUOrZFbQvLwwP3vGBITq) | 3:29 | 2021-12-31 | 2022-01-15 |

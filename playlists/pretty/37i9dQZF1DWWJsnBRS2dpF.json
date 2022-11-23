@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 4882,
+  "num_followers": 4872,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMGY2NmNjZjM2ZjljNjk2NGY1ZWYwMjFiYTJkMjI1ZWJi",
+  "snapshot_id": "MTY2NDY0MTI4NCwwMDAwMDAwMDMwNTJmZmI2MWFhOGFjOWYzMzBlNWU2YTEyNWM3NThi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 230253,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
     },
     {
       "added_at": "2022-10-01 16:21:24",

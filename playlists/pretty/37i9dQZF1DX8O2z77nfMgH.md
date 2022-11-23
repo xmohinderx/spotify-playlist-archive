@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Bizarrap y Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,832 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,908 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 10 | [Aroma](https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Aroma](https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC) | 3:09 |
 | 11 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 |
 | 12 | [Delirio Y Tortura](https://open.spotify.com/track/1pyTTfElvt1z76JqKPMxzh) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Delirio Y Tortura](https://open.spotify.com/album/6PD9EoGEzIkzqusA8Z59oq) | 3:25 |
-| 13 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 4:13 |
+| 13 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
 | 14 | [Al Mando](https://open.spotify.com/track/0uEQGVBz5bCjBoomEm9GNL) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Al Mando](https://open.spotify.com/album/3KUjFdjVadbFYgQ3Q7Dgz4) | 3:08 |
 | 15 | [Señorita](https://open.spotify.com/track/4iyxmLX2trAgmZmqssUqgp) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3) | [Señorita](https://open.spotify.com/album/1F5xX2vMlWLJHCln1LcPLU) | 3:01 |
 | 16 | [SOMOS NOSOTROS](https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SOMOS NOSOTROS](https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD) | 2:02 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Pa La Vuelta](https://open.spotify.com/track/60j2ltMI9yTYlyv6rhpCHn) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Pa La Vuelta](https://open.spotify.com/album/1BjIbXjHacTp8MBmroBu1s) | 3:04 |
 | 39 | [QUIÉN SABE](https://open.spotify.com/track/6JaSyLv5w2O0GADH2ZduBy) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk) | [QUIÉN SABE](https://open.spotify.com/album/1w5O1Y3XeePUazj32RRn4J) | 3:01 |
 | 40 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
-| 41 | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo Por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 |
+| 41 | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 |
 | 42 | [Victoria](https://open.spotify.com/track/6UnzsDkPIQyDJYRWSBklvx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Victoria](https://open.spotify.com/album/1sSacFQhyVPpkM7pXzt4gs) | 3:41 |
 | 43 | [Velocidad](https://open.spotify.com/track/1GXI9iCeN0bHX61ZoN93z1) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Foreign Teck](https://open.spotify.com/artist/5HviKGcHfUcbesgUw0PLzX) | [Respira](https://open.spotify.com/album/7CbhZdMcSPJpsfjFRuwRcj) | 2:14 |
 | 44 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 |

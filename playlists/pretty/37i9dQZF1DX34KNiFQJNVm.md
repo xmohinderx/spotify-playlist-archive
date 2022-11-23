@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Amorim, BK, Zé Felipe com Ana Castela e Luan Pereira e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,909 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,717 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 |
 | 30 | [Agape](https://open.spotify.com/track/0zkWmS5tEFgaHaXTSGQ2b1) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Agape](https://open.spotify.com/album/4qbAmVXPe2NQZ9EiHVwZcE) | 3:23 |
 | 31 | [Naughty](https://open.spotify.com/track/0MsQenBjt4y19CR8gir07B) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Naughty](https://open.spotify.com/album/4lcDfmAb7vwb1pgx5IedmJ) | 2:39 |
-| 32 | [Cremosa](https://open.spotify.com/track/0C7LI3KMB0Q5p0AEOJfv7u) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY) | [Ao Vivo em Goiás](https://open.spotify.com/album/2MlzdcGOOUh49QHB32XCd1) | 3:09 |
+| 32 | [Cremosa \- Ao Vivo](https://open.spotify.com/track/0C7LI3KMB0Q5p0AEOJfv7u) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY) | [Ao Vivo em Goiás](https://open.spotify.com/album/2MlzdcGOOUh49QHB32XCd1) | 3:09 |
 | 33 | [Eu Acho Que Ela Vai Namorar \- Ao Vivo](https://open.spotify.com/track/6Vc5Icj7dDuMJiG0rAcedG) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos, Vol 1](https://open.spotify.com/album/5fbuBrne16AqiMXEpe72SY) | 2:32 |
 | 34 | [Gostosa Demais \- Ao Vivo](https://open.spotify.com/track/5jKuFADSoAmYnvkvuUR9m8) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI) | [Gostosa Demais \(Ao Vivo\)](https://open.spotify.com/album/1fc2jG5jv0ZV4qecJ8I8WA) | 2:45 |
 | 35 | [Printzim](https://open.spotify.com/track/3Dw2Hr2QbFyNSHieMUVfMw) | [Dan Ventura](https://open.spotify.com/artist/5am6JZ05n3QyqYMyD9CgSn), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Upgrade, EP.1](https://open.spotify.com/album/1vmEOTtnrLjKCMFkBIGipv) | 2:12 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 63 | [Espaço Vazio](https://open.spotify.com/track/5Yn11CRC6vMxdadpNJwBkW) | [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Espaço Vazio](https://open.spotify.com/album/7k4wlQqzW0055kZn2Q6ee7) | 2:17 |
 | 64 | [Figurinha Rara](https://open.spotify.com/track/4BNXF0LghgZ6XOCrUtAHox) | [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Figurinha Rara](https://open.spotify.com/album/6yr5LeMdfWgCOcn6X9XTHd) | 2:44 |
 | 65 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
-| 66 | [Culpado](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Culpado](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
+| 66 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
 | 67 | [A Dança da Favela \(Baila Vini\)](https://open.spotify.com/track/0ZKVnSKyRU4RSFO7bKwqMw) | [Arlindinho](https://open.spotify.com/artist/1rn3KQS1oYAHFdQbL5APYq), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [A Dança da Favela \(Baila Vini\)](https://open.spotify.com/album/0OzKLMgsfMjfPGi7xAig4f) | 2:48 |
 | 68 | [Só Me Usou](https://open.spotify.com/track/0OEpS1crX6hJeqaVi6Dz87) | [Samarony](https://open.spotify.com/artist/4o1QghKQF2AWdomKx3xHGq) | [Só Me Usou](https://open.spotify.com/album/1StZyYJcXvj6wRybyXg9N2) | 2:54 |
 | 69 | [Rainha da Revoada](https://open.spotify.com/track/6W96djuVRJXgx16B97ciem) | [Luanna Rayssa](https://open.spotify.com/artist/2UX84KLflp2nu4FCQX81VX), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [MK no Beat](https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC) | [Rainha da Revoada](https://open.spotify.com/album/5y9B3Fo9FbVO4sGPu8jf6z) | 3:06 |

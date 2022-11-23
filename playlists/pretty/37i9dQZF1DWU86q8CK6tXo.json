@@ -1,12 +1,12 @@
 {
   "description": "Music by female-identifying musicians ONLY! Cover: <a href=\u201cspotify:artist:1GDbiv3spRmZ1XdM1jQbT7\u201d>Natti Natasha</a>. ",
-  "num_followers": 21702,
+  "num_followers": 21716,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMGY4OTFiZTBiYTI5NDg4ZTlhZGM5MDRjMjYxNWY3ZDMx",
+  "snapshot_id": "MTY2NzQwNDE5OCwwMDAwMDAwMDRkOTI2Y2M5NzI4N2U5MWNiMWQ2NzkwMGZjNGZkY2Ex",
   "tracks": [
     {
       "added_at": "2022-11-02 15:49:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
-        "name": "Lebra Jolie",
-        "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        }
-      ],
-      "duration_ms": 181541,
-      "name": "What Kinda",
-      "url": "https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 206240,
       "name": "Hold My Halo",
       "url": "https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
+        "name": "Lebra Jolie",
+        "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "duration_ms": 181541,
+      "name": "What Kinda",
+      "url": "https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C"
     },
     {
       "added_at": "2022-11-02 15:49:58",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-11-02 15:49:58",
       "album": {
+        "name": "Thank You Very Much",
+        "url": "https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 327867,
+      "name": "Thank You Very Much",
+      "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
+    },
+    {
+      "added_at": "2022-11-02 15:49:58",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 159187,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD"
-    },
-    {
-      "added_at": "2022-11-02 15:49:58",
-      "album": {
-        "name": "Thank You Very Much",
-        "url": "https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 327867,
-      "name": "Thank You Very Much",
-      "url": "https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35"
     }
   ],
   "unique_name": "EQUAL US",

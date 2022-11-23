@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21196,
+  "num_followers": 21195,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwODAsZjcxZWI3ZTc1ZmJmZDExYTk0YjIwZGExNGVjOWIwMTg2YTYzYWUyOQ==",
+  "snapshot_id": "MTAwOTMsZmQxMzE2NDhlNmI1MTZiNmNiNmY3YjAyZDJkZGE1OTM5NWNjNWY4Mg==",
   "tracks": [
     {
       "added_at": "2022-11-11 16:41:32",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/0l1JgfeVpRKaF9Hd04fApo"
     },
     {
+      "added_at": "2022-11-22 19:08:54",
+      "album": {
+        "name": "Needed U",
+        "url": "https://open.spotify.com/album/3ATX4bLecWifezKKZ67zAo"
+      },
+      "artists": [
+        {
+          "name": "Venessa Michaels",
+          "url": "https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC"
+        }
+      ],
+      "duration_ms": 225028,
+      "name": "Needed U",
+      "url": "https://open.spotify.com/track/27LIalxllS0CO5uJmpufmn"
+    },
+    {
       "added_at": "2022-05-21 00:21:00",
       "album": {
         "name": "Dusk",
@@ -865,46 +881,6 @@
       "url": "https://open.spotify.com/track/5cxDKRfXUMLzf6Wasf7wSJ"
     },
     {
-      "added_at": "2022-04-15 15:30:53",
-      "album": {
-        "name": "Feel Flows (Vindata Remix)",
-        "url": "https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "Vindata",
-          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Feel Flows - Vindata Remix",
-      "url": "https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB"
-    },
-    {
-      "added_at": "2022-04-18 18:59:01",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 264966,
-      "name": "Don\u2019t Go Mad (feat. Seinabo Sey)",
-      "url": "https://open.spotify.com/track/3Cl8IGVb7E63EDIXTn5Pk7"
-    },
-    {
       "added_at": "2022-03-17 04:03:21",
       "album": {
         "name": "Dark Places",
@@ -963,30 +939,6 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
-    },
-    {
-      "added_at": "2022-09-22 19:44:28",
-      "album": {
-        "name": "Don\u2019t Look Down (feat. Linney)",
-        "url": "https://open.spotify.com/album/2cPDBEbEqCBsm9I2cxL9jj"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Don\u2019t Look Down (feat. Linney)",
-      "url": "https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe"
     },
     {
       "added_at": "2022-03-09 20:12:07",
@@ -1197,26 +1149,6 @@
       "url": "https://open.spotify.com/track/3yZfA14Zgp2UZyb5BysEa7"
     },
     {
-      "added_at": "2022-06-24 17:23:21",
-      "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Matangi",
-      "url": "https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk"
-    },
-    {
       "added_at": "2022-03-17 04:04:27",
       "album": {
         "name": "MENTAL (feat. Slump6s & glaive)",
@@ -1271,26 +1203,6 @@
       "duration_ms": 240937,
       "name": "The One",
       "url": "https://open.spotify.com/track/1DOBYtW1ttXbZaI7ekcbYF"
-    },
-    {
-      "added_at": "2022-07-15 19:39:47",
-      "album": {
-        "name": "Deep End (feat. Lil Skies)",
-        "url": "https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 131538,
-      "name": "Deep End (feat. Lil Skies)",
-      "url": "https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc"
     },
     {
       "added_at": "2022-06-27 01:50:07",
@@ -1495,22 +1407,6 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2022-06-24 17:29:36",
-      "album": {
-        "name": "minnesota is a place that exists",
-        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "minnesota is a place that exists",
-      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
     },
     {
       "added_at": "2022-06-24 17:30:03",
@@ -1793,26 +1689,6 @@
       "url": "https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa"
     },
     {
-      "added_at": "2022-07-21 20:49:26",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 260967,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i"
-    },
-    {
       "added_at": "2022-07-07 16:15:46",
       "album": {
         "name": "everythingeverydayeverything",
@@ -1843,6 +1719,26 @@
       "duration_ms": 171582,
       "name": "Really Lovers",
       "url": "https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr"
+    },
+    {
+      "added_at": "2022-07-21 20:49:26",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 260967,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i"
     },
     {
       "added_at": "2022-07-15 15:26:39",
@@ -1921,30 +1817,6 @@
       "url": "https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL"
     },
     {
-      "added_at": "2022-07-15 21:21:02",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Pell",
-          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
-    },
-    {
       "added_at": "2022-07-19 19:23:45",
       "album": {
         "name": "Oh Naur",
@@ -1975,22 +1847,6 @@
       "duration_ms": 171430,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9"
-    },
-    {
-      "added_at": "2022-07-21 20:49:51",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 88514,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/1jcde8M1qCE1peeOMkqNyy"
     },
     {
       "added_at": "2022-07-23 22:09:27",
@@ -2333,22 +2189,6 @@
       "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
     },
     {
-      "added_at": "2022-10-24 19:21:18",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
       "added_at": "2022-10-27 15:59:03",
       "album": {
         "name": "That Place",
@@ -2547,6 +2387,22 @@
       "duration_ms": 189318,
       "name": "Seventh Heaven",
       "url": "https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw"
+    },
+    {
+      "added_at": "2022-11-22 19:08:32",
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ"
+      },
+      "artists": [
+        {
+          "name": "West End Cove",
+          "url": "https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg"
     }
   ],
   "unique_name": "Moving Castle Monthly",

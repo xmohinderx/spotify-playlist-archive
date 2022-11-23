@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-338 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+339 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2021-12-11 | 2022-07-22 |
 | [New Legends](https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju) | 4:16 | 2022-05-28 | 2022-11-19 |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-03-25 | 2022-07-29 |
+| [Nino Brown](https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Nino Brown](https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6) | 2:24 | 2022-11-18 |  |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-19 | 2022-11-19 |
 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 | 2022-11-18 |  |
 | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/track/4hFTc150gq4Ue23UGmcQkr) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/album/6F6rBDWKBwCKU7FENgQQ2u) | 2:54 | 2021-12-11 | 2022-03-21 |
@@ -234,7 +235,7 @@
 | [P.O.T.S.](https://open.spotify.com/track/49mskkvB3mNXFDKHlPNp3L) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [Ray Knowledge](https://open.spotify.com/artist/6rC0wm1tZX8cq6vGsUNxad), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [P.O.T.S.](https://open.spotify.com/album/7McEoAsjKWQ89yo6MXH4uT) | 2:59 | 2021-12-11 | 2022-07-24 |
 | [Pacquiao](https://open.spotify.com/track/6w2giz0ZG7fs9PHT4FP2i2) | [Byron Woo](https://open.spotify.com/artist/3ltBIKrWePfULwrHiestrL), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Pacquiao](https://open.spotify.com/album/4bnYCXnh7eqMCsUvnPweii) | 2:44 | 2021-12-11 | 2022-07-22 |
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2021-12-11 | 2022-11-19 |
-| [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 | 2022-03-25 |  |
+| [Paradise](https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Paradise](https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq) | 3:02 | 2022-03-25 | 2022-11-23 |
 | [Past That \(feat\. V.Rose\)](https://open.spotify.com/track/4RAZVw5hRhcbO9RSD68C89) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Less Is More](https://open.spotify.com/album/5o5sGCSVgd723x2SiAXnww) | 3:08 | 2021-12-11 | 2022-07-27 |
 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 | 2022-05-28 | 2022-11-19 |
 | [Pay Out](https://open.spotify.com/track/7wH3aM5pWg7QiozAwRO5hp) | [B\. Angelique](https://open.spotify.com/artist/28gxHJKsLyxwAvRkHTm8yI) | [Pay Out](https://open.spotify.com/album/7eRMYXd2B07kavtladxS5m) | 3:16 | 2021-12-11 | 2022-07-25 |

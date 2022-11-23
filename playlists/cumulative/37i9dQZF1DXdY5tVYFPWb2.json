@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 274404,
       "name": "Blue Shadow",
       "url": "https://open.spotify.com/track/4wQ6srvjaUn9GhRQJGnkuw"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 331896,
       "name": "Bluest",
       "url": "https://open.spotify.com/track/4YVFgdx0WKl5YIm1oWmjs5"
@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Christmas Is All Yours",
+        "url": "https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208436,
+      "name": "Christmas Is All Yours",
+      "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
+    },
+    {
+      "album": {
         "name": "CITY BOY",
         "url": "https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE"
       },
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 240205,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
@@ -1593,6 +1611,28 @@
       "duration_ms": 222505,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/0oj0YxfvAPazQGptSG5QNv"
+    },
+    {
+      "album": {
+        "name": "Good Times (feat. M\u00d6SHI)",
+        "url": "https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3"
+      },
+      "artists": [
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        },
+        {
+          "name": "M\u00d6SHI",
+          "url": "https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Good Times (feat. M\u00d6SHI)",
+      "url": "https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u"
     },
     {
       "album": {
@@ -2539,7 +2579,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 273466,
       "name": "Music, Dance & Love",
       "url": "https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey"
@@ -2655,6 +2695,28 @@
       "duration_ms": 310932,
       "name": "Night Sliders",
       "url": "https://open.spotify.com/track/7LLQXJLVsqvZVGzwY6veMW"
+    },
+    {
+      "album": {
+        "name": "NO TIME",
+        "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160298,
+      "name": "NO TIME",
+      "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
     },
     {
       "album": {
@@ -3114,6 +3176,24 @@
     },
     {
       "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283933,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
+    },
+    {
+      "album": {
         "name": "Rhythm of Your Heart",
         "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
       },
@@ -3523,6 +3603,24 @@
       "duration_ms": 246376,
       "name": "SQUALL",
       "url": "https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0lNpnhKSPpNL5PLtV24J28"
+      },
+      "artists": [
+        {
+          "name": "Orland",
+          "url": "https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266642,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0BvOFRB4G7QCwChRG8skCq"
     },
     {
       "album": {
@@ -4516,6 +4614,24 @@
     },
     {
       "album": {
+        "name": "Musica Popular Japonesa",
+        "url": "https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M"
+      },
+      "artists": [
+        {
+          "name": "Shin Rizumu",
+          "url": "https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268213,
+      "name": "\u3042\u3044\u3064\u306eLIFE",
+      "url": "https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM"
+    },
+    {
+      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
       },
@@ -5107,7 +5223,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 299782,
       "name": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30a4\u30f3\u30b9\u30d4\u30ec\u30fc\u30b7\u30e7\u30f3 - feat. \u4eee\u8c37\u305b\u3044\u3089",
       "url": "https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ"
@@ -6739,7 +6855,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 192021,
       "name": "\u90fd\u4f1a\u30ac\u30fc\u30eb - DE DE MOUSE \u90fd\u4f1a1988 Mix",
       "url": "https://open.spotify.com/track/6qE0R51Y2ipO1x1bNPuv4O"

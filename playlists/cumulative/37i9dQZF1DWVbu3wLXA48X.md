@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-661 songs - 1 day 15 hr 15 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+662 songs - 1 day 15 hr 21 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Good News](https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Familiarise Yourself with Your Closest Exit](https://open.spotify.com/album/3o4Z0ilAUhqBdqby9lJftF) | 4:05 | 2022-03-10 | 2022-04-23 |
 | [Goodbye To Love \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/4YEcH1SdjdeEyvt4AGYeqI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Goodbye To Love \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6t1mm9i8L7rHsucCObxRbF) | 4:02 | 2022-07-01 | 2022-07-30 |
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-07-29 | 2022-08-12 |
-| [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 | 2022-10-13 |  |
+| [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 | 2022-11-18 |  |
+| [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 | 2022-10-13 | 2022-11-23 |
 | [Grocery Store](https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Grocery Store](https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd) | 2:14 | 2022-07-15 | 2022-08-05 |
 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 | 2021-12-16 | 2022-01-29 |
 | [Guess I'll Leave](https://open.spotify.com/track/49bCaCAiNNtJUgkfUjKKOt) | [Funny Death](https://open.spotify.com/artist/0eNACJMzyrU7OO31POSvIV) | [Funny Death](https://open.spotify.com/album/3Z7tXmTbhWS7JrPMqFcVT6) | 4:26 | 2022-01-13 | 2022-03-11 |

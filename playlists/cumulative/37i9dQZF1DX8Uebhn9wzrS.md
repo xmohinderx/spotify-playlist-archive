@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-1,064 songs - 1 day 16 hr 34 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+1,065 songs - 1 day 16 hr 36 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,7 +899,8 @@
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 |  |
 | [Sugah Kick](https://open.spotify.com/track/0jvBTSg9Rm8EDuhLg16f6N) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Plectrum](https://open.spotify.com/album/1zRI27Dk6Su1M9lvnrPYTo) | 2:08 | 2022-04-15 | 2022-10-14 |
 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1kEdK5L1BLpMjtPu1gGxPI) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 | 2022-04-15 | 2022-10-01 |
-| [Summer Haze](https://open.spotify.com/track/0Dp5rpjZ1JbZaxJwpnFd89) | [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1), [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs) | [Summer Haze](https://open.spotify.com/album/5r1HnrWdQ65ocYn4uWTh5W) | 1:51 | 2022-07-22 |  |
+| [Summer Haze](https://open.spotify.com/track/5CEC9H6oG7XGQvpPiXmTxt) | [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs), [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1) | [Summer Haze](https://open.spotify.com/album/4Z4Aw6mJ3AofuCNF3N2ZbB) | 1:51 | 2022-11-18 |  |
+| [Summer Haze](https://open.spotify.com/track/0Dp5rpjZ1JbZaxJwpnFd89) | [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1), [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs) | [Summer Haze](https://open.spotify.com/album/5r1HnrWdQ65ocYn4uWTh5W) | 1:51 | 2022-07-22 | 2022-11-23 |
 | [Summer Snow](https://open.spotify.com/track/45g0zOK7JxpwR62XPazrk1) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Summer Snow](https://open.spotify.com/album/1hFUIbvvsxuZt7pZv48AB2) | 2:40 | 2022-11-11 |  |
 | [Summer Zootin'](https://open.spotify.com/track/719XAnASrGlHVUwzJpLzTW) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Dan Walters](https://open.spotify.com/artist/5YaQxUz5IvvCbIb6k2UvJX), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Summer Zootin'](https://open.spotify.com/album/5BE7mXNGcZSCsPz02NBSh3) | 1:55 | 2022-05-27 | 2022-11-12 |
 | [Sun](https://open.spotify.com/track/0v0sKdw1NSfBzdINcCNU5k) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [Sun](https://open.spotify.com/album/0KXmZTQsEDtRUFq8JIjT1K) | 2:12 | 2022-04-15 |  |

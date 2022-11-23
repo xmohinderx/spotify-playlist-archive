@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,754 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,764 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 17 | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/track/5Q3yF8ebIG1emrWXXw9Tbt) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/album/0ikMJFtQr0X1g9j4OG3VY6) | 2:53 |
 | 18 | [Mustafa \(time to move you\)](https://open.spotify.com/track/0wIrCNimJJJsIn5HFYOAnW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 2:34 |
 | 19 | [birdsong on the breeze](https://open.spotify.com/track/37pcP8fWmhkYughTot3ixj) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [birdsong on the breeze](https://open.spotify.com/album/1EOY41d6sjC3K9ZIY9X7pt) | 3:47 |
-| 20 | [God Turn Me Into a Flower](https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [God Turn Me Into A Flower](https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J) | 6:25 |
+| 20 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
 | 21 | [reload](https://open.spotify.com/track/2O3J4YJwcqLMX0i5D3E5NI) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [reload](https://open.spotify.com/album/0UnY2rJpvRlNh1E0VbsBnY) | 2:09 |
 | 22 | [Sure Feels Good](https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Sure Feels Good](https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt) | 4:17 |
 | 23 | [The Evening Star](https://open.spotify.com/track/1PUQSEFBtW2W45Ih22Bstr) | [404 Guild](https://open.spotify.com/artist/3mgH0hO1O28tYKhsucv0PG) | [The Evening Star](https://open.spotify.com/album/5Ytr3Yq0LM2E4IYQDwXtco) | 2:54 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 53 | [Poolside](https://open.spotify.com/track/6hLl2nFQvImmvDbbyBpc7u) | [Grandamme](https://open.spotify.com/artist/4CTURx9lZOLdwV4z8kIoRv), [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Holy Mountain](https://open.spotify.com/album/0RHUyYyxidTJp1lDmxbaxB) | 2:04 |
 | 54 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 55 | [Waiting for My Turn to Speak](https://open.spotify.com/track/72AaUURjD0tS0mZUjkI9ok) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Realising How to Act in Certain Instances](https://open.spotify.com/album/46QVzhVxvOsqagSTuExF1t) | 2:20 |
-| 56 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
+| 56 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 |
 | 57 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 |
 | 58 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 59 | [GARDEN OF DOOM](https://open.spotify.com/track/6diRLocbSj9vV4FVNUOmCv) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [UNDER THE FLOOR](https://open.spotify.com/album/6IGooPMTgWHzDjS1QLHRkM) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [forget me](https://open.spotify.com/track/5xzcEBIRnbCQgwkZH6QTKS) | [Revenant](https://open.spotify.com/artist/48Icw89LgB8t7C7AnUIT0Q) | [forget me](https://open.spotify.com/album/0DOeWNGUzTLQxom5d82lJF) | 3:44 |
 | 100 | [halfpastnine](https://open.spotify.com/track/3IYCs6EBfgzgMgEaGyVMlm) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [room service? volume one](https://open.spotify.com/album/2cxjmF6qcxP2sEYLgwCHRv) | 3:24 |
 
-Snapshot ID: `MTY2ODcyOTYwMCwwMDAwMDAwMGNlNjJkYmM0YjkxYjI4NDg1YmFjZmYyYzNkZmRhNDdi`
+Snapshot ID: `MTY2ODcyOTYwMCwwMDAwMDAwMGRjMDEwYjU0MzkxZGIxMTg4NmIzNjk0ZmEzNGRjMzVl`

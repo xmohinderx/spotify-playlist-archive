@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-463 songs - 1 day 4 hr 38 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+464 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Glider \(from "Sable" Original Video Game Soundtrack\)](https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO) | 2:51 | 2021-09-10 | 2022-07-29 |
 | [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 | 2022-11-11 |  |
 | [GMT](https://open.spotify.com/track/7edS2WLGBDCqpNAsDdtJb2) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [GMT](https://open.spotify.com/album/1DxcIuPG0YT1kcPXOkdYL1) | 3:08 | 2022-07-15 | 2022-07-23 |
-| [God Turn Me Into a Flower](https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [God Turn Me Into A Flower](https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J) | 6:25 | 2022-11-18 |  |
+| [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 | 2022-11-18 |  |
+| [God Turn Me Into a Flower](https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [God Turn Me Into A Flower](https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J) | 6:25 | 2022-11-18 | 2022-11-23 |
 | [God's Country \(feat\. Wicca Phase Springs Eternal\)](https://open.spotify.com/track/6O3EBL1VMZAGNKsTU4RWPG) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [Wicca Phase Springs Eternal](https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 8:15 | 2021-06-03 | 2022-05-20 |
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2021-11-15 |  |
 | [Good As I Wanted](https://open.spotify.com/track/21M8SUR7G2U12TzGjsTOHZ) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Good As I Wanted](https://open.spotify.com/album/0w0s32RFHTDvL9nm9PZ0QD) | 4:42 | 2021-09-10 | 2022-07-26 |

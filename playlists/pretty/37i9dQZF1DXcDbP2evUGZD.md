@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,027 likes - 114 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,028 likes - 114 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 35 | [My Ocean](https://open.spotify.com/track/1x1dsKXn4vzzMWli3PaXe4) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [My Ocean](https://open.spotify.com/album/1GYc2ZVmStW924LtEIL0jd) | 4:18 |
 | 36 | [My Father](https://open.spotify.com/track/7h9DPxZTg2SYa7p5CXR5H7) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [30th Yoo Jae Ha Music Contest](https://open.spotify.com/album/5skmOItX1dPpVxAjH5tvMt) | 5:15 |
 | 37 | [XNFP \(feat.JUNE\)](https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [XNFP \(feat.JUNE\)](https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl) | 3:29 |
-| 38 | [YOU](https://open.spotify.com/track/1t4brrmAIeYghJ3QAAF5Ri) | [Lacuna](https://open.spotify.com/artist/3YHmBJQ2tOLkZNWXFubrKm) | [Summer Tales](https://open.spotify.com/album/4zOhFGKRXA7Mwe6c0sJRXD) | 3:34 |
-| 39 | [Far Away](https://open.spotify.com/track/13HukOYtNe0njFlMNI23kx) | [Lacuna](https://open.spotify.com/artist/3YHmBJQ2tOLkZNWXFubrKm) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 5:09 |
-| 40 | [I Love You](https://open.spotify.com/track/0j9XpKtdxFDekO2NFoZVUD) | [Lacuna](https://open.spotify.com/artist/3YHmBJQ2tOLkZNWXFubrKm) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 4:11 |
+| 38 | [YOU](https://open.spotify.com/track/1t4brrmAIeYghJ3QAAF5Ri) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Summer Tales](https://open.spotify.com/album/4zOhFGKRXA7Mwe6c0sJRXD) | 3:34 |
+| 39 | [Far Away](https://open.spotify.com/track/13HukOYtNe0njFlMNI23kx) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 5:09 |
+| 40 | [I Love You](https://open.spotify.com/track/0j9XpKtdxFDekO2NFoZVUD) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 4:11 |
 | 41 | [Drive Thru](https://open.spotify.com/track/5z780k9o8KNblm25qUVsjU) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [Moonshine](https://open.spotify.com/album/79RORAgkofZCqc3LAFZHNX) | 3:40 |
 | 42 | [BORDERLINE](https://open.spotify.com/track/7mva6GztaB4UsfHmAiPoZY) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [WHAT THE FUZZ](https://open.spotify.com/album/7e5VfiESUdEgnu0KZOufMu) | 4:40 |
 | 43 | [Moonshine](https://open.spotify.com/track/7e9Hl4QtVJxQFsaNurn6Tr) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [Moonshine](https://open.spotify.com/album/79RORAgkofZCqc3LAFZHNX) | 4:19 |

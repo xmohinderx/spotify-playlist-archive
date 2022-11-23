@@ -4,7 +4,7 @@
 
 > The most innovative and forward thinking metal right now\. Cover: Bring Me The Horizon
 
-139 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
+140 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Genetic](https://open.spotify.com/track/1D0cE6dFYxoJYZ0oqSQh9O) | [Human Impact](https://open.spotify.com/artist/4y0ph2gWvcF21ODif4ZpZ4) | [EP01](https://open.spotify.com/album/0FHiuFZn3IewRCOd1OWuTj) | 4:40 | 2022-07-26 | 2022-11-19 |
 | [Genetic](https://open.spotify.com/track/2Y5YCKkGcIfi3okuPGzj8v) | [Human Impact](https://open.spotify.com/artist/4y0ph2gWvcF21ODif4ZpZ4) | [Genetic](https://open.spotify.com/album/5ipqFcGfo5SkkDsmf2jZm4) | 4:42 | 2021-12-20 | 2022-07-29 |
 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 | 2022-07-26 | 2022-11-20 |
+| [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 | 2022-11-18 |  |
 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 | 2021-12-20 |  |
 | [Huge](https://open.spotify.com/track/4Nbyhv2YTR1Vc83Ajo1gJ9) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Huge](https://open.spotify.com/album/73LxhjxtI5MVlX33VeAwVV) | 9:14 | 2021-12-20 | 2022-11-19 |
 | [I Can't Breathe](https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 1:18 | 2022-07-26 |  |
@@ -116,7 +117,7 @@
 | [Shrinking Violet](https://open.spotify.com/track/4zShTZDgX2g7Y9QRyMnun0) | [Wear Your Wounds](https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3) | [Shrinking Violet](https://open.spotify.com/album/5zD1inajnq3JSOmFUFs6Nh) | 5:31 | 2021-12-20 | 2022-07-29 |
 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 | 2021-12-20 |  |
 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 | 2022-07-26 |  |
-| [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 | 2021-12-20 |  |
+| [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 | 2021-12-20 | 2022-11-23 |
 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 | 2022-07-26 |  |
 | [Storm](https://open.spotify.com/track/42NbA1vTZi5K9oGKojFV7O) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Håkan Hemlin](https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt) | [Storm](https://open.spotify.com/album/3EV5RQNHxvoJgyUN7ursVu) | 4:14 | 2021-12-20 | 2022-07-29 |
 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 | 2021-12-20 |  |

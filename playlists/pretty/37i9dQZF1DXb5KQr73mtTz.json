@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 6878,
+  "num_followers": 6901,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzQ2NiwwMDAwMDAwMDM4NDhiYzFlOTJhM2YxNTMwZDlkYmU2NjM5M2RmNjE0",
+  "snapshot_id": "MTY2OTEwNzU3MCwwMDAwMDAwMDJhMTE3ZTk1YTcyNTUzYzNkZjE4NmQyNjc1NzZlZjM2",
   "tracks": [
     {
       "added_at": "2022-11-03 09:24:26",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E"
     },
     {
+      "added_at": "2022-11-23 01:38:48",
+      "album": {
+        "name": "You Are The Sea (CURTAIN CALL OST Part.4)",
+        "url": "https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "You Are The Sea",
+      "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+    },
+    {
       "added_at": "2022-11-03 09:24:26",
       "album": {
         "name": "Eyebrow Moon \ub208\uc379\ub2ec",
@@ -683,6 +699,22 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 199577,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 230733,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 199577,
-      "name": "Into My Heart",
-      "url": "https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH"
     },
     {
       "added_at": "2022-11-03 09:24:26",
@@ -763,6 +779,22 @@
     {
       "added_at": "2022-11-03 09:24:26",
       "album": {
+        "name": "\uaf43",
+        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 258872,
+      "name": "\uc81c\ubc1c",
+      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
+    },
+    {
+      "added_at": "2022-11-03 09:24:26",
+      "album": {
         "name": "girl in red",
         "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
       },
@@ -795,38 +827,6 @@
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "Things I Loved Most 2",
-        "url": "https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 210581,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
-    },
-    {
-      "added_at": "2022-11-03 09:24:26",
-      "album": {
-        "name": "Memory of You",
-        "url": "https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV"
-      },
-      "artists": [
-        {
-          "name": "gyuri",
-          "url": "https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Memory of You",
-      "url": "https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",

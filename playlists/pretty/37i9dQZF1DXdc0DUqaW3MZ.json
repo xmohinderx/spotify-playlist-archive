@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 285993,
+  "num_followers": 286098,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDUxZTQyZTkxZDhhZWMyODhiZDcxM2MwZDFiMmJjZGMw",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDZlMjE4OGNmM2VkNWEzNTAxZWYzYTI0ODE4ODUwZWEx",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 248134,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Rendezvous (with Miraa May)",
         "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 150783,
       "name": "Rendezvous (with Miraa May)",
       "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 248134,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "OSHUN",
-          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "OSHUN",
+          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
     },
     {
       "added_at": "2022-06-20 14:19:42",

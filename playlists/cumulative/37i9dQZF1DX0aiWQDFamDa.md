@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-237 songs - 20 hr 31 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
+238 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/6TUsSMZfT1RvK6nvajCGWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 | 2022-05-18 | 2022-08-27 |
 | [Goor Katan](https://open.spotify.com/track/3QkYKsHpTagzTUuRmHtPEM) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/1bDV4bLFXF03SWcbuV9wrm) | 5:37 | 2022-05-18 | 2022-07-29 |
 | [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2022-06-29 | 2022-11-11 |
+| [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [He Was Too Good to Me](https://open.spotify.com/track/0qj5TGBUn4HqIYobLteQT8) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [The Richard Rodgers Songbook](https://open.spotify.com/album/6opNRfwAVL3qUz1ixuVAJ5) | 4:42 | 2022-05-18 | 2022-09-23 |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-11-10 |  |
 | [Here Be Dragons](https://open.spotify.com/track/0ak0lbOVx74oKQOAxsTD89) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi) | [Here Be Dragons](https://open.spotify.com/album/6gW7QW2o86q0VeW6OZhDdJ) | 8:29 | 2022-05-18 | 2022-09-23 |
@@ -136,7 +137,7 @@
 | [Left Alone](https://open.spotify.com/track/66EfRZTVNbOU5hQasXP1dK) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Left Alone](https://open.spotify.com/album/6R6AEilPIJEoPSDITHiJIn) | 6:04 | 2022-05-18 | 2022-07-29 |
 | [Left Alone](https://open.spotify.com/track/1S3iCPwpLZGi2Usp3fJWpy) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Cat Walk](https://open.spotify.com/album/3PtjzG5e4nTStVE0347nFb) | 6:07 | 2022-06-29 | 2022-09-23 |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2022-06-03 |  |
-| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 |  |
+| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 | 2022-11-23 |
 | [Little Person](https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 3:53 | 2022-05-18 |  |
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-05-18 |  |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2022-08-27 |

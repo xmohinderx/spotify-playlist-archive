@@ -4,7 +4,7 @@
 
 > Float away to the weightless sound of breakbeat.
 
-82 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
+83 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Time](https://open.spotify.com/track/3ueVK1E2huAZ5z1ZHYQh3M) | [Identical \(UK\)](https://open.spotify.com/artist/1OKXJiow05m9UQ37BsBliL) | [Time](https://open.spotify.com/album/7A52FQSOQK94yVNA3GYpn2) | 4:59 | 2021-10-23 |  |
 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 | 2021-10-23 |  |
 | [Too Late for U and M1](https://open.spotify.com/track/4yKTcvzQU40CxEMCtZSR6R) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:37 | 2021-10-23 |  |
-| [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 | 2021-10-23 |  |
+| [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 | 2021-10-23 | 2022-11-23 |
+| [U Trippin](https://open.spotify.com/track/2I4kpk0Fzw9vlFTBNQRsxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/3wXAPcHY6Zw4ccHRv6Xsxy) | 6:51 | 2021-10-23 |  |
 | [Vesta](https://open.spotify.com/track/2o4n8j8Bj0LB33Hgc71LIg) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [Vesta](https://open.spotify.com/album/7ELN6vOodmmsja1NIjHWHd) | 3:36 | 2021-10-23 |  |
 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 | 2021-10-23 |  |
 | [Werkseinstellungen Zurückgesetzt \- Parris Remix](https://open.spotify.com/track/54EGFgoONZaSUsknWC12RO) | [Tech Support](https://open.spotify.com/artist/1q9DdIVexjOaCYVpMJnOmq), [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Werkseinstellungen Zurückgesetzt \(Parris Remix\)](https://open.spotify.com/album/5YIOvsT36r496Gx2y9QzFf) | 5:06 | 2021-10-23 |  |

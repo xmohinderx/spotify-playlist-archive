@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,110 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,108 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 16 | [Chasing Shadows](https://open.spotify.com/track/7mIMl6BkmHWGqZz4EXROCG) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n) | 4:37 |
 | 17 | [Hysteria](https://open.spotify.com/track/1YYTSy2xoYgabhcsTjo1xh) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Hysteria](https://open.spotify.com/album/3f1eHZkiFQeSioBt5wggH3) | 3:50 |
 | 18 | [Need You By My Side](https://open.spotify.com/track/22ddzTjm8BO39CySTC4J5y) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Need You By My Side](https://open.spotify.com/album/1iYfXhyJbX6SunMbZUKLcP) | 3:20 |
-| 19 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 |
+| 19 | [U Trippin](https://open.spotify.com/track/2I4kpk0Fzw9vlFTBNQRsxp) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/3wXAPcHY6Zw4ccHRv6Xsxy) | 6:51 |
 | 20 | [Seems Like Yesterday](https://open.spotify.com/track/2xUabXbWjP4zg8KLWzjf5U) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Like Water](https://open.spotify.com/album/67jcLpkhhs8aym2g4ETAVf) | 6:57 |
 | 21 | [Opal](https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3) | 4:07 |
 | 22 | [Ridge Road](https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Ridge Road](https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP) | 3:58 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MTYzNDk4MTUyOCwwMDAwMDAwMGZjZjYyNGNkZjc4OWU1ZTQ4YzUyNTczZDY1NDJlZDkz`
+Snapshot ID: `MTYzNDk4MTUyOCwwMDAwMDAwMGI3MTcxOTA0MWEwODQzMTdmNjU2NThmYWQ4NmNiZmFj`

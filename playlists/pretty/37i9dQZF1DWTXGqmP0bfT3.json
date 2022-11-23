@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 188559,
+  "num_followers": 188868,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMGFmNzhhY2M1NmNiZGNjMDg1MjA3NTcyZjE4YjIxYWU5",
+  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMGUwNTA1MWJlOTdkODMzZWI1ZDVlNDkyZDBkNWY3OGVh",
   "tracks": [
     {
       "added_at": "2022-10-06 15:15:35",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Mutter",
-        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Feuer frei!",
-      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+      "duration_ms": 243853,
+      "name": "The Heart from Your Hate",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 243853,
-      "name": "The Heart from Your Hate",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
+      "duration_ms": 188600,
+      "name": "Feuer frei!",
+      "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Prophecy of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 222373,
       "name": "Prophecy of Ragnar\u00f6k",
       "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 253988,
+      "name": "Brotherhood of the Snake",
+      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 253988,
-      "name": "Brotherhood of the Snake",
-      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Dig Deep",
         "url": "https://open.spotify.com/album/5Y34qlvVSVLWVNr5cyLB4K"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "MAXIMALISM",
-        "url": "https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh"
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
       "artists": [
         {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 190106,
-      "name": "Maximize",
-      "url": "https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S"
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1507,6 +1491,22 @@
       "duration_ms": 231959,
       "name": "Hollowed Heart",
       "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "MAXIMALISM",
+        "url": "https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Maximize",
+      "url": "https://open.spotify.com/track/43SK9pr4z0KjxCU6Urll9S"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "The Wicked Symphony",
-        "url": "https://open.spotify.com/album/60eZe7AFmKL69PBFVGCwUU"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        }
-      ],
-      "duration_ms": 271826,
-      "name": "Dying for an Angel - The Wicked Symphony",
-      "url": "https://open.spotify.com/track/7dIOlmWKSZoaKXtFZw5Lm5"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Blood of the Saints",
         "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 270706,
       "name": "Night of the Werewolves",
       "url": "https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi"
     }
   ],
   "unique_name": "Energy Booster: Metal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,284,060 likes - 120 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283,866 likes - 120 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

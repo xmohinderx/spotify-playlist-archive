@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 52469,
+  "num_followers": 52458,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5OTAxNiwwMDAwMDAwMGU1YWUzYmM5MWJiMjE4MmQ0MjVhYjdhYzY3ZTFhYTdj",
+  "snapshot_id": "MTY2OTEyMjY3MywwMDAwMDAwMGQ2YzRmYjZmMGQ0YWYwZTAxNjI0MjlmYmNmMDQyYTBh",
   "tracks": [
     {
       "added_at": "2021-01-21 22:00:00",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
-      "added_at": "2021-05-21 05:41:41",
-      "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
       "added_at": "2019-01-30 13:50:38",
       "album": {
         "name": "Pray for the Wicked",
@@ -191,6 +175,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2021-05-21 05:41:41",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2021-05-03 08:49:13",
@@ -937,6 +937,38 @@
       "url": "https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr"
     },
     {
+      "added_at": "2022-11-22 13:11:13",
+      "album": {
+        "name": "Power (Remember Who You Are) [Nasty C Remix]",
+        "url": "https://open.spotify.com/album/5dX7g1UdjcQrSfshmnjJv1"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 221006,
+      "name": "Power (Remember Who You Are) - Nasty C Remix",
+      "url": "https://open.spotify.com/track/3d43VQ7ibf6NjEznS7IiYI"
+    },
+    {
       "added_at": "2022-08-11 21:59:00",
       "album": {
         "name": "My Tribe",
@@ -1049,6 +1081,22 @@
       "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
     },
     {
+      "added_at": "2018-09-24 13:56:36",
+      "album": {
+        "name": "Critical As Water",
+        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
+    },
+    {
       "added_at": "2021-05-21 05:41:41",
       "album": {
         "name": "Life Without Fantasies (Radio Edit)",
@@ -1067,22 +1115,6 @@
       "duration_ms": 161456,
       "name": "Life Without Fantasies - Radio Edit",
       "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
-    },
-    {
-      "added_at": "2018-09-24 13:56:36",
-      "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
     },
     {
       "added_at": "2018-09-24 13:56:36",
@@ -1119,22 +1151,6 @@
       "duration_ms": 216214,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
-    },
-    {
-      "added_at": "2018-09-24 13:56:36",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
     }
   ],
   "unique_name": "Feel Good Look Good",

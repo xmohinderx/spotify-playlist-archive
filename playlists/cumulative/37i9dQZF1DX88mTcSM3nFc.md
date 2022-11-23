@@ -4,7 +4,7 @@
 
 > A timeless mix of melancholy Christmas favorites.
 
-52 songs - 2 hr 37 min - not published yet
+53 songs - 2 hr 39 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Ave Maria](https://open.spotify.com/track/4AfmfD4sBqV3ixYLxy4AG4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart \(Expanded Edition\)](https://open.spotify.com/album/69fTAIpPmoR6S14xEjhB2t) | 2:51 | 2022-10-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2022-10-23 |  |
 | [Blue Christmas \- Remastered](https://open.spotify.com/track/3eW6aZNZHxCAvz53gRgsfa) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [The Classics of Mr\. B \(Remastered\)](https://open.spotify.com/album/6rqcWrGR2Eq9lKZGSfushG) | 2:59 | 2022-10-23 |  |
-| [Carol Of The Bells](https://open.spotify.com/track/1QDXntUSJuoqA3uvDYICxY) | [Harry Simeone Chorale](https://open.spotify.com/artist/30orN5PtRhj9fN2Myr8HKV) | [The Little Drummer Boy](https://open.spotify.com/album/6GAsEMP62A6XVRvFLG9vJD) | 2:21 | 2022-10-23 |  |
+| [Carol Of The Bells](https://open.spotify.com/track/6GozqINQH6YLD1lVbrautj) | [Harry Simeone Chorale](https://open.spotify.com/artist/30orN5PtRhj9fN2Myr8HKV) | [The Little Drummer Boy](https://open.spotify.com/album/4St1Rd24eghVDobKj4wksq) | 2:21 | 2022-10-23 |  |
+| [Carol Of The Bells](https://open.spotify.com/track/1QDXntUSJuoqA3uvDYICxY) | [Harry Simeone Chorale](https://open.spotify.com/artist/30orN5PtRhj9fN2Myr8HKV) | [The Little Drummer Boy](https://open.spotify.com/album/6GAsEMP62A6XVRvFLG9vJD) | 2:21 | 2022-10-23 | 2022-11-23 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 | 2022-10-23 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:58 | 2022-10-23 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/2TJF9IcZcUpM7gDdhHak4T) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Classic Christmas Album](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) | 2:59 | 2022-10-23 | 2022-11-13 |

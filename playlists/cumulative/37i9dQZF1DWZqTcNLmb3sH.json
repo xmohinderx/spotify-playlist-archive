@@ -1085,8 +1085,8 @@
       },
       "artists": [
         {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+          "name": "Gopika Poornima",
+          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
         }
       ],
       "date_added": "2022-11-18",
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 185835,
       "name": "Bevarsi Mansa",
       "url": "https://open.spotify.com/track/3ApW8FONGoEe170g8Ulkd1"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 200103,
       "name": "Bhagavanta (From \"Saddu! Vicharane Nadeyuttide\")",
       "url": "https://open.spotify.com/track/0vwFmuW1yhn30SxU7l9m2a"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 141406,
       "name": "Bhorgaredu",
       "url": "https://open.spotify.com/track/1Nj2qdyNBeHC5ADAd5oNby"
@@ -2686,6 +2686,36 @@
     },
     {
       "album": {
+        "name": "For Registration - Lovegal Sumadhura (From \"For Regn\")",
+        "url": "https://open.spotify.com/album/0cYgr3YqOynHEukyfbNTtI"
+      },
+      "artists": [
+        {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Deepak Doddera",
+          "url": "https://open.spotify.com/artist/0SGmikcgmj4djshtt85Nh0"
+        },
+        {
+          "name": "Harish R",
+          "url": "https://open.spotify.com/artist/4H2Z3q8vNpQHrkRVZdRl6T"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "For Registration - Lovegal Sumadhura (From \"For Regn\")",
+      "url": "https://open.spotify.com/track/21lT90q7bC9GPJasbKGSv1"
+    },
+    {
+      "album": {
         "name": "Thimayya & Thimayya",
         "url": "https://open.spotify.com/album/4OB36jYXZhHDxZDEHdmnEZ"
       },
@@ -2749,7 +2779,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 207600,
       "name": "Friendship Song",
       "url": "https://open.spotify.com/track/19EmTS1Zqyxwvc5ywqnFvJ"
@@ -2771,7 +2801,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 248170,
       "name": "Friendship Song (From \"Padavi Poorva\")",
       "url": "https://open.spotify.com/track/1oTPrr6g1QzFwcmUmpfy7i"
@@ -3409,7 +3439,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 264400,
       "name": "Heronu Ivane Villanu Ivane",
       "url": "https://open.spotify.com/track/067M7aUjtKKfaS11JSvH5y"
@@ -4262,6 +4292,32 @@
     },
     {
       "album": {
+        "name": "Kalla Mele Kalla Ittu (From \"Mata\")",
+        "url": "https://open.spotify.com/album/1FN4vA9BBAZ3YsqgSLWAal"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Sriguru",
+          "url": "https://open.spotify.com/artist/5nuKgZEGzAfCb3dF0dVtwh"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290947,
+      "name": "Kalla Mela Kalla Ittu",
+      "url": "https://open.spotify.com/track/41WkjTQRtcakB3NMTWWHdx"
+    },
+    {
+      "album": {
         "name": "Kampuni Kampuni (From \"Hare Rama Hare Krishna\")",
         "url": "https://open.spotify.com/album/1jDy5BHLgEyeyYnxfeDRBm"
       },
@@ -4847,7 +4903,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 140666,
       "name": "Kurudu Kanchaana Kuniyuthalittu - From \"Koutilya\"",
       "url": "https://open.spotify.com/track/7n1465XacdiqskxK3sYZnU"
@@ -7043,7 +7099,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 109500,
       "name": "Nodi Swamy Ivanu Irode Heege - Title Track",
       "url": "https://open.spotify.com/track/7sTaJXG2CsHCHijwos11el"
@@ -8775,7 +8831,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 199515,
       "name": "Sukka Saarayigintha",
       "url": "https://open.spotify.com/track/5ax0qBNw7aVv2E14UbbUHr"
@@ -9497,7 +9553,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 205381,
       "name": "Vaikuntake Savaari (From \"Nodi Swamy Ivanu Irode Heege\")",
       "url": "https://open.spotify.com/track/40ofFwEAvzwx9jaMtPnVD4"

@@ -216,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD"
+    },
+    {
+      "album": {
         "name": "Bad for Me",
         "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
       },

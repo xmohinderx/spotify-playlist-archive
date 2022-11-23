@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9xM8v05mHON.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xM8v05mHON) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xM8v05mHON)
 
-### [Restaurant Ambience](https://open.spotify.com/playlist/37i9dQZF1DX9xM8v05mHON)
+### [Restaurant Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9xM8v05mHON)
 
 > Feed your focus with restaurant ambience from around the world.
 
-90 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/3w3bYiSNhjrxB4SAa25ooN)
+93 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3w3bYiSNhjrxB4SAa25ooN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,10 @@
 | [Coffee Shop Soundscape](https://open.spotify.com/track/0x2r596Dyr5O587pCzSSqB) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [City Sounds](https://open.spotify.com/album/68mCbHYFFDQoJUOBQuqsI8) | 2:58 | 2022-08-26 |  |
 | [Coffee Small Talk](https://open.spotify.com/track/3nxjObbIkHbLq9IApSSTpb) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [My Favorite Coffeehouse](https://open.spotify.com/album/5VsRS2bOarmXJQyr4hJSZz) | 1:33 | 2022-10-28 |  |
 | [Coffeehouse Ambience Soft Music](https://open.spotify.com/track/0TCWoQ37uL9yg25s9UMf0E) | [ASMR Anonymous](https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC) | [Coffeehouse Soundscapes](https://open.spotify.com/album/79SkgomzlGpX2gG1IMTxkc) | 2:40 | 2022-09-30 |  |
+| [Coffeehouse Background](https://open.spotify.com/track/3QEIiphlGHZTd2c2UIgGMG) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Coffeehouse Ambience for Focused Minds](https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY) | 2:40 | 2022-11-22 |  |
 | [Coffeehouse Lullaby](https://open.spotify.com/track/1sMTxfa73Nng1JUfeYH79Q) | [Perfect Zounds](https://open.spotify.com/artist/2ywSSOHLa97xCG2mNqgKMZ) | [Coffeehouse Lullaby](https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS) | 3:19 | 2022-09-30 |  |
+| [Coffeehouse Patio](https://open.spotify.com/track/4s3oMjF2tPE4gtq9hVlR9j) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Coffeehouse Ambience for Focused Minds](https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY) | 2:40 | 2022-11-22 |  |
+| [Coffeehouse Vibes](https://open.spotify.com/track/2bAaZdyBMXMQajkjdQQtAA) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Coffeehouse Ambience for Focused Minds](https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY) | 2:40 | 2022-11-22 |  |
 | [Con Amigos Si](https://open.spotify.com/track/1jej12mKBgkKhWUrkGVo53) | [Comer Para Vivir](https://open.spotify.com/artist/4ZSY2phizCjuJH6jwz2wJ7) | [Taqueria Mexico \#2](https://open.spotify.com/album/6FOdjXA0D1vKGoFdXAO6TJ) | 4:22 | 2022-08-26 |  |
 | [Cosy Coffee House Sounds](https://open.spotify.com/track/09dwfUbPPzPxM3hciHWuuP) | [Athmospherical FX](https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr) | [Cosy Coffee House Sounds](https://open.spotify.com/album/5XpnoL4lKd9gqElwYob6fX) | 2:58 | 2022-08-26 |  |
 | [Cosy Italian Restaurant Sound](https://open.spotify.com/track/73D4m6MGL8xJInk3Vvsbvw) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Cosy Italian Restaurant Sound](https://open.spotify.com/album/0StsVpt5Wq4zu74uaf5Tzj) | 3:00 | 2022-08-26 |  |

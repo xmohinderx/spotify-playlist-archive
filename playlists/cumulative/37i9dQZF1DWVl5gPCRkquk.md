@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-239 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
+240 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Transatlantic](https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [Transatlantic](https://open.spotify.com/album/1rNAkXvgVbxe7J3zNYQTNS) | 4:32 | 2021-10-29 | 2022-07-29 |
 | [Unraveling](https://open.spotify.com/track/5adFBGlU7UubGUPVUpEljl) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Unraveling](https://open.spotify.com/album/0EQxjz5DUOx7nLeCZJcf9i) | 3:21 | 2021-10-29 | 2022-04-22 |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-10-29 |  |
-| [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2021-10-29 |  |
+| [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2021-10-29 | 2022-11-23 |
+| [Waking Up in Los Angeles](https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Waking Up in Los Angeles](https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5) | 4:01 | 2022-11-18 |  |
 | [Walk Away](https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Personal History](https://open.spotify.com/album/6boV9BoOGBvjoQ3YugOW3n) | 3:12 | 2021-10-29 | 2022-07-26 |
 | [Waverly \- Anjimile Version](https://open.spotify.com/track/381NH2HA2mjllxsXuASEm7) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Waverly \(Anjimile Version\)](https://open.spotify.com/album/5HPDLm7sCPqC9aB5t1QGZE) | 2:36 | 2022-04-15 | 2022-04-21 |
 | [We Don't Know](https://open.spotify.com/track/3eL5l4NdFBIc9J7rAFhDZL) | [Beeches](https://open.spotify.com/artist/1E0QKf8pdbq9zoiwZoHAGh) | [We Don't Know](https://open.spotify.com/album/1pClZAFP2hH0X5qCSXMCcz) | 3:30 | 2022-04-15 | 2022-04-19 |

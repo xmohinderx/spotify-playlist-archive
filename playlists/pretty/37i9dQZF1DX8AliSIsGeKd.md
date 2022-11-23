@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Daniel Levak
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,596 likes - 78 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,676 likes - 78 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

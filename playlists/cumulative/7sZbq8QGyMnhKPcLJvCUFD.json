@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx"
+      },
+      "artists": [
+        {
+          "name": "Strybo",
+          "url": "https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90178,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS"
       },

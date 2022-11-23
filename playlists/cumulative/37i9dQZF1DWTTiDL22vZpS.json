@@ -479,7 +479,7 @@
     {
       "album": {
         "name": "La Canci\u00f3n Bootleg",
-        "url": "https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T"
+        "url": "https://open.spotify.com/album/4kgFCJTsidOorDHEAWUA3J"
       },
       "artists": [
         {
@@ -490,6 +490,24 @@
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 261000,
+      "name": "La Canci\u00f3n Bootleg",
+      "url": "https://open.spotify.com/track/5SuQfdbJJzQqESfYZVts8P"
+    },
+    {
+      "album": {
+        "name": "La Canci\u00f3n Bootleg",
+        "url": "https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T"
+      },
+      "artists": [
+        {
+          "name": "Bruno Borlone",
+          "url": "https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
       "duration_ms": 271946,
       "name": "La Canci\u00f3n Bootleg",
       "url": "https://open.spotify.com/track/6ZL6eps0c2N7Ans3z6P4fS"

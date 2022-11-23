@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-763 songs - 1 day 21 hr 10 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+764 songs - 1 day 21 hr 13 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |
 | [One More Kiss](https://open.spotify.com/track/5PEvIq7hMnnE85qphra5Oa) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R) | 3:46 | 2022-07-22 |  |
 | [One More Kiss](https://open.spotify.com/track/5Tfhu1RyUKxxkrurEBGPuj) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [One More Kiss](https://open.spotify.com/album/3OfRIGjI51gWg7oA9wMsHB) | 3:46 | 2021-02-22 | 2022-07-27 |
-| [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 |  |
+| [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2022-04-22 | 2022-11-23 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-13 |  |
 | [Open Eyes](https://open.spotify.com/track/2gTlubZSNrZSNmGKzgu62s) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Open Eyes](https://open.spotify.com/album/2wBaHomstYLZX2OPjPqeoU) | 3:24 | 2021-03-06 | 2022-05-28 |
 | [Open Eyes](https://open.spotify.com/track/5kiwfZZtRA3YOWqE3UCvzX) | [Lavon Bibb](https://open.spotify.com/artist/3TIhz54DhayQhKzupEe2kH), [ZTN ProducedIt](https://open.spotify.com/artist/5C3MSZauPNznLU0k4D1wro) | [Happy Place](https://open.spotify.com/album/34QQ6m8sbtIuAE6ypx3Wc0) | 2:37 | 2021-04-21 | 2021-05-11 |
@@ -535,6 +535,7 @@
 | [Queens Highway](https://open.spotify.com/track/6i54mmaH64HhMGBv9mVezo) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Queens Highway](https://open.spotify.com/album/0LjAxZFRZp0YcbeE2Jiile) | 1:07 | 2020-05-08 | 2022-07-29 |
 | [Rainbows \- Live](https://open.spotify.com/track/3h0cWnXZgflrcDuNhYgzi5) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV), [Angela Aux](https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV), [Fabian Füss](https://open.spotify.com/artist/7xunWxZLI0CMIUEsqg5EOb), [Matthias Lindermayr](https://open.spotify.com/artist/5bfKMWNpRfMCx9TOMYYUyz) | [A New Cycle](https://open.spotify.com/album/1Afzu9NKEeQr1tNb0FZ7Yr) | 8:19 | 2019-09-29\* | 2020-04-18 |
 | [Rainforest](https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb) | 2:42 | 2022-09-09 | 2022-11-17 |
+| [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 | 2022-11-18 |  |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2021-02-28 | 2022-09-09 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-01-15 | 2022-10-13 |
 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-10-14 |  |

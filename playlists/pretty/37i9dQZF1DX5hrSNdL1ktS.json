@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55176,
+  "num_followers": 55169,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGIyNDY1N2M0Mjg0ZGExOWJhZjU0NzU0MWU0ZjNmNDBh",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDQ0OTQyMmZmM2UzZDNkM2I3ODFiZmMzMTIwYWYxNmUx",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -455,18 +455,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Pereza",
-        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
       "artists": [
         {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 189986,
-      "name": "Pereza",
-      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -507,22 +511,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "ICE BLUE",
-        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
       },
       "artists": [
         {
-          "name": "Opium G",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
         }
       ],
-      "duration_ms": 174000,
-      "name": "GYAL",
-      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "\u00daltima Cena",
-        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
-      },
-      "artists": [
-        {
-          "name": "Bernal\u00fa",
-          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "\u00daltima Cena",
-      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Termin\u00e9 Contigo",
         "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 174629,
       "name": "Termin\u00e9 Contigo",
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "\u00daltima Cena",
+        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
+      },
+      "artists": [
+        {
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "\u00daltima Cena",
+      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     },
     {
       "added_at": "2022-09-29 23:31:37",

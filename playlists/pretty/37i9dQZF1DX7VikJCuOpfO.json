@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62490,
+  "num_followers": 62488,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDUyZmJkYmI4ZGE3MDhkYTllZGY0ZmIzMjBlZGQxOWY2",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDlkYjllYzgzZDQ2ZDliYWUyOWUxYTcwNjJhMzk1MDQ4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 164054,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "No Lo Beses (Mariachi)",
         "url": "https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 203346,
       "name": "No Lo Beses - Mariachi",
       "url": "https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Ni Mil Borracheras",
-        "url": "https://open.spotify.com/album/5RDA15u0ykWlGmvpsyvUCw"
+        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 151324,
-      "name": "Ni Mil Borracheras",
-      "url": "https://open.spotify.com/track/25NjLnKXEdIej9i6UPqcH0"
+      "duration_ms": 188066,
+      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
+        "name": "Ni Mil Borracheras",
+        "url": "https://open.spotify.com/album/5RDA15u0ykWlGmvpsyvUCw"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
+      "duration_ms": 151324,
+      "name": "Ni Mil Borracheras",
+      "url": "https://open.spotify.com/track/25NjLnKXEdIej9i6UPqcH0"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Es Mejor Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Ven Porque Te Necesito",
         "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 185560,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Quinto Elemento (Deluxe)",
-        "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Amarlas Es Un Placer",
-      "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Es Mejor Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
+        "name": "Quinto Elemento (Deluxe)",
+        "url": "https://open.spotify.com/album/2202BXQpm7R0eKyyZk5BlX"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Es Mejor Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
+      "duration_ms": 197720,
+      "name": "Amarlas Es Un Placer",
+      "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Ya no me importa",
         "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 174640,
       "name": "Ya no me importa",
       "url": "https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "La Derrota",
         "url": "https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 186786,
       "name": "La Derrota",
       "url": "https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Decid\u00ed Olvidarte",
-        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Decid\u00ed Olvidarte",
-      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
+        "name": "Decid\u00ed Olvidarte",
+        "url": "https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
+      "duration_ms": 140173,
+      "name": "Decid\u00ed Olvidarte",
+      "url": "https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Nadie Me Cree",
-        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Nadie Me Cree",
-      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 211356,
       "name": "Por Siempre Ser\u00e1s M\u00eda",
       "url": "https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Pero Me Acuerdo de Ti",
+        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 255759,
+      "name": "Pero Me Acuerdo de Ti",
+      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+        "name": "Nadie Me Cree",
+        "url": "https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 214071,
-      "name": "Mi Reflejo",
-      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
+      "duration_ms": 208906,
+      "name": "Nadie Me Cree",
+      "url": "https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1663,6 +1663,22 @@
       "duration_ms": 200493,
       "name": "Viento",
       "url": "https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "4 Sue\u00f1os 1 Realidad",
-        "url": "https://open.spotify.com/album/097uRa0DMJZanpTP0INZGy"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 206477,
-      "name": "No Mereces Tanto",
-      "url": "https://open.spotify.com/track/3JyUkAAwKKAwlE7QW94e4c"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Invasi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Pero Me Acuerdo de Ti",
-        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
+        "name": "4 Sue\u00f1os 1 Realidad",
+        "url": "https://open.spotify.com/album/097uRa0DMJZanpTP0INZGy"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
         }
       ],
-      "duration_ms": 255759,
-      "name": "Pero Me Acuerdo de Ti",
-      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
+      "duration_ms": 206477,
+      "name": "No Mereces Tanto",
+      "url": "https://open.spotify.com/track/3JyUkAAwKKAwlE7QW94e4c"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1799,6 +1799,22 @@
       "duration_ms": 145320,
       "name": "Ya No Me Importa",
       "url": "https://open.spotify.com/track/1uVQ9tclCufSbqpaOHgfU4"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1915,22 +1931,6 @@
       "duration_ms": 185893,
       "name": "La Cama De Piedra - En Vivo",
       "url": "https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-07-29 04:00:00",

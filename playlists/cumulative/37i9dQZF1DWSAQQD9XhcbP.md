@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-113 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/37tjlG90TZNOtMj5QxYz5W)
+114 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/37tjlG90TZNOtMj5QxYz5W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alone on Christmas With You](https://open.spotify.com/track/2tuUhtDoHYw3EssfMZaH8F) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Christmas Music: The Complete Collection](https://open.spotify.com/album/4J9Op7laWoUENBxpb8Ry8i) | 4:14 | 2021-12-23 |  |
 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-23 |  |
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-23 | 2022-10-14 |
-| [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 | 2021-12-23 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 | 2021-12-23 | 2022-11-23 |
 | [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 | 2021-12-23 |  |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Blue Christmas](https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO) | 3:49 | 2022-11-12 |  |
@@ -85,6 +85,7 @@
 | [Mistletoe](https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Mistletoe](https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco) | 3:51 | 2022-11-12 |  |
 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 | 2021-12-23 |  |
 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 | 2021-12-23 |  |
+| [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 | 2022-11-22 |  |
 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 | 2021-12-23 |  |
 | [O Holy Night](https://open.spotify.com/track/5ExNvXqx2wvdb6v0b840Us) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/5YSq86Fw1G4WrAVjXT6CAs) | 4:38 | 2021-12-23 |  |
 | [O Holy Night](https://open.spotify.com/track/6bHLe3rfMqYBmlJnvhyFS9) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [O Holy Night](https://open.spotify.com/album/1OQvt7GdufQwHedB373LDw) | 4:38 | 2021-12-23 | 2022-07-29 |

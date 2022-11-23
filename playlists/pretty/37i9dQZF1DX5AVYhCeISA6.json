@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 598486,
+  "num_followers": 598429,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDExYzdiMDY1M2VjNzRkZGM5YjA0ZTRkOTkyNzczZjI1",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGFkYzE4ZjA4MWJlMGJiOTI5NWE0MjMzMGQ4OGVmODA0",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 267973,
-      "name": "Como Me Duele Perderte",
-      "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Sin Aire",
         "url": "https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 173108,
       "name": "Sin Aire",
       "url": "https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 267973,
+      "name": "Como Me Duele Perderte",
+      "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
     },
     {
       "added_at": "2022-08-31 07:13:59",

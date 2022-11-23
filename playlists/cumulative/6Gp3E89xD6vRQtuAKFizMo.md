@@ -4,19 +4,20 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-113 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+114 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 |  |
 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 | 2022-11-11 |  |
+| [Android](https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf) | [RANKZ](https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469) | [Android](https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO) | 4:01 | 2022-11-22 |  |
 | [Arm's Length](https://open.spotify.com/track/57L7dmh277tu1jnctigapv) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Arm's Length](https://open.spotify.com/album/58ZUH38WuyiN1M0di6D4lL) | 2:53 | 2022-05-27 | 2022-11-05 |
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 |  |
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 | 2022-11-05 |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-09 |  |
-| [Broken](https://open.spotify.com/track/5wJd3MxskA8fWPxlgWzmWM) | [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt) | [Broken](https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ) | 2:50 | 2022-08-02 |  |
+| [Broken](https://open.spotify.com/track/5wJd3MxskA8fWPxlgWzmWM) | [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt) | [Broken](https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ) | 2:50 | 2022-08-02 | 2022-11-23 |
 | [Bury Me Alive](https://open.spotify.com/track/1BzKaH0CLmGYmML7OkSari) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Bury Me Alive](https://open.spotify.com/album/4zIOaE92119xnp2uWxHWT9) | 4:50 | 2022-05-06 | 2022-06-25 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 |  |

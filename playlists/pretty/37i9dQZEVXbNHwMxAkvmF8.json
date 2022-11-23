@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIyMzQ1MDM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIyNDU0NDk2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Forog a vil\u00e1g",
+        "url": "https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Forog a vil\u00e1g",
+      "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Csinibaba",
         "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Topshit",
         "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Oszt\u00e1lyk\u00e9p",
         "url": "https://open.spotify.com/album/3DqB5AWtqU8GE6xmwrrPv9"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/1o1jU5NJW5lTAllW6udk6Y"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "V\u00e1rn\u00e9k",
         "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
@@ -197,7 +213,23 @@
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 138712,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "SZ\u00cdNVAK",
         "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
@@ -213,43 +245,7 @@
       "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Miafasz",
-      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -277,7 +273,43 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 193542,
+      "name": "Miafasz",
+      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Costa Rica",
         "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
@@ -293,23 +325,39 @@
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "DESHPERADO",
-        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 138712,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Palvin",
         "url": "https://open.spotify.com/album/69Zm96qdaLpLpb660vTfrb"
@@ -329,55 +377,7 @@
       "url": "https://open.spotify.com/track/5hAuDDOTUaspvHJSm2AltF"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "voltm\u00e1rkicsi",
         "url": "https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR"
@@ -397,39 +397,23 @@
       "url": "https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Aha-Aha",
-        "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 132506,
-      "name": "Aha-Aha",
-      "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
@@ -445,7 +429,39 @@
       "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Aha-Aha",
+        "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 132506,
+      "name": "Aha-Aha",
+      "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Pak Pak",
+        "url": "https://open.spotify.com/album/1W60C1OiaFVp9gjbMmCVyd"
+      },
+      "artists": [
+        {
+          "name": "ibbigang",
+          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pak Pak",
+      "url": "https://open.spotify.com/track/5RIVjLrjv7mw8LUihkuoLC"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -465,39 +481,23 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Pak Pak",
-        "url": "https://open.spotify.com/album/1W60C1OiaFVp9gjbMmCVyd"
+        "name": "AVA",
+        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
       },
       "artists": [
         {
-          "name": "ibbigang",
-          "url": "https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy"
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Pak Pak",
-      "url": "https://open.spotify.com/track/5RIVjLrjv7mw8LUihkuoLC"
+      "duration_ms": 159338,
+      "name": "AVA",
+      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "VAKMELEG",
-        "url": "https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 172138,
-      "name": "VAKMELEG",
-      "url": "https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -517,43 +517,23 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Fotof\u00f3bia",
-        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Lil Frakk",
-          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 168800,
-      "name": "Lej",
-      "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -573,99 +553,23 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 161082,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Hajnalokig",
-        "url": "https://open.spotify.com/album/2w8bawy6PfS6SuGv7WXuvX"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 154948,
-      "name": "Hajnalokig",
-      "url": "https://open.spotify.com/track/2CilsBtWk8gwrTAYUmO7Xt"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "\u00daristen",
-        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Szikora R\u00f3bert",
-          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
-        }
-      ],
-      "duration_ms": 194629,
-      "name": "\u00daristen",
-      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Gett\u00f3 csirke",
-        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 136286,
-      "name": "Gett\u00f3 csirke",
-      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -693,23 +597,63 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "AVA",
-        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
+        "name": "VAKMELEG",
+        "url": "https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5"
       },
       "artists": [
         {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 159338,
-      "name": "AVA",
-      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
+      "duration_ms": 172138,
+      "name": "VAKMELEG",
+      "url": "https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Fotof\u00f3bia",
+        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "Lej",
+      "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 161082,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
@@ -725,131 +669,59 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "Gett\u00f3 csirke",
+        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 136286,
+      "name": "Gett\u00f3 csirke",
+      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Hajnalokig",
+        "url": "https://open.spotify.com/album/2w8bawy6PfS6SuGv7WXuvX"
       },
       "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/4raWZxHHQyxz0mdcrRt2Yp"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
         {
           "name": "Manuel",
           "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/7i2VQnO1s9hlLZyDBkMBsE"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 180749,
-      "name": "Tiszt\u00e1n iszom",
-      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "Fotof\u00f3bia",
-        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Spanom",
-      "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
-    },
-    {
-      "added_at": "2022-11-21 11:23:57",
-      "album": {
-        "name": "\u00c9get a nap",
-        "url": "https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4"
-      },
-      "artists": [
         {
           "name": "VALMAR",
           "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 150277,
-      "name": "\u00c9get a nap",
-      "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"
+      "duration_ms": 154948,
+      "name": "Hajnalokig",
+      "url": "https://open.spotify.com/track/2CilsBtWk8gwrTAYUmO7Xt"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -869,39 +741,131 @@
       "url": "https://open.spotify.com/track/7A9EcBrwTG6bwswUy7beWW"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
-        "url": "https://open.spotify.com/album/52ib9wG7umi5TYHL3i4qj0"
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
       "artists": [
         {
-          "name": "Curtis",
-          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 163255,
-      "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
-      "url": "https://open.spotify.com/track/6DPh0sUSj2Ml4CL3iJJSn1"
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
-        "name": "Idegen, Vol. 1.",
-        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+        "name": "Fotof\u00f3bia",
+        "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
       },
       "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Spanom",
+      "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 180749,
+      "name": "Tiszt\u00e1n iszom",
+      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "\u00daristen",
+        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Szikora R\u00f3bert",
+          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
+        }
+      ],
+      "duration_ms": 194629,
+      "name": "\u00daristen",
+      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Mi\u00f3ta elhagyt\u00e1l (Nem vagyok \u00e1lmos)",
+        "url": "https://open.spotify.com/album/0qzqC2pHopiWRYPIKP34MI"
+      },
+      "artists": [
+        {
+          "name": "Bsw",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 212468,
+      "name": "Mi\u00f3ta elhagyt\u00e1l - Nem vagyok \u00e1lmos",
+      "url": "https://open.spotify.com/track/0cUfErGDquYKSOJ6q15Vul"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/4raWZxHHQyxz0mdcrRt2Yp"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
         {
           "name": "Manuel",
           "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 187752,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj"
+      "duration_ms": 210612,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/7i2VQnO1s9hlLZyDBkMBsE"
     },
     {
-      "added_at": "2022-11-21 11:23:57",
+      "added_at": "2022-11-22 17:48:16",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -919,6 +883,38 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
+        "url": "https://open.spotify.com/album/52ib9wG7umi5TYHL3i4qj0"
+      },
+      "artists": [
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        }
+      ],
+      "duration_ms": 163255,
+      "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
+      "url": "https://open.spotify.com/track/6DPh0sUSj2Ml4CL3iJJSn1"
+    },
+    {
+      "added_at": "2022-11-22 17:48:16",
+      "album": {
+        "name": "Idegen, Vol. 1.",
+        "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 187752,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/1b0xEPOnt9B9EmFUUDsmPj"
     }
   ],
   "unique_name": "Top 50 - Hungary",

@@ -1,12 +1,12 @@
 {
   "description": "Mode: Turnt",
-  "num_followers": 6351136,
+  "num_followers": 6350199,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0ODAxNiwwMDAwMDAwMDY5M2NmY2VmOTAyNzJjNWYyMmI1N2M5NTM0NmYxM2Uy",
+  "snapshot_id": "MTY2OTE0MTIxNSwwMDAwMDAwMGYzMzk1OGJjN2EyZTQyNjg1ODU3ODI0ZmZkYTMwNzUx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -91,6 +91,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 195197,
+      "name": "Pop Out (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2eTCgGN9B0KFUJkV5tmKfV"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "Pop Out (feat. Nardo Wick)",
-      "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
     },
     {
       "added_at": "2022-11-18 05:00:00",

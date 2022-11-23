@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 129843,
+  "num_followers": 129819,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDA0YWQ2YmI1M2NjMTIzNGFmMmZkNjVmZWU3NGE3MTkw",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGUyNjQ4ZTczMmE0YTc0MDAwMzIyYzRkYmFmOWFjNjJk",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -935,30 +935,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Scary Sight",
-        "url": "https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5"
-      },
-      "artists": [
-        {
-          "name": "Zack Ink",
-          "url": "https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Scary Sight",
-      "url": "https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "blessing me (feat. Kali Uchis) (remix)",
         "url": "https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa"
       },
@@ -987,6 +963,30 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Scary Sight",
+        "url": "https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5"
+      },
+      "artists": [
+        {
+          "name": "Zack Ink",
+          "url": "https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Scary Sight",
+      "url": "https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "In Disguise (feat. Bakar)",
         "url": "https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 158219,
       "name": "In Disguise (feat. Bakar)",
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
-    },
-    {
-      "added_at": "2022-11-22 01:36:36",
-      "album": {
-        "name": "Love is a Lottery",
-        "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "Love is a Lottery",
-      "url": "https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1039,6 +1023,22 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2022-11-23 01:30:06",
+      "album": {
+        "name": "Love is a Lottery",
+        "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "Love is a Lottery",
+      "url": "https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx"
     },
     {
       "added_at": "2022-10-23 19:19:20",

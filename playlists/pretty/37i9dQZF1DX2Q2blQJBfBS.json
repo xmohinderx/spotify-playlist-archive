@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 14837,
+  "num_followers": 14799,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDY2ODcyZTFkN2RkYzNiZWY5NzU5M2ZkOTk1NDM4OTU2",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDI2MDk1YzY5ZDZiMDAxOTBkOTU3N2E5NTliY2QzNTBk",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Don't Sweat The Technique",
-        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Don't Sweat The Technique",
-      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 232571,
       "name": "4r Da Squaw",
       "url": "https://open.spotify.com/track/71lyUtIPCMAYjTwwwxy2jW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Don't Sweat The Technique",
+        "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Don't Sweat The Technique",
+      "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Da Dirty 30",
-        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
-      },
-      "artists": [
-        {
-          "name": "Cru",
-          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Just Another Case",
-      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "This Thing Of Ours",
         "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Da Dirty 30",
+        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
+      },
+      "artists": [
+        {
+          "name": "Cru",
+          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Just Another Case",
+      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/5eURoU1GtJypHBQJTXWTPN"
     },
     {
-      "added_at": "2022-05-27 12:00:00",
-      "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/1xpKoUZGkJAXmF804iJmTh"
-      },
-      "artists": [
-        {
-          "name": "ZekeUltra",
-          "url": "https://open.spotify.com/artist/66rjQYZAzWZ9n933ytcoTg"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Bread",
@@ -1007,6 +991,22 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-05-27 12:00:00",
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/1xpKoUZGkJAXmF804iJmTh"
+      },
+      "artists": [
+        {
+          "name": "ZekeUltra",
+          "url": "https://open.spotify.com/artist/66rjQYZAzWZ9n933ytcoTg"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/0jQPVM41l6xWzynX7mIflu"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/39UU4AyLap5LY9aIPm0X7h"
     },
     {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
       "added_at": "2022-10-14 13:44:02",
       "album": {
         "name": "The Fonz",
@@ -1115,22 +1131,6 @@
       "duration_ms": 304840,
       "name": "Return of The Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
-    },
-    {
-      "added_at": "2022-09-02 18:33:39",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "MOVIN'",
+        "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Ar\u00e9na",
+          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
+        }
+      ],
+      "duration_ms": 153028,
+      "name": "MOVIN'",
+      "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Makeda",
         "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
       },
@@ -1417,30 +1441,6 @@
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "MOVIN'",
-        "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
-      },
-      "artists": [
-        {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Ar\u00e9na",
-          "url": "https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j"
-        }
-      ],
-      "duration_ms": 153028,
-      "name": "MOVIN'",
-      "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Last Huzzah!",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/4m7rYtLTr5vPPjlmkemR0C"
     },
     {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
+    },
+    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "No Gold Teeth",
@@ -1495,42 +1511,6 @@
       "duration_ms": 153600,
       "name": "No Gold Teeth",
       "url": "https://open.spotify.com/track/7xAfS5dttCDl09bOdXAmY5"
-    },
-    {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
-      },
-      "artists": [
-        {
-          "name": "Homeboy Sandman",
-          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
-        },
-        {
-          "name": "Deca",
-          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
-        }
-      ],
-      "duration_ms": 221029,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1555,6 +1535,26 @@
       "duration_ms": 171219,
       "name": "Beep",
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1CP6ERKBEi1rFfjYRejDfy"
+      },
+      "artists": [
+        {
+          "name": "Homeboy Sandman",
+          "url": "https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb"
+        },
+        {
+          "name": "Deca",
+          "url": "https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte"
+        }
+      ],
+      "duration_ms": 221029,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1589,26 +1589,6 @@
       "url": "https://open.spotify.com/track/5uzxflxVqVEbyukRQim0v4"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
-      },
-      "artists": [
-        {
-          "name": "Willie The Kid",
-          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
-        },
-        {
-          "name": "V Don",
-          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
-        }
-      ],
-      "duration_ms": 107379,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
-    },
-    {
       "added_at": "2022-08-05 12:00:00",
       "album": {
         "name": "Intros, Outros & Interludes",
@@ -1627,6 +1607,26 @@
       "duration_ms": 148653,
       "name": "Victories & Losses",
       "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5mPPIJj8z1fA3Q2BkfIXiJ"
+      },
+      "artists": [
+        {
+          "name": "Willie The Kid",
+          "url": "https://open.spotify.com/artist/0hZvVmOluFCV1ZjvvqtRB6"
+        },
+        {
+          "name": "V Don",
+          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
+        }
+      ],
+      "duration_ms": 107379,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
       "added_at": "2022-05-20 12:00:00",
@@ -1893,6 +1893,26 @@
       "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Poppin' Wheelies",
+        "url": "https://open.spotify.com/album/3yRpcAJk3hnmF4jBSCOT8P"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Sugg Savage",
+          "url": "https://open.spotify.com/artist/1Yi0bXcg8GmWccv2pJ1pow"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Poppin' Wheelies",
+      "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Looking for Water (feat. Boldy James)",
@@ -1915,26 +1935,6 @@
       "duration_ms": 163850,
       "name": "Looking for Water (feat. Boldy James)",
       "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Poppin' Wheelies",
-        "url": "https://open.spotify.com/album/3yRpcAJk3hnmF4jBSCOT8P"
-      },
-      "artists": [
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Sugg Savage",
-          "url": "https://open.spotify.com/artist/1Yi0bXcg8GmWccv2pJ1pow"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Poppin' Wheelies",
-      "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
     },
     {
       "added_at": "2022-05-10 19:26:35",

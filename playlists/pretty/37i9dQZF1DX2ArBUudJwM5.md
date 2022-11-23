@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > ¡Karina y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,214 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,204 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,30 +33,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 23 | [SUELTO](https://open.spotify.com/track/1wGRgZ53XqiTNmwJCYiudy) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [SUELTO](https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN) | 2:37 |
 | 24 | [Cobarde](https://open.spotify.com/track/0Eb0IgyKJF7llW3UxG6gVV) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn) | 4:31 |
 | 25 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
-| 26 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
-| 27 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr) | 3:52 |
+| 26 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr) | 3:52 |
+| 27 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
 | 28 | [Que no se entere](https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No te confundas](https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4) | 3:18 |
 | 29 | [SAL FINA](https://open.spotify.com/track/5RFidx9Bh9qLPKfpwpPJQr) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [SAL FINA](https://open.spotify.com/album/2gCaMSxdPYSgv1GdcXZFea) | 2:48 |
 | 30 | [Qué Bello](https://open.spotify.com/track/3YFRoa2x2LK64OB0fY9FPA) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 4:15 |
 | 31 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 32 | [Soltera \(feat\. Cazzu\)](https://open.spotify.com/track/1nshWo2nGPZJ5qNINOlCTo) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Soltera \(feat\. Cazzu\)](https://open.spotify.com/album/1v1IUycUQT7BsColcjDhbQ) | 2:49 |
-| 33 | [Amor Entre Mujeres](https://open.spotify.com/track/0xjpwkkj1ttlWdldDmjBaC) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor Entre Mujeres](https://open.spotify.com/album/01obGlmjh6uqqP7yTcLXYh) | 2:46 |
+| 33 | [No Va Mas](https://open.spotify.com/track/4YF2pSGwib3FL2e9WgpVXh) | [Dani La Chepi](https://open.spotify.com/artist/1pLLfmio0DjpkwVZT91tXZ), [Rocío Quiroz](https://open.spotify.com/artist/1k6NZ9P78E78k78S9BDw6m) | [No Va Mas](https://open.spotify.com/album/1GEQlN1pNvTSi9U4cNi2Fr) | 2:17 |
 | 34 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 |
-| 35 | [No Va Mas](https://open.spotify.com/track/4YF2pSGwib3FL2e9WgpVXh) | [Dani La Chepi](https://open.spotify.com/artist/1pLLfmio0DjpkwVZT91tXZ), [Rocío Quiroz](https://open.spotify.com/artist/1k6NZ9P78E78k78S9BDw6m) | [No Va Mas](https://open.spotify.com/album/1GEQlN1pNvTSi9U4cNi2Fr) | 2:17 |
-| 36 | [La Loca](https://open.spotify.com/track/3Z0Plr8i9EQDCRtJry97Ps) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn) | 3:55 |
+| 35 | [La Loca](https://open.spotify.com/track/3Z0Plr8i9EQDCRtJry97Ps) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn) | 3:55 |
+| 36 | [Amor Entre Mujeres](https://open.spotify.com/track/0xjpwkkj1ttlWdldDmjBaC) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Amor Entre Mujeres](https://open.spotify.com/album/01obGlmjh6uqqP7yTcLXYh) | 2:46 |
 | 37 | [En Tu Pelo](https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:37 |
 | 38 | [Primera y Última Vez](https://open.spotify.com/track/7HlYK2GEvPtvYGCdHA0vFM) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Primera y Última Vez](https://open.spotify.com/album/7bEnK9vfhCtR0jb4znVATw) | 2:07 |
 | 39 | [TETA](https://open.spotify.com/track/5cVod6gUysyLhMDQXwymoG) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [TETA](https://open.spotify.com/album/5x7F504UruimXeFXB9h0iE) | 2:49 |
-| 40 | [Evidencias](https://open.spotify.com/track/2BjE7xVdzHIPfq3FwUiVx4) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Evidencias](https://open.spotify.com/album/3uV0DAuyOAGJ9YlbXIPoQF) | 4:12 |
-| 41 | [Si Me Dejas Ahora](https://open.spotify.com/track/4xU2jDJ2gRlaH002J2Emn0) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [Si Me Dejas Ahora](https://open.spotify.com/album/0mymutAlcCDQu44HS8ZzSs) | 3:18 |
-| 42 | [Jamás Mi Socia](https://open.spotify.com/track/4PEKYrvnTlCTStA0mpXwKR) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:23 |
-| 43 | [La Mariposa](https://open.spotify.com/track/0M7o4YFo6qEY9rDjb34kZ9) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Popular](https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r) | 2:52 |
+| 40 | [Si Me Dejas Ahora](https://open.spotify.com/track/4xU2jDJ2gRlaH002J2Emn0) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [Si Me Dejas Ahora](https://open.spotify.com/album/0mymutAlcCDQu44HS8ZzSs) | 3:18 |
+| 41 | [Jamás Mi Socia](https://open.spotify.com/track/4PEKYrvnTlCTStA0mpXwKR) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:23 |
+| 42 | [La Mariposa](https://open.spotify.com/track/0M7o4YFo6qEY9rDjb34kZ9) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Popular](https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r) | 2:52 |
+| 43 | [Evidencias](https://open.spotify.com/track/2BjE7xVdzHIPfq3FwUiVx4) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Evidencias](https://open.spotify.com/album/3uV0DAuyOAGJ9YlbXIPoQF) | 4:12 |
 | 44 | [Supe Que Me Amabas](https://open.spotify.com/track/6MaTna8KTEchLEYmdzwgs5) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Supe Que Me Amabas](https://open.spotify.com/album/0WcC3WFfQKjK2V5czeyUU3) | 3:23 |
 | 45 | [Mentiras](https://open.spotify.com/track/5vbSyTLeJIDJfoDJq2xow6) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mentiras](https://open.spotify.com/album/2iFDmQMTYwrK5pgIWOzcdw) | 4:09 |
 | 46 | [Mis Bendiciones](https://open.spotify.com/track/3nOfit3D7uvwhRLKT0b8Ts) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Mis Bendiciones](https://open.spotify.com/album/7Lb9Yyag4UxI7DzVkXLlP5) | 2:43 |
-| 47 | [Por Que Te Fuiste](https://open.spotify.com/track/6aiRodyBoHgqid9vDLyKCc) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [Por Que Te Fuiste](https://open.spotify.com/album/32HCgHv0snLINBaUGmJt4h) | 3:18 |
-| 48 | [Quieto](https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC) | [Cumbia Nena](https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx) | [Quieto](https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt) | 2:33 |
+| 47 | [Quieto](https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC) | [Cumbia Nena](https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx) | [Quieto](https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt) | 2:33 |
+| 48 | [Por Que Te Fuiste](https://open.spotify.com/track/6aiRodyBoHgqid9vDLyKCc) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [Por Que Te Fuiste](https://open.spotify.com/album/32HCgHv0snLINBaUGmJt4h) | 3:18 |
 | 49 | [La Tonta](https://open.spotify.com/track/2wCmrZhSwo7QmrXL65gyaq) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:47 |
 | 50 | [Las Pibas Tomamos El Control](https://open.spotify.com/track/1ymM4VsasYpO2CK0R7ebiM) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Las Pibas Tomamos El Control](https://open.spotify.com/album/2ZEOce8bG7DiokOGkzp3Wc) | 2:48 |
 
-Snapshot ID: `MTY2NzgyOTA2OCwwMDAwMDAwMDkyMmQ4OGExZmQ2NDU4Yjk0OTEwM2E0MzNiYTE5NDdm`
+Snapshot ID: `MTY2NzgyOTA2OCwwMDAwMDAwMDU5NzRjMjlkNjhmZGI5YTNmZGMyMGQyNTJlMjg4OGU2`

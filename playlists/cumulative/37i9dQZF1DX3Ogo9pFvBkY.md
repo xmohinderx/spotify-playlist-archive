@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-696 songs - 1 day 12 hr 48 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+700 songs - 1 day 13 hr 0 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [La Femme Soleil](https://open.spotify.com/track/3ZGqYamRfdQJ1lcQa27gHj) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Femme Soleil](https://open.spotify.com/album/7JJm1cAkINxVcYS1q1h146) | 2:40 | 2020-01-09 | 2020-10-27 |
 | [La Paz](https://open.spotify.com/track/1Dn2Fjpf8MiEEy0HlRA4UB) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Visions](https://open.spotify.com/album/7k4or19D1uKrAzdzf1iIkk) | 2:27 | 2020-01-03 | 2020-05-18 |
 | [Land Of Eternal Spring](https://open.spotify.com/track/2IbOMyObpd2vXMQSNrV3kP) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:38 | 2019-05-26\* | 2022-03-26 |
+| [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
 | [Layers of Clouds](https://open.spotify.com/track/0Owl6328H7Ia7SaprjOJku) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Layers of Clouds](https://open.spotify.com/album/4uzhvd6EKsX7tgPq0dSLTi) | 4:36 | 2021-08-26 |  |
 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 | 2022-09-13 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2019-05-26\* |  |
@@ -431,6 +432,7 @@
 | [Nog een nacht](https://open.spotify.com/track/6BWqIj8dGln3EDBRnBNXuW) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Nog een nacht](https://open.spotify.com/album/0DtlTGbM8Ah3R0pRvP7Tte) | 3:48 | 2019-07-27 | 2021-10-13 |
 | [North](https://open.spotify.com/track/4trsp2DUIUzK2DmIREqiTq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Leita/North](https://open.spotify.com/album/7MyVdo2IeraoT5auAD1xgu) | 6:14 | 2019-05-26\* | 2020-01-03 |
 | [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 | 2019-05-26\* | 2020-01-03 |
+| [Northern Skies](https://open.spotify.com/track/4Fvo7mI8FM8valAzylNV9t) | [Miraes Seyara](https://open.spotify.com/artist/0juHoHX14lVxCoaDjjUf7h) | [Northern Skies](https://open.spotify.com/album/6nWOtt0ioFrr1F6SHJ1HhJ) | 3:26 | 2022-11-22 |  |
 | [Not Giving Up](https://open.spotify.com/track/5f3WC3rzG1MAZrxODeYrll) | [Agnes Sayjno](https://open.spotify.com/artist/345c5ThS55JjzQizl3l8pg) | [Not Giving Up](https://open.spotify.com/album/70IA8E1aebBcAevp3mjhX5) | 4:57 | 2021-09-14 |  |
 | [NYC/Night Time](https://open.spotify.com/track/1Y5TuZ4lGEeB4UKIvgieWC) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:47 | 2020-08-08 |  |
 | [När natten faller](https://open.spotify.com/track/4LrzFAJhBvcvSUfFTmNfRZ) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [När natten faller](https://open.spotify.com/album/1kZTmJJLTqTzgCN6BhBiwi) | 2:09 | 2020-05-09 |  |
@@ -494,6 +496,7 @@
 | [Reach For the Sky](https://open.spotify.com/track/4EqojQWIyMaAiPsvuhs0Vm) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Reach For the Sky](https://open.spotify.com/album/0pznFEVemb1rcqCwTrizvs) | 3:56 | 2020-12-24 | 2021-07-23 |
 | [Reaching](https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Reaching](https://open.spotify.com/album/1coFYbyXU2dxO3lrUsbdIy) | 2:56 | 2019-06-29 |  |
 | [Reality](https://open.spotify.com/track/5tIdS2v1meS9IpgxR6ysoZ) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Reality](https://open.spotify.com/album/2YRAy4FiHvR4EGI4OM14NX) | 2:50 | 2019-05-26\* | 2020-05-09 |
+| [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 | 2022-11-22 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV) | 4:27 | 2020-05-09 | 2021-09-14 |
 | [Relajación espiritual](https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual](https://open.spotify.com/album/2t4WoPwxh8Us4B2j1iDNQ9) | 3:10 | 2019-05-26\* | 2022-09-15 |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2019-05-26\* | 2020-05-09 |
@@ -533,6 +536,7 @@
 | [Serenità](https://open.spotify.com/track/2vez1VkoxYjVGj5H0nFEMW) | [Giulia De Luca](https://open.spotify.com/artist/7cEydhNzXHxSFYYZEB6Fmk) | [Serenità](https://open.spotify.com/album/2zyndrVF0fP557qMKKyHyq) | 3:12 | 2021-02-18 |  |
 | [Shadows](https://open.spotify.com/track/66px7xxjl99xaSZRWZHTts) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Tenebris](https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza) | 3:55 | 2019-06-29 | 2020-01-03 |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2019-12-07 |  |
+| [Shining Through](https://open.spotify.com/track/0ATtl243oiUgDuc75sKfY9) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Shining Through](https://open.spotify.com/album/1W9RT2Yf2hJmXy08MQ7BcG) | 2:16 | 2022-11-22 |  |
 | [Shut Eye](https://open.spotify.com/track/2cn0nw0ziWkOEVYIKQhWWA) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Shut Eye](https://open.spotify.com/album/6ifGZTFv5D9dLeqI9yE9gh) | 3:10 | 2021-05-18 |  |
 | [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 | 2019-07-27 |  |
 | [Silhouettes](https://open.spotify.com/track/4wGackeK3YeTnh1Mo0dB2e) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Silhouettes](https://open.spotify.com/album/4yBIQPvRRvmmzTY0yy3hux) | 2:18 | 2022-01-19 |  |

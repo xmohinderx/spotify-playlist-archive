@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 332749,
+  "num_followers": 332999,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4ODk1NiwwMDAwMDAwMDc0MDhhNzFlMDdmZDQ4M2IwNDViZmExZTMyNjQyNDMx",
+  "snapshot_id": "MTY2ODc4ODk1NiwwMDAwMDAwMGIwZTllZTJhMDg1OGQ2MmI1MjZmMGE3Zjg1YmE0YjU3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Light, West",
         "url": "https://open.spotify.com/album/2942biAKKQFqcATNWMzsFT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 448529,
       "name": "Night Bell - Arizona",
       "url": "https://open.spotify.com/track/2SN41T7WJfoKkAsGUV11PA"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1253,26 +1253,6 @@
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Human Aura",
-        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
-      },
-      "artists": [
-        {
-          "name": "Yubik",
-          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 404529,
-      "name": "Human Aura - Massano Remix",
-      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "WAYU Various Artists, Vol. 2",
@@ -1307,6 +1287,26 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Human Aura",
+        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+      },
+      "artists": [
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 404529,
+      "name": "Human Aura - Massano Remix",
+      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
     },
     {
-      "added_at": "2022-11-22 01:06:38",
+      "added_at": "2022-11-23 01:01:32",
       "album": {
         "name": "Looking At Your Pager (Solomun Remix)",
         "url": "https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u"
@@ -1465,6 +1465,26 @@
       "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Aye Aye",
@@ -1487,26 +1507,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Waves of the Soul",
+        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Waves of the Soul",
+      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1543,18 +1559,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Waves of the Soul",
-        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
+        "name": "Farsi",
+        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
       },
       "artists": [
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Waves of the Soul",
-      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
+      "duration_ms": 521940,
+      "name": "Farsi",
+      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1571,6 +1591,22 @@
       "duration_ms": 390371,
       "name": "La Veleta",
       "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Snake Ritual",
+        "url": "https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "duration_ms": 456706,
+      "name": "Snake Ritual",
+      "url": "https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1595,22 +1631,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Snake Ritual",
-        "url": "https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        }
-      ],
-      "duration_ms": 456706,
-      "name": "Snake Ritual",
-      "url": "https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1677,26 +1697,6 @@
       "url": "https://open.spotify.com/track/1LVnm7eAB3sTW86CGvWFnn"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Farsi",
-        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 521940,
-      "name": "Farsi",
-      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Epic Resurrection",
@@ -1711,6 +1711,22 @@
       "duration_ms": 401361,
       "name": "Epic Resurrection",
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Calmo",
+        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
+      },
+      "artists": [
+        {
+          "name": "Juanma Salinas",
+          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "Calmo",
+      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Calmo",
-        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
-      },
-      "artists": [
-        {
-          "name": "Juanma Salinas",
-          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
-        }
-      ],
-      "duration_ms": 428181,
-      "name": "Calmo",
-      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Globe Trotter, Vol.1",
         "url": "https://open.spotify.com/album/32kngqUC4ThQAVJGRGUw8T"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 264406,
       "name": "Travelers",
       "url": "https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1869,20 +1869,20 @@
       "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     }
   ],
   "unique_name": "Tantra",

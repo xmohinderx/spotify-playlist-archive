@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "310",
       "url": "https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 300070,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 507469,
       "name": "breathe",
       "url": "https://open.spotify.com/track/0zA9f8XcPinLZXQTZ4frKG"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 412572,
       "name": "Chronology",
       "url": "https://open.spotify.com/track/6hGoOJmGx40sD8e0czLy6E"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 351379,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 294964,
       "name": "Dewey",
       "url": "https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 130434,
       "name": "Dysbarism",
       "url": "https://open.spotify.com/track/6waGjqgqcV92Jwnm45Qua8"
@@ -785,6 +785,24 @@
       "duration_ms": 303000,
       "name": "El Bosque Animado",
       "url": "https://open.spotify.com/track/1J6q1Iu5URtTm2DMIOrM7R"
+    },
+    {
+      "album": {
+        "name": "All Russians Love Birch Trees EP (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CzWO1N5s3LjN3EsH99F9C"
+      },
+      "artists": [
+        {
+          "name": "Johannes Repka",
+          "url": "https://open.spotify.com/artist/1DnTEe1bd5bENrJAza9Iuz"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Elias",
+      "url": "https://open.spotify.com/track/5byZDxGFoQymRppmeIMNXo"
     },
     {
       "album": {
@@ -1186,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Seabed-Sunbath",
+        "url": "https://open.spotify.com/album/5dazs6Z7DynTPgZVRR4X4J"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160812,
+      "name": "Incredible Beetroot",
+      "url": "https://open.spotify.com/track/7gXQGGW4xsAwe8MDcXusxc"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/0TR3j5R8ecFuefaB6xgAi4"
       },
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 267065,
       "name": "Morning",
       "url": "https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 606000,
       "name": "Music for Six Rooms",
       "url": "https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf"
@@ -2023,7 +2059,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 439333,
       "name": "Prue Lewarne",
       "url": "https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB"
@@ -2221,7 +2257,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 488570,
       "name": "Severed Seas",
       "url": "https://open.spotify.com/track/0JCS05r42jjYLPrUm9dl2g"
@@ -2268,6 +2304,28 @@
     },
     {
       "album": {
+        "name": "Slow Flight",
+        "url": "https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        },
+        {
+          "name": "Low Key Trampoline",
+          "url": "https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Slow Flight",
+      "url": "https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS"
+    },
+    {
+      "album": {
         "name": "Smooth Sailing",
         "url": "https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa"
       },
@@ -2301,7 +2359,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 367053,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW"
@@ -2547,7 +2605,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h"
@@ -2787,7 +2845,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Unfolding (feat. Goldmund)",
       "url": "https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N"
@@ -2827,7 +2885,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Upward Swimming Fish",
       "url": "https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB"
@@ -2857,6 +2915,24 @@
       "duration_ms": 234132,
       "name": "Vanir - Endless Melancholy Rework",
       "url": "https://open.spotify.com/track/2V4D7nvTxdd0LGW58sVp18"
+    },
+    {
+      "album": {
+        "name": "Beautifully Lost Mind",
+        "url": "https://open.spotify.com/album/1CeKHEfoc2eQ6KkGl4LNdC"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "View Theory",
+      "url": "https://open.spotify.com/track/2wog4xiIr6jTDXYUWZjM1B"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 33654,
+  "num_followers": 33655,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NTU2NSxlYzBmNzJiN2VhNmZhYjZmNDNlOWNkNjBkZWFiNWU2ZjBkOTcxZmRm",
+  "snapshot_id": "NTU2OCxmZmMxYmM4N2I1YWExMzZhMzBkZTA4MzNkMWRkMjVkNTYxNjg4NjA5",
   "tracks": [
+    {
+      "added_at": "2022-11-22 16:53:58",
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
+    },
     {
       "added_at": "2022-11-18 05:12:09",
       "album": {

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-204 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+205 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Falling Flower \(Dajung Ver.\)](https://open.spotify.com/track/4VqXGpj0uRNhN1xu4T4ZJu) | [seo hyun jin](https://open.spotify.com/artist/56kr7ithHAvEeInwvWJoRs) | [You Are My Spring OST Part 9](https://open.spotify.com/album/2hxR84Q3tHUdh5eelpgBMP) | 3:47 | 2022-05-11 | 2022-07-29 |
 | [Far away](https://open.spotify.com/track/2luEd7QfSRI7TsQKkziFuH) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [HYENA \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/2BllfHBGeanfcUiMSFKF5q) | 3:51 | 2022-05-11 | 2022-06-05 |
 | [Farewell Poem](https://open.spotify.com/track/2vsQuyU24llVP5HD1cVx9s) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Farewell Poem](https://open.spotify.com/album/6twPccXyMf8QcgyIQ7N6Z0) | 3:38 | 2022-05-11 | 2022-07-24 |
-| [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2022-05-11 |  |
+| [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2022-05-11 | 2022-11-23 |
 | [Flame](https://open.spotify.com/track/4x1FlPvty9bk1j73gkyYaK) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Flame](https://open.spotify.com/album/1VgqjntRzWONoGoa0M1dxR) | 3:17 | 2022-05-11 | 2022-07-28 |
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2022-05-11 |  |
 | [Friend](https://open.spotify.com/track/2HrjeWdeVfsirD8koeg8yv) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw), [Mingyu Cho](https://open.spotify.com/artist/3zYE0PPOZSmJ14JkguaZp9) | [Friend](https://open.spotify.com/album/0oed3VSqXFkIZ3RFBd10mU) | 3:44 | 2022-05-11 | 2022-07-22 |
@@ -123,7 +123,7 @@
 | [Loveless Fan Club](https://open.spotify.com/track/6LGzijZQRFSypcWELbCeni) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts) | [The World Is Like a Handkerchief](https://open.spotify.com/album/7trpOK3KKjYt6nxMBKT2S1) | 4:04 | 2022-05-11 | 2022-07-27 |
 | [Lovesick](https://open.spotify.com/track/0gPNUEHPZJN0oOSwJ1Ymnd) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:13 | 2022-07-08 | 2022-07-24 |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2022-05-11 |  |
-| [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-09-05 |  |
+| [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-09-05 | 2022-11-23 |
 | [Midnight sun](https://open.spotify.com/track/46B34DWj7HjB4eEKHFa5sB) | [Marvin](https://open.spotify.com/artist/5Ge2wlLiHJlpzMSnbGkbpO) | [Nostalgia](https://open.spotify.com/album/2t0ynhYs5QkYMorNReZJSC) | 3:19 | 2022-07-08 | 2022-07-25 |
 | [Milky Way](https://open.spotify.com/track/7uYP73T6rByUNYL8RE7kiF) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Milky Way](https://open.spotify.com/album/7xiwhKvFNNeThDoLP4oRTy) | 3:53 | 2022-05-11 | 2022-06-06 |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-18 | 2022-10-06 |
@@ -197,6 +197,7 @@
 | [wooden shoes](https://open.spotify.com/track/4VHjRm6Ok4pdl1kdw7lEmy) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [CHOI](https://open.spotify.com/artist/5phfMKsr54C4WieISO2j9j) | [wooden shoes](https://open.spotify.com/album/41P2aRYuHgSyHhw0HGwfVT) | 5:13 | 2022-07-08 | 2022-07-29 |
 | [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 | 2022-11-18 |
 | [written on a leaf](https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [written on a leaf](https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin) | 3:45 | 2022-05-11 | 2022-07-24 |
+| [You Are The Sea](https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [You Are The Sea \(CURTAIN CALL OST Part.4\)](https://open.spotify.com/album/5jnmn2AEdnJvH4q2AwbFnw) | 4:06 | 2022-11-23 |  |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2022-05-11 | 2022-07-29 |
 | [You, you](https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [You, you](https://open.spotify.com/album/4PN4xczdZoMbKBdJgaOltt) | 5:02 | 2022-05-11 | 2022-07-29 |
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |
@@ -207,7 +208,7 @@
 | [아직도 괜찮지 않은가 봐](https://open.spotify.com/track/7AwaRzPacYglDtx0skg39C) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/71WZV8KAPxXQMO4H8C69JS) | 3:53 | 2022-06-20 | 2022-06-26 |
 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-05-11 | 2022-07-27 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2022-05-11 |  |
-| [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 | 2022-05-11 | 2022-11-22 |
+| [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 | 2022-05-11 |  |
 | [조심스러운 이유](https://open.spotify.com/track/1HQwtOiqL5rFku9ELPp8Bp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 3:29 | 2022-05-11 | 2022-07-13 |
 | [지나오다](https://open.spotify.com/track/5ndgHth5hDc2dFPDC9Sq9N) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [About You](https://open.spotify.com/album/2tInxH0GgKYLdoclP1YjiM) | 4:41 | 2022-05-11 | 2022-07-27 |
 | [취기](https://open.spotify.com/track/7f45ujO3uhVNMuJsCilHdT) | [정다운](https://open.spotify.com/artist/5XvEu36zfsb5fQfLTlCsJa) | [취기](https://open.spotify.com/album/4PZjczOxZW2Zsu7vN89ZDE) | 4:04 | 2022-05-11 | 2022-06-05 |

@@ -1,18 +1,18 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 26235,
+  "num_followers": 26317,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGNhNzdhZTgwOTcyNTU2ODlkMmM3ZTkwNzVjN2QwZmI4",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGYyMDk2OThiYzZiZDAxYzIyMDZkNjhmOGQxN2IzYjc4",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
         "name": "Shout Into The Noise",
-        "url": "https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t"
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 216244,
       "name": "Surrender",
-      "url": "https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN"
+      "url": "https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Moonshine Blue",
-        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
-      },
-      "artists": [
-        {
-          "name": "Jack Broadbent",
-          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
-        }
-      ],
-      "duration_ms": 168752,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Eric Tessmer 2",
         "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 249826,
       "name": "Good So Bad",
       "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Moonshine Blue",
+        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
+      },
+      "artists": [
+        {
+          "name": "Jack Broadbent",
+          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
+        }
+      ],
+      "duration_ms": 168752,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Nobody's Wrong",
         "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "added_at": "2022-08-31 19:45:43",

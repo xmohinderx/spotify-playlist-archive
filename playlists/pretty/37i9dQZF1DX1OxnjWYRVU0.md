@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,903 likes - 348 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,829 likes - 348 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 84 | [From Paris to Berlin](https://open.spotify.com/track/5Iyd7OK9tNJmglvVUqfc3g) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [From Paris to Berlin](https://open.spotify.com/album/1R1EmM9vtg3zMk2udHeHfa) | 2:35 |
 | 85 | [Counting Stars](https://open.spotify.com/track/3Ibj9W84ge1mFktsH5k5jB) | [JANFRY](https://open.spotify.com/artist/7xPwus0kL5smgbZkwKcvw8), [Strownlex](https://open.spotify.com/artist/5VPm8zCi9khmmWLAD8W0SI) | [Counting Stars](https://open.spotify.com/album/6pP0obntRYDlVM2kUu6q1t) | 2:43 |
 | 86 | [Love Me Like You Do](https://open.spotify.com/track/6sz6dOKU29pGniaB9iLOKw) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9), [Britt](https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1) | [Love Me Like You Do](https://open.spotify.com/album/42dY7ZBkV0QXAJeqeOFjCa) | 2:07 |
-| 87 | [If I Were a Boy \(feat\. LILIA\)](https://open.spotify.com/track/1sVy3sAls9D0OzzWpJZ3bt) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [UNO](https://open.spotify.com/artist/1xGUEXeXkgrux9lHAOI2di), [LILIA](https://open.spotify.com/artist/2iC30WZ2UGc8sl04IsV6Tm) | [If I Were a Boy \(feat\. LILIA\)](https://open.spotify.com/album/6L90wW0AvP9HDnn48CufG7) | 3:32 |
+| 87 | [If I Were a Boy](https://open.spotify.com/track/1sVy3sAls9D0OzzWpJZ3bt) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [UNO](https://open.spotify.com/artist/1xGUEXeXkgrux9lHAOI2di), [LILIA](https://open.spotify.com/artist/2iC30WZ2UGc8sl04IsV6Tm) | [If I Were a Boy](https://open.spotify.com/album/6L90wW0AvP9HDnn48CufG7) | 3:32 |
 | 88 | [It's A Hard Knock Life](https://open.spotify.com/track/3cfoT303oRVyVdSsX6UmuO) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [It's A Hard Knock Life](https://open.spotify.com/album/4pUlmbrBtD2zGFnwSan3HJ) | 2:21 |
 | 89 | [My Worst](https://open.spotify.com/track/7xOwLFwcF1HVbSU19ykco8) | [Engstrom](https://open.spotify.com/artist/2hOVY1S19pEzVBt9rhRCM7), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p) | [My Worst](https://open.spotify.com/album/55camwNumwyN984TLRcOx9) | 2:11 |
 | 90 | [It Wasn't Me](https://open.spotify.com/track/7fyJO1frnsizz23gTKgbdt) | [Tenchi](https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [It Wasn't Me](https://open.spotify.com/album/3VWYdpy2Jvzdz02yPCAbtj) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,954 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,948 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 41 | [Rosary](https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Rosary](https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0) | 3:58 |
 | 42 | [P's Up](https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu) | [Jali$co](https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83), [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [La Mafia Paga](https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC) | 1:54 |
 | 43 | [For Me](https://open.spotify.com/track/59wsqc9aVywLF487u24T6a) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [For Me](https://open.spotify.com/album/6TPdmANSKfAkzYRWHC2WgI) | 2:18 |
-| 44 | [Millions](https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Millions](https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL) | 2:28 |
+| 44 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
 | 45 | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Club Banger \(feat\. Peysoh\)](https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc) | 2:26 |
 | 46 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
 | 47 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
 | 48 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
 | 49 | [Grimey Park](https://open.spotify.com/track/4gfMy1g8KrfSiUTz6AZTYX) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Grimey Park](https://open.spotify.com/album/1IhrrkevqxaxKpylbMfSzF) | 2:43 |
-| 50 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
+| 50 | [Millions](https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Millions](https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL) | 2:28 |
 | 51 | [My Light](https://open.spotify.com/track/3hH4YLEQ2jJPhBbzRsp5Pk) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [My Light](https://open.spotify.com/album/32KAZuMWyfCY3MkIY5BtK1) | 4:04 |
 | 52 | [SOUTHBAY](https://open.spotify.com/track/0C2rZonaR85ASnbJSOEG2k) | [Rossi Rock](https://open.spotify.com/artist/0zM7iL4aQ9IlzciOyD4oHC) | [SOUTHBAY](https://open.spotify.com/album/3ivXlPqieAUDuHRElY5TAV) | 2:26 |
 | 53 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [No Chaser](https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [No Chaser](https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1) | 2:51 |
 | 80 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 
-Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMGVkYmZlMzBjNzM5NWIzYThhN2E3NWJjZjM5ODdiMGY3`
+Snapshot ID: `MTY2NzUwNDM4OSwwMDAwMDAwMDU5NjVhMmYwMDI2ZjdiNGQ4ZTYxZWE1ZTcwMjZiZmM5`

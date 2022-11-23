@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-364 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+365 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Set You Free](https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Set You Free](https://open.spotify.com/album/6v8K8RsjlK7K7SqM4MOpfp) | 3:20 | 2022-06-17 |  |
 | [Shadows](https://open.spotify.com/track/3j3PX04rM6SI8oNOl1T3n3) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Iván Reich](https://open.spotify.com/artist/4uBitmqyeR0fcbpoTyEbSg), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [Slaughterhouse](https://open.spotify.com/album/6gQBI7Qvjk7Xs5SLvc6Dcf) | 4:44 | 2021-12-03 |  |
 | [Shake](https://open.spotify.com/track/1jRgrTBpB8GIB99bYjnDL3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Shake](https://open.spotify.com/album/6apexIQhAgroK41Kt6FOjd) | 3:14 | 2021-10-29 | 2022-07-30 |
-| [Shalala](https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Shalala](https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv) | 2:48 | 2022-07-29 |  |
+| [Shalala](https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Shalala](https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv) | 2:48 | 2022-07-29 | 2022-11-23 |
 | [Show Me](https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Show Me](https://open.spotify.com/album/58XBbETLzxSyXVcboNyifS) | 2:54 | 2021-10-29 | 2022-05-28 |
 | [Show Me Love \- Jauz Remix](https://open.spotify.com/track/3ipDel0cxGt9bQLT0cLJTm) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love \(Jauz Remix\)](https://open.spotify.com/album/7JhtyZyqlpGggrgh3RugTT) | 4:24 | 2021-10-29 | 2022-05-28 |
 | [Sick N Heavy](https://open.spotify.com/track/1DcBJpHytoBKoNlSJ3JQar) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Crucast Vs Night Bass](https://open.spotify.com/album/5gb2j2cj1LgHMcHArs0dA2) | 3:07 | 2021-10-29 | 2022-01-15 |
@@ -318,6 +318,7 @@
 | [Take It Off](https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Take It Off](https://open.spotify.com/album/3SBO8m8bECaZIod2JiIzse) | 3:40 | 2021-10-29 | 2022-01-21 |
 | [Taking My Time](https://open.spotify.com/track/1MhT60RqS3GoWyCypic28z) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Taking My Time](https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS) | 2:35 | 2022-01-28 |  |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-10-29 | 2022-05-28 |
+| [TEC\-9](https://open.spotify.com/track/44prQa5cc4wj0gnS5y5tt1) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [TEC\-9](https://open.spotify.com/album/36agK8BrIfyOpjrP0sMxsK) | 2:22 | 2022-11-11 |  |
 | [Techno](https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Techno](https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE) | 3:42 | 2022-06-24 |  |
 | [Teen Scene \(ft Buddy\) \- Wax Motif Remix](https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Teen Scene \(Remixes\)](https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I) | 4:31 | 2021-10-29 | 2022-05-28 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-74 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+76 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Erased](https://open.spotify.com/track/4P2OiHcrk7j10MHFiVK3N3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 3:22 | 2022-01-17 |  |
 | [Erased](https://open.spotify.com/track/6rkYJm6nFi6twitGUVECfK) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/2quuIlEzXOKnu3z48wtK0b) | 3:22 | 2022-01-17 | 2022-07-29 |
 | [Ex's And Oh's](https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Death\-Grip On Yesterday](https://open.spotify.com/album/2S7Gg4uwg8Xh7WC4abXpAK) | 3:31 | 2022-01-17 |  |
-| [Forced March](https://open.spotify.com/track/4Z4ig9pGglNaD651mNup8p) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Destroy The Machines](https://open.spotify.com/album/552KfDiDlMOXyQJIPEKVcZ) | 3:47 | 2022-01-17 |  |
+| [Forced March](https://open.spotify.com/track/4Z4ig9pGglNaD651mNup8p) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Destroy The Machines](https://open.spotify.com/album/552KfDiDlMOXyQJIPEKVcZ) | 3:47 | 2022-01-17 | 2022-11-23 |
 | [Forever](https://open.spotify.com/track/3vMPhppWYQoLN7Ji4JXWo7) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 4:42 | 2022-01-17 |  |
 | [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 | 2022-01-17 |  |
 | [Four Walls](https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [Brainwashed \(Deluxe\)](https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ) | 5:07 | 2022-01-17 | 2022-07-29 |
@@ -61,13 +61,14 @@
 | [On Wings Of Lead](https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous \(Explicit Version\)](https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC) | 5:21 | 2022-01-17 | 2022-09-25 |
 | [On Wings of Lead](https://open.spotify.com/track/7MMc50k0I12cCeXS8503X9) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/2ZWA7Os6UzInZOC9SJx0uz) | 5:21 | 2022-01-17 | 2022-07-29 |
 | [On Wings Of Lead](https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz) | 5:21 | 2022-01-17 |  |
-| [Paramount](https://open.spotify.com/track/3xuOmbJpeVFsMY7dh0Pc3e) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Guardians](https://open.spotify.com/album/3KJ44LRyBaBsZi2eW79pCV) | 4:48 | 2022-01-17 |  |
+| [Paramount](https://open.spotify.com/track/3xuOmbJpeVFsMY7dh0Pc3e) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Guardians](https://open.spotify.com/album/3KJ44LRyBaBsZi2eW79pCV) | 4:48 | 2022-01-17 | 2022-11-23 |
 | [Pittsburgh \(No Intro\)](https://open.spotify.com/track/6RcsAN8XF5KX6mMh6dum8e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let the Ocean Take Me](https://open.spotify.com/album/0gJQUJxCWLw6V5IlDKarWI) | 3:59 | 2022-01-17 |  |
 | [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 | 2022-01-17 |  |
 | [Reincarnate](https://open.spotify.com/track/4vVUoi4U6ikqH2wIoE2fmG) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Reincarnate](https://open.spotify.com/album/7gF74deMBvX9Bqyn5RCn8r) | 3:40 | 2022-01-17 |  |
 | [Right Side Of The Bed](https://open.spotify.com/track/3PhrThKR4BSspkg7zCTECh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 3:42 | 2022-10-25 |  |
 | [Rx Contender The Pretender](https://open.spotify.com/track/2DijQ0le9S4m6ZkvkOPiuK) | [Hopesfall](https://open.spotify.com/artist/1FEgAMsvc3DM2OtT4dPn9i) | [Magnetic North](https://open.spotify.com/album/4ej5NS1LK7oTV9JtkQ4GSo) | 4:40 | 2022-10-25 |  |
 | [SECOND & SEBRING](https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/2YOIrzi5u5xuiGCA7GhCMS) | 3:49 | 2022-01-17 |  |
+| [Shadow Moses](https://open.spotify.com/track/68osIGtVjM7QWVe6pazLHj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 | 2022-11-22 |  |
 | [Short Stories With Tragic Endings](https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Too Bad You're Beautiful](https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm) | 9:25 | 2022-01-17 |  |
 | [Sword In Mouth, Fire Eyes](https://open.spotify.com/track/5GQlWWb1evGQw5CwZ6iRJg) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Wrongdoers](https://open.spotify.com/album/2n6jhBxAIapcSnLciCEF4p) | 4:25 | 2022-10-25 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2022-01-17 |  |
@@ -81,6 +82,7 @@
 | [Two Weeks](https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/5Idfe5SehEAZ9uyv9fSKu1) | 4:17 | 2022-01-17 |  |
 | [Unholy Confessions](https://open.spotify.com/track/20g7z9R1wjE7EtVnB7XEjS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/4A6vIZBEKEAGoBsaWAZ0ck) | 4:43 | 2022-01-17 | 2022-07-29 |
 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 | 2022-01-17 |  |
+| [White Washed](https://open.spotify.com/track/0jCUZSnjn6hxp7zgX3h2rF) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:46 | 2022-11-22 |  |
 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 | 2022-01-17 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

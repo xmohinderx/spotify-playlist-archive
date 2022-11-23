@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,408 likes - 500 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,510 likes - 500 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -504,9 +504,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 494 | [Lo\-fi Radio](https://open.spotify.com/track/65iNa3MLS7bQugeJIaxUUX) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Lo\-fi Radio](https://open.spotify.com/album/26xbX5jZTUU7QsrEN8U16C) | 1:24 |
 | 495 | [Warwick](https://open.spotify.com/track/3HG3Go7Yy72QSFHJ88hQuG) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Warwick](https://open.spotify.com/album/1yAZbjVVKbnrQeFaL5dcTo) | 1:39 |
 | 496 | [Light waves](https://open.spotify.com/track/6xgWxl7Apj06NS6B2Wh119) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Mutsu](https://open.spotify.com/album/0tZojb9n85XVX4pj1IAWbW) | 1:47 |
-| 497 | [Summer Haze](https://open.spotify.com/track/0Dp5rpjZ1JbZaxJwpnFd89) | [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1), [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs) | [Summer Haze](https://open.spotify.com/album/5r1HnrWdQ65ocYn4uWTh5W) | 1:51 |
+| 497 | [Summer Haze](https://open.spotify.com/track/5CEC9H6oG7XGQvpPiXmTxt) | [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs), [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1) | [Summer Haze](https://open.spotify.com/album/4Z4Aw6mJ3AofuCNF3N2ZbB) | 1:51 |
 | 498 | [comin 4 ya](https://open.spotify.com/track/6ld2KFMZCkKtf3PBCJDqaH) | [Analog Sunset](https://open.spotify.com/artist/1b5zsebDdBntav2svPU0TZ) | [comin 4 ya](https://open.spotify.com/album/02owCKt9bWzEiftAGO02lh) | 2:24 |
 | 499 | [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 |
 | 500 | [Slow Gaze](https://open.spotify.com/track/5JNtPcB3X3tAsvV8dgRVC4) | [SASAF](https://open.spotify.com/artist/3mL9nuRLzQ6GNwrrPIxShl) | [Slow Gaze](https://open.spotify.com/album/3gE84IEeTCcjLlCPhBEyD2) | 2:27 |
 
-Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMDk1OGNlOTFkYjQxN2RhNTJiZmE2N2Y2MGE5YjEyMDM1`
+Snapshot ID: `MTY2ODc2OTMwNCwwMDAwMDAwMDJmNGMxMjYwMjY2YThhYzI0MzUxN2YxYmE4YTE2Nzlj`

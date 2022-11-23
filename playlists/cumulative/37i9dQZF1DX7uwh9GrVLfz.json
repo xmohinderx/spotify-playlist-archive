@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: 10-FEET",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: LOW IQ 01",
   "name": "Punk Japan",
   "published_playlist_ids": [
     "7mGuiem8b98d8gMLhYEh8n"
@@ -4732,6 +4732,32 @@
     },
     {
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN"
+      },
+      "artists": [
+        {
+          "name": "LOW IQ 01",
+          "url": "https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc"
+        },
+        {
+          "name": "\u7d30\u7f8e\u6b66\u58eb",
+          "url": "https://open.spotify.com/artist/1oJMOMMhuPnGW9Dd4O1Acm"
+        },
+        {
+          "name": "TOSHI-LOW",
+          "url": "https://open.spotify.com/artist/7H4Uw9BWE43eV7Ut2HjvQl"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222147,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV"
+    },
+    {
+      "album": {
         "name": "S.A.L",
         "url": "https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L"
       },
@@ -7633,7 +7659,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 207200,
       "name": "\u5fc3\u306e\u65c5",
       "url": "https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl"

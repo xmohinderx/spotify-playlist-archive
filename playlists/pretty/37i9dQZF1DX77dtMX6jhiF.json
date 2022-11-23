@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 1850,
+  "num_followers": 1844,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMGM1MmQxN2FjMGE3MjVjMGQzZGQxYWNmMTM0MDI4ZWVi",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDZjYzA2NGQ4Yzc2ZmI2YzRmODVmYTg5YjUxMWNkYjkw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "4:44",
         "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 240217,
       "name": "4pm in Calabasas",
       "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -495,22 +495,6 @@
       "duration_ms": 381560,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -575,6 +559,22 @@
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
     },
     {
       "added_at": "2022-10-01 16:57:49",

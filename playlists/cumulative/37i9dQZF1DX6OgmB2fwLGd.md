@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Featuring new music by Yung Gravy.
 
-472 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+473 songs - 19 hr 35 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Giddy Up](https://open.spotify.com/track/2G0sI8JvJnccz1p22SzLde) | [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [Still Finessin'](https://open.spotify.com/album/5o4hDlHnSv6EgaMe3f8c7q) | 2:59 | 2022-09-19 | 2022-10-12 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-21 | 2022-05-21 |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
-| [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 | 2022-09-20 |  |
+| [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 | 2022-09-20 | 2022-11-23 |
 | [GTTM](https://open.spotify.com/track/4aQzgQwLrFSY1ARcF2999k) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/0135TgD7aR1sB0l1Ctx8Ic) | 2:22 | 2022-08-06 |  |
 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 | 2022-08-06 | 2022-08-31 |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-10-07 |  |
@@ -420,8 +420,9 @@
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-03-16 | 2022-07-30 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-07-02 |
 | [swaggin like this \(with Lancey Foux\)](https://open.spotify.com/track/74nrICPHBFsUZbUDsuAU7e) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [swaggin like this](https://open.spotify.com/album/5MhEmwnxLoMYYvIbNJFscF) | 2:24 | 2022-09-04 | 2022-09-24 |
+| [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 | 2022-11-22 |  |
 | [Swiper Of The Year](https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7) | [Teejayx6](https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y) | [Swiper Of The Year](https://open.spotify.com/album/4O7rwsxAeJE4jjNIoEIFYI) | 1:28 | 2022-01-07 | 2022-01-13 |
-| [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 | 2022-09-23 |  |
+| [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 | 2022-09-23 | 2022-11-23 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 |  |
 | [TBTF](https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [TBTF](https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg) | 2:52 | 2022-01-21 | 2022-02-05 |
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 | 2022-10-15 |

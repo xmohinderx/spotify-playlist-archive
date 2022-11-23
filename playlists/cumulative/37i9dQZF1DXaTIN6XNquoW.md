@@ -4,13 +4,14 @@
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-88 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
+89 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place With No Name](https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 5:35 | 2019-01-14 |  |
+| [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 | 2022-08-03 |  |
 | [ABC](https://open.spotify.com/track/3kRmEuIJSgAs2xabcFt7j3) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [2021 Mega Hits](https://open.spotify.com/album/7N2zEEZBWKARZnDtRNkX9v) | 2:57 | 2022-08-03 | 2022-11-13 |
-| [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2019-01-14 |  |
+| [ABC](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) | 2:57 | 2019-01-14 | 2022-11-23 |
 | [ABC](https://open.spotify.com/track/6nzhhT57iQYrbqumru9NNP) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 2:59 | 2019-01-14 | 2022-07-29 |
 | [Ain't No Sunshine](https://open.spotify.com/track/6ac4lvV0LKQlbHYXJ7vTDb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Anthology: The Best Of Michael Jackson](https://open.spotify.com/album/36K3cD4i4TK0JkU1sU2wOD) | 4:11 | 2019-01-14 |  |
 | [All I Do Is Think Of You](https://open.spotify.com/track/5GoheMjTcV8xbbUUWchvjl) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Moving Violation](https://open.spotify.com/album/188ahHnUfbFoFoBfEmqs1i) | 3:12 | 2019-01-14 |  |

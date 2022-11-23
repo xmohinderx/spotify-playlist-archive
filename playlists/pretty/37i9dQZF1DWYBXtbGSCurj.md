@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,556 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,433 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 20 | [Relógio](https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Relógio](https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN) | 2:40 |
 | 21 | [ARIZONA](https://open.spotify.com/track/11hKyz00uuKn0Yy9rfidIa) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [ARIZONA / OLHARES](https://open.spotify.com/album/2VU2NbiaglQOlTh7jL5o9O) | 2:19 |
 | 22 | [Scarsito](https://open.spotify.com/track/1DkG1i4ynXWn6DE0SSQKhq) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Scarsito](https://open.spotify.com/album/6neZTcqfGnJKlKkypyH9tU) | 2:16 |
-| 23 | [Blusa De Time](https://open.spotify.com/track/4yRQGwJHwd5BgvrJXqfdYc) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blusa De Time](https://open.spotify.com/album/4i57P80Q0lfKv6EITiuojK) | 3:00 |
+| 23 | [Blusa De Time](https://open.spotify.com/track/4yRQGwJHwd5BgvrJXqfdYc) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blusa De Time](https://open.spotify.com/album/4i57P80Q0lfKv6EITiuojK) | 3:00 |
 | 24 | [REALENGO FREESTYLE](https://open.spotify.com/track/697CJ1elAb3P9w3vFitdk9) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [REALENGO FREESTYLE](https://open.spotify.com/album/5al1p5r83PShBKtSgLWicv) | 3:30 |
 | 25 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 26 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |

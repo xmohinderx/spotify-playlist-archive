@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Naviduetos Vol. 1",
+        "url": "https://open.spotify.com/album/3wAnzbWgdDiY0n7EhNBtk4"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/3G2l8ozoaFgjwxUq8Ars9G"
+        },
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/2RgwK55VFMeb9DkiSaNJIo"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182042,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs"
+    },
+    {
+      "album": {
         "name": "A Holiday Christmas Piano",
         "url": "https://open.spotify.com/album/0H4VHOgqUnFFpFawscWQG9"
       },
@@ -695,7 +717,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 178720,
       "name": "Llorar\u00e1s en Navidad",
       "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"

@@ -4,13 +4,14 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-121 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+122 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2022-05-25 |  |
 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 | 2022-05-25 |  |
 | [Adwarmance \- The Wetlands](https://open.spotify.com/track/3wXpfT2eIV1HScP3UU2vIF) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [The Wetlands](https://open.spotify.com/album/2eBxYJQfDK8XNK4IwQ9uCD) | 3:40 | 2022-05-25 |  |
+| [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 | 2022-11-22 |  |
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2022-05-25 |  |
 | [Angelic Harmony](https://open.spotify.com/track/5LfG3nuryC9SQ1KUtKSjUq) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 3:02 | 2022-05-25 |  |
 | [At One With Nature](https://open.spotify.com/track/3ex5KMu8ncO5iDWzAObPMy) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [At One With Nature](https://open.spotify.com/album/55FaUwYwc5gOqYc0Mtm5ua) | 2:53 | 2022-10-14 |  |

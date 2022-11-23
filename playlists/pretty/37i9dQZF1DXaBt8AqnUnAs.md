@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,461 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,623 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 57 | [Amor Espacial](https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Amor Espacial](https://open.spotify.com/album/5XZhBHLbBp1xUwmz5A86rJ) | 3:43 |
 | 58 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |
 | 59 | [O Show Tem Que Continuar](https://open.spotify.com/track/7pkEYbWOeET1BI3SQ76XsH) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [O Show Tem Que Continuar](https://open.spotify.com/album/1fxxfFbWZIdRsKybeAmLTu) | 2:39 |
-| 60 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 |
+| 60 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |
 | 61 | [Meu Anjo](https://open.spotify.com/track/1pUY5SWkkMGnUxQyMTCS7v) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Psicodelic](https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR) | 3:01 |
 | 62 | [Lua](https://open.spotify.com/track/6dv0kYjuj6YjSHm4y1GPYU) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Lua](https://open.spotify.com/album/7hG5lVX3IIk4NzL3Jhw8Es) | 3:05 |
 | 63 | [Convite](https://open.spotify.com/track/1LWGL9Clf8rzbvgr2mXHCB) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6) | [Convite](https://open.spotify.com/album/4iax4ep3hIh3q5YesIiqdv) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Mil Vezes](https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Mil Vezes](https://open.spotify.com/album/6J8oqkGDyaMpBt6ji1BOnq) | 3:48 |
 | 75 | [Barbie Marley](https://open.spotify.com/track/58IVw28EnEMYwMwBg4bm9R) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Fa7her](https://open.spotify.com/album/0M40ouy3DGERXGiMffJR15) | 3:36 |
 
-Snapshot ID: `MTY2ODc0MDQ2MCwwMDAwMDAwMDM4OTczYjkxMzdlNGJjZGM1ZTU1NWQzZDkzZjc4Mzdh`
+Snapshot ID: `MTY2ODc0MDQ2MCwwMDAwMDAwMDIzMWU1NWZiNGNhYWQ0YmYzNjlhNGVjMWNiMzdiOWU5`

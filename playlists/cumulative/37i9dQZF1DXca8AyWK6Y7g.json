@@ -7898,6 +7898,24 @@
     },
     {
       "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ"
+    },
+    {
+      "album": {
         "name": "Fly Me To The Moon",
         "url": "https://open.spotify.com/album/6TXk4ZijQvQcq5EqHkJ5bI"
       },
@@ -24983,7 +25001,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 199089,
       "name": "Used To",
       "url": "https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k"

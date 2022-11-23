@@ -1,15 +1,15 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 86433,
+  "num_followers": 86426,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA0NjUzOCwwMDAwMDAwMDY2N2YyMWE1MWRiZDRiNTlkNDE1YjYzMzI4OTE4NmY0",
+  "snapshot_id": "MTY2OTA0NjUzOCwwMDAwMDAwMGM2YTYxOWE2ZjJlN2UxYjE1N2E3ZjMyZWM3MmM2OTUw",
   "tracks": [
     {
-      "added_at": "2022-11-22 01:39:17",
+      "added_at": "2022-11-23 01:32:31",
       "album": {
         "name": "\u80fd\u4e0d\u80fd",
         "url": "https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4"
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-14 06:02:27",
       "album": {
-        "name": "\u5929\u6c14\u9884\u62a5",
-        "url": "https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC"
-      },
-      "artists": [
-        {
-          "name": "Cindy\u5927\u87e0\u6843\u5b50",
-          "url": "https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH"
-        }
-      ],
-      "duration_ms": 171639,
-      "name": "\u5929\u6c14\u9884\u62a5",
-      "url": "https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H"
-    },
-    {
-      "added_at": "2022-11-14 06:02:27",
-      "album": {
         "name": "\u66d6\u6627",
         "url": "https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk"
       },
@@ -743,6 +727,26 @@
     {
       "added_at": "2022-11-14 06:02:27",
       "album": {
+        "name": "\u8881\u8a60\u7433Cindy",
+        "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
+      },
+      "artists": [
+        {
+          "name": "Cindy Yen",
+          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
+        },
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "\u756b\u6c99",
+      "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
+    },
+    {
+      "added_at": "2022-11-14 06:02:27",
+      "album": {
         "name": "SHERO",
         "url": "https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG"
       },
@@ -755,6 +759,22 @@
       "duration_ms": 241040,
       "name": "\u7231\u4e0a\u4f60",
       "url": "https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf"
+    },
+    {
+      "added_at": "2022-11-14 06:02:27",
+      "album": {
+        "name": "\u5929\u6c14\u9884\u62a5",
+        "url": "https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC"
+      },
+      "artists": [
+        {
+          "name": "Cindy\u5927\u87e0\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH"
+        }
+      ],
+      "duration_ms": 171639,
+      "name": "\u5929\u6c14\u9884\u62a5",
+      "url": "https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H"
     },
     {
       "added_at": "2022-11-14 06:02:27",
@@ -791,26 +811,6 @@
       "duration_ms": 135000,
       "name": "\u6c27\u5316\u6c22",
       "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
-    },
-    {
-      "added_at": "2022-11-14 06:02:27",
-      "album": {
-        "name": "\u8881\u8a60\u7433Cindy",
-        "url": "https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP"
-      },
-      "artists": [
-        {
-          "name": "Cindy Yen",
-          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
-        },
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "\u756b\u6c99",
-      "url": "https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u"
     },
     {
       "added_at": "2022-11-14 06:02:27",

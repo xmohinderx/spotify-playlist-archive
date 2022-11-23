@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-773 songs - 1 day 20 hr 8 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
+774 songs - 1 day 20 hr 11 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Broken clock](https://open.spotify.com/track/3pp8VOMFQHnPENvhde8MRa) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART13](https://open.spotify.com/album/0ELT34v0t3dM1JrCuwK3d2) | 3:02 | 2022-05-03 | 2022-07-29 |
 | [Broken wall clock](https://open.spotify.com/track/2xJOkVCMB4ykizGe8nXwrt) | [Subin Kim](https://open.spotify.com/artist/70T8aTzu4LZb9qNvseBLBL) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-05-03 | 2022-06-22 |
 | [Brother](https://open.spotify.com/track/2dCbrVrvB1rSVsnoLAQQIm) | [Kwon Inha](https://open.spotify.com/artist/7KSAO8NGd2dP4XnhQwXe4m), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 4:05 | 2022-04-22 | 2022-07-19 |
-| [Brush](https://open.spotify.com/track/7v583zjQNYZnSBkl0VXa9E) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 FINAL Song of Life Mission](https://open.spotify.com/album/1pkej2qxqM2RGMyVPuopua) | 3:51 | 2022-04-22 |  |
+| [Brush](https://open.spotify.com/track/7v583zjQNYZnSBkl0VXa9E) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 FINAL Song of Life Mission](https://open.spotify.com/album/1pkej2qxqM2RGMyVPuopua) | 3:51 | 2022-04-22 | 2022-11-23 |
 | [Brush](https://open.spotify.com/track/5w6U3MoXRlHjjF6TVzEGwm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART29](https://open.spotify.com/album/4BRLYsE9wN2cIg1lDwopbo) | 4:26 | 2022-06-18 | 2022-06-30 |
 | [By chance](https://open.spotify.com/track/0LUZXtO701dFwRUfnjXIaC) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:03 | 2022-05-03 | 2022-07-27 |
 | [Cafe of the winter](https://open.spotify.com/track/5a93Qg9fiWbIFGg6TrcKea) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 2:47 | 2022-05-03 | 2022-07-19 |
@@ -133,6 +133,7 @@
 | [Dancing queen](https://open.spotify.com/track/32lbTNz4m6WkX8xGBBTvf3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/7AZdO3pbk62WXBTK1KA8hn) | 4:01 | 2022-04-22 | 2022-07-14 |
 | [Dancing queen](https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3) | [Jangmin tiger butterfly](https://open.spotify.com/artist/2VcrBOUVCPwfxFseLnZfI7) | [Music source of Mr\. Trot team mission best](https://open.spotify.com/album/5YJpJkm9TPq6laP0qTDzb2) | 4:01 | 2022-08-09 | 2022-11-17 |
 | [Dash](https://open.spotify.com/track/0yRROevl79BzSYgnxb69WA) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:20 | 2022-04-21 | 2022-05-24 |
+| [Dead drunk](https://open.spotify.com/track/78zqNlzWzlZzuKqHLXSroo) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [HourGlass](https://open.spotify.com/album/25iGM255bqo8i5s06PeE7Q) | 3:18 | 2022-10-07 |  |
 | [Dear Love](https://open.spotify.com/track/0X9BdycxkN9S19gA1v2nc7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:42 | 2022-06-18 | 2022-07-17 |
 | [Dear Love](https://open.spotify.com/track/6oeZb8w4IODdRYdYaL0NzB) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:36 | 2022-04-22 | 2022-06-23 |
 | [Dear love](https://open.spotify.com/track/6jC9rai6tkXAn32dS9Jds8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:42 | 2022-04-22 | 2022-05-04 |

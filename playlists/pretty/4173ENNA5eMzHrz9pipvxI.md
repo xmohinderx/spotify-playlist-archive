@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: NERVO
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,545 likes - 22 songs - 1 hr 3 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,551 likes - 22 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 4 | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Lions Roar \(feat\. Philip Strand\)](https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V) | 2:57 |
 | 5 | [KOMNAARMETOE](https://open.spotify.com/track/1BXeCo71ZZWXfMPmU7bpWs) | [Ibranovski](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [KOMNAARMETOE](https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl) | 2:11 |
 | 6 | [Carol Of The Bells](https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Carol Of The Bells](https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy) | 3:27 |
-| 7 | [Rude Boy](https://open.spotify.com/track/65h5CykM8uuCkAXvzadztl) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Rude Boy](https://open.spotify.com/album/1I28SZ74p1LngWLhtS4VNj) | 2:22 |
+| 7 | [Rude Boy](https://open.spotify.com/track/65h5CykM8uuCkAXvzadztl) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Rude Boy](https://open.spotify.com/album/1I28SZ74p1LngWLhtS4VNj) | 2:22 |
 | 8 | [Left & Right \(MXRCVRY Remix\)](https://open.spotify.com/track/3dHucT6ZXMhHQNqRW7AkKb) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [MXRCVRY](https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf) | [Left & Right \(MXRCVRY Remix\)](https://open.spotify.com/album/6G9QKvnZMdNp3cXiMwXdXm) | 2:29 |
 | 9 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 |
 | 10 | [Tempo](https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Tempo](https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa) | 3:18 |

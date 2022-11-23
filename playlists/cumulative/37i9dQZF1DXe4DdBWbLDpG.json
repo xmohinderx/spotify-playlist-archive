@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Mecha y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
+  "description": "Spektro y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
   "name": "Red Bull Batalla",
   "published_playlist_ids": [
     "0czRm1bZ5YA9YxDSXYTnLg"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 387516,
       "name": "Adulterio vs. Diego - Semifinal - Live",
       "url": "https://open.spotify.com/track/5aCI4HmAdhNQ0MY57AsZfP"
@@ -1851,7 +1851,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 762598,
       "name": "Jes\u00fas LC vs. Blon - Semifinal - Live",
       "url": "https://open.spotify.com/track/4UZwmkQmImIFYdJNI2srdK"
@@ -1881,6 +1881,32 @@
       "duration_ms": 178275,
       "name": "Jes\u00fas LC vs. Sweet Pain - 3er Lugar - Live",
       "url": "https://open.spotify.com/track/3Re1WupcL4r8N6eD3U5pqx"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Uruguay 2022 (Live)",
+        "url": "https://open.spotify.com/album/047V5Me8Sp1RgsSzTal8op"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Jeyem",
+          "url": "https://open.spotify.com/artist/1ncUEI0ZTYh2e7iO6gpCzj"
+        },
+        {
+          "name": "Way2freshh",
+          "url": "https://open.spotify.com/artist/1XXV0C8cCyI3m6S0yCNMLw"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309209,
+      "name": "Jeyem vs Way2freshh - Seminfinal - Live",
+      "url": "https://open.spotify.com/track/27XojCDpbhc4o0uSTPVeLn"
     },
     {
       "album": {
@@ -1945,6 +1971,32 @@
       "duration_ms": 1474222,
       "name": "KDT RSD vs Shield Master - Final",
       "url": "https://open.spotify.com/track/50J2xvv4fyOj6WyvN4u94j"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Uruguay 2022 (Live)",
+        "url": "https://open.spotify.com/album/047V5Me8Sp1RgsSzTal8op"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Klauw",
+          "url": "https://open.spotify.com/artist/4U3EGyp0N9CcyOVapmvYN0"
+        },
+        {
+          "name": "Way2freshh",
+          "url": "https://open.spotify.com/artist/1XXV0C8cCyI3m6S0yCNMLw"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347619,
+      "name": "Klauw vs Way2freshh - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/14ETc7jAibbf9fn3KKeFq9"
     },
     {
       "album": {
@@ -3256,6 +3308,58 @@
     },
     {
       "album": {
+        "name": "Final Nacional Uruguay 2022 (Live)",
+        "url": "https://open.spotify.com/album/047V5Me8Sp1RgsSzTal8op"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Spektro",
+          "url": "https://open.spotify.com/artist/58KfghhJRsE8VdhDD3TyUC"
+        },
+        {
+          "name": "Jeyem",
+          "url": "https://open.spotify.com/artist/1ncUEI0ZTYh2e7iO6gpCzj"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519953,
+      "name": "Spektro vs Jeyem - Final - Live",
+      "url": "https://open.spotify.com/track/1XJxknm5bADKne1p2zkdcz"
+    },
+    {
+      "album": {
+        "name": "Final Nacional Uruguay 2022 (Live)",
+        "url": "https://open.spotify.com/album/047V5Me8Sp1RgsSzTal8op"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Spektro",
+          "url": "https://open.spotify.com/artist/58KfghhJRsE8VdhDD3TyUC"
+        },
+        {
+          "name": "Klauw",
+          "url": "https://open.spotify.com/artist/4U3EGyp0N9CcyOVapmvYN0"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328511,
+      "name": "Spektro vs Klauw - Semifinal - Live",
+      "url": "https://open.spotify.com/track/5Ht2W2ATHOLRFMvQnOyiAu"
+    },
+    {
+      "album": {
         "name": "Final Nacional Per\u00fa 2022",
         "url": "https://open.spotify.com/album/3kq4PBKwO0U6Vzql6KiCTp"
       },
@@ -3363,7 +3467,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 385433,
       "name": "Switch vs. Cemoke - Semifinal - Live",
       "url": "https://open.spotify.com/track/0xSjMrEeMTNs9BvRHlkCsA"
@@ -3569,7 +3673,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 808849,
       "name": "Tirpa vs. Sweet Pain - Semifinal - Live",
       "url": "https://open.spotify.com/track/7BAJ5lkWMHIP11fphXBrg9"

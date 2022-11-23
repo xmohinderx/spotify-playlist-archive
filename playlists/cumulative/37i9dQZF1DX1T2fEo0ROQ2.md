@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-361 songs - 19 hr 2 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
+365 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/1wtHZAuCFEXkAvds0KmB92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 | 2022-05-26 |  |
 | [Lonley Sea](https://open.spotify.com/track/2C0yGv2SPRTfb0O6FMIEb5) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Lonley Sea](https://open.spotify.com/album/5bwGcChnF5bLKfOZISQ5u9) | 3:30 | 2022-05-26 |  |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2022-05-26 |  |
+| [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 |  |
 | [Lucid](https://open.spotify.com/track/3TKabaNGBzTez8EOGbdxrs) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 3:25 | 2022-05-26 |  |
 | [Lucid Alchemy](https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Lucid Alchemy](https://open.spotify.com/album/4X8CwAlT2DY2CAtt4H6bHz) | 4:18 | 2022-05-26 | 2022-09-03 |
 | [Lunar Glow](https://open.spotify.com/track/1aprpxWKe3dmT8uzc6bhvG) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Ocean Call](https://open.spotify.com/album/6KoognMXwtcMf1seBHZbDG) | 3:06 | 2022-05-26 |  |
@@ -207,6 +208,7 @@
 | [Montañas Azules](https://open.spotify.com/track/7bYvEQn3mLTo6mROeowwl9) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 4:47 | 2022-07-22 | 2022-11-12 |
 | [Moonlight Dreams](https://open.spotify.com/track/6nZs34O75vPNz6dnxegdCR) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Moonlight Dreams](https://open.spotify.com/album/5MNnNewrKaRKPyjhacvrAI) | 3:20 | 2022-05-26 |  |
 | [Moonstone Beach](https://open.spotify.com/track/2EqyTHz6iFnmitFW3x1TiG) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Moonstone Beach](https://open.spotify.com/album/5zLFMYGErM2WYAYMbFZLNs) | 3:06 | 2022-05-26 |  |
+| [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [Morning Breeze](https://open.spotify.com/track/6aLQ1ZqHDtktMSA5ClaQx6) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Hidden Memories](https://open.spotify.com/album/2jwkNNR7S7oPrMyfViGxdy) | 3:24 | 2022-05-26 |  |
 | [Morning Lagoon](https://open.spotify.com/track/0A3lEajNx703qe1CfnemYt) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/1wUSsU6jCOvPAGpQh9aRUO) | 3:54 | 2022-07-22 |  |
 | [Morning Lagoon](https://open.spotify.com/track/3KKfFCcEjSp4sKqhHjUUGJ) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/6CggWBPDBfzexrJ6ZZY5Ir) | 3:54 | 2022-05-26 | 2022-07-29 |
@@ -323,6 +325,7 @@
 | [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 |  |
 | [Tempered Moon](https://open.spotify.com/track/5cK8BiZ9mdqO4gQbdb4ZzM) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Tempered Moon](https://open.spotify.com/album/1tUhnUIDFje9mfl2IxGU0Y) | 3:40 | 2022-05-26 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
+| [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2022-11-22 |  |
 | [The Deep Blue](https://open.spotify.com/track/3fPDwXNYVnj3ROLieCtOGR) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Distant Winds](https://open.spotify.com/album/1EhONt6PrP5KjE3ngU23kb) | 3:16 | 2022-05-26 | 2022-10-08 |
 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2022-05-26 | 2022-08-16 |
 | [The Forest](https://open.spotify.com/track/4NId2w4cZ9D61Stbr79isY) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [The NIght Sky](https://open.spotify.com/album/1Si7otf4LNskpi7tmv8XfG) | 4:54 | 2022-05-26 |  |
@@ -330,6 +333,7 @@
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2022-05-26 |  |
 | [The Long White](https://open.spotify.com/track/5mY0N7UZF81zOQv9N3RHZi) | [Ben Jinn](https://open.spotify.com/artist/40ZZSzRJe2W6JFoAGOcrfP) | [The Long White](https://open.spotify.com/album/6lVFVsL2h2IGhEhQ3CSSmX) | 3:10 | 2022-05-26 |  |
 | [The Lost Key](https://open.spotify.com/track/5acpnondtQUm1FJDXNT66J) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [The Lost Key](https://open.spotify.com/album/35gj3vp6JpqYF58z4VsA6q) | 2:40 | 2022-05-26 |  |
+| [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [The Late Hours Preludes](https://open.spotify.com/artist/7yd8Z9nwt2rutYi50mTPai) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 | 2022-11-22 |  |
 | [The Second Moon](https://open.spotify.com/track/4sX9jVZrUiYAJmzKsezBpu) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 3:29 | 2022-05-26 |  |
 | [The Setting Sun](https://open.spotify.com/track/6TYC1zqaxjTvrii0j9I65Q) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [The Setting Sun](https://open.spotify.com/album/5jMIIHZeZ48SJUutptDD3Y) | 3:36 | 2022-05-26 |  |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2022-05-26 |  |

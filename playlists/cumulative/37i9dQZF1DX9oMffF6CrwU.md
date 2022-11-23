@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-73 songs - 4 hr 33 min - not published yet
+74 songs - 4 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [The Devil Is All Around](https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Swimmin' Time](https://open.spotify.com/album/1mcKhLfGNvsvr2dNwIUez9) | 4:02 | 2022-10-27 |  |
 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 | 2022-10-27 |  |
 | [The Ghost Who Walks](https://open.spotify.com/track/3KrujCpaooRF2xXc7cfULh) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1) | 3:02 | 2022-10-27 |  |
-| [The Gift of the Rose \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/3Yk3bb5rOfk8l2dqrN7RY7) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj), [Elise McQueen](https://open.spotify.com/artist/5EMZRBtkW7gdgNubSlJVXI) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 2:38 | 2022-10-27 |  |
+| [The Gift of the Rose \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/3Yk3bb5rOfk8l2dqrN7RY7) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj), [Elise McQueen](https://open.spotify.com/artist/5EMZRBtkW7gdgNubSlJVXI) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 2:38 | 2022-10-27 | 2022-11-23 |
+| [The Gift of the Rose \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/5QS2WK90AEed7xEu0sDNSl) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj), [Elise McQueen](https://open.spotify.com/artist/5EMZRBtkW7gdgNubSlJVXI) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1) | 2:38 | 2022-10-27 |  |
 | [The Railroad](https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg) | 4:10 | 2022-10-27 |  |
 | [The Whistler](https://open.spotify.com/track/3MnXp8H4mtNtxTmb1OLPXc) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Shadows, Greys & Evil Ways](https://open.spotify.com/album/5CQMRG9wGOydz8ctzehB4q) | 3:21 | 2022-10-27 |  |
 | [The Yawning Grave](https://open.spotify.com/track/4P21W3eMiIVS9ON4ctlxnb) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:12 | 2022-10-27 |  |

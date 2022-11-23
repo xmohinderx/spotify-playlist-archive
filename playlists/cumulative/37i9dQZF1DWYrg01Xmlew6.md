@@ -4,11 +4,12 @@
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Lazza
 
-128 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+130 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['O NOMME](https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | ['O NOMME](https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q) | 2:00 | 2022-07-14 | 2022-08-26 |
+| [0 In Tasca](https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Anthony](https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut) | [0 In Tasca](https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu) | 2:58 | 2022-11-22 |  |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-10 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
 | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY) | 3:02 | 2022-05-10 | 2022-10-14 |
@@ -113,9 +114,10 @@
 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 | 2022-06-02 |  |
 | [T Pens](https://open.spotify.com/track/65U8ZFmt7JSrLdwH93q363) | [O'CINES](https://open.spotify.com/artist/6drNYL1qof91qhlkhrIjlS) | [T Pens](https://open.spotify.com/album/4goIUzzouxxq3nYDL3xFnm) | 1:48 | 2022-08-25 | 2022-09-02 |
 | [TE NE VAJE](https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a), [Stefania Lay](https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD) | [Tredici](https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O) | 2:45 | 2022-10-13 |  |
+| [Te Penso Ancora](https://open.spotify.com/track/2jWClpImgGtSoylOGTXqTf) | [Real](https://open.spotify.com/artist/4JodB3xqISZ4oBFtWMFnYu), [Anthony](https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut) | [Te Penso Ancora](https://open.spotify.com/album/6kDkPwpcieifz3XQkyjgWC) | 3:00 | 2022-11-22 |  |
 | [Te penso ancora](https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/2vjQGNiqEcvNyvTPAlotQ2) | 2:28 | 2022-05-10 | 2022-07-29 |
-| [Te penso ancora](https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal) | 2:28 | 2022-07-28 |  |
-| [Te penso ancora](https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 2:28 | 2022-11-10 | 2022-11-13 |
+| [Te penso ancora](https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal) | 2:28 | 2022-07-28 | 2022-11-23 |
+| [Te penso ancora](https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 2:28 | 2022-11-10 |  |
 | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/track/7iJ95DAak22eCvQMLt44pB) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Tetti \(feat\. Yung Snapp\)](https://open.spotify.com/album/6qlwBaYchelwWoYPJkuQ0B) | 2:42 | 2022-05-10 | 2022-07-08 |
 | [The Prayer](https://open.spotify.com/track/2a15qzOY3CVCPD5b79EmB1) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:31 | 2022-05-10 | 2022-05-17 |
 | [TIK TOK](https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [TIK TOK](https://open.spotify.com/album/3HzyU4PxIww2bPHiqnGblG) | 2:39 | 2022-06-02 | 2022-07-08 |

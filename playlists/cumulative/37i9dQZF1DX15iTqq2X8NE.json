@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Agricultural Revolution",
+      "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
+    },
+    {
+      "album": {
         "name": "Agricultural Revolution / Al Asafir",
         "url": "https://open.spotify.com/album/5bSVJ7ylub0b0Ihf4tDadW"
       },
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 240138,
       "name": "Picasso (Outro)",
       "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"

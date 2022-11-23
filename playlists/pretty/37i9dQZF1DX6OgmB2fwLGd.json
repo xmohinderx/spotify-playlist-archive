@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Featuring new music by Yung Gravy.",
-  "num_followers": 1264451,
+  "num_followers": 1264042,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2MzgzOCwwMDAwMDAwMGJkN2Q3MjYwNTQ5Mzg5ZjkzZjkyZGM0M2ZiMDM2MTY3",
+  "snapshot_id": "MTY2OTE0NTI3MCwwMDAwMDAwMGVmNzc0NTQyYjA0YWM0NTY1NGQ3NmUzZDUwODBjYmFl",
   "tracks": [
+    {
+      "added_at": "2022-11-22 19:27:50",
+      "album": {
+        "name": "Sweet Yamz",
+        "url": "https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 105194,
+      "name": "Sweet Yamz",
+      "url": "https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI"
+    },
     {
       "added_at": "2022-11-21 20:50:38",
       "album": {
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/14o2zRByqbosC6uTHnL4bw"
     },
     {
-      "added_at": "2022-09-20 20:27:54",
-      "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 197147,
-      "name": "Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh"
-    },
-    {
       "added_at": "2022-08-23 18:36:08",
       "album": {
         "name": "Love Island Freestyle",
@@ -1623,22 +1623,6 @@
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
-    },
-    {
-      "added_at": "2022-09-23 08:48:00",
-      "album": {
-        "name": "TAKE R U OK",
-        "url": "https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh"
-      },
-      "artists": [
-        {
-          "name": "Take45",
-          "url": "https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "TAKE R U OK",
-      "url": "https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx"
     },
     {
       "added_at": "2022-08-21 17:03:17",

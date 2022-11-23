@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-204 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+206 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 | 2022-05-03 |  |
 | [Get That Money](https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 | 2022-07-08 | 2022-11-06 |
-| [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 |  |
+| [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 | 2022-11-23 |
 | [Goddamn](https://open.spotify.com/track/607eyydbnlF3XKaMKpbmBh) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:05 | 2022-05-03 | 2022-07-19 |
 | [Golden Time](https://open.spotify.com/track/6RYMQoaFCfmgZPOZbMiEYM) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:39 | 2022-05-03 | 2022-07-22 |
 | [Gravity](https://open.spotify.com/track/6QyBEmvY2uQvorfZ2pmo95) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Gravity](https://open.spotify.com/album/2z8pYpESu09LMi9aDSk1fZ) | 3:12 | 2022-05-03 | 2022-07-29 |
@@ -87,6 +87,7 @@
 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 |  |
 | [Harujongil](https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 3:44 | 2022-05-03 | 2022-07-29 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 | 2022-10-08 |
+| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-23 |  |
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-05-03 | 2022-07-14 |
 | [Heart is](https://open.spotify.com/track/1ausSMkofY5DUmCPvmO4F2) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:11 | 2022-05-03 | 2022-07-29 |
 | [Henny](https://open.spotify.com/track/5hTcZKCWKGIH6ykVvNYqYX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:46 | 2022-05-03 | 2022-06-05 |
@@ -133,6 +134,7 @@
 | [Never Know](https://open.spotify.com/track/2zJwAzKswW03XDPuK6vuZ2) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [TRAPART](https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4) | 4:14 | 2022-05-03 | 2022-07-29 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-08 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-09 | 2022-07-29 |
+| [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-23 |  |
 | [O.D.](https://open.spotify.com/track/4kMLkIKJRxD671HbomsF0C) | [gracie](https://open.spotify.com/artist/5cEucK6zCdSeFyB5899bKC), [Junny](https://open.spotify.com/artist/0a6XVA4t4UOSRbjHQ2JtXk) | [Conquest](https://open.spotify.com/album/0dL4MSbt5EwFdAXrLZOGTm) | 3:56 | 2022-05-03 | 2022-07-12 |
 | [OHD](https://open.spotify.com/track/0dGSIYD4iHTjezagAOsYPh) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 2:53 | 2022-05-03 | 2022-07-29 |
 | [Old School Love](https://open.spotify.com/track/6XjjWvWrqmTTS56upASKXN) | [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk) | [Old School Love](https://open.spotify.com/album/1nbRCbY97eD5ck4PlFISAB) | 2:52 | 2022-06-13 | 2022-07-13 |
@@ -174,7 +176,7 @@
 | [STAY UP \(feat\. OLNL\)](https://open.spotify.com/track/0FGuK7FQ5uXAtVUPpPXKhu) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [4:04AM](https://open.spotify.com/album/2isxqvNnQwwtaqdDCkCBqz) | 4:06 | 2022-05-03 | 2022-07-14 |
 | [Stupid love songs](https://open.spotify.com/track/5679QcuvT2ZamHbyUPq4mV) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [WHY DO YOU](https://open.spotify.com/album/6YTlYnl0jbCrFrig3fXlT3) | 2:31 | 2022-05-03 | 2022-06-23 |
 | [Summer Rose](https://open.spotify.com/track/4brUMG3m8vli4aWgx5yfM5) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:24 | 2022-05-03 | 2022-07-14 |
-| [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-05-03 |  |
+| [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-05-03 | 2022-11-23 |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-07-25 |
 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 | 2022-05-03 |  |
 | [Take a waltz](https://open.spotify.com/track/66Q4XG9xGMMibKuJmtixyn) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Sobrightttttttt](https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9) | 3:38 | 2022-06-20 | 2022-07-29 |

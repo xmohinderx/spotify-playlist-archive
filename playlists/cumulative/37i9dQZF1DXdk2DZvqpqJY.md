@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-221 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+222 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
 | [Grey Life](https://open.spotify.com/track/7mboIxKtkeuIOHwNEAVSZR) | [Braccus Beats](https://open.spotify.com/artist/04xlOQaGOCK5eYoinzCPqm), [TTechmak](https://open.spotify.com/artist/7BpxyVfC8cscZ1JKB48tP2) | [Grey Life](https://open.spotify.com/album/4VtzLzkxLPZGwrCpbs6jug) | 1:57 | 2022-06-02 | 2022-10-07 |
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
+| [Hey Ye Ye Yeah \- Slow](https://open.spotify.com/track/5h97Md9cmCNB80k2fHnFT3) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Hey Ye Ye Yeah \(Slow\)](https://open.spotify.com/album/5vvATIEeqF3VXPHRsDiTfG) | 2:51 | 2022-11-17 |  |
 | [Horizon](https://open.spotify.com/track/4LozgbXR8jUiDkcySk7x1F) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Horizon](https://open.spotify.com/album/09jbzo4JUhVIf3j0W6WZ9Q) | 3:24 | 2022-04-22 | 2022-06-03 |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2022-02-17 |  |
 | [I SING HIGH](https://open.spotify.com/track/02WXDgjQkcydnk4b24IRBG) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [I SING HIGH](https://open.spotify.com/album/7JQunqxD8xhe3XEmFVNVGz) | 2:25 | 2022-02-17 | 2022-02-22 |
@@ -110,7 +111,7 @@
 | [Look Up](https://open.spotify.com/track/5OkkZtwYmuSLbAFxcqolw3) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Look Up](https://open.spotify.com/album/6y4VhfTSv5cVpJHobgYybd) | 5:34 | 2022-04-22 |  |
 | [Magnificent Moon](https://open.spotify.com/track/5WR54xSw59vPETCbTxp0td) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Wax /// Wane](https://open.spotify.com/album/3swLRGtEULofJUboHcsYyf) | 6:10 | 2022-04-22 | 2022-06-03 |
 | [Mars Walk](https://open.spotify.com/track/0xAh6kOHUk9mWKNEH60aut) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Mars Walk](https://open.spotify.com/album/1mwBt9QErZLgnSVNfbfTdm) | 4:03 | 2022-02-17 | 2022-04-29 |
-| [May As Well Be](https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [May As Well Be](https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo) | 4:00 | 2022-02-17 |  |
+| [May As Well Be](https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [May As Well Be](https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo) | 4:00 | 2022-02-17 | 2022-11-23 |
 | [maybe as his skies are wide](https://open.spotify.com/track/71ub8FJO1gg3OmLfBdrl53) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [maybe as his skies are wide](https://open.spotify.com/album/5ukrLKfu9H82bixRgKGFTL) | 3:43 | 2022-02-17 | 2022-04-23 |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2022-08-31 |  |
 | [Miscellaneous \(Live\)](https://open.spotify.com/track/13EHxipY8tNTgJBtOrVMQi) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 3:22 | 2022-04-22 |  |

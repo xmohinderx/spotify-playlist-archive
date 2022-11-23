@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-95 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
+96 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/7HkZZGF1Y6JqmNQTbDBEZq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,9 +99,10 @@
 | [West Africa Drums](https://open.spotify.com/track/6mMIrVpOvAfzvdGXM82tLh) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 |  |
 | [Wolves](https://open.spotify.com/track/4M5e0WjzpTtQun2uRocx29) | [William Grey](https://open.spotify.com/artist/74g3hfOKsPo6pofm3sDA39) | [Wolves](https://open.spotify.com/album/0AUgSqGec9sk500JI2rqwD) | 2:53 | 2022-05-26 |  |
 | [Won Ken Howl](https://open.spotify.com/track/3BKUTeY3W7TOC130ISbP3F) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Lullabeats](https://open.spotify.com/album/2DL4A3UTJJNwuLvkHjkA8N) | 3:10 | 2022-05-26 |  |
-| [Xumantra](https://open.spotify.com/track/49nyRbI14SiYSS2wo2P9p2) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:09 | 2022-05-26 |  |
+| [Xumantra](https://open.spotify.com/track/49nyRbI14SiYSS2wo2P9p2) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Sacred Singing Metals](https://open.spotify.com/album/7CU1nVlKrQ7uKVtXTdlXkE) | 8:09 | 2022-05-26 | 2022-11-23 |
 | [Yoga Dedication](https://open.spotify.com/track/26WbeejSj0noAKz9vdn9lr) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Yoga Dedication](https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU) | 2:33 | 2022-05-26 |  |
 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 | 2022-05-26 |  |
+| [Zenkom Auralis](https://open.spotify.com/track/22NrttumYU12GSAa9fvaom) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Zenkom Auralis](https://open.spotify.com/album/4tb0F9VmjZaNQIIRKJL9L9) | 3:58 | 2022-11-22 |  |
 | [明日 Tomorrow](https://open.spotify.com/track/4E7pyCeIzWAzuk4RD5hUkC) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [明日 Tomorrow](https://open.spotify.com/album/0K0EsCmAo5nqwPzYAR9eRL) | 3:10 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

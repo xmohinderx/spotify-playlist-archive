@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-643 songs - 1 day 18 hr 53 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+644 songs - 1 day 18 hr 59 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,11 +212,12 @@
 | [ghost in the machine](https://open.spotify.com/track/51qcHVCh2wT44qWVDDRPTc) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [ghost in the machine](https://open.spotify.com/album/0fKj4v6d0I9IWUxv7uTlJA) | 3:02 | 2022-05-11 | 2022-07-14 |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-20 | 2022-07-30 |
 | [Glo Ride](https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/3w3DqXdNacXfz44MtEEm3l) | 3:26 | 2021-04-02 | 2022-07-29 |
-| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 |  |
+| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 | 2022-11-23 |
 | [Gloria](https://open.spotify.com/track/5cKsolMaSRtB0ACxPIJEKW) | [The Shivas](https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9) | [Gloria](https://open.spotify.com/album/2kJ7XIzLBJY3b2PnsHdTGi) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-07-15 | 2022-08-30 |
 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 | 2021-04-02 | 2022-04-13 |
 | [Goggles](https://open.spotify.com/track/0jEuEpdKqxnmVx4VL7Nsdt) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/12sLfL3r8nk1SeCi3LVgKQ) | 5:24 | 2022-04-20 | 2022-07-29 |
+| [Goggles](https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp) | 5:24 | 2022-10-24 |  |
 | [Goggles](https://open.spotify.com/track/5cuwIuGhMvdxuGgakdV2l1) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/3Qmn2qu5MiRDUVNbUQC8hf) | 5:24 | 2022-07-22 | 2022-10-15 |
 | [Golden Mirror](https://open.spotify.com/track/3rySmg1BCN3yA4FcqVvSIX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [It Was a Home](https://open.spotify.com/album/03ik0WUdejkxQy4Jc4iexg) | 3:44 | 2022-03-08 | 2022-07-29 |
 | [Gonna Lose Your Mind](https://open.spotify.com/track/4ALrc2WboQebImWGMtNVrw) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Gonna Lose Your Mind](https://open.spotify.com/album/5nMAw157b9vGYdruE7NBmm) | 3:36 | 2021-04-02 | 2022-07-08 |

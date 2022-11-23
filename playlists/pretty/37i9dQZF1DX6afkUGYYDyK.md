@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,158 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,157 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 64 | [My Friends](https://open.spotify.com/track/09lu7Oem0AQ4MjZg41b8OP) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know](https://open.spotify.com/album/6l9AdRG0yVneRu5PNbAvRZ) | 3:58 |
 | 65 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 |
 
-Snapshot ID: `MTYzNjUyMDQ2MCwwMDAwMDAwMDcxNWYwNzFiOTQ1M2U3MGRkMTJkYjFmZTcyNzNjMTQ2`
+Snapshot ID: `MTY2OTA5MzQ1OCwwMDAwMDAwMDVlNzg5ZTNiMTk1NmNmNzdiZjdjYzlmNGJhNWI5OTZm`

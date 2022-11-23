@@ -300,6 +300,32 @@
     },
     {
       "album": {
+        "name": "cape",
+        "url": "https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A"
+      },
+      "artists": [
+        {
+          "name": "Sunlight Jr.",
+          "url": "https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC"
+        },
+        {
+          "name": "Open Palm",
+          "url": "https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb"
+        },
+        {
+          "name": "Michi Oskah",
+          "url": "https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "cape",
+      "url": "https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG"
+    },
+    {
+      "album": {
         "name": "Change Of Tides",
         "url": "https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53"
       },
@@ -1133,6 +1159,24 @@
       "duration_ms": 256120,
       "name": "Ocean Flow Zither - Mia Doi Todd Remix",
       "url": "https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs"
+    },
+    {
+      "album": {
+        "name": "Oceano Pacifico",
+        "url": "https://open.spotify.com/album/5N6N5Ou6qBeow8eoElQa2V"
+      },
+      "artists": [
+        {
+          "name": "Pace Immensa",
+          "url": "https://open.spotify.com/artist/5RBcYA1urR2vv2UJLINBHK"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Oceano Pacifico",
+      "url": "https://open.spotify.com/track/0qZtk3egr2xB8Yv4D2hbwW"
     },
     {
       "album": {

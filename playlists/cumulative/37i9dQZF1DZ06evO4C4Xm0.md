@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-96 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/6sqVTJGS7SH6N8LENVKMbv)
+97 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/6sqVTJGS7SH6N8LENVKMbv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Drift \- Remastered 2005](https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:09 | 2022-05-29 |  |
 | [Emerald and Lime](https://open.spotify.com/track/5hbTbKQXJuZ0qFVerk6jRp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 3:02 | 2022-05-29 | 2022-10-13 |
 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2022-05-29 |  |
+| [EPICA EXTENSION](https://open.spotify.com/track/09hBZZsubpheGh5pVriiQY) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [EPICA EXTENSION](https://open.spotify.com/album/6xGS4skTi0ZUyzyqIUDocs) | 4:29 | 2022-11-22 |  |
 | [Evening Star](https://open.spotify.com/track/5lpw5NewnpIgO1yal6Vjl4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 7:50 | 2022-05-29 | 2022-10-13 |
 | [Everything Merges With The Night \- 2004 Digital Remaster](https://open.spotify.com/track/5pAR56gg3tYThEeH0VM3iB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:59 | 2022-06-30 | 2022-10-13 |
 | [Failing Light \- Remastered 2004](https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:14 | 2022-05-29 | 2022-10-13 |

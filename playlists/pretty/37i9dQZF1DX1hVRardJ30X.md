@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofia Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,640 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,581 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [Voltaje](https://open.spotify.com/track/4Tx6E5e8E9EC6YQBh5Lolt) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Voltaje](https://open.spotify.com/album/42NTOpJB8GVHLJDBhnpjcn) | 3:27 |
 | 17 | [Lagrimas de Champan](https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1) | [Lagrimas de Champan](https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E) | 3:15 |
 | 18 | [Bandida](https://open.spotify.com/track/2OLnQpdyD95ZH85kTvwitD) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Most Winning](https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty) | 3:27 |
-| 19 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 4:13 |
+| 19 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 |
 | 20 | [QUIEN SI NO](https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [QUIEN SI NO](https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a) | 2:01 |
 | 21 | [La Bori](https://open.spotify.com/track/0NsIqca2KofqjDAfJcgCM8) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [La Bori](https://open.spotify.com/album/7mQ9wlNg7Z8kjK0V8LV6gO) | 2:35 |
 | 22 | [Só Quero Te Ouvir Falar](https://open.spotify.com/track/1tedgYQ4PqYiVhCuOekeb4) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Só Quero Te Ouvir Falar](https://open.spotify.com/album/2N7ntTLi6QT7eSt58yYPrU) | 2:12 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [2NITE](https://open.spotify.com/track/3qaQmoaYrfXHNINLZvECds) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6) | [2NITE](https://open.spotify.com/album/7BVBCxHTGOHRKEQoQqurO3) | 2:40 |
 | 25 | [Bye](https://open.spotify.com/track/7Crkitu3oMtVqzD6gyDOmg) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Santuario](https://open.spotify.com/album/3uo1QU42J1TEctlj9EujvD) | 3:01 |
 | 26 | [Pa La Vuelta](https://open.spotify.com/track/60j2ltMI9yTYlyv6rhpCHn) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Pa La Vuelta](https://open.spotify.com/album/1BjIbXjHacTp8MBmroBu1s) | 3:04 |
-| 27 | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo Por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 |
+| 27 | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Que Se Acabe el Mundo por Favor](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 |
 | 28 | [Me Olvidó](https://open.spotify.com/track/4E21Ka9ZcVkoxCnBItRfEz) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [TE DEDICO ESTE PLAYLIST](https://open.spotify.com/album/6xwS8A5VDcnqEfXRvgTOEW) | 2:48 |
 | 29 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 |
 | 30 | [ACERCATE](https://open.spotify.com/track/5hvE1xVc4xJPSj8ZHLRMOz) | [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [ACERCATE](https://open.spotify.com/album/4sKzeJ5ed3w1AL2Ljv9Umm) | 2:56 |

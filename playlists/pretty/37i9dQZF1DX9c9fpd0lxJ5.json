@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 447045,
+  "num_followers": 447049,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDk1NjE0NWNlOTcyMDM2MTIxOTBmZjc3NjJmNzhlYzlk",
+  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDBkYThkNWE4NTNmMjQ0ZGViMWU0ZjJhNWQxZWI3YjJi",
   "tracks": [
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Estereomance",
-        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
-      },
-      "artists": [
-        {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "Dung Ding Dang",
-      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/2STyrwQukQzXgPvu3uuFUN"
       },
@@ -1071,22 +1055,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
       "artists": [
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Aloisio",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
         }
       ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1103,6 +1083,26 @@
       "duration_ms": 153000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Aloisio",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Patineta",
-        "url": "https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 192540,
-      "name": "Patineta",
-      "url": "https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Patineta",
+        "url": "https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 192540,
+      "name": "Patineta",
+      "url": "https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "BLUE 2000",
+        "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 200520,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "BLUE 2000",
-        "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
-      },
-      "artists": [
-        {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Sugarbaby",
+        "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 152680,
+      "name": "Sugarbaby",
+      "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Sugarbaby",
-        "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 152680,
-      "name": "Sugarbaby",
-      "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 206538,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 221716,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1591,22 +1607,6 @@
       "duration_ms": 142320,
       "name": "Dolce Banana",
       "url": "https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 221716,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Si Te Portas Mal (Be Bad)",
+      "url": "https://open.spotify.com/track/0JtlyKWMGYHxqf0eqI3DM9"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Incendio",
         "url": "https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 172037,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI"
-      },
-      "artists": [
-        {
-          "name": "mi jard\u00edn",
-          "url": "https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "Girasol",
-      "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
     }
   ],
   "unique_name": "Radiante",

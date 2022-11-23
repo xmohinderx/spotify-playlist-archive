@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3?si=PCKf\-xH\_SRCwNZb9GDfoJQ">sad alex,</a> <a href="https://open.spotify.com/artist/5tHkHru8vN2x9R9Y1Pmzvp?si=2wIRxdDVS9GIxMs\-t9mQOQ&nd=1">G.Smith,</a> and Suzy Shinn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,792 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,782 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

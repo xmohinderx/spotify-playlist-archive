@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-164 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+165 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Lately](https://open.spotify.com/track/4aLryRkYDCLq97mCoMYh3F) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Lately](https://open.spotify.com/album/135oWAJuXcsks6KD3lWox5) | 3:00 | 2021-07-02 | 2022-08-27 |
 | [Laughing in the Sunshine](https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Laughing in the Sunshine](https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt) | 3:34 | 2022-05-13 | 2022-06-11 |
 | [Lemonades \(feat\. Cam Kimbrough, Luther Dickinson & Chuck Treece\)](https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cam Kimbrough](https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:08 | 2022-06-24 |  |
-| [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 |  |
+| [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 | 2022-11-23 |
+| [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 | 2022-02-18 |  |
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
 | [Log On](https://open.spotify.com/track/7v7NrUoc3pSV49qWdvFZxZ) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI) | [Log On](https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m) | 4:19 | 2022-08-26 | 2022-09-03 |
 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 | 2022-03-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 483933,
+  "num_followers": 483853,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGU1NDRmOWVkODU0MjU4ZTEzYzQ0MjU3MTlhNDBjMjg1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE3NTA4YzBhYWM2OGQxYWZjNDc2NDU2YzhmN2QxNTQ0",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -127,30 +127,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
+        "name": "Cowboys Did Cocaine",
+        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        },
-        {
-          "name": "Ivan Moody",
-          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
-        },
-        {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Riley Thomas",
+          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
         }
       ],
-      "duration_ms": 197234,
-      "name": "Outlaws & Outsiders",
-      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+      "duration_ms": 232798,
+      "name": "Cowboys Did Cocaine",
+      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -187,18 +175,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Cowboys Did Cocaine",
-        "url": "https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
       "artists": [
         {
-          "name": "Riley Thomas",
-          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Ivan Moody",
+          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
         }
       ],
-      "duration_ms": 232798,
-      "name": "Cowboys Did Cocaine",
-      "url": "https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE"
+      "duration_ms": 197234,
+      "name": "Outlaws & Outsiders",
+      "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Let the Rain Come Down",
+      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
         "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 207229,
       "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
       "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Let the Rain Come Down",
-      "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 217993,
-      "name": "Are We On Fire",
-      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 202440,
       "name": "Whiskey Sunrise",
       "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 217993,
+      "name": "Are We On Fire",
+      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 218936,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "What Do I Know (feat. HARDY)",
         "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 218936,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Broken Heartland",
-        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
-      },
-      "artists": [
-        {
-          "name": "A Thousand Horses",
-          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "When I Hear Your Name",
-      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "4 X 4 Play",
         "url": "https://open.spotify.com/album/4FSD23k3aTS9zAPopothvW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Broken Heartland",
+        "url": "https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "When I Hear Your Name",
+      "url": "https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "To Whom ...",
+        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 218201,
+      "name": "To Whom ...",
+      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "These Old Boots",
         "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "To Whom ...",
-        "url": "https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs"
+        "name": "Train",
+        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
       },
       "artists": [
         {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+          "name": "Manny Blu",
+          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
         }
       ],
-      "duration_ms": 218201,
-      "name": "To Whom ...",
-      "url": "https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk"
+      "duration_ms": 177320,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1479,22 +1495,6 @@
       "duration_ms": 195386,
       "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
-      },
-      "artists": [
-        {
-          "name": "Manny Blu",
-          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sound of the South",
-        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Austin",
-          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
-        }
-      ],
-      "duration_ms": 243163,
-      "name": "Sound of the South",
-      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sound of the South",
+        "url": "https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Austin",
+          "url": "https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD"
+        }
+      ],
+      "duration_ms": 243163,
+      "name": "Sound of the South",
+      "url": "https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",

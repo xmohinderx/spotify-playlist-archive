@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9887,
+  "num_followers": 9888,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDEwNGFhOWYwN2RhN2EwNzU4MDk4ZTU0MGJkZTg2MDJl",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDdjYWFkYjA3MmFjMjZmMDcyY2Y0MzkzYTVjMTlmMGIx",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -371,6 +371,26 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 206646,
+      "name": "Jui$y",
+      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "\u00c0 PLUS",
         "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
       },
@@ -387,22 +407,6 @@
       "duration_ms": 190197,
       "name": "Brillando Alto",
       "url": "https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 172557,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -519,18 +523,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Pros y Contras de Llamarte",
-        "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/5hDAb0WyAfstchaz1jGSf0"
       },
       "artists": [
         {
-          "name": "Fran Mazu",
-          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
         }
       ],
-      "duration_ms": 196295,
-      "name": "Pros y Contras de Llamarte",
-      "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
+      "duration_ms": 172557,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
+        "name": "Pros y Contras de Llamarte",
+        "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
       },
       "artists": [
         {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+          "name": "Fran Mazu",
+          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Jui$y",
-      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+      "duration_ms": 196295,
+      "name": "Pros y Contras de Llamarte",
+      "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
-      },
-      "artists": [
-        {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
-        },
-        {
-          "name": "Oushet",
-          "url": "https://open.spotify.com/artist/5nAqcCizLzWuyAlnfSgEID"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "Yin Yang",
-      "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "C\u00f3digo Bitches",
         "url": "https://open.spotify.com/album/5MO9LDiT7JT6iMGjxWJ2Z6"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 167777,
       "name": "C\u00f3digo Bitches",
       "url": "https://open.spotify.com/track/18GO3rvDlI9GOGkFxI2HOb"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Oushet",
+          "url": "https://open.spotify.com/artist/5nAqcCizLzWuyAlnfSgEID"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "Yin Yang",
+      "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
-      },
-      "artists": [
-        {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
-        }
-      ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Mente Universal",
         "url": "https://open.spotify.com/album/7okrB8FspJxot0uPOw0utc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 148000,
       "name": "Mente Universal",
       "url": "https://open.spotify.com/track/1CZ2hFUJt8RpGkuDzkTpOg"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
     },
     {
       "added_at": "2022-11-04 00:00:00",

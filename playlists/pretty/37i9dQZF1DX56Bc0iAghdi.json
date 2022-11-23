@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18331,
+  "num_followers": 18329,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDAxMmFjNDU1ZGUyNDAxMDlkZDhlOWFlNWNhZDBkOThi",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDhiMjk5MWRlMWNlM2EzZDQ0ODY5ODkwYjY5NjE4N2E5",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -767,6 +767,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 201879,
+      "name": "I Lift Your Name Up - 80's Remix",
+      "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Safe (feat. Chris Cron)",
         "url": "https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 213997,
       "name": "Safe (feat. Chris Cron)",
       "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 201879,
-      "name": "I Lift Your Name Up - 80's Remix",
-      "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "rain don't go away",
-        "url": "https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX"
-      },
-      "artists": [
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "rain don't go away",
-      "url": "https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 158280,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "rain don't go away",
+        "url": "https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "rain don't go away",
+      "url": "https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i"
     },
     {
       "added_at": "2019-09-20 18:34:06",

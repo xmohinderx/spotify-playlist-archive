@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
   "description": "Feed your focus with restaurant ambience from around the world.",
-  "name": "Restaurant Ambience",
+  "name": "Restaurant Sounds",
   "published_playlist_ids": [
     "3w3bYiSNhjrxB4SAa25ooN"
   ],
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Coffeehouse Background",
+      "url": "https://open.spotify.com/track/3QEIiphlGHZTd2c2UIgGMG"
+    },
+    {
+      "album": {
         "name": "Coffeehouse Lullaby",
         "url": "https://open.spotify.com/album/4bzVOl8jaDop1JbhHD8wSS"
       },
@@ -581,6 +599,42 @@
       "duration_ms": 199753,
       "name": "Coffeehouse Lullaby",
       "url": "https://open.spotify.com/track/1sMTxfa73Nng1JUfeYH79Q"
+    },
+    {
+      "album": {
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Coffeehouse Patio",
+      "url": "https://open.spotify.com/track/4s3oMjF2tPE4gtq9hVlR9j"
+    },
+    {
+      "album": {
+        "name": "Coffeehouse Ambience for Focused Minds",
+        "url": "https://open.spotify.com/album/5KVtzJsH2QBcqs2laYG0cY"
+      },
+      "artists": [
+        {
+          "name": "JLM",
+          "url": "https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Coffeehouse Vibes",
+      "url": "https://open.spotify.com/track/2bAaZdyBMXMQajkjdQQtAA"
     },
     {
       "album": {

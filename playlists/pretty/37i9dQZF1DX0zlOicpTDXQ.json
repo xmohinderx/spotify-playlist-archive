@@ -1,12 +1,12 @@
 {
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Lindsay Lohan in Falling for Christmas. \n",
-  "num_followers": 367,
+  "num_followers": 427,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTk1MiwwMDAwMDAwMDBiZGJmZGE3ZmNkYzY5N2FkNTJhMDc4ZGRhYjFmOTNk",
+  "snapshot_id": "MTY2OTE0ODg2NSwwMDAwMDAwMDM0Njg4ZjhjZGQ0NGQzOWE2MmU1OTBmNjQ3YjAxMjIy",
   "tracks": [
     {
       "added_at": "2022-11-18 00:01:06",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/5BqPZ2JaPic94cybdSmh9h"
     },
     {
+      "added_at": "2022-11-22 20:27:45",
+      "album": {
+        "name": "Christmas in Connecticut with You (From The Netflix Film \"The Noel Diary\")",
+        "url": "https://open.spotify.com/album/6l6uzqEi7IYHXogIHyioEe"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "Christmas in Connecticut with You - From The Netflix Film \"The Noel Diary\"",
+      "url": "https://open.spotify.com/track/3yg3hcZ6ld0vU6NAJ6yyF3"
+    },
+    {
       "added_at": "2022-11-18 00:01:06",
       "album": {
         "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
@@ -299,42 +315,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "Freezie Day (from the Netflix Special, Waffles + Mochi: Holiday Feast)",
-        "url": "https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0"
-      },
-      "artists": [
-        {
-          "name": "Waffles + Mochi Cast",
-          "url": "https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn"
-        },
-        {
-          "name": "Tracee Ellis Ross",
-          "url": "https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt"
-        }
-      ],
-      "duration_ms": 157396,
-      "name": "Freezie Day",
-      "url": "https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 99032,
-      "name": "The King's Big Ask",
-      "url": "https://open.spotify.com/track/029HIKWotjwlxG4wXBLcK7"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Like It's Christmas",
         "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
       },
@@ -403,22 +383,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "It's Christmas!",
-      "url": "https://open.spotify.com/track/4MKlducyADIQeGWrieJIqy"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Bring The Snow",
         "url": "https://open.spotify.com/album/1LbAJXJAJO5d4zsBduxTbe"
       },
@@ -431,22 +395,6 @@
       "duration_ms": 186533,
       "name": "Bring The Snow",
       "url": "https://open.spotify.com/track/0b9rOqo0DaBgB807XzQ2sG"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Blitzen",
-      "url": "https://open.spotify.com/track/4kyRVupW6CuMaVNxdoLmNW"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -467,22 +415,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 159174,
-      "name": "The Precipice",
-      "url": "https://open.spotify.com/track/34okP7G6arSB0hV7u41tJf"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Jingle Jangle: A Christmas Journey (Music From The Netflix Original Film)",
         "url": "https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv"
       },
@@ -499,22 +431,6 @@
       "duration_ms": 101429,
       "name": "Grandpa Me Nie' (Asew Jingle Jangle Remix) [feat. Mic Flammez]",
       "url": "https://open.spotify.com/track/0u9w8hguVdkPHkzlnwV9eh"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 139522,
-      "name": "Aunt Carlotta",
-      "url": "https://open.spotify.com/track/033EoRbl6GguOYwX0sRjh0"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -551,22 +467,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 95100,
-      "name": "Aunt Ruth's Arrival",
-      "url": "https://open.spotify.com/track/2cI347aeciNPqHfcWhSzK6"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Klaus (Music from the Netflix film)",
         "url": "https://open.spotify.com/album/3pxQp1SCC1fUggunoo2Kb5"
       },
@@ -583,22 +483,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 170809,
-      "name": "The Map in the Hat",
-      "url": "https://open.spotify.com/track/2aUvs7juB9Kn5ghT6lgdcl"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "A Very Special Christmas 2",
         "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
       },
@@ -611,22 +495,6 @@
       "duration_ms": 254200,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 198422,
-      "name": "Elfhelm, the City of the Elves",
-      "url": "https://open.spotify.com/track/7bFn7fhtNkDyGmjzcRti02"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -691,22 +559,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 74984,
-      "name": "The Resitance Party",
-      "url": "https://open.spotify.com/track/1DdjvPl3R1Po3phZNBMbrA"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "A Swingin' Christmas Featuring The Count Basie Big Band",
         "url": "https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j"
       },
@@ -723,38 +575,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 72881,
-      "name": "Lumi's Fairytale",
-      "url": "https://open.spotify.com/track/3s8hK6xmHdnVpPDdduSUjg"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 141549,
-      "name": "A Mouse and a Kingdom",
-      "url": "https://open.spotify.com/track/7FDGKgY1LALDcBqgcuFpbD"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
         "url": "https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt"
       },
@@ -767,22 +587,6 @@
       "duration_ms": 182158,
       "name": "First Christmas (That I Loved You) - From The Netflix Film Let It Snow",
       "url": "https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 270982,
-      "name": "The Reinfield Standoff",
-      "url": "https://open.spotify.com/track/6c7Z4BCwgewSJVarrFbt00"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -823,22 +627,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 133581,
-      "name": "The Story Begins",
-      "url": "https://open.spotify.com/track/7B8ufGoZ1hY1GryqJ5MAnG"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Christmas With The Beach Boys",
         "url": "https://open.spotify.com/album/4eKWZxl6GskSlM2u7TYOC0"
       },
@@ -851,22 +639,6 @@
       "duration_ms": 130680,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/75dfH68JDisE8dDaD4KlVY"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 253679,
-      "name": "Mother Vodol is not Amused",
-      "url": "https://open.spotify.com/track/69HsdkMdP5hnQiCvJjL3S0"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -959,22 +731,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 150352,
-      "name": "Celebrations",
-      "url": "https://open.spotify.com/track/3bY4lBXpfhVmQI4VHYQAjp"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Happy Holidays",
         "url": "https://open.spotify.com/album/6uHTLp7MHyWuMR5zU63cQm"
       },
@@ -987,22 +743,6 @@
       "duration_ms": 271087,
       "name": "O Christmas Tree",
       "url": "https://open.spotify.com/track/2CHoInODC6oz5nI76zea5D"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 160599,
-      "name": "Presents Giving",
-      "url": "https://open.spotify.com/track/0tBuMYiwCLfn7STyA1Smm6"
     },
     {
       "added_at": "2022-11-18 00:01:06",
@@ -1023,22 +763,6 @@
     {
       "added_at": "2022-11-18 00:01:06",
       "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 225441,
-      "name": "Nicholas Finds his Father",
-      "url": "https://open.spotify.com/track/5vFcGNzpRIUu5DAbMdQmRj"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
         "name": "Horselake Road",
         "url": "https://open.spotify.com/album/27dn8hCj3yiiqC1m7qOsrG"
       },
@@ -1051,38 +775,6 @@
       "duration_ms": 273599,
       "name": "Santa Knows Your Secrets",
       "url": "https://open.spotify.com/track/14WUlHavhcV5P5vzO6RgvP"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 105878,
-      "name": "Little Kip is Back Home",
-      "url": "https://open.spotify.com/track/5yU2IEGChhjFeSuWgPTd5Q"
-    },
-    {
-      "added_at": "2022-11-18 00:01:06",
-      "album": {
-        "name": "A Boy Called Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ"
-      },
-      "artists": [
-        {
-          "name": "Dario Marianelli",
-          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
-        }
-      ],
-      "duration_ms": 184230,
-      "name": "The Pixie and the Troll",
-      "url": "https://open.spotify.com/track/12f2cLTNkKTdUkBkZ3cGe5"
     },
     {
       "added_at": "2022-11-18 00:05:52",

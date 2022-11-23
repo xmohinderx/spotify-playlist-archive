@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Roddy Ricch, Rod Wave and more\. Cover: BROCKHAMPTON
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,003 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,957 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 18 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 | 19 | [Bulletproof Skin](https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [The Fuse Is Lit](https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6) | 3:34 |
 | 20 | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/track/01Oeql41yunzKzHyIfBWmr) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [SHOTS! \(WITH DENZEL CURRY\)](https://open.spotify.com/album/6MjsNxUERlhYyccLTaMtfS) | 2:16 |
-| 21 | [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:54 |
+| 21 | [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:50 |
 | 22 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 |
 | 23 | [DNA](https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [DNA](https://open.spotify.com/album/1fDgOfcw9Ljo9yXVYcXEFR) | 4:02 |
 | 24 | [Spin](https://open.spotify.com/track/0NfuWZ3s2vWWyiNgNX9F5G) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula \- Reloaded](https://open.spotify.com/album/3d6AohullgUBSkExjKWHf0) | 3:31 |

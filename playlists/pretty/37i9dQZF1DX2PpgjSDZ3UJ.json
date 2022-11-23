@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18970,
+  "num_followers": 18962,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDk0YjIyMWYzMTNkYjMzMGVkMzAwZjk2YTkyZGExMDQz",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGUwOTVhMTg1MWNlNmRkYzhlMDc1MTAyYmE4MGRiZmNk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 194999,
       "name": "Hice Todo Mal",
       "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ya Dormir\u00e9 Cuando Me Muera",
-        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Chico Pum",
-      "url": "https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "PSILOCIBINA",
         "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ya Dormir\u00e9 Cuando Me Muera",
+        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Chico Pum",
+      "url": "https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Un Gatito",
         "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 185824,
       "name": "Un Gatito",
       "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 224608,
       "name": "No Sentir Nada",
       "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
+        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
+      },
+      "artists": [
+        {
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
+        }
+      ],
+      "duration_ms": 267964,
+      "name": "La \u00daltima 10",
+      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Estar Aqu\u00ed",
         "url": "https://open.spotify.com/album/2HJsQtPou9yNsfZazDibbM"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 198826,
       "name": "Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/6vASeQmZYvA59q4ZfHhCOH"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
-        "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 267964,
-      "name": "La \u00daltima 10",
-      "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Acci\u00f3n (O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano)",
-        "url": "https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 248677,
-      "name": "Acci\u00f3n - O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano",
-      "url": "https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cara De Idiota",
         "url": "https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 153302,
       "name": "Cara De Idiota",
       "url": "https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Acci\u00f3n (O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano)",
+        "url": "https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 248677,
+      "name": "Acci\u00f3n - O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano",
+      "url": "https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu"
     },
     {
       "added_at": "2020-12-01 05:03:00",

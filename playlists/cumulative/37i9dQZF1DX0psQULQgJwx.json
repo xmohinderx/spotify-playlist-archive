@@ -1448,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "Sominare",
+        "url": "https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud"
+      },
+      "artists": [
+        {
+          "name": "Moon Laika",
+          "url": "https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Sominare",
+      "url": "https://open.spotify.com/track/2165MC8JML5S217g4vIdDy"
+    },
+    {
+      "album": {
         "name": "Soon my dear",
         "url": "https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD"
       },

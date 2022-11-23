@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,520 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,518 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/7uCoscfmQbuG1NBfyeaYvy) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6NGsQGLhikXABCBVJypLiH) | 3:13 |
+| 1 | [Lessons of the Fire \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/2z8NOEUtfyV4chIbngXYDi) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1) | 3:13 |
 | 2 | [My Heart Has Teeth \(feat\. Skylar Grey\)](https://open.spotify.com/track/5zIgxHl35DFqbWvUgr70tn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Resident Evil \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4yFA6UYsl2PnSC8vHs35Cx) | 4:49 |
 | 3 | [Every Last One](https://open.spotify.com/track/4SrGE4MTjtR82EoioekkJ4) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Texas Chainsaw Massacre \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2) | 3:22 |
 | 4 | [Pink Soldiers](https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 0:38 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 39 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 40 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMGFjNWFkMDc2MDAwZjZiMmMxODI5MDk4ODBmZTU3YmY3`
+Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDAxMThmMDAxNTU0NzM0NzRhNjY0ODExM2IxMjFhNTM3`

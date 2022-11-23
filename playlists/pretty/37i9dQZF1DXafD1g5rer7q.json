@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 314059,
+  "num_followers": 314225,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQwODE5NiwwMDAwMDAwMDJhYTc5YzRmZjdiMGNmNWM2OGFhMDQ1YmU4NjAxOGQz",
+  "snapshot_id": "MTY2ODQwODE5NiwwMDAwMDAwMDUxM2ViZDFkNDg5MTMyYmNhZjNjZTA4NDEwN2I1OGIz",
   "tracks": [
     {
       "added_at": "2022-11-14 06:43:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-14 06:43:16",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
-    },
-    {
-      "added_at": "2022-11-14 06:43:16",
-      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
+    },
+    {
+      "added_at": "2022-11-14 06:43:16",
+      "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2022-11-14 06:43:16",
@@ -843,30 +843,6 @@
     {
       "added_at": "2022-11-14 06:43:16",
       "album": {
-        "name": "The Mack",
-        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
-      },
-      "artists": [
-        {
-          "name": "Nevada",
-          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
-        },
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 167038,
-      "name": "The Mack",
-      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
-    },
-    {
-      "added_at": "2022-11-14 06:43:16",
-      "album": {
         "name": "Party Shaker",
         "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 159052,
       "name": "Party Shaker",
       "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+    },
+    {
+      "added_at": "2022-11-14 06:43:16",
+      "album": {
+        "name": "The Mack",
+        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
+      },
+      "artists": [
+        {
+          "name": "Nevada",
+          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 167038,
+      "name": "The Mack",
+      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
     },
     {
       "added_at": "2022-11-14 06:43:16",
@@ -987,6 +987,30 @@
     {
       "added_at": "2022-11-14 06:43:16",
       "album": {
+        "name": "Cali Dreams (feat. The Beach)",
+        "url": "https://open.spotify.com/album/3Naa1Xkn2NqzQ9ER1X6lTc"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 221463,
+      "name": "Cali Dreams (feat. The Beach)",
+      "url": "https://open.spotify.com/track/4S5uBAB6Jl4IsMzwBpt2Rf"
+    },
+    {
+      "added_at": "2022-11-14 06:43:16",
+      "album": {
         "name": "Split (Only U)",
         "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
       },
@@ -1003,22 +1027,6 @@
       "duration_ms": 256640,
       "name": "Split (Only U)",
       "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
-    },
-    {
-      "added_at": "2022-11-14 06:43:16",
-      "album": {
-        "name": "Mr. Saxobeat",
-        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "Mr. Saxobeat",
-      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
     }
   ],
   "unique_name": "EDM Samplings",

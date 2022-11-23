@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-354 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+359 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 | 2021-11-10 |  |
 | [Arrival of No\-thing](https://open.spotify.com/track/5S9eZUeM5jwr71FxpBARsA) | [Sleep Therapist](https://open.spotify.com/artist/68k3b1woWXT4Ka3OWAz7WU) | [Downtime](https://open.spotify.com/album/6ve1WvKRIFnNclsTob1Z5f) | 3:51 | 2021-11-10 |  |
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-11-10 |  |
+| [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2022-11-22 |  |
 | [At the Gate](https://open.spotify.com/track/6K5knPLmHce6GxU3L55K5R) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Entering Dreamland](https://open.spotify.com/album/0w6WmSVjZstlSJaAvab2Sd) | 2:57 | 2021-11-10 |  |
 | [Atmosphere](https://open.spotify.com/track/6f2CmmgE9LM9MpyF5qJVu9) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmosphere](https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1) | 1:08 | 2021-11-10 |  |
 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2022-11-11 |  |
@@ -53,6 +54,7 @@
 | [Boy Blowing Bubbles](https://open.spotify.com/track/4vhjKm3JGXjBefwblXlExw) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Boy Blowing Bubbles](https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6) | 2:37 | 2022-05-05 |  |
 | [Brain Focus Yoga](https://open.spotify.com/track/5NTUER01OLd8YvsQXuhBFZ) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Brain Focus Yoga](https://open.spotify.com/album/1LppsztjmqVBxtPCd5YqYl) | 1:56 | 2021-11-10 |  |
 | [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2021-11-10 |  |
+| [Breathless](https://open.spotify.com/track/4vwpjrRemuLveDgtNqy5LP) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 2:39 | 2022-11-22 |  |
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2022-08-15 |  |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2021-11-10 |  |
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2021-11-10 |  |
@@ -154,7 +156,8 @@
 | [Half Full](https://open.spotify.com/track/40GGIMSbrdezThttyrdTr7) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Half Full](https://open.spotify.com/album/6JyTESYhRGMqYZa7Qx8Pli) | 3:48 | 2022-01-28 |  |
 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 | 2021-11-10 |  |
 | [Hamn](https://open.spotify.com/track/2KDxOFB8pVo6AdyOqAAK0d) | [Juliús Reis](https://open.spotify.com/artist/4gGuCmlhgQXVqu56mIYGes) | [Imprints](https://open.spotify.com/album/4Vr5W9t7IVcVP56YKdst9R) | 2:47 | 2022-11-11 |  |
-| [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2021-11-10 |  |
+| [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 | 2022-11-22 |  |
+| [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2021-11-10 | 2022-11-23 |
 | [Here for You](https://open.spotify.com/track/2EpbD85zKeA069HQXoiWU5) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Here for You](https://open.spotify.com/album/3kXfBugZgDTOzMKVp6Df3b) | 2:11 | 2021-11-10 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-01-28 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2021-11-10 | 2022-03-25 |
@@ -323,6 +326,7 @@
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2022-05-05 |  |
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2021-11-10 | 2022-02-10 |
 | [Terdiam](https://open.spotify.com/track/2j1IXyTxl3Qhu8orYsj5LP) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Terdiam](https://open.spotify.com/album/1vb8fI3ouZ09XNPv0XW8wM) | 2:22 | 2022-09-13 |  |
+| [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2022-11-22 |  |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2022-09-02 |  |
 | [The Change Of Seasons](https://open.spotify.com/track/1iGuSsBQT3JPnJtg0Advjz) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [The Change Of Seasons](https://open.spotify.com/album/5IzJnkYUl0sbEqzpO4O1Ed) | 2:44 | 2022-09-30 |  |
 | [The Departure](https://open.spotify.com/track/2ynHgw53910J2AsNRRnP30) | [Disentangled](https://open.spotify.com/artist/7cMuOiJswcxBwRlApHIezW) | [The Departure](https://open.spotify.com/album/7vswYZmmMll25MoTL7SArZ) | 1:30 | 2021-11-10 |  |
@@ -362,5 +366,6 @@
 | [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |
 | [Your Echo](https://open.spotify.com/track/6LPw6rbpwC63tQqYK2SWOW) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Your Echo](https://open.spotify.com/album/7Ilig6sB0IcdM5LPwhcY63) | 2:16 | 2021-11-10 |  |
 | [Your Soul Knows \(Theta Waves\)](https://open.spotify.com/track/5P9warDXC0ATRYIrHXUTPO) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Your Soul Knows](https://open.spotify.com/album/0y2XYw9JVyuSGmbOPhjXvt) | 2:00 | 2021-11-10 |  |
+| [Zweck](https://open.spotify.com/track/4izTO69HJBi2zPaOGMc75S) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Zweck](https://open.spotify.com/album/4bHRH3ucZjXAQbZfqes4rj) | 2:52 | 2022-11-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

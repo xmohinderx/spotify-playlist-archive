@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-66 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
+67 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2020-07-28 |  |
 | [Confisco](https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 2:58 | 2020-07-28 |  |
 | [Confisco](https://open.spotify.com/track/68uBfK67y4ZKD45qHJYaw7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [A Arte De Charlie Brown Jr.](https://open.spotify.com/album/2Ov5ciTOEZcvCNZQKtiye4) | 2:58 | 2020-07-28 | 2022-07-29 |
-| [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 | 2020-07-28 |  |
+| [Connect To Consume](https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Paid Salvation](https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH) | 3:14 | 2020-07-28 |  |
+| [Connect To Consume](https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Connect To Consume](https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr) | 3:14 | 2020-07-28 | 2022-11-23 |
 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 | 2020-05-15 |  |
 | [Cyco Vision](https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Freedumb](https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C) | 1:49 | 2020-07-30 |  |
 | [Deathwire](https://open.spotify.com/track/68XsbWfxcvmlAVukxPVy9d) | [Rough Francis](https://open.spotify.com/artist/60uXjIudDRbL8LIWwYk2sQ) | [Deathwire](https://open.spotify.com/album/3MYhb46f5Vusrzt58E6uot) | 3:09 | 2020-07-28 |  |

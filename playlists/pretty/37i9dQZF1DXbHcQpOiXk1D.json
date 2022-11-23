@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 269761,
+  "num_followers": 269838,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDU0NmU4NWQyODJlZGE0YzNjM2EyZTg4NGVjNmZlODg1",
+  "snapshot_id": "MTY2ODcyOTYwMCwwMDAwMDAwMDU1NmI1MzZhN2M4OWFkZjczYTJhZmU2MDdjYjQ0OWEx",
   "tracks": [
     {
       "added_at": "2022-11-18 00:00:00",
@@ -111,8 +111,8 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "All Day Breakfast Cafe",
+          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
+      "duration_ms": 490509,
+      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
+      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -223,6 +223,22 @@
       "duration_ms": 186521,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -247,24 +263,8 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-        "url": "https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC"
-      },
-      "artists": [
-        {
-          "name": "All Day Breakfast Cafe",
-          "url": "https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd"
-        }
-      ],
-      "duration_ms": 490509,
-      "name": "What If Nile Rodgers And Fela Kuti Were Friends",
-      "url": "https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
       },
@@ -403,6 +423,22 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -431,42 +467,6 @@
       "duration_ms": 217760,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Red and Green (Blue Lab Beats Remix)",
+        "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
+      },
+      "artists": [
+        {
+          "name": "Eda Eren",
+          "url": "https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Red and Green - Blue Lab Beats Remix",
+      "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Honey For Wounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk"
       },
@@ -579,22 +599,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Leader",
-        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Leader",
-      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -607,6 +611,22 @@
       "duration_ms": 426240,
       "name": "The Spoon",
       "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -631,22 +651,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "yield",
-        "url": "https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p"
-      },
-      "artists": [
-        {
-          "name": "cktrl",
-          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
-        }
-      ],
-      "duration_ms": 143244,
-      "name": "lucidly (ft. Ophie)",
-      "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Cristo Redentor",
         "url": "https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO"
       },
@@ -663,18 +667,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+        "name": "yield",
+        "url": "https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "cktrl",
+          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
         }
       ],
-      "duration_ms": 289213,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+      "duration_ms": 143244,
+      "name": "lucidly (ft. Ophie)",
+      "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -731,6 +735,42 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
+        "name": "Beggin' Man",
+        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
+      },
+      "artists": [
+        {
+          "name": "Evil Genius",
+          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
+        },
+        {
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        }
+      ],
+      "duration_ms": 202901,
+      "name": "Beggin' Man",
+      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo"
       },
@@ -763,26 +803,6 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
-        "name": "Beggin' Man",
-        "url": "https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3"
-      },
-      "artists": [
-        {
-          "name": "Evil Genius",
-          "url": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
-        },
-        {
-          "name": "Isaac Waddington",
-          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
-        }
-      ],
-      "duration_ms": 202901,
-      "name": "Beggin' Man",
-      "url": "https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -895,26 +915,22 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+        "name": "Collage 2",
+        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
       },
       "artists": [
         {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         },
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "ELSAS",
+          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
         }
       ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+      "duration_ms": 192859,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -943,22 +959,26 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         },
         {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -983,22 +1003,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Dough",
-        "url": "https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 151602,
-      "name": "Dough",
-      "url": "https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Through The Noise (Chant No. 2)",
         "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
       },
@@ -1011,6 +1015,22 @@
       "duration_ms": 288933,
       "name": "Through The Noise (Chant No. 2)",
       "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Dough",
+        "url": "https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 151602,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1063,22 +1083,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "piano joint",
-        "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "piano joint",
-      "url": "https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Badeep",
         "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Red and Green (Blue Lab Beats Remix)",
-        "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
+        "name": "piano joint",
+        "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
       },
       "artists": [
         {
-          "name": "Eda Eren",
-          "url": "https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Red and Green - Blue Lab Beats Remix",
-      "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
+      "duration_ms": 175706,
+      "name": "piano joint",
+      "url": "https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP"
     },
     {
       "added_at": "2022-11-18 00:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-11-18 00:00:00",
       "album": {
-        "name": "Discover We Can Fly",
-        "url": "https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT"
-      },
-      "artists": [
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
-        }
-      ],
-      "duration_ms": 222787,
-      "name": "Discover We Can Fly",
-      "url": "https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH"
-    },
-    {
-      "added_at": "2022-11-18 00:00:00",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 372548,
       "name": "First Light",
       "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
+    },
+    {
+      "added_at": "2022-11-18 00:00:00",
+      "album": {
+        "name": "Discover We Can Fly",
+        "url": "https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT"
+      },
+      "artists": [
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 222787,
+      "name": "Discover We Can Fly",
+      "url": "https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH"
     },
     {
       "added_at": "2022-11-18 00:00:00",

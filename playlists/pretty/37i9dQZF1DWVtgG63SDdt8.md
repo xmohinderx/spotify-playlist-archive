@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Rachael Nemiroff and Stars Go Dim
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,030 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,199 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 22 | [Jireh](https://open.spotify.com/track/63oaXU41q71OogvhpzTzIR) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Jireh](https://open.spotify.com/album/0bwsoxB35UuaJg9M6FmdWb) | 3:53 |
 | 23 | [Pressure](https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pressure](https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp) | 3:14 |
 | 24 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 |
-| 25 | [You Already Know](https://open.spotify.com/track/2ODN5nZus5zOLbXHSDTLzC) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Butta P](https://open.spotify.com/artist/5GsPnkNi2ivqRKT7rZlC30) | [You Already Know](https://open.spotify.com/album/6anZN0d73uuUCU6CejnxOB) | 2:37 |
+| 25 | [You Already Know](https://open.spotify.com/track/2ODN5nZus5zOLbXHSDTLzC) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Butta P](https://open.spotify.com/artist/7KRl34HSYhZMooBhfaERmS) | [You Already Know](https://open.spotify.com/album/6anZN0d73uuUCU6CejnxOB) | 2:37 |
 | 26 | [Just like Marvin](https://open.spotify.com/track/0nlauzP2BOuRb4QxjsUzpq) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Just like Marvin](https://open.spotify.com/album/2MML57Zxl0b2o0QM3L2hVP) | 2:10 |
 | 27 | [Woosah](https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Woosah](https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX) | 2:37 |
 | 28 | [ALL OF ME](https://open.spotify.com/track/5nyUrrW5HVGx0nodD8RVfC) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [Nino Salas](https://open.spotify.com/artist/1VEG5CVdjFpXLzDAs3sEhP), [Justin Vaughn](https://open.spotify.com/artist/37Yn3dZvzwQDhMRPlog3LG) | [BROKEN VESSEL](https://open.spotify.com/album/3V8O2485LtuZnBg7J5pVu6) | 2:53 |

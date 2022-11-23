@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-536 songs - 1 day 3 hr 57 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+537 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Are You Mine](https://open.spotify.com/track/4kIYLdQ0eoiZaVrGVWLvqn) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Rakan](https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd) | [Are You Mine](https://open.spotify.com/album/3qBbXUvA3V4814pbJh08sF) | 3:29 | 2022-01-14 | 2022-07-30 |
 | [Are You With Me](https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me](https://open.spotify.com/album/63zsZVaIMUW10wP6QanS42) | 2:18 | 2022-01-14 | 2022-04-19 |
 | [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 | 2022-01-14 | 2022-05-07 |
+| [Away](https://open.spotify.com/track/3oNycDho9rJAMHma0XC6kT) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/7aGnO45kEvux1ShpP7Lh76) | 2:14 | 2022-11-23 |  |
 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 | 2022-01-14 | 2022-04-21 |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2022-04-01 | 2022-07-29 |
 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2022-01-14 | 2022-04-23 |
@@ -483,7 +484,7 @@
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2022-02-18 | 2022-04-21 |
 | [This Town](https://open.spotify.com/track/3yLHOpxiff47oc9AKZSCT7) | [Saco](https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7), [Sparkle](https://open.spotify.com/artist/7BeoNJ6WZom7jzqdfTxnV8), [Isabel Prada](https://open.spotify.com/artist/7leIA2NrDyNjNt9y45OQ6K) | [This Town](https://open.spotify.com/album/3iD7lKMiEbUtBELwzd21fa) | 3:06 | 2022-09-09 |  |
-| [Those Were the Days](https://open.spotify.com/track/27APnPhv82IdHrehOUv7lP) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Were the Days](https://open.spotify.com/album/2qvW8ahIuTJGoQPsBAHpxa) | 2:28 | 2022-10-14 |  |
+| [Those Were the Days](https://open.spotify.com/track/27APnPhv82IdHrehOUv7lP) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Were the Days](https://open.spotify.com/album/2qvW8ahIuTJGoQPsBAHpxa) | 2:28 | 2022-10-14 | 2022-11-23 |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2022-04-01 |  |
 | [Tired \- Kygo Remix](https://open.spotify.com/track/3t0J8vI9StQD8KIBkT2Cp5) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Tired \(Kygo Remix\)](https://open.spotify.com/album/1wRWIwbh1h8z7QUoZONvwT) | 4:00 | 2022-01-14 | 2022-04-21 |
 | [Together](https://open.spotify.com/track/3oNGSpYSp42W2bmsin5mmz) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Engstrom](https://open.spotify.com/artist/2hOVY1S19pEzVBt9rhRCM7), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Together](https://open.spotify.com/album/6ciAymVWL11p0BVHzR6XmY) | 3:10 | 2022-01-14 | 2022-07-29 |

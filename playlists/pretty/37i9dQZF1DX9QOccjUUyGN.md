@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,353 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,359 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 72 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
 | 73 | [Depois Que Você Chegou](https://open.spotify.com/track/6qWJCBjsLMb2sKQtVslpjK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Depois Que Você Chegou](https://open.spotify.com/album/1BNVMyO9hE7Am0FGx1Udma) | 2:13 |
 | 74 | [Hipnose](https://open.spotify.com/track/1ubU6gRxFpJnsRItc8xsuY) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Hipnose](https://open.spotify.com/album/2owSlIajiBkqrWogBPXykn) | 2:20 |
-| 75 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 |
+| 75 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |
 
-Snapshot ID: `MTY2ODc0MDQ2MCwwMDAwMDAwMDMwM2Q2YjRiYzRiZjQxMjg3N2NmOWE1NWY1MzQyYThi`
+Snapshot ID: `MTY2ODc0MDQ2MCwwMDAwMDAwMDljYTIyZmE0ZTcyYmQ4MTE4NmQwNDMwM2M5ZDA0NDdk`

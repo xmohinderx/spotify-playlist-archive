@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 142617,
+  "num_followers": 142761,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGM0NjNjNDYzYWEzOWJiMzJmOGE1Yzc3NzAyMDM2MGJh",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGM0MGRhNjIzYzM2YzNjYWIxMTgyMWViODFhMDI0ZTA5",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Ardour",
         "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 423933,
       "name": "Everything You Do Is A Balloon",
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/2ws855WTXvwqRtHyvkFJSy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II (Beatless Mix)",
-      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II (Beatless Mix)",
+      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Tiny Reminders",
         "url": "https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 90133,
       "name": "Constant Reminder",
       "url": "https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Go / Together",
-        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 486941,
-      "name": "Together - Rework",
-      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Permanence",
         "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 229158,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Go / Together",
+        "url": "https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 486941,
+      "name": "Together - Rework",
+      "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1407,6 +1407,22 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1443,6 +1459,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "White Flower, Dark Hill",
+        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "White Flower, Dark Hill",
+      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Equal Amounts Afraid",
         "url": "https://open.spotify.com/album/6NtQEro3xWLSkFwLuBOiIo"
       },
@@ -1475,22 +1507,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "White Flower, Dark Hill",
-        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "White Flower, Dark Hill",
-      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "The Tunnel and the Clearing",
         "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Virtual State",
-        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
+        "name": "Acquiesce",
+        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
       },
       "artists": [
         {
-          "name": "Richard H. Kirk",
-          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
+          "name": "TALsounds",
+          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
         }
       ],
-      "duration_ms": 368000,
-      "name": "The Feeling (Of Warmth And Beauty)",
-      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
+      "duration_ms": 332121,
+      "name": "No Rise",
+      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Acquiesce",
-        "url": "https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by"
+        "name": "Virtual State",
+        "url": "https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok"
       },
       "artists": [
         {
-          "name": "TALsounds",
-          "url": "https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL"
+          "name": "Richard H. Kirk",
+          "url": "https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr"
         }
       ],
-      "duration_ms": 332121,
-      "name": "No Rise",
-      "url": "https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T"
+      "duration_ms": 368000,
+      "name": "The Feeling (Of Warmth And Beauty)",
+      "url": "https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse"
     }
   ],
   "unique_name": "Electronica Romantica",

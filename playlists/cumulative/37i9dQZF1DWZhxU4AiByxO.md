@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-265 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+269 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 | 2021-10-22 |  |
 | [Aaron's Party \(Come Get It\)](https://open.spotify.com/track/3krjKKOH1CjeGXn6hIqyLA) | [Aaron Carter](https://open.spotify.com/artist/5338fdSzGNOFD4cxAxDTeq) | [Most Requested Hits](https://open.spotify.com/album/0nGs1T9d3bxynhEXJekUiL) | 3:25 | 2021-10-22 |  |
 | [abc](https://open.spotify.com/track/0zGejGs0c4ygBCqFQPojxS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [abc](https://open.spotify.com/album/3haoTWwePhXEsR4AQe3iCo) | 2:47 | 2022-04-08 |  |
+| [About That Time](https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [About That Time](https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23) | 3:12 | 2022-11-22 |  |
 | [All I Want \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [All I Want \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2) | 2:57 | 2021-10-22 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-07-01 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2021-10-22 |  |
@@ -112,6 +113,7 @@
 | [Here With Me](https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Don't Care](https://open.spotify.com/album/253LQdnZTDd0HddPoREscR) | 2:37 | 2021-10-22 |  |
 | [Hey Look Ma, I Made It](https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [If I Can’t Have You](https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV) | 2:41 | 2021-10-22 |  |
 | [Hideaway \- from "Wonder Park"](https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Hideaway \(from "Wonder Park"\)](https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk) | 3:18 | 2021-10-22 |  |
+| [Hold Me Closer](https://open.spotify.com/track/4tbdLt8mDbAbqm7UOPtByl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Hold Me Closer](https://open.spotify.com/album/5gDosXnNAVbAOgUhHuKtW8) | 3:21 | 2022-11-22 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-09-06 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/2mqrs0rKVfldonic7ypVWh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:12 | 2021-10-22 |  |
 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 | 2021-10-22 |  |
@@ -140,6 +142,8 @@
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 |  |
 | [Kings & Queens](https://open.spotify.com/track/0GpeAvK67XK1Dff4bPo4hL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/6zjy7j6pK9YnVRX2Q3Dv5N) | 2:26 | 2021-10-22 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 | 2022-07-28 |  |
+| [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-11-22 |  |
+| [Late Night Talking](https://open.spotify.com/track/4rA8RkOj52pRDXwEvusgr9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Late Night Talking](https://open.spotify.com/album/6sB8gCsJIAQs2gKeNkcfDk) | 2:55 | 2022-11-22 |  |
 | [Let Me Love You](https://open.spotify.com/track/0OpIRcElndLLm7jiTAA8eE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7) | 2:57 | 2022-07-28 |  |
 | [Let Me Love You](https://open.spotify.com/track/5NwXY746sutJV9w5sM6XIR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 34](https://open.spotify.com/album/4yK5KdznGoinYNY2rdeGAB) | 2:57 | 2021-10-22 | 2022-07-29 |
 | [Levitating](https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:04 | 2022-07-28 |  |

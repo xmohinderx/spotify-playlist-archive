@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10947,
+  "num_followers": 10951,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDkwMzdkOTIwODk4NTI3MzM4NjNiMGEyY2U4MWIyZDFh",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGUxYWMzYjJjNDU3ODExOWUyOTIxZGMxODM3ZDYxNmFi",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 39640,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 47354,
       "name": "NO SECRET (feat. Drake)",
       "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 39640,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
+        "name": "True",
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 117226,
-      "name": "Makin' Love - Interlude",
-      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
+      "duration_ms": 90826,
+      "name": "Looks Good With Trouble",
+      "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 117226,
+      "name": "Makin' Love - Interlude",
+      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 42693,
       "name": "Intermission-lude",
       "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 90826,
-      "name": "Looks Good With Trouble",
-      "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
     },
     {
       "added_at": "2022-10-28 04:01:00",

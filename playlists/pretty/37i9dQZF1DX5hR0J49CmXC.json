@@ -1,12 +1,12 @@
 {
   "description": "That real hip-hop. Cover: Ab-Soul",
-  "num_followers": 1097704,
+  "num_followers": 1097594,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGIyODcyNzFhZDJjMjc5NTc2ZGZhNjFjMWM3YjI1Zjc4",
+  "snapshot_id": "MTY2OTE0MTIzNywwMDAwMDAwMDYzZmEwNWNlYjI1N2FlMDlmZDNlN2E5MGI2ZmQ3MWQ2",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -99,6 +99,26 @@
       "duration_ms": 132527,
       "name": "GODbody",
       "url": "https://open.spotify.com/track/2J5kZDuqbaefjmiYikVQJH"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 231818,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -267,26 +287,6 @@
       "duration_ms": 249675,
       "name": "pg baby - Remix",
       "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 231818,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
       "added_at": "2022-11-18 05:00:00",

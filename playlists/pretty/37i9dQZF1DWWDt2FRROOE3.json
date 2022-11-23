@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4227,
+  "num_followers": 4225,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDFhMGNiZjc2MzUxMGE2NTMwMjQ0NzA1ZDJlOTNlMWRk",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMDcyOWM1NjYyZTUwZjE1M2Q1MmZjN2I3NTA3MjE2OWYx",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -607,8 +607,8 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+        "name": "Sonidos de Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 256920,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/6114ISiNHPMQN8o2BUz1Bn"
+      "duration_ms": 211466,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -792,15 +792,15 @@
           "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
         }
       ],
-      "duration_ms": 104500,
-      "name": "The Moon (from \"Duck Tales\")",
-      "url": "https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD"
+      "duration_ms": 192947,
+      "name": "Guardia Millenial Fair (from \"Chrono Trigger\")",
+      "url": "https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx"
     },
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Sonidos de Jalisco, Vol. 3",
-        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
       },
       "artists": [
         {
@@ -808,25 +808,25 @@
           "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL"
+      "duration_ms": 256920,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/6114ISiNHPMQN8o2BUz1Bn"
     },
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
       },
       "artists": [
         {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+          "name": "Mariachi Entertainment System",
+          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
         }
       ],
-      "duration_ms": 198243,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
+      "duration_ms": 104500,
+      "name": "The Moon (from \"Duck Tales\")",
+      "url": "https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD"
     }
   ],
   "unique_name": "Mariachi Covers",

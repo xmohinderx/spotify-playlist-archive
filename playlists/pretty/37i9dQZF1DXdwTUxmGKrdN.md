@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,367 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,475 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 43 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 |
 | 44 | [Forever Yours](https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT) | 4:09 |
 | 45 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 |
-| 46 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
-| 47 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
+| 46 | [Sundance](https://open.spotify.com/track/0t7lbaAiA6zU79AMi1Eb7K) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:49 |
+| 47 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
 | 48 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 |
 | 49 | [Hope](https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:20 |
 | 50 | [Cruising](https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 5:38 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 62 | [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 |
 | 63 | [Amends](https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Jeff Lorber](https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 3:24 |
 | 64 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 |
-| 65 | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:48 |
-| 66 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 |
+| 65 | [Velvet Groove](https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe) | [Eric Valentine](https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4), [Velvet Groove](https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU) | [Velvet Groove](https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176) | 3:57 |
+| 66 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 |
 | 67 | [Exhale](https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 5:14 |
-| 68 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 |
+| 68 | [It's On Now \(feat\. Ragan Whiteside\)](https://open.spotify.com/track/4kP4fo9eEjsx5DocPSu3YV) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [It's My Time](https://open.spotify.com/album/5Q3khADDwTMYXoPkVBrBdZ) | 3:48 |
 | 69 | [Encantadora](https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Encantadora](https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda) | 4:10 |
-| 70 | [SHINE!](https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 4:21 |
-| 71 | [Bass Trap](https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bass Trap](https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM) | 4:42 |
-| 72 | [Zephyr](https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E) | 4:53 |
-| 73 | [Fired Up](https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR) | 4:22 |
+| 70 | [Bass Trap](https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bass Trap](https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM) | 4:42 |
+| 71 | [SHINE!](https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 4:21 |
+| 72 | [Fired Up](https://open.spotify.com/track/45OtdrQxVv8iG0MAn0OgKk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR) | 4:22 |
+| 73 | [Zephyr](https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/5mqQN2T1lFJJVl0JkUXI5E) | 4:53 |
 | 74 | [Brazz Street](https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B) | 4:42 |
 | 75 | [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 |
 
-Snapshot ID: `MTY2ODQwODE2MCwwMDAwMDAwMDNjN2FjMjZiYzFiOThjNDA1YWY0ZjQwNTk2YzBiY2Zj`
+Snapshot ID: `MTY2ODQwODE2MCwwMDAwMDAwMDJlNWQ4M2E5NTRmZDE2ZWQ2ZTgzZGU5NjEyM2FiMTk1`

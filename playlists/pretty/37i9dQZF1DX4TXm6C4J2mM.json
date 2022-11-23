@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156930,
+  "num_followers": 156923,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDQzYTgzMmY3MzMxYjc1MDgxZmZiZmZkMGFlYWM5YzM0",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGZhZDQ1OTRkNDM5YzFiMjRhN2EzNzc2Njg1NTA1MmM4",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Stars Align (with Jolin Tsai)",
+        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Stars Align (with Jolin Tsai)",
+      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "No One Dies From Love (220 KID Remix)",
         "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 156774,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Stars Align (with Jolin Tsai)",
-        "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Stars Align (with Jolin Tsai)",
-      "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 126511,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Sweet Harmony",
-        "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Mia Amare",
-          "url": "https://open.spotify.com/artist/4nBaPBBgqOTBzeBy9kpCCr"
-        }
-      ],
-      "duration_ms": 136190,
-      "name": "Sweet Harmony",
-      "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Tell Me I'm Pretty (Icona Pop Remix)",
         "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 159425,
       "name": "Tell Me I'm Pretty - Icona Pop Remix",
       "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mia Amare",
+          "url": "https://open.spotify.com/artist/4nBaPBBgqOTBzeBy9kpCCr"
+        }
+      ],
+      "duration_ms": 136190,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        },
-        {
-          "name": "TASH",
-          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
-        }
-      ],
-      "duration_ms": 192397,
-      "name": "If You're Looking for Trouble",
-      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Where You Wanna Be",
         "url": "https://open.spotify.com/album/5BZ4f5WKubbOnMNcBp9wL2"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 158709,
       "name": "Where You Wanna Be",
       "url": "https://open.spotify.com/track/6HILwFdT1NQbp92QO5D1Ni"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        },
+        {
+          "name": "TASH",
+          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
+        }
+      ],
+      "duration_ms": 192397,
+      "name": "If You're Looking for Trouble",
+      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
     },
     {
       "added_at": "2022-11-10 23:00:00",

@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-223 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
+224 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Ok](https://open.spotify.com/track/5iqGwRFxb6sA6Nft63xl4M) | [Cezza](https://open.spotify.com/artist/5rLw6pCcoJyli9ZYnDFwrV), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [LEIROZ](https://open.spotify.com/artist/5cRriQJijsudb4UimiqQxU) | [Ok](https://open.spotify.com/album/167xAEQlWPafUZ4IgztgMw) | 3:34 | 2022-10-14 |  |
 | [Ontem](https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ontem](https://open.spotify.com/album/1fM60WYCiwVdzItKBMQxrJ) | 2:43 | 2022-03-18 | 2022-09-24 |
 | [Outro Nível](https://open.spotify.com/track/2wJtkcZcYq5Axv7dWFT9Lv) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Outro Nível](https://open.spotify.com/album/0aBVgFfCQU38XKeJZhoDhh) | 2:17 | 2022-08-26 |  |
-| [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-18 |  |
+| [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 | 2022-11-18 |  |
+| [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-18 | 2022-11-23 |
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-03-18 |  |
 | [Peixe Grande](https://open.spotify.com/track/4eL2UJw7hlvoxywx4CSL9F) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Peixe Grande](https://open.spotify.com/album/0BVqwfKqX94meCXXWem6XB) | 2:06 | 2022-10-14 |  |
 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-15 | 2022-09-03 |

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 133170,
+  "num_followers": 133130,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDFlYTBmZmMxZTE0ZGFjM2JlZjEzYjhhYTUzM2U4MmVm",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDY2MTU1MzMxMWM2YzAwM2Q1YzA3MTA2MmUwZDcyZDcz",
   "tracks": [
     {
       "added_at": "2021-12-02 09:05:08",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 285159,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5"
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "For Your Entertainment",
-        "url": "https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 227320,
-      "name": "Whataya Want from Me",
-      "url": "https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "Oh My My",
         "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Paramore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+        "name": "For Your Entertainment",
+        "url": "https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
         }
       ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
+      "duration_ms": 227320,
+      "name": "Whataya Want from Me",
+      "url": "https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "Andrew McMahon In The Wilderness",
-        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 223879,
-      "name": "Cecilia And The Satellite",
-      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "ATLAS (Deluxe)",
         "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 185466,
       "name": "Money Run Low",
       "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "Andrew McMahon In The Wilderness",
+        "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 223879,
+      "name": "Cecilia And The Satellite",
+      "url": "https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq"
     },
     {
       "added_at": "2021-12-02 09:05:08",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-12-02 09:05:08",
       "album": {
-        "name": "The Way It Was",
-        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
-      },
-      "artists": [
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "Forever And Always",
-      "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
-    },
-    {
-      "added_at": "2021-12-02 09:05:08",
-      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206400,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+    },
+    {
+      "added_at": "2021-12-02 09:05:08",
+      "album": {
+        "name": "The Way It Was",
+        "url": "https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF"
+      },
+      "artists": [
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Forever And Always",
+      "url": "https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR"
     },
     {
       "added_at": "2021-12-02 09:05:08",

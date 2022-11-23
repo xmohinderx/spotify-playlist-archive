@@ -1526,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Hey Ye Ye Yeah (Slow)",
+        "url": "https://open.spotify.com/album/5vvATIEeqF3VXPHRsDiTfG"
+      },
+      "artists": [
+        {
+          "name": "Bear Garden",
+          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171464,
+      "name": "Hey Ye Ye Yeah - Slow",
+      "url": "https://open.spotify.com/track/5h97Md9cmCNB80k2fHnFT3"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/09jbzo4JUhVIf3j0W6WZ9Q"
       },
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 240282,
       "name": "May As Well Be",
       "url": "https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC"

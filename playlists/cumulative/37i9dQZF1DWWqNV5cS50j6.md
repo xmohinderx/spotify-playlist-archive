@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,201 songs - 2 day 10 hr 12 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,202 songs - 2 day 10 hr 15 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Blessed](https://open.spotify.com/track/6YLl6UO8sC1Stm3Fa7AHxD) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Blessed](https://open.spotify.com/album/4laBYJpVPSV50uulMdKy1h) | 2:43 | 2020-10-13\* | 2021-03-26 |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-10-22 | 2022-03-01 |
 | [Bliss](https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:51 | 2022-04-08 | 2022-10-04 |
-| [bloo sox interlude](https://open.spotify.com/track/5X2rrLdm6A3ELbgbAYDvK7) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [bloo sox interlude](https://open.spotify.com/album/3gWJOZAf9dYH04xsL1i1f3) | 2:55 | 2022-10-28 |  |
+| [bloo sox interlude](https://open.spotify.com/track/5X2rrLdm6A3ELbgbAYDvK7) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [bloo sox interlude](https://open.spotify.com/album/3gWJOZAf9dYH04xsL1i1f3) | 2:55 | 2022-10-28 | 2022-11-23 |
 | [Blood Sugar](https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Blood Sugar](https://open.spotify.com/album/2UdbPu3HA7s9HljWGZAkA9) | 3:07 | 2020-10-13\* | 2021-05-03 |
 | [Bloom](https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe) | 5:02 | 2022-05-06 | 2022-05-28 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-05-15 | 2021-10-14 |
@@ -501,6 +501,7 @@
 | [How to Breathe in Static](https://open.spotify.com/track/29v4LSsQsDClxO5icOU07h) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Phenomena](https://open.spotify.com/album/3Swuuoui4G5AvOg3pMeLo1) | 4:23 | 2021-10-15 | 2022-01-13 |
 | [HUBBA BUBBA](https://open.spotify.com/track/3QZ4lz1SOh8KmSMC59p6iZ) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [HUBBA BUBBA](https://open.spotify.com/album/42RzFTI9NgqXZyPGeUyRhd) | 3:34 | 2022-05-09 | 2022-07-01 |
 | [Hullabaloo](https://open.spotify.com/track/1zew16SiipS0aoEnnfyXtx) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hullabaloo](https://open.spotify.com/album/4WfAFQDRh8VNYDVp6H2wIf) | 1:42 | 2022-02-11 | 2022-03-01 |
+| [Human Being](https://open.spotify.com/track/6J04JDT037lOo9gvfjb3zZ) | [Javier Bennett](https://open.spotify.com/artist/0RrvJKbORGX9jQsie32cXT) | [Human Being](https://open.spotify.com/album/48qAF6Blfg0w0oXxbcCoCm) | 2:52 | 2022-11-22 |  |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-04-08 | 2022-04-10 |
 | [Hypnotic Ways](https://open.spotify.com/track/0iivtq1xavnLgyOlEmM5Lj) | [Clayjay](https://open.spotify.com/artist/4kXLCBgUM4qDe1iwEx7Tmm), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Hypnotic Ways](https://open.spotify.com/album/5bHZV9lPqkMK6CWM8PJ2Ao) | 2:42 | 2021-05-18 | 2021-10-12 |
 | [I Am Yours \(Blister\)](https://open.spotify.com/track/2Xfz2cSQbeKHEqYVo0ZaBg) | [Cherry Blu](https://open.spotify.com/artist/5aQcwghOfyd6FLSSBZF0xM) | [I Am Yours \(Blister\)](https://open.spotify.com/album/4UFJaAPFXI8J9ywCCdfK12) | 1:49 | 2022-02-11 | 2022-03-01 |

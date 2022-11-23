@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 24031,
+  "num_followers": 24092,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTgxNywwMDAwMDAwMDQ0MTJmZmE4M2M1ZjRjNGMwYTE2MTJkM2MyMGVhZDgz",
+  "snapshot_id": "MTY2ODc3MTgxNywwMDAwMDAwMDVlMjMzMGNlODc0ZjkzNjI5MTI3MzA5MmJhYzgyYTEy",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
-      "added_at": "2022-11-22 01:39:45",
+      "added_at": "2022-11-23 01:32:53",
       "album": {
         "name": "Mercy (Sho Mo)",
         "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 256653,
       "name": "OMG (feat. JJ Hairston)",
       "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         },
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 336696,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
+      "duration_ms": 196832,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE"
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
       },
       "artists": [
         {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         },
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 196832,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
+      "duration_ms": 336696,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
     },
     {
       "added_at": "2022-09-30 06:46:03",
@@ -1169,24 +1169,24 @@
       "url": "https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et"
     },
     {
-      "added_at": "2022-10-21 06:09:31",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Show Dem",
-        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+        "name": "Greenland",
+        "url": "https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK"
       },
       "artists": [
         {
-          "name": "Paul Chisom",
-          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
         },
         {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+          "name": "Joseph Company",
+          "url": "https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3"
         }
       ],
-      "duration_ms": 206897,
-      "name": "Show Dem",
-      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+      "duration_ms": 258893,
+      "name": "Green Land",
+      "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
     },
     {
       "added_at": "2022-09-09 09:04:44",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Greenland",
-        "url": "https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Joseph Company",
-          "url": "https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Green Land",
-      "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Grateful Hearts",
         "url": "https://open.spotify.com/album/1dXixMQ1fxXkygMFcczgYP"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 850671,
       "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
       "url": "https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx"
+    },
+    {
+      "added_at": "2022-10-21 06:09:31",
+      "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+      },
+      "artists": [
+        {
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
     },
     {
       "added_at": "2022-06-30 23:00:00",

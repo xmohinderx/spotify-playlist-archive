@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-134 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+135 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Circle 9](https://open.spotify.com/track/65F9ObHx7HpWgxRawYeHeG) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Circle 9](https://open.spotify.com/album/3EDnbBXhJk7l4gaNJJMb14) | 2:38 | 2021-12-24 | 2022-07-29 |
 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2021-12-24 |  |
 | [Contemplation](https://open.spotify.com/track/3lLi5lAXRN7qQeTi7WNHRm) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/0dOKce3eWiHzB7ixpEEwNF) | 5:51 | 2021-12-24 | 2022-11-20 |
+| [Contemplation](https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc) | 5:51 | 2022-10-04 |  |
 | [Cuted](https://open.spotify.com/track/3gdhXa2iXDmPfkIlQehzyH) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Mind Groove](https://open.spotify.com/artist/3qweuxueVmC5XiMQviLH37) | [Cuted](https://open.spotify.com/album/2THF0LlDcp88lG4Gn6Xl4K) | 6:14 | 2022-02-25 | 2022-07-29 |
 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2022-01-07 | 2022-10-30 |
 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 | 2021-12-24 |  |
@@ -109,7 +110,7 @@
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-12-24 |  |
 | [Sequoia Slumber](https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK) | [Land Systems](https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe) | [Elm](https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR) | 2:38 | 2021-12-24 |  |
 | [Sleep to Dream](https://open.spotify.com/track/5KwymU2QG0VItvZCLk0Sg7) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/5PNTUZ4CGVrnxF67xlaGZ5) | 4:23 | 2021-12-24 | 2022-10-20 |
-| [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 | 2022-10-04 |  |
+| [Sleep to Dream](https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA) | [Goya](https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc) | [Sleep to Dream](https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej) | 4:23 | 2022-10-04 | 2022-11-23 |
 | [Sleepy Dragon](https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y) | [Sunmoonstar](https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu) | [Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 2:00 | 2021-12-24 |  |
 | [Slow Tide](https://open.spotify.com/track/41O6rwSFgVZJc1XKdK1b02) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Slow Tide](https://open.spotify.com/album/4l7kQfYL5bJDfPBcLTS4sF) | 4:48 | 2022-01-07 | 2022-08-06 |
 | [Small Triumphs and Deep Disappointments](https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [Small Triumphs and Deep Disappointments](https://open.spotify.com/album/3HZAhKqruuPkdWRdR5mFwb) | 7:47 | 2021-12-24 | 2022-03-18 |

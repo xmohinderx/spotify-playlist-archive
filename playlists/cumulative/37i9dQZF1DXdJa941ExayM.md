@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: Fousheé
 
-184 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+185 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 | 2022-07-07 | 2022-08-19 |
 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 | 2022-01-21 | 2022-07-29 |
 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Gotta Do More Gotta Be More](https://open.spotify.com/album/2OtLneHnXrZ3vjRMHJhjgL) | 2:37 | 2021-12-20 |  |
-| [Having a Headache](https://open.spotify.com/track/1QinYnsNApMjbqaciWrhks) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Having a Headache](https://open.spotify.com/album/4PJLSSs46r41EnOyzLRcM8) | 2:24 | 2021-12-20 |  |
+| [Having a Headache](https://open.spotify.com/track/1QinYnsNApMjbqaciWrhks) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Having a Headache](https://open.spotify.com/album/4PJLSSs46r41EnOyzLRcM8) | 2:24 | 2021-12-20 | 2022-11-23 |
+| [Hazmat Suit \(My Ass\)](https://open.spotify.com/track/62mhqqaxZF7Mm7U9zZs0G2) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Hazmat Suit \(My Ass\)](https://open.spotify.com/album/5HLaRNTY0Kk71653Rhnjww) | 3:00 | 2022-11-18 |  |
 | [hey](https://open.spotify.com/track/6244mvRPJErzcf9fpMopkU) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [cold // hey](https://open.spotify.com/album/6Wri4SM3KP1kBlHL9vzxmU) | 2:06 | 2021-12-20 | 2022-08-19 |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-12-20 | 2022-02-16 |
 | [Hold My Hand](https://open.spotify.com/track/6SvllC0AxXwxxFHmzq6WRO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Take the Cake](https://open.spotify.com/album/5xEN5e223k5edWl5RQcVqU) | 1:30 | 2021-12-20 | 2022-08-06 |

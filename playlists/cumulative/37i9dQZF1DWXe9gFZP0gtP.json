@@ -3022,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe"
+      },
+      "artists": [
+        {
+          "name": "Richter Gravitas",
+          "url": "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115185,
+      "name": "Lost In Thought",
+      "url": "https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS"
+    },
+    {
+      "album": {
         "name": "Lucerne",
         "url": "https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2"
       },
@@ -3325,6 +3343,24 @@
       "duration_ms": 149157,
       "name": "Moonlight Memoirs",
       "url": "https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz"
+    },
+    {
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe"
+      },
+      "artists": [
+        {
+          "name": "Richter Gravitas",
+          "url": "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126331,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An"
     },
     {
       "album": {
@@ -5182,6 +5218,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
+      },
+      "artists": [
+        {
+          "name": "Lior Freudenthal",
+          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
+    },
+    {
+      "album": {
         "name": "Translucence",
         "url": "https://open.spotify.com/album/3MVnjQwLiReiuMeIjkLu3y"
       },
@@ -5229,7 +5283,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 199318,
       "name": "Traumlandschaft",
       "url": "https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauw Alejandro
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,702 likes - 339 songs - 18 hr 34 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,701 likes - 339 songs - 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

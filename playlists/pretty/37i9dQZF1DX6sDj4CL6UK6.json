@@ -1,28 +1,28 @@
 {
   "description": "'Frizzell D'souza' is on the cover of IndiEnglish. Stream now!",
-  "num_followers": 24060,
+  "num_followers": 24050,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY4MDM4NSwwMDAwMDAwMDRhNmI0NWM0MGZlZmY4ZWE5ODg5YTU3MTg3MTk4YWE2",
+  "snapshot_id": "MTY2OTE2NjU4MCwwMDAwMDAwMGY0ZmViNTdjYzY5MmVkODJkMjIzYjFmNzcxNTRkNDFi",
   "tracks": [
     {
-      "added_at": "2022-10-20 06:28:26",
+      "added_at": "2022-11-23 01:23:00",
       "album": {
-        "name": "The Hills Know Of You",
-        "url": "https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn"
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA"
       },
       "artists": [
         {
-          "name": "Frizzell D'souza",
-          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB"
+      "duration_ms": 244000,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -99,54 +99,6 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "sophomore sweetheart",
-        "url": "https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv"
-      },
-      "artists": [
-        {
-          "name": "sunflower tape machine",
-          "url": "https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "sophomore sweetheart",
-      "url": "https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
-        "name": "Favorite Peeps",
-        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
-        "name": "Cool Kids",
-        "url": "https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs"
-      },
-      "artists": [
-        {
-          "name": "Kayan",
-          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
-        }
-      ],
-      "duration_ms": 172584,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
         "name": "Mismatched: Season 2 (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -167,6 +119,54 @@
       "duration_ms": 172721,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Favorite Peeps",
+        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "sophomore sweetheart",
+        "url": "https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv"
+      },
+      "artists": [
+        {
+          "name": "sunflower tape machine",
+          "url": "https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "sophomore sweetheart",
+      "url": "https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs"
+      },
+      "artists": [
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "I\u2019m On Your Side",
-        "url": "https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE"
+        "name": "The Hills Know Of You",
+        "url": "https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn"
       },
       "artists": [
         {
-          "name": "Trance Effect",
-          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
         }
       ],
-      "duration_ms": 163478,
-      "name": "I\u2019m On Your Side",
-      "url": "https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ"
+      "duration_ms": 170400,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
+        "name": "I\u2019m On Your Side",
+        "url": "https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE"
+      },
+      "artists": [
+        {
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "I\u2019m On Your Side",
+      "url": "https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
         "name": "Have You Been Told",
         "url": "https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris"
       },
@@ -627,34 +643,18 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Midnite Spaceflite",
-        "url": "https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn"
+        "name": "Bad for Me",
+        "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
       },
       "artists": [
         {
-          "name": "Aditya Rao",
-          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
         }
       ],
-      "duration_ms": 206379,
-      "name": "Midnite Spaceflite",
-      "url": "https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2OPof019rnmR6xThgEF71j"
-      },
-      "artists": [
-        {
-          "name": "Jaden Maskie",
-          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
+      "duration_ms": 203526,
+      "name": "Bad for Me",
+      "url": "https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -675,18 +675,34 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Bad for Me",
-        "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2OPof019rnmR6xThgEF71j"
       },
       "artists": [
         {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+          "name": "Jaden Maskie",
+          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
         }
       ],
-      "duration_ms": 203526,
-      "name": "Bad for Me",
-      "url": "https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF"
+      "duration_ms": 229253,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Midnite Spaceflite",
+        "url": "https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rao",
+          "url": "https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa"
+        }
+      ],
+      "duration_ms": 206379,
+      "name": "Midnite Spaceflite",
+      "url": "https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
+        "name": "I'm On Holiday",
+        "url": "https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC"
+      },
+      "artists": [
+        {
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "duration_ms": 212068,
+      "name": "I'm On Holiday",
+      "url": "https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
         "name": "Through These Years",
         "url": "https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu"
       },
@@ -1023,22 +1055,6 @@
       "duration_ms": 223071,
       "name": "Through These Years",
       "url": "https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
-        "name": "I'm On Holiday",
-        "url": "https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC"
-      },
-      "artists": [
-        {
-          "name": "The F16s",
-          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
-        }
-      ],
-      "duration_ms": 212068,
-      "name": "I'm On Holiday",
-      "url": "https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw"
-      },
-      "artists": [
-        {
-          "name": "Hanita Bhambri",
-          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
-        }
-      ],
-      "duration_ms": 225258,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
         "name": "Should I Ghost You...",
         "url": "https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 134129,
       "name": "Should I Ghost You...",
       "url": "https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/62Sk2TEDaiPB7B45FIQCmw"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "duration_ms": 225258,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/48IEgZ2qIuMXY8XTpGvlEK"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Quietly",
-        "url": "https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn"
-      },
-      "artists": [
-        {
-          "name": "Tanmaya Bhatnagar",
-          "url": "https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Quietly",
-      "url": "https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
         "name": "Desert Island",
         "url": "https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 208746,
       "name": "Desert Island",
       "url": "https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Quietly",
+        "url": "https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn"
+      },
+      "artists": [
+        {
+          "name": "Tanmaya Bhatnagar",
+          "url": "https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Quietly",
+      "url": "https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Outlast",
-        "url": "https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW"
-      },
-      "artists": [
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 271571,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 296015,
       "name": "24 X 7",
       "url": "https://open.spotify.com/track/56coHZPjIURSxnHfEFDMXW"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Outlast",
+        "url": "https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "duration_ms": 271571,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV"
     },
     {
       "added_at": "2022-10-20 06:28:26",
@@ -1331,26 +1347,6 @@
     {
       "added_at": "2022-10-20 06:28:26",
       "album": {
-        "name": "Paper Boats",
-        "url": "https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI"
-      },
-      "artists": [
-        {
-          "name": "Chirag Todi",
-          "url": "https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE"
-        },
-        {
-          "name": "Gouri and Aksha",
-          "url": "https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF"
-        }
-      ],
-      "duration_ms": 227619,
-      "name": "Paper Boats",
-      "url": "https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO"
-    },
-    {
-      "added_at": "2022-10-20 06:28:26",
-      "album": {
         "name": "dancing in the bedroom sky",
         "url": "https://open.spotify.com/album/1NuPAPVolzg3Wd5UbCwWUp"
       },
@@ -1367,6 +1363,26 @@
       "duration_ms": 205078,
       "name": "dancing in the bedroom sky",
       "url": "https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs"
+    },
+    {
+      "added_at": "2022-10-20 06:28:26",
+      "album": {
+        "name": "Paper Boats",
+        "url": "https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI"
+      },
+      "artists": [
+        {
+          "name": "Chirag Todi",
+          "url": "https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE"
+        },
+        {
+          "name": "Gouri and Aksha",
+          "url": "https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF"
+        }
+      ],
+      "duration_ms": 227619,
+      "name": "Paper Boats",
+      "url": "https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO"
     },
     {
       "added_at": "2022-10-20 06:28:26",

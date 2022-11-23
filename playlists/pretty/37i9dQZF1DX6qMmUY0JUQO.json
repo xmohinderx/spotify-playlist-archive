@@ -1,12 +1,12 @@
 {
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 76313,
+  "num_followers": 76266,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1NzU5OCwwMDAwMDAwMGEzZTdhNWVkYjNhOWE1MjJlM2YyMWFmM2U4ZWQ4N2Vi",
+  "snapshot_id": "MTY2MjY1NzU5OCwwMDAwMDAwMDE0ZTRlYzdjOTM0ZjdiZGZlOTZiNzc3N2RkOTAwOGFl",
   "tracks": [
     {
       "added_at": "2022-09-08 17:19:57",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Go West - 2003 Remaster",
-      "url": "https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 253200,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Go West - 2003 Remaster",
+      "url": "https://open.spotify.com/track/33gDIKlrUnY1dTWYsm5BFL"
     },
     {
       "added_at": "2022-09-08 17:19:57",

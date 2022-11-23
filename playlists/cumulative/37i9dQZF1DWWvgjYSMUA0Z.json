@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 499266,
       "name": "Kindred Spirit",
       "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
@@ -1709,6 +1709,24 @@
       "duration_ms": 253715,
       "name": "Somber",
       "url": "https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ"
+    },
+    {
+      "album": {
+        "name": "Sominare",
+        "url": "https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud"
+      },
+      "artists": [
+        {
+          "name": "Moon Laika",
+          "url": "https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Sominare",
+      "url": "https://open.spotify.com/track/2165MC8JML5S217g4vIdDy"
     },
     {
       "album": {

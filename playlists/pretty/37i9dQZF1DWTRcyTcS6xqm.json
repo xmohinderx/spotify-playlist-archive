@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7312,
+  "num_followers": 7325,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDc0MGY1OTM1Y2VhZGFkYzQzOWVkYTJmOGRiOGU0MWNl",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDczYTVmZmJkOTY2MmU1OWNkM2RmOTVkZDEyMDhiMzg2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/65wpy7UdEGYqWkx91SLoLe"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/5V6JS67petdOBOIo2Lz16y"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Ice Queen",
@@ -591,22 +575,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 220706,
       "name": "Palace Of The King - Remastered",
       "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -765,22 +749,6 @@
       "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Hail Mighty Caesar",
-      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "She Got Some Money",
@@ -795,6 +763,22 @@
       "duration_ms": 182893,
       "name": "She Got Some Money",
       "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Hail Mighty Caesar",
+      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -835,18 +819,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+        "name": "Blues Survivor",
+        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+      "duration_ms": 410360,
+      "name": "Shake For Me",
+      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -863,6 +847,22 @@
       "duration_ms": 214133,
       "name": "Mr. Loving Man",
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     }
   ],
   "unique_name": "Blues Party",

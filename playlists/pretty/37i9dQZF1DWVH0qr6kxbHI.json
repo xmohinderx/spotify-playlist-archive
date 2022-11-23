@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 43593,
+  "num_followers": 43576,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGY1NjU4ZDA4NzNlZjU3Y2ZlODQyNzRjMWNhNGE3YWFk",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGNlZmMyM2FmY2RiNjg0OGQxZDMwYmIzZmExZDc2NGNl",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "La Inimitable",
-        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Flores",
-          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "A Tu Vera",
-      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "En directo",
         "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 252213,
       "name": "Beso a beso... dulcemente",
       "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "La Inimitable",
+        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "A Tu Vera",
+      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mis Mejores Canciones, Vol. I",
-        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Mis Mejores Canciones, Vol. I",
+        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "De Un Mundo Raro (Cantes Por Chavela)",
+        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "En Un Mundo Raro",
+      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Canciones De Oro",
         "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 215626,
       "name": "Y se amaron dos caballos",
       "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "De Un Mundo Raro (Cantes Por Chavela)",
-        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
-      },
-      "artists": [
-        {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "En Un Mundo Raro",
-      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Todo Vuelve",
-        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+        "name": "Canciones De Oro",
+        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
       "artists": [
         {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
         }
       ],
-      "duration_ms": 209479,
-      "name": "Tic-Tac",
-      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
+      "duration_ms": 188200,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Canciones De Oro",
-        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "A Bola De Nieve",
         "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 262811,
       "name": "Alma M\u00eda",
       "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Todo Vuelve",
+        "url": "https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Tic-Tac",
+      "url": "https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk"
     },
     {
       "added_at": "2022-11-03 23:00:00",

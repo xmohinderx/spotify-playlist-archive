@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 242703,
+  "num_followers": 242679,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDI2OWUzODBhMGE2ZTA0YmVmYTdkNjAyMzUyMmM4Yzdi",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDkxNWQwM2IzMWRkNjc5YzFjM2E3MjAyZDRmOGRhNzc0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -255,22 +255,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aromanticism",
-        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 188557,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Where Will We Go, Pt. 2",
         "url": "https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Aromanticism",
+        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Self Edit",
-        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
-      },
-      "artists": [
-        {
-          "name": "Vesce",
-          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Zender",
-      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Self Edit",
+        "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
+      },
+      "artists": [
+        {
+          "name": "Vesce",
+          "url": "https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Zender",
+      "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Think Like I Do",
-        "url": "https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX"
-      },
-      "artists": [
-        {
-          "name": "Jye",
-          "url": "https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH"
-        },
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Think Like I Do",
-      "url": "https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Passionfruit Falls",
         "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 170404,
       "name": "You",
       "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Think Like I Do",
+        "url": "https://open.spotify.com/album/43DsyHKkzPdDohddCvOqaX"
+      },
+      "artists": [
+        {
+          "name": "Jye",
+          "url": "https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH"
+        },
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Think Like I Do",
+      "url": "https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8"
     },
     {
       "added_at": "2018-12-11 21:12:31",

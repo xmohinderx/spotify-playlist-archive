@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "\u7a7a\u4e2d\u30ad\u30e3\u30f3\u30d7",
+        "url": "https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI"
+      },
+      "artists": [
+        {
+          "name": "Fishmans",
+          "url": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369266,
+      "name": "BABY BLUE",
+      "url": "https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF"
+    },
+    {
+      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -165,10 +183,28 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 298292,
       "name": "Binetsu (Autumn)",
       "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
+    },
+    {
+      "album": {
+        "name": "Point (Remaster)",
+        "url": "https://open.spotify.com/album/6DmV9Aj3KUDmSDCqPvWMlP"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5VQzdW80ZpK4Hb4Pqp8BLh"
     },
     {
       "album": {
@@ -187,6 +223,28 @@
       "duration_ms": 230720,
       "name": "Bye for now,",
       "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+    },
+    {
+      "album": {
+        "name": "DESIGN",
+        "url": "https://open.spotify.com/album/7s9c96pulVhswdp5muAJJW"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199113,
+      "name": "CAREFREE",
+      "url": "https://open.spotify.com/track/6RyqEix17XNNzdvhU8FrFK"
     },
     {
       "album": {
@@ -280,6 +338,28 @@
     },
     {
       "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/5IlACT0Uw2qjYTgHrK37b0"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344280,
+      "name": "Fire (feat. Sam Gendel)",
+      "url": "https://open.spotify.com/track/1zTowLItLwjFXiqAso4Fuw"
+    },
+    {
+      "album": {
         "name": "Yoru no Niwa (Night Garden)",
         "url": "https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR"
       },
@@ -313,7 +393,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -527,7 +607,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 205571,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5by4rIWBDVMyTNzUcmBnMg"
@@ -711,7 +791,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 281358,
       "name": "Ruriiro no Chikyu -Mirai eno Kokai Version-",
       "url": "https://open.spotify.com/track/0lgRw4u5KMlocLsJCOtRWV"
@@ -863,7 +943,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 288933,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/6StniiGea66FWIPEO27Kcz"
@@ -975,7 +1055,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
@@ -1191,7 +1271,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 238389,
       "name": "\u3072\u3053\u3046\u304d\u96f2",
       "url": "https://open.spotify.com/track/0gIhgkpl3928E1WftvXXKo"
@@ -1209,10 +1289,28 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 234213,
       "name": "\u307e\u305f\u305f\u304d",
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "album": {
+        "name": "Organic Plastic Music",
+        "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
+      },
+      "artists": [
+        {
+          "name": "Orange Pekoe",
+          "url": "https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240933,
+      "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
+      "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
     },
     {
       "album": {
@@ -1263,7 +1361,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
@@ -1289,6 +1387,24 @@
       "duration_ms": 327191,
       "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "album": {
@@ -1415,6 +1531,42 @@
       "duration_ms": 128028,
       "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "album": {
+        "name": "\u96eb\u306b\u604b\u3057\u3066/\u5fd8\u308c\u3066\u82b1\u675f",
+        "url": "https://open.spotify.com/album/1NFvr2Trzy1UuaVeXL0M2z"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "\u5922\u306e\u3042\u3068\u304b\u3089",
+      "url": "https://open.spotify.com/track/0L2Xxup2YCH9E9wKHnUZJ1"
+    },
+    {
+      "album": {
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "\u5922\u5b99",
+      "url": "https://open.spotify.com/track/19Abz8fdF55MlJlo52B59M"
     },
     {
       "album": {
@@ -1737,6 +1889,24 @@
       "duration_ms": 249200,
       "name": "\u7460\u7483\u8272\u306e\u5730\u7403(\u300c\u3053\u306e\u5730\u7403\u306e\u65e5\u3005\u305f\u3061\u3078\u300d\u30cf\u3099\u30fc\u30b7\u3099\u30e7\u30f3)",
       "url": "https://open.spotify.com/track/5I5ljQOKD3pQDCEDgRpXov"
+    },
+    {
+      "album": {
+        "name": "KISS IN THE SKY",
+        "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322666,
+      "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846532,
+  "num_followers": 846529,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGZjNWIyYzFiZjMwYzg3ZmEzMTE0N2M4Y2ZiNWJlZTMw",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDJhMWJmZjQ5NzRhMTI5M2EwODYxYTE4NGU3ZjQ5ZGIw",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Dati-Dati",
-        "url": "https://open.spotify.com/album/0vWLVoS1AcxTICsK49VfUj"
-      },
-      "artists": [
-        {
-          "name": "Sarah Geronimo",
-          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
-        }
-      ],
-      "duration_ms": 342202,
-      "name": "Dati-Dati",
-      "url": "https://open.spotify.com/track/3b1P0s0bbeJhV5ZM5uv2oP"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
         "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 143636,
       "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
       "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Dati-Dati",
+        "url": "https://open.spotify.com/album/0vWLVoS1AcxTICsK49VfUj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
+        }
+      ],
+      "duration_ms": 342202,
+      "name": "Dati-Dati",
+      "url": "https://open.spotify.com/track/3b1P0s0bbeJhV5ZM5uv2oP"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "906090",
-        "url": "https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3c Ti\u00ean",
-          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
-        },
-        {
-          "name": "Mew Amazing",
-          "url": "https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI"
-        }
-      ],
-      "duration_ms": 208767,
-      "name": "906090",
-      "url": "https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Partout",
         "url": "https://open.spotify.com/album/1fSyIBmSmRDMrmb0udtRRs"
       },
@@ -395,18 +375,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+        "name": "906090",
+        "url": "https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "Mew Amazing",
+          "url": "https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI"
         }
       ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+      "duration_ms": 208767,
+      "name": "906090",
+      "url": "https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -427,6 +411,22 @@
       "duration_ms": 153760,
       "name": "Coraz\u00f3n Cruzado",
       "url": "https://open.spotify.com/track/0n4bTZeW7B9wAqcr5EffZe"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "No lo voy a lamentar",
-        "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "No lo voy a lamentar",
-      "url": "https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Soft Life",
         "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 168205,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "No lo voy a lamentar",
+        "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "No lo voy a lamentar",
+      "url": "https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -719,6 +719,22 @@
       "duration_ms": 193750,
       "name": "Romper Platos",
       "url": "https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Intertwine",
         "url": "https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
-      },
-      "artists": [
-        {
-          "name": "Ivana Wong",
-          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
-        }
-      ],
-      "duration_ms": 191492,
-      "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "La Lune",
         "url": "https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 267771,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
+      },
+      "artists": [
+        {
+          "name": "Ivana Wong",
+          "url": "https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S"
+        }
+      ],
+      "duration_ms": 191492,
+      "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq"
     },
     {
       "added_at": "2022-11-02 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 7398,
+  "num_followers": 7562,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMGIzY2Y1OWI2YmIyYTExNzI3MmQ2MjRkY2UwMWZkOWM4",
+  "snapshot_id": "MTY2NDY0MzI2NywwMDAwMDAwMDcyZjc2OGIwODA2MDNhNWMxYWJhOGE1NTIwMGFhMDgz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The ArchAndroid",
-        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Oh, Maker",
-      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 211893,
       "name": "Get It Over With",
       "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "The ArchAndroid",
+        "url": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Oh, Maker",
+      "url": "https://open.spotify.com/track/5eKwaeINlNEX3aMlfpmUtw"
     },
     {
       "added_at": "2022-10-01 16:54:27",

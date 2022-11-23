@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 39329,
+  "num_followers": 39323,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMGZjYzZhNGFjODU1MDJkODhiNzhlODA1NjYxZWRhZjFj",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDQ2NTM0OWQ4MWE5NDFhYjgzZGZmYjkzNDIzMzJmN2Fl",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Overdose (From the Netflix Series \"Mo\")",
-        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        },
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        }
-      ],
-      "duration_ms": 174673,
-      "name": "Overdose - From the Netflix Series \"Mo\"",
-      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Tol Alena Ya Ghali",
         "url": "https://open.spotify.com/album/1XuiuBXF2vjJycFz4SfGJH"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 182857,
       "name": "Tol Alena Ya Ghali",
       "url": "https://open.spotify.com/track/766qbzDoCwddrG7rCqeqgD"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Overdose (From the Netflix Series \"Mo\")",
+        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        },
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "duration_ms": 174673,
+      "name": "Overdose - From the Netflix Series \"Mo\"",
+      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "Maskhara",
+        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
+      },
+      "artists": [
+        {
+          "name": "Bashar Murad",
+          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+        }
+      ],
+      "duration_ms": 186411,
+      "name": "Maskhara",
+      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "Ya Samti",
         "url": "https://open.spotify.com/album/0I1DrBlH1G7tg0tbU7ux99"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
-      },
-      "artists": [
-        {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
-        }
-      ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
       },
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "The Come Up",
         "url": "https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Nai 1",
-        "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
       "artists": [
         {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
         }
       ],
-      "duration_ms": 328773,
-      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
-      "url": "https://open.spotify.com/track/6EYOa2WdT7XEEOb376DSoV"
+      "duration_ms": 255066,
+      "name": "Al Rozana",
+      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -983,22 +999,6 @@
       "duration_ms": 191018,
       "name": "Raka W Raka",
       "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "Na'na' Ya Na'na'",
-        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Al Rozana",
-      "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 152000,
       "name": "From Here",
       "url": "https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "NAS",
-        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
+        "name": "Room",
+        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
       },
       "artists": [
         {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+          "name": "Fadi Ammous",
+          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
         }
       ],
-      "duration_ms": 326387,
-      "name": "NAS",
-      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
+      "duration_ms": 157800,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
     }
   ],
   "unique_name": "Palestine Sounds",

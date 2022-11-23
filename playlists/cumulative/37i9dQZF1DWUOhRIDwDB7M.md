@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-258 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+259 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2021-09-06 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2021-09-06 |  |
 | [Southern Depths](https://open.spotify.com/track/6Z0bom0mHxn5C2ChVyz1zl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Dreams Within Dreams](https://open.spotify.com/album/4z7X3l4pXbdV4PdVwuyIIW) | 3:23 | 2021-09-06 |  |
+| [Sphera](https://open.spotify.com/track/5uUoengCI6EGB5dSGJuhWG) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Sphera](https://open.spotify.com/album/6mGJWXzSM9eEQOPitK2a9D) | 3:05 | 2022-11-22 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2021-09-06 |  |
 | [Starfish](https://open.spotify.com/track/1J0iEELRVdEoKRXhVo2bhG) | [Kiko Ocean](https://open.spotify.com/artist/7gEctyVolqiuqQuthzEIpx) | [Sounds](https://open.spotify.com/album/1mOi5wqVVPjUK7GrM7tLPu) | 3:04 | 2021-09-06 |  |
 | [Subtile Awakening](https://open.spotify.com/track/70jxeP5CMSn97r89ddjSx1) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Beyond Expectations](https://open.spotify.com/album/1EBer2gVMrayieTh8OXKlj) | 3:04 | 2021-09-06 |  |

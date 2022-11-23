@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Beiro x Pedra x QVXNO.
 
-230 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+230 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Longe](https://open.spotify.com/track/5098hp2v4D9nwR7eYAP6NE) | [Lójico](https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw) | [Longe](https://open.spotify.com/album/1EP5tUh0CW2natbEpmO8kp) | 3:20 | 2022-08-01 | 2022-11-18 |
 | [Longe](https://open.spotify.com/track/66ii269fE5Y774dpOO9a84) | [SINA](https://open.spotify.com/artist/2ge7jCnqVlhZCbB3mtOwTX) | [Longe](https://open.spotify.com/album/1yPNMW19LLKPwnsn9zTFi3) | 2:52 | 2022-07-07 | 2022-09-09 |
 | [LONGE](https://open.spotify.com/track/1j6uM6WLcNbrbQNCLCfBi1) | [Zie](https://open.spotify.com/artist/75U7r2ra0FJQGE3NZeC38e) | [LONGE](https://open.spotify.com/album/6HPH2XTx2fBX9xUt0cIWs2) | 2:32 | 2022-09-01 | 2022-09-23 |
-| [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 | 2022-11-18 |  |
+| [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 | 2022-11-18 |  |
 | [M I A](https://open.spotify.com/track/1EGYWrS4XM2MFLDiZmnTHf) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [M I A](https://open.spotify.com/album/37msRqUkkICBWAHd5o2QcQ) | 2:44 | 2022-07-07 | 2022-07-22 |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-07 | 2022-08-05 |
 | [Mais com Mais](https://open.spotify.com/track/2pyR7awOZwuuozd8xVRzfp) | [icyDice](https://open.spotify.com/artist/3mI6DM0f0ybuKo8u9adlHL) | [Mais com Mais](https://open.spotify.com/album/2Zpw9FrdNCzkMhsgBT3eJm) | 3:29 | 2022-11-18 |  |

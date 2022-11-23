@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-252 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+253 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Mitochondria](https://open.spotify.com/track/5MaqlF543tEwbSpLicLEjH) | [Earth Lodge](https://open.spotify.com/artist/0xBxT1lYbM1Z9nmfjQSc66) | [Mitochondria](https://open.spotify.com/album/6couZkJA4L7TldiWsCdMcZ) | 5:20 | 2021-12-08 | 2022-03-22 |
 | [Moonlight](https://open.spotify.com/track/7d3KZr4HSC2Pt3r4a9Jx91) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [At Peace](https://open.spotify.com/album/6T8GQaam618kI3vbP74FXP) | 2:29 | 2021-12-08 |  |
 | [Morning Rises](https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 3:44 | 2021-12-08 |  |
+| [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 |  |
 | [My Halo Orbit](https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [My Halo Orbit](https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA) | 3:19 | 2022-05-26 |  |
 | [Myth](https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3) | 2:39 | 2022-07-27 |  |
 | [Myth](https://open.spotify.com/track/61dAOLGkqOSyZQUPA5BbdQ) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:39 | 2021-12-08 | 2022-07-29 |

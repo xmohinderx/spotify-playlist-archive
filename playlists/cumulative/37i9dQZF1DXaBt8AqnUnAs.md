@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-158 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+159 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Outro Dia](https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX) | [A Banca Records, Lourena, Azzy, Mazin, Black](https://open.spotify.com/artist/29Tpb9NIA4RIZ6knnYXGDR) | [Outro Dia](https://open.spotify.com/album/1o2PIIFg4d09qZDRGDNfdo) | 3:52 | 2022-03-07 | 2022-07-29 |
 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 | 2022-03-07 | 2022-06-04 |
 | [Pandora](https://open.spotify.com/track/3tuh8qNyOeL9EhJfbNPyb3) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Sons Perdidos Vol\. 1](https://open.spotify.com/album/2IhIrUjPp37L9qpsIzMk74) | 1:53 | 2022-11-11 |  |
-| [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-07 |  |
+| [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 | 2022-11-18 |  |
+| [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 | 2022-03-07 | 2022-11-23 |
 | [Paris](https://open.spotify.com/track/6elpDIHMkVz82eRatb9tsj) | [Gbzxda](https://open.spotify.com/artist/0FqJvK48dvsnQudqvrfix1) | [Paris](https://open.spotify.com/album/62XZI52lD7pUCTztlLrK44) | 3:18 | 2022-07-01 |  |
 | [Paris e Parties](https://open.spotify.com/track/3cG1bBwsyJMQdMW7fNb3Ka) | [Moldrin](https://open.spotify.com/artist/3r6zGJ8POTGaVYelmIc0jf), [Arthur MG](https://open.spotify.com/artist/6Ks26RiM8LOxHD2v9PqX4W) | [Por Ventura](https://open.spotify.com/album/1Vs3hUuzBTp3L6OlyWwT2A) | 1:42 | 2022-07-08 | 2022-08-13 |
 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-08 |  |

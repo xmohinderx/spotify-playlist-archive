@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-70 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+71 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Awaiting the Future](https://open.spotify.com/track/2gpzRMcNb8HqVnzSz4WPsr) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Exit simulation](https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ) | 1:51 | 2022-07-08 |  |
 | [Bad Wings \- Ambient Version](https://open.spotify.com/track/6JwYQX26HaGrZ2AZQNQs6Q) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Drink the Sea \(Ambient Version\)](https://open.spotify.com/album/1gHeBH5qZs2OGKfp0eGjjM) | 3:54 | 2022-07-08 |  |
 | [Before The Storm](https://open.spotify.com/track/2u2FeoEHbkZ9WbpNpmIbYS) | [Edgey](https://open.spotify.com/artist/3fMJ5l4czmNOzG6jx0xrfV) | [Misfire](https://open.spotify.com/album/4QEGntEsYGnhKv9ajvoJOJ) | 5:36 | 2022-07-08 |  |
+| [breakfast](https://open.spotify.com/track/50P29MdiaB6m7rph14WQWs) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [London](https://open.spotify.com/album/5eHFRqdMh7KFxS8pciAmwW) | 3:29 | 2022-11-22 |  |
 | [call for help](https://open.spotify.com/track/5rEXGfLyQDfmIy6PuDiIhW) | [aeroxone](https://open.spotify.com/artist/1RfT7VjWufW7BOVCG3MLOa) | [unknown destination](https://open.spotify.com/album/4TntYRd05wSHWg1q2MnCgB) | 2:39 | 2022-07-08 |  |
 | [Circle 2](https://open.spotify.com/track/3sbEHB3CJcuhMIf1nTBb2R) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:15 | 2022-07-08 |  |
 | [Colonel Bogey](https://open.spotify.com/track/52Bcd2F0Su27o4vVMf7jDl) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Song of the Second Moon](https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv) | 3:00 | 2022-07-08 |  |

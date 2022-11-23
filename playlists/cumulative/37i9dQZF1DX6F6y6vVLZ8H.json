@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Paid Salvation",
+        "url": "https://open.spotify.com/album/0zAxayJBKcqXptUlvt14xH"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Connect To Consume",
+      "url": "https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN"
+    },
+    {
+      "album": {
         "name": "Connect To Consume",
         "url": "https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 194826,
       "name": "Connect To Consume",
       "url": "https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp"

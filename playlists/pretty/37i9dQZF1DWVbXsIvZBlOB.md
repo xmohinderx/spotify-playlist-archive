@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,386 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,392 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 7 | [תשמור לי גם עליך](https://open.spotify.com/track/5Ivm5Cb9K9kPe5clq02T3d) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE) | [תשמור לי גם עליך](https://open.spotify.com/album/7xBT5SiuTbKwAv94tI8DaC) | 3:06 |
 | 8 | [תלך ישר](https://open.spotify.com/track/7tPFVMzkCKn7TCm83Phabg) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [תלך ישר](https://open.spotify.com/album/6fmM9yZ3vVOwpa5K0tVCSF) | 2:47 |
 | 9 | [Shway Shway](https://open.spotify.com/track/5ffRg8fiHkQqqV8VARsYUw) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Shway Shway](https://open.spotify.com/album/2wJNN9MXuShL6rnumTbfun) | 3:33 |
-| 10 | [שמיים לא שלי](https://open.spotify.com/track/7fDQ0XoZnYwqVhi3NxvGoX) | [Naor Cohen](https://open.spotify.com/artist/5a1dYfS6efMcG3P4EenI6L) | [שמיים לא שלי](https://open.spotify.com/album/5BLCHOv58i24Cn4xbfsMWx) | 2:59 |
+| 10 | [אני לא בסדר](https://open.spotify.com/track/3MDj4SGBJaWkCvvInyB7wG) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [אני לא בסדר](https://open.spotify.com/album/0kgEOETTcsQ0hF1KW5iO7R) | 2:47 |
 | 11 | [לא חזרתי לעשן](https://open.spotify.com/track/0rhBINwuJvOt2iqOw2WcWh) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [לא חזרתי לעשן](https://open.spotify.com/album/2qOPRE4qKTqPKk4Vmr2bJP) | 5:09 |
 | 12 | [Roya](https://open.spotify.com/track/4mmyAhGY3mLh4pU7LopsLH) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Roya](https://open.spotify.com/album/5zHQb6ghq3nsIPQIRPBm2Y) | 3:06 |
 | 13 | [Life](https://open.spotify.com/track/6yMbbEPCNZKoF4pCBcWaB1) | [Mika Sade](https://open.spotify.com/artist/0kROWsDsrudeisdMchbraW) | [Life](https://open.spotify.com/album/0LCNicVq6K4AwT8fOrMKRv) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [מה תעשי בלעדיי?](https://open.spotify.com/track/0wI7bezsgafxJaJFyvs4N0) | [Margalit Tzan'ani](https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM) | [מה תעשי בלעדיי?](https://open.spotify.com/album/1VUMmjoEWN1gZhvv6Ad8G9) | 3:19 |
 | 50 | [תקפצו לי](https://open.spotify.com/track/0cPx0S4t90ZuPEs8Zt8wyu) | [הדר פרג'ון](https://open.spotify.com/artist/6MjdGFM41dTrcBfxgwK7Xh) | [תקפצו לי](https://open.spotify.com/album/4NlUVgKbRVJqiB7QQqxK12) | 2:54 |
 
-Snapshot ID: `MTY2NzM0MDAwMCwwMDAwMDAwMGMzNjM3NmFhNmFhNzA3MTk1MTY5ZDIxOGIzZjhjYTU3`
+Snapshot ID: `MTY2OTEzMTcyMywwMDAwMDAwMGE5ZGI5MGJmYjRiYjU3NjA3MGRmMzIyNWQxMmIxMTY0`

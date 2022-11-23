@@ -590,6 +590,28 @@
     },
     {
       "album": {
+        "name": "EPICA EXTENSION",
+        "url": "https://open.spotify.com/album/6xGS4skTi0ZUyzyqIUDocs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269217,
+      "name": "EPICA EXTENSION",
+      "url": "https://open.spotify.com/track/09hBZZsubpheGh5pVriiQY"
+    },
+    {
+      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4"
       },

@@ -980,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn"
+      },
+      "artists": [
+        {
+          "name": "Flamesoth",
+          "url": "https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "Heart On The Tree",
+      "url": "https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy"
+    },
+    {
+      "album": {
         "name": "Mindful Sleep",
         "url": "https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj"
       },
@@ -1067,6 +1085,24 @@
       "duration_ms": 209381,
       "name": "Honouring the Promise",
       "url": "https://open.spotify.com/track/2TkTycXLW2EbeXeBIuPGU7"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/7diRVG73mUY0p88dmBt3xR"
+      },
+      "artists": [
+        {
+          "name": "Deaton Sky",
+          "url": "https://open.spotify.com/artist/1qqF2QJGLxxdAeuFdmWN8y"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128550,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/52Uuuaa361wbdU2HnVwU6N"
     },
     {
       "album": {

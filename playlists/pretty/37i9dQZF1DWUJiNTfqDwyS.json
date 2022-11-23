@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 198854,
+  "num_followers": 199025,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5ODYyNiwwMDAwMDAwMDZjZTRiMjRlNWI3ZDU1ZmYzOWNmNDQyYjYyMmMxMTg0",
+  "snapshot_id": "MTY2ODY5ODYyNiwwMDAwMDAwMDUyNTgxNjM3NGY5MzZmN2YxMjQwYmM0NGZiMDYwMDUz",
   "tracks": [
     {
       "added_at": "2022-10-28 07:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
-      "added_at": "2022-11-22 01:09:44",
+      "added_at": "2022-11-23 01:04:48",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/6IDsS2a6HUON1OfACGIqib"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2OAzE4s5M3sZAljAr6F85v"
     },
     {
-      "added_at": "2022-11-22 01:09:44",
+      "added_at": "2022-11-23 01:04:48",
       "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/1Lcwr8J57hqXtEyIrqvP7V"
@@ -547,26 +547,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Necropolis",
-        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
-      },
-      "artists": [
-        {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        },
-        {
-          "name": "Maciej Taff",
-          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Fight Fire With Fire",
-      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Gimme Shelter",
         "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 222533,
       "name": "Shock the Monkey",
       "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Necropolis",
+        "url": "https://open.spotify.com/album/3Eny2VFLghnTaejvPxgoqR"
+      },
+      "artists": [
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        },
+        {
+          "name": "Maciej Taff",
+          "url": "https://open.spotify.com/artist/18dCFH8hnuw0gZLOAW7wml"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Fight Fire With Fire",
+      "url": "https://open.spotify.com/track/1uUq5kvGpoH5HTyw3nuh4X"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "The Blood of Gods",
-        "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
-      },
-      "artists": [
-        {
-          "name": "Gwar",
-          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
-        }
-      ],
-      "duration_ms": 305541,
-      "name": "If You Want Blood (You Got It)",
-      "url": "https://open.spotify.com/track/6TWhvdum4pJxzka53znStD"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Riddles, Ruins & Revelations",
         "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 258564,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "The Blood of Gods",
+        "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "duration_ms": 305541,
+      "name": "If You Want Blood (You Got It)",
+      "url": "https://open.spotify.com/track/6TWhvdum4pJxzka53znStD"
     },
     {
       "added_at": "2022-10-28 07:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-10-28 07:00:00",

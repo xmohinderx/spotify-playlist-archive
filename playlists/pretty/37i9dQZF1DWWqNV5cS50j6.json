@@ -1,12 +1,12 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 674813,
+  "num_followers": 674678,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2NjM2MywwMDAwMDAwMGRiZDAwNDc0YzQ5ZDVjM2MwMWQwZTdhZDljYzhlZWQ5",
+  "snapshot_id": "MTY2OTE1MzU5OSwwMDAwMDAwMDY1YmZmMmI1MDhmNWVlYmMzYjVmZjFjN2VmNjVjNzEx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "added_at": "2022-11-22 21:46:39",
+      "album": {
+        "name": "Human Being",
+        "url": "https://open.spotify.com/album/48qAF6Blfg0w0oXxbcCoCm"
+      },
+      "artists": [
+        {
+          "name": "Javier Bennett",
+          "url": "https://open.spotify.com/artist/0RrvJKbORGX9jQsie32cXT"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Human Being",
+      "url": "https://open.spotify.com/track/6J04JDT037lOo9gvfjb3zZ"
     },
     {
       "added_at": "2022-11-16 16:32:21",
@@ -1659,22 +1675,6 @@
       "duration_ms": 179060,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "bloo sox interlude",
-        "url": "https://open.spotify.com/album/3gWJOZAf9dYH04xsL1i1f3"
-      },
-      "artists": [
-        {
-          "name": "stoop lee",
-          "url": "https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "bloo sox interlude",
-      "url": "https://open.spotify.com/track/5X2rrLdm6A3ELbgbAYDvK7"
     },
     {
       "added_at": "2022-10-25 15:42:27",

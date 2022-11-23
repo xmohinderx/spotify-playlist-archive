@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Quavo & Takeoff
 
-498 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+498 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/track/3vsHHMdo734N08AcJ7bzrq) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [$lugg](https://open.spotify.com/artist/6qBEAm67lFVJIqPdWnLZA3) | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/album/1xNjebhLSg4XXs7iDT8Vgj) | 2:54 | 2022-07-01 | 2022-07-16 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-18 | 2022-03-05 |
 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/album/1fT4X8H2LDIslnWj8vNRxT) | 3:52 | 2022-03-04 | 2022-03-18 |
-| [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:54 | 2022-11-18 |  |
+| [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:50 | 2022-11-18 |  |
 | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g) | 2:35 | 2022-08-05 | 2022-10-08 |
 | [Slim Waist](https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Slim Waist](https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH) | 2:48 | 2022-02-25 | 2022-03-12 |
 | [Slut Me Out](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Slut Me Out](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2022-04-22 | 2022-04-29 |

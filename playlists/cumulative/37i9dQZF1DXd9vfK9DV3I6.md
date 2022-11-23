@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-221 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+222 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Mizaru](https://open.spotify.com/track/0KcO9fZg4t4iEX2Ug0hvrY) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ) | 4:13 | 2022-06-27 |  |
 | [Mizaru](https://open.spotify.com/track/3zEjvQVs0DQO0rU6KDWe4C) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/20F8sUhG4t7spxKMdOAUGg) | 4:13 | 2020-10-18\* | 2022-07-28 |
 | [Moroccan Sahara](https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho) | [Moroccan Sahara](https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD) | 3:05 | 2021-01-30 |  |
+| [Mosaic](https://open.spotify.com/track/1bgG555iCThxRR7lPeWkbz) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Mosaic](https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye) | 7:16 | 2022-11-23 |  |
 | [Mosaic \- Yohan & David Remix](https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Yohan & David](https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik) | [Mosaic](https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye) | 7:32 | 2022-05-04 |  |
 | [Mosaïque](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/0CyW2YVJhur4mWOSSSUFU6) | 3:41 | 2022-06-27 |  |
 | [Mosaïque](https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mosaïque](https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb) | 3:41 | 2020-10-18\* | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Shibren \- El Búho Remix](https://open.spotify.com/track/4roiNsekTEbswR2eofsjFN) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 4:36 | 2022-10-14 |  |
 | [Shibren \- El Búho Remix](https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 4:36 | 2022-01-14 | 2022-10-13 |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2020-10-18\* |  |
-| [Siwa](https://open.spotify.com/track/7xEKv9SP3WldWzSGOQ9S4A) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Siwa](https://open.spotify.com/album/1M6siSNyPYT0x4CK9nAl1T) | 6:44 | 2022-10-06 |  |
+| [Siwa](https://open.spotify.com/track/7xEKv9SP3WldWzSGOQ9S4A) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Siwa](https://open.spotify.com/album/1M6siSNyPYT0x4CK9nAl1T) | 6:44 | 2022-10-06 | 2022-11-23 |
 | [Sophia](https://open.spotify.com/track/1cNpthOJnJS9fx79Q6ulIz) | [Mozkai](https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1) | [Oriental Touch 2](https://open.spotify.com/album/4YPYXHxyV2J5ow1GDztdO8) | 6:17 | 2020-12-21 | 2022-07-29 |
 | [Sophia \- Mixed](https://open.spotify.com/track/4L2hIkevjljjccainHYjCR) | [Mozkai](https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1) | [Cafe De Anatolia \- Oriental Touch 2 \(Compiled by Billy Esteban\) \[DJ Mix\]](https://open.spotify.com/album/6B5q4QqueqjRRjGIou3IDP) | 6:09 | 2022-06-27 |  |
 | [Sophonisbe \- Sahale Remix](https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L) | [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME), [Sahalé](https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ) | [Sophonisbe](https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM) | 6:36 | 2020-10-18\* |  |

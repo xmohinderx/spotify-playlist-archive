@@ -1206,6 +1206,28 @@
     },
     {
       "album": {
+        "name": "Shoft Alhala",
+        "url": "https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Mode",
+          "url": "https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Shoft Alhala - Radio Edit",
+      "url": "https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf"
+    },
+    {
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,828 songs - 4 day 9 hr 37 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,829 songs - 4 day 9 hr 41 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Cold Water](https://open.spotify.com/track/6wEvUPXuKmJBaviL4M0V8e) | [Arctik7](https://open.spotify.com/artist/18UgMQWIVVLtOHuPP4LX8o), [Sonya McGaffey](https://open.spotify.com/artist/4E7giyaVsni5DhzimIFglU) | [Cold Water](https://open.spotify.com/album/72ZbEjY6208Qv1H5jPaZtL) | 3:01 | 2021-01-04 | 2021-03-01 |
 | [Collide](https://open.spotify.com/track/19BTgOK2yjqUvUabVhDR78) | [MILLE](https://open.spotify.com/artist/06AAtBE3ddOMJPBu1MZQWf) | [Collide](https://open.spotify.com/album/0zxtxSBjkEw1VIjD2O5MDg) | 3:19 | 2021-01-15 | 2021-01-30 |
 | [Collide](https://open.spotify.com/track/1YrnHIzYa10VbL7ntVkesa) | [SUMif](https://open.spotify.com/artist/3o0KTphy4FM2GAJE3CxBmO) | [Collide](https://open.spotify.com/album/6OvAJQOrgytJrfaFOXcvLS) | 3:15 | 2020-02-27 | 2020-04-20 |
+| [Come Jesus Come](https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Come Jesus Come](https://open.spotify.com/album/5aAwnlcci0dIlIuMxroAGR) | 3:32 | 2022-11-22 |  |
 | [Come on Down](https://open.spotify.com/track/5VPQhnJrUqYW2RpT8DnzPD) | [Barry and the Fountains](https://open.spotify.com/artist/61hGCc3LoReqvm3EkT9jkt) | [Come on Down](https://open.spotify.com/album/4mTzoTQnG71Rwjxa42Ubl5) | 4:50 | 2020-07-07 | 2020-07-28 |
 | [Come Thrill Me](https://open.spotify.com/track/0iVcaaYltolb2y58szVPN1) | [EJO](https://open.spotify.com/artist/2woz4DZOUXejFMbvWTsUHR) | [Come Thrill Me](https://open.spotify.com/album/3sChc2mfA2KvdaESMOzvaM) | 2:09 | 2022-10-28 | 2022-11-19 |
 | [Come Thru](https://open.spotify.com/track/6oQs7LgpbdWYGw4wIT2Ozr) | [Sam Free](https://open.spotify.com/artist/30bRlMs9shQgb59Dfu8fqH) | [Come Thru](https://open.spotify.com/album/6hXefyN52d5ijKaD8R0JCg) | 2:26 | 2021-02-12 | 2021-02-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Beiro x Pedra x QVXNO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,419 likes - 87 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,414 likes - 87 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 20 | [Furacão](https://open.spotify.com/track/4LwaHixIGxYD6kHkQJMNCq) | [Salazar](https://open.spotify.com/artist/4SFAWGNyCh2hDscP7PH5M0), [Vulto](https://open.spotify.com/artist/7dYZYabAXZ72vFthRU0sQl) | [Furacão](https://open.spotify.com/album/0ChqlKCIoo3oZ230OmFv8u) | 3:04 |
 | 21 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 |
 | 22 | [SER PURO SER](https://open.spotify.com/track/6qXAKUpIcUw2yEyAqE8vz5) | [J Puro](https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl) | [SER PURO SER](https://open.spotify.com/album/69QR1IQ0wpTLs9Yn8kfwXI) | 4:19 |
-| 23 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 |
+| 23 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 |
 | 24 | [Vestígios](https://open.spotify.com/track/3dRiraiBjHEAeNe6KX4pbv) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Vestígios](https://open.spotify.com/album/2xtuekWysAdNlXfP9fsu5Y) | 2:08 |
 | 25 | [Special One](https://open.spotify.com/track/0HPJcGkZpSI2evjzzivHXk) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Special One](https://open.spotify.com/album/5HEchXSoc4SJnLjbVqGqFw) | 3:44 |
 | 26 | [Volta Pá Casa](https://open.spotify.com/track/3K0wXTTJiBIuUSRr77IQe2) | [Mr.RastaFlame](https://open.spotify.com/artist/5Azqkb62OwKGcNH9ucNwcd), [JoBeatz4ever](https://open.spotify.com/artist/7DbAUL53ZfWUiuT461grvD) | [Volta Pá Casa](https://open.spotify.com/album/3vV6vjYVLIEXFsroo4Gib1) | 2:53 |

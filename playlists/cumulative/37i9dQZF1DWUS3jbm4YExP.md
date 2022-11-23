@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-466 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+467 songs - 1 day 10 hr 42 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Atlantic Oscillations](https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp) | 5:51 | 2021-10-06 | 2022-09-02 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-06 |  |
 | [Avocado Dance](https://open.spotify.com/track/4iv05a9SwSKOOARqw5DMSa) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3) | [Time Grove Roots](https://open.spotify.com/album/59umCDU7qBz8Iyvtb58J6V) | 5:29 | 2021-10-06 | 2022-07-02 |
+| [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2021-10-06 |  |
 | [Ayonha](https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Tape 19.11 / Ayonha](https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1) | 3:41 | 2021-10-06 | 2022-11-20 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-17 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-17 |  |
@@ -178,7 +179,7 @@
 | [Gueta](https://open.spotify.com/track/5pvFJSec5bmKEpd2Tqs9nn) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [Gueta \(feat\. Nitai Hershkovits, Nomok, Amir Bresler & Sefi Zisling\)](https://open.spotify.com/album/2USulCoijgTECfEEoWJ2NO) | 4:25 | 2021-10-06 | 2022-04-20 |
 | [Gun Metal Grey](https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Gun Metal Grey](https://open.spotify.com/album/1ksIAr0EZzkqpKuVI9BgJQ) | 3:16 | 2021-10-06 |  |
 | [Gwadloup](https://open.spotify.com/track/7ikYwcWf1gwqJiMCAPg7NS) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [African Acid Is the Future \- Ambiance II](https://open.spotify.com/album/5ApV1y3Ks7IayzCbtHnK2G) | 7:39 | 2021-10-06 | 2022-05-08 |
-| [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 |  |
+| [Gyae Su](https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC) | 4:12 | 2021-10-06 | 2022-11-23 |
 | [Gyae Su](https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Pat Thomas & Kwashibu Area Band](https://open.spotify.com/album/0vI4coIOAGzhLZRAIcDKHL) | 4:12 | 2021-10-06 | 2022-04-17 |
 | [Gypsy Woman](https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0) | [Animanz](https://open.spotify.com/artist/29tB8MAwH1C3Sny13oaCFf), [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Exotic Other](https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9) | 2:29 | 2022-03-30 | 2022-07-29 |
 | [Had to Come Back Wet](https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 3:16 | 2021-10-06 | 2022-11-20 |

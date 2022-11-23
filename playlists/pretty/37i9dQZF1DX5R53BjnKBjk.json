@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: morgana / Arte: Isu Kim",
-  "num_followers": 12926,
+  "num_followers": 12916,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwODU0OSwwMDAwMDAwMDcxNjcxMDQ1NjM5YzU0YzVkMDZkYTYwNjA1ODNmNjMw",
+  "snapshot_id": "MTY2ODcwODU0OSwwMDAwMDAwMDQ4NjFiMTI1Mjc4ZjFkMDAwYmY2ODA2NjIyOGEzY2Jm",
   "tracks": [
     {
       "added_at": "2022-11-04 18:20:37",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
         "name": "F\u00eanix",
         "url": "https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 226386,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
     },
     {
-      "added_at": "2022-11-22 01:33:25",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
         "name": "A Vida \u00e9 Uma Granada",
         "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+      },
+      "artists": [
+        {
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 128771,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
-      },
-      "artists": [
-        {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
         "name": "Voc\u00ea Sabe",
         "url": "https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 152727,
       "name": "Apaga a Luz",
       "url": "https://open.spotify.com/track/5vyASrasZ8JObjelAgG3nJ"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0"
     },
     {
+      "added_at": "2022-11-23 01:28:15",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
+      },
+      "artists": [
+        {
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+    },
+    {
       "added_at": "2022-11-04 18:20:37",
       "album": {
         "name": "4 Da Tarde",
@@ -531,22 +547,6 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
-    },
-    {
-      "added_at": "2022-11-22 01:33:25",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
-      },
-      "artists": [
-        {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
-      "added_at": "2022-11-22 01:33:25",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
         "name": "Menino Bom",
         "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
         "name": "VERO",
         "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 197538,
       "name": "Bom Vivant",
       "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
+      },
+      "artists": [
+        {
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
     },
     {
-      "added_at": "2022-11-22 01:33:25",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
-        "name": "colinas",
-        "url": "https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX"
-      },
-      "artists": [
-        {
-          "name": "Lulu Silv\u00e9rio",
-          "url": "https://open.spotify.com/artist/79AitT2sovTWZon8onun3J"
-        }
-      ],
-      "duration_ms": 173164,
-      "name": "colinas",
-      "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194848,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "colinas",
+        "url": "https://open.spotify.com/album/2nHbiv0dll2ghjacHW0AyX"
+      },
+      "artists": [
+        {
+          "name": "Lulu Silv\u00e9rio",
+          "url": "https://open.spotify.com/artist/79AitT2sovTWZon8onun3J"
+        }
+      ],
+      "duration_ms": 173164,
+      "name": "colinas",
+      "url": "https://open.spotify.com/track/5MK7p5jh6o14ieY2oRdlBp"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/53Ut7bzms6gC6t7fPuiMRx"
     },
     {
-      "added_at": "2022-11-22 01:33:25",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
         "name": "Foi Mal",
         "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
-      "added_at": "2022-11-22 01:33:25",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
@@ -963,6 +963,22 @@
       "duration_ms": 201231,
       "name": "Embalo",
       "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2022-11-23 01:28:15",
+      "album": {
+        "name": "Voc\u00ea Chegou na Hora Certa",
+        "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 148484,
+      "name": "Voc\u00ea Chegou na Hora Certa",
+      "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -979,22 +995,6 @@
       "duration_ms": 147413,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
-    },
-    {
-      "added_at": "2022-11-22 01:33:25",
-      "album": {
-        "name": "Voc\u00ea Chegou na Hora Certa",
-        "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
-        }
-      ],
-      "duration_ms": 148484,
-      "name": "Voc\u00ea Chegou na Hora Certa",
-      "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-04 18:20:37",
       "album": {
-        "name": "PSEUDODRAMA",
-        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
-      },
-      "artists": [
-        {
-          "name": "Clara Tannure",
-          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "T\u00e1 Subindo",
-      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
-    },
-    {
-      "added_at": "2022-11-04 18:20:37",
-      "album": {
         "name": "Trancado",
         "url": "https://open.spotify.com/album/5WxxhBMJXa3xDCtzI86sAf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 176938,
       "name": "Trancado",
       "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "PSEUDODRAMA",
+        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Tannure",
+          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "T\u00e1 Subindo",
+      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -1189,20 +1189,20 @@
       "url": "https://open.spotify.com/track/3cccuih9bCMA8Q3M9XJttH"
     },
     {
-      "added_at": "2022-11-04 18:20:37",
+      "added_at": "2022-11-23 01:28:15",
       "album": {
-        "name": "A Rua e Seus Encantos",
-        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
       "artists": [
         {
-          "name": "Bella Mattar",
-          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Culpa do Ver\u00e3o",
-      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -1219,6 +1219,22 @@
       "duration_ms": 105263,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6"
+    },
+    {
+      "added_at": "2022-11-04 18:20:37",
+      "album": {
+        "name": "A Rua e Seus Encantos",
+        "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
+      },
+      "artists": [
+        {
+          "name": "Bella Mattar",
+          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Culpa do Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk"
     },
     {
       "added_at": "2022-11-04 18:20:37",
@@ -1251,22 +1267,6 @@
       "duration_ms": 136002,
       "name": "TARA",
       "url": "https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt"
-    },
-    {
-      "added_at": "2022-11-22 01:33:25",
-      "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2022-11-04 18:20:37",

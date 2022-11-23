@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-197 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
+198 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [American Garden](https://open.spotify.com/track/5Kr15ZUXYmE4gzpu4pYQsr) | [Phillip Martin](https://open.spotify.com/artist/1bnzOD7TlkfYWoG2CfGHve) | [Pride and Joy](https://open.spotify.com/album/2KK7KqgTENPyN0QDL3ioRC) | 4:08 | 2021-07-12 | 2022-04-21 |
 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 | 2022-06-03 |  |
 | [Another Part of Me](https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS) | [BWB](https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Human Nature \(feat\. Rick Braun, Kirk Whalum, Norman Brown\)](https://open.spotify.com/album/1nDD5iqCemA5KDe7pJZnSi) | 5:10 | 2021-07-12 | 2022-07-28 |
+| [Another Part Of Me](https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB) | [BWB](https://open.spotify.com/artist/3a6l5qcDjvTGpvBXmBYz3e), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Human Nature](https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h) | 5:10 | 2021-07-12 |  |
 | [Around the World](https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Around the World](https://open.spotify.com/album/4EGHxEMsxfZpzJyfqZQwtz) | 4:14 | 2021-07-12 | 2022-07-29 |
 | [As the Days Go by...](https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE) | [Alfonzo Blackwell](https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz) | [As the Days Go by...](https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa) | 5:09 | 2021-07-12 |  |
 | [Backyard Brew](https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj) | [The JT Project](https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Backyard Brew](https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS) | 4:14 | 2021-07-12 |  |
@@ -150,7 +151,7 @@
 | [Shake It](https://open.spotify.com/track/38BIvmt1L43arCyEXT7HC7) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:37 | 2021-07-12 | 2022-08-06 |
 | [Shake It](https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0OVCEpYRo8LwltB5256P9r) | 4:37 | 2021-07-12 | 2022-07-29 |
 | [Sharon's Groove](https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Lookin' Up](https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk) | 4:11 | 2021-08-06 |  |
-| [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 |  |
+| [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 | 2022-11-23 |
 | [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 | 2021-07-12 |  |
 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 | 2021-07-12 | 2022-07-25 |
 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 | 2021-07-12 | 2022-07-28 |

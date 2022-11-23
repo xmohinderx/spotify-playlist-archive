@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,549 songs - 2 day 22 hr 7 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,550 songs - 2 day 22 hr 9 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Evening Light](https://open.spotify.com/track/5kIyIqnpZqBSrJNkvamp2a) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Evening Light](https://open.spotify.com/album/1i3XQYIf9H0E4dE0mSyKBu) | 4:10 | 2021-03-06\* | 2022-07-10 |
 | [Evening Mantra](https://open.spotify.com/track/3fNoCPT9lOOSHeIGxpVGEN) | [Wilma Harrods](https://open.spotify.com/artist/7C19iKkWUqBvofrBXX33CW) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:21 | 2021-03-14 | 2021-03-15 |
 | [Evening Message](https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 3:44 | 2021-06-04 | 2022-04-10 |
+| [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 | 2022-11-15 |  |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2021-05-15 | 2022-06-24 |
 | [Ever Since](https://open.spotify.com/track/67mEEKBy1ViwbTybbiH2nF) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Ever Since](https://open.spotify.com/album/17K18rSIF0eXzAsjvbGwfs) | 3:04 | 2021-06-18 | 2022-07-29 |
 | [Ever so Slightly](https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Ever so Slightly](https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq) | 4:12 | 2021-03-09 | 2022-07-28 |
@@ -1165,7 +1166,7 @@
 | [Skinny Love](https://open.spotify.com/track/2qhsUyXlhgQUfFNSR6ayuS) | [David Fischbein](https://open.spotify.com/artist/4SnnTtHKeeWxZ8FxzMv435) | [Skinny Love](https://open.spotify.com/album/4Ne3QvIzbvy9BMYmoguoL7) | 4:13 | 2021-05-04 | 2022-03-31 |
 | [Sky](https://open.spotify.com/track/1K9UBbr4hJfl9GSL0el09P) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Nostalgia](https://open.spotify.com/album/7nrrxQIJRlJvF0HivbzhaN) | 2:33 | 2021-03-07 | 2022-07-28 |
 | [Skye](https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:24 | 2022-07-08 | 2022-07-29 |
-| [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2021-11-26 |  |
+| [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2021-11-26 | 2022-11-23 |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-03-24 | 2022-03-27 |
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2022-04-12 | 2022-04-15 |
 | [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2021-03-23 | 2022-07-28 |

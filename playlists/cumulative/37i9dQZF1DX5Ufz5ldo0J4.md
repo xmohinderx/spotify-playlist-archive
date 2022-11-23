@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-269 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+270 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Memorial](https://open.spotify.com/track/0HjdwMPiT1l7lB26RjQL7M) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Memorial](https://open.spotify.com/album/4IC6MxKrC9UgZy5I3adjP9) | 2:55 | 2021-12-10 |  |
 | [Merak](https://open.spotify.com/track/4saUR7QV5oTnzqj9XaZJFp) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Merak](https://open.spotify.com/album/3C3x7kYNc1rQdTC35wNNDX) | 2:48 | 2021-12-10 |  |
 | [Mi Manchi Tu](https://open.spotify.com/track/6LQcnAe3uf9lfQ4YhPSHQW) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Mi Manchi Tu](https://open.spotify.com/album/5AC5P5XRqLMLfoxdWeG9Dg) | 3:25 | 2021-12-10 |  |
-| [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2021-12-10 |  |
+| [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2021-12-10 | 2022-11-23 |
 | [Midsummer Sun](https://open.spotify.com/track/6xxMpIFpWFlrCba55NU0e1) | [Louis Debreaux](https://open.spotify.com/artist/1AolHfMZcrDcuJEnoAis6B) | [Midsummer Sun](https://open.spotify.com/album/2zucXjha9af1Xs1FSi1bLF) | 2:43 | 2021-12-10 |  |
 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 | 2022-03-30 |  |
 | [Mind Tranquility](https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Mind Tranquility](https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo) | 3:31 | 2021-12-10 |  |
@@ -233,6 +233,7 @@
 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2021-12-10 |  |
 | [Sweet Dreams](https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS) | [Nakatami](https://open.spotify.com/artist/169r1sNrXrpaXiTHkmKgWE) | [Sweet Dreams](https://open.spotify.com/album/1advw5ZtYzo7dO74Ny3bIU) | 3:00 | 2021-12-10 |  |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-12-10 | 2022-09-03 |
+| [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2022-11-22 |  |
 | [The Departure](https://open.spotify.com/track/39SpltUyLzdXOFGAfGq94n) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/2befcUn0DLzERrsU0OgU68) | 2:42 | 2021-12-10 | 2022-07-29 |
 | [The Departure](https://open.spotify.com/track/7bAKuAYUFxl6T38ZC9vkDi) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [In This Moment](https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o) | 2:42 | 2022-07-12 |  |
 | [The Doulton Fountain](https://open.spotify.com/track/5tqnBo633ndX2wJ6tQY2t1) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [The Doulton Fountain](https://open.spotify.com/album/47wqhgXtQm2leg7zMj41VM) | 2:44 | 2021-12-10 | 2022-08-13 |

@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Heads Off",
+        "url": "https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271943,
+      "name": "Heads Off",
+      "url": "https://open.spotify.com/track/6YscsgZWCPcceessZBN1di"
+    },
+    {
+      "album": {
         "name": "An Investigation Into Perceived Heaviness",
         "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
       },
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 562515,
       "name": "Spiritual Architecture",
       "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: CVLTE / \n Early Noise Night#14\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306f<a href=\"spotify:playlist:37i9dQZF1DWW1l6u9Tapgr\">\u3053\u3061\u3089</a>\u3002/ Music+Talk(\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc)\u306f<a href=\"spotify:show:5ILS4cRYK00Zs2ISBiAWCF\">\u3053\u3061\u3089</a>\u3002",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30b0\u30bd\u30af\u30e0\u30ba / \n Early Noise Night#14\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306f<a href=\"spotify:playlist:37i9dQZF1DWW1l6u9Tapgr\">\u3053\u3061\u3089</a>\u3002/ Music+Talk(\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc)\u306f<a href=\"spotify:show:5ILS4cRYK00Zs2ISBiAWCF\">\u3053\u3061\u3089</a>\u3002",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 259760,
       "name": "Drippin' Desert",
       "url": "https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq"
@@ -2909,6 +2909,24 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "album": {
+        "name": "Lucky Police Day",
+        "url": "https://open.spotify.com/album/5Wvqz82UIUPwBjW9O7mVKF"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Lucky Police Day",
+      "url": "https://open.spotify.com/track/1AWqAFMimxtdidUreAHgBh"
     },
     {
       "album": {
@@ -4846,6 +4864,24 @@
     },
     {
       "album": {
+        "name": "QUIET FRIENDS",
+        "url": "https://open.spotify.com/album/6y5k01dl3b8is0X7NwwFfL"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272230,
+      "name": "Sweet Child",
+      "url": "https://open.spotify.com/track/2yqsyoYqdrfHTSY9kYlLhp"
+    },
+    {
+      "album": {
         "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
       },
@@ -6093,7 +6129,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 315428,
       "name": "\u3053\u308f\u308c\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc"
@@ -7589,7 +7625,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-23",
       "duration_ms": 251926,
       "name": "\u51ac\u306e\u3055\u3055\u3084\u304d",
       "url": "https://open.spotify.com/track/3U4tw1oZeOjJBdBRobevru"
@@ -7921,6 +7957,24 @@
       "duration_ms": 235217,
       "name": "\u591c\u884c\u30d0\u30b9",
       "url": "https://open.spotify.com/track/6U7vtqhGaIb3ve7PFWpNo7"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
     },
     {
       "album": {

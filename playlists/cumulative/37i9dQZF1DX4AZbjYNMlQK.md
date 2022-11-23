@@ -4,12 +4,13 @@
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-80 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5TI9dqdb0u6anc2c8h8wVF)
+81 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5TI9dqdb0u6anc2c8h8wVF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 | 2021-12-15 |  |
 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 | 2021-12-15 |  |
+| [Al Mundo Paz](https://open.spotify.com/track/72RCVgBervTpGb8cgPilKs) | [Dstance](https://open.spotify.com/artist/3G2l8ozoaFgjwxUq8Ars9G), [Playa Limbo](https://open.spotify.com/artist/2RgwK55VFMeb9DkiSaNJIo) | [Naviduetos Vol\. 1](https://open.spotify.com/album/3wAnzbWgdDiY0n7EhNBtk4) | 3:02 | 2022-11-08 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/1341yWBP78IKoC1072MwWF) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [A Holiday Christmas Piano](https://open.spotify.com/album/0H4VHOgqUnFFpFawscWQG9) | 3:21 | 2021-12-15 | 2022-11-09 |
 | [Arbolito de Navidad](https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 3:54 | 2021-12-15 |  |
 | [Arbolito De Navidad](https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:45 | 2021-12-15 | 2022-11-09 |
@@ -44,7 +45,7 @@
 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 | 2021-12-15 |  |
 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 | 2021-12-15 |  |
 | [Llegó la Navidad](https://open.spotify.com/track/0Biqb9UJEsimAKNSxTuJYM) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Generacion Escogida](https://open.spotify.com/artist/3zdXxojrGhIyEgKvHABKim), [Christian Nieves](https://open.spotify.com/artist/6WRxocw99UTRWQyHgLhVuJ) | [Llegó la Navidad](https://open.spotify.com/album/4XqCASKfjF950apeiJkmmt) | 3:43 | 2021-12-15 |  |
-| [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 | 2021-12-15 |  |
+| [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 | 2021-12-15 | 2022-11-23 |
 | [Los Peces En El Rio](https://open.spotify.com/track/1SVFABqrJ87TbFVwQAtrqc) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:10 | 2021-12-15 |  |
 | [Los Peces en el Rio](https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:03 | 2021-12-15 |  |
 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 | 2022-11-08 |  |

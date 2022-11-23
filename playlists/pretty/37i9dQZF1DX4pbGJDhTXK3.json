@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 121531,
+  "num_followers": 121514,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4MDk1MCwwMDAwMDAwMGQ4M2QyNDdiMDRhZGY2ZjA4NDQ2MGY1M2RjZDFjZGI2",
+  "snapshot_id": "MTY2ODc4MDk1MCwwMDAwMDAwMGU5YTc1OTFmM2VmMGJkNmJlOWQzYTRlMjFmMGZkNzlk",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Balearic Incarnation (Todd Terje Rmx)",
+        "url": "https://open.spotify.com/album/51keyf40DWWo50Vbd7n4mF"
+      },
+      "artists": [
+        {
+          "name": "D\u00f8lle J\u00f8lle",
+          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Balearic Incarnation",
+      "url": "https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
@@ -319,6 +335,42 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Just Wanted To Know",
+        "url": "https://open.spotify.com/album/317kaEvPQsOSktJiZfG6mw"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 252981,
+      "name": "Just Wanted To Know",
+      "url": "https://open.spotify.com/track/7kYgRZwVlq9a3lvHGHunrb"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Games (Prins Thomas Diskomiks)",
         "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
       },
@@ -343,26 +395,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Just Wanted To Know",
-        "url": "https://open.spotify.com/album/317kaEvPQsOSktJiZfG6mw"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 252981,
-      "name": "Just Wanted To Know",
-      "url": "https://open.spotify.com/track/7kYgRZwVlq9a3lvHGHunrb"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Tr\u00f8bbel",
         "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
@@ -379,18 +411,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -411,22 +443,6 @@
       "duration_ms": 482835,
       "name": "Tyrkisk Pepper - Dolle Jolle Remix",
       "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -463,26 +479,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
-      },
-      "artists": [
-        {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
-        }
-      ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "This Time, This Place\u2026",
         "url": "https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25"
       },
@@ -503,22 +499,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
-      },
-      "artists": [
-        {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Desire Lines",
         "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
       },
@@ -535,18 +515,38 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "CDIII",
-        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
       "artists": [
         {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
         }
       ],
-      "duration_ms": 493705,
-      "name": "Love in the Night",
-      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -583,6 +583,22 @@
       "duration_ms": 387760,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "CDIII",
+        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        }
+      ],
+      "duration_ms": 493705,
+      "name": "Love in the Night",
+      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 742331,
       "name": "Kuk Av Stal",
       "url": "https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Balearic Incarnation (Todd Terje Rmx)",
-        "url": "https://open.spotify.com/album/51keyf40DWWo50Vbd7n4mF"
-      },
-      "artists": [
-        {
-          "name": "D\u00f8lle J\u00f8lle",
-          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Balearic Incarnation",
-      "url": "https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o"
     },
     {
       "added_at": "2022-11-03 23:00:00",

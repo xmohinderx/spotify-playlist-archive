@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-111 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
+114 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/436FR3vTM10amif2FlaZkJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 |  |
 | [Journey Within](https://open.spotify.com/track/3SrOqXX1Lez961c6hSKQnT) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Journey Within](https://open.spotify.com/album/7dq1vjG3DOb0aiUxMYKItr) | 3:15 | 2022-02-28 |  |
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 |  |
-| [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 |  |
+| [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 | 2022-11-23 |
 | [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 | 2022-09-30 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-02-28 |  |
 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 | 2022-02-28 |  |
@@ -72,6 +72,7 @@
 | [Natural Beauty](https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:16 | 2022-10-14 |  |
 | [Night Mist](https://open.spotify.com/track/3fbEDklkvxJLKDtOD3OQr0) | [Chloe Wasserberg](https://open.spotify.com/artist/5yn2bigX2NEYuStz4JfS06) | [Night Mist](https://open.spotify.com/album/4zDoev3PzKoANyMBXYM78d) | 2:04 | 2022-02-28 |  |
 | [Nightsky](https://open.spotify.com/track/6zmG3oMYGljGbfCNxrYBSZ) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Nightsky](https://open.spotify.com/album/4u9zBt4isiVIeJfVXYsxAn) | 2:32 | 2022-04-21 |  |
+| [Nocturnal Beauty](https://open.spotify.com/track/0w18uoN203yIHzaNsbudYB) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Nocturnal Beauty](https://open.spotify.com/album/0gCkdU5nnd2jFERqAxTJcF) | 2:40 | 2022-11-22 |  |
 | [Northern Light](https://open.spotify.com/track/0Ph9pISD17s2DLfboy0rZI) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Skies](https://open.spotify.com/album/7nWdcWGFSk37JKHLTh9G7W) | 2:46 | 2022-02-28 |  |
 | [Nothing But Now](https://open.spotify.com/track/7b6rxgdX4vxUxE7nVVImh5) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Nothing But Now](https://open.spotify.com/album/0e06o5DjhB0wI8KYIZfRFM) | 4:13 | 2022-06-16 |  |
 | [Obion Pulse](https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Obion Pulse](https://open.spotify.com/album/0LnDW7jS8XsJ2QwegTlAHo) | 4:44 | 2022-08-15 |  |
@@ -90,6 +91,8 @@
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 |  |
 | [Restore Calm](https://open.spotify.com/track/2kWgnixsXJN1kOOeTU84fE) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:35 | 2022-02-28 |  |
 | [Sail Away](https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Sail Away](https://open.spotify.com/album/6aeoXB2a6hKW11kJ4NIfKB) | 5:38 | 2022-05-19 |  |
+| [Sensory Perception](https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Sensory Perception](https://open.spotify.com/album/4LKuWF3OzhS6dwvN9e0LNs) | 3:05 | 2022-11-22 |  |
+| [Silent Wishes](https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Silent Wishes](https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC) | 3:28 | 2022-11-22 |  |
 | [Siluetter](https://open.spotify.com/track/5EG8EctV5hGrILi6Kn3crm) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [Siluetter](https://open.spotify.com/album/1eit0mMMjv7VyCUf99aQ42) | 2:10 | 2022-02-28 |  |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2022-02-28 |  |
 | [Slower Breathing](https://open.spotify.com/track/3ge5gs7BWnadCCG41cFS0n) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Slower Breathing](https://open.spotify.com/album/6DRmJEnmXSjpUx8rpuwwUD) | 4:05 | 2022-02-28 |  |

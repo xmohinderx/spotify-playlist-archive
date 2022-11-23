@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-439 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+443 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Calming Winds](https://open.spotify.com/track/5unbMIbUjFsED3FnyttYnA) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Calming Winds](https://open.spotify.com/album/5YFsqDM2sTjko8d0DaIath) | 3:18 | 2020-09-30\* | 2021-10-21 |
 | [Camhanaich](https://open.spotify.com/track/6HIeUtR5bG9IuKqtcBaMkm) | [Debyah](https://open.spotify.com/artist/3hw1f70k0kbqoslclzORGa) | [Camhanaich](https://open.spotify.com/album/4ci38CqGp1bZ4BjRAexwo3) | 3:20 | 2022-02-09 |  |
 | [Campanis](https://open.spotify.com/track/3dKEGve9GLAg0q8REFQpgY) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:04 | 2020-09-30\* | 2021-09-14 |
+| [Carried Away](https://open.spotify.com/track/19tpUsoPv87ty0OS0kMvvU) | [Ardigo Menes](https://open.spotify.com/artist/3pSRJvRpZNqgVW89jaW9yZ) | [In The Air](https://open.spotify.com/album/4kWlwypYVf1qFofj3OCJHz) | 2:58 | 2022-11-22 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-05-18 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-09 |  |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
@@ -172,6 +173,7 @@
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-01-05 |  |
 | [Hibernation](https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Hibernation](https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R) | 3:36 | 2020-09-30\* | 2022-02-19 |
 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
+| [Horizons](https://open.spotify.com/track/52Uuuaa361wbdU2HnVwU6N) | [Deaton Sky](https://open.spotify.com/artist/1qqF2QJGLxxdAeuFdmWN8y) | [Horizons](https://open.spotify.com/album/7diRVG73mUY0p88dmBt3xR) | 2:08 | 2022-11-22 |  |
 | [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-03-24 |  |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-10-27 |  |
 | [Hypnosis](https://open.spotify.com/track/6xhwbnVSG3DeLM6oZau2Mr) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [The Minimalist](https://open.spotify.com/album/2XtO4MwzBtukUmgMEWZ33M) | 3:12 | 2020-09-30\* | 2022-03-25 |
@@ -204,6 +206,7 @@
 | [La Torre Del Sueno](https://open.spotify.com/track/350OnYMO9dRxFJ7feR1YYv) | [Meditaciónessa](https://open.spotify.com/artist/1CEwAx31lpIuspeeaWjTrj) | [Mariposas](https://open.spotify.com/album/4ZZwE9L4pRTv8066OHbu0I) | 3:50 | 2020-09-30\* | 2021-09-14 |
 | [Langeland](https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC) | [Felix Langgard](https://open.spotify.com/artist/4TGwoikKqGTkf6yt1DVSSL) | [Langeland](https://open.spotify.com/album/4uWdAqHiYju8w7gW1Yilqf) | 3:02 | 2021-03-02 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2021-12-09 |  |
+| [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
 | [Le Doux](https://open.spotify.com/track/7pMX0cXGVn2zhWUm2UM8SY) | [Somnia Terra](https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1) | [Le Doux](https://open.spotify.com/album/16x9see46svEoEgyGrnhnp) | 3:09 | 2021-11-26 |  |
 | [legacy](https://open.spotify.com/track/4EWCM7S4DAtpSJ0BOiM9LK) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [legacy](https://open.spotify.com/album/6BCFck8IVatMnjeOIDjP3T) | 4:09 | 2020-09-30\* | 2021-07-14 |
 | [Legend Of Zea](https://open.spotify.com/track/3tzNYs0IcqBBy0eSvyAwB6) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 3:14 | 2020-09-30\* | 2021-06-16 |
@@ -387,6 +390,7 @@
 | [Teach me](https://open.spotify.com/track/1yie0sbCLfoPN3NJq7oASy) | [Kalea Jeffery](https://open.spotify.com/artist/4BsTLYWkgv4es56L2gwWFc) | [Teach me](https://open.spotify.com/album/0y1G3ChN0LOlznWJcvbVMI) | 3:06 | 2020-12-24 |  |
 | [Thankful](https://open.spotify.com/track/1nFLUSu9eQxibCz0BP4BtO) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:19 | 2020-09-30\* | 2021-11-19 |
 | [The Age of the Earth](https://open.spotify.com/track/3vDKBXhismlvnpXbm9DAdc) | [Complex Reality](https://open.spotify.com/artist/54UfHu4bjwDkdRTAOqv8On) | [Shadow of a Dream](https://open.spotify.com/album/524MOGt13RV5XLpZp3dnMQ) | 3:19 | 2020-09-30\* | 2021-09-14 |
+| [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 | 2022-11-22 |  |
 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 | 2020-09-30\* | 2021-09-14 |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2022-09-02 |  |
 | [The Gift](https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [The Gift](https://open.spotify.com/album/1UjHHH07JQoG48ng4746ku) | 2:53 | 2021-08-26 | 2022-08-24 |

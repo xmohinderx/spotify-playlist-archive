@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-213 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
+214 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Mientras Duermes \- En Vivo](https://open.spotify.com/track/1Yx3iqFwDTXSKoXhCAi8UI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes \(En Vivo\)](https://open.spotify.com/album/78GkhLkn5v6q6PkNFbDFYs) | 3:23 | 2022-05-12 |  |
 | [Ni El Cielo Ni El Infierno \(feat\. Pancho Uresti\) \- En Vivo](https://open.spotify.com/track/3J7jFgg4mjTMLB0hiNeWUx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Pancho Uresti](https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd) | [Ni El Cielo Ni El Infierno \(En Vivo\)](https://open.spotify.com/album/5K5C6EjfJRtAEOfy0VxyTl) | 2:26 | 2022-05-12 |  |
 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 | 2022-05-12 |  |
-| [Ni Parientes Somos \- En Vivo](https://open.spotify.com/track/69shFbqWcNTkQEwv2ZVDtS) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo](https://open.spotify.com/album/5UHBIZedfJZpnsJ2PaMyWI) | 2:57 | 2022-05-12 |  |
+| [Ni Parientes Somos \- En Vivo](https://open.spotify.com/track/0HXZHA50d8dvfUZXlSEllQ) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo](https://open.spotify.com/album/67QL5vLiYRrqJ3UVH40ztP) | 2:57 | 2022-05-12 |  |
+| [Ni Parientes Somos \- En Vivo](https://open.spotify.com/track/69shFbqWcNTkQEwv2ZVDtS) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo](https://open.spotify.com/album/5UHBIZedfJZpnsJ2PaMyWI) | 2:57 | 2022-05-12 | 2022-11-23 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-05-12 |  |
 | [No Pasa De Moda](https://open.spotify.com/track/1pyxTCljRaXLEbClpbjb8f) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Pasa De Moda](https://open.spotify.com/album/1qS2UjDR1h36oHpVuNAKLa) | 3:41 | 2022-05-12 |  |
 | [Ojitos De Golondrina \- En Vivo](https://open.spotify.com/track/3YZeu8Z7Ss85OYR2LjbmRX) | [José Manuel Figueroa](https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF) | [Ojitos De Golondrina \(En Vivo\)](https://open.spotify.com/album/1GsRibnQPEYKcnJDOM3fbd) | 3:30 | 2022-05-12 |  |

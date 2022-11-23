@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-121 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+126 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Billions and Billions](https://open.spotify.com/track/34jk6E3JeCxxDscKMtDKcU) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [A Moment of Stillness](https://open.spotify.com/album/4Lm6SgVaPvXDRQOSpqfafA) | 5:14 | 2022-08-05 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
 | [Blue Airglow](https://open.spotify.com/track/2mugkR92BaadnDA00Y01uV) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Blue Airglow](https://open.spotify.com/album/5xF8V7En6VnqmL3IIO7ZER) | 3:53 | 2022-08-05 |  |
+| [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 | 2022-11-22 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2022-08-05 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-09-08 |  |
 | [but it's okay](https://open.spotify.com/track/6LFmSFCDS0cqoOzSxRSdUa) | [Glass Rivers](https://open.spotify.com/artist/5qQvSeMMwzvjZlw1pqmAC6) | [Warmth](https://open.spotify.com/album/50CnzyFIF0oNPS3ceEW4Hg) | 3:07 | 2022-08-05 |  |
@@ -47,6 +48,7 @@
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-09-08 |  |
 | [Ego Death](https://open.spotify.com/track/7nIaS8QW9aEkv2GUqGKXlo) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Ego Death](https://open.spotify.com/album/1kBNO8Ioax8naEW0f7Y08R) | 6:40 | 2022-08-05 |  |
 | [Emanating Fields](https://open.spotify.com/track/6jHBUzmz6QyCcSvpn93oZi) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Emanating Fields](https://open.spotify.com/album/2CEOLh0vmGbZ9DDQh95Jwv) | 4:48 | 2022-08-05 |  |
+| [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-11-22 |  |
 | [Eos](https://open.spotify.com/track/6tR1g0NTadhTPjsGmVI3LW) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Heavenly](https://open.spotify.com/album/4ZN6SMfQ6ycPVuibQLLNj8) | 3:32 | 2022-08-05 |  |
 | [Ever Slower](https://open.spotify.com/track/0ORNScPdY6pxfoqWUpv9f4) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Ever Slower](https://open.spotify.com/album/5bc1qPYwtAwOYyMHXZDSxU) | 2:30 | 2022-09-08 |  |
 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-10 |  |
@@ -69,6 +71,7 @@
 | [Kalas](https://open.spotify.com/track/2GeVtbxY76CiqZDhEyQCRw) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:19 | 2022-10-14 |  |
 | [Klass \- Robot Koch Rework](https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Klass \(Robot Koch Rework\)](https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD) | 6:08 | 2022-08-05 |  |
 | [Kuiper belt](https://open.spotify.com/track/2b0MHeSdp440JkGSrJxPqF) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Kuiper belt](https://open.spotify.com/album/2MNGukyyOcFsxTDLiub8kC) | 3:35 | 2022-08-05 |  |
+| [Kvällsbris](https://open.spotify.com/track/7xNWz2mqAC5Xaxa1s9OmiX) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Kvällsbris](https://open.spotify.com/album/4hPCaM8x8x30W5LoNc0uYX) | 3:08 | 2022-11-22 |  |
 | [ky…](https://open.spotify.com/track/4TeLhuy4azWCIPukGxcIMH) | [E J R M](https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ) | [ky...](https://open.spotify.com/album/05ecT5mO3afjHkDb48tu1N) | 2:25 | 2022-08-05 |  |
 | [Lakey Kong](https://open.spotify.com/track/0IGktAavgQwK4vrVF8Pnz5) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Reidy](https://open.spotify.com/album/7wHYNxnEhPwgvdnda1yIcq) | 10:05 | 2022-08-05 |  |
 | [Lapsing](https://open.spotify.com/track/3Bp2uDUuNqTN75L24ajiJt) | [Pausal](https://open.spotify.com/artist/1lzjZxbBabBWnSO2s3Wuax) | [Lapses](https://open.spotify.com/album/5wmrhW0j9zNod1LG9AaJWt) | 7:15 | 2022-08-05 |  |
@@ -96,6 +99,7 @@
 | [Pre\-Dawn Landscape](https://open.spotify.com/track/1xm9Oaljikz6usiy1q9l8R) | [Matthew Puffett](https://open.spotify.com/artist/2QG2J0BOBUk48yz0VSzcho) | [Pre\-Dawn Landscape](https://open.spotify.com/album/60CF637xGSKzMEKV410eKB) | 4:31 | 2022-08-05 |  |
 | [Radiance](https://open.spotify.com/track/4JFYMHunnBTjBXdluGP815) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:32 | 2022-08-19 |  |
 | [Randy River](https://open.spotify.com/track/6AlfFyRWQ4KUWpr4eKr4VY) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Randy River](https://open.spotify.com/album/22fdx9g5H3XLCOwRcrln8N) | 3:28 | 2022-10-14 |  |
+| [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 | 2022-11-22 |  |
 | [Reflections](https://open.spotify.com/track/1Qm7N6tQUcg7RubLr7o1nq) | [Dorian Gray](https://open.spotify.com/artist/27bwOnqrkHPk4sJtNpUn2r) | [Randomly Generated](https://open.spotify.com/album/2yjIsMdeY9TFeTGqqcZO9z) | 6:35 | 2022-08-05 |  |
 | [Reflector](https://open.spotify.com/track/7KReeqzDWnzpz1jma5q5GM) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 8:22 | 2022-08-19 |  |
 | [Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 |  |
@@ -123,6 +127,7 @@
 | [Unwind](https://open.spotify.com/track/7qTEw3JXKGrDTYLqsM48gp) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Unwind](https://open.spotify.com/album/60msJvc1ioyo9RvJAlQ1dw) | 3:04 | 2022-10-14 |  |
 | [Waiting for you in Utopia](https://open.spotify.com/track/7cI5rrvUPvZCHT7akwwGHB) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Waiting for you in Utopia](https://open.spotify.com/album/5zX5hruc8DfMpZIB2YN7Xx) | 2:54 | 2022-08-05 |  |
 | [Waiting..](https://open.spotify.com/track/62WZsVC65cpmJGVqzjjgDo) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [A Perfect Society](https://open.spotify.com/album/7wWLo4mYpOSXwlagXpIiB0) | 2:15 | 2022-08-05 |  |
+| [Weathering](https://open.spotify.com/track/6OT7l0dovuaGwgItQAaFst) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [Misty Memories](https://open.spotify.com/album/4fggI9yznMdxetQ1nsNgmF) | 4:28 | 2022-11-22 |  |
 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 | 2022-08-05 |  |
 | [When Everything Fades \- Applefish Rework](https://open.spotify.com/track/1TM6iMXR7IdX3Zc1rCwO9r) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Forever Ago](https://open.spotify.com/album/06LhQdbiI54iofiFmoOx12) | 4:44 | 2022-08-05 |  |
 | [Where We Start Again](https://open.spotify.com/track/01MyFW53bmiQ3hSolZVU1M) | [Luca Longobardi](https://open.spotify.com/artist/3u2Sq4N5nNzSumzKsbZwDW), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Paint and Blood](https://open.spotify.com/album/2yVBRpgdh94WhSEBU1QGAa) | 4:16 | 2022-08-05 |  |

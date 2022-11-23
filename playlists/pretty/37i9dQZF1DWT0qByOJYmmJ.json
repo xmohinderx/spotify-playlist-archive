@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 567710,
+  "num_followers": 567948,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMGUyZTFkYmQ1NWFlY2ExOTg5ZTI0ZWQwODM5YTAxNmNl",
+  "snapshot_id": "MTY2Mjc2NjkzOCwwMDAwMDAwMDNmYjk4YzdmZDRkZTM1MTY1ZDZjMTU3NzM2NGMwNjZj",
   "tracks": [
     {
       "added_at": "2022-09-09 23:42:18",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 207333,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+        "name": "Anhelos",
+        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+      "duration_ms": 222474,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Anhelos",
-        "url": "https://open.spotify.com/album/54JTCEWN3EsbuViyF6i8oy"
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 222474,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/7D8Frp6Le27sExAi0mBjys"
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "L\u00e1grimas De Miel",
-        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "L\u00e1grimas De Miel",
-      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Amar",
         "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "L\u00e1grimas De Miel",
+        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "L\u00e1grimas De Miel",
+      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
+        "name": "Linda Coincidencia",
+        "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
       },
       "artists": [
         {
-          "name": "Covi Quintana",
-          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
         }
       ],
-      "duration_ms": 235320,
-      "name": "caf\u00e9 de las ocho",
-      "url": "https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8"
+      "duration_ms": 215998,
+      "name": "Linda Coincidencia",
+      "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Linda Coincidencia",
-        "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
+        "name": "Ma\u00f1ana Te Escribo Otra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE"
       },
       "artists": [
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+          "name": "Covi Quintana",
+          "url": "https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Linda Coincidencia",
-      "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
+      "duration_ms": 235320,
+      "name": "caf\u00e9 de las ocho",
+      "url": "https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8"
     },
     {
       "added_at": "2022-09-09 23:42:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-09 23:42:18",
       "album": {
-        "name": "Cada Vez M\u00e1s > :-(",
-        "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
-      },
-      "artists": [
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Vete a la Chingada",
-      "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
-    },
-    {
-      "added_at": "2022-09-09 23:42:18",
-      "album": {
         "name": "Lo Que Sol\u00edamos Ser",
         "url": "https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 183282,
       "name": "Lo Que Sol\u00edamos Ser",
       "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
+    },
+    {
+      "added_at": "2022-09-09 23:42:18",
+      "album": {
+        "name": "Cada Vez M\u00e1s > :-(",
+        "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
+      },
+      "artists": [
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Vete a la Chingada",
+      "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
     },
     {
       "added_at": "2022-09-09 23:42:18",

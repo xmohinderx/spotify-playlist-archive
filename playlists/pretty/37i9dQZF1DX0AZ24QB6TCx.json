@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 274243,
+  "num_followers": 274197,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NzE3MCwwMDAwMDAwMDcxNWU1M2IxZDU5NThjZTdhNmRmNzkyMzgwYmM0MzNj",
+  "snapshot_id": "MTY2ODU5NzE3MCwwMDAwMDAwMDkyMDhkY2UxNjc1NmEzMTgxYmQ2NDQwYTk4ZjlmYTI4",
   "tracks": [
     {
       "added_at": "2022-10-28 13:11:24",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Tell Me (feat. Hero Baldwin)",
         "url": "https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
     },
     {
-      "added_at": "2022-11-22 01:22:21",
+      "added_at": "2022-11-23 01:16:52",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
-      "added_at": "2022-11-22 01:22:21",
+      "added_at": "2022-11-23 01:16:52",
       "album": {
         "name": "Verdammt",
         "url": "https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
-      "added_at": "2022-11-22 01:22:21",
+      "added_at": "2022-11-23 01:16:52",
       "album": {
         "name": "Vaal",
         "url": "https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6"
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "duration_ms": 527618,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Eastbound Silhouette",
-        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        }
-      ],
-      "duration_ms": 527618,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
       "artists": [
         {
-          "name": "MEUTE",
-          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 467086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -655,18 +655,34 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "MEUTE",
+          "url": "https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H"
         }
       ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+      "duration_ms": 467086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -687,22 +703,6 @@
       "duration_ms": 462560,
       "name": "I'm Fallin (feat. RY X)",
       "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "The Center Will Not Hold",
-        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 230239,
-      "name": "The Center Will Not Hold",
-      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "I Won't Be",
         "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 212596,
       "name": "I Won't Be",
       "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "The Center Will Not Hold",
+        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 230239,
+      "name": "The Center Will Not Hold",
+      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
+      },
+      "artists": [
+        {
+          "name": "Ante Perry",
+          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
+        }
+      ],
+      "duration_ms": 333223,
+      "name": "Quarantine - Original",
+      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 214122,
       "name": "Get Down - Short Edit",
       "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Quarantine",
-        "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
-      },
-      "artists": [
-        {
-          "name": "Ante Perry",
-          "url": "https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW"
-        }
-      ],
-      "duration_ms": 333223,
-      "name": "Quarantine - Original",
-      "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Bosquemar",
         "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Undecided",
-        "url": "https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1219,6 +1219,22 @@
       "duration_ms": 198000,
       "name": "CTG",
       "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1255,22 +1271,6 @@
       "duration_ms": 365069,
       "name": "Eyes Alive",
       "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     }
   ],
   "unique_name": "Afterhours",

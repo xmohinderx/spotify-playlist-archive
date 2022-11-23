@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Ernia, Shiva e tanti altri.
 
-940 songs - 1 day 19 hr 14 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+941 songs - 1 day 19 hr 17 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [MIAMA](https://open.spotify.com/track/7irirhUgup6D56HFbbpuA5) | [Baby Ryry](https://open.spotify.com/artist/2bjwiKeoorrZ8yimPX69rP) | [MIAMA](https://open.spotify.com/album/1AUrLTa6XM1OnMHuHoJVbU) | 2:17 | 2022-10-27 | 2022-11-04 |
 | [Michael Jackson](https://open.spotify.com/track/7vR3p9l16E6o0xWDTHH8EP) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:34 | 2022-10-13 | 2022-11-18 |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-05-12 | 2022-06-03 |
+| [Milionario](https://open.spotify.com/track/10TGWWpppc6UDE2HiBAsp5) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Milionario](https://open.spotify.com/album/6r09tXxXa24Eh83yCdpKXo) | 2:27 | 2022-11-18 |  |
 | [Mille Lame](https://open.spotify.com/track/2un3vg9yxxDcxhBAuZ2ndU) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [Mille Lame](https://open.spotify.com/album/3mFXjhnAU7iCFYhGo5YGWe) | 1:44 | 2022-10-20 | 2022-11-18 |
 | [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [MILLIONAIRE \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2) | 3:52 | 2022-07-07 | 2022-08-13 |
 | [MISFIT](https://open.spotify.com/track/1VyYdZuLF2y7a8hsZFf3BJ) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [MISFIT](https://open.spotify.com/album/6rA53FxoXxcKjhmb01CJkP) | 1:33 | 2022-06-09 | 2022-06-17 |

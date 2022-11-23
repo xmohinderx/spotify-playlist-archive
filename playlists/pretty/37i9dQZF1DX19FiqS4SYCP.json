@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140841,
+  "num_followers": 140838,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGNmNDQ3MGQ4MGE2OGEyZjhiOGNlYjU4ZmI2NWVhMDAz",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDFiMGQxMmU1NmQ2NGE2YTkxN2YzYWYxNDZkNTIzZmFm",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "So\u00f1ar Contigo",
         "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 176000,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
-      },
-      "artists": [
-        {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 193967,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
+      },
+      "artists": [
+        {
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
-      },
-      "artists": [
-        {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
-        }
-      ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
       "artists": [
         {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
         }
       ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -771,6 +755,22 @@
       "duration_ms": 215640,
       "name": "Entre El Frio Y El Calor",
       "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
+      },
+      "artists": [
+        {
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
+        }
+      ],
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
