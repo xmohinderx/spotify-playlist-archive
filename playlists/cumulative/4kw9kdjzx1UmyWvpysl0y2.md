@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-348 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+349 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,8 +281,9 @@
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 |  |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
+| [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 |  |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |
-| [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 |  |
+| [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 | 2022-11-24 |
 | [Space](https://open.spotify.com/track/67zWylZHTu4lLgfoPbV71r) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [ill\-esha](https://open.spotify.com/artist/2sTLQWYys1f2QqpIZ3EOeU) | [Space](https://open.spotify.com/album/3BbB94zXzS6ywAXg90w63y) | 3:46 | 2022-11-22 |  |
 | [Space Boy](https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Space Boy](https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ) | 3:27 | 2022-03-17 | 2022-05-28 |
 | [Spaced Out](https://open.spotify.com/track/4cG0DczmM59OoR7Pcoc9Mx) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Spaced Out](https://open.spotify.com/album/1XHf7B0DwZTIMzSxeRKJEv) | 2:42 | 2022-02-16 | 2022-04-27 |

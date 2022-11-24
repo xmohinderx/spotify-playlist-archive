@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 982619,
+  "num_followers": 983585,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDAwNzE5NzgxOTNkMjQwMzNhNGYzZTBmYTNlNmQ4Yzc0",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGIyNTlkZTQwOGIxNGUxNWFmNDhkZTZmNjYyY2MwOGNm",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Walking By Myself",
+      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Walking By Myself",
-      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
     },
     {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Best Of Slim Harpo",
+        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Best Of Duke-Peacock Blues",
@@ -1107,22 +1123,6 @@
       "duration_ms": 239266,
       "name": "Little Angel Child",
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Best Of Slim Harpo",
-        "url": "https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
     },
     {
       "added_at": "2020-01-15 21:29:46",

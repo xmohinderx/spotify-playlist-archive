@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-418 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+419 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Lampshade](https://open.spotify.com/track/0vGYu3QyQIJFVSN7Etjgxt) | [F\_rlan](https://open.spotify.com/artist/1eXWd3ZKdF8kKYuS8S1bHv), [Pitaya Kush](https://open.spotify.com/artist/0fanuGiTlu5CBbncmj1ZJl), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Lampshade](https://open.spotify.com/album/1wGO98YpT00bnvNEFVciPC) | 1:55 | 2022-05-20 | 2022-09-02 |
 | [Lanterns](https://open.spotify.com/track/68vaAU5cIsDPu47auem0In) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lanterns](https://open.spotify.com/album/1LMkckcPNJ2zwHktKn4IGg) | 1:22 | 2022-07-22 | 2022-08-12 |
 | [Last Breeze](https://open.spotify.com/track/4wRj7xVkpnlzCTNv9Q2U9s) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Last Breeze](https://open.spotify.com/album/7Eq3NjI0gPlHjW8HGrtC8n) | 2:55 | 2022-09-23 |  |
-| [late night movies](https://open.spotify.com/track/3PLegh56F9ZblGB40ifbOd) | [Ryan Walker](https://open.spotify.com/artist/1Ab3RBhX8acLBgcV451wsq), [Gerardo Millán](https://open.spotify.com/artist/3Te1e4bESVFb1KcrMSmvhC) | [Late Nights](https://open.spotify.com/album/1pHDcgTWK2dcMGcUEL9Tyu) | 2:24 | 2022-09-02 |  |
+| [late night movies](https://open.spotify.com/track/3PLegh56F9ZblGB40ifbOd) | [Ryan Walker](https://open.spotify.com/artist/1Ab3RBhX8acLBgcV451wsq), [Gerardo Millán](https://open.spotify.com/artist/3Te1e4bESVFb1KcrMSmvhC) | [Late Nights](https://open.spotify.com/album/1pHDcgTWK2dcMGcUEL9Tyu) | 2:24 | 2022-09-02 | 2022-11-24 |
+| [late night movies](https://open.spotify.com/track/6Iy0OYEyUquJQMq4kNTC9S) | [Ryan Walker](https://open.spotify.com/artist/1Ab3RBhX8acLBgcV451wsq), [Gerardo Millán](https://open.spotify.com/artist/3Te1e4bESVFb1KcrMSmvhC) | [Late Nights](https://open.spotify.com/album/1QqQofNxNcjBAlSxyaXIwJ) | 2:24 | 2022-11-18 |  |
 | [lavender luster](https://open.spotify.com/track/76o5VE3NHgKGB1Sdz4Ouam) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [lavender luster](https://open.spotify.com/album/2VMqEiOvgY83pdlkwbB5e4) | 2:29 | 2022-05-20 |  |
 | [lavender nights](https://open.spotify.com/track/1zZaTPnMjSsT6oRnl9oWzp) | [steenhoff](https://open.spotify.com/artist/3J24HdM0kVVmwkh4jdumZi) | [lavender nights](https://open.spotify.com/album/26H5Txnbnq9FDoUQy4zUsT) | 2:43 | 2022-09-16 |  |
 | [laziness](https://open.spotify.com/track/68qJ3TskDFK2QuEDlUs8rH) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [laziness](https://open.spotify.com/album/3PscnzGhlFUABok52QKHi8) | 1:56 | 2022-07-08 |  |
@@ -215,7 +216,7 @@
 | [Lost Lots](https://open.spotify.com/track/6aBgRUf60WTnjOVOMevjkf) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [Lost Lots](https://open.spotify.com/album/5yOedjAsOSa4SkHR3CqNXr) | 2:33 | 2022-11-18 |  |
 | [lost my color](https://open.spotify.com/track/0z7i8XntrHsfZvkRdJ6EMY) | [Sleepy Numbat](https://open.spotify.com/artist/56NwFpEtEcw83To4Cdzp3v) | [lost my color](https://open.spotify.com/album/1l3LL90YUxY40jZfmHKtNh) | 1:25 | 2022-09-02 |  |
 | [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 | 2022-10-14 |  |
-| [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 |  |
+| [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 |  |
 | [Lucid Dream](https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lucid Dream](https://open.spotify.com/album/0o4EfuIuCZFgiEv26JUzky) | 2:37 | 2022-10-07 |  |
 | [Lucid Night](https://open.spotify.com/track/7qNraMvsidWQNfHDdqxa0v) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Sleepless Nights, Vol\. 1](https://open.spotify.com/album/6qnl9xdLZvudzu2FyMgByj) | 2:35 | 2022-09-30 |  |
 | [luna](https://open.spotify.com/track/6P4kfnlY3xItmwLsgLYSTv) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Jisatsu](https://open.spotify.com/artist/0T1Ope3kfLPZQ6l715wc34) | [luna](https://open.spotify.com/album/7axXxsf3tBqirUSV4WmAtr) | 2:24 | 2022-05-20 |  |

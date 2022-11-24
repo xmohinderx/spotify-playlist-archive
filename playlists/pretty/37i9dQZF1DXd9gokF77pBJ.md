@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,125 likes - 54 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,150 likes - 54 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 32 | [Back on You \(feat\. Crystal Winds\)](https://open.spotify.com/track/7tVHx32WoawUh6Go6WFre9) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI), [Crystal Winds](https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp) | [Chicago](https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs) | 13:31 |
 | 33 | [Let It Roll](https://open.spotify.com/track/1NwyIhIisC5rwamWKJSLa5) | [Doug Lazy](https://open.spotify.com/artist/5WgcDtwMwgiHg4CyK72oAF) | [Doug Lazy Gettin' Crazy](https://open.spotify.com/album/2r70KssVU9Eal1caRjuKFl) | 5:41 |
 | 34 | [Euan 92](https://open.spotify.com/track/5o3w5IIvu9Q7IhMikSNcls) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Euan 92](https://open.spotify.com/album/6C9kodfJbL0y1mk0WAmelp) | 5:21 |
-| 35 | [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 |
+| 35 | [Agave Harvest](https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light](https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE) | 7:04 |
 | 36 | [Don't Stop Your Love](https://open.spotify.com/track/2o6rXrfKkfUWbIALNQNeFx) | [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Deviant Disco](https://open.spotify.com/album/7e8NmkbJcgEUHSDfnhb3Ic) | 6:40 |
 | 37 | [Just A Boogie](https://open.spotify.com/track/1rwM6M9Mhh73r1WinI4bvo) | [Nayanka Bell](https://open.spotify.com/artist/56tB1LkGqnE4KgpxxCg1K1) | [Return To The Mothers' Garden \(More Funky Sounds Of Female Africa 1971 \- 1982\)](https://open.spotify.com/album/5BOWCDrgUhjlbQPaYwyJHE) | 3:40 |
 | 38 | [You Can't Stop The House \- The Out Space Mix](https://open.spotify.com/track/3C2wn5IPpmISp8p5cBwomP) | [Raul Orellana](https://open.spotify.com/artist/6htHgk48aAS94faA48Jq3w) | [You Can't Stop The House](https://open.spotify.com/album/7JCAKE9U7USsy9ynRkGmfY) | 4:37 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 53 | [Vagabond du Coeur \- Jex Opolis Remix](https://open.spotify.com/track/3dprpHK0RESjM0PNSmxly5) | [Master Phil](https://open.spotify.com/artist/1zcj3pyhHJD0QABmmnAw4q), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Vagabond du Coeur \(Jex Opolis Remix\)](https://open.spotify.com/album/6tZtz5yvt6Hlf1EQ4WyfrZ) | 6:53 |
 | 54 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
 
-Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMGEzMDAxNTQ0NWM2YTk1ZDA3MWRiYzVhMzdlZDgwNTc2`
+Snapshot ID: `MTY1NzY5NDQ3NCwwMDAwMDAwMDk1ZmUwOWU0NjNlN2QwNWZhNzcyN2VkZDJiZDRlYTc5`

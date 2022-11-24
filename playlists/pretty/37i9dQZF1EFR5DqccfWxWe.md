@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VuCylDMS94uSYiUpyDzLV">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 151 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 151 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 28 | [Luna Llena](https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd) | 3:45 |
 | 29 | [Te Soñé](https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Soñé](https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs) | 3:35 |
 | 30 | [You](https://open.spotify.com/track/5443CD5KwXDM5zAiiAnc1r) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:38 |
-| 31 | [Love Looks Like](https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Love Looks Like](https://open.spotify.com/album/7jwpTVabsnsvYRewJEhxka) | 3:51 |
-| 32 | [Through The Eyes Of A Child](https://open.spotify.com/track/4Edf9rMWf3diUWQ7dVVXLC) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:51 |
+| 31 | [Through The Eyes Of A Child](https://open.spotify.com/track/4Edf9rMWf3diUWQ7dVVXLC) | [Reamonn](https://open.spotify.com/artist/4VH2QabEORUUhN1F1cYQ6N) | [Reamonn](https://open.spotify.com/album/6mBD8yF24pYPia4n401Krw) | 3:51 |
+| 32 | [Love Looks Like](https://open.spotify.com/track/2SfdyDfdZMtr1Wly6ZdYYJ) | [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Love Looks Like](https://open.spotify.com/album/7jwpTVabsnsvYRewJEhxka) | 3:51 |
 | 33 | [Ahora Soy Libre](https://open.spotify.com/track/6DTXxggEkmEJallW8qMrIm) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:45 |
 | 34 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
 | 35 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 95 | [Malas Lenguas](https://open.spotify.com/track/4D0KRwHE25Q3HDzD7dORX5) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Intuición](https://open.spotify.com/album/1wFlOd0yqPGfly3SFTw86T) | 2:44 |
 | 96 | [Sentado](https://open.spotify.com/track/7lD6RFjjaqbaN1qOu4e07g) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [Sentado](https://open.spotify.com/album/37d5zTOOBf6a8AGOQJLdhL) | 3:28 |
 | 97 | [Calma](https://open.spotify.com/track/4j9AeZwJJaqBoAmT1sIBh4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Calma](https://open.spotify.com/album/56WyGihpAfyooVSew8PhNZ) | 2:55 |
-| 98 | [Taxi Man](https://open.spotify.com/track/3rHpETVQdSHjeCWfzy8cnw) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 4:12 |
-| 99 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 98 | [¿Dónde Está el Amor?](https://open.spotify.com/track/3Y6z65EYazmo2OoCSogrrX) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/70jklr6nVL3beQKyrB4AUE) | 2:59 |
+| 99 | [Taxi Man](https://open.spotify.com/track/3rHpETVQdSHjeCWfzy8cnw) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/2NItkHYNcAGCzYVS5ixoOq) | 4:12 |
 | 100 | [4.9.14](https://open.spotify.com/track/6vJ635INI2eIFpjXT4HmAG) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:34 |
 | 101 | [How I Used To Be](https://open.spotify.com/track/6f19F5WXT49qOlsyJSspSn) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Can’t Stand The Silence](https://open.spotify.com/album/1ZQ3n54DZU7aFmDbtbyLcO) | 4:12 |
 | 102 | [10.13.13](https://open.spotify.com/track/6Z6iy2MwcMzWlxlsq4MM1E) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 0:39 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjc4MTk0MjQsMDAwMDAwMDBkZjhiODNhY2FkNzRlZDc1MWZiMTg0Yzk3MjllNGU4Mw==`
+Snapshot ID: `Mjc4MjA4NjMsMDAwMDAwMDA0NTdiZGY2YzQ1YTk2YTU4MzBiN2M5ZWVhMzJiMjU4Yw==`

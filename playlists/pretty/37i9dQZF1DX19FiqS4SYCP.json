@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140838,
+  "num_followers": 140875,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDFiMGQxMmU1NmQ2NGE2YTkxN2YzYWYxNDZkNTIzZmFm",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDY0MmE3NDI0M2I2NmFmMDA5ODZmNGVmZGFiMWE1YTky",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "So\u00f1ar Contigo",
-        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
-      },
-      "artists": [
-        {
-          "name": "Cris Medina",
-          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "So\u00f1ar Contigo",
+        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+      },
+      "artists": [
+        {
+          "name": "Cris Medina",
+          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192003,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
       "artists": [
         {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
         }
       ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -591,38 +607,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
-      },
-      "artists": [
-        {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Baby Luna",
         "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+      },
+      "artists": [
+        {
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
-      },
-      "artists": [
-        {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
-        }
-      ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
+      },
+      "artists": [
+        {
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
+        }
+      ],
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180651,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2022-09-15 18:41:23",

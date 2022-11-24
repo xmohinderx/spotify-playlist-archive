@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs right now.
 
-263 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+264 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Beautiful Scars \- Acoustic](https://open.spotify.com/track/46zaR58Xb71HqoR5CTbQAX) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Beautiful Scars \(Acoustic\)](https://open.spotify.com/album/5w1phdvfMwgxO6frWZVdg2) | 2:38 | 2021-03-11 |  |
 | [Before You Go \(Acoustic\)](https://open.spotify.com/track/0eJsowcx9g02cKPkohJ2fe) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/69SQohr3ZqG0Mx0qcTk0h3) | 3:33 | 2021-03-11 | 2022-07-29 |
 | [Before You Go \- Acoustic](https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn) | 3:33 | 2021-03-11 |  |
-| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-10-14 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-11-11 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-10-14 | 2022-11-24 |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 4:03 | 2021-03-11 |  |
 | [Better \- Acoustic](https://open.spotify.com/track/0knOiZDfsoG4F92DI2JC5d) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Better \(Acoustic\)](https://open.spotify.com/album/2wjOki9yj0OHsti29N28UB) | 2:44 | 2021-03-11 | 2022-07-29 |
 | [Better \- Acoustic](https://open.spotify.com/track/2CLB1qOBXhCNAfW7PDZlO9) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Better \(Acoustic\)](https://open.spotify.com/album/79K0o7jdqLIlXUKyhsVjQm) | 2:44 | 2022-08-31 |  |

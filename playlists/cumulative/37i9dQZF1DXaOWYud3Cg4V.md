@@ -4,7 +4,7 @@
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-94 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0eXMlsTiRHC7wELyKeszOt)
+95 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0eXMlsTiRHC7wELyKeszOt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Grandpa Can Boogie Too](https://open.spotify.com/track/0YiYXAmMqmLQgaJsMQkWgp) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB) | [The King R&B Vol\. 4 of 4](https://open.spotify.com/album/6NsKZppxFo3ESq1JhrFYit) | 2:50 | 2019-02-06 |  |
 | [Grandpa Can Boogie Too](https://open.spotify.com/track/0312NazIYCEgasJZ4CYNLA) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB) | [The Best of Rock & Roll \(70 Rock & Roll Songs\)](https://open.spotify.com/album/09WyLrdpTp3FascZgBzC4y) | 2:50 | 2019-02-06 | 2022-07-29 |
 | [Grandpaw Can Boogie Too](https://open.spotify.com/track/7xGgrNPmqVPMC8THy8yIRC) | [Lil Greenwood](https://open.spotify.com/artist/1RHzjHTL6ssV7dQPZ4HoYB), [The Four Jacks](https://open.spotify.com/artist/2zl4nDHKJV0jn9hRBrB10i) | [The King Records R&B Anthology \- Volume 4](https://open.spotify.com/album/79fQ6fK0WvnneOKQcunRBE) | 2:50 | 2019-02-06 | 2022-11-13 |
-| [Hello Central \(Give Me 209\)](https://open.spotify.com/track/0ghSTCwxsdWCay1bo9DBmR) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of Lightnin' Hopkins](https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33) | 2:58 | 2019-02-06 |  |
+| [Hello Central \(Give Me 209\)](https://open.spotify.com/track/0ghSTCwxsdWCay1bo9DBmR) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [The Best Of Lightnin' Hopkins](https://open.spotify.com/album/7vAiJW4xi4VNmRjcZsLO33) | 2:58 | 2019-02-06 | 2022-11-24 |
+| [Hello Central \(Give Me 209\)](https://open.spotify.com/track/2IYUQE7kbDYF0ScZIp6pcO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Broke My Heart In Houston](https://open.spotify.com/album/0Hs6VdbuLE1rNduoA99kgw) | 3:04 | 2019-02-06 |  |
 | [Hello Central \(Give Me Central\)](https://open.spotify.com/track/6uCGkaWz4Vn4MwYYsZMiYw) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Hello Central: The Best Of Lightnin' Hopkins](https://open.spotify.com/album/3Jxv6BjL6Uzh1c06KbgkgY) | 2:56 | 2019-02-06 | 2022-07-29 |
 | [Hey, Miss Fannie \- 2007 Remaster](https://open.spotify.com/track/0TVLbglfKuQ5WtAFFa06HI) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 | 2019-02-06 |  |
 | [Hound Dog](https://open.spotify.com/track/2CbYVyT8FubKppn9zil1Uq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [20th Century Masters: The Millennium Collection: The Best Of Blues Classics](https://open.spotify.com/album/54zrwb4I3fkDaCgfhw16gE) | 2:49 | 2019-02-06 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,593 likes - 250 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,649 likes - 250 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 107 | [Nightfall](https://open.spotify.com/track/5PZcZPU445s16dA2PF8Bo7) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Nightfall](https://open.spotify.com/album/32D8bFNMzpZ6arO7zqBi3d) | 2:10 |
 | 108 | [tullio](https://open.spotify.com/track/6xcfCLiTvMlbjx6wIJK1cx) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [patterns](https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX) | 0:58 |
 | 109 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
-| 110 | [airless](https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [airless](https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4) | 1:46 |
+| 110 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 |
 | 111 | [Haute Dreams](https://open.spotify.com/track/38TURpPXTyCdAOaNrUJXdm) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Haute Dreams](https://open.spotify.com/album/7cuQUnR1vB5OrHR0ddZrSh) | 2:43 |
 | 112 | [rosella](https://open.spotify.com/track/02lwEdTi7l63LhAd70SXmm) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [rosella](https://open.spotify.com/album/0L0ln5Rz8Hv59Nxzlfx2ip) | 2:38 |
 | 113 | [Habits](https://open.spotify.com/track/3p2MNFiiEni69ydO5fmEHI) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Habits](https://open.spotify.com/album/5DpioETgTIxvfYzSofjRT5) | 1:50 |
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 165 | [Bubbles Around Me](https://open.spotify.com/track/6qrCkyPOQBFe2V0Aer2cWX) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Bubbles Around Me](https://open.spotify.com/album/4ox8valqKzDIg24FylVzXC) | 2:33 |
 | 166 | [Slowly](https://open.spotify.com/track/43ehM7IHlff5bePm8hhoe5) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Slowly](https://open.spotify.com/album/4UG7u3Cw7Kc98D27Mhb4T4) | 2:14 |
 | 167 | [Stormy Weather](https://open.spotify.com/track/48RlLNUMdp0CLXxwvGvwYh) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Stormy Weather](https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG) | 2:15 |
-| 168 | [Nightlife](https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg) | 2:28 |
+| 168 | [Nightlife](https://open.spotify.com/track/5pNymjpdXwHQT5OGySLBY2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/65ucCggEYsbO8WD7S1IRv0) | 2:28 |
 | 169 | [Simple Living](https://open.spotify.com/track/3mHqiGTqnGbL51qOfvDtO2) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Refuge](https://open.spotify.com/album/7culv1yk9fUy7tkMcLaOM2) | 2:22 |
 | 170 | [Waiting](https://open.spotify.com/track/7x6WMuXeRnf5wdWbIqdgAi) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Waiting](https://open.spotify.com/album/1x9KqI3glYQeSwADyYKC3Z) | 2:00 |
 | 171 | [Komori Uta](https://open.spotify.com/track/0uI7PWd0jx5hO5gFNjSJ6X) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Komori Uta](https://open.spotify.com/album/1A77yvU3WvZkVD2YGZ4KO1) | 2:27 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 249 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 |
 | 250 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |
 
-Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMGM0MTE0ZWIzMTNhMTYwZDU5MmI2NDI1M2E5YjE0NzU4`
+Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMDQzZTE3ZDM4NDBjY2Y2ZjMxMTA3MTMwMDkyZmQ0ZmYw`

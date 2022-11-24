@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-97 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
+98 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dreams](https://open.spotify.com/track/6Q6PUsRgFVjKNEw9Q9NoK6) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/7fE0SknwuDfgzXdiO2JaTB) | 3:08 | 2022-04-01 | 2022-08-26 |
 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 | 2022-09-03 |  |
 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 | 2022-04-01 |  |
+| [Earthquake](https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Sounds Of The Street II](https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG) | 2:26 | 2022-10-13 |  |
 | [Earthquake](https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 2:26 | 2022-04-01 | 2022-07-29 |
 | [Empty Bed](https://open.spotify.com/track/4CHDcWhqTsz53Ur9zmvHs8) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Empty Bed](https://open.spotify.com/album/0rZHZsyJnQb0K0KV6vCdhi) | 3:34 | 2022-04-01 | 2022-05-13 |
 | [Eyes Low](https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn) | [Wismi](https://open.spotify.com/artist/6olEJwSdbJNOAfqY0RgOJ5) | [Eyes Low](https://open.spotify.com/album/47LNCjzVsiaoCBq1YEwcnc) | 3:16 | 2022-04-01 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP) | 3:53 | 2022-10-13 |  |
 | [Gold Dust \- Fox Stevenson Remix](https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Gold Dust \(Fox Stevenson Remix\)](https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS) | 3:53 | 2022-04-01 | 2022-11-09 |
 | [GUCCI LOUIS](https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO) | [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [GUCCI LOUIS](https://open.spotify.com/album/5FL38aYaSURhUV1aymbv3u) | 3:02 | 2022-04-01 | 2022-07-27 |
-| [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 | 2022-06-10 |  |
+| [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 | 2022-06-10 | 2022-11-24 |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-05-12 |  |
 | [Higher Purpose](https://open.spotify.com/track/67WV5EiiBY9zWPFnwK3yER) | [KRESPO](https://open.spotify.com/artist/2JXh9Y3BQGJtBzhaNhlOEg) | [Higher Purpose](https://open.spotify.com/album/4HsupPLt9yoTSy5f5bCxNm) | 3:37 | 2022-04-01 | 2022-07-29 |
 | [Holding On](https://open.spotify.com/track/00m57vpWmpD8zuYIIYPhnV) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Holding On](https://open.spotify.com/album/3udoWVnNC1CQxlAfFJKDEF) | 2:44 | 2022-04-01 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,912 likes - 213 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,457 likes - 213 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 77 | [Mount Rakko](https://open.spotify.com/track/3gH6U0EQHbFrCNebvbnk8Y) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 2:29 |
 | 78 | [1999](https://open.spotify.com/track/5ROGipdo5HwRSp3olANTFa) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG) | [Nostalgia](https://open.spotify.com/album/5p9RXLrMutf2dBgcIxczp2) | 1:24 |
 | 79 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [Mojo Rojo](https://open.spotify.com/artist/1EUmokQ0A5FeDfuXb5IzJ8) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
-| 80 | [Sunny Side](https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/2f8sYkAMIleSBlqydbL4Pc) | 2:14 |
+| 80 | [Sunny Side](https://open.spotify.com/track/1JywCZds4lp3TBWaWX9VCc) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/1buEFrWsBE4b1sovzufwle) | 2:14 |
 | 81 | [Alright](https://open.spotify.com/track/0mol5d2VyGgrqArkzguhWv) | [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Alright](https://open.spotify.com/album/5x3axzg6ulLrCmhl4H35Aa) | 2:37 |
 | 82 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 |
 | 83 | [Fruit Loops](https://open.spotify.com/track/1OBQNbhJ8jysbZFnL4FnRB) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Fruit Loops](https://open.spotify.com/album/7pEke01ZWiOABvcBlTijzy) | 1:40 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 86 | [Summer Rain](https://open.spotify.com/track/4XRWyxfFJQvJ62KubqR1Lr) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Summer Rain](https://open.spotify.com/album/0uBJUpRWd2UHblFiW56tGa) | 2:41 |
 | 87 | [Watching you](https://open.spotify.com/track/1ymq7zaXe9cnJCLgOsFMtC) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Watching you](https://open.spotify.com/album/0rb3PGeI8IU4mv1rl1ScPA) | 2:24 |
 | 88 | [Landscape](https://open.spotify.com/track/4aTsPXxE0UJV1kZMmUOBI8) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [tatuí](https://open.spotify.com/artist/1h4sBiq6QUcJXyoUZDJCUu) | [Landscape](https://open.spotify.com/album/2ctDNDcOhGZ1wAq0Ws7djU) | 2:48 |
-| 89 | [Liberta](https://open.spotify.com/track/0lw9eOnzrOuC3yDNK8nwW7) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/7CpXwOkmDbrYpnkFOlc5Ft) | 1:45 |
+| 89 | [Liberta](https://open.spotify.com/track/0DKwWrhBAo9lKe8gbVqSok) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/4KjnLy6KKzuJNbIYnWZ4fY) | 1:45 |
 | 90 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 |
 | 91 | [Jazz Bars](https://open.spotify.com/track/6KEA0AhFQUafaUwQtw3VkR) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Crackle & Chop](https://open.spotify.com/album/4pTfyCntNJFtf5tmgOwjki) | 2:31 |
 | 92 | [Yo Baby](https://open.spotify.com/track/7F2Wan2OgGz9XB7oEBNQYO) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Yo Baby](https://open.spotify.com/album/0g6uWkUNFs7KInS2JoXxH4) | 2:22 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 213 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMDE0MmRhYmViYjk5MmIyNmYzYTA0ZjQ5ZmVkYjIzMzIw`
+Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMGU2NGY0OTdiMzgyYzg2YmY0ZTliNjNmN2E3ZDM5NjQ2`

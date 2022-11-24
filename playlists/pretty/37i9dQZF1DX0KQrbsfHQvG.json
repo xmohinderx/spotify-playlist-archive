@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 165301,
+  "num_followers": 165510,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDgzNTI2ZTVhMWRkMjYzZTkwZTA0MzhkMGFkYmQ2ZmI4",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDk2NjAyNTczNzM3YWU5MGMzMDNjZTg1YzJlYmY2NmRi",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "STAINS",
-        "url": "https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "I Know Something",
-      "url": "https://open.spotify.com/track/4khGFwJ3AIERwtOyJTwWUU"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "American Attraction",
         "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 176373,
       "name": "American Attraction",
       "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "STAINS",
+        "url": "https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "I Know Something",
+      "url": "https://open.spotify.com/track/4khGFwJ3AIERwtOyJTwWUU"
     }
   ],
   "unique_name": "Rise Up",

@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-57 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+58 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Boogie Relaxing Piano](https://open.spotify.com/track/2xpXXqFnUXFmbhHwFWWLoO) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Instrumental Piano Music](https://open.spotify.com/album/0LK4eqJzdORsuIW8xOcrFq) | 2:47 | 2021-12-03 |  |
 | [Boogies](https://open.spotify.com/track/26DY6PwAh2BHagNyEzcldn) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Blues Piano](https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1) | 4:30 | 2022-10-04 |  |
 | [Buddy Bolden Blues](https://open.spotify.com/track/3ERqgrgOFiYgMMIzq6fhc3) | [Jan Luley](https://open.spotify.com/artist/3FgqxBiYnrUlk5iYzGvuFE) | [Down In Pianorleans \- Blues Gumbo](https://open.spotify.com/album/5IXB69TZ7HTr7NfMc6nzLP) | 4:17 | 2021-12-03 |  |
+| [C.M\. Blues](https://open.spotify.com/track/2l8voBWRaYxvDNkzVim7p6) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Solo Piano](https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K) | 4:32 | 2022-11-23 |  |
 | [Calm Blue](https://open.spotify.com/track/7fwJy2821G1RkhPGIKmBrg) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Blues Piano](https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1) | 4:11 | 2022-10-04 |  |
 | [Central Park East Blues Song](https://open.spotify.com/track/2E8qQTaAUbHp2a50wqM1FE) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 3:05 | 2021-12-03 |  |
 | [Cheered by the Blues](https://open.spotify.com/track/2fWh9Sks5LmWXo9GvAiNqf) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2), [Kazuhiro Chujo](https://open.spotify.com/artist/3h7iR2Yq6tYRfZou6MjtyV) | [Bar Blues Piano BGM](https://open.spotify.com/album/3HdSdlPlAW0qSqHB229Mpg) | 2:14 | 2021-12-03 |  |

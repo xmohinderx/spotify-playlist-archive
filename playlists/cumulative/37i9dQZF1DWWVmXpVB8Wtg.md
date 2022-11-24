@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
+52 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2022-09-15 |  |
 | [Liberation \- Shigeru Tanabu Remix](https://open.spotify.com/track/4Og2JTTYcDKV34FS7mj9n8) | [Osamu M](https://open.spotify.com/artist/6ERKdL9fnhgo7urWSNyC3i), [Satoshi Fumi](https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO), [Shigeru Tanabu](https://open.spotify.com/artist/0nN0tQcZ82WRjLTyqrQid0) | [Liberation](https://open.spotify.com/album/5TJJF2etjUulvG3bwqzl6D) | 7:29 | 2022-09-15 |  |
 | [Little Giants \(feat\. Kim Ju Na\)](https://open.spotify.com/track/6fuTdkCGJ7hsFsOEmks2YJ) | [Atommy](https://open.spotify.com/artist/6uLot3WsFduJ9MEvdvz9GV), [Kim Ju Na](https://open.spotify.com/artist/1X5nPhrZ9fXydM5Q1Mzi4m) | [Little Giants \(feat\. Kim Ju Na\)](https://open.spotify.com/album/5lPSLNzOyhGcZniHN0zSQ4) | 3:15 | 2022-09-15 |  |
-| [LOVE SUNSHINE \- Radio Mix](https://open.spotify.com/track/1bfrKEytru65i7Q1mn9YZl) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [Shion](https://open.spotify.com/artist/67isecgMVenjxJ3jipKDnQ) | [LOVE SUNSHINE feat.SHiON](https://open.spotify.com/album/6ULQgSPnKhY6a2oA2LPmSn) | 3:55 | 2022-09-15 |  |
+| [LOVE SUNSHINE](https://open.spotify.com/track/0ADlNmDFj8Ux0xlXx297x7) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [SHION](https://open.spotify.com/artist/1UuqVEGVc8ZO3vPIsLCaY0) | [TOKYO RAVE](https://open.spotify.com/album/4AfSSxeQsdf30gbQURr7kx) | 3:55 | 2022-09-15 |  |
+| [LOVE SUNSHINE \- Radio Mix](https://open.spotify.com/track/1bfrKEytru65i7Q1mn9YZl) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [Shion](https://open.spotify.com/artist/67isecgMVenjxJ3jipKDnQ) | [LOVE SUNSHINE feat.SHiON](https://open.spotify.com/album/6ULQgSPnKhY6a2oA2LPmSn) | 3:55 | 2022-09-15 | 2022-11-24 |
 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 | 2022-09-15 |  |
 | [Maybe I](https://open.spotify.com/track/151QJmJUuopi0h6zbABYlX) | [DJ KEIKO](https://open.spotify.com/artist/0Xi1WX8JNayhDKMoDxJX6g) | [Maybe I](https://open.spotify.com/album/0uttTlQtihX8o1JOBgH8oH) | 3:04 | 2022-09-15 |  |
 | [MOAB](https://open.spotify.com/track/20yjVD5V9XT87BhgmScgxG) | [GLDN](https://open.spotify.com/artist/6a4KLb4BJJNm3uJVKNEvWP), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC) | [MOAB](https://open.spotify.com/album/55M9ApHxvAbAGvG5lbWyj0) | 3:02 | 2022-09-15 |  |

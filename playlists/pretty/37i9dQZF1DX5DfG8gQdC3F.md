@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nickelback \(pictured\), Pharrell Williams ft\. Travis Scott, bbno$, Saweetie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,289 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,431 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 66 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 |
 | 67 | [My Country](https://open.spotify.com/track/6XobxQrZ2wKpMdZXTEdcrX) | [George Canyon](https://open.spotify.com/artist/5wGox9x2iVERIeTJIQnFeL) | [My Country](https://open.spotify.com/album/6j3BQjN8YGOyL0Y8Pmqa1V) | 4:28 |
 | 68 | [So Tell Me…](https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [So Tell Me…](https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb) | 3:47 |
-| 69 | [Karobaar](https://open.spotify.com/track/6LsEYTb4pJoulHhYuTrtFv) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Fateh Doe](https://open.spotify.com/artist/7nMU4JggY9X3ufAlZ3Q2b2), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Karobaar](https://open.spotify.com/album/2rPWVt9IVl6P0gMkj8HTsW) | 2:39 |
+| 69 | [Karobaar](https://open.spotify.com/track/6LsEYTb4pJoulHhYuTrtFv) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Karobaar](https://open.spotify.com/album/2rPWVt9IVl6P0gMkj8HTsW) | 2:39 |
 | 70 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 |
 | 71 | [I Wish You Were Here](https://open.spotify.com/track/4SFMnbYy9fom3XP0TqkqbG) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [I Wish You Were Here](https://open.spotify.com/album/2mVzThyUAk0hNajTehDhOD) | 2:57 |
 | 72 | [U n Me](https://open.spotify.com/track/3dK4fF2iqUQxG7LONBqRx8) | [Stekl](https://open.spotify.com/artist/4VJYWONPKZmfTgy1qfT8zW), [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [U n Me](https://open.spotify.com/album/4Sn2PadiCjCggWHg9slFOx) | 5:09 |

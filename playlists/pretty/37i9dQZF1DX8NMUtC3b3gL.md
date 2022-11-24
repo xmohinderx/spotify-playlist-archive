@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,900 likes - 173 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,942 likes - 173 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 60 | [Face](https://open.spotify.com/track/6cVR8d5JBwANwCUNr9Dk49) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Face](https://open.spotify.com/album/2oSelUMgjI9HcpPabP204o) | 2:36 |
 | 61 | [Matcha Crumbs](https://open.spotify.com/track/0m3pLMVoCRIcyzmoRPeghN) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Matcha Crumbs](https://open.spotify.com/album/5Ef6dKmeasMNdEdrYAYzC6) | 2:19 |
 | 62 | [The Truth](https://open.spotify.com/track/2OG5MGQumLg0VKE8TOKq0Y) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR), [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [The Truth](https://open.spotify.com/album/5cWqLf8pYTsmXpo0TU8Xvg) | 2:19 |
-| 63 | [Luton](https://open.spotify.com/track/2lkaNasVnIobxN1tuVPuFm) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1fujLmksUjwmJFZ7C7lCHq) | 2:03 |
+| 63 | [Luton](https://open.spotify.com/track/2naDbMUuNcU3uPF7U6kW9m) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1PS4hzK5p3zdyU8KnSLHKS) | 2:03 |
 | 64 | [Colorful](https://open.spotify.com/track/064O5hulEViH0urpgjhnLX) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Colorful](https://open.spotify.com/album/0uBYnriLlS5UKUCwHXwu1W) | 1:42 |
 | 65 | [Chill Balcony](https://open.spotify.com/track/03PhAyp5FFUPMb68QCrAst) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT) | [Chill Balcony](https://open.spotify.com/album/1d2AZ7N81CHVJRx5haZ9Cd) | 2:24 |
 | 66 | [counting sheep](https://open.spotify.com/track/3x2Y0A58sRnkx2PD9dcbCc) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [counting sheep](https://open.spotify.com/album/77vFl5Aox31AH8XroidWES) | 1:56 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 172 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 173 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MTY2ODE2NzcwOSwwMDAwMDAwMGZlNzUxYjA1YjQ0MTdlMTVkYWIyZTgzZGNhMDMwN2I3`
+Snapshot ID: `MTY2ODE2NzcwOSwwMDAwMDAwMGI4ODhhYzhlZDNjZTExMmY3NWQ2NmE0N2Y5MDUyMTll`

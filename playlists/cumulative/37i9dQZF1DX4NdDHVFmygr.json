@@ -1872,6 +1872,36 @@
     },
     {
       "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Milo H\u00e4fliger",
+          "url": "https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355886,
+      "name": "Lbechra",
+      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "album": {
         "name": "Lberra7",
         "url": "https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq"
       },
@@ -3325,7 +3355,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 162185,
       "name": "Ykoun Li Ykoun",
       "url": "https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug"

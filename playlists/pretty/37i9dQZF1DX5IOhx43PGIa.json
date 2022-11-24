@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 248428,
+  "num_followers": 248676,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGQzODA4ODJmZDc2ZmQ3NjY5ZGY5MDA4OWJmOWMyN2I4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGMyNGI1MDcxOGZkNGNlZGZmOGMxOTI0MzI3NzMzMjhi",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 244046,
-      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
-      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -847,6 +851,22 @@
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 244046,
+      "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+      "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -883,26 +903,6 @@
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "trust (feat. RINI)",
-        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "trust (feat. RINI)",
+        "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+      "duration_ms": 197557,
+      "name": "trust (feat. RINI)",
+      "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "the other side",
+        "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "imysm",
+      "url": "https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "the other side",
-        "url": "https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "imysm",
-      "url": "https://open.spotify.com/track/7dr94wicpFwDjPyPDV0UIB"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "see u dance",
+        "url": "https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Boyfriend",
+          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "see u dance",
+      "url": "https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "HiROQUEST: Genesis",
         "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "how i remember",
-        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 239858,
-      "name": "epilogue",
-      "url": "https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "see u dance",
-        "url": "https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2"
-      },
-      "artists": [
-        {
-          "name": "Hong Kong Boyfriend",
-          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "see u dance",
-      "url": "https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Healing House",
         "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 227442,
       "name": "Healing House",
       "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "how i remember",
+        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 239858,
+      "name": "epilogue",
+      "url": "https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "hurts 2 hate somebody (with Chase Atlantic & No Rome)",
         "url": "https://open.spotify.com/album/7vn8aDaUDC46EAnXy0eht4"
       },
@@ -1999,26 +2019,6 @@
       "duration_ms": 186665,
       "name": "hurts 2 hate somebody (with Chase Atlantic & No Rome)",
       "url": "https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Silver Into Rain",
-      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "so wrong but so right.",
-        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 179571,
-      "name": "so wrong but so right.",
-      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 159292,
       "name": "MCQUEEN",
       "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "so wrong but so right.",
+        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "so wrong but so right.",
+      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Never Easy",
-        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 224391,
-      "name": "Never Easy",
-      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Under The Rose",
         "url": "https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Never Easy",
+        "url": "https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 224391,
+      "name": "Never Easy",
+      "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Bones & The Boy",
         "url": "https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 138000,
       "name": "Smile",
       "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 140658,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
     },
     {
       "added_at": "2022-11-18 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 117607,
+  "num_followers": 117706,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE2MjE4OSwwMDAwMDAwMDUxNTM5MDVmODY1NWU0MmE2NTM4MjhiMzg2MWE5ODA5",
+  "snapshot_id": "MTY2OTE2MjE4OSwwMDAwMDAwMDJmZDA1NjZlNWI1NzMzNTk2Y2E1NGMzODE4YTI0MGQ2",
   "tracks": [
     {
       "added_at": "2022-11-23 00:09:49",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 344749,
+      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
     },
     {
       "added_at": "2022-11-23 00:09:49",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 344749,
-      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2022-11-23 00:09:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 240886,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
-    },
-    {
-      "added_at": "2022-11-23 00:09:49",
-      "album": {
         "name": "\u65b0\u3057\u3044\u4eba",
         "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278517,
       "name": "\u65b0\u3057\u3044\u4eba",
       "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+    },
+    {
+      "added_at": "2022-11-23 00:09:49",
+      "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 240886,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
     },
     {
       "added_at": "2022-11-23 00:09:49",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+    },
+    {
+      "added_at": "2022-11-23 00:09:49",
+      "album": {
         "name": "Apartment",
         "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
-    },
-    {
-      "added_at": "2022-11-23 00:09:49",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2022-11-23 00:09:49",
@@ -1107,38 +1107,34 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "eureka",
-        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 210000,
-      "name": "eureka",
-      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 191489,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7vPO57xxaEwGwc44bDn71X"
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2022-11-23 00:09:49",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2022-11-23 00:09:49",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 191489,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7vPO57xxaEwGwc44bDn71X"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

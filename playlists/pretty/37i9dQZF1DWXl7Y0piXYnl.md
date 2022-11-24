@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,315 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,357 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Whaa](https://open.spotify.com/track/3gSjE4dzaRAIerYL3S7iCy) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/6hM7p7z5jfapt4KVChVz0b) | 4:31 |
+| 1 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
 | 2 | [Against the Grain](https://open.spotify.com/track/1lwY20WrWMiK85nj50Z6iO) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Out of Heart](https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW) | 3:12 |
 | 3 | [Living with Elvis](https://open.spotify.com/track/7MpULkHDYWlmNpogc6RHmp) | [Soda Plains](https://open.spotify.com/artist/5HhWwA2scJlT05BYYtZk9w) | [Living with Elvis](https://open.spotify.com/album/3l0UiGPKsX8bqf136NtFeZ) | 4:53 |
 | 4 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 |
 | 70 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDhiZjkwYzY5MzM2ZWY1NTRhOGZlMjJlZDk0M2ZhYzg0`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGZlODIxNjg3NzVhN2ZhM2U0MGVlZWQ5ZGNjOTY0N2I5`

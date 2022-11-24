@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: GALE",
-  "num_followers": 264112,
+  "num_followers": 264243,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1NjUzNiwwMDAwMDAwMDk1YjBlNjlhZDM4ZGE2ZDQ4ZDJhZDdiMTlmNGEzNTE4",
+  "snapshot_id": "MTY2Njk1NjUzNiwwMDAwMDAwMGJkOWNjYjMzN2Q1Y2Q1NjEyMGE0M2RhYWY2ZTJiNWEx",
   "tracks": [
     {
       "added_at": "2022-10-28 11:28:56",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-28 11:28:56",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 195797,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN"
-    },
-    {
-      "added_at": "2022-10-28 11:28:56",
-      "album": {
         "name": "No Hace Falta Que Lo Digas",
         "url": "https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 218562,
       "name": "No Hace Falta Que Lo Digas",
       "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
+    },
+    {
+      "added_at": "2022-10-28 11:28:56",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 195797,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN"
     },
     {
       "added_at": "2022-10-28 11:28:56",

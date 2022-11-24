@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26622,
+  "num_followers": 26621,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGZmOTJlODY5MzUxYTI2ZmFmOWFlOGY0ZDI4ZDZhNmEx",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDczNDk3OTliYjNkNmE3ZWU5MzQ4YmZiMjJlOGM5MjY3",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Up, Up And Away",
         "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Live At The Troubadour",
-        "url": "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv"
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 351600,
-      "name": "You\u2019ve Got A Friend - Live At The Troubadour / 2007",
-      "url": "https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu"
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -1031,6 +1011,26 @@
       "duration_ms": 253400,
       "name": "Little Green Apples",
       "url": "https://open.spotify.com/track/2nuMRtlTTp6hwPOsRsBu7n"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Live At The Troubadour",
+        "url": "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 351600,
+      "name": "You\u2019ve Got A Friend - Live At The Troubadour / 2007",
+      "url": "https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu"
     },
     {
       "added_at": "2022-02-16 05:37:41",

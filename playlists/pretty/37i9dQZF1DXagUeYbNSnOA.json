@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167771,
+  "num_followers": 167816,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMGZjZWE1YTYxMWM4NDgyYTE5ODM4NjUyNWRhNDgxN2I5",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDU0MmM3YmVjMzVmNThmYTk3MzI4YzIwZmM2ZTAxY2Yz",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/4Ff50DSqdPxNg0KtnOspjm"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 243034,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2FvrZtYr7tALXLRiBxaPfn"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Tristelandia!",
         "url": "https://open.spotify.com/album/6R2tvA4USRyvNgPPONtV1I"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175400,
       "name": "Nuestro amor",
       "url": "https://open.spotify.com/track/3K5z6tNpQfD8GT3BWgSRK6"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/4Ff50DSqdPxNg0KtnOspjm"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2FvrZtYr7tALXLRiBxaPfn"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2W6XLQgCLJbvIYxzIZrFuw"
+      },
+      "artists": [
+        {
+          "name": "Paola Guanche",
+          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/059RWrtCpHMSO7OF9gO38c"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2W6XLQgCLJbvIYxzIZrFuw"
-      },
-      "artists": [
-        {
-          "name": "Paola Guanche",
-          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/059RWrtCpHMSO7OF9gO38c"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Perico",
         "url": "https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 204852,
       "name": "Perico",
       "url": "https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Tres Mil Lunas",
-        "url": "https://open.spotify.com/album/5KSqoVwfUhOKmeH5Pgo3Zw"
-      },
-      "artists": [
-        {
-          "name": "Somos Del Aire",
-          "url": "https://open.spotify.com/artist/2FtTSV5f2QKOtTDYAt9pxU"
-        }
-      ],
-      "duration_ms": 226351,
-      "name": "Tres Mil Lunas",
-      "url": "https://open.spotify.com/track/0GJbO51Jn2C0IDy0dpGK9b"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Deli",
-        "url": "https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc"
+        "name": "Tres Mil Lunas",
+        "url": "https://open.spotify.com/album/5KSqoVwfUhOKmeH5Pgo3Zw"
       },
       "artists": [
         {
-          "name": "ZUCO OMG",
-          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+          "name": "Somos Del Aire",
+          "url": "https://open.spotify.com/artist/2FtTSV5f2QKOtTDYAt9pxU"
         }
       ],
-      "duration_ms": 179278,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy"
+      "duration_ms": 226351,
+      "name": "Tres Mil Lunas",
+      "url": "https://open.spotify.com/track/0GJbO51Jn2C0IDy0dpGK9b"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -791,6 +775,22 @@
       "duration_ms": 228571,
       "name": "Casas de Papel",
       "url": "https://open.spotify.com/track/4CBSgapphmbC1Y7bGY1l1Y"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Deli",
+        "url": "https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "duration_ms": 179278,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy"
     },
     {
       "added_at": "2022-11-10 00:19:53",

@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-76 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+79 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [O Come All Ye Faithful](https://open.spotify.com/track/2s52PLq7hqaO2kmb6CPn6T) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Peaceful Christmas Harp](https://open.spotify.com/album/1ZPpgQnJEJEHCycs1dWEHl) | 4:11 | 2021-12-22 |  |
 | [O Holy Night](https://open.spotify.com/track/32i2RMnxpMfTYBRGhNWZbb) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:54 | 2022-09-22 |  |
 | [O Tannenbaum](https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 5:05 | 2021-12-22 |  |
+| [One Day in December](https://open.spotify.com/track/6pT4DiBoFLZvI0QPXis1UY) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [One Day in December](https://open.spotify.com/album/72WA1OcHFJG0qhJEwhsxFl) | 1:26 | 2022-11-23 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 | 2022-10-14 |  |
 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 |  |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |
@@ -78,9 +79,11 @@
 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 | 2021-12-22 |  |
 | [The First Noel](https://open.spotify.com/track/6xY00fMllADVEZ8K9OHMil) | [W.G\. Snuffy Walden](https://open.spotify.com/artist/1o9c8sfXo2HKF95bWvPUbN) | [Windham Hill Holiday Guitar Collection](https://open.spotify.com/album/0wMljJkbo5ZcspfK2VzMgz) | 3:43 | 2021-12-22 | 2022-10-15 |
 | [The Holly and the Ivy](https://open.spotify.com/track/2OSplb5nVkiivpWjjoSsuO) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Holly and the Ivy](https://open.spotify.com/album/2jpNCKfqEBi7eTSZODKfZo) | 2:46 | 2022-10-14 |  |
+| [Up on the House Top \(Ho Ho Ho\)](https://open.spotify.com/track/1MQV2VfiOXBBukjwnQV2q0) | [Fardeen Evans](https://open.spotify.com/artist/5Vyql7da8OmbtgTqbOMSC1) | [Up on the House Top \(Ho Ho Ho\)](https://open.spotify.com/album/4y7XBlXIovOYeExwW1Bfmc) | 2:13 | 2022-11-23 |  |
 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 | 2021-12-22 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7tI93VllDJT1c34VVaGCcS) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 1:57 | 2021-12-22 | 2022-10-15 |
 | [We Wish You a Merry Christmas \- Piano](https://open.spotify.com/track/3szNR5TwMJxBC4PAc4SIYl) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:31 | 2022-10-14 |  |
+| [What Child Is This?](https://open.spotify.com/track/6wmn2LNYtTowLmGG8uRNru) | [Euan Levy](https://open.spotify.com/artist/4zYP64IZ8weY745lhRv3By) | [What Child Is This?](https://open.spotify.com/album/5ZcJtZeiv6DsCw6GkH97W5) | 2:29 | 2022-11-23 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/5PErjyynAj7MW07Rkyj4Rr) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [I Saw Three Ships](https://open.spotify.com/album/159FJPsslJcKtheKUuKVeP) | 3:50 | 2022-10-14 |  |
 | [White Christmas \- Piano](https://open.spotify.com/track/608LZ7i8QlzDGm6PCzQpN7) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 3:27 | 2022-10-14 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/2ntmMrc4v2PdLc9r3PYIks) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [White Winter Hymnal](https://open.spotify.com/album/6cGz5eTY09lXG6yAmK7Evq) | 2:20 | 2022-10-14 |  |

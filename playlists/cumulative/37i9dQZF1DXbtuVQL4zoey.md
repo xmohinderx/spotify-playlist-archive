@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-433 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+435 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,8 @@
 | [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
 | [Pincushion Island](https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Pincushion Island](https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q) | 2:19 | 2022-10-28 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 | 2022-11-20 |
-| [pinecone](https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 |  |
+| [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 | 2022-11-11 |  |
+| [pinecone](https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 | 2022-11-24 |
 | [Pink](https://open.spotify.com/track/5awtju4msMy7Cyovaoxo7j) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Pink](https://open.spotify.com/album/6iaKYDhkwhl7r0TPpZ1ePJ) | 2:14 | 2022-09-09 |  |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |
 | [Poetic Wax](https://open.spotify.com/track/6ueWeJJyq1rMkdNitaL7a6) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [On the Keys of Steel](https://open.spotify.com/album/3ZuaHM9zbQrNT23OG7I3bz) | 2:23 | 2022-05-20 |  |
@@ -366,7 +367,8 @@
 | [Sunday Mornings](https://open.spotify.com/track/7sigACWgeejkcI9Q41FCue) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Sunday Mornings](https://open.spotify.com/album/5iaDKlmMD0TtfsLwMyvJJC) | 2:49 | 2022-05-27 |  |
 | [Sundown Avenue](https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Train of Liberation](https://open.spotify.com/album/48FgL60ydhm7ScPE1Zkao9) | 2:55 | 2022-05-20 |  |
 | [Sunflower Plaza](https://open.spotify.com/track/0FEwN2OMlnxy5AvSdgQDGW) | [Lofi City Colours](https://open.spotify.com/artist/6LVXwiOOvFdK6cr6I1IEEV) | [Sunflower Plaza](https://open.spotify.com/album/3s40pZdRf3QWAXgBYR90Ke) | 2:51 | 2022-06-24 | 2022-07-01 |
-| [Sunny Grooves](https://open.spotify.com/track/1UrEkSa97QWI7LlFp0WJGI) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr) | [Sunny Grooves](https://open.spotify.com/album/6NKduzfUJ94ykUd1pMTpsQ) | 2:57 | 2022-11-11 |  |
+| [Sunny Grooves](https://open.spotify.com/track/1UrEkSa97QWI7LlFp0WJGI) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr) | [Sunny Grooves](https://open.spotify.com/album/6NKduzfUJ94ykUd1pMTpsQ) | 2:57 | 2022-11-11 | 2022-11-24 |
+| [Sunny Grooves](https://open.spotify.com/track/23rwFBqSEHcz1frkz2ezdE) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr) | [Sunny Grooves](https://open.spotify.com/album/0fvLAj37uw894R7xpDC9pK) | 2:57 | 2022-11-11 |  |
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2022-08-19 |  |
 | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/track/4F5mLxbhGHhwQpYeJCZKAf) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/album/0Upp6SD0SMlItdoMasbOuD) | 3:38 | 2022-05-20 | 2022-09-17 |
 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 | 2022-07-22 | 2022-11-12 |

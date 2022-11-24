@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 525167,
+  "num_followers": 525485,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDMyMTAzMjFmZGVhOWU4Zjc3MjMwMzg5NzI3NGYzOTli",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMGVmMjVhZGY4ZDYwYTEwMjE0YjIwNDhmMTk4ZGU4YTNm",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 218733,
       "name": "Lovers Who Make Love",
       "url": "https://open.spotify.com/track/07TynTJvMsM19UHI121q5l"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
-        "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
-      },
-      "artists": [
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Both Hands",
-      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
     },
     {
       "added_at": "2021-03-19 04:02:00",

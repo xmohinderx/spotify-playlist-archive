@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de noviembre 2022.",
-  "num_followers": 1504028,
+  "num_followers": 1504572,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODgwNzk3NiwwMDAwMDAwMGYzOTJhZGY5YzFiNzU3NzkyNWRjZjI1YTBjNWIxNjdj",
+  "snapshot_id": "MTY2ODgwNzk3NiwwMDAwMDAwMDgyMmMzYjM4ZDE5ZmFlMGYwZDM5YzY4ZTdkNTJlMGRk",
   "tracks": [
     {
       "added_at": "2022-11-18 21:45:37",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2022-11-18 21:45:37",
-      "album": {
         "name": "Fiera",
         "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 175788,
       "name": "Fiera",
       "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
+    },
+    {
+      "added_at": "2022-11-18 21:45:37",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2022-11-18 21:45:37",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
-        "name": "DIME QUI\u00c9N????",
-        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
     },
     {
       "added_at": "2022-11-18 21:45:37",
@@ -543,8 +543,8 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+        "name": "DIME QUI\u00c9N????",
+        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
     },
     {
       "added_at": "2022-11-18 21:45:37",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-11-18 21:45:37",
       "album": {
-        "name": "Todo Es Mental",
-        "url": "https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Climaxxx",
-      "url": "https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn"
-    },
-    {
-      "added_at": "2022-11-18 21:45:37",
-      "album": {
         "name": "La Envidia",
         "url": "https://open.spotify.com/album/07DpZSWotYgDveD4z9Jy5I"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 195881,
       "name": "La Envidia",
       "url": "https://open.spotify.com/track/2Qh7DGyU4x1ZuMRwfMuI1K"
+    },
+    {
+      "added_at": "2022-11-18 21:45:37",
+      "album": {
+        "name": "Todo Es Mental",
+        "url": "https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Climaxxx",
+      "url": "https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn"
     },
     {
       "added_at": "2022-11-18 21:45:37",

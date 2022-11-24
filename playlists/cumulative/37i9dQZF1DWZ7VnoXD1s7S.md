@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-82 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
+83 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6dPjrd3A0KFEWg2AfbxWij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 | 2022-08-22 |  |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-08-22 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2022-08-22 | 2022-08-24 |
+| [u and i \- original version](https://open.spotify.com/track/3XRLyWAabvLKH8sLXKQ0hB) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/0zBjrxV5UaU4UD95jq0owD) | 2:03 | 2022-11-23 |  |
 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 | 2022-08-22 |  |
 | [Waltzing](https://open.spotify.com/track/02nicqq35voFB9h2SUXpSK) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Carousel](https://open.spotify.com/album/5LfyG0hpTmZQ9sVrF4Upm6) | 2:21 | 2022-08-22 | 2022-09-07 |
 | [We'll Meet Again](https://open.spotify.com/track/6WdcvzQADmrL8nucimUV6r) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS), [Sailors, Soldiers & Airmen of Her Majesty's Forces](https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [Silver Memories: Our Vera](https://open.spotify.com/album/79w6b4DZnsVFbHELqs04Do) | 3:03 | 2022-08-22 |  |

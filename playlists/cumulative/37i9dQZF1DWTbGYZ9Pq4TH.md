@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre.
 
-183 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
+184 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/4xbXrPn6qPTl8i2Ptaki7A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [In Mezzo A Questo Inverno](https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Accetto Miracoli](https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw) | 3:45 | 2021-09-26 | 2022-07-29 |
 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 | 2021-09-26 | 2022-06-30 |
 | [Infinito](https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/7fTv0aFzQRR1LSta69B3N9) | 4:56 | 2021-09-26 | 2022-07-29 |
-| [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 | 2021-09-26 |  |
+| [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 | 2021-09-26 | 2022-11-24 |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 | 2021-09-26 |  |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/1vQfL4IdQZAaFpUX0Sxn3w) | 3:58 | 2021-09-26 | 2022-07-29 |
 | [L Ultimo Bacio](https://open.spotify.com/track/382GAiDqEcoSjbpMrhExs6) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Stato Di Necessita](https://open.spotify.com/album/3nCPg2QVfSLwOOiQgja32o) | 3:24 | 2021-09-26 | 2022-07-18 |
@@ -180,6 +180,7 @@
 | [Un attimo ancora](https://open.spotify.com/track/3lj6yA3gqDanIeNPGbMYRG) | [Gemelli Diversi](https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ) | [Gemelli Diversi](https://open.spotify.com/album/5fn80yeckiWYKTUooD9XmY) | 4:00 | 2021-09-26 | 2022-07-28 |
 | [Un'emozione da poco](https://open.spotify.com/track/0AsCObd7eD2NSSg3UBJLKo) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Gli Anni '70/New Package](https://open.spotify.com/album/728pPa8Nr1d9omkT8mRoh8) | 4:15 | 2021-09-26 | 2022-06-19 |
 | [Un'emozione per sempre](https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:56 | 2021-09-26 |  |
+| [Una canzone che non so](https://open.spotify.com/track/6pDqB2dlzxB2i9Inu4h3wC) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Post Punk](https://open.spotify.com/album/1oYTq4dC52TYMw2xoKr4kb) | 3:05 | 2021-09-26 |  |
 | [Una Canzone D'Amore Buttata Via](https://open.spotify.com/track/3hV8uIYz5D5orhpgqixZHj) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Una Canzone D'Amore Buttata Via](https://open.spotify.com/album/2dFdW3uioaAxAoRgSbhYBT) | 4:31 | 2021-09-26 | 2022-07-28 |
 | [Una canzone per te](https://open.spotify.com/track/6nxwXubrJ26ZTYrgbNHtvX) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Sarà migliore](https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM) | 3:13 | 2021-09-26 | 2022-07-29 |
 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 | 2021-09-26 | 2022-07-27 |

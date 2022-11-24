@@ -2025,7 +2025,7 @@
     {
       "album": {
         "name": "See You in Paradise",
-        "url": "https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp"
+        "url": "https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS"
       },
       "artists": [
         {
@@ -2044,6 +2044,32 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 352258,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes"
+    },
+    {
+      "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Coloray",
+          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
       "duration_ms": 352258,
       "name": "Reset",
       "url": "https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV"

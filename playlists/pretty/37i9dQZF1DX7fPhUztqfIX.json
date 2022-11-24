@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 96769,
+  "num_followers": 96836,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGQ0ZGFmMjUzZWFiOGM2Yjg4MmUxMThkNTAwMTkzOGMw",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDkzZmQ5NzMxZTNiMmQ3ZWIyODcwODdhYWU3NTMwNWFl",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Psalm 42 (Loudest Praise)",
-        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 355820,
-      "name": "Psalm 42 (Loudest Praise)",
-      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "My Worship (Live)",
+        "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Lee University Singers",
+          "url": "https://open.spotify.com/artist/2p0Ijwq3ufXdca65KnK4Vq"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Another In The Fire (Studio)",
         "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 176624,
       "name": "THIS MOMENT",
       "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "My Worship (Live)",
-        "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Lee University Singers",
-          "url": "https://open.spotify.com/artist/2p0Ijwq3ufXdca65KnK4Vq"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "My Worship - Live",
-      "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Grace That Changes Everything",
         "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 407190,
-      "name": "When It Comes to You",
-      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 288777,
-      "name": "How Deep",
-      "url": "https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 288777,
+      "name": "How Deep",
+      "url": "https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT"
     },
     {
       "added_at": "2021-06-12 04:00:40",

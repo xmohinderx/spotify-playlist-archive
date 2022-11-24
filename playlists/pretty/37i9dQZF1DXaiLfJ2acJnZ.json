@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35388,
+  "num_followers": 35418,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGMyYzgwZTRiYjY4MmQ3NjdkZDM5ZmMwMjg3NWQzM2I5",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDI5OTNlOGFjMDdmZTI5OWM5OTg4OWI3ZjBhOTkyMmFm",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
-      },
-      "artists": [
-        {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
-        }
-      ],
-      "duration_ms": 190326,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 197346,
       "name": "Treat People With Kindness",
       "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi"
+      },
+      "artists": [
+        {
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+        }
+      ],
+      "duration_ms": 190326,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Through the Phone",
-        "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
-      },
-      "artists": [
-        {
-          "name": "Wild Youth",
-          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Through the Phone",
-      "url": "https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "New Wave EP",
         "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 190680,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Through the Phone",
+        "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
+      },
+      "artists": [
+        {
+          "name": "Wild Youth",
+          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Through the Phone",
+      "url": "https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Cloudy Day (Acoustic)",
-        "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 185139,
-      "name": "Cloudy Day - Acoustic",
-      "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "One & Only",
         "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Cloudy Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 185139,
+      "name": "Cloudy Day - Acoustic",
+      "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
     }
   ],
   "unique_name": "Wholesome",

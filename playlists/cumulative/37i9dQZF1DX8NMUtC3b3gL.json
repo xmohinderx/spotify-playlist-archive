@@ -2327,10 +2327,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 123571,
       "name": "Luton",
       "url": "https://open.spotify.com/track/2lkaNasVnIobxN1tuVPuFm"
+    },
+    {
+      "album": {
+        "name": "Luton",
+        "url": "https://open.spotify.com/album/1PS4hzK5p3zdyU8KnSLHKS"
+      },
+      "artists": [
+        {
+          "name": "isaintjames",
+          "url": "https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l"
+        },
+        {
+          "name": "Mayaewk",
+          "url": "https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123571,
+      "name": "Luton",
+      "url": "https://open.spotify.com/track/2naDbMUuNcU3uPF7U6kW9m"
     },
     {
       "album": {

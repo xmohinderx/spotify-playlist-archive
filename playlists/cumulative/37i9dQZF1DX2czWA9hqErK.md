@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-411 songs - 23 hr 18 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+414 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2021-12-16 | 2022-01-05 |
 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 | 2022-01-17 | 2022-03-04 |
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2021-12-16 | 2022-02-22 |
-| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-04 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-10-21 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-04 | 2022-11-24 |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-12-16 | 2022-04-27 |
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-10-11 |  |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-12-16 | 2022-03-30 |
@@ -198,7 +199,8 @@
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-14 |  |
 | [If You Were on Fire](https://open.spotify.com/track/6TYS3UzhmDBsYHBCpYl5Rg) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [If You Were on Fire](https://open.spotify.com/album/2ugSEFn3ov3RSoodCJgmKV) | 2:53 | 2021-12-16 | 2022-03-28 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-03-29 | 2022-04-06 |
-| [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-21 |  |
+| [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-10-21 |  |
+| [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-21 | 2022-11-24 |
 | [Interiority](https://open.spotify.com/track/70i9RjTI1S9MQVHEMptpCS) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Interiority](https://open.spotify.com/album/7LBmddZ3BZWH3jNzvBhZbQ) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Into The Fire](https://open.spotify.com/track/7BPNnaH7sze0E9U6iy1jNp) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Into The Fire](https://open.spotify.com/album/2NpmzmO1cYg4xUGwQGX5Fi) | 3:14 | 2021-12-16 | 2022-07-24 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-16 |  |
@@ -315,7 +317,8 @@
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-12-16 | 2022-08-03 |
 | [Running Shoes](https://open.spotify.com/track/37n7QHLUmmY7biMHeou3Ix) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Running Shoes](https://open.spotify.com/album/1tw3N61XMnpndZL6zvP0uh) | 3:41 | 2022-04-04 | 2022-07-18 |
 | [Róisín](https://open.spotify.com/track/5efHoPUOCPywINwkok3U13) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Róisín](https://open.spotify.com/album/2G89n4hSvqfs7vPjBATd1o) | 4:03 | 2021-12-16 | 2022-02-22 |
-| [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-31 |  |
+| [Sad Anymore](https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:10 | 2022-10-21 |  |
+| [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-31 | 2022-11-24 |
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 |  |
 | [Screaming At Traffic](https://open.spotify.com/track/3xlV9ddro4IMk92Ti0cHc1) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Screaming At Traffic](https://open.spotify.com/album/0awqSPSGOzyjsYteW1IfiM) | 3:55 | 2022-10-11 | 2022-11-23 |
 | [Seasons](https://open.spotify.com/track/22GqKGx91w1CBrEpnkSIFT) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Seasons](https://open.spotify.com/album/5vcLgFSiyypgDgR3qzPsS6) | 3:33 | 2021-12-16 | 2022-07-08 |

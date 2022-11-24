@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rod 3030
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,758 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,873 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voltando Pra Casa](https://open.spotify.com/track/5q0EO4vFsXnMq39026KLFf) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [KLAP](https://open.spotify.com/artist/6EPKecUbr8DHnDO66obdzW) | [Majin Boo Tape 2](https://open.spotify.com/album/1Wq2Wt1vNrmtmT7YsjKe27) | 3:07 |
 | 2 | [Falsa Vitrine](https://open.spotify.com/track/78NdjylLQvxVzfGGyDbrrW) | [Alves](https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Nobre Beats](https://open.spotify.com/artist/0mAnaYgKhBPZ89wzd6ebT7) | [Entre Chronos e Kairós](https://open.spotify.com/album/2H8qoneSHcCY1wAPTZGhgD) | 3:09 |
 | 3 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
-| 4 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
+| 4 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 5 | [Lugar na mesa](https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 2:59 |
 | 6 | [Black Mafia](https://open.spotify.com/track/49XzQORwZlcFsvh5F4WnA9) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [Omertà](https://open.spotify.com/album/28q6IHl8MmPNCuS4ygBKNA) | 4:14 |
 | 7 | [Gratidão](https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 4:07 |

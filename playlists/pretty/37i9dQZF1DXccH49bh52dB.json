@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 374126,
+  "num_followers": 374535,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDMxNzViMDE0ZjU0OWE3MTQ5ZGI4OWU0Zjk4N2RmY2Jl",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDhkOWE3YzI0MjcxOTNlMTBiMTllMWUzNWYyNDk0MzZh",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 211040,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Dawn EP",
         "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 198000,
       "name": "How Hard I Try",
       "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 188846,
-      "name": "On The Beach",
-      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Somebody I'm Not",
         "url": "https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 167726,
       "name": "Somebody I'm Not",
       "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 188846,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Elohim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6tbzSO8UHnbvsPFG449fb2"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 202886,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/1Wvzo4EotLEh4W3OVcQoDO"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
     },
     {
       "added_at": "2022-01-18 14:54:04",

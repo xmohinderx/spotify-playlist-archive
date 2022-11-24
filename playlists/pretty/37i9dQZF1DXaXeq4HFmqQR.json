@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9888,
+  "num_followers": 9895,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDdjYWFkYjA3MmFjMjZmMDcyY2Y0MzkzYTVjMTlmMGIx",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGZiYjA3OTRiNGJjYTQxNWNhZDYxNzIwYzdiZTVjYWZl",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Sat\u00e9lite",
+        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
+      },
+      "artists": [
+        {
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Sat\u00e9lite",
+      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "No m\u00e1s me dio",
         "url": "https://open.spotify.com/album/69K23XEPiqueK7o88Kdgdk"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 193973,
       "name": "No m\u00e1s me dio",
       "url": "https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Sat\u00e9lite",
-        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Sat\u00e9lite",
-      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
-      },
-      "artists": [
-        {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
-        },
-        {
-          "name": "Oushet",
-          "url": "https://open.spotify.com/artist/5nAqcCizLzWuyAlnfSgEID"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "Yin Yang",
-      "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Flip Flops",
         "url": "https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 155757,
       "name": "Flip Flops",
       "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        },
+        {
+          "name": "Oushet",
+          "url": "https://open.spotify.com/artist/5nAqcCizLzWuyAlnfSgEID"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "Yin Yang",
+      "url": "https://open.spotify.com/track/7cOqDi2xyjxSNfQQlH0X8l"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "INTERLUDIO",
         "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 148000,
       "name": "Mente Universal",
       "url": "https://open.spotify.com/track/1CZ2hFUJt8RpGkuDzkTpOg"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
-      },
-      "artists": [
-        {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
-        }
-      ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
     },
     {
       "added_at": "2022-11-04 00:00:00",

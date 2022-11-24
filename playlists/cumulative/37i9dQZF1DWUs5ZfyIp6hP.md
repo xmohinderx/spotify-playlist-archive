@@ -4,7 +4,7 @@
 
 > Light of your 4th with these family\-friendly tunes.
 
-70 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
+72 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2021-06-22 |  |
 | [Fireworks](https://open.spotify.com/track/31WeEx1YCcuWP8tnf7Yi8w) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 1:50 | 2021-06-22 |  |
 | [Fireworks Song](https://open.spotify.com/track/0aBKDOyeSUpLAITMp7oD6Q) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/6rvdxo8ELO613Vwh4g7VI5) | 1:02 | 2021-06-22 | 2022-10-14 |
-| [Fireworks Song](https://open.spotify.com/track/1JLbYbuSoUUu8S6O3lQWC5) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/55xej9hDGebVfzefdo53Y3) | 1:02 | 2022-06-28 |  |
+| [Fireworks Song](https://open.spotify.com/track/1JLbYbuSoUUu8S6O3lQWC5) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/55xej9hDGebVfzefdo53Y3) | 1:02 | 2022-06-28 | 2022-11-24 |
+| [Fireworks Song](https://open.spotify.com/track/1j0Chd2a3LyrJ2NGBc1Ubn) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/1Tmjp6UzYvGNaQCXR1uOxR) | 1:02 | 2022-06-28 |  |
 | [Fireworks!](https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Year in the Day](https://open.spotify.com/album/3dH8eSwObAiv9csvShIC7Z) | 3:00 | 2021-06-22 |  |
 | [Fireworks!](https://open.spotify.com/track/2mwoW56fl8WR1x6JmcqW1a) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Favorite American Patriotic Songs for Kids](https://open.spotify.com/album/5gJ8ypDYryTPd9UG1pJFgd) | 1:03 | 2021-06-22 |  |
 | [Fourth of July \- 2015 Version](https://open.spotify.com/track/4y4thwlaN6YcT3vOvOslDI) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Favorite American Patriotic Songs for Kids](https://open.spotify.com/album/5gJ8ypDYryTPd9UG1pJFgd) | 1:15 | 2021-06-22 |  |
@@ -65,7 +66,8 @@
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2022-06-28 |  |
 | [Steal My Sunshine](https://open.spotify.com/track/7ywqOIgIAcR2Gu8ITxuXTg) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 4:25 | 2022-06-28 | 2022-11-13 |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2021-06-22 |  |
-| [Sunscreen](https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5) | 1:23 | 2022-06-28 |  |
+| [Sunscreen](https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5) | 1:23 | 2022-06-28 | 2022-11-24 |
+| [Sunscreen](https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH) | 1:23 | 2022-06-28 |  |
 | [Sunscreen](https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Let's Dance](https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps) | 1:23 | 2021-06-22 | 2022-10-13 |
 | [The Other Side](https://open.spotify.com/track/6cN7DMetKweuV7GZ5htak4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:08 | 2021-06-22 |  |
 | [The United States Where Freedom Rings](https://open.spotify.com/track/2dkSS53ACmE7OFBDqa41OQ) | [Jeography](https://open.spotify.com/artist/5l2nxUCCFQtdomhQ8ldeOB) | [Geography Songs for This Planet](https://open.spotify.com/album/4GrgdZjtFrmanopz1ANjvg) | 7:43 | 2021-06-22 |  |

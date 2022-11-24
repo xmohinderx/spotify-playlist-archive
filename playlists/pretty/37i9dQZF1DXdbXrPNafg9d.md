@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Tennis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,171 likes - 199 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,685 likes - 199 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 9 | [feel good](https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [rock candy](https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9) | 2:24 |
 | 10 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
 | 11 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
-| 12 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 |
+| 12 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 |
 | 13 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 |
 | 14 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 |
 | 15 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 56 | [Never Learned To Dance](https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI) | 3:44 |
 | 57 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 |
 | 58 | [Big](https://open.spotify.com/track/10DOeEQX4RDjk9XgtYjZ3h) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Man\-Made Sunshine](https://open.spotify.com/album/5lkUMCGnOAsAZvPjjQy6nZ) | 3:44 |
-| 59 | [Time Flows](https://open.spotify.com/track/6AdNCJgN1w0Yw77pzvbtoI) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [How Long Will It Take](https://open.spotify.com/album/4Tp6SUfBcYkLGiAt8t9nHh) | 3:38 |
+| 59 | [Time Flows](https://open.spotify.com/track/6XYQw8sw9hFZTZy1ktC8Ld) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [How Long Will It Take](https://open.spotify.com/album/1tIigjQR8DdaNzJ4V4opEh) | 3:38 |
 | 60 | [violet](https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [violet](https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc) | 3:07 |
 | 61 | [Lady Luck](https://open.spotify.com/track/6pQiyXrsF52SxKhOgrmz4I) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Lady Luck](https://open.spotify.com/album/5v6p29qDlKco2PN1GfOmnI) | 3:26 |
 | 62 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [Touchdown](https://open.spotify.com/track/6kqbiPlctyDu20K8juNgd1) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Please Have A Seat](https://open.spotify.com/album/1yBhhNIe3FKYZA8J3ds0vf) | 2:09 |
 | 199 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDc2MWUxMTE0M2E1MjA5NDQxMGY1NTRjZjdhYTY5ZDM2`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGQ4NDQxZjUxYTk2NTVkZDJkZWE5NzRjNjk3NDk5ODg3`

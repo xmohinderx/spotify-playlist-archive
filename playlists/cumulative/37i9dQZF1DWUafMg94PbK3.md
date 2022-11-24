@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-101 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
+102 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Trucks](https://open.spotify.com/track/0zcMjwUeRuhCSOUflcJ3y1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl) | 2:56 | 2019-10-29 |  |
 | [Trucks](https://open.spotify.com/track/6ZmcrgCpnJ0wBumxHQTrQ1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/43RB81zUywXWyPpFBEvxU0) | 2:56 | 2019-10-29 | 2022-07-29 |
 | [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2019-10-29 | 2022-10-13 |
-| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2019-10-29 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/4vqJOsFbTHr2GgQuCFn8Jj) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:54 | 2019-10-29 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2019-10-29 | 2022-11-24 |
 | [Vroom Goes the Red Race Car](https://open.spotify.com/track/0lmaLEqdTZu5flBvcmJGx3) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [I Can Do It!](https://open.spotify.com/album/2vAisqjcxnZYDnbll8Z6q1) | 2:02 | 2019-10-29 |  |
 | [Wheels In The City](https://open.spotify.com/track/7oRnunrwZCnDomjCvivJFm) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:51 | 2019-10-29 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/6fWbq3vHFs1Ggorg8JkJ23) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Wheels On The Bus](https://open.spotify.com/album/3di2EUUcC0LEP3JV9NlqOW) | 1:41 | 2020-08-07 |  |

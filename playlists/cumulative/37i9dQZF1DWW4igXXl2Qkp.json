@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
+    },
+    {
+      "album": {
         "name": "7.62 Freestyle",
         "url": "https://open.spotify.com/album/4Ky21UDvOMJiV20cbCDosU"
       },
@@ -5640,6 +5658,24 @@
     },
     {
       "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk"
+      },
+      "artists": [
+        {
+          "name": "JoeLew",
+          "url": "https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Manners",
+      "url": "https://open.spotify.com/track/1Zn1ycpMKgxmpsjV923JgB"
+    },
+    {
+      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/5yA3Dxs5IxVxQMFLZFEp2j"
       },
@@ -6004,6 +6040,28 @@
     },
     {
       "album": {
+        "name": "Money Counter Music Vol. 2: Born In It",
+        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
+    },
+    {
+      "album": {
         "name": "Turtle Crossing",
         "url": "https://open.spotify.com/album/1IjVN39eXQyaxgG6wVJYQA"
       },
@@ -6338,6 +6396,28 @@
     },
     {
       "album": {
+        "name": "Emotional Gangsta",
+        "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
+      },
+      "artists": [
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263636,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
+    },
+    {
+      "album": {
         "name": "N.E.Z",
         "url": "https://open.spotify.com/album/47pbqev9ApM3MN9JtM2fYu"
       },
@@ -6603,7 +6683,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 131830,
       "name": "NO TELLIN",
       "url": "https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs"
@@ -8187,7 +8267,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 184186,
       "name": "SINCERELY",
       "url": "https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa"
@@ -8827,7 +8907,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 129866,
       "name": "TAKE R U OK",
       "url": "https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx"
@@ -9541,7 +9621,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 150836,
       "name": "Vanish",
       "url": "https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc"

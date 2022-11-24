@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-365 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+366 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
 | [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 |  |
 | [Firebird](https://open.spotify.com/track/4HeTO68jodyeWHHIgdytwr) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Jukebox 80s](https://open.spotify.com/artist/2O6IhsrW35MUzqmq5UVVKl) | [Firebird](https://open.spotify.com/album/72ophLrmWPbHAt8j56YHdF) | 3:38 | 2022-04-01 | 2022-04-21 |
-| [Firefall](https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Firefall](https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L) | 2:48 | 2022-07-22 |  |
+| [Firefall](https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Firefall](https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L) | 2:48 | 2022-07-22 | 2022-11-24 |
 | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Dora Pereli](https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC), [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT) | 3:52 | 2022-09-23 |  |
 | [Flashing Sirens](https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4), [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Flashing Sirens](https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf) | 2:42 | 2021-10-15 |  |
 | [Flight](https://open.spotify.com/track/5I9K0eZ8dT8dzzK973XQkK) | [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [Flight](https://open.spotify.com/album/4lp6QsrXTu9GEBgEUQVHQY) | 3:20 | 2022-02-04 | 2022-05-02 |
@@ -228,6 +228,7 @@
 | [Nightride \(Revisited\)](https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Nightride \(Revisited\)](https://open.spotify.com/album/4KgD1C3DcKXewelKAuZ1xs) | 4:12 | 2021-10-15 | 2022-07-29 |
 | [Nightride \(Revisited\)](https://open.spotify.com/track/7aAyeih2OelKpPkuLOesWX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Éternité Pt\. 2](https://open.spotify.com/album/2ZawllkUzaqxRnPhtUtG8b) | 4:12 | 2022-07-22 |  |
 | [Nighttime \- Polyark Remix](https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [Polyark](https://open.spotify.com/artist/4tNPuwPvY7Yi29m9enFmIP) | [Nighttime \(Polyark Remix\)](https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh) | 3:57 | 2021-10-15 | 2022-05-28 |
+| [no time like tomorrow](https://open.spotify.com/track/3Hp3FOk6nVedCUADguOdn8) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [no time like tomorrow](https://open.spotify.com/album/4nTcZGPEdnlmFoKbAaqpRy) | 2:53 | 2022-11-24 |  |
 | [Nomad City](https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8) | [Phaserland](https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715) | [Cosmic Boundaries](https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw) | 4:53 | 2022-04-01 |  |
 | [Northern Sky \- Dusky Remix](https://open.spotify.com/track/0xrxfza8oO7xCHvkVgVMPP) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Northern Sky \(Dusky Remix\)](https://open.spotify.com/album/5YPbhMGxBR5Abd3gOujpMY) | 5:25 | 2021-10-15 | 2022-01-26 |
 | [Nostalgia](https://open.spotify.com/track/6yeIdMq9nowvqdhWZoor9i) | [Section303](https://open.spotify.com/artist/6xLf7EVilWyWRunM3VQQWh) | [Nostalgia](https://open.spotify.com/album/7zLBSYwoQk1UerLgwVzaDY) | 7:28 | 2021-10-15 | 2022-03-18 |

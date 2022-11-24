@@ -1381,6 +1381,28 @@
     {
       "album": {
         "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/6QcDKB0L4Hr2LcyPLLQFlP"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/1aZ2te6hhXVJOYumYrZkAt"
+    },
+    {
+      "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
         "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
       },
       "artists": [
@@ -2041,7 +2063,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 152227,
       "name": "Flowers On The Weekend",
       "url": "https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ"
@@ -4575,7 +4597,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 208960,
       "name": "Phone Won't Charge",
       "url": "https://open.spotify.com/track/2GVePc9EmYLK70NW7aqWjr"
@@ -5207,6 +5229,40 @@
       "duration_ms": 216124,
       "name": "SRS",
       "url": "https://open.spotify.com/track/6eARmBRQqt4BkuRsDt87zZ"
+    },
+    {
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Pedro Retro",
+          "url": "https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP"
+        },
+        {
+          "name": "Meron T",
+          "url": "https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
     },
     {
       "album": {

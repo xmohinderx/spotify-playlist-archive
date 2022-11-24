@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066,912 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,559 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 36 | [Bring It On Down](https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Bring It On Down](https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE) | 7:12 |
 | 37 | [Rave The Planet](https://open.spotify.com/track/3w5ugWaYMy17jjyUXNA7yq) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq), [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Rave the Planet: Supporter Series, Vol\. 009](https://open.spotify.com/album/6grK3BlB8R5rUPQ4027YH8) | 6:47 |
 | 38 | [Bring Me Up](https://open.spotify.com/track/2dOdWpX2Bipo5suEnchffo) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Bring Me Up EP](https://open.spotify.com/album/76SdE7SogrA4DjCj15ISHN) | 5:46 |
-| 39 | [Destroy DNA](https://open.spotify.com/track/7A7M8amFsmKsWNERTJeHmO) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Confusion](https://open.spotify.com/album/7bBAsje71VeKolIaSYnaVJ) | 5:05 |
+| 39 | [Destroy DNA](https://open.spotify.com/track/3ZgmxuPgPWwqxy3Qozdr2H) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Confusion](https://open.spotify.com/album/7d3pzKvMvmLmZaBymFUVke) | 5:05 |
 | 40 | [Simplicity](https://open.spotify.com/track/4pM9FUA8bvHMc3VuL9GgUT) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Simplicity](https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB) | 6:41 |
 | 41 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
 | 42 | [Follow](https://open.spotify.com/track/4WvfqOcx8jQEeJVKnZ9KgG) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Follow](https://open.spotify.com/album/7CB2cNckoeR1JcBvEBdc4u) | 5:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Back for Rave \- Original Mix](https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Back for Rave](https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE) | 7:18 |
 | 60 | [Gilgamesh](https://open.spotify.com/track/7vmXmhia1MFqu8t3IAYOkP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Fabio Neural](https://open.spotify.com/artist/18gG21ZrYo2Iq6jeobmdRj) | [Gilgamesh](https://open.spotify.com/album/5vjiZbJumXYEWM9d9Qouol) | 4:44 |
 
-Snapshot ID: `MTY2ODE3NjE4NiwwMDAwMDAwMDNmNDI1MjRlNGZhOTI1MzJmNGQ1YjQ2ZDVkYmQ0YjA4`
+Snapshot ID: `MTY2ODE3NjE4NiwwMDAwMDAwMGQ1YmY5NDc0MGY3ZjFjNDdlMDk5M2FmZjEwZWNiYTc1`

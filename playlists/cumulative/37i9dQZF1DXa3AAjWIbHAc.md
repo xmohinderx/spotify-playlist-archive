@@ -4,7 +4,7 @@
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-68 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1OgpPyML5myLe45yi0Ja1t)
+69 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/1OgpPyML5myLe45yi0Ja1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2020-04-22 |  |
 | [Baby Shark](https://open.spotify.com/track/571Jz87ytvwTv205mToeaG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Presents: The Best of Baby Shark](https://open.spotify.com/album/3QzOkjbkCXewXdy8VuZQan) | 1:24 | 2020-04-22 |  |
 | [Best Day \(Angry Birds 2 Remix\)](https://open.spotify.com/track/2eh4qe6wmq7he6O76CS0o3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Best Day \(Angry Birds 2 Remix\)](https://open.spotify.com/album/5x9vJFGBCTnxu8gcG4xoTd) | 2:59 | 2020-04-22 |  |
+| [Bop!](https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt) | 2:36 | 2020-04-22 |  |
 | [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2020-04-22 | 2022-10-13 |
-| [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2020-04-22 |  |
+| [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2020-04-22 | 2022-11-24 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2020-04-22 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2020-04-22 | 2022-07-29 |
 | [Building a Dream](https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 0:46 | 2020-04-22 |  |

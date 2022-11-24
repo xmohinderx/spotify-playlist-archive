@@ -13230,6 +13230,24 @@
     },
     {
       "album": {
+        "name": "Great (or Happy) / Heart is a Fire",
+        "url": "https://open.spotify.com/album/3UlvKdNdyyU0tsEqWdnZUE"
+      },
+      "artists": [
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/2lU88iOnkMlPPy6hAhkXr0"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Heart is a Fire",
+      "url": "https://open.spotify.com/track/4F95pvr4rRr7uVDIrW7eZ6"
+    },
+    {
+      "album": {
         "name": "Hearts Glow",
         "url": "https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd"
       },

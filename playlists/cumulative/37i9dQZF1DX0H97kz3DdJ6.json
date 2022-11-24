@@ -1385,10 +1385,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 216000,
       "name": "Monstro",
       "url": "https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR"
+    },
+    {
+      "album": {
+        "name": "Monstro",
+        "url": "https://open.spotify.com/album/2aKAOqDAK1jZegtyIiVO16"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Monstro",
+      "url": "https://open.spotify.com/track/4EH1497hGrC9rDdok3qQ4N"
     },
     {
       "album": {

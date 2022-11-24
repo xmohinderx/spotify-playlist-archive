@@ -4,7 +4,7 @@
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-165 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+166 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Magnum Opus: Father Padilla Meets the Perfect Gnat / Howling at the Moon / Man Overboard / Industry on Parade / Release the Beavers / Gnat Attack](https://open.spotify.com/track/3pPe5vc5aYV2cdUt11H54h) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 8:25 | 2018-09-28 |  |
 | [Mass\-Media Stars](https://open.spotify.com/track/0UxN8cUUjeZEIfpNu0iikf) | [Acqua Fragile](https://open.spotify.com/artist/3NjMlHgOao6SwYOdLQLwTt) | [Mass\-Media Stars](https://open.spotify.com/album/11hyZEEfhJE60wcWnBr5ng) | 6:53 | 2018-09-28 |  |
 | [Metal Fatigue](https://open.spotify.com/track/5MuakbsE1D8gC7FSGZCd2J) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Metal Fatigue](https://open.spotify.com/album/36nBevICmaVMeftfMGWhqp) | 4:56 | 2018-09-28 | 2022-07-29 |
-| [Metal Fatigue \- Remastered](https://open.spotify.com/track/3KYoU0LxHMkNUsIcXPjP8l) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Metal Fatigue \(Remastered\)](https://open.spotify.com/album/2rDyArQ8dVp7Hwicvo7LVN) | 4:56 | 2018-09-28 |  |
+| [Metal Fatigue \- Remastered](https://open.spotify.com/track/3KYoU0LxHMkNUsIcXPjP8l) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Metal Fatigue \(Remastered\)](https://open.spotify.com/album/2rDyArQ8dVp7Hwicvo7LVN) | 4:56 | 2018-09-28 | 2022-11-24 |
 | [Metal Fatigue \- Remastered](https://open.spotify.com/track/36SnrnZq5Ne8VMAmY7jGG9) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Eidolon](https://open.spotify.com/album/7zMOPqG8jkzCstd98aqgCF) | 4:57 | 2018-09-28 | 2022-11-13 |
+| [Metal Fatigue \- Remastered](https://open.spotify.com/track/7zSwlR4q02oXqNqLLn1tGZ) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Eidolon](https://open.spotify.com/album/6oNGuMXPevvHmRFBUrfhzM) | 4:57 | 2018-09-28 |  |
 | [Minstrel in the Gallery \- Steven Wilson Stereo Remix](https://open.spotify.com/track/2kRpkk3oY49KcFLzINA2s9) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Minstrel in the Gallery \(40th Anniversary Edition\)](https://open.spotify.com/album/7hqwHciaHozB8o4vC4szId) | 8:18 | 2018-09-28 |  |
 | [Natural Science](https://open.spotify.com/track/65ZVM2RDxqnQHk4Xp9ebOG) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/2gHaOUnuXm0VheySMhvImb) | 9:17 | 2018-09-28 | 2022-07-29 |
 | [Natural Science](https://open.spotify.com/track/3sFgH9hqMB6cySLWJOGAJ4) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 9:19 | 2018-09-28 |  |

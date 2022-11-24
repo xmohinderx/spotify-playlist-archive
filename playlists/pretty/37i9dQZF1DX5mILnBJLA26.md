@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=fTVrKzn\_Tp2QNxR23oyxHA">Focalistic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,318 likes - 55 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,246 likes - 55 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

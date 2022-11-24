@@ -1310,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i"
+      },
+      "artists": [
+        {
+          "name": "iFeature",
+          "url": "https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT"
       },

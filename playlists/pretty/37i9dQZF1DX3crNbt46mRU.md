@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Pharrell Williams, Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,793 likes - 103 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,826 likes - 103 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 42 | [Amber](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Amber](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 |
 | 43 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
 | 44 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
-| 45 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 |
+| 45 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 |
 | 46 | [BELLA FREGATURA](https://open.spotify.com/track/2WCxbRxzTDAza5wEBrmWJV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:54 |
 | 47 | [Gone Girl](https://open.spotify.com/track/7DVExWnUrXWfG2BoPSVuIV) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [A Means To An End](https://open.spotify.com/album/4PNJUaEtXtEDNgg7a7YOko) | 2:18 |
 | 48 | [Renne](https://open.spotify.com/track/1EjbUHdYjVMhgu1gN3oZa2) | [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Kkuba102](https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Addikt102](https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7) | [Renne](https://open.spotify.com/album/6zG5o2AyOVfH8I0wCgyLEW) | 2:35 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 102 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
 | 103 | [United Women of the World](https://open.spotify.com/track/54I1VfpnQeQ5z95pgxy1KR) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [United Women of the World](https://open.spotify.com/album/2zgCWXc6S1XjekccSxh06q) | 3:10 |
 
-Snapshot ID: `MTY2ODc1MzQ3NiwwMDAwMDAwMDg3ZjU1NGI5ZWU2YmE5MjkyZDYwMTc5NWMzMDljZDk2`
+Snapshot ID: `MTY2ODc1MzQ3NiwwMDAwMDAwMDkxZWNhMWRmMzY5ZDI4ZTMzOTUyMDFiYmRiYjE4YTY4`

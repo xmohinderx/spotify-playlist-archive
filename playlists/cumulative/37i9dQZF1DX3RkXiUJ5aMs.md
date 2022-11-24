@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-79 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
+80 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Like Your Father Does](https://open.spotify.com/track/01sp6Y15giMIY7tnJJgJXa) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Like Your Father Does](https://open.spotify.com/album/547uPgmyiBaSKUKVp7yuR5) | 3:50 | 2021-06-18 |  |
 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 | 2021-06-18 |  |
 | [Measure Of A Man](https://open.spotify.com/track/0ZaENjfbDHRnYMJxP1JHvU) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [This Is It \(Standard Version\)](https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq) | 3:15 | 2021-06-18 |  |
-| [My Father's Eyes](https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 5:23 | 2022-06-10 |  |
+| [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 | 2022-06-10 |  |
+| [My Father's Eyes](https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 5:23 | 2022-06-10 | 2022-11-24 |
 | [My Father's Eyes](https://open.spotify.com/track/46qmhckPWhcfBhw4hagOOS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 5:23 | 2021-06-18 | 2022-10-17 |
 | [My Father's World](https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deep](https://open.spotify.com/album/5tPtzi6wZupV9wQcpdb5yV) | 2:43 | 2021-06-18 |  |
 | [My Little Girl](https://open.spotify.com/track/3dNhdwu8RcaVdrDZ1cAtzx) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:38 | 2022-06-10 |  |

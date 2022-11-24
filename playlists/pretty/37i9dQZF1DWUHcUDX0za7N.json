@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=EllDDQAVS4yqcJZIYteRcg\" > Blaqbonez </a> ",
-  "num_followers": 12101,
+  "num_followers": 12145,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMDAwMjc0MjMyZDUwZWNmZDIxZmY3ZTk1YzExOWEwODNj",
+  "snapshot_id": "MTY2ODc3MTYyMiwwMDAwMDAwMDk2MmVjOTkxNTMxNjRiZjFjMjlmYWM1ODJiMDU2NGIw",
   "tracks": [
     {
       "added_at": "2022-10-07 00:35:02",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
-      "album": {
-        "name": "LITTLE & LEGENDARY",
-        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Culture",
@@ -719,6 +703,22 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
+    },
+    {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "LITTLE & LEGENDARY",
+        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
     },
     {
       "added_at": "2022-10-28 12:56:05",
@@ -789,6 +789,34 @@
       "url": "https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
       "added_at": "2022-09-01 23:00:00",
       "album": {
         "name": "The Lost Boy",
@@ -823,34 +851,6 @@
       "duration_ms": 131478,
       "name": "MIDLIFE CRISIS",
       "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5"
       },
@@ -993,26 +1013,6 @@
       "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Odumodublvck",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Moving Mad",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA"
       },
       "artists": [
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+      "duration_ms": 194000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1091,26 +1095,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA"
-      },
-      "artists": [
-        {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Symbiosis",
         "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
       "added_at": "2022-07-07 23:00:00",

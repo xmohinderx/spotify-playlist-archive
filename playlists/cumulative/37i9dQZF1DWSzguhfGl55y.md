@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-105 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
+106 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/1NRRCoL4dsZRszrXPBTXqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Geld essen \(Ausgestopfte Rapper\)](https://open.spotify.com/track/3XF0cYK2BONGGrPEYpE17B) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 4:20 | 2022-03-17 | 2022-07-15 |
 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 | 2022-06-13 | 2022-07-06 |
 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 | 2022-06-13 | 2022-07-04 |
-| [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 | 2022-03-17 | 2022-07-26 |
+| [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 | 2022-03-17 |  |
 | [Hey Du!](https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 4:10 | 2022-03-17 | 2022-07-29 |
 | [Hey Du!](https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Aggro Berlin](https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr) | 4:10 | 2022-09-21 |  |
 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 | 2022-07-21 |  |
@@ -65,12 +65,13 @@
 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 | 2022-03-17 |  |
 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 | 2022-07-21 |  |
 | [Klar](https://open.spotify.com/track/4NoS6rrdfwBBJNrQnosub4) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/7zYtjWZ8CZeIUUUrEWi7cP) | 4:55 | 2022-03-17 | 2022-07-29 |
-| [Kokaina](https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Kokaina](https://open.spotify.com/album/40CYJrASNrMCDr2x4UE60E) | 3:21 | 2022-07-21 |  |
+| [Kokaina](https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Kokaina](https://open.spotify.com/album/40CYJrASNrMCDr2x4UE60E) | 3:21 | 2022-07-21 | 2022-11-24 |
+| [Kokaina](https://open.spotify.com/track/6bN6XXylz4unPfOCBIg0z5) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Casia Deluxe](https://open.spotify.com/album/5ItD2QsELr1OxcZPr9NvuE) | 3:21 | 2022-11-21 |  |
 | [Kompass ohne Norden](https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/6ZcglelPRZIyIQ0jnFpZeT) | 4:12 | 2022-03-17 | 2022-11-20 |
 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4) | 10:01 | 2022-07-21 |  |
 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/5TaMg5ybrcgprrccG17r0q) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/32QmMim9bP5fxhz2Iiknjm) | 10:01 | 2022-03-17 | 2022-07-29 |
 | [Let's Go](https://open.spotify.com/track/1EebWRQAfXwltoDXH2QVK5) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Deluxe Records \- Let's Go](https://open.spotify.com/album/64hi8ncvzVl16X6b5QG2Ff) | 2:48 | 2022-03-17 | 2022-07-25 |
-| [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 | 2022-07-13 |  |
+| [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 | 2022-07-13 | 2022-11-24 |
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2022-07-21 |  |
 | [Lila Wolken](https://open.spotify.com/track/3CT1nhEnqol4rHIdwD7Rr7) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu) | [Lila Wolken](https://open.spotify.com/album/3eXd6Kkk6nOYEbWhaivXH3) | 3:48 | 2022-03-17 | 2022-07-29 |
 | [Mein Block \(Beathoavenz Video Rmx\)](https://open.spotify.com/track/3ChqYKTyYIpK3jYd6kfN4D) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mein Block Remix](https://open.spotify.com/album/4jWszl7frUZyflSXaSNY3U) | 5:00 | 2022-03-17 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-201 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
+202 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 | 2022-08-30 |  |
 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 | 2022-08-30 |  |
 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 | 2020-11-06 | 2022-08-31 |
-| [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 | 2022-09-08 |  |
+| [Sweet Harmonies](https://open.spotify.com/track/3eru26MhCX1DcTEdYvEmBz) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/5PuA4W4jFM4ZBhWzOkVK00) | 2:58 | 2022-10-25 |  |
+| [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 | 2022-09-08 | 2022-11-24 |
 | [Talk The Talk](https://open.spotify.com/track/31sZZa7txh9gwIU6ak68rx) | [Monsieur Crème](https://open.spotify.com/artist/0XgghR1qpXy2fEWW03JSea) | [Talk The Talk](https://open.spotify.com/album/10rL3DBwnSK8nStu907O5r) | 2:15 | 2022-08-30 |  |
 | [The Bulldog](https://open.spotify.com/track/7iYlacahYFEKx8cpRNC2Tx) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [The Bulldog](https://open.spotify.com/album/3HIV2UOXcao1UrJKAEgAcb) | 3:04 | 2020-10-20\* | 2022-08-31 |
 | [The Hype](https://open.spotify.com/track/1IksaRdqvnduRQqNRMdZTn) | [Cookie Jar](https://open.spotify.com/artist/3pMW594atvqTgp3Uj1IpGF) | [The Hype](https://open.spotify.com/album/2dmelaRBBhf0RoL2iZIz4M) | 2:37 | 2020-10-20\* | 2020-11-06 |

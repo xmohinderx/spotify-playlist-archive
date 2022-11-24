@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 218400,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 163200,
       "name": "LA MOLINA",
       "url": "https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB"
@@ -1768,6 +1768,24 @@
     },
     {
       "album": {
+        "name": "BLUE 2000",
+        "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
+    },
+    {
+      "album": {
         "name": "Luv on Me",
         "url": "https://open.spotify.com/album/3EMqEtsqiz6izL7LV6kG4z"
       },
@@ -1889,6 +1907,24 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "album": {
+        "name": "Invisible People",
+        "url": "https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Moment of Joy",
+      "url": "https://open.spotify.com/track/2yvZamzwXZAtxdmPPtEtb1"
     },
     {
       "album": {

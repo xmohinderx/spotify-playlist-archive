@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521356,
+  "num_followers": 521494,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDc0NWQwY2U3NTEwOTIyODk1NjExYzg3M2YzN2ViNjJk",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDJhN2M4MGQzYjU1NDQ0OGQzNDg2YjVkZjM5OTJiYmJm",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 200189,
       "name": "Ghost in My Home",
       "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
         }
       ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -927,6 +911,22 @@
       "duration_ms": 204253,
       "name": "Lavender Bones",
       "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -997,6 +997,26 @@
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
+      "added_at": "2021-07-08 22:59:55",
+      "album": {
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+    },
+    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Into the Raging Sea",
@@ -1029,22 +1049,6 @@
       "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "Joy as an Act of Resistance.",
@@ -1061,24 +1065,20 @@
       "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
         }
       ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Love and Loathing",
         "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lips Like Oxygen",
-        "url": "https://open.spotify.com/album/40DudVPACBmM5CAPbfamkC"
-      },
-      "artists": [
-        {
-          "name": "Oh, Weatherly",
-          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
-        }
-      ],
-      "duration_ms": 199181,
-      "name": "Here Tonight",
-      "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 146436,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Lips Like Oxygen",
+        "url": "https://open.spotify.com/album/40DudVPACBmM5CAPbfamkC"
+      },
+      "artists": [
+        {
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
+        }
+      ],
+      "duration_ms": 199181,
+      "name": "Here Tonight",
+      "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
     },
     {
       "added_at": "2020-11-20 21:27:18",

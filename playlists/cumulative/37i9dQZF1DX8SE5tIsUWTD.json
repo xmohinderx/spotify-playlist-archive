@@ -720,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "El Bahr Azra",
+      "url": "https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s"
+    },
+    {
+      "album": {
         "name": "El Donia Risha F Hawa",
         "url": "https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5"
       },
@@ -789,7 +807,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 272773,
       "name": "Endak Haq",
       "url": "https://open.spotify.com/track/3pFQBpMhzjsfi7NlMiQD3k"
@@ -1119,6 +1137,24 @@
     {
       "album": {
         "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Freh Kodja",
+          "url": "https://open.spotify.com/artist/5AQB5zVjgRwrYlFPLrf6UH"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "La Coladera",
+      "url": "https://open.spotify.com/track/5HswfTgBIUkfAVHEeNHgSB"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
         "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
       },
       "artists": [
@@ -1407,7 +1443,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 163706,
       "name": "Mustapha",
       "url": "https://open.spotify.com/track/3QkGwYyVrlGnPx7AQPrf9M"

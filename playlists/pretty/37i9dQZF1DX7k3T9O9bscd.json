@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 317247,
+  "num_followers": 317569,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUzMDM1MiwwMDAwMDAwMDA3MDI2ODE1ZTExYmNlMmQ1ODc0YmI4ZmZmNzA3ODgx",
+  "snapshot_id": "MTY2ODUzMDM1MiwwMDAwMDAwMDdlNTY4N2JjYTAwOTZjZTVlODg5MDRjMjhkYTBmMDYw",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -667,6 +667,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
       "artists": [
         {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+      "duration_ms": 214533,
+      "name": "Who dreams of cats?",
+      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -727,22 +743,6 @@
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Who dreams of cats?",
-      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
     },
     {
-      "added_at": "2022-09-03 04:25:40",
-      "album": {
-        "name": "P\u00e5 knivan",
-        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
-      },
-      "artists": [
-        {
-          "name": "Sammal",
-          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
-        }
-      ],
-      "duration_ms": 209907,
-      "name": "P\u00e5 knivan",
-      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Death Hawks",
@@ -959,6 +943,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2022-09-03 04:25:40",
+      "album": {
+        "name": "P\u00e5 knivan",
+        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
+      },
+      "artists": [
+        {
+          "name": "Sammal",
+          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
+        }
+      ],
+      "duration_ms": 209907,
+      "name": "P\u00e5 knivan",
+      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "The Exorcist GBG",
-        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
-      },
-      "artists": [
-        {
-          "name": "The Exorcist GBG",
-          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236000,
       "name": "Time Bazaar",
       "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
+      },
+      "artists": [
+        {
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
     },
     {
-      "added_at": "2022-04-23 01:59:48",
-      "album": {
-        "name": "Youth Accomplished",
-        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
-      },
-      "artists": [
-        {
-          "name": "Seabiscuit",
-          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Youth Accomplished",
-      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "V.",
@@ -1231,6 +1215,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2022-04-23 01:59:48",
+      "album": {
+        "name": "Youth Accomplished",
+        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+      },
+      "artists": [
+        {
+          "name": "Seabiscuit",
+          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "Youth Accomplished",
+      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

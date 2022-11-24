@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-322 songs - 1 day 5 hr 18 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+323 songs - 1 day 5 hr 25 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Centauri](https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Centauri](https://open.spotify.com/album/71rGeKZKoGy6aLSshQyCbG) | 3:30 | 2022-02-21 |  |
 | [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-05-03 | 2022-11-16 |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-21 | 2022-10-18 |
+| [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-10-28 |  |
 | [Change The Line](https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Change The Line EP](https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs) | 7:17 | 2021-12-08 | 2022-11-23 |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Coyhaique](https://open.spotify.com/track/3voYKTZwwDFjtae7VdJocv) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/293qGUGPIbGmdYZAkIoRtC) | 6:32 | 2022-05-03 |  |
@@ -264,7 +265,7 @@
 | [Sumatra \- Lstn Remix](https://open.spotify.com/track/23jieIC481GBJSSisCISOj) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sumatra \(Lstn Remix\)](https://open.spotify.com/album/0VDPMeq01iUSHoUOm5CGef) | 3:21 | 2021-12-08 | 2022-02-22 |
 | [Summer Rain](https://open.spotify.com/track/4xA4HIVl08B1IDq3SwmCVH) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Summer Rain](https://open.spotify.com/album/6zNp7UCCpgvmKJOkdgzBtF) | 6:12 | 2021-12-08 | 2022-07-29 |
 | [Summer Rain](https://open.spotify.com/track/5yBxMXMHbNiQWFeSezo9aK) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Happiness Therapy LP01: The Coast](https://open.spotify.com/album/4ytb58q7lOb96ruA1sEVCK) | 6:12 | 2022-05-03 |  |
-| [Sun](https://open.spotify.com/track/2k4Fi92cj9ek4twS3uzckQ) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN) | [Sun](https://open.spotify.com/album/6qS7LxyPsB0jPOZ9aQc3wn) | 3:09 | 2022-10-28 |  |
+| [Sun](https://open.spotify.com/track/2k4Fi92cj9ek4twS3uzckQ) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN) | [Sun](https://open.spotify.com/album/6qS7LxyPsB0jPOZ9aQc3wn) | 3:09 | 2022-10-28 | 2022-11-24 |
 | [Sun Salutations](https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Sun Salutations EP](https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss) | 8:04 | 2021-12-08 |  |
 | [Sunday Afterglow](https://open.spotify.com/track/2Q6raM7fnrzaN8qDOj00VF) | [C.Vogt](https://open.spotify.com/artist/2XF2p5UcFOtNOB7vj45zEG), [Patrick Jeremic](https://open.spotify.com/artist/4nixajrQNA6kBkQar8yPr6) | [Diperin EP](https://open.spotify.com/album/6TaRqP26rF2ufuN9HL45jb) | 9:00 | 2021-12-08 | 2022-07-29 |
 | [Sunrays](https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr) | 3:51 | 2021-12-08 |  |

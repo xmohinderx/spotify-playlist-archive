@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Pharrell Williams, Travis Scott
 
-4,194 songs - 8 day 22 hr 36 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+4,195 songs - 8 day 22 hr 40 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3858,7 +3858,8 @@
 | [Versager](https://open.spotify.com/track/3iZuI8q4aTMACYxEoq0TaV) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Versager](https://open.spotify.com/album/7hWoeUu8CUj2Ec1AZ5Xe4d) | 3:03 | 2022-09-22 | 2022-09-30 |
 | [Versionen von dir](https://open.spotify.com/track/4UmniOQhXgaTNSMdBOy3MZ) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Versionen von dir](https://open.spotify.com/album/25ll7erc6VHq7cJr9bnbnO) | 4:39 | 2022-08-25 | 2022-09-02 |
 | [Versucht](https://open.spotify.com/track/4RLoD2FjNujTkHdTBtOz6f) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Versucht](https://open.spotify.com/album/4CHPpknoShkgsI4uRp9cgg) | 2:05 | 2022-07-07 | 2022-07-15 |
-| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-17 |  |
+| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-17 | 2022-11-24 |
+| [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-18 |  |
 | [Via](https://open.spotify.com/track/5JHwXqNnVE8YwJ2jDY4999) | [Liricas Analas](https://open.spotify.com/artist/5jkz9EwYPqPfknFOnhRnTH) | [LIRICAS ANALAS](https://open.spotify.com/album/4NshKmelEWfyIXQEW1djSo) | 3:07 | 2022-02-17 | 2022-02-25 |
 | [Vibe](https://open.spotify.com/track/1345lixPvSsrDaytZudbcW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Vibe](https://open.spotify.com/album/37GR1D7m1v5uewDf4oVPFZ) | 3:39 | 2022-09-01 | 2022-09-09 |
 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2022-09-22 | 2022-09-30 |

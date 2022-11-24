@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-107 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+108 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Joyfulness \- Elkka Remix](https://open.spotify.com/track/5fNtRyUHsHo3MxOJjLbUZy) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Joyfulness \(Elkka Remix\)](https://open.spotify.com/album/7CCMZG6G3DVWhmWuUV79cX) | 5:14 | 2021-10-15 | 2022-07-29 |
 | [Landing](https://open.spotify.com/track/7pEHO7i3BEC6v0CF8XC2VX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Landing](https://open.spotify.com/album/3IVFO2nbKNWY1rmxtJdNfz) | 4:13 | 2021-10-15 | 2022-07-28 |
 | [Liquid](https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Foundations](https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39) | 5:37 | 2021-10-15 | 2022-07-29 |
-| [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 |  |
+| [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 | 2022-11-24 |
 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 | 2021-10-15 |  |
 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 | 2021-10-15 |  |
 | [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 | 2021-10-15 | 2022-10-26 |
@@ -73,6 +73,7 @@
 | [Mesmerize](https://open.spotify.com/track/2hoWciuwh4cAdZFBQMo4x3) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Mesmerize](https://open.spotify.com/album/3fmY1pLcnvihoIjNzDO0X1) | 2:26 | 2021-10-15 |  |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2021-10-15 |  |
 | [No Reality](https://open.spotify.com/track/3oPrZEuRod8pkBTVkZ2csE) | [Akasha System](https://open.spotify.com/artist/0TuxD3IK2QvHwgvacDPk9Q) | [Temple Images](https://open.spotify.com/album/0cStw7VrYIrZ7QqOiBaAqN) | 4:29 | 2021-10-15 |  |
+| [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 | 2021-10-15 |  |
 | [Nobody New Around You](https://open.spotify.com/track/33OTdf4l4rnrAMIc6FPjh1) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [Nobody New Around You](https://open.spotify.com/album/7MQyqBx6A1JbidrUgYWveK) | 4:27 | 2021-10-15 | 2022-09-15 |
 | [Nocturnal Lady](https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Nocturnal Lady](https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe) | 5:04 | 2021-10-15 |  |
 | [Not The Same](https://open.spotify.com/track/662b8itZU1kjUkGPOufG5n) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Not The Same](https://open.spotify.com/album/2fUj2qngjwdJa44sZ1qr7T) | 3:07 | 2021-10-15 |  |

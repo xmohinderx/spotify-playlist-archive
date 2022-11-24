@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: spill tab",
-  "num_followers": 82642,
+  "num_followers": 82695,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDUyYjJiOTFlYjZhMTI4MDc1NTk0ZjRjZDE1NDQyZGU1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGZmZWEzYmVkNjBiZWIyZWU3ZTk1MTg1NzEyMzdlNGFj",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "spend the money (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -463,18 +447,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Mona Lisa, Mona Lisa",
-        "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 172111,
-      "name": "Mona Lisa, Mona Lisa",
-      "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -495,18 +479,34 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+        "name": "Mona Lisa, Mona Lisa",
+        "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
+      "duration_ms": 172111,
+      "name": "Mona Lisa, Mona Lisa",
+      "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "2am",
         "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 135297,
       "name": "Girls Make Me Wanna Die",
       "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1051,6 +1051,22 @@
       "duration_ms": 196560,
       "name": "Colour Me Blue",
       "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "It's Been So Long",
+        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 192541,
+      "name": "It's Been So Long",
+      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "It's Been So Long",
-        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 192541,
-      "name": "It's Been So Long",
-      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Blood Runs Red",
         "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 185944,
-      "name": "Wonderful Life - Edit",
-      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 192878,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "i wish you loved me",
         "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
       },
@@ -1383,6 +1351,54 @@
       "duration_ms": 124029,
       "name": "girls just wanna have sex",
       "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 145947,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 192878,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
+      "duration_ms": 173202,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Rats",
-        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 145947,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Bad Thing",
         "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 196592,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "To Let Go",
-        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 199263,
-      "name": "To Let Go",
-      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 199263,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "BREAK THE CURSE",
         "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 124564,
       "name": "Martian Man",
       "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi"
     },
     {
       "added_at": "2022-11-18 05:00:00",

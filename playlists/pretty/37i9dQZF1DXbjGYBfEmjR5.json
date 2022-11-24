@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 245750,
+  "num_followers": 246375,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMGIxMGQzNGQyMTU4NzY3MjNhYzhkZjk2MDZhZTFiOTI3",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMGFiMDUzMzVhMjhiMmFiZGRlNTBlOTczZDQyZjYyMmY3",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
+      },
+      "artists": [
+        {
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
+        }
+      ],
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Mari Iijima - Night Tempo presents The Showa Groove",
         "url": "https://open.spotify.com/album/0p880y8z907ga4mFt4abRD"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
       },
       "artists": [
         {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
         }
       ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -927,22 +943,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Super Groove Love Club",
-        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Super Groove Love Club",
-      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Super Groove Love Club",
+        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Super Groove Love Club",
+      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 153652,
       "name": "Show Me Your Moves",
       "url": "https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1411,26 +1411,6 @@
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "quarterback",
-        "url": "https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ"
-      },
-      "artists": [
-        {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
-        },
-        {
-          "name": "D 4 1 N",
-          "url": "https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw"
-        }
-      ],
-      "duration_ms": 222841,
-      "name": "quarterback",
-      "url": "https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1467,34 +1447,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "quarterback",
+        "url": "https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Asteriod",
-        "url": "https://open.spotify.com/album/69MxbIQjR3do4AcpCM2Ndp"
-      },
-      "artists": [
+          "name": "Versiple",
+          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+        },
         {
-          "name": "Chrylo",
-          "url": "https://open.spotify.com/artist/1aMHe9PtM7QWfGRccCrU5q"
+          "name": "D 4 1 N",
+          "url": "https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw"
         }
       ],
-      "duration_ms": 156375,
-      "name": "Asteriod",
-      "url": "https://open.spotify.com/track/2tDEvQX8TTkXPvi1cMWgVW"
+      "duration_ms": 222841,
+      "name": "quarterback",
+      "url": "https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1515,34 +1483,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz"
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
       "artists": [
         {
-          "name": "Shiruetto",
-          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 191366,
-      "name": "La Musique",
-      "url": "https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Mental Geller",
-        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
-      },
-      "artists": [
-        {
-          "name": "The Phantom's Revenge",
-          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "DJ BFF Slideshow",
-      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1559,6 +1511,54 @@
       "duration_ms": 363156,
       "name": "This Is Just a Test",
       "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz"
+      },
+      "artists": [
+        {
+          "name": "Shiruetto",
+          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+        }
+      ],
+      "duration_ms": 191366,
+      "name": "La Musique",
+      "url": "https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Asteriod",
+        "url": "https://open.spotify.com/album/69MxbIQjR3do4AcpCM2Ndp"
+      },
+      "artists": [
+        {
+          "name": "Chrylo",
+          "url": "https://open.spotify.com/artist/1aMHe9PtM7QWfGRccCrU5q"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Asteriod",
+      "url": "https://open.spotify.com/track/2tDEvQX8TTkXPvi1cMWgVW"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Mental Geller",
+        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+      },
+      "artists": [
+        {
+          "name": "The Phantom's Revenge",
+          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "DJ BFF Slideshow",
+      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1667,18 +1651,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "We Are Future Funk (Delux Edition)",
-        "url": "https://open.spotify.com/album/7K6BsYBzlmd9NiUtAl4gLZ"
+        "name": "REFRESH",
+        "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
       },
       "artists": [
         {
-          "name": "FUNKYSENPAI",
-          "url": "https://open.spotify.com/artist/73D3brznPfF6gHusQdHHVq"
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
         }
       ],
-      "duration_ms": 177162,
-      "name": "Easy Love - Delux Edition",
-      "url": "https://open.spotify.com/track/0ZWig98ZNofXT1Jw7vnrm4"
+      "duration_ms": 132000,
+      "name": "REFRESH",
+      "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "REFRESH",
-        "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
       },
       "artists": [
         {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+          "name": "Versiple",
+          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
         }
       ],
-      "duration_ms": 132000,
-      "name": "REFRESH",
-      "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
+      "duration_ms": 303148,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
     }
   ],
   "unique_name": "Future Funk",

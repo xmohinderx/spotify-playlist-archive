@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-98 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+100 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Family Tree \(feat\. JD Taylor\)](https://open.spotify.com/track/6Zb3nzvNbSrkqWbF84qjF9) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [JD Taylor](https://open.spotify.com/artist/6Qg8D2eYlUuXzOsTxhu7Q5) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:54 | 2022-07-28 |  |
 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 | 2022-05-25 |  |
 | [Five String Blues](https://open.spotify.com/track/5PCP01Q0VqsDuIEkLFPt73) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [20th Century Masters: The Millennium Collection: Best Of Roy Buchanan](https://open.spotify.com/album/4gzaZNRo1OFO0WSe75hqF5) | 6:26 | 2022-05-25 | 2022-07-29 |
+| [Gonna' Lay Down 'N Die \(Slow Blues\)](https://open.spotify.com/track/3mYM9TVLjh0yNvQtppIxQM) | [Floating Bridge](https://open.spotify.com/artist/16CDfPbczuc5E0vYGnvIS4) | [Floating Bridge](https://open.spotify.com/album/0pmkZo7NGfqidiVeRy9dvf) | 7:33 | 2022-11-23 |  |
 | [Goodbye Blues](https://open.spotify.com/track/0NaOwurgFUVLofBk0gM8OQ) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Last Session](https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij) | 1:39 | 2022-07-28 |  |
 | [Hard Time Killing Floor](https://open.spotify.com/track/6gQ9gDBM2FZ7sOtkxWL59B) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Wish I Was in Heaven Sitting Down](https://open.spotify.com/album/3NU8Dd4nEqPs7zHJtJ0G5o) | 5:09 | 2022-05-25 |  |
 | [Here I Am Broken Hearted](https://open.spotify.com/track/0pDD7ty5MZxL2IgCWl6l1m) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX), [Joe Turner](https://open.spotify.com/artist/14fyFK7pR901yqcjwbzYGy), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Super Black Blues](https://open.spotify.com/album/5VzRIg7yk3IW5YcwhA7HIS) | 3:46 | 2022-07-28 |  |
@@ -102,6 +103,7 @@
 | [Trust My Baby \- Mono Version](https://open.spotify.com/track/3nzlpFJW2uvMzBliyTwois) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:44 | 2022-05-25 |  |
 | [Trying So Hard to Forget](https://open.spotify.com/track/26tvejfVo4iDlMFJYy2vUg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 4:45 | 2022-05-25 | 2022-07-29 |
 | [Trying So Hard to Forget](https://open.spotify.com/track/4RU0p13ARYDbv2T9z4TQgf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 4:50 | 2022-07-28 |  |
+| [Tupelo Blues](https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 3:23 | 2022-11-23 |  |
 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 | 2022-05-25 | 2022-07-29 |
 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 | 2022-07-28 |  |
 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 | 2022-05-25 |  |

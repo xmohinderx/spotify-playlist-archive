@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: ASH ISLAND\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,815 likes - 112 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,023 likes - 112 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

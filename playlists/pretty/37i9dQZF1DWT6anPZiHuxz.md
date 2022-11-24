@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,982 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,187 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 46 | [Fire \- Price & Takis Remix](https://open.spotify.com/track/6PPJ2XXyC9NybSZlU3hTZo) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox) | [Fire \(Remixes\)](https://open.spotify.com/album/0cyAL3igv1nQAVdfykQgfK) | 3:06 |
 | 47 | [Bad Vibe \- James Hype Remix](https://open.spotify.com/track/23a7lo0QJILBV8FWA9hM6R) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Bad Vibe \(James Hype Remix\)](https://open.spotify.com/album/6UVhhI30dTuNsmdX5R8HVi) | 3:33 |
 | 48 | [Harleys In Hawaii \- KANDY Remix](https://open.spotify.com/track/5EECgBC0NjIaUd8ke9YYTo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [KANDY](https://open.spotify.com/artist/4mPFPLedaotlYFB3GLn6r7) | [Harleys In Hawaii \(KANDY Remix\)](https://open.spotify.com/album/2ptDoWK5hL9gzZ3SXLSVmX) | 2:45 |
-| 49 | [Burn Break Crash \- Madison Mars Remix](https://open.spotify.com/track/0gyQR8SQvI9BqquYz1IkHI) | [Aanysa](https://open.spotify.com/artist/5MPOKeJJi86inlu2dvewah), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [Burn Break Crash \(Remixes\)](https://open.spotify.com/album/2JA4ct3iX1dP9MDJfXzWlB) | 3:43 |
-| 50 | [Poker Face \- LLG vs GLG Radio Mix](https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Guéna LG](https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C) | [Poker Face \(Remixes Part 1\)](https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH) | 4:02 |
+| 49 | [Poker Face \- LLG vs GLG Radio Mix](https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Guéna LG](https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C) | [Poker Face \(Remixes Part 1\)](https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH) | 4:02 |
+| 50 | [Burn Break Crash \- Madison Mars Remix](https://open.spotify.com/track/0gyQR8SQvI9BqquYz1IkHI) | [Aanysa](https://open.spotify.com/artist/5MPOKeJJi86inlu2dvewah), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [Burn Break Crash \(Remixes\)](https://open.spotify.com/album/2JA4ct3iX1dP9MDJfXzWlB) | 3:43 |
 
-Snapshot ID: `MTY2NTA0ODY2MywwMDAwMDAwMGY0ZDc5Mjg4OGYyM2JlMmY1YWM4OWQyYjM0M2Q0NmYw`
+Snapshot ID: `MTY2NTA0ODY2MywwMDAwMDAwMGE2YWQ2ODRjNDNmYWQxOTA4MjkzY2MzNzA2MzhiZjUz`

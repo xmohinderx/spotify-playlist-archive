@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-296 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+298 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/track/1Af7leoKf8dkatsECOVhs6) | [Jordie Ireland](https://open.spotify.com/artist/1fTCSmuwhEaa6J6Hjq8xmi), [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/album/7fyaZQbIbfPr7gQltTzTa5) | 3:25 | 2022-05-02 |  |
 | [Crying in the Club](https://open.spotify.com/track/1yd6p44qOsY1B2zspMA7WA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Crying in the Club](https://open.spotify.com/album/36x7iB3fS5Rb1tEiOh2egW) | 3:11 | 2022-02-03 | 2022-08-01 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-02-03 | 2022-04-06 |
-| [Dance Again](https://open.spotify.com/track/4c1GcUV5AYT9P7ZZd4OP7W) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Dance Again](https://open.spotify.com/album/0fY82ybrmIwMJ2Eb49cpt4) | 3:11 | 2022-09-05 |  |
+| [Dance Again](https://open.spotify.com/track/3qTvzLD55cCR6p3sn5KsIz) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:11 | 2022-10-31 |  |
+| [Dance Again](https://open.spotify.com/track/4c1GcUV5AYT9P7ZZd4OP7W) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Dance Again](https://open.spotify.com/album/0fY82ybrmIwMJ2Eb49cpt4) | 3:11 | 2022-09-05 | 2022-11-24 |
 | [Darts in the Dark](https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Darts in the Dark](https://open.spotify.com/album/72qFlRjiGC6RJey0c4yHHD) | 3:13 | 2022-02-03 | 2022-05-03 |
 | [Depends On](https://open.spotify.com/track/1c3Tl6mMFCUd1p3C2gyJhL) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Portal](https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl) | 3:06 | 2022-05-02 |  |
 | [dice & checkers](https://open.spotify.com/track/7e3fwnnyaHLIjmskaI5Dzi) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [odd one out](https://open.spotify.com/album/3NXwp1ggaU3khlPqC9ZmVO) | 2:57 | 2022-05-27 |  |
@@ -209,7 +210,8 @@
 | [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 | 2022-09-05 |  |
 | [Only Love](https://open.spotify.com/track/6H29rXPIM9nCqRUwDTpE1I) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/1qPTIdE56XHvxHGfwXhDhR) | 3:05 | 2022-05-27 | 2022-07-29 |
 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 | 2022-07-03 | 2022-09-06 |
-| [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-04-05 |  |
+| [Only One](https://open.spotify.com/track/29Vaym55qNHaG2IrHpCTA9) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:08 | 2022-10-31 |  |
+| [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-04-05 | 2022-11-24 |
 | [Panic at the Party](https://open.spotify.com/track/5lYYjW5NzOnDcBjnyIv8lv) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Panic at the Party](https://open.spotify.com/album/5m0tdJDi8HckSpiNIWqPm7) | 3:27 | 2022-02-03 | 2022-03-02 |
 | [Paragraphs](https://open.spotify.com/track/6ufTMIgflciiAb7mk2PAhg) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7) | [Paragraphs](https://open.spotify.com/album/1koEUN6PDTOxf0P23KncHo) | 2:28 | 2022-05-27 | 2022-09-06 |
 | [Pearl](https://open.spotify.com/track/4DsRgTgw9ywVRrYCCpraTv) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Pearl](https://open.spotify.com/album/3GUmrEh3fTY9x3tE3YhcBS) | 3:12 | 2022-03-06 | 2022-05-28 |

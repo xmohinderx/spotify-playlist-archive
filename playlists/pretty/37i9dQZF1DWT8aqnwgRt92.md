@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,394 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,030 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 35 | [HIGHEST](https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0thfg8QuF1USWyk0XYYqMh) | 3:36 |
 | 36 | [Speak Out meets Giga](https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Speak Out meets Giga](https://open.spotify.com/album/5JHClsBOrIzUUMWUbJpceO) | 2:45 |
 | 37 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 |
-| 38 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 |
+| 38 | [Rewrite \- From CrosSing](https://open.spotify.com/track/1RwWzFRxsNzJqcLDnnrFC1) | [Nakamura Shugo](https://open.spotify.com/artist/3hE4ryyzMuML98YQzQRC4P) | [Rewrite \- From CrosSing](https://open.spotify.com/album/31kjhPcNFE7CeOUR6y3CYc) | 3:48 |
 | 39 | [Get Wild](https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [MIYAVIVERSE \- Anima \-](https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB) | 4:34 |
 | 40 | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0cVZrZ7Xz1DabRUmiyanl0) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/45vCjeChn7dWsMXKxSARwP) | 3:50 |
 | 41 | [LEATHER COVER](https://open.spotify.com/track/33AG9O2QUCfYup79rfz7qi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [ENGING THEME SONG FROM TV SERIES ”PRINCESS OF THE BIBLIOPHILE”](https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 74 | [Change The World](https://open.spotify.com/track/6ORojE1mIunpU7panh9gkC) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Change The World](https://open.spotify.com/album/0bs719jNPlNTXKWUIULyET) | 3:47 |
 | 75 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDBkMDRhZWQ0ZDBjMjIwNzQyODZkNTRlMWNkYzY5OTA3`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDU3MjgyYTY5Nzk5N2Y0OWIyNjExNWQwM2Q0YzQ5NmUw`

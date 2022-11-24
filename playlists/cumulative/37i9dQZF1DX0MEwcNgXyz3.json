@@ -1163,7 +1163,7 @@
     {
       "album": {
         "name": "Stockholmsvy",
-        "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
       "artists": [
         {
@@ -1178,6 +1178,28 @@
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+    },
+    {
+      "album": {
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB"

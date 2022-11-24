@@ -4,7 +4,7 @@
 
 > The best of Indie in one place\. Cover: Steve Lacy
 
-610 songs - 1 day 13 hr 0 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+611 songs - 1 day 13 hr 4 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2021-09-04 |  |
 | [Born With A Broken Heart](https://open.spotify.com/track/3quB6M8hbdv8pBPQfNINjb) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Born With A Broken Heart](https://open.spotify.com/album/65d2MQ4LBrpWBwK6GdYWus) | 3:50 | 2021-12-13 | 2022-07-27 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2021-02-23 | 2022-08-24 |
+| [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-11-11 |  |
 | [Bound](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 | 2022-08-23 | 2022-11-18 |
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2021-07-11 | 2022-04-11 |
 | [BOYFREN](https://open.spotify.com/track/2YJ7tTicU1vUmUjYNJROrv) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [BOYFREN](https://open.spotify.com/album/3PgIavzkrgnFmiIcurJ7EI) | 2:16 | 2020-10-29\* | 2022-04-16 |
@@ -361,7 +362,7 @@
 | [Mushaboom](https://open.spotify.com/track/1ZZlMBMlSNgPrk2XOOxbJ1) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/5UevgaFi1V4dXg57xTJLsL) | 3:44 | 2020-10-29\* | 2022-04-16 |
 | [Music Sounds Better With You](https://open.spotify.com/track/0GL1ye91pT3nJIQzXwncG2) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better With You](https://open.spotify.com/album/143dMy2NJalRNn5AdOA8AI) | 3:18 | 2020-10-29\* | 2022-07-24 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 | 2022-05-03 | 2022-08-24 |
-| [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2022-08-23 |  |
+| [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2022-08-23 | 2022-11-24 |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2022-01-19 | 2022-07-26 |
 | [Natural](https://open.spotify.com/track/1pINfCJHyQ3M5IfBmbFXa2) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Natural / Solace](https://open.spotify.com/album/0BoxbrgnyVYUzjx0HAmX78) | 2:54 | 2021-04-30 | 2022-07-22 |
 | [neon](https://open.spotify.com/track/6OowiqIzUaMErs7eKAL9o8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [still sad still sexy](https://open.spotify.com/album/40lqihqmkBdwM0QczKnoME) | 3:25 | 2021-01-18 | 2022-04-14 |

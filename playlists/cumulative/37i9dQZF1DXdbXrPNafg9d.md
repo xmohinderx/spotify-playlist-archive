@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Tennis
 
-4,474 songs - 10 day 22 hr 48 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,476 songs - 10 day 22 hr 55 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3936,7 +3936,8 @@
 | [Time \(You and I\)](https://open.spotify.com/track/2QoiyjegLQ3DWKBfFX9ihX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Time \(You and I\)](https://open.spotify.com/album/5shSFh5g5Vh2QYkpBPChx2) | 5:42 | 2020-05-01 | 2020-06-12 |
 | [TIME 2](https://open.spotify.com/track/3Q4jOnUZcpeqSY0CALbiOP) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [TIME 2](https://open.spotify.com/album/3BQPC6qqEnR0fl4j2cgFzV) | 3:57 | 2021-05-29 | 2021-07-17 |
 | [Time Escaping](https://open.spotify.com/track/0E8AwzHkpQJmyoXgVexcTW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Time Escaping](https://open.spotify.com/album/7irwqcVHpta3xhK51jhf6u) | 3:48 | 2021-11-19 | 2022-01-08 |
-| [Time Flows](https://open.spotify.com/track/6AdNCJgN1w0Yw77pzvbtoI) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [How Long Will It Take](https://open.spotify.com/album/4Tp6SUfBcYkLGiAt8t9nHh) | 3:38 | 2022-11-11 |  |
+| [Time Flows](https://open.spotify.com/track/6AdNCJgN1w0Yw77pzvbtoI) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [How Long Will It Take](https://open.spotify.com/album/4Tp6SUfBcYkLGiAt8t9nHh) | 3:38 | 2022-11-11 | 2022-11-24 |
+| [Time Flows](https://open.spotify.com/track/6XYQw8sw9hFZTZy1ktC8Ld) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [How Long Will It Take](https://open.spotify.com/album/1tIigjQR8DdaNzJ4V4opEh) | 3:38 | 2022-11-11 |  |
 | [Time Is Precious](https://open.spotify.com/track/6hdFvWuFjmoxJjSeEjiJpg) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Air](https://open.spotify.com/album/7KR3GaBmiaydLWXrzHDKMt) | 7:03 | 2022-04-15 | 2022-05-14 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-05-27 | 2022-07-09 |
 | [Time Machine](https://open.spotify.com/track/3uEbDKEMMlOe14ZleDo3Qb) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [All You Need Is Time \(Deluxe Edition\)](https://open.spotify.com/album/48cRveHwoBa5RQ4HbggHQ4) | 4:20 | 2022-10-28 |  |
@@ -4128,7 +4129,8 @@
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-24 |
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-30 | 2022-11-05 |
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2020-05-15 | 2020-07-03 |
-| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-18 |  |
+| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-18 | 2022-11-24 |
+| [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-18 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-03-26 |
 | [Vi er uendelig](https://open.spotify.com/track/3dxv7WJBIO67ZAcYZa7kCu) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Vi er uendelig](https://open.spotify.com/album/2GhvPBPQcc31MRfmaBIUYy) | 3:55 | 2019-06-14 | 2019-06-28 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-02-19 | 2021-04-10 |

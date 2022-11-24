@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "4AM in Karachi",
+      "url": "https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj"
+    },
+    {
+      "album": {
         "name": "6 Maheenay",
         "url": "https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs"
       },
@@ -37,7 +59,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 194906,
       "name": "6 Maheenay",
       "url": "https://open.spotify.com/track/6y6pBKHe151pglLIiJw6iD"
@@ -922,6 +944,28 @@
     },
     {
       "album": {
+        "name": "Gawara",
+        "url": "https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Gawara",
+      "url": "https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z"
+    },
+    {
+      "album": {
         "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX"
       },
@@ -1041,7 +1085,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 187813,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy"
@@ -1729,6 +1773,24 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT"
     },
     {
       "album": {
@@ -2577,6 +2639,28 @@
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
     },
     {
       "album": {

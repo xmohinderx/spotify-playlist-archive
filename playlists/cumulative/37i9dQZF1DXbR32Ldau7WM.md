@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-412 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+414 songs - 1 day 3 hr 20 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 | 2022-05-24 | 2022-08-31 |
 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 | 2022-07-12 |  |
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2022-07-29 |
-| [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 |  |
+| [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 | 2022-11-24 |
+| [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/6u0171YtwplrmpXqsWOWGb) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:41 | 2022-11-22 |  |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2022-05-10 | 2022-11-23 |
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 | 2022-10-21 |
 | [Black hole eyed lady](https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Black hole eyed lady](https://open.spotify.com/album/3pUUh38i9Ip5L01yJLNhbZ) | 2:51 | 2022-05-10 | 2022-07-23 |
@@ -150,6 +151,7 @@
 | [My Generation](https://open.spotify.com/track/7MUZ9Co138juL29YOlWUHM) | [HAINO KEIJI & THE HARDY ROCKS](https://open.spotify.com/artist/1Jhy6KsTiZt5gzyeUBHWog), [Keiji Haino](https://open.spotify.com/artist/6BsNCY0qB2WLl5LlXqA79y), [THE HARDY ROCKS](https://open.spotify.com/artist/49tynFr7fbNdIuBPRM8daI) | [きみはぼくの めの「前」にいるのか すぐ「隣」にいるのか](https://open.spotify.com/album/5OoOnalfT1jTkq37pgE4Ti) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-12 | 2022-08-31 |
+| [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 | 2022-11-22 |  |
 | [New Days](https://open.spotify.com/track/116vXvAIrrEepdpQNnnZwY) | [HEESEY](https://open.spotify.com/artist/2EoPlhCi2hnokI5Rq4LKgr) | [33](https://open.spotify.com/album/056cAMXloiXsGdJ0vTuVIh) | 2:11 | 2022-05-12 | 2022-05-16 |
 | [New Era](https://open.spotify.com/track/17licy4SPRL8Nnsp4cxQzQ) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [New Era](https://open.spotify.com/album/6gcNprfD6yEPhsQbOzBgEt) | 4:00 | 2022-05-12 | 2022-06-16 |
 | [Nihil Pip Viper](https://open.spotify.com/track/5qko3Om0sSANw6k1pe97GT) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Nihil Pip Viper](https://open.spotify.com/album/0ksgy0hgDdzlVey9LueA5v) | 4:03 | 2022-05-10 | 2022-07-24 |
@@ -209,7 +211,7 @@
 | [SPECTACLE](https://open.spotify.com/track/3PUFqCowPUzt6IEm1DxSaD) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/5uNowPNQdaWPKCHwV4dU64) | 3:32 | 2022-10-05 | 2022-10-06 |
 | [SPECTACLE](https://open.spotify.com/track/5ohAH1bZNRujINvE5zrDfC) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [HELLO](https://open.spotify.com/album/1taPkLBMsmuofrmi3VSbPx) | 3:32 | 2022-10-06 | 2022-10-12 |
 | [STAND!](https://open.spotify.com/track/7hp87JcODkGYqkhIi6hiBR) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [STAND!](https://open.spotify.com/album/3s5s6siW3yev2bVIZV4HU9) | 3:32 | 2022-05-17 | 2022-05-25 |
-| [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [細美武士](https://open.spotify.com/artist/1oJMOMMhuPnGW9Dd4O1Acm), [TOSHI\-LOW](https://open.spotify.com/artist/7H4Uw9BWE43eV7Ut2HjvQl) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 |  |
+| [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/7H4Uw9BWE43eV7Ut2HjvQl) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 |  |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-10 | 2022-07-28 |
 | [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-07-29 |
 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 | 2022-05-10 | 2022-07-21 |
@@ -275,7 +277,7 @@
 | [それは愛なんだぜ!](https://open.spotify.com/track/4YAm0nGPrA8J0qGEOn5qtv) | [カーリングシトーンズ](https://open.spotify.com/artist/2CWdFcS91QZURvn7PnbpdP) | [それは愛なんだぜ!](https://open.spotify.com/album/1Awt6Ml00XvndM9CEutUzc) | 3:42 | 2022-05-10 | 2022-06-19 |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-05-22 | 2022-07-24 |
 | [てぃんがーら](https://open.spotify.com/track/21vUUai0ml8ydEDIb776om) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [愛彌々](https://open.spotify.com/album/5sQWqif17rMKy4LNifoXFx) | 4:55 | 2022-07-28 | 2022-08-04 |
-| [なぎさホテル](https://open.spotify.com/track/0PzjQw1HPozAdouOGrVHjs) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:38 | 2022-11-22 |  |
+| [なぎさホテル](https://open.spotify.com/track/0PzjQw1HPozAdouOGrVHjs) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:38 | 2022-11-22 | 2022-11-24 |
 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 | 2022-05-12 |  |
 | [なにもかも](https://open.spotify.com/track/0MIKZob0Rg2IucawhZG11o) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [なにもかも](https://open.spotify.com/album/7jyKrfrEiH6G8p16VpOddz) | 5:30 | 2022-05-12 | 2022-06-15 |
 | [はじまり](https://open.spotify.com/track/6ynxjxcvYHZX1tU0J1GdkF) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [はじまり](https://open.spotify.com/album/7vKWHKRi3PiVC7bE0FapJI) | 4:46 | 2022-05-19 | 2022-07-29 |

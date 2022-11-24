@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,454 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,768 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 80 | [Småfolket](https://open.spotify.com/track/54zAnwfTWENOYwY3DHh4Sb) | [Kultivator](https://open.spotify.com/artist/1Oo8so3gncyWevBH7Q2X56) | [Barndomens Stigar](https://open.spotify.com/album/5xBO89A0hQexyN5UaZMSCp) | 5:12 |
 | 81 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 |
 | 82 | [A Life Within a Day](https://open.spotify.com/track/2SswkquygQXoAutSa3lnHs) | [Squackett](https://open.spotify.com/artist/1j2rZAs0HP4mbyZYhlwI32), [Chris Squire](https://open.spotify.com/artist/7G3uxJYCXXvkJJMORkc1rk), [Steve Hackett](https://open.spotify.com/artist/1DuXFgb9o9qndA9xc3fFfM) | [A Life Within a Day](https://open.spotify.com/album/0OOaX31CcS7RDOpHtNjhJN) | 6:35 |
-| 83 | [Metal Fatigue \- Remastered](https://open.spotify.com/track/3KYoU0LxHMkNUsIcXPjP8l) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Metal Fatigue \(Remastered\)](https://open.spotify.com/album/2rDyArQ8dVp7Hwicvo7LVN) | 4:56 |
+| 83 | [Metal Fatigue \- Remastered](https://open.spotify.com/track/7zSwlR4q02oXqNqLLn1tGZ) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Eidolon](https://open.spotify.com/album/6oNGuMXPevvHmRFBUrfhzM) | 4:57 |
 | 84 | [On the Backs of Angels](https://open.spotify.com/track/1LEl9029bRIrHhssrf0Td6) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A Dramatic Turn of Events](https://open.spotify.com/album/6nTSYgih82tTwdWvmbtPHW) | 8:42 |
 | 85 | [Natural Science](https://open.spotify.com/track/3sFgH9hqMB6cySLWJOGAJ4) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 9:19 |
 | 86 | [Gong](https://open.spotify.com/track/3QZARi1iovOCEbxzNepiKS) | [Cathedral](https://open.spotify.com/artist/0DxowSHDqTRJhwnD6952tX) | [Stained Glass Stories](https://open.spotify.com/album/72sxnJUkYrrexXcKVBHLEP) | 7:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDZjOGMwZDhhNGFkY2Y3ZGI0N2VkZjE0NTJiYjg3ZWQy`
+Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDRjZjkzMmM2Yzg2MGFhMjg3NzVjYmE2NGUyNDE2MDM5`

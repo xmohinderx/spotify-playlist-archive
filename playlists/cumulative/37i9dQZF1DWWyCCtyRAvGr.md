@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-98 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
+99 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/4DGKdeIKwUTAqn1tb8TpDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 | 2022-05-25 |  |
 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 | 2022-05-25 | 2022-07-29 |
 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 | 2022-07-08 |  |
+| [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 | 2022-11-18 |  |
 | [Mean Blues](https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh) | [Floyd Lee Band](https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud) | [Mean Blues](https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS) | 4:57 | 2022-07-08 | 2022-10-02 |
 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 | 2022-05-25 |  |
 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 | 2022-05-25 |  |
@@ -84,7 +85,7 @@
 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2022-07-01 |  |
 | [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/1bCguZTvZwEhoMGFlngXsh) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 2:56 | 2022-05-25 | 2022-07-27 |
 | [Something With Feel](https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Something With Feel](https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln) | 3:07 | 2022-05-25 | 2022-07-28 |
-| [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 | 2022-09-30 |  |
+| [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 | 2022-09-30 | 2022-11-24 |
 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 | 2022-05-25 | 2022-07-29 |
 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 | 2022-05-25 |  |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-07-08 |  |

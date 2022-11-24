@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 18860,
+  "num_followers": 18889,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMDJjYjQ2ZTY1Y2I1YTUyNjlkMTZiNGQ5ZjZhYzNmZmU3",
+  "snapshot_id": "MTY2MjA0MzA3NywwMDAwMDAwMGFlMjQzMWJkYTAyNjVkNjFiZDFmMDFmMGZjYWNlNzdj",
   "tracks": [
     {
       "added_at": "2022-09-01 14:37:57",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-01 14:37:57",
       "album": {
-        "name": "Albom Jezrawy Daym Fi baly",
-        "url": "https://open.spotify.com/album/749B7VOpLUxHSzHHOCfET0"
-      },
-      "artists": [
-        {
-          "name": "Samer Gabro",
-          "url": "https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH"
-        }
-      ],
-      "duration_ms": 242453,
-      "name": "Kas El Arak",
-      "url": "https://open.spotify.com/track/6HJruYrCGRQ6NVLZtFnXAq"
-    },
-    {
-      "added_at": "2022-09-01 14:37:57",
-      "album": {
         "name": "Khusouf Al-Ard",
         "url": "https://open.spotify.com/album/6RMRNXNTg12KwIUIxFcYay"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 210777,
       "name": "Ardon Wahed",
       "url": "https://open.spotify.com/track/2rD1eIqfbnsCk9GJxiXQBK"
+    },
+    {
+      "added_at": "2022-09-01 14:37:57",
+      "album": {
+        "name": "Albom Jezrawy Daym Fi baly",
+        "url": "https://open.spotify.com/album/749B7VOpLUxHSzHHOCfET0"
+      },
+      "artists": [
+        {
+          "name": "Samer Gabro",
+          "url": "https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Kas El Arak",
+      "url": "https://open.spotify.com/track/6HJruYrCGRQ6NVLZtFnXAq"
     },
     {
       "added_at": "2022-09-01 14:37:57",

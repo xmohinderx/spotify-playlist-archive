@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: LA INDIA, Goyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,439 likes - 120 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,557 likes - 120 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Cómo Olvidar \- Versión 2021](https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cómo Olvidar \(Versión 2021\)](https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO) | 3:46 |
 | 100 | [Y Le Dije No \- Salsa](https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Y Le Dije No](https://open.spotify.com/album/3LRxWGnjdFcxjRjO01s7sG) | 3:04 |
 | 101 | [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 |
-| 102 | [Cobarde \- Remix](https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Cobarde \(Remix\)](https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx) | 3:51 |
+| 102 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
 | 103 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
-| 104 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 104 | [Cobarde \- Remix](https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Cobarde \(Remix\)](https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx) | 3:51 |
 | 105 | [El Coco](https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tierra de Mis Amores](https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR) | 4:01 |
 | 106 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 |
 | 107 | [Sin Amenazas](https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sin Amenazas](https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8) | 4:18 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 119 | [Si Fuera Mía](https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Si Fuera Mía](https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7) | 3:23 |
 | 120 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 |
 
-Snapshot ID: `MTY2Njg1MTIxOCwwMDAwMDAwMDViZTY2OWMxNGM2NzY0ZTQwZTg3YWI0Zjg2MmJlNzAw`
+Snapshot ID: `MTY2Njg1MTIxOCwwMDAwMDAwMGViMTg5Zjk5ZjFiZDRmZjVlZDRjYjMxZjQ0YTU5Y2Qz`

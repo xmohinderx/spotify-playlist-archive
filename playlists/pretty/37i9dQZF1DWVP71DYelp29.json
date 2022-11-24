@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
-  "num_followers": 727488,
+  "num_followers": 727582,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGYyODdhZjdmMmI4ODRkM2FkODI5Njg0MjFlNTMyMWIw",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGE0NGE1MDZmYmZlY2YyODUxNTVlZTg4MWIzN2UyYzlm",
   "tracks": [
     {
       "added_at": "2022-09-01 18:43:04",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -492,22 +492,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
       "artists": [
@@ -519,6 +503,22 @@
       "duration_ms": 319750,
       "name": "Sign Of The Times - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -564,6 +564,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -579,22 +595,6 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
         "name": "Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan)",
         "url": "https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 167058,
       "name": "Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan)",
       "url": "https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1408,22 +1408,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 235158,
-      "name": "Adore You - Recorded at Parr Street Studios",
-      "url": "https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
       },
       "artists": [
@@ -1435,6 +1419,22 @@
       "duration_ms": 180982,
       "name": "Friends - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 235158,
+      "name": "Adore You - Recorded at Parr Street Studios",
+      "url": "https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1668,22 +1668,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 337837,
-      "name": "Everything Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
       },
       "artists": [
@@ -1695,6 +1679,22 @@
       "duration_ms": 209490,
       "name": "Drama - Live from Spotify",
       "url": "https://open.spotify.com/track/0TRN3A7jUi9F72HvZBqg3G"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 337837,
+      "name": "Everything Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
     },
     {
       "added_at": "2022-05-27 17:31:46",

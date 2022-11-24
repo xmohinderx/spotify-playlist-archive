@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,436 likes - 499 songs - 19 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,681 likes - 499 songs - 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 67 | [Where The Sun Shines](https://open.spotify.com/track/2oiso692IgpOO4A7lNMLFJ) | [Soul Jungle](https://open.spotify.com/artist/58IG1qa1HOhsjcMqnB4rU0) | [Where The Sun Shines](https://open.spotify.com/album/46rAA5TfBzQsuS2aSfoWoj) | 1:34 |
 | 68 | [Whispers](https://open.spotify.com/track/5vwKx1lJxuXNj0j3krceff) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Whispers](https://open.spotify.com/album/2mV7WOez73u5gqldiqZGoA) | 2:04 |
 | 69 | [Purple Moon](https://open.spotify.com/track/6NULphJ40QEv26hrmH2Laa) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Purple Moon](https://open.spotify.com/album/5bYnboALLvdc432KVkYf47) | 2:07 |
-| 70 | [Days Past](https://open.spotify.com/track/00AMutjJV7O56Anth6Smfb) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF), [kairos](https://open.spotify.com/artist/6YHuTrPW5JY4DcamHp2vAa), [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Days Past](https://open.spotify.com/album/7qMcvHM15psq4D2AIwQwlo) | 2:55 |
-| 71 | [Junto](https://open.spotify.com/track/26j83bPM233r15vxSm3Rxv) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Junto](https://open.spotify.com/album/1JcZNbOyCje6Vt3z7NhBdp) | 2:17 |
+| 70 | [Days Past](https://open.spotify.com/track/3Llv6SpIfHfhD4oUOjDkTK) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF), [kairos](https://open.spotify.com/artist/6YHuTrPW5JY4DcamHp2vAa), [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Forest Friends](https://open.spotify.com/album/4tTNC5PTsSUQA4cH90bsvL) | 2:55 |
+| 71 | [Junto](https://open.spotify.com/track/1Ac7QNgmHNrT496purTNil) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Junto](https://open.spotify.com/album/2ybhmSH4mt0RubCuuH0Ln3) | 2:17 |
 | 72 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
 | 73 | [A Cradle Song](https://open.spotify.com/track/3gsAXA1OA1Gn7vvzkGjV9q) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [A Cradle Song](https://open.spotify.com/album/7gACYD4Yao9vmBp5gqHCg1) | 2:03 |
 | 74 | [Seagull](https://open.spotify.com/track/22LhX52jsGjCExR1nHV0ps) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Seagull](https://open.spotify.com/album/7tT9nECSIPoTY2Np0IXZfX) | 2:09 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 127 | [Train Tracks](https://open.spotify.com/track/6UAnLxI7nFV0PcEu6tN9Km) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [Train Tracks](https://open.spotify.com/album/3szCzsc3a1273geT5eS3Ap) | 2:50 |
 | 128 | [Present Pictures](https://open.spotify.com/track/1YNNMZby18tp2MqZ4Qa3Ai) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Present Pictures](https://open.spotify.com/album/4AfICgoDURktmCKsum5uqq) | 2:33 |
 | 129 | [Aiko](https://open.spotify.com/track/4fFxOZyWvb5jREQ5v5umOC) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Aiko](https://open.spotify.com/album/5p2BCf91BtGvfUKu7468Wj) | 1:52 |
-| 130 | [Inside Your Mind](https://open.spotify.com/track/1dOTU9zuRexaJjGqLt1PpQ) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Inside Your Mind](https://open.spotify.com/album/6xmcGgYp3CH044EJT6QZQL) | 2:21 |
-| 131 | [Hibernation](https://open.spotify.com/track/0q5ozNuGT4dBbwYNq4nQpC) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Hibernation](https://open.spotify.com/album/0MRBhcdoJCGwayZXJ5tPOH) | 2:19 |
+| 130 | [Inside Your Mind](https://open.spotify.com/track/2nN9CoveYsHheIytXpojJx) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Inside Your Mind](https://open.spotify.com/album/3Q8DmfwOF4W4veG00b5Yue) | 2:21 |
+| 131 | [Hibernation](https://open.spotify.com/track/5dTFZ8uc8mXhoP0MV1PeOz) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Hibernation](https://open.spotify.com/album/4SEZJCdRBMNMgNmb3KfQQ7) | 2:19 |
 | 132 | [Cascadilla](https://open.spotify.com/track/1UkfpVjyztFIqxwg861Mgs) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Cascadilla](https://open.spotify.com/album/0jbjMTUvJQU2ThpS91LfEg) | 1:49 |
 | 133 | [Melting](https://open.spotify.com/track/27Y8SVpM3t1Ni8nbnKsaRW) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Melting](https://open.spotify.com/album/0h4nSIq7YwurSAqTruXNh4) | 1:50 |
 | 134 | [After Taste](https://open.spotify.com/track/7luMtuVwZhHsReL55ibeIW) | [Knob Reflection](https://open.spotify.com/artist/64jX3OfGvQkiyRkxvuCWnv) | [After Taste](https://open.spotify.com/album/3CX2gXp6WiD1D2jLVKYgCw) | 1:51 |
@@ -508,4 +508,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 498 | [Try Again](https://open.spotify.com/track/1rVmk8oSQNPor1w1M0RIh9) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Try Again](https://open.spotify.com/album/4JzjXnumWReclbjE75OBhr) | 2:58 |
 | 499 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 |
 
-Snapshot ID: `MTY2ODE2NDg4MSwwMDAwMDAwMDk2MWM1Yzg4YmQzNWVlZDQ4NzFiNDUwMTRhOTBmM2I0`
+Snapshot ID: `MTY2ODE2NDg4MSwwMDAwMDAwMDgxOWFiMDNlZmRkZjU4ZjMzYzgyMzUyNzc5YzYzYTQx`

@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-151 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
+152 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/60LiS949KObJRF0kT8PKqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Pop Corn](https://open.spotify.com/track/4xTLv2bhUJGv6XyxmVXOme) | [La Strana Società](https://open.spotify.com/artist/4HdZRhcAqc3WSM3AtlJnOg) | [Pop Corn](https://open.spotify.com/album/2YkM4AHvii9gA4LGfGcUNJ) | 3:53 | 2022-02-11 | 2022-03-21 |
 | [Pretty Face \- Radio Edit](https://open.spotify.com/track/7hEvlW79zzFLn4fPvvrf3w) | [Stylóo](https://open.spotify.com/artist/3G9IdXpX2JfZYyg6zCqM6e) | [Pretty Face \(Original Maxi Single\)](https://open.spotify.com/album/56d2EoKtvf5xhfslTsf0ZN) | 3:00 | 2022-02-11 | 2022-03-22 |
 | [Reset](https://open.spotify.com/track/3w8x0OvRhqvwjSOyHdLhJz) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Reset](https://open.spotify.com/album/7tXdGpglPbHoZxBENtPc8m) | 5:52 | 2022-09-08 | 2022-11-21 |
-| [Reset](https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp) | 5:52 | 2022-10-07 |  |
+| [Reset](https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 5:52 | 2022-10-07 |  |
+| [Reset](https://open.spotify.com/track/6TXKgF6m6LyoaC6a3ecnoV) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/53ErSZm3l761QkvMSuTtSp) | 5:52 | 2022-10-07 | 2022-11-24 |
 | [Resta cu' 'mme](https://open.spotify.com/track/1D764Rj1VMCMXagvqYPhKi) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Bella](https://open.spotify.com/album/5je9NSA5d4IxGAfWqDemlA) | 3:50 | 2022-02-11 | 2022-02-23 |
 | [San Lorenzo](https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL) | [Kocleo](https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp) | [San Lorenzo](https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP) | 6:25 | 2022-02-11 | 2022-07-29 |
 | [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 | 2022-02-11 |  |

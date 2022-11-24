@@ -4,13 +4,14 @@
 
 > Let it all go with relaxing ambient music.
 
-138 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+141 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Am Reflective](https://open.spotify.com/track/0IjLq8vY7kzTDuqoI8nz9L) | [Sonnu Prufondu](https://open.spotify.com/artist/6JTFXMxmPUAPdynYVBQvWi) | [1 Am Reflective](https://open.spotify.com/album/2Fk7QuGSaeaCDmVMWphuNl) | 3:03 | 2021-12-23 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-23 | 2022-10-14 |
 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-10-07 | 2022-11-15 |
+| [A Heavenly Dream](https://open.spotify.com/track/5EMlalyz3dSoGcDL9AdtcB) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [A Heavenly Dream](https://open.spotify.com/album/1EEAamsfZQXeZ1J4oVjlS5) | 3:31 | 2022-11-23 |  |
 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 | 2021-12-23 |  |
 | [Abrazo Mirando](https://open.spotify.com/track/4mwBTAuzjtXNsjfUDqe7fn) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Nothing Is Objective](https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu) | 5:14 | 2021-12-23 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-19 |  |
@@ -84,6 +85,7 @@
 | [Night at Sea](https://open.spotify.com/track/1djlK49yDx6ukfsOlox6MY) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Night at Sea](https://open.spotify.com/album/0e1pQgTkxdLvDxIqgWNgaE) | 3:17 | 2022-02-18 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2021-12-23 |  |
 | [Noctu](https://open.spotify.com/track/4tPLkMhxU4a62HmkA95iwC) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Noctu](https://open.spotify.com/album/0ddzc5odnJ9sgAEaQAKiKP) | 3:21 | 2021-12-23 |  |
+| [Nova](https://open.spotify.com/track/1TF8WPJN2S54syyWHnqjFS) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Nova](https://open.spotify.com/album/7iIt47DB6x3RlqEYUPYRI4) | 3:06 | 2022-11-23 |  |
 | [Oblivion](https://open.spotify.com/track/676cCislDJ6X51j2mai6xD) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Oblivion](https://open.spotify.com/album/03PoUSzMmhA5FYH7yU0BGO) | 3:08 | 2021-12-23 |  |
 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 | 2021-12-23 |  |
 | [Opal](https://open.spotify.com/track/0HUjGplgKAsG0roDYuAWzr) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Opal](https://open.spotify.com/album/7pqkV4CidH4eiKB1FrpQ3e) | 3:11 | 2022-02-18 |  |
@@ -112,6 +114,7 @@
 | [Silence](https://open.spotify.com/track/5FULRUSFmbfBmxb6maxb83) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Silence](https://open.spotify.com/album/1U5TPgwvxnBLHrfhxMAkJm) | 3:05 | 2022-01-19 | 2022-09-03 |
 | [Sleep](https://open.spotify.com/track/1UYojuIrBcwtyoOEpGYWCy) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Land of Dreams](https://open.spotify.com/album/0ws1Hx2UOl1SPyN84QgWzE) | 3:19 | 2021-12-23 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 | 2021-12-23 |  |
+| [Sleeping Voyage](https://open.spotify.com/track/6WZjn3SawDf8K5SKdUuVhK) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sleeping Voyage](https://open.spotify.com/album/6VfWEYmRbc9a2LwoAJhTya) | 3:04 | 2022-11-23 |  |
 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 | 2021-12-23 |  |
 | [Small Sprites](https://open.spotify.com/track/360PAyaCRAAFVJrOnkBQCe) | [Along We Tumble](https://open.spotify.com/artist/1afeM9wpVryFnkVrmhk8Kz) | [Eigenvalues](https://open.spotify.com/album/7u87pvBz1KLsYvem6j5pa9) | 3:16 | 2021-12-23 | 2022-09-24 |
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-23 |  |

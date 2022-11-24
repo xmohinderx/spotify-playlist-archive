@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18401,
+  "num_followers": 18402,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDcxMGFiMzE2ODQ2MWUyYzRjNzJlMWY0OWI4MTFiY2Rl",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGZiMTA0NDMxYTAzZWI0ZGVhN2JkN2RjZDA0ZmFiMDdk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Overworld",
-        "url": "https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH"
-      },
-      "artists": [
-        {
-          "name": "A.R.T. Wilson",
-          "url": "https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp"
-        }
-      ],
-      "duration_ms": 276308,
-      "name": "Rebecca's Theme (Water)",
-      "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 303226,
       "name": "Cigarra",
       "url": "https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Overworld",
+        "url": "https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH"
+      },
+      "artists": [
+        {
+          "name": "A.R.T. Wilson",
+          "url": "https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp"
+        }
+      ],
+      "duration_ms": 276308,
+      "name": "Rebecca's Theme (Water)",
+      "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
     },
     {
       "added_at": "2022-07-15 05:08:18",

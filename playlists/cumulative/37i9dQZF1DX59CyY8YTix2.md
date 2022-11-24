@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-690 songs - 1 day 20 hr 19 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+691 songs - 1 day 20 hr 22 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2022-10-12 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
-| [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 |  |
+| [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 |  |
 | [olive drive\|橄欖思巡](https://open.spotify.com/track/5OnF0rU4WAzl13h5E15cNy) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.ep](https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp) | 5:02 | 2022-11-15 | 2022-11-17 |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
 | [one more time](https://open.spotify.com/track/7Jxei7V1uUUIai2uPnMg7Z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [one more time](https://open.spotify.com/album/47KQgzJbmDW0v8Frn3kEvy) | 4:05 | 2022-06-02 | 2022-07-29 |
@@ -256,6 +256,7 @@
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-05-26 | 2022-07-24 |
 | [Supermoon](https://open.spotify.com/track/4nMZXcJZT3myxnZQLoitGG) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Moonshot](https://open.spotify.com/album/3aHM9GGh7QnDvaP8wOlp4X) | 2:46 | 2022-11-15 | 2022-11-23 |
 | [SYOUZIKINAHANASHI](https://open.spotify.com/track/44RNH27DJsxihO91CePtnw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [SYOUZIKINAHANASHI](https://open.spotify.com/album/2CfdQb7DJI7oVQbMoAocY2) | 2:37 | 2022-11-01 | 2022-11-09 |
+| [Taiyokohatsuden](https://open.spotify.com/track/6zt7BlGgdLF8aFkI87MECR) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Taiyokohatsuden](https://open.spotify.com/album/6snu9BjWt7YslUxT1DXpxe) | 3:28 | 2022-11-24 |  |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-20 |
 | [take it easy](https://open.spotify.com/track/2l8LW9K4XkxpEqlncd40A1) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [take it easy](https://open.spotify.com/album/5yX4AYo6pFzmKuxTakgkYo) | 3:20 | 2022-06-02 | 2022-07-29 |
 | [Teal](https://open.spotify.com/track/6fYIb8G0p6F8LDQIgxW7vl) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [AGLIO OLIO](https://open.spotify.com/album/3uyizW7cmxyVHccvL1HDKJ) | 5:12 | 2022-06-02 | 2022-06-04 |
@@ -548,7 +549,7 @@
 | [夜に生まれたお姫様](https://open.spotify.com/track/7MCnpCGq28ysMbvJw6FxLx) | [Carnival](https://open.spotify.com/artist/6uXssdScTiNC7wYrQWl7fF) | [夜に生まれたお姫様](https://open.spotify.com/album/6CP3c39dturRDbXal1225w) | 3:41 | 2022-06-23 | 2022-07-09 |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-05-26 | 2022-07-22 |
 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 | 2022-09-27 | 2022-11-02 |
-| [太陽光発電](https://open.spotify.com/track/0Rk04NcsQBH3DVUQP3XFwY) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [太陽光発電](https://open.spotify.com/album/6oNiE4hGpsi8bloziYS5TN) | 3:28 | 2022-11-23 |  |
+| [太陽光発電](https://open.spotify.com/track/0Rk04NcsQBH3DVUQP3XFwY) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [太陽光発電](https://open.spotify.com/album/6oNiE4hGpsi8bloziYS5TN) | 3:28 | 2022-11-23 | 2022-11-24 |
 | [奇術](https://open.spotify.com/track/3boGH9iOcJSKqHY4WdcSuN) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [奇術](https://open.spotify.com/album/57VtIybTOvXxnIHKJE8V34) | 3:41 | 2022-05-31 | 2022-07-18 |
 | [婆娑羅\(Prod\. TOOBOE\)](https://open.spotify.com/track/7EBTbQZHnQXhSwHrN4xlnC) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [婆娑羅\(Prod\. TOOBOE\)](https://open.spotify.com/album/3b8PPauKp9RgoGmK95RBKz) | 3:39 | 2022-05-31 | 2022-07-24 |
 | [嫉妬](https://open.spotify.com/track/2ogRJWm2xGV4gr0PrYHrXu) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [嫉妬](https://open.spotify.com/album/6bGhHe6Z6wBRasPrBCS0Wm) | 3:02 | 2022-06-02 | 2022-07-15 |

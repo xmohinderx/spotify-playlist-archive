@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Beiro x Pedra x QVXNO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,414 likes - 87 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,444 likes - 87 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

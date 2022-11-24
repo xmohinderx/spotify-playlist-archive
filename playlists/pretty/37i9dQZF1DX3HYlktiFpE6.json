@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 95162,
+  "num_followers": 95237,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGU4NDQyOWY2YzQzYjIyMDBhYjEyZjIyNGUzMjVmYTll",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDNhYmQyNzM1NTRhODVkNTk2ZDNiNGViYTM2NTA1Y2Fh",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "We Got You Covered, Vol. 3",
+        "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 246020,
+      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+      "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Send My Love (To Your New Lover)",
         "url": "https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa"
       },
@@ -495,26 +511,6 @@
       "duration_ms": 112360,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Knew You Were Trouble (feat. KRNFX)",
-        "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "I Knew You Were Trouble (feat. KRNFX)",
-      "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -571,6 +567,26 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "I Knew You Were Trouble (feat. KRNFX)",
+        "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "I Knew You Were Trouble (feat. KRNFX)",
+      "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "We Got You Covered, Vol. 3",
-        "url": "https://open.spotify.com/album/2QoF7YsWJTxn5UIqOmXvqE"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 246020,
-      "name": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
-      "url": "https://open.spotify.com/track/5uw1yHb6Do9b57youUUOFr"
     },
     {
       "added_at": "2021-12-24 05:00:00",

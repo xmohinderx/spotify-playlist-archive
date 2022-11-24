@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu?si=CXiLG9EsTo234EPinuT5lw">Mionette</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,268 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

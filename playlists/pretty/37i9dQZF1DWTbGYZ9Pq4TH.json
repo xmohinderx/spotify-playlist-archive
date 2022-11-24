@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 158877,
+  "num_followers": 158957,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGY4YTM1MWIwOGM2ZGZiMzdiNzVhNzAzNDM5ZTQ4NmE3",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDRlYjFiOTFhMTc2MTdlNTI3YjAwM2U2ODllZDQ1MzQz",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Polaroid 2.0",
-        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave x Franco126",
-          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sempre In Due",
-      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Concedimi",
         "url": "https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 189320,
       "name": "Concedimi",
       "url": "https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Polaroid 2.0",
+        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave x Franco126",
+          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sempre In Due",
+      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+        "name": "Post Punk",
+        "url": "https://open.spotify.com/album/1oYTq4dC52TYMw2xoKr4kb"
       },
       "artists": [
         {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+      "duration_ms": 185173,
+      "name": "Una canzone che non so",
+      "url": "https://open.spotify.com/track/6pDqB2dlzxB2i9Inu4h3wC"
     }
   ],
   "unique_name": "Amore Davvero",

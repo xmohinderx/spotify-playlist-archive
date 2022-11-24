@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 149709,
+  "num_followers": 149992,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzODY0MywwMDAwMDAwMDdjYjZkZTk2NzgxODYxNWY4MDE4ODliNjIzMTI3ZDZl",
+  "snapshot_id": "MTY2NTEzODY0MywwMDAwMDAwMDI5ZjhkMDliYzliYTgwMTM4YWM2NzNhMzY1MTFiZjgw",
   "tracks": [
     {
       "added_at": "2022-10-07 10:30:43",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 223045,
       "name": "SUPREME - L'ego (feat. thasup & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
         "name": "Mon Fre (feat. Emis Killa)",
         "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
       },
@@ -1199,26 +1215,6 @@
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
-        "name": "P Secondigliano (2020 Remaster)",
-        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "P Secondigliano - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
         }
       ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "68 (Till The End)",
-        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Phi",
-      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Kepler",
         "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "68 (Till The End)",
+        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Phi",
+      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Blauer",
-        "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Blauer",
-      "url": "https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa"
-    },
-    {
-      "added_at": "2022-10-07 10:30:43",
-      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 211518,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+    },
+    {
+      "added_at": "2022-10-07 10:30:43",
+      "album": {
+        "name": "Blauer",
+        "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa"
     },
     {
       "added_at": "2022-10-07 10:30:43",
@@ -1967,30 +1967,22 @@
     {
       "added_at": "2022-10-07 10:30:43",
       "album": {
-        "name": "Mattoni",
-        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
+        "name": "Sensazione ultra",
+        "url": "https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn"
       },
       "artists": [
         {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         },
         {
-          "name": "Ketama126",
-          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Stay Away (feat. Ketama126, Side Baby & Franco126)",
-      "url": "https://open.spotify.com/track/6oZJl2T2hdHnMYcZR6VJGb"
+      "duration_ms": 153693,
+      "name": "FREE SOLO (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
     }
   ],
   "unique_name": "Hit Rap Italiane",

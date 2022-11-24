@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain](/playlists/plain/37i9dQZF1DX3qlqnyl4p68) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3qlqnyl4p68)
 
-### [Netflix and Chills](https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68)
+### [Netflix & Chills](https://open.spotify.com/playlist/37i9dQZF1DX3qlqnyl4p68)
 
-> Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
+> Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,518 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 39 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 40 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDAxMThmMDAxNTU0NzM0NzRhNjY0ODExM2IxMjFhNTM3`
+Snapshot ID: `MTY2OTE5MDQwMCwwMDAwMDAwMGRhNTFhNzU0YmRkNTJlMmY1MjBkOWQ2NTRkNjU2ZTEy`

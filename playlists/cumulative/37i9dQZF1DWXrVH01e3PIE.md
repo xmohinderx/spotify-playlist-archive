@@ -4,7 +4,7 @@
 
 > C.R.O & LIT killah en la casa del Trap de Argentino.
 
-164 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+165 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Motoquera](https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:01 | 2022-01-21 | 2022-06-18 |
 | [Muy Enfierrado](https://open.spotify.com/track/4fFa0g5UIuzVNRn3d78EPx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Muy Enfierrado](https://open.spotify.com/album/5dTOmRWMGhs8BGwWpVRICI) | 2:56 | 2022-01-21 | 2022-08-06 |
 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 | 2022-01-21 |  |
+| [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 | 2022-11-24 |  |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2022-01-21 |  |
 | [No Tiene Sentido](https://open.spotify.com/track/6qTfLcLXzymtYrfSRptEhf) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [No Tiene Sentido](https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI) | 2:26 | 2022-01-21 |  |
 | [no twin](https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [no twin](https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b) | 2:34 | 2022-06-17 | 2022-09-03 |

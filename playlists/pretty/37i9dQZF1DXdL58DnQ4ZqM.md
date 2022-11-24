@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,680 likes - 161 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,708 likes - 161 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 63 | [Skoda](https://open.spotify.com/track/0OHeMdfS4QJ7fPttj3mZgD) | [Ken Nil](https://open.spotify.com/artist/3dqO7sdgWO3OdzjlWcrf9l) | [Skoda](https://open.spotify.com/album/05OHIkueOd6K2pS0IOav3e) | 1:58 |
 | 64 | [sleepy fish](https://open.spotify.com/track/5l8g86aPiJY649ACLLvPCw) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [sleepy fish](https://open.spotify.com/album/2LxRryFjn1UGzhDxEQj4G0) | 1:57 |
 | 65 | [Pillow hug](https://open.spotify.com/track/1BbkE5JYcAnEch19eKv21U) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Pillow hug](https://open.spotify.com/album/6PFLVVI62ViGQXpqZZOZrC) | 2:30 |
-| 66 | [Blossom](https://open.spotify.com/track/3G8tumJeNmN81uySgbcwHj) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Blossom](https://open.spotify.com/album/2fdA4fu4bf3naDXJLoZNUK) | 2:21 |
+| 66 | [Blossom](https://open.spotify.com/track/4PlmN2C6nsQIbsWN1bAA7x) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Arboretum](https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm) | 2:21 |
 | 67 | [Lazy Days](https://open.spotify.com/track/62JHhd8RJkdfVnUrdD5p7b) | [Uniq](https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm), [A&J](https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2) | [By The Seaside \(Vol 2\)](https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6) | 3:38 |
 | 68 | [Deep Inside \- Chill Mix](https://open.spotify.com/track/5NhOy0YdrJ2eW97aF751AJ) | [Drama](https://open.spotify.com/artist/7L0g7U9E5yf6yZeTNGhVOv) | [Deep Inside](https://open.spotify.com/album/4W8Ww2sdThzibRjjaA7j4R) | 4:16 |
 | 69 | [Diamond Shine](https://open.spotify.com/track/69IOxGl9w4WiqmlFIND2es) | [Swan](https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH) | [Diamond Shine](https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp) | 5:18 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 160 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 |
 | 161 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 |
 
-Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDdjYjdiYjMzN2EyMjA5YjNmZTAzM2QwYmQyNGZiNTE0`
+Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDRjYTA2NzE1NTExMjAwZGZlNTRmYzM4NjBhNTNlYzg1`

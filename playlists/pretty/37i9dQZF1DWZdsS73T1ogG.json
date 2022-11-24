@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Cris MJ y Tiago PZK",
-  "num_followers": 508649,
+  "num_followers": 508705,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDIzZjJjYjlmNjI4MTVkOGQxNGQxZTc2YTQ2YTIxMGFi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDE3NjFjNjI4ODU5ODU4MDE4Yzc5MDdiMDZjMTQxNDk3",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Baby Glock",
+        "url": "https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 165298,
+      "name": "Baby Glock",
+      "url": "https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "ACTIVA",
         "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Baby Glock",
-        "url": "https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
-        }
-      ],
-      "duration_ms": 165298,
-      "name": "Baby Glock",
-      "url": "https://open.spotify.com/track/3hNah4zjim0HfKVIXlJVCC"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Sigo Feliz",
         "url": "https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ"
       },
@@ -1219,6 +1219,26 @@
       "duration_ms": 220418,
       "name": "Sigo Feliz",
       "url": "https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "SALVAJE",
+      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 253333,
       "name": "La Pelikula - Remix",
       "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "SALVAJE",
-      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "SEDUR (Remix)",
-        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 164036,
-      "name": "SEDUR - Remix",
-      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "La Mini",
         "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
@@ -1451,26 +1431,6 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Pituquita",
-        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
-        },
-        {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Pituquita",
-      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1495,6 +1455,46 @@
       "duration_ms": 205333,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/1Im9oy5CO9FXNSMAeVaSsa"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Pituquita",
+        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
+      },
+      "artists": [
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
+        },
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Pituquita",
+      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "SEDUR (Remix)",
+        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 164036,
+      "name": "SEDUR - Remix",
+      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Despues Siempre Es Tarde",
+        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 303230,
+      "name": "Besties - Remix",
+      "url": "https://open.spotify.com/track/1ac7A5aXklR4RttUlaMRcI"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/0G3vkCth2P8SOIytPw1e5P"
       },
@@ -1619,38 +1651,6 @@
       "duration_ms": 193960,
       "name": "Otro De Esos D\u00edas",
       "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Despues Siempre Es Tarde",
-        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 303230,
-      "name": "Besties - Remix",
-      "url": "https://open.spotify.com/track/1ac7A5aXklR4RttUlaMRcI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Despues Siempre Es Tarde",
+        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "La Babygirl",
+      "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Se Vive",
         "url": "https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 176190,
       "name": "Se Vive",
       "url": "https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Despues Siempre Es Tarde",
-        "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "La Babygirl",
-      "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Bien Activ\u00e1",
-        "url": "https://open.spotify.com/album/7MmzWZ5m9oISkKrYIT8j99"
-      },
-      "artists": [
-        {
-          "name": "Chris Andrew",
-          "url": "https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bien Activ\u00e1",
-      "url": "https://open.spotify.com/track/4ifdRYvEu2iyrQ9P7PvN4V"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 173373,
       "name": "Prende",
       "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Bien Activ\u00e1",
+        "url": "https://open.spotify.com/album/7MmzWZ5m9oISkKrYIT8j99"
+      },
+      "artists": [
+        {
+          "name": "Chris Andrew",
+          "url": "https://open.spotify.com/artist/7vnithGAUscrk9Imtyr6Sd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bien Activ\u00e1",
+      "url": "https://open.spotify.com/track/4ifdRYvEu2iyrQ9P7PvN4V"
     },
     {
       "added_at": "2022-11-11 05:00:00",

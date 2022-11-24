@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,147 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,330 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 23 | [The Drugs](https://open.spotify.com/track/728FZzHPZ0vt6biYQYOOCz) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Drugs](https://open.spotify.com/album/2RsqX9br4REyvqsuFGDqRb) | 1:58 |
 | 24 | [Sick Sense](https://open.spotify.com/track/40IJY0iAD4811y5IpurcgI) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sick Sense](https://open.spotify.com/album/1tc5s64PT6zqHnW5TvPhu0) | 3:32 |
 | 25 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
-| 26 | [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 |
+| 26 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 |
 | 27 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 | 28 | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Money \(Hope Ain’t Gone\)](https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA) | 4:06 |
 | 29 | [Failing Grace](https://open.spotify.com/track/2VTmB41ZgW8Ecm8rZ7YBqc) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Failing Grace](https://open.spotify.com/album/37qxbuMJrd8bMDfCPuoUY0) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 |
 | 60 | [Sunday](https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak) | [Sun Puddle](https://open.spotify.com/artist/0RhDTDJ61XsfQPnYqQcPxj) | [Sunday](https://open.spotify.com/album/44RbCgQAyTLFdzYuL1EQgt) | 3:43 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGYzNjI3NDBjMGFiNjgyN2UxOTUyMzA3NjNkMGExN2Q4`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDZiYWQ5MmU5NWM4OWQ3ZDA1MjU5MTAzMzFiZTM1YjI5`

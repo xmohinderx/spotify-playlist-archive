@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 143771,
+  "num_followers": 143877,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDdiNjJkYmM5YWY0ZWYyYjNjNjU1Yjg3Y2U3M2RiYThk",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGFmMzkyNzIyOWQ3ZDc2MTY0ZDMxMDRiNDQ4NjQwYmRj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "TRY! - Live In Concert",
-        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
+        "name": "Feel So Good: Albert Cummings Live",
+        "url": "https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
         }
       ],
-      "duration_ms": 349253,
-      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
-      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+      "duration_ms": 187426,
+      "name": "Why Me - Live",
+      "url": "https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Feel So Good: Albert Cummings Live",
-        "url": "https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm"
+        "name": "TRY! - Live In Concert",
+        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
       },
       "artists": [
         {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 187426,
-      "name": "Why Me - Live",
-      "url": "https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw"
+      "duration_ms": 349253,
+      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
+      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live in London",
-        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 322022,
-      "name": "No Time For Cryin' - Live",
-      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Naturally Live",
         "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 308093,
       "name": "One of These Days - Live",
       "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 322022,
+      "name": "No Time For Cryin' - Live",
+      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I'm In The Mood (Live)",
-        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "I'm In The Mood - Live",
-      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live at the Jazzhaus",
         "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 410520,
       "name": "Chills & Thrills - Live",
       "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "I'm In The Mood (Live)",
+        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "I'm In The Mood - Live",
+      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
-    },
-    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
@@ -895,6 +879,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 298777,
+      "name": "Night Train - Live",
+      "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Straight To You: Live",
         "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Live In Europe",
         "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Songs from the Road",
-        "url": "https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 298777,
-      "name": "Night Train - Live",
-      "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
     },
     {
-      "added_at": "2020-11-20 05:01:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Ride On Josephine (Live In Boston / 1982)",
-        "url": "https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP"
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
       },
       "artists": [
         {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 501010,
-      "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
-      "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
+      "duration_ms": 446206,
+      "name": "Rocket 88 - Live",
+      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
     },
     {
       "added_at": "2020-10-30 17:47:12",

@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> 'Anuv Jain'  is on the cover of Indie India.
+> The best Indie tracks\. Cover \- Anuv Jain
 
 167 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 

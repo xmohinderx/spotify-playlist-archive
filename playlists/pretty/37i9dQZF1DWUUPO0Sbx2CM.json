@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 109659,
+  "num_followers": 109825,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDM1YWY1NzY4NmQzMzUwNzhhYWI5M2Y3ZjBmMDNlYjll",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGEwNGY5MTRlODMxYWQzMWZiYmYwNTFlYzliYmRjMjBh",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Give Up On Love",
+        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 202790,
+      "name": "Give Up On Love",
+      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "LIFE IS GOOD",
         "url": "https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Episode 1 - EP",
         "url": "https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx"
       },
@@ -95,18 +95,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Give Up On Love",
-        "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 202790,
-      "name": "Give Up On Love",
-      "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        }
-      ],
-      "duration_ms": 180469,
-      "name": "SLINGSHOT",
-      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 180469,
+      "name": "SLINGSHOT",
+      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -975,22 +991,6 @@
       "duration_ms": 177920,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Revival (Live)",
         "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",

@@ -2,7 +2,7 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Wegz & Ash.
+> Dance and electronic Arabic songs\. Cover: BluePaper.
 
 82 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 

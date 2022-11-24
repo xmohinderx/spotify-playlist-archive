@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-181 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
+182 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Old Love / New Love](https://open.spotify.com/track/6e1rpOJQIXivYKXOBLoAn2) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 3:53 | 2021-11-17 |  |
 | [Peace Sells \- Remastered](https://open.spotify.com/track/3pIU81Fd7sTMdaaZ5GI9Vj) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:02 | 2021-11-17 |  |
 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:45 | 2021-11-17 |  |
-| [Play It Cool](https://open.spotify.com/track/1ukiiZflmFDT2tISzN0Q9R) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/3MIN5xm8U4mF6W3ADGh93h) | 3:53 | 2021-11-17 |  |
+| [Play It Cool](https://open.spotify.com/track/1ukiiZflmFDT2tISzN0Q9R) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/3MIN5xm8U4mF6W3ADGh93h) | 3:53 | 2021-11-17 | 2022-11-24 |
+| [Play It Cool](https://open.spotify.com/track/5YP2Id88tm2pnRQ6Ejh1rh) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/5nv99ug8cFmIVQsspcHej8) | 3:53 | 2021-11-17 |  |
 | [Play It Cool \(feat\. Samuel T Herring \(Of Future Islands\) & Earl Sweatshirt\)](https://open.spotify.com/track/2FnkDwpvTypzEX1YP7KgGP) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist & Oh No Present Welcome to Los Santos](https://open.spotify.com/album/2bXFyAk38U6pWDdsqkX6pR) | 3:53 | 2021-11-17 | 2022-07-29 |
 | [Professor 3](https://open.spotify.com/track/5Jq0cNUGjT5vJyh3suBGIw) | [Professor Rhythm](https://open.spotify.com/artist/7BImuj9nS6aLIZWOfZKfZW) | [Professor 3](https://open.spotify.com/album/10SsiC0sve7EwRH76PKBZw) | 4:55 | 2021-11-17 | 2022-11-13 |
 | [Professor 3](https://open.spotify.com/track/5clxOZObNgDX7yBUpt8z7r) | [Professor Rhythm](https://open.spotify.com/artist/7BImuj9nS6aLIZWOfZKfZW) | [Professor 3](https://open.spotify.com/album/56HTTJyQWxoqxA9A6dwzV0) | 4:55 | 2021-11-17 | 2022-07-29 |

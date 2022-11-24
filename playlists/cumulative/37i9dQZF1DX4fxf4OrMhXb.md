@@ -4,7 +4,7 @@
 
 > Close the curtains, it's time for some leftfield gems.
 
-175 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
+176 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/6h0aBJF4DpxBxWLBMOrNnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [I Need U](https://open.spotify.com/track/1kIA1iPBvbmdxSgOpVpmFA) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [I Need U](https://open.spotify.com/album/5Q7a5cjwStVCBGY6MZqPG0) | 3:25 | 2022-05-06 | 2022-07-29 |
 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 | 2022-05-26 | 2022-07-29 |
 | [I've Felt Better \(Than I Do Now\)](https://open.spotify.com/track/06Cd1X5jSWGGKIya1pAG31) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [I've Felt Better \(Than I Do Now\)](https://open.spotify.com/album/7JvO3QodQZXJHZuXCXgAhM) | 4:20 | 2022-05-26 | 2022-07-09 |
-| [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 | 2022-08-15 |  |
+| [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 | 2022-08-15 | 2022-11-24 |
 | [Ice Hockey](https://open.spotify.com/track/0iaq9gWwRM8job3idOFTws) | [The Micronaut](https://open.spotify.com/artist/5BNKzWZCbIsQz9zAsg9n6V) | [Ice Hockey](https://open.spotify.com/album/1DCyBW3JXPqtFlQ8lznmnN) | 3:41 | 2022-05-06 | 2022-07-28 |
 | [Idontknow](https://open.spotify.com/track/3NmIAJuV5atSrsbrl567HY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/5UmXh8Pq27MthTNpckRS4z) | 5:21 | 2022-09-09 | 2022-11-13 |
 | [Idontknow](https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/05Jf78ScRG8YeX4aLwxjMk) | 5:21 | 2022-05-06 | 2022-07-26 |
@@ -107,6 +107,7 @@
 | [Lucid Dreaming](https://open.spotify.com/track/5ZzzD53hcv2FOeOeiogbFA) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Lucid Dreaming](https://open.spotify.com/album/4sbB2uGpBJzUckmHIy1rpA) | 6:06 | 2022-07-08 | 2022-08-16 |
 | [M\-type](https://open.spotify.com/track/0bHco4SUI1EJmxtcRohKIn) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Ego](https://open.spotify.com/album/4uDqyUV4prv6jdBwIVaXaY) | 8:44 | 2022-05-06 | 2022-11-22 |
 | [Marnie \(wish i had u\)](https://open.spotify.com/track/72iPHDnxdNcN9DyLrUy31M) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Marnie \(wish i had u\)](https://open.spotify.com/album/70sv0PYCgdcJx6xebRmEWR) | 3:12 | 2022-05-06 | 2022-06-25 |
+| [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-09-09 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2022-05-06 | 2022-11-20 |
 | [Mercury](https://open.spotify.com/track/1XMU0yZQK8jy2rRtr2yQXJ) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Every Step EP](https://open.spotify.com/album/7HivaRDG5DP4wg0yLkkbku) | 6:29 | 2022-07-08 | 2022-10-19 |
 | [Mercury](https://open.spotify.com/track/5kdo4INdzQh1NaeKX5an5u) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Every Step EP](https://open.spotify.com/album/3TkUDveotlwUDm6Tm7XR7Q) | 6:29 | 2022-05-06 | 2022-07-26 |

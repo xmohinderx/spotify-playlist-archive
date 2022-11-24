@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: BIG THE KIID",
-  "num_followers": 95809,
+  "num_followers": 95935,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMDNiMTA1M2JkMWJkYzVjNmY2NTcwNWVjZTVlN2I4ODQ3",
+  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMDNlMjI5YjVmYWNhZGU1ODg5ZjczNmE0ZDdhYzI4ZWJh",
   "tracks": [
     {
       "added_at": "2022-10-28 05:38:17",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
+        "name": "Marionete",
+        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
         "name": "\u00c1guias",
         "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 154390,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 120245,
-      "name": "C\u00e9u",
-      "url": "https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1007,22 +1011,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "Ef\u00eamero Atemporal",
         "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
       },
@@ -1039,22 +1027,50 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Marionete",
-        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh"
       },
       "artists": [
         {
           "name": "Lookas",
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
         }
       ],
-      "duration_ms": 186245,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
+      "duration_ms": 120245,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1079,22 +1095,6 @@
       "duration_ms": 230831,
       "name": "Esperan\u00e7a para o Perdido",
       "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Se Cair",
-        "url": "https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Gui Souz MSC",
-          "url": "https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9"
-        }
-      ],
-      "duration_ms": 216034,
-      "name": "Se Cair",
-      "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "Levantar",
         "url": "https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 167832,
       "name": "LEVANTAR",
       "url": "https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Se Cair",
+        "url": "https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Gui Souz MSC",
+          "url": "https://open.spotify.com/artist/4JsEcRRMcKUPDgIeUuEvJ9"
+        }
+      ],
+      "duration_ms": 216034,
+      "name": "Se Cair",
+      "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
     },
     {
       "added_at": "2022-10-28 05:38:17",

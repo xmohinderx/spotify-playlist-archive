@@ -417,7 +417,7 @@
     {
       "album": {
         "name": "Sing, Dance and Sway the Nick Jr. Way",
-        "url": "https://open.spotify.com/album/3uv14cpSLyXwy5xS7YKR6a"
+        "url": "https://open.spotify.com/album/4FC0qzA9OIDEA8ugligowD"
       },
       "artists": [
         {
@@ -432,6 +432,28 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 73601,
+      "name": "It's Time to Clean up",
+      "url": "https://open.spotify.com/track/4uP8Seg6N41O0RTh6qbdTe"
+    },
+    {
+      "album": {
+        "name": "Sing, Dance and Sway the Nick Jr. Way",
+        "url": "https://open.spotify.com/album/3uv14cpSLyXwy5xS7YKR6a"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "The Cast of Baby Shark's Big Show!",
+          "url": "https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
       "duration_ms": 73601,
       "name": "It's Time to Clean up",
       "url": "https://open.spotify.com/track/72HZ1fDce0xUx5D1Fdviw9"

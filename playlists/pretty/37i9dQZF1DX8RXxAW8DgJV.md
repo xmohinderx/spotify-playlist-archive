@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,601 likes - 77 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,706 likes - 77 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RXxAW8DgJV.md) - [plain]
 | 9 | [Kambathu Ponnu](https://open.spotify.com/track/7s8UULMrFE2iq5dvHwzrNr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kambathu Ponnu](https://open.spotify.com/album/5eFsjGRF6UYWITNvDoc2xb) | 3:35 |
 | 10 | [Srivalli](https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw) | 3:41 |
 | 11 | [Oru Ooril](https://open.spotify.com/track/4RoQxXt8eSKeSFmhxLXu3x) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Kaakha Kaakha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Em85Ifk3z7v42maYqhzBL) | 4:39 |
-| 12 | [Stylish Thamizhachi](https://open.spotify.com/track/3SwCB7tN5NxOrXURK1cx2A) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [M.M\. Manasi](https://open.spotify.com/artist/2zVnyQaz93A6st4LzEsoQ8), [Rubba Bend.Psycho Unit](https://open.spotify.com/artist/34De0LooTWBuWOFc5DGpkB) | [Arrambam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1F2H9ceSOWf74o5bhs2hCw) | 4:24 |
+| 12 | [Stylish Thamizhachi](https://open.spotify.com/track/3SwCB7tN5NxOrXURK1cx2A) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Rubba Bend.Psycho Unit](https://open.spotify.com/artist/34De0LooTWBuWOFc5DGpkB) | [Arrambam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1F2H9ceSOWf74o5bhs2hCw) | 4:24 |
 | 13 | [Aval Ulaghazhagi](https://open.spotify.com/track/2JHXWuIevI334vUGoYcwrn) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Lesa Lesa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29neFKEMvDSN0pKTQnzX47) | 5:09 |
 | 14 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
 | 15 | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/track/3H3x4NhR3wJh6IvRHmPvkd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Srivardhini](https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Tejaswini](https://open.spotify.com/artist/22KTsf5b5SeYNOypXpyYBr) | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/album/0sq7cT64heLZfuOJUsm1Ak) | 3:48 |

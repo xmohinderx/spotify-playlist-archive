@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4847,
+  "num_followers": 4858,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGM2ZjU2ZDYzOGEyYzUzOTZiNmNmOWMyODQ3NmU2Y2Fh",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGVjMTFkZDc3Y2Q1OGQxMmVjZTA3NWY4NzdlNGVhY2Y1",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -86,6 +86,10 @@
         {
           "name": "ASOKO",
           "url": "https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y"
+        },
+        {
+          "name": "Icon Mode",
+          "url": "https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2"
         }
       ],
       "duration_ms": 111697,
@@ -495,22 +499,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Patrick Cowley: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
-      },
-      "artists": [
-        {
-          "name": "Patrick Cowley",
-          "url": "https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO"
-        }
-      ],
-      "duration_ms": 337080,
-      "name": "Menergy",
-      "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -527,6 +515,22 @@
       "duration_ms": 188307,
       "name": "SCANDALOSA",
       "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Patrick Cowley: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Cowley",
+          "url": "https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO"
+        }
+      ],
+      "duration_ms": 337080,
+      "name": "Menergy",
+      "url": "https://open.spotify.com/track/7G0jq4sJ8oFfpfRzjFqeND"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -707,22 +711,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
-      },
-      "artists": [
-        {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
-        }
-      ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
       },
@@ -735,6 +723,22 @@
       "duration_ms": 196721,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
+      },
+      "artists": [
+        {
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -855,6 +859,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Beautiful Garbage (Remastered)",
+        "url": "https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 189687,
+      "name": "Androgyny",
+      "url": "https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa"
       },
@@ -871,22 +891,6 @@
       "duration_ms": 493760,
       "name": "Flores No Mar - Album Edit",
       "url": "https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Beautiful Garbage (Remastered)",
-        "url": "https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 189687,
-      "name": "Androgyny",
-      "url": "https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -919,6 +923,26 @@
       "duration_ms": 254786,
       "name": "You Keep Me Hangin' On",
       "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "ON (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
+      },
+      "artists": [
+        {
+          "name": "Headman",
+          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+        },
+        {
+          "name": "Luca Santucci",
+          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
+        }
+      ],
+      "duration_ms": 320971,
+      "name": "Moisture - Headman Club Version [Bonus Track]",
+      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1059,26 +1083,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "ON (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
-      },
-      "artists": [
-        {
-          "name": "Headman",
-          "url": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
-        },
-        {
-          "name": "Luca Santucci",
-          "url": "https://open.spotify.com/artist/0EEJrs1V9J59T6VGTPqqWI"
-        }
-      ],
-      "duration_ms": 320971,
-      "name": "Moisture - Headman Club Version [Bonus Track]",
-      "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1135,22 +1139,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "BatBox",
-        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
-      },
-      "artists": [
-        {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Kittin Is High",
-      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Malcostume",
         "url": "https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN"
       },
@@ -1171,18 +1159,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "I\u2019m Calling You From My Dreams",
-        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
+        "name": "BatBox",
+        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
       },
       "artists": [
         {
-          "name": "Matilde Davoli",
-          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Tell Me What You See",
-      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
+      "duration_ms": 231093,
+      "name": "Kittin Is High",
+      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1199,6 +1187,22 @@
       "duration_ms": 161302,
       "name": "Superomantico",
       "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "I\u2019m Calling You From My Dreams",
+        "url": "https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ"
+      },
+      "artists": [
+        {
+          "name": "Matilde Davoli",
+          "url": "https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Tell Me What You See",
+      "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1247,26 +1251,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "L'Incantesimo Delle Ciliegie",
-        "url": "https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa"
-      },
-      "artists": [
-        {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
-        },
-        {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Dottore",
-      "url": "https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1287,6 +1271,26 @@
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "L'Incantesimo Delle Ciliegie",
+        "url": "https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Dottore",
+      "url": "https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7"
     }
   ],
   "unique_name": "Pride Italia",

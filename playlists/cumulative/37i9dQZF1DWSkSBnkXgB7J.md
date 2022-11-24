@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-85 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+86 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [اشمعنى انا](https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [اشمعنى انا](https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA) | 2:48 | 2022-10-13 |  |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 |  |
 | [بالمختصر](https://open.spotify.com/track/6ScIVedrkp6Rc1WFwzQxSU) | [اية خفاجة](https://open.spotify.com/artist/5dp1VYIECbMmrUo13BnbDV) | [بالمختصر \- Single](https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26) | 2:57 | 2022-06-24 | 2022-11-09 |
+| [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 | 2022-11-23 |  |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-14 |  |
 | [جايي لك](https://open.spotify.com/track/5O2M4jyybgemMnEycvY0d7) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [جايي لك](https://open.spotify.com/album/2QrMIPEdF4w9TBiaGBGio7) | 3:16 | 2022-06-24 |  |
 | [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 | 2022-11-08 |  |

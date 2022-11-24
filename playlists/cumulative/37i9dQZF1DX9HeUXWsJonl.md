@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-101 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+102 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 |  |
 | [مش بروحي](https://open.spotify.com/track/4d3dXSolGmXPrnTUyICqWO) | [Abn Salah](https://open.spotify.com/artist/0R4MMq6qbsLaTXh63wOMvD), [Vibe Entertainment Ly](https://open.spotify.com/artist/3Qt921zWIOKAGgML2n2Ljl) | [مش بروحي](https://open.spotify.com/album/45UyUIAgWzg5DxjiLblVwj) | 3:29 | 2022-09-14 | 2022-09-22 |
 | [هكا نعيش](https://open.spotify.com/track/2PYT6C3JalMCqoXVIH3Wh7) | [Walid Salhi](https://open.spotify.com/artist/3eWsdDqacW8AmlYfonweYL) | [هكا نعيش](https://open.spotify.com/album/6VKkxrt6xSlztxBbkWeZtE) | 4:49 | 2022-09-07 | 2022-10-24 |
+| [هلا هلا .\. نسر نسر](https://open.spotify.com/track/2HnhLt8zYijfoesiZNxbMl) | [Zaza Show](https://open.spotify.com/artist/2WVRwvUiLP3mGs5H69QEGZ), [Hedi Donia](https://open.spotify.com/artist/60V7LXotDd5kcyvdpKydKc) | [هلا هلا .\. نسر نسر](https://open.spotify.com/album/53mAxsyvO4656igMc5xsnM) | 2:19 | 2022-11-23 |  |
 | [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 | 2022-08-30 |
 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 | 2021-12-10 |  |
 

@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-412 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+413 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Give Me Night](https://open.spotify.com/track/4fF5HxauEt54IYSKW1rEMt) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [Give Me Night](https://open.spotify.com/album/4OM6g573k9ww2iJlRN7Thn) | 3:12 | 2022-04-06 | 2022-04-16 |
 | [Give u](https://open.spotify.com/track/2PXEL9hT8aNfzQuU12yVo7) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Give u](https://open.spotify.com/album/6UEUTJ7p3ydXkISSwLqzet) | 3:25 | 2022-01-11 | 2022-07-12 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-12-03 | 2022-07-23 |
-| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 |  |
+| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 | 2022-11-24 |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |
@@ -197,6 +197,7 @@
 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 | 2022-04-06 | 2022-04-18 |
 | [It Could’ve Been You](https://open.spotify.com/track/4WnR0rhJ5fBmeiiTWkgLQU) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Another Chemical Love Story](https://open.spotify.com/album/6DB3ZF5GyjZd2Sgvo50bp6) | 6:24 | 2022-04-06 | 2022-04-18 |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-04-06 | 2022-11-17 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-09-05 |  |
 | [It's Nice to Be Alive](https://open.spotify.com/track/4Qosj8bJfXBlXi35ukPiGi) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg) | 3:25 | 2022-04-15 | 2022-04-19 |
 | [Javelin \(Calling Out Your Name\)](https://open.spotify.com/track/7GkVQ8u2hJ1xMTSTqVZj2M) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Javelin \(Calling Out Your Name\)](https://open.spotify.com/album/3WHPQT135w07uWeMJtM20v) | 3:02 | 2022-04-06 | 2022-04-13 |
 | [Jazz Drama](https://open.spotify.com/track/1i8vRS6zwBPBdc3ww0vHg8) | [Access 58](https://open.spotify.com/artist/5rVh9RGgcYWTu3suOIFbPt) | [Josey In Space](https://open.spotify.com/album/6v1Nilz6moJBaC5o3aXzi2) | 3:58 | 2022-04-06 | 2022-04-09 |

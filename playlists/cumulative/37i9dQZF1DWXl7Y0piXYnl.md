@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-83 songs - 6 hr 8 min - not published yet
+84 songs - 6 hr 13 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [UNTITLED](https://open.spotify.com/track/5bYFQquNKlqHPRX5gRHLOT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OFFLINE!](https://open.spotify.com/album/5k1geNqLd4yHzyg5L6XF2z) | 2:48 | 2022-10-27 |  |
 | [Vexed](https://open.spotify.com/track/5swPofqzzG0XZGCp8IokY9) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Fire](https://open.spotify.com/album/4deCZBfXA0NZxLHRYpItqw) | 3:52 | 2022-10-27 |  |
 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 | 2022-10-27 |  |
-| [Whaa](https://open.spotify.com/track/3gSjE4dzaRAIerYL3S7iCy) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/6hM7p7z5jfapt4KVChVz0b) | 4:31 | 2022-10-27 |  |
+| [Whaa](https://open.spotify.com/track/3gSjE4dzaRAIerYL3S7iCy) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/6hM7p7z5jfapt4KVChVz0b) | 4:31 | 2022-10-27 | 2022-11-24 |
+| [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 | 2022-10-27 |  |
 | [what if i should fall asleep and slipp under](https://open.spotify.com/track/4DgCkBTgSXTs1zsvSwztaE) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [im hole](https://open.spotify.com/album/3o6dE7ccS1LCt5CBkwLV7T) | 2:26 | 2022-10-27 |  |
 | [You're Untouchable](https://open.spotify.com/track/0btw2yljb0iwuJAkNwJttB) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [You’re Untouchable](https://open.spotify.com/album/0pxFKq1nDXdYXFerM58DXQ) | 3:05 | 2022-10-27 |  |
 

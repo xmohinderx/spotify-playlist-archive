@@ -4,7 +4,7 @@
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Sofia Portanet
 
-602 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
+603 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/33SW5h7H0js8JrILbbBcpN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,8 @@
 | [Zelda](https://open.spotify.com/track/4uXeRAfzctrtBiljGLnUsu) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [22](https://open.spotify.com/album/0sMYjfz0VhzvG2ppuWIQsZ) | 2:49 | 2021-12-21 | 2022-01-05 |
 | [Zero Gravity](https://open.spotify.com/track/2PnY25qVoPdRblP4geUbyQ) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Zero Gravity](https://open.spotify.com/album/1NWqUSKJo1R75I6yCUnmRq) | 3:09 | 2021-12-21 | 2022-01-05 |
 | [Zigaretten drehen](https://open.spotify.com/track/5NjJPKVxCJsOz6Nip7njPZ) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS) | [Zigaretten drehen](https://open.spotify.com/album/3KWzrLB2vW78wwTFPVq64L) | 3:40 | 2022-01-04 | 2022-02-02 |
-| [Zuhause](https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E) | 2:57 | 2022-11-07 |  |
+| [Zuhause](https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E) | 2:57 | 2022-11-07 | 2022-11-24 |
+| [Zuhause](https://open.spotify.com/track/4l6oixgsil5MaJTwRgqCEN) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/3c3bKOHttRRkFraFpQtAgK) | 2:57 | 2022-11-07 |  |
 | [Zur Hilfe](https://open.spotify.com/track/4It0uG1Ghp8iMv7svNLaTE) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Zur Hilfe](https://open.spotify.com/album/7lGaeZTwMfUz5TIAmftH73) | 3:37 | 2022-05-31 | 2022-07-06 |
 | [‘Til I Die](https://open.spotify.com/track/7qfufTseGuqDipFrkejLUo) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [‘Til I Die](https://open.spotify.com/album/0MzZGgg1NELpLyU5RxzX2R) | 3:17 | 2022-05-31 | 2022-07-06 |
 

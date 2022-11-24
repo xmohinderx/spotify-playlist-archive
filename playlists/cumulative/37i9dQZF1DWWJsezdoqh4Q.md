@@ -4,7 +4,7 @@
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-77 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
+78 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Train Song](https://open.spotify.com/track/4cLEtWfzH5KYpHmNc1fpC7) | [Brendan Parker](https://open.spotify.com/artist/3b7oGWr78Vwat438Dobb8f) | [Spaghetti Eddie! And Other Children's Songs, Vol\. 3](https://open.spotify.com/album/3dHyWeNdQFyk9Pd4t2mT5C) | 2:19 | 2021-06-22 |  |
 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 | 2021-06-22 |  |
 | [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2021-06-22 | 2022-10-13 |
-| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2021-06-22 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/4vqJOsFbTHr2GgQuCFn8Jj) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:54 | 2021-06-22 |  |
+| [Trucks Are Tough](https://open.spotify.com/track/61Ah7gJJAmcbbdoRDMEEQM) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:54 | 2021-06-22 | 2022-11-24 |
 | [Wheels In The City](https://open.spotify.com/track/7oRnunrwZCnDomjCvivJFm) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 1:51 | 2021-06-22 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/0GzL6vZXfYOmMyfN3VszoT) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Gecko's Truck Songs for Children](https://open.spotify.com/album/4Id7UWpebesuBYQen93UNY) | 1:40 | 2021-06-22 | 2022-07-29 |
 | [Wheels on the Bus](https://open.spotify.com/track/3nrmNyibts8qt048CY7bva) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Kids Holiday Hits](https://open.spotify.com/album/7ubqRhDcHf3qAjEou85lh8) | 1:40 | 2021-06-22 | 2022-11-14 |

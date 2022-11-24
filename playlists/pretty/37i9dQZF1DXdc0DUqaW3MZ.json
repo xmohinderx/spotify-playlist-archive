@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 286098,
+  "num_followers": 286284,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDZlMjE4OGNmM2VkNWEzNTAxZWYzYTI0ODE4ODUwZWEx",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDE3ZWIzM2ZiNDIwMTIwYzlhOGUxNDM2YmVjNDIyNTkz",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 248134,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Rendezvous (with Miraa May)",
         "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 248134,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
@@ -843,6 +843,30 @@
       "duration_ms": 251053,
       "name": "Even If It Hurts",
       "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Nightrider",
+        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 300990,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -879,30 +903,6 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Nightrider",
-        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 300990,
-      "name": "Nightrider",
-      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
     },
     {
       "added_at": "2022-06-20 14:19:42",

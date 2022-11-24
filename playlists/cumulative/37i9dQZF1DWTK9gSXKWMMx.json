@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Solo Piano",
+        "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272733,
+      "name": "C.M. Blues",
+      "url": "https://open.spotify.com/track/2l8voBWRaYxvDNkzVim7p6"
+    },
+    {
+      "album": {
         "name": "Blues Piano",
         "url": "https://open.spotify.com/album/3EFQ3EAe9LZnwMmGSS5RZ1"
       },

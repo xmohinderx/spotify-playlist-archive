@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-759 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+761 songs - 1 day 18 hr 20 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Code of Conduct](https://open.spotify.com/track/5OPELO4z0vOMvioFq2kjH5) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Call of Duty: Modern Warfare 2 \(Original Game Score\)](https://open.spotify.com/album/2b1A9NPz9XwJjvbtE5aCuh) | 2:09 | 2019-09-29\* | 2021-03-10 |
 | [Code of Ethics](https://open.spotify.com/track/7FBGKW39SsaBM3iXSslWzC) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Code of Ethics](https://open.spotify.com/album/13vZCbBG7OVHLZWpEHsOOJ) | 2:06 | 2021-03-26 | 2021-04-12 |
 | [CODES](https://open.spotify.com/track/6byz4ge1TeXplb8aXTUhKN) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI) | [CODES](https://open.spotify.com/album/5QRLg8hrCeLumNyIgedMYl) | 2:54 | 2021-03-27 | 2022-07-06 |
+| [CODES](https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Macntaj](https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K) | [CODES](https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj) | 2:31 | 2022-11-23 |  |
 | [Cold](https://open.spotify.com/track/5jYe1mOKg5zUx0enf1DOdz) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [unheard](https://open.spotify.com/artist/4yUqy7ZriHOrcenY7R63et) | [Cold](https://open.spotify.com/album/0Vci60496fhTWcRODhFCYM) | 3:23 | 2021-03-27 | 2022-02-24 |
 | [Colors](https://open.spotify.com/track/2BOUrjXoRIo2YHVAyZyXVX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 4:21 | 2021-03-16 | 2021-07-27 |
 | [COLUMBIA](https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [COLUMBIA](https://open.spotify.com/album/13hsWzSOISWHF9Iv9wcdJq) | 3:07 | 2021-03-27 | 2021-09-30 |
@@ -282,6 +283,7 @@
 | [GET UP](https://open.spotify.com/track/51mhilUS9gAjguYyuNj3O4) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [METAL / GET UP](https://open.spotify.com/album/191QDT6Y0tN7GPYjR1vG4k) | 2:41 | 2021-04-26 | 2021-08-25 |
 | [Get You Down](https://open.spotify.com/track/6xETlaZOaKtxiU60FK1uM2) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Get You Down](https://open.spotify.com/album/32lvwKyQjL3y9YBuqPVtar) | 4:23 | 2021-10-10 | 2021-12-11 |
 | [Ghost](https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Ghost](https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m) | 2:49 | 2022-04-20 |  |
+| [Ghost Light](https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light](https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM) | 3:11 | 2022-11-23 |  |
 | [Glide](https://open.spotify.com/track/3mOYyXu8dJq9xdLNBsQfjq) | [Stephen Walking](https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL) | [Rocket League x Monstercat Vol\. 3](https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj) | 3:16 | 2021-03-14 | 2021-08-07 |
 | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/track/5zOqYPTcgiTAZfnKUbaNSf) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/album/0DwjDbtMXpRYzO3HXTuzmu) | 3:17 | 2021-09-30 | 2022-02-24 |
 | [Glu](https://open.spotify.com/track/0ti69hiX6lZKuPSvWGh7bK) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [Glu](https://open.spotify.com/album/52eYeHZoxv2PoDyu2sNc1D) | 3:56 | 2021-05-25 | 2021-12-11 |

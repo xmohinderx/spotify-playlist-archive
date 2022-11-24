@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-871 songs - 1 day 21 hr 11 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+872 songs - 1 day 21 hr 13 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-02 | 2022-03-04 |
 | [Icey](https://open.spotify.com/track/6BDfLF0GoHND77V6BvFeBo) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [amfisbena](https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4) | 2:29 | 2022-01-15 | 2022-05-23 |
 | [Icy Baby](https://open.spotify.com/track/0jKcH3yy2WkclbjFmSVHrd) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Icy Baby](https://open.spotify.com/album/3C5JkuuBRS8bk2pYGCcdrK) | 3:04 | 2022-11-12 | 2022-11-20 |
-| [Icy Baby](https://open.spotify.com/track/5hjS9QMOKKd4ZV49ucurqP) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Notatki z Marginesu](https://open.spotify.com/album/0yH9nM2sihHBFBhYCcamfu) | 3:04 | 2022-11-19 |  |
+| [Icy Baby](https://open.spotify.com/track/5hjS9QMOKKd4ZV49ucurqP) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Notatki z Marginesu](https://open.spotify.com/album/0yH9nM2sihHBFBhYCcamfu) | 3:04 | 2022-11-19 | 2022-11-24 |
 | [IKEA \(intro\)](https://open.spotify.com/track/369UJeRvrV88tPihhNIWlF) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 2:22 | 2021-10-03 | 2021-11-05 |
 | [Impreza](https://open.spotify.com/track/2Y1Nd54Jrgciu2HtpP5ymM) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH) | [Impreza](https://open.spotify.com/album/0bcU5z54MAzxqmgBGr2vnP) | 2:45 | 2021-03-27\* | 2022-01-03 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-28 | 2021-09-19 |
@@ -652,6 +652,7 @@
 | [Queen](https://open.spotify.com/track/59x6oq3mHjNYkj0y9WJVBI) | [Jacuś](https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq) | [Gucci Trip](https://open.spotify.com/album/5tuUrb77ifLgAqHq7SJY2K) | 3:16 | 2021-08-10 | 2021-10-27 |
 | [R.I.P\. Krawczyk](https://open.spotify.com/track/5qsmfqG6u9ajbJMyH1bw08) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [OLEK](https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8) | [Dom Dla Zmyślonych Przyjaciół Pana Mateusza](https://open.spotify.com/album/0msLBh7Jo7cFkvTrigflxi) | 2:38 | 2022-04-08 | 2022-04-14 |
 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 | 2021-07-21 | 2022-01-03 |
+| [Rarara](https://open.spotify.com/track/08sMDBcjUBXWV99gZI092C) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt) | [Rarara](https://open.spotify.com/album/2OqUTL50aaiUwf7s3QY7IZ) | 2:31 | 2022-11-23 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-17 | 2021-07-20 |
 | [Ratchet Business Class](https://open.spotify.com/track/5fukCaaofklUVZBfqgAvox) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Swizzy](https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk) | [Ratchet Business Class](https://open.spotify.com/album/52Sk1JefeYNI9pGSg3mmB6) | 2:58 | 2022-07-09 | 2022-07-11 |
 | [Ratuj](https://open.spotify.com/track/3tW8M4Jrrw9K5atA2YpMOF) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Ratuj](https://open.spotify.com/album/4dcgq4s53OxOlHwZw40HU3) | 2:37 | 2021-12-29 | 2022-01-15 |

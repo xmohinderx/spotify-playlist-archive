@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-114 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+115 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Our Solar System](https://open.spotify.com/track/79XvorCRGVZKHh0On5dUbu) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 2:27 | 2021-12-06 |  |
 | [Outer Space](https://open.spotify.com/track/1p5nREmkili6RdJmqi48s3) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Connecting the Dots](https://open.spotify.com/album/4JnpN8HzrJ7nK8wNlYMzXG) | 3:29 | 2021-12-06 |  |
 | [Outer Space](https://open.spotify.com/track/4YpJi52LlwX2OFv58ctXhi) | [Bobs & Lolo](https://open.spotify.com/artist/23hMSJlSk68cUMqC9tzJv7) | [Connecting the Dots](https://open.spotify.com/album/5doVmKYv3rlEcwkFDJBQyg) | 3:29 | 2021-12-06 | 2022-07-29 |
-| [Outer Space](https://open.spotify.com/track/1lsvD197cdeCWRxAm38eNP) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/3A1pL7vlM1lfxb1jCFmyLE) | 0:43 | 2021-12-06 |  |
+| [Outer Space](https://open.spotify.com/track/1lsvD197cdeCWRxAm38eNP) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/3A1pL7vlM1lfxb1jCFmyLE) | 0:43 | 2021-12-06 | 2022-11-24 |
+| [Outer Space](https://open.spotify.com/track/25lvJbARp0FAig2pINGVHj) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/1CRJMSYV7GBvFNhtVJvLWG) | 0:43 | 2021-12-06 |  |
 | [Outer Space](https://open.spotify.com/track/41YAVzlFxFpFxc9nNgY3MH) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Noggin Knows: Songs About the Earth](https://open.spotify.com/album/1bfW16UooYe1XTQHOprGnN) | 0:43 | 2021-12-06 | 2022-10-13 |
 | [Planets Song](https://open.spotify.com/track/5WlUYeK2PvjdcdN8S9XOIl) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:48 | 2021-12-06 |  |
 | [Poor Planet Pluto](https://open.spotify.com/track/2lpE0810oMsafosumY0icg) | [Eric Ode](https://open.spotify.com/artist/3Edg9oHspeilek2d8tcyOJ) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:30 | 2021-12-06 |  |

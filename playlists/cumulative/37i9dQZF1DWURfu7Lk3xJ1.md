@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-264 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
+266 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/6BiUQwxfmWJtL7vBYtAIVk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Daffodil](https://open.spotify.com/track/5hX2PkApzbk9jw4bwz5MYo) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2vqbcYmHOcCq98XNHcOuQr) | 2:23 | 2022-09-09 | 2022-11-20 |
 | [Daffodil](https://open.spotify.com/track/7v0GVnXyUwE31aqCAQcWY3) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2v6XMvE2IPI8K32IwpJn3C) | 2:23 | 2022-11-18 |  |
 | [Dancing Forever](https://open.spotify.com/track/0LrxsHsaS4hCoJ2XdqVNhr) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [Dancing Forever \- Ambience](https://open.spotify.com/album/2dDjy11GKzpjujxXrEcYtE) | 2:16 | 2022-09-09 |  |
-| [Deep Affection](https://open.spotify.com/track/717gydHl2e27f5temk2yyc) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/41fruNAkolL6oaIma2fnSJ) | 2:38 | 2022-09-30 |  |
+| [Deep Affection](https://open.spotify.com/track/438FpYzYrcrWFFTH84KrI8) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/4V9t2VbNccEAxhockfJovc) | 2:38 | 2022-11-18 |  |
+| [Deep Affection](https://open.spotify.com/track/717gydHl2e27f5temk2yyc) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/41fruNAkolL6oaIma2fnSJ) | 2:38 | 2022-09-30 | 2022-11-24 |
 | [Deep Dive](https://open.spotify.com/track/11v17iFyo3ORBeMXCbWI4S) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Deep Dive](https://open.spotify.com/album/2ZHD7tsq6cQZyO2w4N9Oqa) | 2:47 | 2022-10-14 |  |
 | [Deep In The Fog](https://open.spotify.com/track/7bE2lnAsVdWTVb11wRjgOO) | [snowmeadow](https://open.spotify.com/artist/2X1uKCWnxuVLMW9iRG9Buw) | [Deep In The Fog](https://open.spotify.com/album/6O8WI1fmKoTEsXtE9T4xbT) | 2:35 | 2022-09-30 |  |
 | [dewy Tuesday](https://open.spotify.com/track/6oggVU7j2p79cdTUekCL8r) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [dewy Tuesday](https://open.spotify.com/album/6INnkNfn9IW1ENekm5O7Ul) | 2:20 | 2022-09-09 |  |
@@ -268,7 +269,8 @@
 | [Wet Leaves](https://open.spotify.com/track/5MyaXFBaCBntZbHPtdKrcj) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Wet Leaves](https://open.spotify.com/album/5eRaEZTSfYLzZxsB008JBu) | 2:03 | 2022-11-11 | 2022-11-19 |
 | [What About The Sky](https://open.spotify.com/track/2XUSqvpU17VFaeGFClPs5t) | [Mildred](https://open.spotify.com/artist/3Z4AQ0MlP04v8w7vjEDnS4) | [What About The Sky](https://open.spotify.com/album/0nBe2qxEBhqIfODDN53OWe) | 2:20 | 2022-09-09 |  |
 | [Whisked Away](https://open.spotify.com/track/5jwTYWN7SPXY0jfOUYdBKm) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Whisked Away](https://open.spotify.com/album/2rXf1loUzFhgPWd5eQvTPa) | 2:11 | 2022-09-09 | 2022-09-30 |
-| [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 | 2022-10-07 |  |
+| [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 | 2022-10-07 | 2022-11-24 |
+| [Wishing](https://open.spotify.com/track/5Fad8WA782vI44QU3dk27Q) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/4Hw58r49IR1pkClLZ226BI) | 2:22 | 2022-11-18 |  |
 | [Wonders](https://open.spotify.com/track/7ywNEAXgv5AEoL1bD4qRUk) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Wonders](https://open.spotify.com/album/1jpgwQwxiN5ZkrEGJvVsux) | 2:25 | 2022-09-09 |  |
 | [Yellow Moon](https://open.spotify.com/track/3jJCwfvB3zzLqYp7RlaXhF) | [smplsmth](https://open.spotify.com/artist/3xikz0pO9DWQ9SBfxmNlId) | [Color Theory](https://open.spotify.com/album/2OfgtfwWi2RNUk2z1qGKdk) | 2:17 | 2022-09-09 |  |
 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 | 2022-09-30 |  |

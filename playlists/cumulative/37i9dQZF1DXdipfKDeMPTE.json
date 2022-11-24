@@ -291,10 +291,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 106894,
       "name": "airless",
       "url": "https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv"
+    },
+    {
+      "album": {
+        "name": "kidnapped lofigirl",
+        "url": "https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB"
+      },
+      "artists": [
+        {
+          "name": "msnthrp",
+          "url": "https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3"
+        },
+        {
+          "name": "Nalim",
+          "url": "https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106894,
+      "name": "airless",
+      "url": "https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW"
     },
     {
       "album": {
@@ -4341,6 +4363,28 @@
     {
       "album": {
         "name": "Nightlife",
+        "url": "https://open.spotify.com/album/65ucCggEYsbO8WD7S1IRv0"
+      },
+      "artists": [
+        {
+          "name": "Prithvi",
+          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
+        },
+        {
+          "name": "takeo",
+          "url": "https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/5pNymjpdXwHQT5OGySLBY2"
+    },
+    {
+      "album": {
+        "name": "Nightlife",
         "url": "https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg"
       },
       "artists": [
@@ -4355,7 +4399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 148732,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me"

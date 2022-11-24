@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 52397,
+  "num_followers": 52686,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDBjNGEyNzgzMjgyMjYwYTgwNGNhZjkxZWY1ZGYzOGI1",
+  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDU5ZDhmNzJiYTM4YmI2YTI5YzNlNTc4MjFlMjlhZDcy",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 228146,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
     },
     {
       "added_at": "2021-09-22 14:36:46",

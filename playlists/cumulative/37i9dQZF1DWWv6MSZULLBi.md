@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-248 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+249 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2022-05-13 | 2022-06-18 |
 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 | 2022-09-10 |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 | 2022-09-17 |
-| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-21 |  |
+| [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-21 | 2022-11-24 |
+| [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-21 |  |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-09-24 |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 |  |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 |  |

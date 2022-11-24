@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-240 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+241 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Make Me Feel Alright](https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:43 | 2021-05-21 | 2022-06-04 |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 |  |
-| [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 |  |
+| [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |
+| [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 | 2021-07-16 |  |
 | [Mischief Man](https://open.spotify.com/track/4nrNyJMtc6i9uvHnXy3cRT) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Ten Thousand Watts](https://open.spotify.com/album/3ItR2zuQVdk1tO16cz2GFl) | 3:18 | 2020-12-14 | 2022-02-26 |
 | [Miss Information](https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Miss Information](https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp) | 3:47 | 2021-09-10 |  |
 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 | 2022-09-23 |  |

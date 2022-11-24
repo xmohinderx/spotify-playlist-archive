@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-552 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+553 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
 | [CEHENNEM](https://open.spotify.com/track/2ipcDCBzdfj8KCcga2h39C) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:28 | 2022-09-10 | 2022-09-15 |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
-| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 | 2022-11-23 |
+| [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
@@ -149,7 +149,7 @@
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 |  |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
-| [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 |  |
+| [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 | 2022-11-24 |
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 |  |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
 | [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-07-09 |  |
@@ -364,7 +364,7 @@
 | [METEOR](https://open.spotify.com/track/4LsPjyty35CPGnvgy4aybJ) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [METEOR](https://open.spotify.com/album/7zzqGk0dc86AYRtcLE532V) | 2:10 | 2021-04-18 | 2021-04-19 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
 | [Milyoner](https://open.spotify.com/track/5k3Exf5ZlAtDUZnK9cTv3D) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Milyoner](https://open.spotify.com/album/5v7WVyZbgdp8pEwvVYMm5W) | 4:01 | 2021-04-18 | 2021-05-03 |
-| [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 |  |
+| [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 | 2022-11-24 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-05 | 2021-12-07 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-03 | 2021-04-14 |
@@ -405,6 +405,7 @@
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-11-22 |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2022-05-07 | 2022-10-16 |
+| [Paradoks](https://open.spotify.com/track/4OrBxEv9bIWY5D2WWSbfkM) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Paradoks](https://open.spotify.com/album/34HnpsAgtfxIaxa85gS5AW) | 2:15 | 2022-11-23 |  |
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 | 2022-01-04 | 2022-01-06 |

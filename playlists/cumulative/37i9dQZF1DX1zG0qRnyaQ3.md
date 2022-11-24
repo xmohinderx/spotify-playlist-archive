@@ -4,7 +4,7 @@
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-102 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
+103 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,13 @@
 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 | 2021-01-16 |  |
 | [If You're Not Outraged](https://open.spotify.com/track/5TjzKvKocKPhYUutKldx3E) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [If You're Not Outraged](https://open.spotify.com/album/6cTrzMsUjn9I7uffd4buD8) | 2:26 | 2021-01-16 | 2022-07-25 |
 | [Leaders of Tomorrow](https://open.spotify.com/track/0E5EcB6lR9ku0RkBEKmkR7) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/0RxeLsWafPCah0PuBIH2w1) | 3:56 | 2021-01-16 | 2022-11-21 |
+| [Leaders of Tomorrow](https://open.spotify.com/track/3T0t41YzwZeY5ZBYMAuJBA) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/6wjLrUW0SFMZxehAp0EpDi) | 3:56 | 2021-01-16 |  |
 | [Letter From Iraq](https://open.spotify.com/track/4Mp4wTuMuao6bGRJ8BkzG9) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [The Gold Record](https://open.spotify.com/album/26H1hYTjwWQXiQzvlGvklK) | 2:57 | 2021-01-16 | 2022-07-22 |
 | [London Is Burning](https://open.spotify.com/track/6mlTmvwG2NqqARTyHzdAjE) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba), [The Mescaleros](https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2) | [London Is Burning](https://open.spotify.com/album/3LmT4vcLiEbsCBa0YBgERe) | 3:14 | 2021-01-16 | 2022-07-24 |
 | [No Allegiance To A Flag](https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Division](https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7) | 2:01 | 2021-01-16 | 2022-07-28 |
 | [On You](https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Suffrage](https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9) | 2:22 | 2021-01-16 | 2022-07-29 |
 | [ONE OF US](https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:24 | 2021-01-16 |  |
-| [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 | 2021-01-16 |  |
+| [Our Great Divide](https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:16 | 2021-01-16 | 2022-11-24 |
 | [Oxy Moronic](https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 3:56 | 2021-01-16 |  |
 | [Oxy Moronic](https://open.spotify.com/track/3Sp7KjYl7Wyh5GIq3AaXRz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/7C0KC68isgrHpV43072lYE) | 3:56 | 2021-01-16 | 2022-07-29 |
 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 | 2021-01-16 | 2022-07-22 |

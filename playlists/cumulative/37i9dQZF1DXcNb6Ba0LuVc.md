@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-380 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+382 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Lazily](https://open.spotify.com/track/31O9nHEGRZGcAVDxHL1g56) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Lazily](https://open.spotify.com/album/1F5fZmVZ7Id86HWpjZJNj1) | 2:18 | 2021-11-11 | 2022-05-20 |
 | [Lazy Sundays At The Blue Coral](https://open.spotify.com/track/6QhBDlJF7pSy8gicZv0YJA) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [A Lazy Sunday At The Blue Coral](https://open.spotify.com/album/2ZneOkqwLnRGGeANe0YtgQ) | 2:22 | 2021-11-11 | 2022-05-20 |
 | [Lemon Ginger](https://open.spotify.com/track/5YWNeJW5s40JgHGFiNhFh2) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lemon Ginger](https://open.spotify.com/album/6TtmdWWZP4o3gJgUb2Q83f) | 2:33 | 2021-11-11 |  |
-| [Liberta](https://open.spotify.com/track/0lw9eOnzrOuC3yDNK8nwW7) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/7CpXwOkmDbrYpnkFOlc5Ft) | 1:45 | 2022-10-28 |  |
+| [Liberta](https://open.spotify.com/track/0DKwWrhBAo9lKe8gbVqSok) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/4KjnLy6KKzuJNbIYnWZ4fY) | 1:45 | 2022-11-11 |  |
+| [Liberta](https://open.spotify.com/track/0lw9eOnzrOuC3yDNK8nwW7) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Liberta](https://open.spotify.com/album/7CpXwOkmDbrYpnkFOlc5Ft) | 1:45 | 2022-10-28 | 2022-11-24 |
 | [License To Chill](https://open.spotify.com/track/4CbhVp50fIwZlInji609vC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [License To Chill](https://open.spotify.com/album/0HfOL5WJpcNvyIArMewASC) | 2:19 | 2022-11-11 |  |
 | [Lights](https://open.spotify.com/track/2Mhuiai4G6F55u2ABlgTfx) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Journey](https://open.spotify.com/album/45d85cjZ1WpzNanWJXE23f) | 2:09 | 2022-04-22 |  |
 | [Limited Time Only](https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Limited Time Only](https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m) | 3:33 | 2022-07-01 | 2022-08-19 |
@@ -317,7 +318,8 @@
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-15 |  |
 | [Sunny Daze](https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Sunny Daze](https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI) | 1:57 | 2022-04-22 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2021-11-11 |  |
-| [Sunny Side](https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/2f8sYkAMIleSBlqydbL4Pc) | 2:14 | 2022-10-15 |  |
+| [Sunny Side](https://open.spotify.com/track/1JywCZds4lp3TBWaWX9VCc) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/1buEFrWsBE4b1sovzufwle) | 2:14 | 2022-11-11 |  |
+| [Sunny Side](https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/2f8sYkAMIleSBlqydbL4Pc) | 2:14 | 2022-10-15 | 2022-11-24 |
 | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/track/4F5mLxbhGHhwQpYeJCZKAf) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Sunnyside Crossing \(Ode to KK\)](https://open.spotify.com/album/0Upp6SD0SMlItdoMasbOuD) | 3:38 | 2021-11-11 | 2022-09-03 |
 | [Sunset Hues](https://open.spotify.com/track/2gRsbCDGfo7dz5MIeQZ04n) | [Lofi Stranger](https://open.spotify.com/artist/3pAyM4do5GqYgSi7nt3NIr) | [Sunset Hues](https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP) | 1:37 | 2022-09-02 |  |
 | [Surf Boogie](https://open.spotify.com/track/04aD25LiPRSZfT2lz1mGw8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Loves You](https://open.spotify.com/album/63qpWQd44kLnmFhMZ1mkRm) | 2:10 | 2021-11-11 | 2022-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447239,
+  "num_followers": 447333,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMDdiMjJiODYxZDY1Y2Q5OTE1YTFlOThjNWQ5ZDVhODFj",
+  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMDBmN2JiOTI4M2QxNWIxNWUyZDlkMDI1MzcyMjBlM2I4",
   "tracks": [
     {
       "added_at": "2022-11-11 06:15:22",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
     },
     {
-      "added_at": "2022-08-13 02:30:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
-      },
-      "artists": [
-        {
-          "name": "Dainty",
-          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
-        }
-      ],
-      "duration_ms": 222620,
-      "name": "Tapestry - Edit",
-      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
-    },
-    {
       "added_at": "2022-03-11 06:17:20",
       "album": {
         "name": "The Vaulting Sky",
@@ -561,6 +545,22 @@
       "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
+      "added_at": "2022-08-13 02:30:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
+      },
+      "artists": [
+        {
+          "name": "Dainty",
+          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
+        }
+      ],
+      "duration_ms": 222620,
+      "name": "Tapestry - Edit",
+      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
+    },
+    {
       "added_at": "2022-08-03 02:49:15",
       "album": {
         "name": "Shallots",
@@ -575,22 +575,6 @@
       "duration_ms": 221298,
       "name": "Shallots",
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
-      "added_at": "2022-09-21 02:18:13",
-      "album": {
-        "name": "Seez",
-        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
-      },
-      "artists": [
-        {
-          "name": "Herva",
-          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
-        }
-      ],
-      "duration_ms": 221632,
-      "name": "Xid",
-      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -609,20 +593,20 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
+      "added_at": "2022-09-21 02:18:13",
       "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+        "name": "Seez",
+        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Herva",
+          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+      "duration_ms": 221632,
+      "name": "Xid",
+      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -639,6 +623,22 @@
       "duration_ms": 398232,
       "name": "Trains & Airports",
       "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
+    },
+    {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
       "added_at": "2022-01-13 02:05:11",

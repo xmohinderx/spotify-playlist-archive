@@ -453,10 +453,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 115764,
       "name": "foreplay perfume",
       "url": "https://open.spotify.com/track/42M9EKXuqmJsOqrMlLcPKW"
+    },
+    {
+      "album": {
+        "name": "midnight special",
+        "url": "https://open.spotify.com/album/5YOL7cRFekvhQ2CmItnQzu"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "foreplay perfume",
+      "url": "https://open.spotify.com/track/6LAyR6XDWI4fkESEkAhehx"
     },
     {
       "album": {
@@ -837,6 +855,24 @@
     {
       "album": {
         "name": "seed",
+        "url": "https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "seed",
+      "url": "https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk"
+    },
+    {
+      "album": {
+        "name": "seed",
         "url": "https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7"
       },
       "artists": [
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 120000,
       "name": "seed",
       "url": "https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan"

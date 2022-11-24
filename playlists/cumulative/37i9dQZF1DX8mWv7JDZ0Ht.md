@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim
 
-195 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+196 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Esteja Lá](https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ) | [Zoo](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [DSLA \(Desperte Seu Lado Animal\)](https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK) | 2:14 | 2022-09-23 | 2022-10-15 |
 | [Eu e Eu Mesmo](https://open.spotify.com/track/4U4KZ4I0Hcvfc5UpoWVnoA) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Eu e Eu Mesmo](https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1) | 3:00 | 2022-06-17 | 2022-09-03 |
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-05-13 | 2022-06-15 |
-| [Eu Gosto de Você](https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Desajeito](https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm) | 2:31 | 2022-11-11 |  |
+| [Eu Gosto de Você](https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Desajeito](https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm) | 2:31 | 2022-11-11 | 2022-11-24 |
 | [eu me amo mais](https://open.spotify.com/track/0qfHRo7pVX4GMJlhG70NQs) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [solta](https://open.spotify.com/album/4DMZLRmAYZ3vDfD6Mv5cIy) | 2:13 | 2022-05-13 | 2022-09-03 |
 | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Eu Não Ando Tão Bem Assim](https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy) | 3:00 | 2022-09-09 |  |
 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 | 2022-05-13 | 2022-06-04 |
@@ -111,6 +111,7 @@
 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 | 2022-09-30 |  |
 | [Leve](https://open.spotify.com/track/6lpvsomA1rOjC9Nf1Na4sz) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Leve](https://open.spotify.com/album/55a1xNRpaWDSLBJpcOSvzQ) | 3:04 | 2022-08-05 | 2022-10-01 |
 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 | 2022-08-01 |  |
+| [Louco de Amor](https://open.spotify.com/track/615qyOqm6qXrgVCVBDYCRX) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9) | [INTENSO](https://open.spotify.com/album/6BTSt53WQzgxPoAQWX1v6c) | 3:08 | 2022-11-18 |  |
 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 | 2022-05-13 |  |
 | [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-11 |  |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 | 2022-11-19 |
@@ -164,7 +165,7 @@
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [roda de bamba](https://open.spotify.com/track/3p1sKst6UehseITknM5z1b) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:42 | 2022-11-11 |  |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 |  |
-| [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 |  |
+| [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Daramô](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 |  |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 |  |
 | [Sem Filtro](https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Sem Filtro](https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1) | 3:49 | 2022-08-01 |  |
 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 | 2022-06-03 | 2022-08-06 |

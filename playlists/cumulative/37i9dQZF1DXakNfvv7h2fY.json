@@ -430,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Floating Bridge",
+        "url": "https://open.spotify.com/album/0pmkZo7NGfqidiVeRy9dvf"
+      },
+      "artists": [
+        {
+          "name": "Floating Bridge",
+          "url": "https://open.spotify.com/artist/16CDfPbczuc5E0vYGnvIS4"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453200,
+      "name": "Gonna' Lay Down 'N Die (Slow Blues)",
+      "url": "https://open.spotify.com/track/3mYM9TVLjh0yNvQtppIxQM"
+    },
+    {
+      "album": {
         "name": "Last Session",
         "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
       },
@@ -1741,6 +1759,24 @@
       "duration_ms": 290560,
       "name": "Trying So Hard to Forget",
       "url": "https://open.spotify.com/track/4RU0p13ARYDbv2T9z4TQgf"
+    },
+    {
+      "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203226,
+      "name": "Tupelo Blues",
+      "url": "https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ"
     },
     {
       "album": {

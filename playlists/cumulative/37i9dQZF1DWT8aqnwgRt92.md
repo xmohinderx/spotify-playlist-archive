@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-356 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+357 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-15 |  |
 | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/4v0GYHuqGhYZFBTVRMeOSm) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/5Q9mzyYNLaP22U0Ms3IuIc) | 3:46 | 2022-10-25 | 2022-11-18 |
 | [Reversal](https://open.spotify.com/track/3EaLX2LusDc6gdjrBtAGSS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [CYAN](https://open.spotify.com/album/43hgcfzrljkCzbw3OlKWHE) | 4:13 | 2022-05-28 | 2022-07-06 |
+| [Rewrite \- From CrosSing](https://open.spotify.com/track/1RwWzFRxsNzJqcLDnnrFC1) | [Nakamura Shugo](https://open.spotify.com/artist/3hE4ryyzMuML98YQzQRC4P) | [Rewrite \- From CrosSing](https://open.spotify.com/album/31kjhPcNFE7CeOUR6y3CYc) | 3:48 | 2022-11-22 |  |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-28 | 2022-07-27 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-28 | 2022-06-10 |
@@ -270,7 +271,7 @@
 | [モンスターディスコ](https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [ヒャダイン](https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF) | [モンスターディスコ](https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK) | 3:15 | 2022-07-12 | 2022-07-29 |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [ラナ](https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ラナ](https://open.spotify.com/album/3m5ZzghhvDyygAcIaJMrV3) | 3:21 | 2022-05-28 | 2022-07-06 |
-| [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 |  |
+| [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
 | [ロメオ](https://open.spotify.com/track/7fINebCzUsbG8KXCUX9kqS) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [榎本虎太朗 \(CV:花江夏樹\)](https://open.spotify.com/artist/5nHNAtcpQxtsqiZe18w7ST), [柴崎健（CV：江口拓也）](https://open.spotify.com/artist/4Fxvg5CZfQxFFtjPfKUZqk) | [ロメオ](https://open.spotify.com/album/79h5Pcn9p34PMYveZxAmyi) | 5:14 | 2022-05-28 | 2022-06-03 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2022-10-04 |  |
 | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/track/4Lwu5jxAauZYj5JWPjD72P) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [一番光れ!\-ブッチギレ\-](https://open.spotify.com/album/025d3ip2r1hEWZwhTWBeTX) | 4:03 | 2022-07-28 | 2022-10-07 |

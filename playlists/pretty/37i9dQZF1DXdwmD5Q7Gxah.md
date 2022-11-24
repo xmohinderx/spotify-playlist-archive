@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: omar apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,254 likes - 115 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,398 likes - 115 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

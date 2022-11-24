@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-810 songs - 1 day 20 hr 55 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+811 songs - 1 day 21 hr 0 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [California Dreamin' \(feat\. High Jinx\) \(LP Giobbi Remix\)](https://open.spotify.com/track/2AwFU2BnJRlEpjDtu04e6S) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin'](https://open.spotify.com/album/3KtuR0XfemCzYsFgiYT7c8) | 2:24 | 2022-02-18 | 2022-07-29 |
 | [Call It House](https://open.spotify.com/track/7lZHxf5SYUVnBlNwtiCNzv) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Call It House](https://open.spotify.com/album/3oyDOIt7GscqWfYVdRnC7T) | 2:02 | 2021-12-17 | 2022-06-13 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-09-16 |  |
-| [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2021-07-01 |  |
+| [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2021-07-01 | 2022-11-24 |
 | [Came For The Low](https://open.spotify.com/track/36LQYp5FNsuT5voIO9bdfZ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Came For The Low](https://open.spotify.com/album/5MoIvYGjZVz46XIfOa9JGg) | 3:15 | 2021-04-20 | 2022-04-21 |
 | [Came to Get Funky](https://open.spotify.com/track/76dtzhJswG0IrusOuOXxw0) | [Cazztek](https://open.spotify.com/artist/3wRQD6UZWlaWEnbgpIEPPX) | [Came to Get Funky](https://open.spotify.com/album/6iUqmsQugyTEj8qK4p69lF) | 4:09 | 2020-05-25 | 2020-09-05 |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-29 | 2022-09-19 |
@@ -642,6 +642,7 @@
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2020-11-03 | 2021-12-10 |
 | [See Me Fall](https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6) | [EKAE](https://open.spotify.com/artist/4tO9yeKWvSAIYredvRSKdR) | [See Me Fall](https://open.spotify.com/album/1pA7w0A36BX8USfMuJQkg7) | 2:05 | 2021-02-27 | 2022-03-21 |
 | [Sensational](https://open.spotify.com/track/3Kir9mPDm54ViKTrgXA3zB) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Sensational](https://open.spotify.com/album/2nwb4DgmKwc1QdhnLBj7S4) | 3:17 | 2021-04-22 | 2021-12-21 |
+| [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-18 |  |
 | [Set You Free](https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Set You Free](https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB) | 2:49 | 2022-02-18 | 2022-10-21 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-01 | 2022-11-13 |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2020-12-12 | 2021-08-14 |

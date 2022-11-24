@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 782452,
+  "num_followers": 784869,
   "original_name": "Energy Booster: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc4NDExOCwwMDAwMDAwMDZmZWI1M2FjYjVhOGQ4YzZmNzE4ZGM0NmIyOTMxMWZj",
+  "snapshot_id": "MTY2Njc4NDExOCwwMDAwMDAwMGE3NjRhNGNjNTc4MTA1ZTFmNmIxNmJiNDYwYjNhOTUw",
   "tracks": [
     {
       "added_at": "2022-10-26 11:35:18",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
-    },
-    {
-      "added_at": "2022-10-26 11:35:18",
-      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2022-10-26 11:35:18",
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "DROPPED OUTTA COLLEGE",
-        "url": "https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "VALENTINO",
-      "url": "https://open.spotify.com/track/6piAUJJQFD8oHDUr0b7l7q"
-    },
-    {
-      "added_at": "2022-10-26 11:35:18",
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": "2022-10-26 11:35:18",
+      "album": {
+        "name": "DROPPED OUTTA COLLEGE",
+        "url": "https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/6piAUJJQFD8oHDUr0b7l7q"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -1843,8 +1843,8 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
       },
       "artists": [
         {
@@ -1852,9 +1852,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
+    },
+    {
+      "added_at": "2022-10-26 11:35:18",
+      "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 153147,
       "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
       "url": "https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o"
-    },
-    {
-      "added_at": "2022-10-26 11:35:18",
-      "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126446,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155497,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
-    },
-    {
-      "added_at": "2022-10-26 11:35:18",
-      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 251720,
       "name": "Business",
       "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+    },
+    {
+      "added_at": "2022-10-26 11:35:18",
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Rolex",
-        "url": "https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr"
-      },
-      "artists": [
-        {
-          "name": "Ayo & Teo",
-          "url": "https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt"
-    },
-    {
-      "added_at": "2022-10-26 11:35:18",
-      "album": {
         "name": "Trap Lord",
         "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 283693,
       "name": "Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",
       "url": "https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS"
+    },
+    {
+      "added_at": "2022-10-26 11:35:18",
+      "album": {
+        "name": "Rolex",
+        "url": "https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr"
+      },
+      "artists": [
+        {
+          "name": "Ayo & Teo",
+          "url": "https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -2579,22 +2579,18 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "The Return of East Atlanta Santa",
-        "url": "https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB"
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
         }
       ],
-      "duration_ms": 190311,
-      "name": "Both (feat. Drake)",
-      "url": "https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux"
+      "duration_ms": 236600,
+      "name": "Stay Fly",
+      "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
     },
     {
       "added_at": "2022-10-26 11:35:18",
@@ -2619,18 +2615,22 @@
     {
       "added_at": "2022-10-26 11:35:18",
       "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+        "name": "The Return of East Atlanta Santa",
+        "url": "https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB"
       },
       "artists": [
         {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Stay Fly",
-      "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
+      "duration_ms": 190311,
+      "name": "Both (feat. Drake)",
+      "url": "https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux"
     },
     {
       "added_at": "2022-10-26 11:35:18",

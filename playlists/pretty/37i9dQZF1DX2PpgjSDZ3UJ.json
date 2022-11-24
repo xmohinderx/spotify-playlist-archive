@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 18962,
+  "num_followers": 18991,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGUwOTVhMTg1MWNlNmRkYzhlMDc1MTAyYmE4MGRiZmNk",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDkyY2QzZDdkYTRiZTY1YzhmNjVmNzY5OGIxMDIwZTg0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Todas las Flores de Enero",
         "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
         }
       ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -483,6 +467,22 @@
       "duration_ms": 280513,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/3cDs4QvgqiEX0fms6Pfg7A"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
       },
       "artists": [
         {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
         }
       ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
       "artists": [
         {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
         }
       ],
-      "duration_ms": 200869,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Se Parece A",
         "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 228574,
       "name": "Alguien Detra\u0301s de Mi",
       "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

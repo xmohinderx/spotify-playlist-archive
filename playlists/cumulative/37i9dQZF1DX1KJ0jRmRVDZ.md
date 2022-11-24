@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-551 songs - 1 day 7 hr 37 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+552 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [First Love feat.natsumi](https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [First Love feat.natsumi](https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo) | 2:25 | 2022-07-28 | 2022-08-23 |
 | [Flore](https://open.spotify.com/track/0pq466YrVQcHoMI5NEP7ry) | [Caro](https://open.spotify.com/artist/4A2gPMTP4JlLW4BhA4BeTr) | [Flore](https://open.spotify.com/album/1MjwCvVYqvRPBRI7dOoN7v) | 4:30 | 2022-06-23 | 2022-07-20 |
 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 | 2022-11-15 |  |
+| [Fuyuumi feat\. Keina Suda](https://open.spotify.com/track/6bppTKO2Fx1xtwPawg8hnY) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Keina Suda](https://open.spotify.com/artist/5AXd3qJ9SVN09wVWGfFH0K) | [Fuyuumi feat\. Keina Suda](https://open.spotify.com/album/1fTwkmx0IsEwzIXoBCDoPP) | 4:39 | 2022-11-22 |  |
 | [Gerbera](https://open.spotify.com/track/0WpodCrGhNjKu87WxMUkFK) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [Gerbera](https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR) | 3:50 | 2022-07-14 | 2022-07-27 |
 | [Girl.](https://open.spotify.com/track/2uH4sSVxfRDBhsg1YekBBm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Girl.](https://open.spotify.com/album/5jR5aEVdxEXOMRf9Mp6uIK) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
@@ -367,7 +368,7 @@
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [全部が嫌いだ](https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [全部が嫌いだ](https://open.spotify.com/album/6bREPUWcely11Lkl5Ey7Wr) | 2:02 | 2022-06-09 | 2022-07-22 |
 | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/album/6IzGihmL24pqcRVd0vSl4S) | 3:50 | 2022-09-01 | 2022-09-21 |
-| [冬海 feat\. 須田景凪](https://open.spotify.com/track/6P6PQhUqR6pxq133y0DRPk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [冬海 feat\. 須田景凪](https://open.spotify.com/album/2ZpIQ7k0EiYeeYyO9mKUtg) | 4:39 | 2022-11-22 |  |
+| [冬海 feat\. 須田景凪](https://open.spotify.com/track/6P6PQhUqR6pxq133y0DRPk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [冬海 feat\. 須田景凪](https://open.spotify.com/album/2ZpIQ7k0EiYeeYyO9mKUtg) | 4:39 | 2022-11-22 | 2022-11-24 |
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |
 | [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 |  |
 | [半端者](https://open.spotify.com/track/0jtfoVtew7OYQZSo1vGmr9) | [ケダルイ / Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [半端者](https://open.spotify.com/album/6VcUHJAsWtRQCct2IgvEeO) | 3:15 | 2022-06-21 | 2022-07-21 |

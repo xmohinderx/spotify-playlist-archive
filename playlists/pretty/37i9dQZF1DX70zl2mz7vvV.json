@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 34172,
+  "num_followers": 34249,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDdkMDZjNzZjODY4YWIxMDgyNzA2YzU1ZmNhMTBlOGIx",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDI2YjIxZDZkNjc1ODg0NmNhNzAzNDkwNjllMWZhZGQ0",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "A Moment In Time",
         "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 222960,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
     },
     {
       "added_at": "2020-10-19 09:02:25",

@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 20407,
+  "num_followers": 20478,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNzYxNzcyMCwwMDAwMDAwMDFiODgyZjQ5ZmViNjg2NDc2MTQ0MGJhMTdiNWVjM2Y1",
+  "snapshot_id": "MTYyNzYxNzcyMCwwMDAwMDAwMGU4MmY4YjJhM2ZiMmQ0NmEzYjI4ODdhYWFmZGRkYzJi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:02:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
+        "name": "I Have Decided To Follow Jesus - Single",
+        "url": "https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK"
+      },
+      "artists": [
+        {
+          "name": "Jadon Lavik",
+          "url": "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
+        }
+      ],
+      "duration_ms": 188291,
+      "name": "I Have Decided To Follow Jesus",
+      "url": "https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
         "name": "The Undoing",
         "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 360000,
       "name": "Simple Gospel (Live)",
       "url": "https://open.spotify.com/track/1laUzJ0NBV7iwWCcquCxcN"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
-        "name": "I Have Decided To Follow Jesus - Single",
-        "url": "https://open.spotify.com/album/71401Xfgja31gy4HIlOQwK"
-      },
-      "artists": [
-        {
-          "name": "Jadon Lavik",
-          "url": "https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1"
-        }
-      ],
-      "duration_ms": 188291,
-      "name": "I Have Decided To Follow Jesus",
-      "url": "https://open.spotify.com/track/6briCXTsGwU0Mfx87T5LXm"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -559,22 +559,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Live at the Banks House",
-        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
       "artists": [
         {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 376093,
-      "name": "Nothing I Hold on to (Live)",
-      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -595,22 +595,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "The Loft Sessions",
-        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
         },
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         }
       ],
-      "duration_ms": 264680,
-      "name": "Fall Afresh",
-      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "30: Three Decades of Songs for the Church",
-        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
-          "name": "Brook Hills Music",
-          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 292600,
-      "name": "Jesus, Thank You",
-      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
+      "duration_ms": 230013,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -891,18 +887,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
       },
       "artists": [
         {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
         }
       ],
-      "duration_ms": 283986,
-      "name": "The House Of God, Forever",
-      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg"
+      "duration_ms": 283986,
+      "name": "The House Of God, Forever",
+      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
       "artists": [
         {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 347853,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
+      "duration_ms": 378693,
+      "name": "Take Courage - Live",
+      "url": "https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 378693,
-      "name": "Take Courage - Live",
-      "url": "https://open.spotify.com/track/6fiARGC2wsBpuOech1FAun"
+      "duration_ms": 347853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
     },
     {
       "added_at": "2021-07-30 04:02:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-07-30 04:02:00",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 207487,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
-    },
-    {
-      "added_at": "2021-07-30 04:02:00",
-      "album": {
         "name": "Good to Me",
         "url": "https://open.spotify.com/album/5xREj9Thco8YJ83fCEomhV"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 240801,
       "name": "Come Thou Fount",
       "url": "https://open.spotify.com/track/3VzWiZtaS7Z6rLj290J3Fh"
+    },
+    {
+      "added_at": "2021-07-30 04:02:00",
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 207487,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
     },
     {
       "added_at": "2021-07-30 04:02:00",

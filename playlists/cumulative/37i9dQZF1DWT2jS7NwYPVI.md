@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Luka State
 
-988 songs - 2 day 4 hr 35 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+989 songs - 2 day 4 hr 39 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 | 2022-11-18 |  |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-10 | 2022-08-20 |
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-09-02 | 2022-10-15 |
-| [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-10-28 |  |
+| [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-10-28 | 2022-11-24 |
+| [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 |  |
 | [GLORY\*](https://open.spotify.com/track/6WzFwY9BjUXO7ztVkUJ0Hm) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:14 | 2022-10-21 |  |
 | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/track/4Qcu1voWmc5vXrpNZI6PGf) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Go To Hell \(feat\. Yours Truly\)](https://open.spotify.com/album/1uAHVkRPGVP52UhGs5cSES) | 3:07 | 2021-11-19 | 2022-03-05 |
 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 | 2022-11-04 |  |

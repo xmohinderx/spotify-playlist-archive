@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-250 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+251 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-09-03 |
 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2022-08-05 |  |
-| [Luton](https://open.spotify.com/track/2lkaNasVnIobxN1tuVPuFm) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1fujLmksUjwmJFZ7C7lCHq) | 2:03 | 2022-10-14 |  |
+| [Luton](https://open.spotify.com/track/2lkaNasVnIobxN1tuVPuFm) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1fujLmksUjwmJFZ7C7lCHq) | 2:03 | 2022-10-14 | 2022-11-24 |
+| [Luton](https://open.spotify.com/track/2naDbMUuNcU3uPF7U6kW9m) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1PS4hzK5p3zdyU8KnSLHKS) | 2:03 | 2022-11-11 |  |
 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 | 2022-05-27 |  |
 | [Make A Wish](https://open.spotify.com/track/2P41Bt7a8ecBJAPsQ1kYzf) | [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c), [Last Summer](https://open.spotify.com/artist/1OngpryVWFJJNFsqSxhVFB) | [Make A Wish](https://open.spotify.com/album/63uBDoJLHHvp3Ebpg3SFGx) | 2:03 | 2022-10-14 |  |
 | [Manito](https://open.spotify.com/track/3czR3Xu0Ld5moQlOntRH4E) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [Manito](https://open.spotify.com/album/755BUKp9HmjQUi1t1E8G5H) | 2:03 | 2022-06-24 | 2022-07-08 |

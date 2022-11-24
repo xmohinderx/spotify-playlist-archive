@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,706 likes - 78 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,779 likes - 78 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 46 | [Daft Funk \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/0tgGNtJNQfD6I6F1DuqEoc) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Nathan East](https://open.spotify.com/album/0YvZVmKkFKuyYSPzMTLTwj) | 4:47 |
 | 47 | [Hips](https://open.spotify.com/track/3qNDTtFPFQsP9Y5d8vBtZI) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [Juicy Fruit](https://open.spotify.com/album/73kfq9W3uZk0TF61fBROOF) | 5:42 |
 | 48 | [Talkbox Fever \(feat\. the Talkbox Allstars\)](https://open.spotify.com/track/45hT7TQvXxSXRoByXERCEf) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu), [The Talkbox Allstars](https://open.spotify.com/artist/1X6Jt2x6QcFZQUfLGgL932) | [Released and Unreleased, Vol\. 1](https://open.spotify.com/album/0iSIU1wDFfiJzV4sJ5L2gw) | 6:21 |
-| 49 | [Back](https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 5:10 |
+| 49 | [Back](https://open.spotify.com/track/3VpzfeLGVlnFkhJyt4gwSL) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [25 Compost Records \- Overture 4](https://open.spotify.com/album/578byiKGJlCaQF9XqhHZwz) | 5:10 |
 | 50 | [Don't Tell Me](https://open.spotify.com/track/333okPsY6YDK87HQYfwGPJ) | [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [No Place Like Soul](https://open.spotify.com/album/7gv33SdUKCfG0kIG1yF33i) | 3:52 |
 | 51 | [Time Runners](https://open.spotify.com/track/7cHpy9RziRJcB7sJzkVl3G) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Spectrum](https://open.spotify.com/album/37kg8ppSvrlXOR88u2fvNB) | 4:21 |
 | 52 | [Temu's Talkbox Groove](https://open.spotify.com/track/2JTXaMVZ2da6nP1cgqndU3) | [Temu](https://open.spotify.com/artist/6qqTmbtiK0b7OBYZtvFwlW) | [Relic of the Mothership](https://open.spotify.com/album/741ZrZnUXNxP2xPFJhvCs3) | 4:49 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 77 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
 | 78 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDU0MTZmZGQxMjRlNjk1YTRiYjNiYmMyMDlkYjQ2MmRk`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDY3MzI5Mjg0ODJlZjA4N2IxYmI2OWI2NmFjYzk4MTE3`

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 22741,
+  "num_followers": 22749,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGFjOGQxODlmMDBiZmUyOWVmMGU4MWM3ZWI2NWNhZDI4",
+  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGZjNWFjMzYwZTEwY2M1MjI5M2ZlY2JlYTBmOGE4Mjhi",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3086\u306a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/2o0hk9IK0Oztb0tN27KigK"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "SHINING LINE*",
+      "url": "https://open.spotify.com/track/2NPZZtqaLcJJVXpS6lloLX"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
         "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 215709,
       "name": "Shiny day",
       "url": "https://open.spotify.com/track/5p4SyNJHFOkY7zTjUNtOqi"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
-      },
-      "artists": [
-        {
-          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3086\u306a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/2o0hk9IK0Oztb0tN27KigK"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "SHINING LINE*",
-      "url": "https://open.spotify.com/track/2NPZZtqaLcJJVXpS6lloLX"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -732,13 +732,13 @@
       },
       "artists": [
         {
-          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
+          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
         }
       ],
-      "duration_ms": 239800,
-      "name": "MY SHOW TIME!",
-      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
+      "duration_ms": 276666,
+      "name": "Blooming\u25bdBlooming",
+      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -780,13 +780,13 @@
       },
       "artists": [
         {
-          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
+          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
         }
       ],
-      "duration_ms": 276666,
-      "name": "Blooming\u25bdBlooming",
-      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
+      "duration_ms": 239800,
+      "name": "MY SHOW TIME!",
+      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
     },
     {
       "added_at": "2022-07-26 16:16:56",

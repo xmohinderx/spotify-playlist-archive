@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,869 likes - 102 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,135 likes - 102 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

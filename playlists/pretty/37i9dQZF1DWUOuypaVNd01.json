@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk, LEALL, Major RD, Derxan",
-  "num_followers": 22408,
+  "num_followers": 22518,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDY1NjhkYmViNDQyNTdlYThhOTNiN2Y3MTVkNzczYjMx",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDNjYjgwZGE3YTZhYTUxMDM1NTQyNTRjM2EwNDE1MDg4",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Prop\u00f3sitos",
-        "url": "https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Prop\u00f3sitos",
-      "url": "https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 91682,
       "name": "Puxa o Gatilho Primeiro",
       "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Prop\u00f3sitos",
+        "url": "https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Prop\u00f3sitos",
+      "url": "https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -954,6 +954,10 @@
         {
           "name": "Muxima MC",
           "url": "https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V"
+        },
+        {
+          "name": "Moraez",
+          "url": "https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa"
         }
       ],
       "duration_ms": 229766,
@@ -1007,22 +1011,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1039,6 +1027,22 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2022-11-11 03:01:00",

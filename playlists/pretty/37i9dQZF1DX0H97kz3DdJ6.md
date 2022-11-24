@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,627 likes - 82 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,817 likes - 82 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 64 | [Vento](https://open.spotify.com/track/2Yf9Q8MmG40zVPaY8AXkKD) | [volares](https://open.spotify.com/artist/3iCpu8urDkLzZh4lsdmRfN) | [Vento](https://open.spotify.com/album/6UnLd7E7jjhir0whcdEPG2) | 2:17 |
 | 65 | [Mentiras](https://open.spotify.com/track/3Spub8dfTQ7ctrWjW1PlQ1) | [Jade Olie](https://open.spotify.com/artist/4pDmJqugegEQyqRepTEQE0) | [Mentiras](https://open.spotify.com/album/5gJVCufz4RmRfD9jKuFMUv) | 3:04 |
 | 66 | [pra quando estiver só](https://open.spotify.com/track/0B5WG8va94qV0y5U3jnyJr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [pra quando estiver só](https://open.spotify.com/album/51Hq7RIJiVJQgOrGfsCd7Z) | 2:45 |
-| 67 | [Monstro](https://open.spotify.com/track/0TGN193dpJ5dg9YOk1oCAR) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/6ejBYCdgc2II7gwAmFKxnW) | 3:36 |
+| 67 | [Monstro](https://open.spotify.com/track/4EH1497hGrC9rDdok3qQ4N) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Monstro](https://open.spotify.com/album/2aKAOqDAK1jZegtyIiVO16) | 3:36 |
 | 68 | [Esteja Comigo](https://open.spotify.com/track/4gL5DV0MAktV5QfnRClX5u) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4) | [Esteja Comigo](https://open.spotify.com/album/46kbsL56JTTbaOWB9bTcXy) | 2:30 |
 | 69 | [O Amor Não Foi o Bastante](https://open.spotify.com/track/0cvCb8ihnIPwh05ssQdjCH) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn), [Bruno RV](https://open.spotify.com/artist/0GWIligQb9rKE7lem3fZNo) | [Galos e Cerâmicas: Uma Peça Sobre o Tempo](https://open.spotify.com/album/5QmkJORtLTOAvKHWlsaFhQ) | 3:24 |
 | 70 | [Amores Nascem e Morrem](https://open.spotify.com/track/6sYoOLkoTCerRMgfHh8J65) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/7KH7FYJCl0AUq5yHM3vSgy) | 3:16 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 81 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 82 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY2ODcwODU2MSwwMDAwMDAwMDU4NWE5MWRjOTkzZDI0NzMwYjg2NmU4NjFjYzdlMTUx`
+Snapshot ID: `MTY2ODcwODU2MSwwMDAwMDAwMGIwN2YzMjczM2VlNTgyZDNhYjY4NjU3MmNhMzhiYWVl`

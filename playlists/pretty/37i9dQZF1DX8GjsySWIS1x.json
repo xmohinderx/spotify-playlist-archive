@@ -1,13 +1,53 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 989737,
+  "num_followers": 990180,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4ODMzNiwwMDAwMDAwMGMxM2QzYTEwNTAyZTQ1Y2M0YmY0ZGYwZWExOGMxOTJh",
+  "snapshot_id": "MTY2OTIxNzg1NywwMDAwMDAwMDNhNGVhYzJlOGFhMjhiYzI1YTYwZjhkOTA4YTI5NTU4",
   "tracks": [
+    {
+      "added_at": "2022-11-23 15:37:37",
+      "album": {
+        "name": "Ghost Light",
+        "url": "https://open.spotify.com/album/4v9P47TGhiu4ZOsIrGXjIM"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        },
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Ghost Light",
+      "url": "https://open.spotify.com/track/2kDXDdn1SXFlOwTfWRGIT5"
+    },
+    {
+      "added_at": "2022-11-23 15:37:37",
+      "album": {
+        "name": "CODES",
+        "url": "https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Macntaj",
+          "url": "https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "CODES",
+      "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
+    },
     {
       "added_at": "2022-11-18 16:18:56",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 70518,
+  "num_followers": 70706,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGRhNGJhNDRhNGZiNjYxOThhZmQ5Nzc0ZDE2Y2QzMzA4",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDc5ZGY5YzgwYmNkMWY0YjZhNDQ5NTg4ZTVkZjlhNTc4",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Charlie Parker Memorial, Vol. 2",
+        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Billie's Bounce - Original",
+      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 311813,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Charlie Parker Memorial, Vol. 2",
-        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Billie's Bounce - Original",
-      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
     },
     {
       "added_at": "2020-10-12 18:15:54",

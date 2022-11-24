@@ -1812,6 +1812,24 @@
     },
     {
       "album": {
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193424,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz"
+    },
+    {
+      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs"
       },
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
@@ -5253,7 +5271,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
@@ -7139,6 +7157,28 @@
       "duration_ms": 228727,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
+    },
+    {
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371087,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml"
     },
     {
       "album": {

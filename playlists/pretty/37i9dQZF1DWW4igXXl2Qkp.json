@@ -1,13 +1,65 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Lil Darius",
-  "num_followers": 191511,
+  "num_followers": 191612,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAxMzIwMCwwMDAwMDAwMDFjNzY5MmZlM2MwM2Q3MWM4ZGNkOGM4ZjRkZGJlYTM5",
+  "snapshot_id": "MTY2OTE3ODI0OSwwMDAwMDAwMDViODg4MjgxYjliNzRkY2E1ZTFmYmRlNTQxMjZjYTgw",
   "tracks": [
+    {
+      "added_at": "2022-11-23 04:37:29",
+      "album": {
+        "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
+    },
+    {
+      "added_at": "2022-11-09 17:00:00",
+      "album": {
+        "name": "Law & Order pt. 2",
+        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "50jittsteppa",
+          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
+        }
+      ],
+      "duration_ms": 239303,
+      "name": "Law & Order pt. 2",
+      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
+    },
+    {
+      "added_at": "2022-11-09 17:00:00",
+      "album": {
+        "name": "M\u00ff T\u00fcrn",
+        "url": "https://open.spotify.com/album/2QqvTgBwhrV3NSI0CvfwfV"
+      },
+      "artists": [
+        {
+          "name": "Ex\u00f8tix",
+          "url": "https://open.spotify.com/artist/558RX1PVNFmCYmOhveATIb"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Ton1ght (Bonus)",
+      "url": "https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f"
+    },
     {
       "added_at": "2022-11-09 17:00:00",
       "album": {
@@ -23,6 +75,94 @@
       "duration_ms": 134322,
       "name": "FreakyT",
       "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
+      "added_at": "2022-11-23 04:37:29",
+      "album": {
+        "name": "Emotional Gangsta",
+        "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
+      },
+      "artists": [
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 263636,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5BcIBbBdkjSYnf5jNlLG7j"
+    },
+    {
+      "added_at": "2022-10-13 23:48:51",
+      "album": {
+        "name": "Telfy",
+        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Telfy",
+      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
+    },
+    {
+      "added_at": "2022-11-23 04:37:29",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk"
+      },
+      "artists": [
+        {
+          "name": "JoeLew",
+          "url": "https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Manners",
+      "url": "https://open.spotify.com/track/1Zn1ycpMKgxmpsjV923JgB"
+    },
+    {
+      "added_at": "2022-10-05 16:00:00",
+      "album": {
+        "name": "Face no Book",
+        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Face no Book",
+      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
+    },
+    {
+      "added_at": "2022-11-23 04:37:29",
+      "album": {
+        "name": "Money Counter Music Vol. 2: Born In It",
+        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
+      },
+      "artists": [
+        {
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
     },
     {
       "added_at": "2022-11-09 17:00:00",
@@ -57,22 +197,6 @@
       "url": "https://open.spotify.com/track/2DEKpoE5Sy1Pf0bIktnB0k"
     },
     {
-      "added_at": "2022-10-13 23:48:51",
-      "album": {
-        "name": "Telfy",
-        "url": "https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo"
-      },
-      "artists": [
-        {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Telfy",
-      "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
-    },
-    {
       "added_at": "2022-10-26 17:52:42",
       "album": {
         "name": "RuleBook",
@@ -89,36 +213,20 @@
       "url": "https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY"
     },
     {
-      "added_at": "2022-10-05 16:00:00",
+      "added_at": "2022-08-31 04:00:00",
       "album": {
-        "name": "Face no Book",
-        "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
+        "name": "Wicked Inna RaQ",
+        "url": "https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7"
       },
       "artists": [
         {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
         }
       ],
-      "duration_ms": 145057,
-      "name": "Face no Book",
-      "url": "https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2"
-    },
-    {
-      "added_at": "2022-11-09 17:00:00",
-      "album": {
-        "name": "M\u00ff T\u00fcrn",
-        "url": "https://open.spotify.com/album/2QqvTgBwhrV3NSI0CvfwfV"
-      },
-      "artists": [
-        {
-          "name": "Ex\u00f8tix",
-          "url": "https://open.spotify.com/artist/558RX1PVNFmCYmOhveATIb"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Ton1ght (Bonus)",
-      "url": "https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f"
+      "duration_ms": 151275,
+      "name": "Wicked Inna RaQ",
+      "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
     },
     {
       "added_at": "2022-11-09 17:00:00",
@@ -135,26 +243,6 @@
       "duration_ms": 116375,
       "name": "Wine & Dine",
       "url": "https://open.spotify.com/track/5Ew8swOnetMeTxBwGCuK3b"
-    },
-    {
-      "added_at": "2022-11-09 17:00:00",
-      "album": {
-        "name": "Law & Order pt. 2",
-        "url": "https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "50jittsteppa",
-          "url": "https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf"
-        }
-      ],
-      "duration_ms": 239303,
-      "name": "Law & Order pt. 2",
-      "url": "https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF"
     },
     {
       "added_at": "2022-11-09 17:00:00",
@@ -315,22 +403,6 @@
       "duration_ms": 127384,
       "name": "Dahmer Flow",
       "url": "https://open.spotify.com/track/0ENOeN6WwYsRm6463ZCi1h"
-    },
-    {
-      "added_at": "2022-10-13 23:48:51",
-      "album": {
-        "name": "Vanish",
-        "url": "https://open.spotify.com/album/4TCv8hUT2EWButKeOC2jnC"
-      },
-      "artists": [
-        {
-          "name": "Legend Yae",
-          "url": "https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ"
-        }
-      ],
-      "duration_ms": 150836,
-      "name": "Vanish",
-      "url": "https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc"
     },
     {
       "added_at": "2022-10-19 14:24:53",
@@ -585,22 +657,6 @@
       "url": "https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf"
     },
     {
-      "added_at": "2022-08-31 04:00:00",
-      "album": {
-        "name": "Wicked Inna RaQ",
-        "url": "https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7"
-      },
-      "artists": [
-        {
-          "name": "Lil Nuu",
-          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
-        }
-      ],
-      "duration_ms": 151275,
-      "name": "Wicked Inna RaQ",
-      "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
-    },
-    {
       "added_at": "2022-09-28 16:00:00",
       "album": {
         "name": "Steezy",
@@ -787,54 +843,6 @@
       "duration_ms": 129000,
       "name": "19",
       "url": "https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu"
-    },
-    {
-      "added_at": "2022-09-14 17:38:35",
-      "album": {
-        "name": "PRESCRIBED OVERDOSE",
-        "url": "https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "SINCERELY",
-      "url": "https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "NO TELLIN",
-        "url": "https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw"
-      },
-      "artists": [
-        {
-          "name": "Dau Dau",
-          "url": "https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1"
-        }
-      ],
-      "duration_ms": 131830,
-      "name": "NO TELLIN",
-      "url": "https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs"
-    },
-    {
-      "added_at": "2022-09-21 16:03:07",
-      "album": {
-        "name": "TAKE R U OK",
-        "url": "https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh"
-      },
-      "artists": [
-        {
-          "name": "Take45",
-          "url": "https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "TAKE R U OK",
-      "url": "https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

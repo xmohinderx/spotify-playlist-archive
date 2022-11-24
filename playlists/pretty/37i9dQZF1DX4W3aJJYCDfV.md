@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dermot Kennedy \(pictured\), PinkPantheress, Sam Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,652 likes - 138 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,979 likes - 138 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

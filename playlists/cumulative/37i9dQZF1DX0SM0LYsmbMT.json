@@ -1606,6 +1606,28 @@
     },
     {
       "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1WVFnAYt24SDcdv1WZn1Np"
+      },
+      "artists": [
+        {
+          "name": "Soupbox",
+          "url": "https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ"
+        },
+        {
+          "name": "Run Wallace",
+          "url": "https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167770,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3"
+    },
+    {
+      "album": {
         "name": "linus | aire",
         "url": "https://open.spotify.com/album/3dUwhT5ZK7IAdbtkwkHIY8"
       },
@@ -5813,6 +5835,24 @@
       "duration_ms": 117142,
       "name": "Blinker",
       "url": "https://open.spotify.com/track/0ZCvfenhRRu8Nca2HqUPHX"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4dh7LE7KHxVUdZ5jdE4CB5"
+      },
+      "artists": [
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Rcj4TlzlxJllSm1GZkef4"
     },
     {
       "album": {
@@ -17239,6 +17279,28 @@
     {
       "album": {
         "name": "Fables Of Tales",
+        "url": "https://open.spotify.com/album/2eY5eQsQEB8K18S4NuwPcq"
+      },
+      "artists": [
+        {
+          "name": "Terce S.",
+          "url": "https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Fables Of Tales",
+      "url": "https://open.spotify.com/track/4dS7fR0EjiwkUyO8WiPXt5"
+    },
+    {
+      "album": {
+        "name": "Fables Of Tales",
         "url": "https://open.spotify.com/album/236Cesg6xaHoN4NP24cbi2"
       },
       "artists": [
@@ -19079,7 +19141,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 175600,
       "name": "For Those Who Love... - Beat Edit",
       "url": "https://open.spotify.com/track/3BzpJKOwdqUpSwjPDlkGPG"
@@ -21051,7 +21113,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 112000,
       "name": "Golden Bubble",
       "url": "https://open.spotify.com/track/1QapYF6NsW8ZRCXqmFMqhQ"
@@ -23449,7 +23511,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 125105,
       "name": "Hit Snooze",
       "url": "https://open.spotify.com/track/0bWuelZvef2phu1D5Gq3BI"
@@ -26955,7 +27017,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 98313,
       "name": "Jazz Hands",
       "url": "https://open.spotify.com/track/5q2atGfcFptWfDwoHk7IYI"
@@ -28765,6 +28827,28 @@
       "duration_ms": 139440,
       "name": "Krispl Alone",
       "url": "https://open.spotify.com/track/0Xy6qQ6CkxU52vscFNyawQ"
+    },
+    {
+      "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "YAN NAY",
+          "url": "https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139440,
+      "name": "Krispl Alone",
+      "url": "https://open.spotify.com/track/64VtmW9P5rbYb0y6btPCNg"
     },
     {
       "album": {
@@ -30751,7 +30835,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 108571,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/6S9TAvxvhHt3ASUMxcvvCz"
@@ -33135,7 +33219,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 101413,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/1S88WcAiYlpeaYo5VCcP0K"
@@ -36395,6 +36479,28 @@
     {
       "album": {
         "name": "Mr. Green",
+        "url": "https://open.spotify.com/album/11y6XkdzLkND85bbRAtWBq"
+      },
+      "artists": [
+        {
+          "name": "KaspaHauser",
+          "url": "https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Mr. Green",
+      "url": "https://open.spotify.com/track/3bAHLJpPTfvbccpZAcDtJk"
+    },
+    {
+      "album": {
+        "name": "Mr. Green",
         "url": "https://open.spotify.com/album/4dOymhl1rQ60IVGFBpdxPK"
       },
       "artists": [
@@ -37289,7 +37395,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 167647,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/215y1AF6bTRy8e0yAckl5Y"
@@ -43019,7 +43125,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 125646,
       "name": "Point Nemo With You",
       "url": "https://open.spotify.com/track/5nZKSAtpBlWHyXeuvwCQQ9"
@@ -44943,7 +45049,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 130909,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/1y1j2C4G9ebj1otTJ4XMi6"
@@ -47085,6 +47191,24 @@
     {
       "album": {
         "name": "Santa Anna",
+        "url": "https://open.spotify.com/album/0GotAWeTX5wrTe2lZt7Xso"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120343,
+      "name": "Santa Anna",
+      "url": "https://open.spotify.com/track/1fBdiUETHIpwfekJQON8d9"
+    },
+    {
+      "album": {
+        "name": "Santa Anna",
         "url": "https://open.spotify.com/album/4K3ZxGikQt4WuYccm2qeQs"
       },
       "artists": [
@@ -47095,7 +47219,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 120343,
       "name": "Santa Anna",
       "url": "https://open.spotify.com/track/59qb6in5aDPsgMOzkfEc67"
@@ -48339,7 +48463,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1"
@@ -52689,6 +52813,24 @@
       "duration_ms": 123029,
       "name": "Sumiko",
       "url": "https://open.spotify.com/track/0xHXCPAFYRorUQkyKy7PNO"
+    },
+    {
+      "album": {
+        "name": "The Potion of Creativity",
+        "url": "https://open.spotify.com/album/7xV346O8YCzDe2r06MLomQ"
+      },
+      "artists": [
+        {
+          "name": "m\u00e4dm\u00e4x",
+          "url": "https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123029,
+      "name": "Sumiko",
+      "url": "https://open.spotify.com/track/2ZQkmodS23AF709jXorCT6"
     },
     {
       "album": {
@@ -57313,6 +57455,24 @@
     {
       "album": {
         "name": "Tonspur Jazz",
+        "url": "https://open.spotify.com/album/6LgkxuRnHRMuRMKReq6cFy"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100805,
+      "name": "Tonspur Jazz",
+      "url": "https://open.spotify.com/track/0yFMMZjHACTwoOM762TfRk"
+    },
+    {
+      "album": {
+        "name": "Tonspur Jazz",
         "url": "https://open.spotify.com/album/5UTEbPjtQWFSFc9woK64by"
       },
       "artists": [
@@ -58329,7 +58489,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 126729,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/534V3GnPNGBWoYrqy2OIy6"
@@ -61637,6 +61797,28 @@
     {
       "album": {
         "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/17TjLqYD0Acxq4kzvpxf5o"
+      },
+      "artists": [
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/2D7Unr9oh9JLNPdhzTeqrq"
+    },
+    {
+      "album": {
+        "name": "Welcome Home",
         "url": "https://open.spotify.com/album/7t4tToTGvFLTeDBcpU6eWP"
       },
       "artists": [
@@ -62051,7 +62233,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 111000,
       "name": "When We Last Spoke",
       "url": "https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij"

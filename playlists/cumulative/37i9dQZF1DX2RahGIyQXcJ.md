@@ -4,7 +4,7 @@
 
 > Best of hip hop tracks from South Asia\. Cover: aleemrk
 
-151 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+153 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Awaara \(feat\. Reet Talwar\)](https://open.spotify.com/track/3AKYDhu8XN15p8Jx3qyODi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Awaara \(feat\. Reet Talwar\)](https://open.spotify.com/album/25pfK7fECZwdohzFgE9b34) | 3:14 | 2021-12-03 | 2022-06-17 |
 | [BAAZ](https://open.spotify.com/track/5AiPk1WhVkVOouovFAtLFO) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [BAAZ](https://open.spotify.com/album/4K2e39AggprCvkHwA5AR8W) | 4:31 | 2021-12-03 |  |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2022-11-10 |  |
+| [Bach Ke](https://open.spotify.com/track/5Yq28cxRO9m7mTxsUYY4lA) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Bach Ke](https://open.spotify.com/album/0tyVwjM84T8Q9RUC7zLa13) | 2:53 | 2022-11-23 |  |
 | [Baller](https://open.spotify.com/track/7ecil8YftFlihyxZPe66tk) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Lit Happu](https://open.spotify.com/artist/0z6H0b4Jvoti5MtOvXQR5l) | [Chaand Paar](https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY) | 2:56 | 2022-04-07 | 2022-06-03 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-10-10 |  |
 | [Bandish](https://open.spotify.com/track/0LAQGavx2bOA6zx63c1oPw) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Bandish](https://open.spotify.com/album/0BKQwNIOay1F9kt9iEYsI0) | 4:52 | 2021-12-03 | 2022-07-19 |
@@ -81,6 +82,7 @@
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2022-07-19 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2021-12-03 |  |
 | [Janaza](https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Janaza](https://open.spotify.com/album/6Urpqpdp6rfWx5vZ3ObLcI) | 3:00 | 2022-01-13 | 2022-07-19 |
+| [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 | 2022-11-23 |  |
 | [Jhamela Nai](https://open.spotify.com/track/2IBwxmXqZe2tRoahSTtP0b) | [Bhanga Bangla](https://open.spotify.com/artist/3JME2t83KwX07EXNAuVeEK) | [Made in Bangladesh](https://open.spotify.com/album/6WQ7yLqM2VuRXHO2teb3Ru) | 5:01 | 2022-07-18 | 2022-10-11 |
 | [Jyotiana](https://open.spotify.com/track/4JJ0UDZ0j4h324HGiBHdXi) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [New Memories](https://open.spotify.com/album/2rnpZz4qrxYiptr4hG2nG9) | 2:51 | 2022-07-18 | 2022-10-11 |
 | [Kamini](https://open.spotify.com/track/34022UYT9Ewsv8Oi0rY8RE) | [Kevin Smokio](https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc), [Tee Cee](https://open.spotify.com/artist/6hqo8d3gc1rgUFTvUJ0Ndu), [Ramesses Reezy](https://open.spotify.com/artist/2vvoyU5P5AB1ZdMjRYLFOK) | [Kamini](https://open.spotify.com/album/1CsuEETITU53fMSVbaSHwY) | 4:20 | 2021-12-03 | 2022-07-19 |

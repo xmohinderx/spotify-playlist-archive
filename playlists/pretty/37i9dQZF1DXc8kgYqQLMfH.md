@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,216 likes - 430 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,353 likes - 430 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 70 | [Kamarina](https://open.spotify.com/track/6KVQNDDIEqAoJ6ZteoNG7m) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Kamarina](https://open.spotify.com/album/6C3Rht3pt5LDSLyTuXM6xw) | 2:07 |
 | 71 | [Into the woods](https://open.spotify.com/track/72qa1fzwLsm1dOeP9jSDmZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Into the woods](https://open.spotify.com/album/0Lo3etb3dZRIsS11SxlS5p) | 2:02 |
 | 72 | [Time \- Birds of the West Remix](https://open.spotify.com/track/1kl3d9lcw2OaIx1I3JmfLS) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Time \(Birds of the West Remix\)](https://open.spotify.com/album/5FO1Dap8bsOhZ98WMy5Vv5) | 2:59 |
-| 73 | [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 |
+| 73 | [Sweet Harmonies](https://open.spotify.com/track/3eru26MhCX1DcTEdYvEmBz) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/5PuA4W4jFM4ZBhWzOkVK00) | 2:58 |
 | 74 | [Ghostboy](https://open.spotify.com/track/3gTqbgP4Kq4i1p27vCpiL8) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Ghostboy](https://open.spotify.com/album/4XBaiclHrnTRyY3OV02aPi) | 1:46 |
 | 75 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 |
 | 76 | [ambar](https://open.spotify.com/track/0VOuTIdSvi1JdrbUA79hLs) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [ambar](https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q) | 2:21 |
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 218 | [Filon](https://open.spotify.com/track/5HBsRUmY05whAWU5JiZkNd) | [Broky Flacko](https://open.spotify.com/artist/6FoTVSfKcKfug9cWxyttk6), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Filon](https://open.spotify.com/album/4932oPGZ71IUz8VQ6UptGN) | 1:42 |
 | 219 | [The Storm Passes](https://open.spotify.com/track/1Mc0LHhNuvfLnm1cSxVGbJ) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [The Storm Passes](https://open.spotify.com/album/1GGjh8xsJiBx49YK1nogBv) | 2:35 |
 | 220 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 |
-| 221 | [Falling Leaves](https://open.spotify.com/track/5lnfEGxTbMyG3mNH3hOSx9) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6E1ZM3Ib24wnE0ctw1eMce) | 1:55 |
+| 221 | [Falling Leaves](https://open.spotify.com/track/0reKnezLNVWxzZKJwWusOO) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6kxoGbgg7Fzakjoul17YN9) | 1:55 |
 | 222 | [Mood](https://open.spotify.com/track/1ZrvSzR17bYxrIVQMd0CWt) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Mood](https://open.spotify.com/album/4f6dgxqb5JZNE8mDfSzIp8) | 2:43 |
 | 223 | [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 |
 | 224 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Zola Yachin](https://open.spotify.com/artist/10P5GjC3Yl8fF2ZOnZSfHd) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 429 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 430 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY2ODE2NTk2NCwwMDAwMDAwMDJhOGQ0YzNlOTAzZDI2MzliZDA4ZWQ0NjEwNDJkZjRm`
+Snapshot ID: `MTY2ODE2NTk2NCwwMDAwMDAwMDg2NGMwMWNkMWU3Y2E3NzU4N2FmODQ3YmNkZGIyNDE2`

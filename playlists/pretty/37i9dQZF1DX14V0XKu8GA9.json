@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 17948,
+  "num_followers": 18023,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDU5NjVhMmYwMDI2ZjdiNGQ4ZTYxZWE1ZTcwMjZiZmM5",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDEwMDk1YTk2NjQxMjQ4OWI2MTkxM2ExYjExZTI4OTBh",
   "tracks": [
     {
       "added_at": "2022-09-23 15:32:00",
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
     },
     {
-      "added_at": "2022-11-23 01:18:31",
+      "added_at": "2022-11-24 01:22:16",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "City Playa",
-        "url": "https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0"
-      },
-      "artists": [
-        {
-          "name": "Doughboy Tony",
-          "url": "https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "City Playa",
-      "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Ain't Done",
         "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 171934,
       "name": "Ain't Done",
       "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "City Playa",
+        "url": "https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0"
+      },
+      "artists": [
+        {
+          "name": "Doughboy Tony",
+          "url": "https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "City Playa",
+      "url": "https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR"
     },
     {
       "added_at": "2022-09-23 15:32:00",

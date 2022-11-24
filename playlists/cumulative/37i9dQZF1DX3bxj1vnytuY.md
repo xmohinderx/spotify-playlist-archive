@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-138 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+139 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Vazda](https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vazda](https://open.spotify.com/album/2jWqoNIoJ8XNuV0zziWSSQ) | 7:12 | 2022-05-19 |  |
 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 | 2022-04-13 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2022-04-13 |  |
+| [XP](https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [XP](https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd) | 6:39 | 2022-11-23 |  |
 | [Ya Albi](https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Your Destiny Ep](https://open.spotify.com/album/1gJn7kasUhDdy6HJ8pg0uv) | 6:12 | 2022-04-13 |  |
 | [Ya Dam3i](https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-04-13 |  |

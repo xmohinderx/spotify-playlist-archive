@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 530439,
+  "num_followers": 530557,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDViZTY2OWMxNGM2NzY0ZTQwZTg3YWI0Zjg2MmJlNzAw",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMGViMTg5Zjk5ZjFiZDRmZjVlZDRjYjMxZjQ0YTU5Y2Qz",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1891,22 +1891,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Cobarde (Remix)",
-        "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
       },
       "artists": [
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Cobarde - Remix",
-      "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1927,18 +1923,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+        "name": "Cobarde (Remix)",
+        "url": "https://open.spotify.com/album/6M9SrFa10Xmc4xcNjWWBNx"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+      "duration_ms": 231333,
+      "name": "Cobarde - Remix",
+      "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
     },
     {
       "added_at": "2022-10-27 06:13:38",

@@ -157,6 +157,24 @@
     {
       "album": {
         "name": "<3 (for sara)",
+        "url": "https://open.spotify.com/album/1iMkzqmIvblOBk35Quz2IC"
+      },
+      "artists": [
+        {
+          "name": "Drwn.",
+          "url": "https://open.spotify.com/artist/6kb4CAkaM1MhjPiS3TTbM4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131950,
+      "name": "<3 (for sara)",
+      "url": "https://open.spotify.com/track/5MF2DFTpp4IJOIzFdaUpeS"
+    },
+    {
+      "album": {
+        "name": "<3 (for sara)",
         "url": "https://open.spotify.com/album/1jeXIdSfzh8psOkKTJPlEi"
       },
       "artists": [
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 131950,
       "name": "<3 (for sara)",
       "url": "https://open.spotify.com/track/6O3y78TmOGlEWcW31IOskE"
@@ -1179,10 +1197,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 165277,
       "name": "Calm The Storm",
       "url": "https://open.spotify.com/track/3yhi9q1nzFYJDZpJWjcrfk"
+    },
+    {
+      "album": {
+        "name": "Calm The Storm",
+        "url": "https://open.spotify.com/album/4EipnfMK5g9MdJzxkZ8P1o"
+      },
+      "artists": [
+        {
+          "name": "KO WIN",
+          "url": "https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg"
+        },
+        {
+          "name": "Tonion",
+          "url": "https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165277,
+      "name": "Calm The Storm",
+      "url": "https://open.spotify.com/track/7yWYOJIP5fvuLFoosg4xLu"
     },
     {
       "album": {
@@ -2899,10 +2939,36 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 171555,
       "name": "Flight 99 - Instrumental",
       "url": "https://open.spotify.com/track/2G40GyMdMf9NjvBCWuIVnV"
+    },
+    {
+      "album": {
+        "name": "Flight 99 (Remixes)",
+        "url": "https://open.spotify.com/album/0TAKBTEX12oBQ6VmlPe0Sn"
+      },
+      "artists": [
+        {
+          "name": "Please Wait",
+          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171555,
+      "name": "Flight 99 - Instrumental",
+      "url": "https://open.spotify.com/track/3xYuSl14visUQp9josEqIM"
     },
     {
       "album": {
@@ -3441,7 +3507,7 @@
     {
       "album": {
         "name": "Venetian Blinds",
-        "url": "https://open.spotify.com/album/6JUA2UDIIF444niaQMlbL3"
+        "url": "https://open.spotify.com/album/0x5WvMjYdLqQIbNBELQJ3A"
       },
       "artists": [
         {
@@ -3452,6 +3518,24 @@
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 70723,
+      "name": "Grab Me",
+      "url": "https://open.spotify.com/track/0NVNMpfQSByxAJRDX8pL2N"
+    },
+    {
+      "album": {
+        "name": "Venetian Blinds",
+        "url": "https://open.spotify.com/album/6JUA2UDIIF444niaQMlbL3"
+      },
+      "artists": [
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
       "duration_ms": 70723,
       "name": "Grab Me",
       "url": "https://open.spotify.com/track/0cE08OroMUhkConKh6M6gV"
@@ -7769,10 +7853,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 140605,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/21tkja4bPHLqIcgAXiYBFX"
+    },
+    {
+      "album": {
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140605,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt"
     },
     {
       "album": {
@@ -8855,10 +8957,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 162000,
       "name": "Space Ride",
       "url": "https://open.spotify.com/track/39fJNs8HZ93gIW5wVzGdP3"
+    },
+    {
+      "album": {
+        "name": "Space Ride",
+        "url": "https://open.spotify.com/album/1Vj9dgQZ3GUR1ju2D7jBeC"
+      },
+      "artists": [
+        {
+          "name": "Sless Praismo",
+          "url": "https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt"
+        },
+        {
+          "name": "Frogman",
+          "url": "https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Space Ride",
+      "url": "https://open.spotify.com/track/0nvoFTmrfqVMjlTvhx1Sl5"
     },
     {
       "album": {
@@ -10177,6 +10301,24 @@
     {
       "album": {
         "name": "Time And Space",
+        "url": "https://open.spotify.com/album/0g5vm8jQYvi7daN6YsSlUY"
+      },
+      "artists": [
+        {
+          "name": "Summerfields",
+          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166567,
+      "name": "Time And Space",
+      "url": "https://open.spotify.com/track/2LAqKH7Fep8GfNJGONTAag"
+    },
+    {
+      "album": {
+        "name": "Time And Space",
         "url": "https://open.spotify.com/album/6nMxipAju9t9Rp6mLZ15n3"
       },
       "artists": [
@@ -10187,7 +10329,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 166567,
       "name": "Time And Space",
       "url": "https://open.spotify.com/track/697TBmclHJQlcG2Ewlu0ln"

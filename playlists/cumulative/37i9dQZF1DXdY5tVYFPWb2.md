@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-362 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+364 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Gimme](https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5) | 3:31 | 2022-09-13 | 2022-11-02 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 |  |
 | [GOOD TIME](https://open.spotify.com/track/0oj0YxfvAPazQGptSG5QNv) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [GOOD TIME](https://open.spotify.com/album/4hieMgBu3TfoOwRc1G84EI) | 3:42 | 2022-07-12 | 2022-07-27 |
-| [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3) | 3:38 | 2022-11-22 |  |
+| [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/3h17LvrGeu5QGVd1wC6lGX) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/4wiMHuITVjOFHhJPS7vtFv) | 3:38 | 2022-11-22 |  |
+| [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3) | 3:38 | 2022-11-22 | 2022-11-24 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-24 |  |
 | [Higher](https://open.spotify.com/track/0AFmH6T57kBT7ZcVflH2me) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Higher](https://open.spotify.com/album/4gCkJK3KO7KDYCn5Kq2uEO) | 4:13 | 2022-09-08 | 2022-09-15 |
 | [Highway](https://open.spotify.com/track/1ilQZ06LvmBcqtXhoSlpln) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Highway](https://open.spotify.com/album/3xDydP9dNsLrFkRzF5KYXz) | 3:56 | 2022-07-26 | 2022-07-28 |
@@ -165,7 +166,7 @@
 | [Perfect! Your Love](https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Perfect! Your Love](https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo) | 3:44 | 2022-11-08 |  |
 | [Period](https://open.spotify.com/track/23uYUawwd3eL8JCrjyYaUj) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Period](https://open.spotify.com/album/33411oyhikhkz8k2AOHchF) | 3:55 | 2022-06-16 | 2022-06-19 |
 | [PINK](https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE) | [桐生ちあり](https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J) | [日常](https://open.spotify.com/album/3MLtWoulPfU1BCmjwFGuow) | 3:15 | 2022-06-16 | 2022-06-22 |
-| [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 |  |
+| [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 | 2022-11-24 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-24 |  |
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-29 |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-28 |
@@ -219,6 +220,7 @@
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-06-21 | 2022-07-27 |
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-24 | 2022-06-29 |
 | [tasty tasks](https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [pool mood / tasty tasks / 息を吸う ここで吸う 生きてく](https://open.spotify.com/album/6IL2lsyn0niP1eZyoLV5lz) | 4:07 | 2022-06-02 | 2022-07-28 |
+| [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-24 |  |
 | [Terminal](https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Terminal](https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB) | 3:59 | 2022-09-27 | 2022-10-05 |
 | [Thank you for the Music](https://open.spotify.com/track/1eKsUjRIRU6qJLDgNK5gBT) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/5YjWnYtYne2BxgybhtSJTM) | 5:23 | 2022-10-04 | 2022-10-06 |
 | [Thank you for the Music](https://open.spotify.com/track/7qtEfm6u5oD1q8Wu5e8iSk) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/2JOZNoKcEZZHBea9tCRQpt) | 5:23 | 2022-10-04 | 2022-10-12 |

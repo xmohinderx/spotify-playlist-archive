@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,881 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,937 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 133 | [Family Man](https://open.spotify.com/track/5KiDWqKsU0EfXQJdnWSOn9) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 3:24 |
 | 134 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 |
 | 135 | [Chinatown Wars](https://open.spotify.com/track/2w40syGl9qdWmaLbstkATO) | [Ghostface Killah & Doom](https://open.spotify.com/artist/26yXuyMz4MJ8LzfdnluM0j) | [Grand Theft Auto: Chinatown Wars](https://open.spotify.com/album/5Vmlz8Ir6m2efzAysdACS3) | 3:39 |
-| 136 | [Play It Cool](https://open.spotify.com/track/1ukiiZflmFDT2tISzN0Q9R) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/3MIN5xm8U4mF6W3ADGh93h) | 3:53 |
+| 136 | [Play It Cool](https://open.spotify.com/track/5YP2Id88tm2pnRQ6Ejh1rh) | [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [The Alchemist and Oh No Present Welcome to Los Santos](https://open.spotify.com/album/5nv99ug8cFmIVQsspcHej8) | 3:53 |
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDFjYTJiZDM1MDkyYTA1MzI3NjNlODgzZDRiODg5NmU0`
+Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMGU3MmI4YWJkMjA4NGZhMmQzYTZkYTNmNzg2YjA4MWQw`

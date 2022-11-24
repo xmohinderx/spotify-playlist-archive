@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2426609,
+  "num_followers": 2426773,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzYxNDY0MSwwMDAwMDAwMGQ1OThhYTIwZTgzZGZjYWJhYTIzNTNhMzQ3NjdjM2Q0",
+  "snapshot_id": "MTY2MzYxNDY0MSwwMDAwMDAwMDllOGZiMmQ5ZDgxMzk0NzA1ODgxMDA4MzRlZmMxMWJk",
   "tracks": [
     {
       "added_at": "2022-09-19 19:10:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201506,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "34 N. River",
         "url": "https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 156080,
       "name": "Caesar Knows",
       "url": "https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+      "duration_ms": 190786,
+      "name": "Can't Cheat Death",
+      "url": "https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Paper Crown",
-        "url": "https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ"
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Can't Cheat Death",
-      "url": "https://open.spotify.com/track/2W7LF1AC58Y4Qmk9UpZ5c1"
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2022-09-19 19:10:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-19 19:10:41",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
-    },
-    {
-      "added_at": "2022-09-19 19:10:41",
-      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 194000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
+    },
+    {
+      "added_at": "2022-09-19 19:10:41",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
     },
     {
       "added_at": "2022-09-19 19:10:41",

@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-209 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+210 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Heaven](https://open.spotify.com/track/04RdUAbN5UAM0cHTVD1kCv) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [A Voyager's Motion](https://open.spotify.com/album/6azHq3i8KJgKWUH5LTEP8N) | 4:18 | 2021-10-18 | 2022-07-29 |
 | [Help Me Down](https://open.spotify.com/track/1MrgHn4BWUcxFolDAezsXJ) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:40 | 2022-04-27 | 2022-11-09 |
 | [Help Me Down](https://open.spotify.com/track/3QM6LAQY5eZ237iKv4QIuL) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Help Me Down](https://open.spotify.com/album/43KXYPbQpUh82vVQVzrauv) | 3:40 | 2021-10-18 | 2022-07-29 |
+| [Help Me Down](https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:40 | 2022-10-07 |  |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-04-27 |  |
 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 | 2021-10-18 | 2022-07-28 |
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2021-10-18 | 2022-06-14 |
@@ -214,7 +215,7 @@
 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-10-18 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 | 2022-10-07 |  |
 | [Years Ago](https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Years Ago](https://open.spotify.com/album/2j9gymeRvJ6xfcYO0i4SAc) | 3:14 | 2021-10-18 | 2022-07-28 |
-| [You Can't Always Get What You Want](https://open.spotify.com/track/31kL6SK7esUd0QRkrkjI8Q) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 4:06 | 2022-04-27 |  |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/31kL6SK7esUd0QRkrkjI8Q) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 4:06 | 2022-04-27 | 2022-11-24 |
 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 | 2021-10-18 |  |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-10-18 | 2022-06-14 |
 

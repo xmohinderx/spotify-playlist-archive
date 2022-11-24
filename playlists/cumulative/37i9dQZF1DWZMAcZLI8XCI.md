@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-118 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
+119 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/14NF73p0PX7l2Dwfl5bnjd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Grove Box Inside a Black Box](https://open.spotify.com/track/1qCbmyc2q8QkWbN5Yvsrof) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [A Grove Box Inside a Black Box](https://open.spotify.com/album/2ufu8ALnJoILn3mfPMkrRP) | 3:45 | 2022-09-19 | 2022-11-09 |
 | [Achilleus](https://open.spotify.com/track/3MRCKWzVQLHe7OOeEpE8u8) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Ghost Town EP](https://open.spotify.com/album/5KjHBY3qOkaNcCBD69Q6fP) | 5:44 | 2022-09-19 | 2022-11-09 |
 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/3lUlEzMGJxmv0ByKeMiHKR) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Netra ken](https://open.spotify.com/album/1NFqI4bBcsvFY4XhZevTx2) | 4:16 | 2022-11-08 | 2022-11-13 |
-| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-11-08 |  |
+| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-11-08 |  |
 | [AHBC](https://open.spotify.com/track/054wVabhZUeyOaydeHtHAA) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Path Integral VI \- 3](https://open.spotify.com/album/5Y3UqjtTt3gAYq8aPg93Q1) | 6:47 | 2022-11-08 |  |
 | [Anarkian kuvajainen](https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Tyyni](https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm) | 4:58 | 2022-09-19 | 2022-11-09 |
 | [Bateekh](https://open.spotify.com/track/0LNcBR9Rbj59JxeUBBQit7) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [Bateekh](https://open.spotify.com/album/3axS1s6UJqmgogmz2oyoOn) | 4:14 | 2022-11-08 |  |
@@ -33,7 +33,8 @@
 | [Cthulhu Macula](https://open.spotify.com/track/4io0fAQqag2fUMZBAXFNFo) | [Unknown Genre](https://open.spotify.com/artist/6BNSFIToYFrAsHCd6S9FiL) | [Elevator Ride](https://open.spotify.com/album/26gYfezmZA4adSIfL4alEM) | 8:31 | 2022-09-19 | 2022-11-09 |
 | [Cyclades](https://open.spotify.com/track/5zoutmgh0shaTKZvBP223V) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Ghost Town EP](https://open.spotify.com/album/5KjHBY3qOkaNcCBD69Q6fP) | 3:47 | 2022-09-19 | 2022-11-09 |
 | [Days to Come](https://open.spotify.com/track/3dLFwRZnQWDFBwUJtqADYM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [Pyramids](https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb) | 6:46 | 2022-09-19 | 2022-11-09 |
-| [Derek And Me](https://open.spotify.com/track/7gVPtwMf7R5M2uk58d4jcg) | [Felix Laband](https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx) | [Derek And Me](https://open.spotify.com/album/0eJy9pVidbBjfiwhLC9poL) | 5:49 | 2022-11-08 |  |
+| [Derek And Me](https://open.spotify.com/track/0L8CqaIRpgqoVTRC4jTuaa) | [Felix Laband](https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx) | [The Soft White Hand](https://open.spotify.com/album/0MI8KRz9FnzSlbTICDDEMW) | 5:49 | 2022-11-08 |  |
+| [Derek And Me](https://open.spotify.com/track/7gVPtwMf7R5M2uk58d4jcg) | [Felix Laband](https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx) | [Derek And Me](https://open.spotify.com/album/0eJy9pVidbBjfiwhLC9poL) | 5:49 | 2022-11-08 | 2022-11-24 |
 | [Despo](https://open.spotify.com/track/7LbEHcAWZW11l2aJvRFQgl) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Antidoto EP](https://open.spotify.com/album/0F36XdZb3xoUXdgMWz1z60) | 6:06 | 2022-11-08 |  |
 | [Dictator](https://open.spotify.com/track/6IIdrkvjCx5v9DNCeixv7y) | [The Organism](https://open.spotify.com/artist/2ZbM7ypKR8jIF6sfyI54Kz) | [Dictator](https://open.spotify.com/album/4vUh2K7uZsCRoHFTQP8ZpI) | 5:53 | 2022-11-08 |  |
 | [Do You Know?](https://open.spotify.com/track/7dzT8mnX3HvJM6imDhj3y3) | [Tiello](https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl), [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Siamese Anthology IV](https://open.spotify.com/album/1Mqc3c5v1fLCHabJGgXxdG) | 6:59 | 2022-09-19 | 2022-11-09 |

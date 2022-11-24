@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-350 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+351 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Fate Is...](https://open.spotify.com/track/0pMAi0RA1Y1zKt5VNM4uED) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/4Qe5TvCjMQmX0gjjYwtARt) | 2:40 | 2022-01-07 | 2022-07-29 |
 | [Fate Is…](https://open.spotify.com/track/0wIwl2tvNN2fxKFh7V9rPF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [I Was Trying to Describe You to Someone](https://open.spotify.com/album/07dXaYcSea0bdLcwmpeZJw) | 2:40 | 2022-07-08 | 2022-11-22 |
 | [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 | 2022-06-14 |  |
-| [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-07 |  |
+| [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-07 | 2022-11-24 |
+| [Foul](https://open.spotify.com/track/27YME9ZCAEKJc7tUQubCqW) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 2:47 | 2022-11-04 |  |
 | [four days](https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po) | [Brandon Jack & The Artifacts](https://open.spotify.com/artist/4e7XSqMThH4O5gW0QTEV5r) | [four days](https://open.spotify.com/album/7y4oX1oppmiZjaNT16MLBb) | 2:10 | 2021-10-07 | 2022-04-29 |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-10-07 | 2022-03-12 |
 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 | 2022-01-07 |  |

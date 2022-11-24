@@ -4,11 +4,12 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-177 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+178 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 2:49 | 2020-12-07 |  |
+| [& Cry!](https://open.spotify.com/track/1Kz558WodSH2k1RI3QRBfz) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/2ozN6WSOV1MMQPlpUf6Mdd) | 2:49 | 2020-12-07 | 2022-11-24 |
+| [& Cry!](https://open.spotify.com/track/4RNJZa8dEqWdVLgNId51Go) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [& Cry!](https://open.spotify.com/album/4NB2SXLk3AaulbslxuisKS) | 2:49 | 2020-12-07 |  |
 | [\(BLACK\)PLANET](https://open.spotify.com/track/7oCnWqmhuAIDnjWnBIuucm) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [\(BLACK\)PLANET](https://open.spotify.com/album/1LNUG7AMp0nJtHxYY1ObAW) | 1:53 | 2020-12-07 |  |
 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 | 2020-12-07 |  |
 | [777](https://open.spotify.com/track/5GfNUR8fEjBWVj7NDhFbSl) | [Skeleton Club](https://open.spotify.com/artist/0mOedQDhVFd4i2a69wDR2R) | [777](https://open.spotify.com/album/67xksZSESsdyA8fWQyeUy1) | 2:47 | 2020-12-07 |  |

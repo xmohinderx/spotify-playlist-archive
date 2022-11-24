@@ -1294,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "u and i",
+        "url": "https://open.spotify.com/album/0zBjrxV5UaU4UD95jq0owD"
+      },
+      "artists": [
+        {
+          "name": "vhs ghost",
+          "url": "https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123506,
+      "name": "u and i - original version",
+      "url": "https://open.spotify.com/track/3XRLyWAabvLKH8sLXKQ0hB"
+    },
+    {
+      "album": {
         "name": "void__19###",
         "url": "https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ"
       },

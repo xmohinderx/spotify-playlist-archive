@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,202 likes - 103 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,483 likes - 103 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

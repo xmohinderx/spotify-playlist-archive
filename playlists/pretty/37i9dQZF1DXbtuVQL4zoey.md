@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,145 likes - 300 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,246 likes - 300 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 90 | [Bossa novium](https://open.spotify.com/track/10lBc1KeRtJ8o7aqnaY68Z) | [Sky Fi](https://open.spotify.com/artist/4u8qDXW6j1BmX49GHfKtP9) | [Bossa novium](https://open.spotify.com/album/4HNvJWssKDRaxiARDgyMaZ) | 2:22 |
 | 91 | [a little bossa](https://open.spotify.com/track/4LWlyRclaxRUscbVQQ3syw) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [beat tape](https://open.spotify.com/album/339fwdTWTnAcLAUxUdvWMm) | 1:20 |
 | 92 | [Samba For You](https://open.spotify.com/track/0y5PxI9uiVuh8DtueOvr75) | [Copacabana Lab](https://open.spotify.com/artist/23W74tErlUvKnwMfr8jExa), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Samba For You](https://open.spotify.com/album/5bmX6uFfrCBE8a1AQYkPIK) | 1:59 |
-| 93 | [Sunny Grooves](https://open.spotify.com/track/1UrEkSa97QWI7LlFp0WJGI) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr) | [Sunny Grooves](https://open.spotify.com/album/6NKduzfUJ94ykUd1pMTpsQ) | 2:57 |
+| 93 | [Sunny Grooves](https://open.spotify.com/track/23rwFBqSEHcz1frkz2ezdE) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr) | [Sunny Grooves](https://open.spotify.com/album/0fvLAj37uw894R7xpDC9pK) | 2:57 |
 | 94 | [Bloody Mary](https://open.spotify.com/track/6k9RaYxMO9FnWu7oYLC1Fe) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp) | [Bloody Mary](https://open.spotify.com/album/0cbnpIav0MTGeA3nizWjg7) | 1:48 |
 | 95 | [Summer Days](https://open.spotify.com/track/7DteH9Q6xun1eJrOKZHADb) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Summer Days](https://open.spotify.com/album/5coHjMDfYAdVqHtliqbx4H) | 2:27 |
 | 96 | [Salzburg, Vienna, Bratislava](https://open.spotify.com/track/1UBz80xTEt0P3mSGmbwIlo) | [Arkadi Martinë](https://open.spotify.com/artist/6EQHxYOYw1qAvoE38AHZsi) | [Salzburg, Vienna, Bratislava](https://open.spotify.com/album/2Zsl9wRDnS3s4Y1iAEsmTk) | 2:32 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 157 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 |
 | 158 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 |
 | 159 | [Vacation](https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk) | [Vacation](https://open.spotify.com/album/6vokRNRSXc9420XmveNnHP) | 2:57 |
-| 160 | [pinecone](https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 |
+| 160 | [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 |
 | 161 | [Lifelike Figures](https://open.spotify.com/track/2NmdoCM6MIkKTKWYQaiZGc) | [Multicolor Vowels](https://open.spotify.com/artist/7Ll3x4zA90V5UkSUf3EtDX) | [Looking Up](https://open.spotify.com/album/0Ke4WK296drZDOwSZeBUA9) | 2:38 |
 | 162 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |
 | 163 | [The Little Things](https://open.spotify.com/track/7AoMssgMP6vK7QPrKg4wkf) | [Headie Nines](https://open.spotify.com/artist/2gGo4Y4A7rKSSIRAfXxYyu) | [The Little Things](https://open.spotify.com/album/3DvppFZflvsgmMH6RzkChO) | 2:29 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMGM4MDVhNDg1YWQ1MWY3YTY2OTlkNDFhNWUyMDNkOTg0`
+Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMDUwZTY2YzJjNDIyNmNiYmNiYmU0NzJiZjVmZTg1NGNm`

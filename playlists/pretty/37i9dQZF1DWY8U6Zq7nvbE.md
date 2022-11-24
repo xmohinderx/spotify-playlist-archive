@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,978 likes - 187 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,144 likes - 187 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 101 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
 | 102 | [Body Back \(feat\. Maia Wright\) \- Acoustic](https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\) \[Acoustic\]](https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc) | 3:16 |
 | 103 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 |
-| 104 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
+| 104 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 |
 | 105 | [Ambulance \- Acoustic](https://open.spotify.com/track/5l1HfxucMgMyl79DcJyYCF) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Ambulance \(Acoustic\)](https://open.spotify.com/album/4xHptK08Nad1HlL6BQb39Z) | 3:18 |
 | 106 | [Before You Go \- Acoustic](https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn) | 3:33 |
 | 107 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 186 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 |
 | 187 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 4:03 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDY3NDNlZjdmNjVmYmFhZDMwMTg0OWU5ZDk2NTVjZDQx`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDRkMDVhNzZkYzk3YjY2MTAxZWI1MzNlY2ZiNTRlODVk`

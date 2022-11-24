@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,529 likes - 72 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,611 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 8 | [האמת](https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [האמת](https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o) | 2:57 |
 | 9 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 |
 | 10 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 |
-| 11 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 11 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 |
 | 12 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 |
-| 13 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 |
+| 13 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
 | 14 | [סיוופלה](https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp) | [סיוופלה](https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8) | 2:23 |
 | 15 | [Dati\-Dati](https://open.spotify.com/track/3b1P0s0bbeJhV5ZM5uv2oP) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Dati\-Dati](https://open.spotify.com/album/0vWLVoS1AcxTICsK49VfUj) | 5:42 |
 | 16 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
 | 41 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 42 | [Unstoppable](https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Unstoppable](https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa) | 3:11 |
-| 43 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
-| 44 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 43 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
+| 44 | [Romper Platos](https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Romper Platos](https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m) | 3:13 |
 | 45 | [La Quería](https://open.spotify.com/track/1nk5MsUS4yGK1peQAFaJc3) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Folcrónica](https://open.spotify.com/album/3cAE3TZQGJELs8gxtFd1eL) | 3:53 |
 | 46 | [So Stunning](https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 3:02 |
 | 47 | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/track/3o4JJ3laC0xZnVvOCrDa36) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Time to Let Go \(feat\. Luna Is A Bep\)](https://open.spotify.com/album/5WS85NSCkBrCxQQaGkNddk) | 3:36 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 71 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
 | 72 | [MY CREW](https://open.spotify.com/track/7rCQ2IUc15BI83NkvxHoIC) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW \(Friendless x Hugh Lake Remix\)](https://open.spotify.com/album/3vWWwBYvHyjMiwk6zUTe7W) | 2:32 |
 
-Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMDJhMWJmZjQ5NzRhMTI5M2EwODYxYTE4NGU3ZjQ5ZGIw`
+Snapshot ID: `MTY2ODAzMjA0NywwMDAwMDAwMGZkNjgxYjNhNDA2NTE5OGFlMTU1MTYxYzNjYzllN2Fk`

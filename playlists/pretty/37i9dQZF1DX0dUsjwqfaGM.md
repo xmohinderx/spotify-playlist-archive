@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ ảnh bìa Rhosy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

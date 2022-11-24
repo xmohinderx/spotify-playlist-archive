@@ -4,7 +4,7 @@
 
 > Nakakakilig!
 
-109 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/3xWDe6yEOKSf26XaGBB55W)
+110 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3xWDe6yEOKSf26XaGBB55W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Anghel](https://open.spotify.com/track/25ijTc1KQsIKOYMKWtlEZ6) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Anghel](https://open.spotify.com/album/3W6ztUQPjfE72EhIyHSNdD) | 3:31 | 2022-04-04 | 2022-07-29 |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2022-04-04 |  |
 | [Araw\-Araw](https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [LIMASAWA STREET](https://open.spotify.com/album/7xCcuTA3abKwxj8HwgxP7R) | 5:13 | 2022-04-04 | 2022-11-13 |
-| [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2022-04-04 |  |
+| [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2022-04-04 | 2022-11-24 |
 | [At My Worst](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:50 | 2022-04-04 |  |
 | [Babalik Sa'yo \- from 2 Good 2 Be True](https://open.spotify.com/track/2e7iqtA42EPXTtiiAlblC1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Babalik Sa'yo \(from 2 Good 2 Be True\)](https://open.spotify.com/album/5Sw8579gMyFd8JcKaeEbXx) | 3:49 | 2022-09-05 |  |
 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 | 2022-04-04 | 2022-07-29 |
@@ -58,6 +58,7 @@
 | [I Really Like You](https://open.spotify.com/track/4tQUdIk3MXQHgP2sRNdrJQ) | [reon](https://open.spotify.com/artist/5jAOzTxCoR1qHXKVHsfDSr) | [I Really Like You](https://open.spotify.com/album/3AdGDEz1cYJJtYowBLEq4r) | 2:10 | 2022-04-04 | 2022-07-25 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-05 |  |
 | [Ikaw Lamang](https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Fuchsiang Pag\-Ibig](https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi) | 5:06 | 2022-04-04 | 2022-11-22 |
+| [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-11-11 |  |
 | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/track/0tsHRP5lcvk5veXznLFKrG) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [INS\-REPLAY, Vol\. 4: Creating Love](https://open.spotify.com/album/7wDpvJ3PXKejpKqxoz0l7D) | 3:35 | 2022-04-04 | 2022-07-29 |
 | [It Might Be You \- Theme from Everyday I Love You](https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1) | [Michael Pangilinan](https://open.spotify.com/artist/1t2caVgyabZrVDAlmMGraV) | [It Might Be You \(Theme from Everyday I Love You\)](https://open.spotify.com/album/0obyXODEHnssLgwFovpusL) | 4:12 | 2022-04-04 | 2022-07-29 |
 | [Kahit Na Masungit](https://open.spotify.com/track/6e9nsiF38iCQdYmlVzUIm2) | [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kahit Na Masungit](https://open.spotify.com/album/7ItcDOx3AfoInkks1MBJE4) | 4:03 | 2022-06-27 | 2022-07-12 |

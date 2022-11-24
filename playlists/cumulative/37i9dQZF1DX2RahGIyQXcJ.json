@@ -528,6 +528,32 @@
     },
     {
       "album": {
+        "name": "Bach Ke",
+        "url": "https://open.spotify.com/album/0tyVwjM84T8Q9RUC7zLa13"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Bach Ke",
+      "url": "https://open.spotify.com/track/5Yq28cxRO9m7mTxsUYY4lA"
+    },
+    {
+      "album": {
         "name": "Chaand Paar",
         "url": "https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY"
       },
@@ -1607,6 +1633,28 @@
       "duration_ms": 180000,
       "name": "Janaza",
       "url": "https://open.spotify.com/track/79S47IyE2yA2ukZtqq9B9g"
+    },
+    {
+      "album": {
+        "name": "HARD DRIVE Vol. 1",
+        "url": "https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "JASHAN-E-HIP-HOP",
+      "url": "https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c"
     },
     {
       "album": {

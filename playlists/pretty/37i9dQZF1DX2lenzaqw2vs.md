@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,895 likes - 130 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,926 likes - 130 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 100 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
 | 101 | [Japón](https://open.spotify.com/track/4iL3fpAqZwE6jhsYAc6AKb) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Japón](https://open.spotify.com/album/60BmITlB7uljEtTmzDTiSU) | 3:03 |
 | 102 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 |
-| 103 | [Lo Que Quieras Tú](https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:42 |
-| 104 | [El Valor](https://open.spotify.com/track/5gNIp69h35QFolrSLpUUEE) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ), [Max Munizaga](https://open.spotify.com/artist/2IIMpGhxebwk3hkvf73Q8S), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [El Valor](https://open.spotify.com/album/3NCBTlh4b6KwtbGq7R0Bku) | 4:09 |
+| 103 | [El Valor](https://open.spotify.com/track/5gNIp69h35QFolrSLpUUEE) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ), [Max Munizaga](https://open.spotify.com/artist/2IIMpGhxebwk3hkvf73Q8S), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [El Valor](https://open.spotify.com/album/3NCBTlh4b6KwtbGq7R0Bku) | 4:09 |
+| 104 | [Lo Que Quieras Tú](https://open.spotify.com/track/5skI8kaq5FByLW96MyUZqN) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:42 |
 | 105 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 |
 | 106 | [Rubberhand](https://open.spotify.com/track/09t1pMoR2CAJLzbIC3AhYp) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf), [Chenta Tsai](https://open.spotify.com/artist/7BRP5V0xT5jrR0rfGuZb3p), [Tami T](https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ) | [JÁJÁ ÉQÚÍSDÉ \(Distopía Aburrida\)](https://open.spotify.com/album/7bULGrCZjsDzXmXuvDoxbj) | 3:53 |
 | 107 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
@@ -123,9 +123,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 113 | [Pillándome](https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk) | [Bearoid](https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4) | [Pillándome](https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94) | 2:41 |
 | 114 | [Exterra](https://open.spotify.com/track/4C022PY7OeolXksa1LJB4P) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [Exterra](https://open.spotify.com/album/4YoUqV4ZdD652Z49VqEw4B) | 3:23 |
 | 115 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
-| 116 | [MANLY FRESA](https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u) | [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [MANLY FRESA](https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm) | 1:35 |
+| 116 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 | 117 | [Como un Dragón](https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Como un Dragón](https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc) | 2:48 |
-| 118 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
+| 118 | [MANLY FRESA](https://open.spotify.com/track/3PbrpWZjpl3gUbUtr7rB9u) | [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [MANLY FRESA](https://open.spotify.com/album/6f8hrsCyhBoYLH20l7coSm) | 1:35 |
 | 119 | [TODOELORO](https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV) | 2:51 |
 | 120 | [Loco](https://open.spotify.com/track/6phOWuwDjzWnFAaUVUpOdo) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [Loco](https://open.spotify.com/album/7b93aISs275w7pbYyEKvNA) | 3:15 |
 | 121 | [Infernodaga](https://open.spotify.com/track/0gygaSsjij3t4GDZkOjSNv) | [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Infernodaga](https://open.spotify.com/album/765K6ffiCGHJHLxqYanWbz) | 3:32 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 129 | [Luces](https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi) | [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Luces](https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD) | 3:26 |
 | 130 | [Shutup](https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2) | [LoMaasBello](https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK) | [Shutup](https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4) | 3:12 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDBmMDhhNmYzNTZjZWI2OTk3NDNjMjc0MzYxNjJiZDVi`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDI2NWU5MDdkNGYxNTQ5ZmFhNDAwOGVjZmU4YWIwYjJm`

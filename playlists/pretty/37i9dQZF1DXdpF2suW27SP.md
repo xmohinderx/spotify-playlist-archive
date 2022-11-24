@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Wet Bed Gang entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,633 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,706 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 23 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 |
 | 24 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 25 | [Momma](https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [King Bigs](https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61) | [Ouro Sobre Azul](https://open.spotify.com/album/1Za7fc64cyBoDqo4XJVSHO) | 2:54 |
-| 26 | [Shot](https://open.spotify.com/track/4IZWISZrSBvO1gKK5hrLRC) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [ILBF](https://open.spotify.com/artist/2A1qlh9kjqker3X2W9j1ly), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Knox](https://open.spotify.com/artist/6Hk7uUM7iT2zgXHkmNYyoq) | [Shot](https://open.spotify.com/album/6APMjrh03FoPhizrwTCwsG) | 2:59 |
+| 26 | [SHOT](https://open.spotify.com/track/4IZWISZrSBvO1gKK5hrLRC) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [ILBF](https://open.spotify.com/artist/2A1qlh9kjqker3X2W9j1ly), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Knox](https://open.spotify.com/artist/6Hk7uUM7iT2zgXHkmNYyoq) | [SHOT](https://open.spotify.com/album/6APMjrh03FoPhizrwTCwsG) | 2:59 |
 | 27 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
 | 28 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
 | 29 | [4AM no Rio](https://open.spotify.com/track/6Z0omreb7QNSj3ptomTmOU) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [4AM no Rio](https://open.spotify.com/album/08mBO0iH81lIKabmqfHY6S) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-50 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/5mK2jjXIUFXeFFX5xZHznk)
+51 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/5mK2jjXIUFXeFFX5xZHznk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 | 2022-07-09 |  |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 | 2022-10-14 |  |
 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 | 2022-07-09 | 2022-11-17 |
-| [Life Is Better Loud](https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 2:29 | 2022-07-09 |  |
+| [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 | 2022-10-14 |  |
+| [Life Is Better Loud](https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 2:29 | 2022-07-09 | 2022-11-24 |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-07-09 | 2022-10-13 |
 | [My Own Drum](https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:22 | 2022-07-09 |  |
 | [Now or Never \(feat\. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada\)](https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Charlie Gillespie](https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz), [Owen Patrick Joyner](https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa), [Jeremy Shada](https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:04 | 2022-07-09 |  |

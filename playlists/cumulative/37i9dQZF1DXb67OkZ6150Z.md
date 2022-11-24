@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-361 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+362 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-05-20 | 2022-10-13 |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-11-11 |  |
 | [Everywhere](https://open.spotify.com/track/6h2CeWx6IEFnvfQRnIiZDd) | [Ida Redig](https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe) | [Appetit Szwecja](https://open.spotify.com/album/5I1Goubrc5XU8evB3caxlu) | 3:21 | 2021-03-12 | 2022-04-18 |
 | [Fade Into You](https://open.spotify.com/track/2bjdtN4Ju1HcceRI7A7cq2) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Covers](https://open.spotify.com/album/0jwuOY0u0VJ283tDVW8gT1) | 4:44 | 2021-03-12 | 2022-07-17 |
 | [Fake Empire](https://open.spotify.com/track/6SLWKepkc8S9SvmO6hQKKM) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Fake Empire](https://open.spotify.com/album/3fGkeEQzewLT3Xvw5U50LH) | 3:27 | 2021-03-12 | 2022-07-28 |
@@ -231,7 +232,7 @@
 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 | 2021-03-12 | 2022-07-29 |
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/0zBZokjXEln00OETFLesm2) | 3:16 | 2021-03-12 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/54OkZltlupE2xB0i0lAfzi) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nothing Compares 2 U](https://open.spotify.com/album/6E2uXissCsJ8HEh3ytJdOz) | 3:13 | 2021-03-12 | 2022-04-21 |
-| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2022-09-03 | 2022-11-24 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 | 2021-08-13 | 2022-07-28 |
 | [Novocaine For The Soul \(feat\. Sir Chloe\)](https://open.spotify.com/track/7uQcx4j0G4CJoOtz8Wt375) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 2:40 | 2021-10-27 | 2022-04-17 |
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-03-12 | 2022-04-13 |

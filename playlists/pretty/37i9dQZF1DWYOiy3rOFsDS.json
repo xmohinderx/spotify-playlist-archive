@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Mel Mu\u00f1iz en portada.",
-  "num_followers": 502786,
+  "num_followers": 503032,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMDE2ODg3ZmFmZWJkZmMzZjZhZWUzZjAzZGEyNjlhMzU4",
+  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMGI3NmZkZWNmOTI5MWM2NDkxMDZlYTliZTQyOGNiZmI4",
   "tracks": [
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
     },
     {
-      "added_at": "2022-01-11 03:03:48",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Frenesi (2016 Remaster)",
@@ -1499,6 +1483,22 @@
       "duration_ms": 213213,
       "name": "Frenes\u00ed - 2016 Remaster",
       "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
+    },
+    {
+      "added_at": "2022-01-11 03:03:48",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX"
     },
     {
-      "added_at": "2022-09-03 02:50:22",
-      "album": {
-        "name": "Si las Paredes Hablaran",
-        "url": "https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 189978,
-      "name": "Si las Paredes Hablaran",
-      "url": "https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd"
-    },
-    {
       "added_at": "2022-03-04 04:44:16",
       "album": {
         "name": "\u00d3diame",
@@ -1567,6 +1551,22 @@
       "duration_ms": 193130,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+    },
+    {
+      "added_at": "2022-09-03 02:50:22",
+      "album": {
+        "name": "Si las Paredes Hablaran",
+        "url": "https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 189978,
+      "name": "Si las Paredes Hablaran",
+      "url": "https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
+      "added_at": "2022-09-28 22:58:27",
+      "album": {
+        "name": "Una Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
+      },
+      "artists": [
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Una Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
+    },
+    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Cristian Castro en Primera Fila - D\u00eda 2",
         "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
       },
@@ -1713,20 +1713,20 @@
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
     },
     {
-      "added_at": "2022-09-28 22:58:27",
+      "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 171272,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2021-10-16 00:58:48",

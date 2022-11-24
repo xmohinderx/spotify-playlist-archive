@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14439,
+  "num_followers": 14458,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDM4ODk5OTgxNTQ4NzA4MDk3MjA3OWY1YmU4YTIxZGRj",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDRjOWMxYWZiMTExM2I5ZDExMmRhZmM0NGUzNjAxMzVl",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Chicago Bound",
         "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 167266,
       "name": "Walking By Myself",
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2020-05-03 08:57:28",

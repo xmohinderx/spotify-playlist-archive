@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,553 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738,677 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 867313,
+  "num_followers": 867809,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY0MzQzNmI4ODU1ZGE0ZDU0MmZkZWNhMTUzMDMxNzY3",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDg0ZTY2ZjFmYmY3N2FlZDA4Mjc0ZGUyNmU4YzdhNWU2",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Bring Et",
-        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Bring Et",
-      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Bring Et",
+        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Bring Et",
+      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Hypno",
+        "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
+      },
+      "artists": [
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        }
+      ],
+      "duration_ms": 238544,
+      "name": "Hypno",
+      "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Listen Up",
         "url": "https://open.spotify.com/album/4LwxOAjsdpro1lF8gfw1yN"
       },
@@ -1543,18 +1559,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Hypno",
-        "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
       },
       "artists": [
         {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 238544,
-      "name": "Hypno",
-      "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp"
-      },
-      "artists": [
-        {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 211163,
       "name": "Policia",
       "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp"
+      },
+      "artists": [
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "DuDuDu",
-        "url": "https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "DuDuDu",
-      "url": "https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Green Light (feat. Kate Wild)",
         "url": "https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 167619,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "DuDuDu",
+        "url": "https://open.spotify.com/album/16hjrnSiJDIjmHYpaAy16L"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "DuDuDu",
+      "url": "https://open.spotify.com/track/4PfrCntphqH3KEfe2QEJS5"
     },
     {
       "added_at": "2022-11-18 05:00:00",

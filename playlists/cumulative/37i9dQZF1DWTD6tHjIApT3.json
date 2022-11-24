@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 241043,
       "name": "Another Day Goes By",
       "url": "https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6"
@@ -1499,6 +1499,24 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "album": {
+        "name": "Called by the Neon Light",
+        "url": "https://open.spotify.com/album/3ccal0p7YflbbtitrZDOjk"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205143,
+      "name": "Called by the Neon Light",
+      "url": "https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl"
     },
     {
       "album": {
@@ -7211,7 +7229,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 185608,
       "name": "Stuck on you",
       "url": "https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb"
@@ -10581,7 +10599,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 212750,
       "name": "\u30a8\u30af\u30ec\u30fc\u30eb",
       "url": "https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4"
@@ -11629,7 +11647,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 205143,
       "name": "\u30cd\u30aa\u30f3\u30e9\u30a4\u30c8\u306b\u547c\u3070\u308c\u3066",
       "url": "https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4"
@@ -13035,6 +13053,24 @@
       "duration_ms": 358666,
       "name": "\u5287\u5834",
       "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
+    },
+    {
+      "album": {
+        "name": "\u5341\u5b57\u8def\u306b\u7acb\u3064",
+        "url": "https://open.spotify.com/album/4XqRzPApAFVEyJblH6GCcs"
+      },
+      "artists": [
+        {
+          "name": "HARUKATOMIYUKI",
+          "url": "https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258428,
+      "name": "\u5341\u5b57\u8def\u306b\u7acb\u3064",
+      "url": "https://open.spotify.com/track/5UgmUHaao6b2QwcDV5tBaw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11043,
+  "num_followers": 11044,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGRkYjRjNDlmZmQ4NDU2ZmU1NTMzNmY3NDA5MTk4YTJj",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGQxODM3NmViOTkzMjhlZmY2YWJlYTYyMjgzNTFhODg0",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "My Father's Eyes",
-      "url": "https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 203680,
       "name": "I Learned From You",
       "url": "https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
     }
   ],
   "unique_name": "Father's Day Love",

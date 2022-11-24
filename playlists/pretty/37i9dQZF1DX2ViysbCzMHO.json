@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 111247,
+  "num_followers": 111297,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGY5YTU0NjU4N2VlYjJhYTY2ZjZmZTY4N2M4ZjdjODk2",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGVmYmFjZDc1MDE5NTZjZDk0ZjM1YWIyYjMwMzkxNzU3",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Cowboy In Me (Yellowstone Edition)",
+        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217676,
+      "name": "The Cowboy In Me - Yellowstone Edition",
+      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "The Cowboy In Me (Yellowstone Edition)",
-        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 217676,
-      "name": "The Cowboy In Me - Yellowstone Edition",
-      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -963,38 +963,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1011,6 +979,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Turning Stones",
-        "url": "https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE"
-      },
-      "artists": [
-        {
-          "name": "Tommy Prine",
-          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Turning Stones",
-      "url": "https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Almost Maybes (Acoustic)",
         "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 179907,
       "name": "Almost Maybes - Acoustic",
       "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Turning Stones",
+        "url": "https://open.spotify.com/album/2fKyVtIYCmqUOyNJHIBjVE"
+      },
+      "artists": [
+        {
+          "name": "Tommy Prine",
+          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Turning Stones",
+      "url": "https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH"
     },
     {
       "added_at": "2022-11-18 05:00:00",

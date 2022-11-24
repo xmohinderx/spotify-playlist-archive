@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzgzNCxmMmU4ZGYxY2JlNmY0ODQxMDFkY2YwZTg3NzExYzBlMTg4NTJkODc2",
+  "snapshot_id": "MzgzNiw4YzQ0MWUwMTQ2ZTk5NzFhZWYxNGVjZWVjYjQyYjgzMTMzYTJkODdl",
   "tracks": [
+    {
+      "added_at": "2022-11-23 20:17:45",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo"
+      },
+      "artists": [
+        {
+          "name": "Cressida",
+          "url": "https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd"
+    },
     {
       "added_at": "2022-11-22 10:17:15",
       "album": {
@@ -1075,22 +1095,6 @@
       "duration_ms": 213942,
       "name": "INEEDU",
       "url": "https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "INEEDU / SOYUZ",
-        "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "SOYUZ",
-      "url": "https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

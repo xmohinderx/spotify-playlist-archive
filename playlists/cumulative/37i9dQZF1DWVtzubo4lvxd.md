@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-209 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+211 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afternoon Calm](https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU) | 2:45 | 2022-04-15 |  |
 | [Afternoon Calm](https://open.spotify.com/track/4arEGKkAmAbOQThZnU9w1L) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Sonatina](https://open.spotify.com/album/1qK0BwFNpl6ye5Gf2dCeSM) | 2:45 | 2022-04-15 | 2022-07-29 |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2022-04-15 | 2022-11-19 |
+| [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2022-04-15 |  |
 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 | 2022-04-15 | 2022-07-14 |
 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 | 2022-04-15 |  |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
@@ -34,15 +35,16 @@
 | [Brazilian Samurai](https://open.spotify.com/track/6ITLE7JzvrfBwsFqbGtWoL) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brazilian Samurai](https://open.spotify.com/album/4lotT58cTAdgciKcWdSl8W) | 2:41 | 2022-04-15 | 2022-07-29 |
 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 | 2022-04-15 |  |
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
-| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 |  |
+| [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2022-11-24 |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 |  |
 | [Clouds on My Bed](https://open.spotify.com/track/1pab9zVbWB1AsOknBXifbd) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Motel Lazy](https://open.spotify.com/album/1j3DSMGxqDAukUT52VLShV) | 2:32 | 2022-04-15 | 2022-07-04 |
 | [Coffee and cookies](https://open.spotify.com/track/1p7fGKcaAzYjyzME9GF3PO) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Coffee and cookies](https://open.spotify.com/album/059ZhktGOJDkzsKnze9IwG) | 1:16 | 2022-04-15 | 2022-07-29 |
 | [Coke Wind](https://open.spotify.com/track/3FJSbTPWAy88XfocURuf0q) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Hello Mr.Goodvibe](https://open.spotify.com/album/6mq3p1dQeJYMUZHx7zFcGn) | 2:05 | 2022-04-15 | 2022-07-29 |
 | [Cold Breeze](https://open.spotify.com/track/64fGgroQQGWe6AdqEW0h7H) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Cold Breeze](https://open.spotify.com/album/1Cv3if511L6YHwokHT8pzc) | 1:38 | 2022-04-15 | 2022-07-29 |
-| [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 | 2022-04-15 |  |
+| [Contigo](https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT) | [Sorry](https://open.spotify.com/album/7pXpjVPml1bLD3idUmgCtw) | 1:46 | 2022-04-15 | 2022-11-24 |
 | [crush on you](https://open.spotify.com/track/1vlzSY7AttAiAvSEe1JbVs) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:24 | 2022-04-15 | 2022-11-19 |
+| [crush on you](https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:24 | 2022-04-15 |  |
 | [Cujo](https://open.spotify.com/track/4reSkHtZwtc3dGnmG8blkE) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Cujo](https://open.spotify.com/album/3hWNMSeDkARnpSCgmQUyLF) | 1:40 | 2022-04-15 | 2022-07-29 |
 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 | 2022-04-15 |  |
 | [Daydream](https://open.spotify.com/track/4zf41XjqWlQPJOqQIVX3Xw) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC) | [Hide Away](https://open.spotify.com/album/6LUJ3AHJDYiP4mhsfIRh9t) | 2:48 | 2022-04-15 | 2022-07-24 |

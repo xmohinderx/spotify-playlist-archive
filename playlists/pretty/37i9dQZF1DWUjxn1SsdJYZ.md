@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Queen P
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,441 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,459 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mamacita](https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Mamacita](https://open.spotify.com/album/2lUlXB0w58lyu86R48Iy6r) | 2:49 |
-| 2 | [TRUE REMIX \- Spotify Singles](https://open.spotify.com/track/4HFd53WgW5O0qM52Cdhl86) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Spotify Singles](https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X) | 2:25 |
-| 3 | [WATCH THE WICK](https://open.spotify.com/track/6mZazVApPAOrOBL5a985ct) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [WATCH THE WICK](https://open.spotify.com/album/3v7dLUTc1FbBxzVJGuB7C6) | 3:28 |
+| 1 | [TRUE REMIX \- Spotify Singles](https://open.spotify.com/track/4HFd53WgW5O0qM52Cdhl86) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Spotify Singles](https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X) | 2:25 |
+| 2 | [WATCH THE WICK](https://open.spotify.com/track/6mZazVApPAOrOBL5a985ct) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [WATCH THE WICK](https://open.spotify.com/album/3v7dLUTc1FbBxzVJGuB7C6) | 3:28 |
+| 3 | [Mamacita](https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Mamacita](https://open.spotify.com/album/2lUlXB0w58lyu86R48Iy6r) | 2:49 |
 | 4 | [Real One](https://open.spotify.com/track/4O5tiJAYOJMg4g0oLrYcBO) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [Real One](https://open.spotify.com/album/47FGpzgxSsq4rCjKgaaF2z) | 2:47 |
 | 5 | [Summer Jam](https://open.spotify.com/track/1xHePnG9oTTYWTkqd5dnN9) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Summer Jam](https://open.spotify.com/album/5IGDqI2xqiTkVq9RBwYyFw) | 2:49 |
-| 6 | [DTLT \(Don't Think Like That\)](https://open.spotify.com/track/7avj4GVENEmIaRbJ1BC5C3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [DTLT \(Don't Think Like That\)](https://open.spotify.com/album/17rUNJNcMt9Jel4l0cDfG7) | 3:16 |
-| 7 | [Baby & Baby](https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [BabyT](https://open.spotify.com/artist/2DDnzptkIWeVwnGhZl3e5W) | [Baby & Baby](https://open.spotify.com/album/00QG5oFJQkqM0xHsT1i0oN) | 2:06 |
-| 8 | [Turn It Up](https://open.spotify.com/track/6D6ghyjtC8rPi8Doxkfhf4) | [Queen P](https://open.spotify.com/artist/1JKAFpIowahk3avPsMkGp2) | [Turn It Up](https://open.spotify.com/album/1OJjnsjPgFKaOwzo1YtnSB) | 2:36 |
+| 6 | [Turn It Up](https://open.spotify.com/track/6D6ghyjtC8rPi8Doxkfhf4) | [Queen P](https://open.spotify.com/artist/1JKAFpIowahk3avPsMkGp2) | [Turn It Up](https://open.spotify.com/album/1OJjnsjPgFKaOwzo1YtnSB) | 2:36 |
+| 7 | [DTLT \(Don't Think Like That\)](https://open.spotify.com/track/7avj4GVENEmIaRbJ1BC5C3) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [DTLT \(Don't Think Like That\)](https://open.spotify.com/album/17rUNJNcMt9Jel4l0cDfG7) | 3:16 |
+| 8 | [Baby & Baby](https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [BabyT](https://open.spotify.com/artist/2DDnzptkIWeVwnGhZl3e5W) | [Baby & Baby](https://open.spotify.com/album/00QG5oFJQkqM0xHsT1i0oN) | 2:06 |
 | 9 | [Red Flags](https://open.spotify.com/track/30SeStbN8prR0nVaI3gY9C) | [Mwayz](https://open.spotify.com/artist/2EYr0y2iynxHcbb6fQ4Emg) | [Red Flags](https://open.spotify.com/album/4mZl5HnuvcEaPiA7mTqzLZ) | 2:46 |
 | 10 | [COME UP \(feat\. Day1\)](https://open.spotify.com/track/0Utkkycc0zoHoxljF4SwKE) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [COME UP \(feat\. Day1\)](https://open.spotify.com/album/6bW9BZAQJ1Hi7P855mPSNG) | 2:42 |
 | 11 | [Blessings](https://open.spotify.com/track/2Wo9IKsWh301oVaSV6DYDi) | [E.T](https://open.spotify.com/artist/1o2sHR0qEnL1JVSbkxEf4w), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Blessings](https://open.spotify.com/album/2gZQTUKH36qjZRiCUcHESO) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 |
 | 100 | [THREATS](https://open.spotify.com/track/2UGiuIfTLUG0WxSy6kw6F1) | [Snoee Badman](https://open.spotify.com/artist/5xNfUAoQGkcNnNDn2CnXKm) | [THREATS](https://open.spotify.com/album/4edJaJjzKXWUcLtWbv5Hf0) | 2:12 |
 
-Snapshot ID: `MTY2ODk5MjAyNiwwMDAwMDAwMGYwNWMyNmE3YjQ2OTJmYzA4NzE4ZTM5MDBmNjg2ZmE5`
+Snapshot ID: `MTY2OTE2OTU0MywwMDAwMDAwMGQ4NTNjN2ZhYjRiYzYzMDExMjZlYTNmMzRlZmY2OTdh`

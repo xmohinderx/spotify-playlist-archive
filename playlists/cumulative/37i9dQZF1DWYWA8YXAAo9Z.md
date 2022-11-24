@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-135 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+136 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Empty House](https://open.spotify.com/track/44wMuVcGt4VkYpWGQEnq2C) | [Music is Love](https://open.spotify.com/artist/7zIjtXdgvjqvKAZNbbFjvy) | [Empty House](https://open.spotify.com/album/6DreRxZHfhlKNHYTLvqWdb) | 4:16 | 2022-01-28 | 2022-07-28 |
 | [End of One Thing](https://open.spotify.com/track/6oTYXtsJWi30jH5dIPWTyQ) | [David Baron](https://open.spotify.com/artist/3ZZxsC7f0fufApo1cm117d) | [End of One Thing](https://open.spotify.com/album/17ELwWPid9JFCtW6Xkwa9w) | 4:31 | 2021-12-24 | 2022-07-28 |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-14 | 2022-11-20 |
+| [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 | 2022-10-04 |  |
 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 | 2022-09-30 |  |
 | [First Frost](https://open.spotify.com/track/2zJzDb6WVwDmfp0GN7FOOF) | [Zen Wires](https://open.spotify.com/artist/04yseDPSSQVkAo8cXqDwnZ) | [Mind Jail](https://open.spotify.com/album/1QO5ZC9QhFCUeKLA1TOJ6o) | 3:40 | 2021-12-24 | 2022-02-13 |
 | [Flight Plan](https://open.spotify.com/track/2IC4hQBLtMfbn2vfh3TwOH) | [Paul Cousins](https://open.spotify.com/artist/5bMFBUxzXBVvltK6Ph6OIK) | [SPACEY ARPS](https://open.spotify.com/album/4ovC6NeOD7JDRRDIATPWdR) | 3:09 | 2022-03-25 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-12-24 |  |
 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 | 2021-12-24 |  |
 | [Piel](https://open.spotify.com/track/65LdlsIG7EkIWmhAj5u4ud) | [Isaac Soto](https://open.spotify.com/artist/2mHbrHlppDiGj9pBxti8fc) | [Piel](https://open.spotify.com/album/5LtM4wUzsuxwMf0EtFCUy1) | 4:33 | 2022-03-04 | 2022-03-10 |
-| [Plant Memory](https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ) | [Caldera](https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V) | [One Last Glimpse](https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS) | 8:37 | 2022-02-25 |  |
+| [Plant Memory](https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ) | [Caldera](https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V) | [One Last Glimpse](https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS) | 8:37 | 2022-02-25 | 2022-11-24 |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-03-04 | 2022-09-15 |
 | [Plonk III](https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 6:22 | 2022-07-01 |  |
 | [Pratyahara](https://open.spotify.com/track/2bdCZ861f8TwnmFVbHlLmW) | [Chris Otchy](https://open.spotify.com/artist/29PAwxBMC8PWdrXj0m7H2P) | [Phthalo Blue](https://open.spotify.com/album/6uvCj7v4s1XRRN8XDXeeJP) | 6:01 | 2021-12-24 | 2022-07-29 |

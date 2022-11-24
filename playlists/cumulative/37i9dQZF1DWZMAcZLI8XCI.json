@@ -112,7 +112,7 @@
         },
         {
           "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO"
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
         }
       ],
       "date_added": "2022-11-08",
@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "The Soft White Hand",
+        "url": "https://open.spotify.com/album/0MI8KRz9FnzSlbTICDDEMW"
+      },
+      "artists": [
+        {
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349293,
+      "name": "Derek And Me",
+      "url": "https://open.spotify.com/track/0L8CqaIRpgqoVTRC4jTuaa"
+    },
+    {
+      "album": {
         "name": "Derek And Me",
         "url": "https://open.spotify.com/album/0eJy9pVidbBjfiwhLC9poL"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 349293,
       "name": "Derek And Me",
       "url": "https://open.spotify.com/track/7gVPtwMf7R5M2uk58d4jcg"

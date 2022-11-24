@@ -1,12 +1,12 @@
 {
   "description": "A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 143947,
+  "num_followers": 144660,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4OTQyOSwwMDAwMDAwMGNmY2M2NmM4MTQxYmQwMGQ2MTNlY2YyZDIyZjE2N2Jk",
+  "snapshot_id": "MTYzOTU4OTQyOSwwMDAwMDAwMGUxNjViMjA4NWExNDgzMDJhOGE0YzQ2MjE2MTRiMWVk",
   "tracks": [
     {
       "added_at": "2021-12-15 17:30:29",
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+      "duration_ms": 215586,
+      "name": "Hark the Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -731,6 +731,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "A Mary Mary Christmas",
-        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Hark the Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117520,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas Soul 2020",
         "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 154920,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -843,18 +859,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+        "name": "Handel's Messiah: A Soulful Celebration",
+        "url": "https://open.spotify.com/album/4Loq4n1JyJHnW5WKKnxPhr"
       },
       "artists": [
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Vanessa Bell Armstrong, Patti Austin, Bernie K., Daryl Coley, Commissioned, Andrae Crouch, Sandra Crouch, Clifton Davis,",
+          "url": "https://open.spotify.com/artist/69OLLm0ZAylIU7piver5Go"
         }
       ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+      "duration_ms": 353733,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7nuW6IlOP5kxsv4C2vrOOf"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -871,22 +887,6 @@
       "duration_ms": 203434,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Handel's Messiah: A Soulful Celebration",
-        "url": "https://open.spotify.com/album/4Loq4n1JyJHnW5WKKnxPhr"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Bell Armstrong, Patti Austin, Bernie K., Daryl Coley, Commissioned, Andrae Crouch, Sandra Crouch, Clifton Davis,",
-          "url": "https://open.spotify.com/artist/69OLLm0ZAylIU7piver5Go"
-        }
-      ],
-      "duration_ms": 353733,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/7nuW6IlOP5kxsv4C2vrOOf"
     },
     {
       "added_at": "2021-12-15 17:30:29",

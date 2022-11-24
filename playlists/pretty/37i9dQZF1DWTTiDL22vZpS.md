@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 18 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 |
 | 19 | [Bajo las Luces](https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Bajo las Luces](https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC) | 3:32 |
 | 20 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
-| 21 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
-| 22 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
+| 21 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
+| 22 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 |
 | 23 | [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 |
 | 24 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo Pardo](https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 |
 | 25 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 43 | [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 |
 | 44 | [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 |
 | 45 | [Imposible](https://open.spotify.com/track/2xh8Xu93BdvH6a5GeappzM) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Siempre Siempre](https://open.spotify.com/album/19SGpkKErbNmC4mbRF5x54) | 4:24 |
-| 46 | [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 |
-| 47 | [La Canción Bootleg](https://open.spotify.com/track/5SuQfdbJJzQqESfYZVts8P) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/4kgFCJTsidOorDHEAWUA3J) | 4:21 |
+| 46 | [La Canción Bootleg](https://open.spotify.com/track/5SuQfdbJJzQqESfYZVts8P) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/4kgFCJTsidOorDHEAWUA3J) | 4:21 |
+| 47 | [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 |
 | 48 | [Funky Man](https://open.spotify.com/track/0sosHfdwwsZV5BZsdbzB4t) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [Joe Bataan's Latin Soul Party: Black Sugar, Coco Lagos Y Sus Orates, Lu Logia Sarabanda & Joe Bataan](https://open.spotify.com/album/4NoBPQUYBcBmJBswHuQ8f4) | 2:08 |
 | 49 | [Te Vas](https://open.spotify.com/track/3gyGxfzR3OK2PcjfGELyvI) | [AMC Funk](https://open.spotify.com/artist/6ZYGRZZ5H6yq9EsCRiBrUj) | [Te Vas \- Single](https://open.spotify.com/album/0su2ILpysKqx37lnLHgCDM) | 4:06 |
 | 50 | [Estamos Locos](https://open.spotify.com/track/0xT6kz73bjqkEqeIAcbuok) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB) | [Estamos Locos](https://open.spotify.com/album/0pgeYwzfy6GOqzcRkKWykq) | 5:11 |
 
-Snapshot ID: `MTY2OTA3NTk0OSwwMDAwMDAwMGUzOThlMzlmYTJjOWU2NmQxYzAyNjA5MDY1NjUwNzAx`
+Snapshot ID: `MTY2OTA3NTk0OSwwMDAwMDAwMDU0NTIwMjU0Nzc4NzI2ZTk2YmFiNDk4MDYzYjkwN2E3`

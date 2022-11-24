@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-474 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+475 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Blanket of Stars](https://open.spotify.com/track/1TQWuCSb7dt3ve7BfqzdWW) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Blanket of Stars](https://open.spotify.com/album/2HQwQL5kkH8w6WBqxhOFJT) | 3:12 | 2022-03-16 | 2022-07-09 |
 | [Blasé](https://open.spotify.com/track/3VCS4koclEAw6MxMYk2EBh) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Fresh Squeezed](https://open.spotify.com/album/4ZWyu9H0w1mOytbuwOugiC) | 2:54 | 2022-08-19 | 2022-09-17 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-09-02 |  |
-| [Blossom](https://open.spotify.com/track/3G8tumJeNmN81uySgbcwHj) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Blossom](https://open.spotify.com/album/2fdA4fu4bf3naDXJLoZNUK) | 2:21 | 2022-10-28 |  |
+| [Blossom](https://open.spotify.com/track/3G8tumJeNmN81uySgbcwHj) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Blossom](https://open.spotify.com/album/2fdA4fu4bf3naDXJLoZNUK) | 2:21 | 2022-10-28 | 2022-11-24 |
+| [Blossom](https://open.spotify.com/track/4PlmN2C6nsQIbsWN1bAA7x) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Arboretum](https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm) | 2:21 | 2022-11-11 |  |
 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 | 2022-07-29 |  |
 | [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 | 2022-03-16 | 2022-07-09 |
 | [Bob's Blues](https://open.spotify.com/track/2eep97s2NVaQGFkrLkiD3e) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 5:24 | 2022-07-29 |  |

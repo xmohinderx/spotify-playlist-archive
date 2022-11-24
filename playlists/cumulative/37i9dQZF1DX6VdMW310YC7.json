@@ -14568,6 +14568,24 @@
     },
     {
       "album": {
+        "name": "The Lofi Sessions",
+        "url": "https://open.spotify.com/album/6NeItVGlH8Q4LGDuGrLTGu"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ"
+    },
+    {
+      "album": {
         "name": "Lullaby / And The Sky Opened",
         "url": "https://open.spotify.com/album/3nwqphfZZbGT7QnjEafm1X"
       },
@@ -22117,7 +22135,7 @@
       ],
       "date_added": "2020-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 247741,
       "name": "sometimes it\u2019s scary but it\u2019s still just you and me - Edit",
       "url": "https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG"

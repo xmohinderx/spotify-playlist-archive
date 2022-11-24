@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-464 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+466 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Control](https://open.spotify.com/track/40eaYakmKgXWBRnlmYKj5w) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Control](https://open.spotify.com/album/4Yd21IKbdwX7GQCBa3zKWT) | 4:03 | 2022-03-31 | 2022-04-19 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-11-12 |
 | [Creep \- Very 2021 Rmx](https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau), [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep \(Very 2021 Rmx\)](https://open.spotify.com/album/4LS4w3gfUGH1WnpGcbUHhp) | 9:02 | 2021-07-19 | 2022-06-07 |
+| [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 |  |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2022-06-03 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-06-03 | 2022-06-24 |
 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-21 |  |
@@ -189,7 +190,7 @@
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2021-06-03 |  |
 | [Hideous](https://open.spotify.com/track/4u2O3s1p5pWNx2CRFAynXX) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Hideous](https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0) | 4:23 | 2022-06-03 | 2022-07-27 |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2021-09-24 | 2022-04-18 |
-| [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-28 |  |
+| [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 | 2022-01-28 | 2022-11-24 |
 | [High and Lonely](https://open.spotify.com/track/2iXTMlZtsssbctAMHvr2FJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [High and Lonely](https://open.spotify.com/album/6O2xYlcjEFDKZ4RanVJ0Ky) | 3:27 | 2021-10-22 | 2022-04-22 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-07-28 |
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-05-24 | 2022-05-30 |
@@ -285,7 +286,7 @@
 | [Never Get To Fuck Any1](https://open.spotify.com/track/1PPJitPB8C3JWJouTgYrwB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Never Get To Fuck Any1](https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x) | 2:24 | 2021-09-24 | 2022-06-01 |
 | [neverend](https://open.spotify.com/track/4uaaTw9zjr51URmFk3WTi3) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [neverend](https://open.spotify.com/album/59apC5reODbyI6NSFVHPli) | 4:26 | 2022-05-20 | 2022-06-03 |
 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 | 2021-06-03 | 2022-05-20 |
-| [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 | 2021-06-03 |  |
+| [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 | 2021-06-03 | 2022-11-24 |
 | [No Butterflies, No Nothing](https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [No Butterflies, No Nothing](https://open.spotify.com/album/0lU40mXWleCp13QB6lf30L) | 2:59 | 2021-06-03 | 2022-07-18 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-06-03 | 2022-04-20 |
 | [No Shadow](https://open.spotify.com/track/6KyccUT8S3KMRh5wt4CN2n) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 3:18 | 2021-09-24 | 2022-04-19 |
@@ -385,6 +386,7 @@
 | [stardew](https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Womb](https://open.spotify.com/album/1qUKQoS2lPswBUS5BRUpOq) | 4:07 | 2021-06-03 | 2022-07-27 |
 | [Stare](https://open.spotify.com/track/1MNNFp9MUgIEbbK24oCmbf) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Stare](https://open.spotify.com/album/333Aaea3MbXevGSHOvApi8) | 3:41 | 2021-06-03 | 2022-04-20 |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-23 | 2022-10-25 |
+| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-18 |  |
 | [Stay Open](https://open.spotify.com/track/5lqvXaZtOMslV0f5ZFbBK2) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 2:23 | 2021-10-08 | 2022-05-20 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2021-06-03 |  |
 | [Still I Miss U](https://open.spotify.com/track/3jzT3kU7u6qSd9arh5Jm1O) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/4873bDeZl2LaFywLb9Gjes) | 3:17 | 2021-06-03 | 2022-06-03 |

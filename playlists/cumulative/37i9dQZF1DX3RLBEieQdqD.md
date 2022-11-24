@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Yeison Jiménez
 
-92 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
+93 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/4dgRTLno9dN3O245XyEHEz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Obsesión](https://open.spotify.com/track/4bnvGo0jOp8dydXAn9uzWL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 3:42 | 2022-10-14 | 2022-11-14 |
 | [OK](https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Éxitos Mano de Obra](https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l) | 2:21 | 2022-10-14 | 2022-11-13 |
 | [OK](https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:21 | 2022-08-18 |  |
-| [Olvídala](https://open.spotify.com/track/5OkhVq7Yn7EO2biXKoKECZ) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/23LQ3yuJE3lPcYEH6zQA3C) | 4:50 | 2022-08-18 |  |
+| [Olvídala](https://open.spotify.com/track/5OkhVq7Yn7EO2biXKoKECZ) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/23LQ3yuJE3lPcYEH6zQA3C) | 4:50 | 2022-08-18 | 2022-11-24 |
+| [Olvídala](https://open.spotify.com/track/7qi8GownCCQrzrTaweqIKD) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/3kjDLcklVkTozCf4miWmRD) | 4:50 | 2022-10-14 |  |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-08-18 |  |
 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 | 2022-08-18 |  |
 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 | 2022-08-18 |  |

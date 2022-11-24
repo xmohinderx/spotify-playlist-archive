@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-371 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+372 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Bad Mind](https://open.spotify.com/track/4K2Ny9ccE7D5pekJaPIyft) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 5:14 | 2021-11-12 | 2022-07-28 |
 | [Beast For Thee](https://open.spotify.com/track/1lFfq3BypGTRfLZIv3GWVK) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [Beast For Thee](https://open.spotify.com/album/0fgzt2Mzv33f6L9UXiosG3) | 5:24 | 2021-11-12 | 2022-07-26 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 |  |
-| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-25 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-10-14 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-25 | 2022-11-24 |
 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 | 2022-04-22 | 2022-06-12 |
 | [Bethel Woods](https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [Bethel Woods](https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l) | 4:23 | 2022-03-04 | 2022-07-28 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 |  |
@@ -220,7 +221,7 @@
 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-05-25 |  |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 | 2022-07-29 |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-07-11 |  |
-| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-11-12 | 2022-11-23 |
+| [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-11-12 |  |
 | [Moontalk](https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Moontalk](https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6) | 3:11 | 2021-11-12 | 2022-07-27 |
 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ) | 5:32 | 2022-04-01 | 2022-07-29 |
 | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3), [Luke Krutzke](https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL) | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg) | 3:56 | 2021-11-12 | 2022-07-29 |
@@ -306,7 +307,7 @@
 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Practice Magic and Seek Professional Help When Necessary](https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG) | 2:41 | 2022-07-11 |  |
 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 | 2021-11-12 | 2022-07-29 |
 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 | 2021-11-12 | 2022-11-13 |
-| [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-11-12 |  |
+| [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-11-12 | 2022-11-24 |
 | [Standing On The Moon](https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Standing On The Moon](https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK) | 4:59 | 2021-11-12 | 2022-07-23 |
 | [Star Nation](https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Star Nation](https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG) | 4:06 | 2022-03-11 | 2022-07-29 |
 | [Stars Of Longing](https://open.spotify.com/track/6w6z1850qEmKdJMUM5IpUa) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Stars Of Longing](https://open.spotify.com/album/6TAPWsfPmFVOXLKgbkR1s1) | 3:11 | 2021-11-12 | 2022-07-17 |

@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-99 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
+100 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [The Ten Commandments of Health](https://open.spotify.com/track/2oUY5r55VKcINh7pQHbbkC) | [Sesame Street's Dr\. Thad & The Medications](https://open.spotify.com/artist/7bxoCDrJANgPEoKqr48bJw) | [Sesame Street: Healthy Habits Collection](https://open.spotify.com/album/0hXghboLYgKYW7DuSofJap) | 2:43 | 2022-07-08 | 2022-11-13 |
 | [This Is the Way We Go to Bed](https://open.spotify.com/track/0KCeyKDukuYfbAoTTb60e6) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 1:53 | 2021-09-23 |  |
 | [Tied My Shoes](https://open.spotify.com/track/53H4l93nIcnpvn3sw748I7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Tied My Shoes](https://open.spotify.com/album/19J5uNmKXqKlbJPVanBACR) | 0:36 | 2021-09-23 |  |
-| [Time for Lunch!](https://open.spotify.com/track/077JeCz1IRuuDWQY2NZRGR) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 0:18 | 2022-07-08 |  |
+| [Time for Lunch!](https://open.spotify.com/track/077JeCz1IRuuDWQY2NZRGR) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 0:18 | 2022-07-08 | 2022-11-24 |
 | [Time for Lunch!](https://open.spotify.com/track/12mk07K4k0nPOwne3URsN9) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 0:18 | 2021-09-23 | 2022-10-13 |
+| [Time for Lunch!](https://open.spotify.com/track/2bbWvWAjA8Kdumm92D4Fdc) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 0:18 | 2022-07-08 |  |
 | [Time To Eat](https://open.spotify.com/track/2J2hDDcafkw4EVQmGNpcAx) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Time To Eat](https://open.spotify.com/album/6mnhHmyuS8dZtSEuTjoUu7) | 1:35 | 2021-09-23 |  |
 | [Tomorrow](https://open.spotify.com/track/30T5lRceVlbzHFSehhv8xb) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such A Good Feeling: The Best Of Mister Rogers](https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D) | 1:03 | 2021-09-23 | 2022-07-29 |
 | [Tomorrow](https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:03 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 5211,
+  "num_followers": 5254,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDBhN2JhNTEwYjUwZmM5NjRkNDQ3ZjYxMDM0MDJhMGNl",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDFjOGJkYjUwNzNlYTI5ZmJmMDQyN2NjYmE2ZTQ1YjI5",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -485,20 +485,20 @@
       "url": "https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dirty Blues",
-        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },
       "artists": [
         {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
         }
       ],
-      "duration_ms": 166574,
-      "name": "Dirty Blues",
-      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+        "name": "Dirty Blues",
+        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
         }
       ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
+      "duration_ms": 166574,
+      "name": "Dirty Blues",
+      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Why Not?",
-        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 141333,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
+      },
+      "artists": [
+        {
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Come on Jump Right In",
+        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
+      },
+      "artists": [
+        {
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come on Jump Right In",
+      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "A Different Beat",
         "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 738306,
       "name": "Can't Help Myself - E-Z Rollers Remix",
       "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on Jump Right In",
-        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Come on Jump Right In",
-      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
     }
   ],
   "unique_name": "Bluestronica",

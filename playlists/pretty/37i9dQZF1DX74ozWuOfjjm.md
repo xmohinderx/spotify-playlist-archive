@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,221 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,242 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 43 | [Alone](https://open.spotify.com/track/5nTpXk3qblGyziiRbu3TVd) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [AACACIA](https://open.spotify.com/album/3Nj1iPvgZ2bj8bGIZ7I3yx) | 3:41 |
 | 44 | [Storm](https://open.spotify.com/track/3JMdlDm0x13FHmzIN9S7Hv) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Storm](https://open.spotify.com/album/1vlDZjBF1i3tAEP0OC1ITB) | 3:39 |
 | 45 | [Faith](https://open.spotify.com/track/6WpBZsVkUcbMxfknuZGdCx) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Human](https://open.spotify.com/album/2q89RJTipv3bg26HbgkRHV) | 3:25 |
-| 46 | [Dance Again](https://open.spotify.com/track/4c1GcUV5AYT9P7ZZd4OP7W) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Dance Again](https://open.spotify.com/album/0fY82ybrmIwMJ2Eb49cpt4) | 3:11 |
+| 46 | [Dance Again](https://open.spotify.com/track/3qTvzLD55cCR6p3sn5KsIz) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:11 |
 | 47 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 |
 | 48 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 |
 | 49 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 84 | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/track/1Af7leoKf8dkatsECOVhs6) | [Jordie Ireland](https://open.spotify.com/artist/1fTCSmuwhEaa6J6Hjq8xmi), [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [Crying At This Party \(feat\. bby ivy\)](https://open.spotify.com/album/7fyaZQbIbfPr7gQltTzTa5) | 3:25 |
 | 85 | [Depends On](https://open.spotify.com/track/1c3Tl6mMFCUd1p3C2gyJhL) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Portal](https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl) | 3:06 |
 | 86 | [Are You Even Listening](https://open.spotify.com/track/0KyAkUItGXfoLbsDQ7p3ww) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Undone](https://open.spotify.com/album/75Q930fpXUkDmazRlXKAmp) | 3:46 |
-| 87 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 |
+| 87 | [Only One](https://open.spotify.com/track/29Vaym55qNHaG2IrHpCTA9) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:08 |
 | 88 | [Undermine](https://open.spotify.com/track/1OL0iKcBz7xSvNtrU0xNaw) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [Undermine](https://open.spotify.com/album/7KA5Bh8sRCmzGaIh7kApCG) | 3:30 |
 | 89 | [Finest Quality](https://open.spotify.com/track/6WoUQDuKmRp0o08NBrSp1l) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Good Company \- EP](https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe) | 3:27 |
 | 90 | [Fairytale](https://open.spotify.com/track/1E0syS6k7fxeFj8IooFkQr) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/49PuVlRvhiNAtblShfCeKE) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 |
 | 100 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 |
 
-Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMDkwZmYzMDIzM2MzNDI5ZjIwNWZhNTA3NmVmNDRmZDJl`
+Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMDg0NjM5ZTY2YTlmNDIyMThmZTk3YTZjMmE2YzlhN2Zk`

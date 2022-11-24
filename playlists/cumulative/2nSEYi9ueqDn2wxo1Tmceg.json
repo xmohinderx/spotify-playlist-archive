@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/3wAcEO1ZpR4qFJaVw3k8QS"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 208000,
       "name": "Always Been - Edit",
       "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 610311,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 194890,
       "name": "Boy Girl",
       "url": "https://open.spotify.com/track/5zR0jyCSe6lPmjycRIuiHZ"
@@ -809,6 +809,24 @@
       "duration_ms": 203454,
       "name": "Cherry Blue Intention",
       "url": "https://open.spotify.com/track/2JrozyGS7r75L39rt3xoGx"
+    },
+    {
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
     },
     {
       "album": {
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 271639,
       "name": "Contenida",
       "url": "https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 213275,
       "name": "Cool Enough",
       "url": "https://open.spotify.com/track/66BFiJStrnr8vz4lp7SEQ6"
@@ -1273,6 +1291,28 @@
       "duration_ms": 679964,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6XwMOx54frtlaAPFNQaotw"
+    },
+    {
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/3bahlgCR0bNGq1pZX1GipN"
+      },
+      "artists": [
+        {
+          "name": "Saint Jude",
+          "url": "https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh"
+        },
+        {
+          "name": "Aga Ujma",
+          "url": "https://open.spotify.com/artist/3LSdhKfnqxaRzj5rzdOKRj"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Does",
+      "url": "https://open.spotify.com/track/08oX34sRjy7JlEgzfPVBF6"
     },
     {
       "album": {
@@ -1654,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "album": {
         "name": "Fingers of Steel",
         "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
@@ -1987,7 +2045,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 196560,
       "name": "Girl Behind The Glass",
       "url": "https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9"
@@ -2063,7 +2121,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 246418,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0n3UoAO5294hETx9TZKQWS"
@@ -2306,6 +2364,42 @@
     },
     {
       "album": {
+        "name": "CAZIMI",
+        "url": "https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "Holdin'",
+      "url": "https://open.spotify.com/track/5dSWxM26UbHBsWOsix8qUp"
+    },
+    {
+      "album": {
+        "name": "Live at The Murmrr Theatre",
+        "url": "https://open.spotify.com/album/6GUbAGnzdeiPqKivIk6FKu"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255168,
+      "name": "Hollow - Live at The Murmrr Theatre",
+      "url": "https://open.spotify.com/track/7CivBOUc92Q3P8N1CV9Cr2"
+    },
+    {
+      "album": {
         "name": "The Ruby Cord",
         "url": "https://open.spotify.com/album/4QwVU6l2cdR646QdT6z66i"
       },
@@ -2353,7 +2447,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 210509,
       "name": "H\u00f6stens F\u00e4rger",
       "url": "https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw"
@@ -2889,7 +2983,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 208933,
       "name": "Loose Future",
       "url": "https://open.spotify.com/track/5KOpYJfDw5RKa07Bw8Whmh"
@@ -2947,6 +3041,24 @@
       "duration_ms": 127106,
       "name": "Love is a Painting",
       "url": "https://open.spotify.com/track/27wOtEWr0MvXkKcmSN65Yx"
+    },
+    {
+      "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108951,
+      "name": "Lucked Out",
+      "url": "https://open.spotify.com/track/5tIk9HI04FCiYFJqRFef5B"
     },
     {
       "album": {
@@ -3237,7 +3349,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 274176,
       "name": "Norfolk Hotel",
       "url": "https://open.spotify.com/track/0uEBBlkHjdxSUty2ANx8SZ"
@@ -3566,6 +3678,24 @@
     },
     {
       "album": {
+        "name": "Pad",
+        "url": "https://open.spotify.com/album/61UBr10zTNnoeLy1cDPCIw"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198864,
+      "name": "Pictionary",
+      "url": "https://open.spotify.com/track/2ZfAYnB8W6yWJLfu9LBzrF"
+    },
+    {
+      "album": {
         "name": "Please Yourself",
         "url": "https://open.spotify.com/album/3SDYKCfX2te4hJDXcj3JEk"
       },
@@ -3581,6 +3711,24 @@
       "duration_ms": 199753,
       "name": "Please Yourself",
       "url": "https://open.spotify.com/track/56zAKeMNf17IrHkJfX3uTb"
+    },
+    {
+      "album": {
+        "name": "Polly Armour",
+        "url": "https://open.spotify.com/album/7n4OYjNT0lQQEhN4jalOq2"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169412,
+      "name": "Polly Armour",
+      "url": "https://open.spotify.com/track/3ssIkCQAizo73SKYe66hfm"
     },
     {
       "album": {
@@ -4172,6 +4320,24 @@
     },
     {
       "album": {
+        "name": "Sundown Lake",
+        "url": "https://open.spotify.com/album/4G5DwjWXkJG8rXeXclTN0T"
+      },
+      "artists": [
+        {
+          "name": "the GOLDEN DREGS",
+          "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228716,
+      "name": "Sundown Lake",
+      "url": "https://open.spotify.com/track/6vIQCQ7RDSZR3bnSYFJcqU"
+    },
+    {
+      "album": {
         "name": "Sunlight In Motion",
         "url": "https://open.spotify.com/album/2QAT7VPy9T5uXUjfZqvqsq"
       },
@@ -4421,6 +4587,24 @@
       "duration_ms": 229250,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/1X21vF21PocqNBsQN6NeB6"
+    },
+    {
+      "album": {
+        "name": "Rough Trade Super-Disc",
+        "url": "https://open.spotify.com/album/40oTuUuDxcivKZ1AbL3wME"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80245,
+      "name": "This Is A Song About My Ex - 2018",
+      "url": "https://open.spotify.com/track/33662tWpqmbP4DkaGjYJVa"
     },
     {
       "album": {
@@ -4907,6 +5091,28 @@
       "duration_ms": 197306,
       "name": "Will Get Fooled Again - Katie Dey Cover",
       "url": "https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi"
+    },
+    {
+      "album": {
+        "name": "Meeting with a Judas Tree",
+        "url": "https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212959,
+      "name": "Wood",
+      "url": "https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw"
     },
     {
       "album": {

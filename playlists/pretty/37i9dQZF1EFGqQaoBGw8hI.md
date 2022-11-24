@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334 likes - 477 songs - 1 day 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347 likes - 477 songs - 1 day 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 140 | [Where To Now St\. Peter?](https://open.spotify.com/track/2VuPf7Il5qhx7WHArc9WAs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 4:11 |
 | 141 | [Deep Inside](https://open.spotify.com/track/3Q5xu8VzdwYR9dXHniCU8o) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:26 |
 | 142 | [The Trail We Blaze \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/0ethI8X4VfWjOOPhPCJ2zk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 3:53 |
-| 143 | [The Ballad Of Blind Tom](https://open.spotify.com/track/2dvIMtjCQjsWE1O1YmGYEe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:12 |
-| 144 | [Holiday Inn](https://open.spotify.com/track/7ufKmUVZaevb5uLk5QjlwA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:16 |
+| 143 | [Holiday Inn](https://open.spotify.com/track/7ufKmUVZaevb5uLk5QjlwA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:16 |
+| 144 | [The Ballad Of Blind Tom](https://open.spotify.com/track/2dvIMtjCQjsWE1O1YmGYEe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:12 |
 | 145 | [Goodbye \- Remastered 2010 / Bonus Track](https://open.spotify.com/track/1Yxqqz6fjs0bXc9vvvhHsO) | [Mary Hopkin](https://open.spotify.com/artist/5pBljwfwnohfSNDXixEYHm) | [Post Card \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/4TrA2bhBgwdyuy3mzzJWmW) | 2:26 |
 | 146 | [Can't Stay Alone Tonight](https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:48 |
 | 147 | [Tower Of Babel](https://open.spotify.com/track/4uvehZNI8BxnmBOlG9wmVn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:28 |
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 184 | [Mexican Vacation \(Kids In The Candlelight\)](https://open.spotify.com/track/4deaZiYMv945qTgQVQCoK8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 3:33 |
 | 185 | [Tell Me When The Whistle Blows](https://open.spotify.com/track/0R0uyYbcCmkhDG3mDPq6Jn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:20 |
 | 186 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
-| 187 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
-| 188 | [Candle in the Wind \(Goodbye England's Rose\)](https://open.spotify.com/track/7sVVvWa0036ac97LiGYwor) | [Timothy Eaton Ensemble](https://open.spotify.com/artist/1mD1xrYY0PxnYZbwL9ub4w) | [England's Rose](https://open.spotify.com/album/4AC6mUo3BQlPop3DMI7NYS) | 4:05 |
+| 187 | [Candle in the Wind \(Goodbye England's Rose\)](https://open.spotify.com/track/7sVVvWa0036ac97LiGYwor) | [Timothy Eaton Ensemble](https://open.spotify.com/artist/1mD1xrYY0PxnYZbwL9ub4w) | [England's Rose](https://open.spotify.com/album/4AC6mUo3BQlPop3DMI7NYS) | 4:05 |
+| 188 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
 | 189 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 190 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
 | 191 | [Cold As Christmas \(In The Middle Of The Year\)](https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:21 |
@@ -321,8 +321,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 311 | [Just Like Noah's Ark](https://open.spotify.com/track/4ebWknUfhc3lY4BtarK1z0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:33 |
 | 312 | [Emily](https://open.spotify.com/track/2eIfNoVHmo3LGI5IZB5Nv2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:58 |
 | 313 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
-| 314 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
-| 315 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 314 | [The Rumour](https://open.spotify.com/track/7oYUlz8VIzGyvKXQkExD1P) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [The Rumour](https://open.spotify.com/album/0u7QKOGir1VdlDab8BErIB) | 3:58 |
+| 315 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 |
 | 316 | [Wrap Her Up](https://open.spotify.com/track/0sIiAyckK90a6KOKhIeGwM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 6:21 |
 | 317 | [Freaks In Love](https://open.spotify.com/track/5bZbZQRl6rO5pw65cRc5nQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:31 |
 | 318 | [Dixie Lily](https://open.spotify.com/track/1E4S5we2XMOq0kFvuAW7dT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 2:55 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc4MTk0NDQsMDAwMDAwMDA1MzU3YWM1ZmIyYTU1OGRmYjJlMDg3NDA0MDJmNjhhNQ==`
+Snapshot ID: `Mjc4MjA4ODQsMDAwMDAwMDA1NGM4OGRhMWFjNWZhZjk5YmQwYzFhNGRlZTI3ZjUzYg==`

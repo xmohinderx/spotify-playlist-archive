@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-367 songs - 23 hr 2 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+368 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Thani Maramai \(From "Buffoon"\)](https://open.spotify.com/track/0YGMPiD1JZpdTGEYIMHhyn) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pavithra Ramesh](https://open.spotify.com/artist/7il5dYQBr2FkT6si0u3gmY), [Aditya Ravindran](https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa) | [Thani Maramai \(From "Buffoon"\)](https://open.spotify.com/album/6Y0bfu77oLaYSSuT4NcwmE) | 4:45 | 2022-09-27 | 2022-10-15 |
 | [Thanimai Sirayiley \(From “Kaalangalil Aval Vasantham”\)](https://open.spotify.com/track/0Yz0P7QzuOZ68nJQeEAC6I) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Thanimai Sirayiley \(From “Kaalangalil Aval Vasantham”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6rOPzH4ItagyrDETgbPAdE) | 4:12 | 2022-10-13 |  |
 | [Tharangini](https://open.spotify.com/track/2S0IAJ5azSE9G738vYWn1y) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Mira Sengupta](https://open.spotify.com/artist/1GmpszxiFVDq0NkgWh6MPI) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 3:36 | 2022-07-12 | 2022-08-05 |
+| [The Arabic Lullaby \(Theme Song\) \- From "Agent Kannayiram"](https://open.spotify.com/track/265KETeCFmNcZDuzXdzK3T) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [The Arabic Lullaby \(Theme Song\) \[From "Agent Kannayiram"\]](https://open.spotify.com/album/5f7JV4vYNvYutQGRGDu8uv) | 2:26 | 2022-11-23 |  |
 | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[TAMIL\]](https://open.spotify.com/track/2NoLWbcEQ1viurcRPX5KZk) | [Anup Bhandari](https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [The Devil's Fury \- Gumma Banda Gumma \(From "Vikrant Rona"\) \[TAMIL\]](https://open.spotify.com/album/68x7p0BGFKXNrGSNGMUHBy) | 2:13 | 2022-07-21 | 2022-07-27 |
 | [The Monster Song \(From "KGF Chapter 2 \- Tamil"\)](https://open.spotify.com/track/5AicrDW9QWF33pMW7NOOTL) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Adithi Sagar](https://open.spotify.com/artist/5PCdrbwPkpjmuZ8OFj2Oa0) | [The Monster Song \(From "KGF Chapter 2 \- Tamil"\)](https://open.spotify.com/album/63xAZTdMvFeuhTaC1DM5be) | 2:46 | 2022-04-26 | 2022-08-03 |
 | [The Suzhal Roar](https://open.spotify.com/track/437vCqn09LFz86Pa0FxCXL) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [The Suzhal Roar](https://open.spotify.com/album/6I1icjXeWonWfckCk6JzBw) | 0:51 | 2022-06-08 | 2022-06-17 |

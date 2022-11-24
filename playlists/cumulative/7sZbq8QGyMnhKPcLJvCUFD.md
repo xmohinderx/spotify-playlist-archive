@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-136 songs - 7 hr 5 min - not published yet
+137 songs - 7 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 |  |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 |  |
 | [Innocent](https://open.spotify.com/track/0R1IWHDG0pHI7Zyx0k5Fpz) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Michaella](https://open.spotify.com/artist/0gWwBifnNhOq7IisbNp2mj) | [Innocent](https://open.spotify.com/album/7oTVJrxC7dlTsNVjY4HplV) | 2:52 | 2022-05-19 |  |
+| [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 |  |
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 |  |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 |  |

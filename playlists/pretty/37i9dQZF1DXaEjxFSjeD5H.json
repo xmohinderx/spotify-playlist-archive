@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 9638,
+  "num_followers": 9660,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDNlZDA4MTdkMmQ5YmJlNTlkYjViMmFmMjJiY2FhOTEw",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDhiZjQxMDNlNGY0OGE3NDBhYTU2NGJjYjU0OTA1NDcx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Cl\u00e1sicos en Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "El Danubio Azul",
+      "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "Danzones Salon Mexico",
         "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 180976,
       "name": "Los Timbales de Acerina",
       "url": "https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Cl\u00e1sicos en Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "El Danubio Azul",
-      "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
     },
     {
       "added_at": "2022-08-02 23:28:22",

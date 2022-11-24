@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,931 likes - 116 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,155 likes - 116 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 115 | [Arriving \(6.5 kHz Lowpass\)](https://open.spotify.com/track/0KGpwqkKGjRKWgVvJriIWg) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Wuthering Lochs](https://open.spotify.com/album/4vLzq2D9GTVMz6t1qUFSWZ) | 3:28 |
 | 116 | [Relaxing Waves](https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Ocean Waves for Sleep Volume 3](https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae) | 3:42 |
 
-Snapshot ID: `MTY2OTExODgzMywwMDAwMDAwMDgwODFhM2E0NDY2YjUyZTgzODMxZDFiMTM2MDNiMzll`
+Snapshot ID: `MTY2OTIxNTc4NiwwMDAwMDAwMDU5ZWU0Yjk1NTg3NDdkY2MxNmZkNjQ2ZWFjNWMwZTI5`

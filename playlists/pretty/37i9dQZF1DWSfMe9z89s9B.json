@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Phony Ppl",
-  "num_followers": 1309041,
+  "num_followers": 1309625,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDA3NGIwNzNlNjMzZjIwYmQ3OTA2ZjcyMWE0NmUwMWNj",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDk2N2ZiZTg0YmZhNDIyYTJmN2MwZjMyYWNhZDA5NGY3",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
     },
     {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Stayed at the Party",
+        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 213166,
+      "name": "Stayed at the Party",
+      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -589,20 +605,20 @@
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
+      "added_at": "2022-07-29 04:14:33",
       "album": {
-        "name": "Stayed at the Party",
-        "url": "https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq"
+        "name": "2 DOGS 1 LEASH",
+        "url": "https://open.spotify.com/album/2IcmVtVgkrX6bmjRL03Kqz"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
         }
       ],
-      "duration_ms": 213166,
-      "name": "Stayed at the Party",
-      "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+      "duration_ms": 162461,
+      "name": "2 DOGS 1 LEASH",
+      "url": "https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -619,22 +635,6 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "2 DOGS 1 LEASH",
-        "url": "https://open.spotify.com/album/2IcmVtVgkrX6bmjRL03Kqz"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "2 DOGS 1 LEASH",
-      "url": "https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ"
     },
     {
       "added_at": "2022-09-09 04:06:40",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Stuck In The Middle",
-        "url": "https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "IDC",
@@ -863,6 +847,22 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+        "name": "Automatic (Orion Sun Remix)",
+        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+      "duration_ms": 124736,
+      "name": "Automatic - Orion Sun Remix",
+      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1043,6 +1047,38 @@
       "duration_ms": 163689,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2022-09-09 04:06:40",
@@ -1063,26 +1099,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Automatic (Orion Sun Remix)",
-        "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
-      },
-      "artists": [
-        {
-          "name": "Spencer.",
-          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 124736,
-      "name": "Automatic - Orion Sun Remix",
-      "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "moonlit room",
         "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
@@ -1095,38 +1111,6 @@
       "duration_ms": 250679,
       "name": "moonlit room",
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "Goodbye Paris",
-        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Goodbye Paris",
-      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "I Got It",
-      "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1149,6 +1133,22 @@
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Goodbye Paris",
+        "url": "https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Goodbye Paris",
+      "url": "https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Why",
@@ -1165,20 +1165,20 @@
       "url": "https://open.spotify.com/track/2eQBMUJcOCsbEKTwHSqAdx"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 156142,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1197,20 +1197,20 @@
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-08-19 04:17:01",
       "album": {
-        "name": "Seltzer",
-        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb"
       },
       "artists": [
         {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Seltzer",
-      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+      "duration_ms": 156142,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Boundaries",
-        "url": "https://open.spotify.com/album/11HvsZeFnziylX9EaMzVaK"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Boundaries",
-      "url": "https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "HYPNOS",
@@ -1471,6 +1455,22 @@
       "duration_ms": 265680,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/11HvsZeFnziylX9EaMzVaK"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
     },
     {
-      "added_at": "2022-09-30 04:04:40",
+      "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Self-Contained",
-        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
       },
       "artists": [
         {
-          "name": "DWY",
-          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 181166,
-      "name": "Self-Contained",
-      "url": "https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp"
+      "duration_ms": 169579,
+      "name": "BAD bad",
+      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1529,20 +1529,20 @@
       "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-09-30 04:04:40",
       "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+        "name": "Self-Contained",
+        "url": "https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "DWY",
+          "url": "https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX"
         }
       ],
-      "duration_ms": 169579,
-      "name": "BAD bad",
-      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
+      "duration_ms": 181166,
+      "name": "Self-Contained",
+      "url": "https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp"
     },
     {
       "added_at": "2022-08-26 04:05:16",
@@ -1581,6 +1581,26 @@
       "url": "https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo"
     },
     {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "Into The Blue Light",
+        "url": "https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A"
+      },
+      "artists": [
+        {
+          "name": "ImaniCarolyn",
+          "url": "https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 218054,
+      "name": "About A Gemini, Pt. 3",
+      "url": "https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly"
+    },
+    {
       "added_at": "2022-09-30 04:58:25",
       "album": {
         "name": "Inside Out \u2013 A COLORS SHOW",
@@ -1613,24 +1633,20 @@
       "url": "https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
+      "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Into The Blue Light",
-        "url": "https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A"
+        "name": "allthefeels",
+        "url": "https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2"
       },
       "artists": [
         {
-          "name": "ImaniCarolyn",
-          "url": "https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
         }
       ],
-      "duration_ms": 218054,
-      "name": "About A Gemini, Pt. 3",
-      "url": "https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly"
+      "duration_ms": 248669,
+      "name": "whelmed",
+      "url": "https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1647,22 +1663,6 @@
       "duration_ms": 213381,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "allthefeels",
-        "url": "https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2"
-      },
-      "artists": [
-        {
-          "name": "emawk",
-          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
-        }
-      ],
-      "duration_ms": 248669,
-      "name": "whelmed",
-      "url": "https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl"
     },
     {
       "added_at": "2022-09-09 04:06:40",

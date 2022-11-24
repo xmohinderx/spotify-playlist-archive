@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-86 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+87 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 | 2021-05-14 |  |
 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 | 2022-04-01 |  |
 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 | 2020-09-18 |  |
+| [Back](https://open.spotify.com/track/3VpzfeLGVlnFkhJyt4gwSL) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [25 Compost Records \- Overture 4](https://open.spotify.com/album/578byiKGJlCaQF9XqhHZwz) | 5:10 | 2020-09-18 |  |
 | [Back](https://open.spotify.com/track/0P7iti2eENyzPjWjvGaRzs) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 5:10 | 2020-09-18 | 2022-11-21 |
-| [Back](https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 5:10 | 2020-09-18 |  |
+| [Back](https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 5:10 | 2020-09-18 | 2022-11-24 |
 | [BMBM](https://open.spotify.com/track/1Ibl3KfZXlzkvyuV9REdWd) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Night Cruisin'](https://open.spotify.com/album/6sL3gRxmuhhsSpc196Enif) | 3:06 | 2021-07-09 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/1hOOaJNogPDV1yQVAUipKy) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI), [Methrone](https://open.spotify.com/artist/3YqRniSXLT8kdm125ZfQF6), [Sinamin](https://open.spotify.com/artist/2R2Cc3QWntnZ2IbTOc47KS) | [Bonnie & Clyde](https://open.spotify.com/album/6l3CpW4VLWVSvC0ARj9Cfn) | 4:41 | 2021-03-05 |  |
 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 |  |

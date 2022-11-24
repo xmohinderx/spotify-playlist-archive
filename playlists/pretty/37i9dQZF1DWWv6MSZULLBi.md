@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,345 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,363 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 5 | [Easy](https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 3:53 |
 | 6 | [Whiskey & Cigarettes](https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Whiskey & Cigarettes](https://open.spotify.com/album/4Caa4NGOiaczGbgRUak4QL) | 1:47 |
 | 7 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
-| 8 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 |
+| 8 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 |
 | 9 | [1 of 2](https://open.spotify.com/track/6tllMLFbEIDWJ4LxWgudOn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [1 of 2](https://open.spotify.com/album/3jX9FXY6rmjwKi5NtIMxpD) | 3:50 |
 | 10 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
 | 11 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [On the Edge](https://open.spotify.com/track/4ghxG39Um1SQ8OHdDgUH1p) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/3Ifz0AOMdu8Rs2lhtjuDcJ) | 2:40 |
 | 100 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 |
 
-Snapshot ID: `MTY2OTA2MDczMiwwMDAwMDAwMDYzNGVkMGRiMGNlNGE1MDRiZTg2NDI5MjRiNjVkNDZj`
+Snapshot ID: `MTY2OTA2MDczMiwwMDAwMDAwMDA2YzdkZjI1MThiYjE4NjA4MThhNjNlMzJlZjNhMTdi`

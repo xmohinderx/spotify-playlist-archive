@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-66 songs - 3 hr 36 min - not published yet
+67 songs - 3 hr 39 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Sankta Lucia](https://open.spotify.com/track/68JHQul9BJoRgsQL24uQUQ) | [Stella \- Solvieg Ågrens Kammarkör](https://open.spotify.com/artist/3BxHMhtalYAEU7Wt1QQr8K) | [Julens stjärna \- Christmas in Sweden](https://open.spotify.com/album/5Mv9u5upMxRPjxd1Zlz5ND) | 3:59 | 2022-11-01 |  |
 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 | 2022-11-01 |  |
 | [Simon's Song \- from the Netflix Series Young Royals](https://open.spotify.com/track/0cEjzw52873lbcxhgjXNGl) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Simon's Song \(from the Netflix Series Young Royals\)](https://open.spotify.com/album/2Vw1hsZFTihZd6sPhSedUY) | 2:27 | 2022-11-01 |  |
-| [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 | 2022-11-01 |  |
+| [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2022-11-01 |  |
+| [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 | 2022-11-01 | 2022-11-24 |
 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 | 2022-11-01 |  |
 | [The Most Beautiful Boy \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/54fap9q6JOH7xNJBEfJch6) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [IR Electronic 1](https://open.spotify.com/album/2tsMDUMO2QHIDWDMRgcvGU) | 3:03 | 2022-11-01 |  |
 | [Thunderbolt](https://open.spotify.com/track/5rzNgwE6vlRNtC2H57BRGg) | [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [French Indie Club 4](https://open.spotify.com/album/73oOfWbhYhYwouTRPc2R3i) | 3:44 | 2022-11-01 |  |

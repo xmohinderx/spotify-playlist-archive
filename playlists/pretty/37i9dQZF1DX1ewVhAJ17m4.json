@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: blink-182",
-  "num_followers": 532845,
+  "num_followers": 533378,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDcxY2Y0NTVmNzA2NmQ4YzFkZjRlOTBkZjJiYzY1OTI2",
+  "snapshot_id": "MTY2ODczNTkxOCwwMDAwMDAwMDk1YjI1MGU1ZTg2MzRlMTU0ZmQ1ZGYyY2Y4OTg0MDYx",
   "tracks": [
     {
       "added_at": "2022-11-10 17:53:01",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Cavalier",
-        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 195688,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Cavalier",
+        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "BURNOUT",
-        "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 182622,
-      "name": "THE AMERICAN DREAM",
-      "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 162166,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "BURNOUT",
+        "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "THE AMERICAN DREAM",
+      "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Birthright",
-        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Birthright",
-      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 159157,
       "name": "Every Guy Ever",
       "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Birthright",
+        "url": "https://open.spotify.com/album/5f45gB0MYo3vfKWXotr8xZ"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "I'm Close Behind",
-        "url": "https://open.spotify.com/album/1bwTocuXbenK4kaIU2Zoii"
-      },
-      "artists": [
-        {
-          "name": "Fat Nick",
-          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
-        },
-        {
-          "name": "Mikey The Magician",
-          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
-        }
-      ],
-      "duration_ms": 156492,
-      "name": "I'm Close Behind",
-      "url": "https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "WE'RE NOT STRANGERS",
         "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
       },
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Sunsign",
-        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
+        "name": "I'm Close Behind",
+        "url": "https://open.spotify.com/album/1bwTocuXbenK4kaIU2Zoii"
       },
       "artists": [
         {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
         }
       ],
-      "duration_ms": 227507,
-      "name": "Sunsign",
-      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
+      "duration_ms": 156492,
+      "name": "I'm Close Behind",
+      "url": "https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1215,6 +1199,22 @@
       "duration_ms": 186000,
       "name": "Your Love Was My Drug Too",
       "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Sunsign",
+        "url": "https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 227507,
+      "name": "Sunsign",
+      "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
     },
     {
       "added_at": "2022-11-10 17:53:01",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-11-10 17:53:01",
       "album": {
-        "name": "Levity",
-        "url": "https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Levity",
-      "url": "https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y"
-    },
-    {
-      "added_at": "2022-11-10 17:53:01",
-      "album": {
         "name": "DEAD ASTRONAUT",
         "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 157714,
       "name": "DEAD ASTRONAUT",
       "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
+    },
+    {
+      "added_at": "2022-11-10 17:53:01",
+      "album": {
+        "name": "Levity",
+        "url": "https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Levity",
+      "url": "https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

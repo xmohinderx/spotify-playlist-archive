@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 115525,
+  "num_followers": 115582,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1ODc1OCwwMDAwMDAwMDE4ZjQ3NmVlMWJhMjAzNjhiNDE1OTA2OThiYmRhMDRm",
+  "snapshot_id": "MTY2ODc1ODc1OCwwMDAwMDAwMDBhNzQ2NWQyZWVhYjdhYzY5OGM3MTBiOThmZWI4NWZh",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 392347,
       "name": "Harmonic Dreams",
       "url": "https://open.spotify.com/track/13yelaqEIzn1hOz2ZRx2xz"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -531,6 +531,38 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Too Hot, Too Cold",
         "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
@@ -547,38 +579,6 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Lost Again",
-        "url": "https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Lost Again",
-      "url": "https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+        "name": "Lost Again",
+        "url": "https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA"
       },
       "artists": [
         {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
         }
       ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+      "duration_ms": 198226,
+      "name": "Lost Again",
+      "url": "https://open.spotify.com/track/5avPepcSOLKq4zJsGu4CBV"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -635,6 +635,26 @@
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "duration_ms": 163563,
+      "name": "Riptide - Edit",
+      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -679,6 +699,22 @@
       "duration_ms": 186340,
       "name": "Tide (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -731,26 +767,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR"
-      },
-      "artists": [
-        {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
-        },
-        {
-          "name": "Tessa Rose Jackson",
-          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
-        }
-      ],
-      "duration_ms": 163563,
-      "name": "Riptide - Edit",
-      "url": "https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Solar Nights - The Remixes",
         "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
@@ -871,54 +887,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Infinity (The Remixes)",
         "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Falling Upwards",
-        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
-      },
-      "artists": [
-        {
-          "name": "Koelle",
-          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
-        },
-        {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
-        }
-      ],
-      "duration_ms": 343384,
-      "name": "Falling Upwards",
-      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Falling Upwards",
+        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "Falling Upwards",
+      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Torn Apart",
         "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 207000,
       "name": "Torn Apart",
       "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
       "artists": [
         {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Duren",
-          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
         }
       ],
-      "duration_ms": 191005,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Duren",
+          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 191005,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1575,22 +1575,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "No More / You Like Me",
-        "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
+        "name": "Hachi",
+        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
       "artists": [
         {
-          "name": "Bros Bros",
-          "url": "https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX"
+          "name": "Stym",
+          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
         },
         {
-          "name": "Jon the Gold",
-          "url": "https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x"
+          "name": "Terizo",
+          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
+        },
+        {
+          "name": "Casual Chill",
+          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
         }
       ],
-      "duration_ms": 158563,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
+      "duration_ms": 165517,
+      "name": "Hachi",
+      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1619,26 +1623,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Hachi",
-        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
+        "name": "No More / You Like Me",
+        "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
       },
       "artists": [
         {
-          "name": "Stym",
-          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
+          "name": "Bros Bros",
+          "url": "https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX"
         },
         {
-          "name": "Terizo",
-          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
-        },
-        {
-          "name": "Casual Chill",
-          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
+          "name": "Jon the Gold",
+          "url": "https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Hachi",
-      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
+      "duration_ms": 158563,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1677,7 +1677,7 @@
       "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
     },
     {
-      "added_at": "2022-11-23 01:30:45",
+      "added_at": "2022-11-24 01:29:39",
       "album": {
         "name": "Blckdrss (Wann Remix)",
         "url": "https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g"

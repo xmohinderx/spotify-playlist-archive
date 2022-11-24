@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 152449,
+  "num_followers": 152585,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDliMmQyNzc0NDI5YmUzMjMxZGU0OThiMmZjZTg3N2U3",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDNjMDNkMGNkZDJjZmQzNzY1NTg2Nzk3ZjE4ZWY1Yjdk",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/53dywng9hTIkHvljhNavG2"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sin Gravedad",
-        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
       },
       "artists": [
         {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        },
-        {
-          "name": "JAVI",
-          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
         }
       ],
-      "duration_ms": 180779,
-      "name": "Sin Gravedad",
-      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
       },
       "artists": [
         {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "JAVI",
+          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
         }
       ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+      "duration_ms": 180779,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "NO ME MOVER\u00c9",
         "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 186660,
       "name": "NO ME MOVER\u00c9",
       "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Flow Cristiano",
         "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+        "name": "Ese Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+      "duration_ms": 197333,
+      "name": "Ese Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1731,22 +1747,6 @@
       "duration_ms": 178466,
       "name": "Mi Entrenador",
       "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Ese Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Ese Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Bueno es Dios",
-        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
-      },
-      "artists": [
-        {
-          "name": "Yelitza Cintron",
-          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
-        },
-        {
-          "name": "Eliud L'voices",
-          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Bueno es Dios",
-      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
@@ -1835,6 +1815,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Bueno es Dios",
+        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "Eliud L'voices",
+          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Bueno es Dios",
+      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Medicina",
         "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
       },
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "No Te Creo",
         "url": "https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb"
       },
@@ -1883,22 +1863,6 @@
       "duration_ms": 196424,
       "name": "No Te Creo",
       "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1927,6 +1891,42 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+      },
+      "artists": [
+        {
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",

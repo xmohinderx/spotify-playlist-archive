@@ -104,6 +104,24 @@
     },
     {
       "album": {
+        "name": "Called by the Neon Light",
+        "url": "https://open.spotify.com/album/3ccal0p7YflbbtitrZDOjk"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205143,
+      "name": "Called by the Neon Light",
+      "url": "https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl"
+    },
+    {
+      "album": {
         "name": "celeste feat. Haruno",
         "url": "https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O"
       },
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 205143,
       "name": "\u30cd\u30aa\u30f3\u30e9\u30a4\u30c8\u306b\u547c\u3070\u308c\u3066",
       "url": "https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4"

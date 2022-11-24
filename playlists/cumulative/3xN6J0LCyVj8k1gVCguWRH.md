@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,829 songs - 4 day 9 hr 41 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,830 songs - 4 day 9 hr 46 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Head's In the Roses](https://open.spotify.com/track/7cUd9jKNcrEzFc6XCdyWLW) | [Jessica Wilde](https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij) | [Head's In the Roses](https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe) | 3:12 | 2022-02-27 | 2022-03-17 |
 | [headlock](https://open.spotify.com/track/2De6veIofosyfUlx3HdNV0) | [Marshall](https://open.spotify.com/artist/6nrEtBorzQn3FbVHWJAMNS), [Lindsey Ray](https://open.spotify.com/artist/2qkGoWlOdUyYI4L2AqnASY) | [headlock](https://open.spotify.com/album/0A2M1sznVUU9UxKIEueFmH) | 3:22 | 2022-02-18 | 2022-03-07 |
 | [Heart Breaker](https://open.spotify.com/track/213LP7YIi0KpRkBYXQJRfs) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Heart Breaker](https://open.spotify.com/album/7mFHMPuInS5xSdI44ysXaG) | 3:06 | 2021-05-08 | 2021-05-23 |
+| [Heart is a Fire](https://open.spotify.com/track/4F95pvr4rRr7uVDIrW7eZ6) | [KASIA](https://open.spotify.com/artist/2lU88iOnkMlPPy6hAhkXr0) | [Great \(or Happy\) / Heart is a Fire](https://open.spotify.com/album/3UlvKdNdyyU0tsEqWdnZUE) | 4:54 | 2022-11-23 |  |
 | [Hearts Glow](https://open.spotify.com/track/5WTMX9n4cVK7UUPFrn4Q2h) | [Paul Supreme](https://open.spotify.com/artist/19QnnpOzGSZaIPoFQ2rmVP) | [Hearts Glow](https://open.spotify.com/album/0BHPome5lPyvxfoUqavygd) | 2:54 | 2022-10-07 | 2022-10-29 |
 | [Heat](https://open.spotify.com/track/4OiapUuMeahMB05oDt5Sn0) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Heat](https://open.spotify.com/album/0cpv2QhabsuvPisUlfMjpS) | 3:02 | 2022-03-18 | 2022-04-05 |
 | [Heatwave](https://open.spotify.com/track/1JngBtpUOVLqCo7pVijWv4) | [Moose & the Elephant](https://open.spotify.com/artist/5l3X1SeI5T3U2bLCY1JSjP) | [Heatwave](https://open.spotify.com/album/1ISazG8ePoEajdyHij4rRU) | 3:59 | 2021-07-10 | 2021-07-25 |

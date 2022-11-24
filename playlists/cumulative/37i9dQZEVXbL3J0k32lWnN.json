@@ -860,12 +860,12 @@
         },
         {
           "name": "P3",
-          "url": "https://open.spotify.com/artist/4sfpwybxbvBBio0eOkESLG"
+          "url": "https://open.spotify.com/artist/4kElB0k7B3OtVDYkCys2z7"
         }
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 221959,
       "name": "Au Revoir (K\u00e5 S\u00e5 Danmark vol. 2)",
       "url": "https://open.spotify.com/track/7tmHWO1fTrU9T2oCwl4OrM"
@@ -4125,7 +4125,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 258533,
       "name": "Dr\u00f8mte Mig En Lille Dr\u00f8m - Fra julekalenderen 'Absalons Hemmelighed'",
       "url": "https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3"
@@ -6503,7 +6503,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -6747,7 +6747,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-01",
+      "date_removed": null,
       "duration_ms": 210061,
       "name": "Helt Sikker",
       "url": "https://open.spotify.com/track/7G7Vg7wlhAH15VHQD29ZgI"
@@ -7454,7 +7454,7 @@
     },
     {
       "album": {
-        "name": "HVEM ER DE!? (feat. Jimilian)",
+        "name": "HVEM ER DE!? (Basim x Jimilian)",
         "url": "https://open.spotify.com/album/4MmWrtsL0agBUXc5qwN9P7"
       },
       "artists": [
@@ -7469,9 +7469,9 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 173300,
-      "name": "HVEM ER DE!? (feat. Jimilian)",
+      "name": "HVEM ER DE!? (Basim x Jimilian)",
       "url": "https://open.spotify.com/track/0RocmqZFer8TeLvoeQzGc6"
     },
     {
@@ -13543,7 +13543,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-14",
+      "date_removed": null,
       "duration_ms": 323400,
       "name": "Re-sepp-ten - VM-sang 1986",
       "url": "https://open.spotify.com/track/6UPcylAJnEKnRanHyL64Qb"
@@ -13717,7 +13717,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 223951,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/5gpImN0eqlucE3a3r121SF"
@@ -14461,7 +14461,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 196246,
       "name": "Skulder Ved Skulder (Danmarks Officielle Fodboldsang)",
       "url": "https://open.spotify.com/track/29413BdSqM2XRMdu4XT4EK"
@@ -14669,7 +14669,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -15995,7 +15995,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 232478,
       "name": "Tidsrejsen",
       "url": "https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq"
@@ -16292,6 +16292,28 @@
     },
     {
       "album": {
+        "name": "Tror Kun P\u00e5 \u00c9n Hjulemand (feat. Christopher)",
+        "url": "https://open.spotify.com/album/4fqg94x754T0VN8wtyhSS5"
+      },
+      "artists": [
+        {
+          "name": "Natholdet",
+          "url": "https://open.spotify.com/artist/5shcpL3Z66Kw1ckbUsmuGa"
+        },
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188499,
+      "name": "Tror Kun P\u00e5 \u00c9n Hjulemand (feat. Christopher)",
+      "url": "https://open.spotify.com/track/7gB1km97zCmOGTOv5gS6fF"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -16495,7 +16517,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

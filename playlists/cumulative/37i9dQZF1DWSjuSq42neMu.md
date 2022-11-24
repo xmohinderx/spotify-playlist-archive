@@ -4,7 +4,7 @@
 
 > todo un mood.
 
-200 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
+201 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/album/6sJLYcfLIb9wNyLy1hdeyM) | 3:19 | 2021-12-14 | 2022-07-28 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/2qyLvNLktrdc67OgaayqMW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 4:55 | 2021-12-14 | 2022-07-29 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2022-07-26 |  |
+| [Aroma](https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Aroma](https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC) | 3:09 | 2022-11-21 |  |
 | [Ausente](https://open.spotify.com/track/3GXplF1vscAbNcmv1mR65R) | [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Ausente](https://open.spotify.com/album/23G5DUbLk1DAKmnykuVvgm) | 3:35 | 2022-03-29 | 2022-07-18 |
 | [Avísame](https://open.spotify.com/track/6gq4nTOirGSZPUzWMbKmK7) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [Avísame](https://open.spotify.com/album/71c1eAek6Cc9knZ81UHXsI) | 2:42 | 2022-03-29 | 2022-04-20 |
 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 | 2022-08-11 |  |
@@ -146,7 +147,7 @@
 | [Pa Acá](https://open.spotify.com/track/5WnqsCunwFaYlnhF8ZcekE) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Pa Acá](https://open.spotify.com/album/6GHCA312OwUvhTfkcnjrpS) | 3:00 | 2022-02-14 | 2022-04-19 |
 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 | 2021-12-14 |  |
 | [Pa'nama](https://open.spotify.com/track/5H36TeVC5aQnsvFhhzw9xZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Pa'nama](https://open.spotify.com/album/5UWoOpd0zEfASNiJUZqBD5) | 3:31 | 2022-01-24 | 2022-07-26 |
-| [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 | 2022-02-14 |  |
+| [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 | 2022-02-14 | 2022-11-24 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-05-26 |  |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-14 |  |
 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 | 2022-02-04 | 2022-07-26 |

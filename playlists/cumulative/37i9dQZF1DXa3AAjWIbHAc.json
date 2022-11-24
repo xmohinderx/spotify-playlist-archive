@@ -117,6 +117,24 @@
     {
       "album": {
         "name": "Bop!",
+        "url": "https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6"
+    },
+    {
+      "album": {
+        "name": "Bop!",
         "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
       },
       "artists": [
@@ -145,7 +163,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 156581,
       "name": "Bop!",
       "url": "https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH"

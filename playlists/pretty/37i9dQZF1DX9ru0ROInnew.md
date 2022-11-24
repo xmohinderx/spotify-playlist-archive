@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,642 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,773 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 71 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |
 | 72 | [Subimos de Rango](https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Subimos de Rango](https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626) | 4:26 |
 | 73 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
-| 74 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
-| 75 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 |
+| 74 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 |
+| 75 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
 | 76 | [Me Llamas](https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Llamas](https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI) | 5:27 |
 | 77 | [Ven y Hazlo Tú \(feat\. Arcángel\)](https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ven y Hazlo Tú \(feat\. Arcángel\)](https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99) | 4:22 |
 | 78 | [Enemigos Ocultos](https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Enemigos Ocultos](https://open.spotify.com/album/3iH46vXV6xBilANZ2NBsFC) | 7:25 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MTY2MDc1ODMyNywwMDAwMDAwMDVjMGRjN2Q1YzY2YjQyZWRjMWU1NGYzZjEyYWY3NWU1`
+Snapshot ID: `MTY2MDc1ODMyNywwMDAwMDAwMDU3OTM0YjZhMzQ0YTMwMWNlNTVhN2Y5MDVkNDMyMTQ0`

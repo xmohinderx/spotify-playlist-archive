@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-102 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
+103 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0OKXgg6EX7PXQvXM76xIJP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [I've Been Loving You Too Long](https://open.spotify.com/track/5O1DssQ6fsYworXsH9voyN) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul](https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S) | 3:06 | 2021-10-01 | 2022-07-29 |
 | [I've Been Loving You Too Long](https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [More Hot Rocks \(Big Hits & Fazed Cookies\)](https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz) | 2:54 | 2021-10-01 |  |
 | [I've Been Loving You Too Long \(To Stop Now\)](https://open.spotify.com/track/4ULBXRsEgR27t8SrosQ4SY) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Dark End of the Street](https://open.spotify.com/album/2Gze8c8dMQwiMOt6jr7fRL) | 3:36 | 2021-10-01 |  |
-| [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/5iQDAhRkHX079o0yYsq2xj) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/1S9ZERe8LYZOptvTA6xVVI) | 3:53 | 2021-10-01 |  |
+| [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/2EuRP3vOw8TC4UdrvfYMeA) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/4CLYyen634lYaEdSAXwap4) | 3:53 | 2021-10-01 |  |
+| [I've Been Loving You Too Long \- Acoustic](https://open.spotify.com/track/5iQDAhRkHX079o0yYsq2xj) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [The Lobbyist](https://open.spotify.com/album/1S9ZERe8LYZOptvTA6xVVI) | 3:53 | 2021-10-01 | 2022-11-24 |
 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 | 2021-10-01 |  |
 | [I've Got Dreams To Remember](https://open.spotify.com/track/6TqJXwrYdR9eCgNXa7P0gU) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [The Alligator Records 20th Anniversary Collection](https://open.spotify.com/album/7eCp9EyxEp6bnWpeNoDLi2) | 4:32 | 2021-10-01 |  |
 | [I've Got Dreams to Remember](https://open.spotify.com/track/4KT2zJb9et2Yic79ZXYLjL) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:53 | 2021-10-01 |  |

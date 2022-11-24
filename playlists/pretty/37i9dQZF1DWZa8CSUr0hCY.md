@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,888 likes - 111 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,110 likes - 111 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
 | 2 | [By The Creek](https://open.spotify.com/track/2jDDwJobulNfNZxOJTNjEz) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [By The Creek](https://open.spotify.com/album/34OHpo2d3Xjqyv0mN2zyKz) | 2:39 |
-| 3 | [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 |
+| 3 | [Sweet Harmonies](https://open.spotify.com/track/3eru26MhCX1DcTEdYvEmBz) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/5PuA4W4jFM4ZBhWzOkVK00) | 2:58 |
 | 4 | [Coral](https://open.spotify.com/track/5wrvepHi6fDBI3Fj8GDhLx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Coral](https://open.spotify.com/album/2ewETQPTVRdFPgX81hQ4n9) | 2:26 |
 | 5 | [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 |
 | 6 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 110 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 |
 | 111 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MTY2NjY5OTIwMCwwMDAwMDAwMDRjOTNmOWRmOTk1N2FiYTA0NGViZGY4ZWY4YjAzOTA1`
+Snapshot ID: `MTY2NjY5OTIwMCwwMDAwMDAwMGFkNTYyZDljMjZmODlhMjdhNGI0Y2NjMjBjNjZjZDM2`

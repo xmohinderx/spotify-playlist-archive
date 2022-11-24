@@ -1,15 +1,15 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43191,
+  "num_followers": 43264,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE2MjYxNCwwMDAwMDAwMGVkZjhmMTM1NzAwMTZiMzNkOWQ2OGY4MWE0MjU1Y2Y2",
+  "snapshot_id": "MTY2OTE2MjYxNCwwMDAwMDAwMDk0MjMxYTNhMDFhNWUyMmZlOTU1NGNhMjA1ODM1YjIz",
   "tracks": [
     {
-      "added_at": "2022-11-23 01:17:57",
+      "added_at": "2022-11-24 01:21:38",
       "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/2yTZA0SpuXc6eMtKZkU3kS"
     },
     {
-      "added_at": "2022-11-23 01:17:57",
+      "added_at": "2022-11-24 01:21:38",
       "album": {
         "name": "Takk...",
         "url": "https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo"
     },
     {
-      "added_at": "2022-11-23 01:17:57",
+      "added_at": "2022-11-24 01:21:38",
       "album": {
         "name": "Black Radio 2 (Deluxe)",
         "url": "https://open.spotify.com/album/1KT2Z6ctgebnYJFuas27AX"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/19tAqV4F3ffuE6yMipwDn9"
     },
     {
-      "added_at": "2022-11-23 01:17:57",
+      "added_at": "2022-11-24 01:21:38",
       "album": {
         "name": "The Flood (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "The Forever Now (From \"This Is Us: Season 6\")",
-        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "This Is Us Cast",
-          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
-        },
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 198108,
-      "name": "The Forever Now - From \"This Is Us: Season 6\"",
-      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1259,18 +1255,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+        "name": "The Forever Now (From \"This Is Us: Season 6\")",
+        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "This Is Us Cast",
+          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
+        },
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
         }
       ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+      "duration_ms": 198108,
+      "name": "The Forever Now - From \"This Is Us: Season 6\"",
+      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
         }
       ],
-      "duration_ms": 210391,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
+      "duration_ms": 182973,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Halfway",
-        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp"
       },
       "artists": [
         {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Halfway",
-      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
+      "duration_ms": 225471,
+      "name": "Memorial (feat. Chelsea Wolfe)",
+      "url": "https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
       },
       "artists": [
         {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        },
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 225471,
-      "name": "Memorial (feat. Chelsea Wolfe)",
-      "url": "https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k"
+      "duration_ms": 210391,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -1769,7 +1769,7 @@
       "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
     },
     {
-      "added_at": "2022-11-23 01:17:57",
+      "added_at": "2022-11-24 01:21:38",
       "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"

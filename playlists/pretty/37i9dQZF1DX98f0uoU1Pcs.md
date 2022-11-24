@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,832 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,106 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 46 | [Troglodyte](https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:19 |
 | 47 | [Paranormaladies](https://open.spotify.com/track/55zbU6Cwjc8un3OgYRUCSU) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Paranormaladies](https://open.spotify.com/album/1bg6Y8rD4adKAzuBvL609H) | 3:33 |
 | 48 | [From The Hill](https://open.spotify.com/track/1k92uboBqSFq7mjUYhxbjl) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [From The Hill](https://open.spotify.com/album/1zSOkxK3AgqU2ldlfWLKYL) | 3:21 |
-| 49 | [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 |
+| 49 | [Foul](https://open.spotify.com/track/27YME9ZCAEKJc7tUQubCqW) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 2:47 |
 | 50 | [Butterfly](https://open.spotify.com/track/6dKA4M3dfgf1853zYZit1d) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Eternal Ring](https://open.spotify.com/album/1PGwLb6AHLwUslTDlm5tQN) | 4:05 |
 | 51 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 |
 | 52 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 125 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 |
 | 126 | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/track/6RKznMItfF3tAMBP2vyYiI) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/album/642k2mjhDGqE7wfwKrDrjU) | 3:32 |
 
-Snapshot ID: `MTY2OTA0OTY1MiwwMDAwMDAwMDhkZTE1ZTE1OWMyOWU3ZjU0MzFhZjg3Y2ZmZmQ0N2Ew`
+Snapshot ID: `MTY2OTA0OTY1MiwwMDAwMDAwMGRjMGE1ZWMxYWUxYjAzMjZlZjIwMWY0ZTA5YjM2N2Qy`

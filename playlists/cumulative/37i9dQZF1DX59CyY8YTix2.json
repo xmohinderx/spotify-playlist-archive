@@ -3192,7 +3192,7 @@
     },
     {
       "album": {
-        "name": "Awesome.ep",
+        "name": "Awesome.Ep",
         "url": "https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1"
       },
       "artists": [
@@ -4525,6 +4525,24 @@
       "duration_ms": 157400,
       "name": "SYOUZIKINAHANASHI",
       "url": "https://open.spotify.com/track/44RNH27DJsxihO91CePtnw"
+    },
+    {
+      "album": {
+        "name": "Taiyokohatsuden",
+        "url": "https://open.spotify.com/album/6snu9BjWt7YslUxT1DXpxe"
+      },
+      "artists": [
+        {
+          "name": "Hoach5000",
+          "url": "https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208245,
+      "name": "Taiyokohatsuden",
+      "url": "https://open.spotify.com/track/6zt7BlGgdLF8aFkI87MECR"
     },
     {
       "album": {
@@ -9835,7 +9853,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 208245,
       "name": "\u592a\u967d\u5149\u767a\u96fb",
       "url": "https://open.spotify.com/track/0Rk04NcsQBH3DVUQP3XFwY"

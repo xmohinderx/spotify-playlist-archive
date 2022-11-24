@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Fousheé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,021 likes - 126 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,203 likes - 126 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 87 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 |
 | 88 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
 | 89 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 |
-| 90 | [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 |
+| 90 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 |
 | 91 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 92 | [Phases](https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Phases](https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s) | 2:49 |
 | 93 | [How Does It Feel](https://open.spotify.com/track/5zjzqxrN1YsRHJlME6ZBXv) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [How Does It Feel](https://open.spotify.com/album/4782LqFlhYGsAyQo0nucMt) | 3:39 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Tonight](https://open.spotify.com/track/03aXoiwsFCXxgYuoStgwJj) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Tonight](https://open.spotify.com/album/6TfS8L0UKhEgw2G9aqj0bI) | 3:30 |
 | 126 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 
-Snapshot ID: `MTY2ODc5MjkyMiwwMDAwMDAwMDk5OGUwNTRlMzFiNDZlMDUxNTc5ZWI3YmI2Njg3NmUw`
+Snapshot ID: `MTY2ODc5MjkyMiwwMDAwMDAwMDQ3Mzk0OTEzMDFjNDQzMjA1MTExMGU1ZTRiZGYxMDg3`

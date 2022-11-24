@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LAZ1
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PERSES
 
-263 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+264 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 |  |
+| [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 | 2022-11-23 |  |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
 | [WINK](https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [WINK](https://open.spotify.com/album/17K46xu9e8ZwLfYXsOQBeY) | 3:27 | 2022-07-07 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 | 2022-06-17 |

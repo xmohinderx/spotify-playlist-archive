@@ -3569,10 +3569,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 144052,
       "name": "late night movies",
       "url": "https://open.spotify.com/track/3PLegh56F9ZblGB40ifbOd"
+    },
+    {
+      "album": {
+        "name": "Late Nights",
+        "url": "https://open.spotify.com/album/1QqQofNxNcjBAlSxyaXIwJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Walker",
+          "url": "https://open.spotify.com/artist/1Ab3RBhX8acLBgcV451wsq"
+        },
+        {
+          "name": "Gerardo Mill\u00e1n",
+          "url": "https://open.spotify.com/artist/3Te1e4bESVFb1KcrMSmvhC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144052,
+      "name": "late night movies",
+      "url": "https://open.spotify.com/track/6Iy0OYEyUquJQMq4kNTC9S"
     },
     {
       "album": {
@@ -4009,6 +4031,10 @@
         {
           "name": "azayaka",
           "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        },
+        {
+          "name": "tonbo",
+          "url": "https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4"
         }
       ],
       "date_added": "2022-07-15",

@@ -4,7 +4,7 @@
 
 > Explore the ever\-evolving folk & roots scene\. Cover: Molly Tuttle
 
-316 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
+318 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Bedrock](https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Bedrock](https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf) | 3:30 | 2022-01-21 | 2022-02-05 |
 | [Bedrock](https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:30 | 2022-02-04 | 2022-10-15 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 |  |
-| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-06 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-11-04 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-06 | 2022-11-24 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 | 2022-06-04 |
 | [Better Days \- Stripped](https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Stripped\)](https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK) | 3:30 | 2021-12-10 | 2022-03-26 |
 | [Better Off High](https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Better Off High](https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7) | 4:30 | 2022-09-09 |  |
@@ -110,7 +111,8 @@
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-17 |  |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-12-10 | 2022-02-05 |
 | [Fly Right](https://open.spotify.com/track/1lpGZsdPKVTwAKJKn8ajRj) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Fly Right](https://open.spotify.com/album/4cFAgPwZ1nq7T7mBcfv1bJ) | 3:23 | 2021-12-10 | 2022-02-12 |
-| [Flying :\)\)](https://open.spotify.com/track/39FexuVmNT8zcnB1DoscSn) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Flying :\)\)](https://open.spotify.com/album/05GoTeYEXV6HctXBdaulXs) | 2:59 | 2022-08-05 |  |
+| [Flying :\)\)](https://open.spotify.com/track/39FexuVmNT8zcnB1DoscSn) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Flying :\)\)](https://open.spotify.com/album/05GoTeYEXV6HctXBdaulXs) | 2:59 | 2022-08-05 | 2022-11-24 |
+| [Flying :\)\)](https://open.spotify.com/track/6gDrPmfRqagFxMK1DZiRV4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:59 | 2022-11-04 |  |
 | [Galacticana](https://open.spotify.com/track/3hwnMsJB7c8tF9f0AAt6ak) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 4:00 | 2021-12-10 | 2022-03-18 |
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Dirty Camaro](https://open.spotify.com/album/3ehs5YxrC7X217QCg46MY7) | 3:01 | 2021-12-10 | 2022-01-01 |
 | [Gold](https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Gold](https://open.spotify.com/album/4LGfwNskwBGfE6Ca3ekioV) | 3:22 | 2022-07-29 | 2022-11-12 |

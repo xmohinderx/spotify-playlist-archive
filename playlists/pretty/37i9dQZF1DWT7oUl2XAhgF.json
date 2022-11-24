@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 158085,
+  "num_followers": 158534,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJiMDhjNmRhZjJlNjllYTQ0MjE0YzY1YjI3NzY2NDZl",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDQxMTk5ZjQ1OWM3NDI3NTE0N2Q1ZDhlN2FjNGIwYjIx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
     },
     {
       "added_at": "2021-09-10 04:02:00",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Sage Motel",
@@ -1041,6 +1025,22 @@
       "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
     },
     {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
+    },
+    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Piece of Me",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "hey rose",
-      "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Don't Forget to Look Up",
@@ -1087,6 +1071,22 @@
       "duration_ms": 210873,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "hey rose",
+      "url": "https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "It Rains Love",
-        "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "It Rains Love",
-      "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Prism",
@@ -1155,6 +1139,22 @@
       "duration_ms": 232477,
       "name": "Prism",
       "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "It Rains Love",
+        "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "It Rains Love",
+      "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+        "name": "Tell 'Em What Your Name Is!",
+        "url": "https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J"
       },
       "artists": [
         {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
         }
       ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+      "duration_ms": 247133,
+      "name": "I'm Broke",
+      "url": "https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU"
     }
   ],
   "unique_name": "Retro Soul",

@@ -2,7 +2,7 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. Photo: Vanille
+> De la douceur pour accompagner votre journée\. ❄️
 
 381 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 

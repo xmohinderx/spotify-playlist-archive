@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Daniel Levak
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,676 likes - 78 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,868 likes - 78 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Phanta](https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Phanta](https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1) | 6:56 |
 | 78 | [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 |
 
-Snapshot ID: `MTY2ODcyOTgxNCwwMDAwMDAwMGRiMDUzMjBlN2JjMThkMzZmYjc5NGE1MGQ1Y2ZlYTJm`
+Snapshot ID: `MTY2OTE5NDAwNCwwMDAwMDAwMDI4NzhkYzcyYWU0NDEwZmJjYzc3NDEzNWNlNjZjMjcx`

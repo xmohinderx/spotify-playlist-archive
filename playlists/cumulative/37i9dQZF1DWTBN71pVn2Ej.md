@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-258 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+259 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 | 2022-09-06 |  |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-12-16 | 2022-02-18 |
-| [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-10-28 |  |
+| [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 | 2022-10-28 | 2022-11-24 |
+| [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 |  |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
 | [Godzilla](https://open.spotify.com/track/6X3XvthYOhT8SHIJpY7sKw) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Godzilla](https://open.spotify.com/album/0xodabdosMvBKkBtTLfmuK) | 3:52 | 2022-09-22 |  |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 | 2022-07-29 |

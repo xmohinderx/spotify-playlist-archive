@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
-  "num_followers": 481613,
+  "num_followers": 483106,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMDQ3NjIwYmM2NDQ0NTc1NDIzZTRlZDFhYWIyZWZjMTk0",
+  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMDMyZDc4YzQ3ODk4YmZkYWI0ZTllY2E5OGE2Mzc4MzI0",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
-      },
-      "artists": [
-        {
-          "name": "Tones On Tail",
-          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
-        }
-      ],
-      "duration_ms": 268773,
-      "name": "Go! - Club Mix",
-      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 353106,
       "name": "Heart and Soul - 2007 Remaster",
       "url": "https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Everything!",
+        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
+      },
+      "artists": [
+        {
+          "name": "Tones On Tail",
+          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+        }
+      ],
+      "duration_ms": 268773,
+      "name": "Go! - Club Mix",
+      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
     },
     {
       "added_at": "2022-07-01 00:50:45",

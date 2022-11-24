@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-390 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+392 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Above and Beyond](https://open.spotify.com/track/0qJu4CH53vfwJcrfG3teZt) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Above and Beyond](https://open.spotify.com/album/5yYaNuuxG6grkT4TJl8NBO) | 2:54 | 2022-05-20 | 2022-11-12 |
 | [Adieu](https://open.spotify.com/track/5Xmis2excSOi2DT4HLJL98) | [rebirthi.](https://open.spotify.com/artist/5CBPNGpH8RmawzvbFnnanz) | [Adieu](https://open.spotify.com/album/5AgHqMTk7p0VdNy1dHco5r) | 1:32 | 2022-10-28 |  |
 | [After Hours](https://open.spotify.com/track/4xIA6rtVQukSRpcYjsUS9A) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 2:07 | 2022-05-20 |  |
-| [airless](https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [airless](https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4) | 1:46 | 2022-10-14 |  |
+| [airless](https://open.spotify.com/track/0QSGGX0o7FnXZvjNiuTrKv) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [airless](https://open.spotify.com/album/1wMk0osZHmLq6SFU5Oy8j4) | 1:46 | 2022-10-14 | 2022-11-24 |
+| [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 | 2022-11-11 |  |
 | [Alien Signals](https://open.spotify.com/track/3W2uAyn3ifuzD1r5ulraHM) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Simax](https://open.spotify.com/artist/5xvzwrBVjP32lf7rOuKPbB) | [Alien Signals](https://open.spotify.com/album/1KBMGiW3su49XLXY4NyjZB) | 2:21 | 2022-05-20 | 2022-06-10 |
 | [Alignment](https://open.spotify.com/track/459tqykAvuDfgPrWT1XsLn) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:29 | 2022-05-20 | 2022-06-10 |
 | [Altough](https://open.spotify.com/track/79lELM73k1T31gV9tdVVc6) | [Glorio](https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4) | [Altough](https://open.spotify.com/album/6Et5Lg5Unk4wULSp7AXm4H) | 2:40 | 2022-09-30 |  |
@@ -242,7 +243,8 @@
 | [Nightcap](https://open.spotify.com/track/4IcvQehCaRync2poO239V4) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:26 | 2022-05-20 | 2022-10-29 |
 | [Nightfall](https://open.spotify.com/track/3Ogra1a0VmoUwsxHUOmbZw) | [Draw Beats](https://open.spotify.com/artist/36JWIw87ka7WsPRMBLGB3F) | [Nightfall](https://open.spotify.com/album/46UFnbPeIvmRGZc82h13zf) | 3:14 | 2022-06-17 |  |
 | [Nightfall](https://open.spotify.com/track/5PZcZPU445s16dA2PF8Bo7) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Nightfall](https://open.spotify.com/album/32D8bFNMzpZ6arO7zqBi3d) | 2:10 | 2022-05-20 |  |
-| [Nightlife](https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg) | 2:28 | 2022-08-05 |  |
+| [Nightlife](https://open.spotify.com/track/5pNymjpdXwHQT5OGySLBY2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/65ucCggEYsbO8WD7S1IRv0) | 2:28 | 2022-11-11 |  |
+| [Nightlife](https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg) | 2:28 | 2022-08-05 | 2022-11-24 |
 | [nighttimez](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme) | [Bear Vizion](https://open.spotify.com/artist/5bRC2m9HTXM5x1NnJvbwhN) | [nighttimez](https://open.spotify.com/album/26o8cVWkrGSR55JnJSZxuo) | 1:51 | 2022-11-11 |  |
 | [no capuccino](https://open.spotify.com/track/1E7OUtZolsHcNCvn2JFKwS) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [fin alley](https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj) | 2:01 | 2022-05-20 |  |
 | [Nocturne](https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i) | [Digimazz](https://open.spotify.com/artist/0r4jxyuYzVGceiKpA9188p) | [Nocturne](https://open.spotify.com/album/0c95UQZbAT5ulrcizxI3xI) | 2:16 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 127151,
+  "num_followers": 127405,
   "original_name": "00s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDQ2NiwwMDAwMDAwMGI3ODU1ZTBhYTIxMjYxZmM2MGI4ZDFmZTE3ODQ3ZDVh",
+  "snapshot_id": "MTY2ODcwMDQ2NiwwMDAwMDAwMDk2NzlhYmQwMGNlNzk5YjgwYWFiYzM5ZDQ5ODk5NGMw",
   "tracks": [
     {
       "added_at": "2021-03-23 14:07:08",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-03-23 14:07:08",
       "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Dear Agony",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2021-03-23 14:07:08",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
-    },
-    {
-      "added_at": "2021-03-23 14:07:08",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Dear Agony",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
     },
     {
       "added_at": "2021-03-23 14:07:08",

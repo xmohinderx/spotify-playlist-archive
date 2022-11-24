@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-110 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
+111 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Nansi Imali](https://open.spotify.com/track/3oKXHUuIjXlAzrhmdIibUn) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Indestructible Beat of Soweto \- Volume One](https://open.spotify.com/album/1DIr8JMRBnm1cZMYIGKb8t) | 5:14 | 2022-01-09 | 2022-10-09 |
 | [Neria](https://open.spotify.com/track/0s86dWzV4r5pVNMvNUCIQ2) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/0pbYHRv67RyrOyeh31TDtn) | 5:57 | 2022-09-29 |  |
 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 | 2021-12-28 | 2022-09-30 |
-| [Ngingenwe Emoyeni](https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:09 | 2022-10-10 |  |
+| [Ngingenwe Emoyeni](https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:09 | 2022-10-10 | 2022-11-24 |
 | [Ngingenwe Emoyeni](https://open.spotify.com/track/2XnI4DE2k0uINOtFONuPzo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 4:09 | 2021-12-28 | 2022-10-09 |
 | [Nkosi Sikelel'](https://open.spotify.com/track/7tvVT1CqKFIORGGSHze4ih) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 2:23 | 2021-12-28 | 2022-05-29 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:30 | 2022-10-05 | 2022-10-25 |
@@ -85,6 +85,7 @@
 | [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 |  |
 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 | 2021-12-28 | 2022-10-14 |
 | [Old MacDonald Zulu Style](https://open.spotify.com/track/73gBGz0ByDjEx8ZRhPOIjO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 3:18 | 2021-12-28 | 2022-10-13 |
+| [Once In a Blue Moon](https://open.spotify.com/track/1aJD2XbbrBlhjg8zi63o0d) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [In Harmony](https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf) | 3:57 | 2022-11-23 |  |
 | [Passage to Promise](https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX) | [Book of Roses](https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F) | 2:29 | 2022-10-12 |  |
 | [Paulina](https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:45 | 2021-12-29 | 2022-11-21 |
 | [Peace Train/Isitimela Sokuthula](https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:40 | 2021-12-28 |  |

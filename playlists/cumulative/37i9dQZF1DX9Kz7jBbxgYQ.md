@@ -2,9 +2,9 @@
 
 ### [Desi Indie ](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Mitraz
+> Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-122 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+125 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [anay wala kal/ghubaray](https://open.spotify.com/track/5oLXoUvHMQ7CQw5kUbPOSu) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI) | [anay wala kal/ghubaray](https://open.spotify.com/album/31lIz2jbV3iZJBs1YxnDyI) | 3:41 | 2022-05-20 |  |
 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 | 2022-09-01 |  |
 | [BAAZ](https://open.spotify.com/track/5AiPk1WhVkVOouovFAtLFO) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [BAAZ](https://open.spotify.com/album/4K2e39AggprCvkHwA5AR8W) | 4:31 | 2022-07-15 | 2022-09-02 |
+| [Bach Ke](https://open.spotify.com/track/5Yq28cxRO9m7mTxsUYY4lA) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Bach Ke](https://open.spotify.com/album/0tyVwjM84T8Q9RUC7zLa13) | 2:53 | 2022-11-23 |  |
 | [Barsatein](https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7) | 3:42 | 2022-09-01 |  |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-02 |  |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-09-01 |  |
@@ -78,6 +79,7 @@
 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 |  |
 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 | 2022-05-20 | 2022-09-02 |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-09-01 |  |
+| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2022-11-23 |  |
 | [nazar/surma](https://open.spotify.com/track/7LgOVDbOr2xAKrBwuEwGDw) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [nazar/surma](https://open.spotify.com/album/0zlUqmSdwGkEvp1KlITSbz) | 3:30 | 2022-09-01 |  |
 | [Nightdriver](https://open.spotify.com/track/5LmvjYl6SZsea5QGdm4aN7) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Nightdriver](https://open.spotify.com/album/7EjeqIsIVy3DpV8LY5TJvE) | 4:36 | 2022-05-20 | 2022-09-02 |
 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 | 2022-09-05 |  |
@@ -128,6 +130,7 @@
 | [Yaqeen](https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Yaqeen](https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt) | 3:54 | 2022-05-20 | 2022-07-16 |
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-09-01 |  |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2022-05-20 | 2022-09-02 |
+| [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 | 2022-11-23 |  |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2022-05-20 | 2022-07-16 |
 | [Zindagi Se Maut Tak](https://open.spotify.com/track/0WGoDfNSwZG3uc7Xmv5Mgg) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Zindagi Se Maut Tak](https://open.spotify.com/album/0SD81UxAjxWkYQOpm6Uw5z) | 4:05 | 2022-07-15 | 2022-09-02 |
 

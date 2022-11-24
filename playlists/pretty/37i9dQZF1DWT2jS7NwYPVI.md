@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Luka State
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,867 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,091 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 83 | [Parasite](https://open.spotify.com/track/4Wsst7bJEVKRWI1vef1S7R) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Parasite](https://open.spotify.com/album/5fyMxb8ClYRqpiTrzR7xc3) | 3:02 |
 | 84 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 |
 | 85 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
-| 86 | [Glorious Sunset](https://open.spotify.com/track/3aVZyv57MSqHpDtsihRDiB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3omaVBvDQh1JvKhTgmChDr) | 3:59 |
+| 86 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 |
 | 87 | [•WORST FRIEND•](https://open.spotify.com/track/4RUGYWQDRkJhRTvTcP3DAW) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•WORST FRIEND•](https://open.spotify.com/album/1SshwvydhfbsSGM8iXrU3A) | 1:51 |
 | 88 | [Make It Through the Night](https://open.spotify.com/track/5yFmBeJiNU80ugBE98w4OD) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Make It Through the Night](https://open.spotify.com/album/2i3DtxhPYBg3CNEx81rkEI) | 2:23 |
 | 89 | [Dye Yer Hair](https://open.spotify.com/track/22rHS6KkGbNccIdXLlQoFg) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Dye Yer Hair](https://open.spotify.com/album/7bUhqpm35dpdoRYNgZCS7m) | 3:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 125 | [Beachtown](https://open.spotify.com/track/1hiN1elmKq5lK4cepuFhrP) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Beachtown](https://open.spotify.com/album/425tOEXepyVo5xnKObzq5h) | 3:54 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDMzNDE2MzIyY2E5OThiYjM1NWY2N2NhY2IwMDkwOTA2`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDc1NjEzYTZlOGY3MWU3ODIyMWE4ZmVhMWM0NWZlNTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,528 likes - 500 songs - 18 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,938 likes - 500 songs - 18 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 76 | [BUBBA](https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [FACING](https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk) | 2:02 |
 | 77 | [New Sneakers](https://open.spotify.com/track/3Y5XXeKGhFDZjKzXDbAeNX) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [New Sneakers](https://open.spotify.com/album/1nZCM4YAGBf6CgKuLUCxIx) | 2:18 |
 | 78 | [On the Low](https://open.spotify.com/track/3SM2FmRpvNqOpvNR7wi2mk) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [On the Low](https://open.spotify.com/album/1vZp9c38LDksQUuo6ggSPK) | 2:18 |
-| 79 | [Jazz On The Rooftop](https://open.spotify.com/track/29GN52zyP7stWbXnoy2QCv) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Jazz On The Rooftop](https://open.spotify.com/album/2U0VPMKIdaj8krcsuMIsvi) | 1:54 |
+| 79 | [Jazz On The Rooftop](https://open.spotify.com/track/2IbaMbnKrLhOrKHFRaAesi) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Jazz On The Rooftop](https://open.spotify.com/album/4WpvyjzMbEMdQNhxx2mw21) | 1:54 |
 | 80 | [days gone](https://open.spotify.com/track/6Nhb2IfvQoFWQYeob0bO6o) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sanctuary](https://open.spotify.com/album/7FbBDAt6EB609Ibl4p8eDi) | 1:28 |
 | 81 | [Brushed](https://open.spotify.com/track/36CGAgzrmfhVYZ34tamQXR) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brushed](https://open.spotify.com/album/2y1JQqrQudbRPsgmhmRLvm) | 2:19 |
 | 82 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 107 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
 | 108 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 |
 | 109 | [Jupiter](https://open.spotify.com/track/5jT5sIQECE9clU4sFN6tDo) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/3vUF1ShmQPXJ2ZnaMz59MJ) | 1:57 |
-| 110 | [Nostalgia](https://open.spotify.com/track/1KURe9cp0LSD5hKMwP6Opj) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/4jiL3huicySFF2n56ch3vN) | 2:24 |
+| 110 | [Nostalgia](https://open.spotify.com/track/4MfwBOK3adag7V3zPLsAYB) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Nostalgia](https://open.spotify.com/album/2YrwIXcs62pL1yoekzlRRq) | 2:24 |
 | 111 | [Jam Session](https://open.spotify.com/track/7JdntyivTxgRfo8znylPhG) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Kjetil Jerve](https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A) | [Jam Session](https://open.spotify.com/album/1XUxUYJYSdLWB4fGsgMtl0) | 2:44 |
 | 112 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 |
 | 113 | [Heartfelt](https://open.spotify.com/track/4rAE5sjSsxtSl3p0qy5NYu) | [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Heartfelt](https://open.spotify.com/album/2a5Q5Ea0F4Oboq4hQesN7o) | 2:08 |
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 179 | [Lueur d'Espoir](https://open.spotify.com/track/7rfrfkno6jLUBXP6F6t4UC) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Lueur d'Espoir](https://open.spotify.com/album/1ulHDdGNq69Q6bjwGoDKQi) | 1:59 |
 | 180 | [Rusty Flavour](https://open.spotify.com/track/0DEgUgKbTHLPjjpuM7wTEq) | [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Rusty Flavour](https://open.spotify.com/album/01ttNAV30k2GysdNUk08LL) | 2:15 |
 | 181 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 |
-| 182 | [Palm Street Peacock](https://open.spotify.com/track/0LKzWABNL2W8gLCzHrkqkX) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Palm Street Peacock](https://open.spotify.com/album/6yz4HQD9zJU5ccRatw4e8i) | 2:24 |
+| 182 | [Palm Street Peacock](https://open.spotify.com/track/4qtG2cfdMpsOdsNRcp5SZY) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Palm Street Peacock](https://open.spotify.com/album/4Cs9ccHnw4nT0LNDTPLIbp) | 2:24 |
 | 183 | [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [Francisco Ray](https://open.spotify.com/artist/5oqG48XDqiUwZE6bwmitC9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 |
 | 184 | [Sounds like fog](https://open.spotify.com/track/1MAKPG2lOnh7wO51jLLjkC) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Sounds like fog](https://open.spotify.com/album/2h0IQwmC5MDUtWSqQhC0UH) | 2:41 |
 | 185 | [Fluffy White Clouds](https://open.spotify.com/track/2IDZCu8wc18XPTVBR9FToF) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [De Nada](https://open.spotify.com/album/2KQ8Qq9xZismI1yYYTTrNi) | 2:58 |
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 189 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 |
 | 190 | [Afternoon Jazz](https://open.spotify.com/track/0ObR3dy3c6Hy2rQ5o2WFTY) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w) | [Afternoon Jazz](https://open.spotify.com/album/64diavRvTmTahoSSCeTMuU) | 1:46 |
 | 191 | [Scrolling Memories](https://open.spotify.com/track/2opRnQtOHNy92ftmCJAesg) | [Groove.](https://open.spotify.com/artist/1rnUiXNVWDd67U1519BKnN), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Scrolling Memories](https://open.spotify.com/album/38SWC9ld6DqQddM0kU5iM6) | 2:03 |
-| 192 | [indigo](https://open.spotify.com/track/68tQkY1CYZzMVf7PTf4YUa) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [indigo](https://open.spotify.com/album/10h3eJEijIHzjSPePAAcHd) | 1:35 |
+| 192 | [indigo](https://open.spotify.com/track/5x8w0sFl1lt7hr6dzU0o6i) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [indigo](https://open.spotify.com/album/0qeZQ9mtQtvj1h1zs5eTj3) | 1:35 |
 | 193 | [Uhtceare](https://open.spotify.com/track/0CHKn2AgHRRbiQ4Xid6DiV) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Uhtceare](https://open.spotify.com/album/7CYaBRE7LM8YhJxzYd9IMq) | 2:03 |
 | 194 | [undertones](https://open.spotify.com/track/0tteU8UnGjYhewYzzIf0lf) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [undertones](https://open.spotify.com/album/18rCK11nvtiQgP3moJimcK) | 1:48 |
 | 195 | [Soho Nights](https://open.spotify.com/track/6iv1WeUEaWmBElmyP8bpjv) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Soho Nights](https://open.spotify.com/album/0mDAl7BUvqE0vRuSqAD19K) | 1:43 |
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 266 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 |
 | 267 | [Lovely](https://open.spotify.com/track/6pCeOoucc7fLEQuINzJ2Fk) | [YJKL](https://open.spotify.com/artist/3BhHTALkwD57tJXbvOw3AR), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Lovely](https://open.spotify.com/album/6KHanFx0MzObgqKBhesl0F) | 1:47 |
 | 268 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 |
-| 269 | [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 |
+| 269 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 |
 | 270 | [Walkin out](https://open.spotify.com/track/7DRxO3BorogSatHXzVxWIt) | [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Walkin out](https://open.spotify.com/album/3HPAwqLkFTR8NN3M49OFM5) | 2:09 |
 | 271 | [Dream Infinite](https://open.spotify.com/track/6V8CcTlVfqScjBMEyt1tih) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dream Infinite](https://open.spotify.com/album/2qEPJMiTNxXFt2Wpq73e4Q) | 1:44 |
 | 272 | [Half Moon](https://open.spotify.com/track/5T1jVQdly3YDNGe2x1RZ7v) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Half Moon](https://open.spotify.com/album/6fwb2iWqz4SW2mTfjgDfZC) | 2:24 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Happy 35](https://open.spotify.com/track/5GJGmY77aFrnD12H125nMS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/3KIu2RcUaixIF4SzNU9TSD) | 2:35 |
 | 500 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
 
-Snapshot ID: `MTY2ODE2NTgwNSwwMDAwMDAwMDE3OWQxMjcxNmExMWNiMmFmMDQ0MDQ3OWZlODI3NzAx`
+Snapshot ID: `MTY2ODE2NTgwNSwwMDAwMDAwMGY0MWJlZGFhNzc3MzRjNDkzOWEwZTIwYzQ3MmZhMDM1`

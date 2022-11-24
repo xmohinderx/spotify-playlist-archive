@@ -918,6 +918,24 @@
     },
     {
       "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
+    },
+    {
+      "album": {
         "name": "Change The Line EP",
         "url": "https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs"
       },
@@ -5035,7 +5053,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 189556,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2k4Fi92cj9ek4twS3uzckQ"

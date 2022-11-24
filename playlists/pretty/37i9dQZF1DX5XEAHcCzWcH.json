@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 17499,
+  "num_followers": 17636,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGIyZTE0ZWU1YWU1MTRmYzMxZjcyMjI5NGJmYjM2MzAy",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDM0OGM3OTc0OTg3ZTdiZjA5ZThhZTQ1ZmQ1ODU5NTdk",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Presumed Innocent",
         "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 267466,
       "name": "Louella",
       "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
     },
     {
       "added_at": "2022-05-13 10:49:08",

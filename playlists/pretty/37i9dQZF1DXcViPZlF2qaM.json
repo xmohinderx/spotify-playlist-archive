@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 33731,
+  "num_followers": 33818,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ5ODE1NCwwMDAwMDAwMDhjYjUzZjZlMjFhZGE4ZTM1ZmNkNTE0NGE2ZjAzYjk3",
+  "snapshot_id": "MTY2ODQ5ODE1NCwwMDAwMDAwMGRhY2ZlNDI4MWU4ZDM5YWNkNWNhOGZjZTU4ODRjMDhj",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -101,6 +101,42 @@
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
+      "added_at": "2022-04-08 19:03:44",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "added_at": "2022-11-15 07:41:03",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
+      },
+      "artists": [
+        {
+          "name": "Mon de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
+        }
+      ],
+      "duration_ms": 222005,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
+    },
+    {
       "added_at": "2022-04-01 20:35:15",
       "album": {
         "name": "Entren Los Que Quieran",
@@ -127,42 +163,6 @@
       "duration_ms": 301426,
       "name": "Latinoam\u00e9rica (feat. Tot\u00f3 la Momposina, Susana Baca & Maria Rita)",
       "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
-    },
-    {
-      "added_at": "2022-11-15 07:41:03",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
-      },
-      "artists": [
-        {
-          "name": "Mon de Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
-        }
-      ],
-      "duration_ms": 222005,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
-    },
-    {
-      "added_at": "2022-04-08 19:03:44",
-      "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
-        }
-      ],
-      "duration_ms": 297664,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
-      "added_at": "2022-11-23 01:41:28",
+      "added_at": "2022-11-24 01:28:30",
       "album": {
         "name": "Las Olas del Mar",
         "url": "https://open.spotify.com/album/5xYifiyDQBBzpxuU0P5ri0"
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2022-02-11 00:27:46",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+    },
+    {
       "added_at": "2022-09-02 06:00:17",
       "album": {
         "name": "La Matanza",
@@ -811,22 +827,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
-        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 219737,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Ska Cubano",
@@ -961,6 +945,22 @@
       "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
+        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 219737,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Mr. Carisma",
@@ -975,22 +975,6 @@
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -1011,6 +995,22 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2021-10-16 00:59:30",

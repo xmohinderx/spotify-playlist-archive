@@ -1165,10 +1165,28 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 265476,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2U0nXVgU5FcLTFtPbkcv1v"
+    },
+    {
+      "album": {
+        "name": "Burn the Ships",
+        "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
+      },
+      "artists": [
+        {
+          "name": "Blacktop Mojo",
+          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265476,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
     },
     {
       "album": {
@@ -2956,6 +2974,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210997,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR"
+    },
+    {
+      "album": {
         "name": "Mississippi Queen/Slow Hand",
         "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
@@ -3601,7 +3637,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 213878,
       "name": "ROCKIN' IN THE FREE WORLD",
       "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"

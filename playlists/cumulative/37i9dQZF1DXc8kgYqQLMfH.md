@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-732 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+734 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Faded](https://open.spotify.com/track/0pTB6vjZLmjxuD6kAARUV2) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Faded](https://open.spotify.com/album/2HtVPo0g5KvgVWdC1l09N2) | 2:52 | 2022-04-15 |  |
 | [Fallen Leaves](https://open.spotify.com/track/2Sz5EDKYQHblue7fwpsPTq) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Aoko](https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO), [RdBeats](https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9) | [Fallen Leaves](https://open.spotify.com/album/2KPk9BgqNfsGBT40BL4Urf) | 2:43 | 2022-05-13 | 2022-06-10 |
 | [Falling In Love](https://open.spotify.com/track/2BQZRUDQdU9ewgdQzt1tVi) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [Falling In Love](https://open.spotify.com/album/5SvrpXuxvgc45HmoxwQQdx) | 2:12 | 2022-09-23 |  |
-| [Falling Leaves](https://open.spotify.com/track/5lnfEGxTbMyG3mNH3hOSx9) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6E1ZM3Ib24wnE0ctw1eMce) | 1:55 | 2022-10-28 |  |
+| [Falling Leaves](https://open.spotify.com/track/0reKnezLNVWxzZKJwWusOO) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6kxoGbgg7Fzakjoul17YN9) | 1:55 | 2022-11-11 |  |
+| [Falling Leaves](https://open.spotify.com/track/5lnfEGxTbMyG3mNH3hOSx9) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6E1ZM3Ib24wnE0ctw1eMce) | 1:55 | 2022-10-28 | 2022-11-24 |
 | [Far From Home](https://open.spotify.com/track/2Cs4FC4wZR6FfclKa8V0or) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Far From Home](https://open.spotify.com/album/1Bkgwqw2MZAwOePryDEQys) | 2:00 | 2022-04-15 |  |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2021-11-10 | 2022-09-03 |
 | [female instinct](https://open.spotify.com/track/7Bo9waxvipuELlsPODymet) | [natalie kenston](https://open.spotify.com/artist/392PBTDto12btpdlkc3L3K) | [female instinct](https://open.spotify.com/album/5IyKsBgHSX7zqQNTJorahs) | 1:24 | 2021-11-10 | 2022-06-03 |
@@ -634,7 +635,8 @@
 | [Sunset Beach](https://open.spotify.com/track/7tHEEMjKZNdi3203uYB5hg) | [Jacques Chillax](https://open.spotify.com/artist/1HuGqnZr4OtghjZX881zr2) | [Last Summer](https://open.spotify.com/album/5Zg9u4V253Us5jjl5EY8Gu) | 2:08 | 2021-11-10 | 2022-08-19 |
 | [Sway to Your Heart](https://open.spotify.com/track/05ne75RosFebsJtvW9MeSf) | [Hatchio](https://open.spotify.com/artist/2yJIW1Ej1HulMn17JJ4kaC) | [The Shape of Your Name](https://open.spotify.com/album/1FFADbkquD5LR9RRYTOFMB) | 2:37 | 2021-11-10 | 2022-07-22 |
 | [Sweet Dreams](https://open.spotify.com/track/0WEAUKujUlrpyaZ08PztTr) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Sweet Dreams](https://open.spotify.com/album/0arZqbg2VYE6qd2S7i89PO) | 1:48 | 2022-04-15 |  |
-| [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 | 2022-09-09 |  |
+| [Sweet Harmonies](https://open.spotify.com/track/3eru26MhCX1DcTEdYvEmBz) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/5PuA4W4jFM4ZBhWzOkVK00) | 2:58 | 2022-11-11 |  |
+| [Sweet Harmonies](https://open.spotify.com/track/6I0ri5qtbwAl0STxMXuMZo) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Sweet Harmonies](https://open.spotify.com/album/6hmAw4vIvPFP6n6u7kndCh) | 2:58 | 2022-09-09 | 2022-11-24 |
 | [sweet may](https://open.spotify.com/track/7amAdV5aU0kfYKxoR7PO49) | [dovre](https://open.spotify.com/artist/4XcJ845RtUCgUzDgrrjb66) | [let them wait](https://open.spotify.com/album/5NlohdK4uMJdUoOGF4ueSx) | 2:36 | 2021-11-10 | 2022-09-03 |
 | [Sweet Memories](https://open.spotify.com/track/6nh8CFU59RSJOPshE2w10O) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Sweet Memories](https://open.spotify.com/album/1Jm4YKFjK5ePIdeyJfFBlc) | 2:13 | 2021-11-10 | 2022-07-29 |
 | [Swift Coasting](https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [Swift Coasting](https://open.spotify.com/album/3zgpEvqf1mxy3ZWmp913R8) | 1:55 | 2021-11-10 | 2022-10-01 |

@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 624011,
+  "num_followers": 624596,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE5OTc3NSwwMDAwMDAwMDZjZTYyZTk1NGUyZDgzMTU2ZjA4NGUwY2I0NjVjMWY4",
+  "snapshot_id": "MTY2ODE5OTc3NSwwMDAwMDAwMDc4NmNjMjRkMmY0NDMyMTQ3NTMwMDUxNjQ3NzZlZGMy",
   "tracks": [
     {
       "added_at": "2022-11-11 20:49:35",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+      "duration_ms": 205601,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 205601,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -591,18 +591,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Willowbank",
-        "url": "https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 170027,
-      "name": "Depths (Pt. I)",
-      "url": "https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -619,6 +623,22 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "Willowbank",
+        "url": "https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 170027,
+      "name": "Depths (Pt. I)",
+      "url": "https://open.spotify.com/track/5JMY7l5GE5ze1mdkyDptdh"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -687,26 +707,6 @@
       "duration_ms": 283190,
       "name": "Everything Is Just a Mess",
       "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 193251,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 193251,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
         "name": "The Last Record Album",
         "url": "https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 163306,
       "name": "Long Distance Love",
       "url": "https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/5lUMoZKDRk4RzdRbhpBhmb"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Big Wave",
+      "url": "https://open.spotify.com/track/5OZ9IQhS8bVr5TJsEgL8l4"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "The Heart",
-        "url": "https://open.spotify.com/album/5lUMoZKDRk4RzdRbhpBhmb"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 218823,
-      "name": "Big Wave",
-      "url": "https://open.spotify.com/track/5OZ9IQhS8bVr5TJsEgL8l4"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 231965,
       "name": "Crying Shame",
       "url": "https://open.spotify.com/track/0VBKbgt7Q8fvR4B5DrvVph"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 175273,
+      "name": "Only A Fool Would Say That",
+      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "The Emitt Rhodes Recordings (1969-1973)",
         "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 238669,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 238669,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1367,34 +1383,18 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 175273,
-      "name": "Only A Fool Would Say That",
-      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        },
-        {
-          "name": "Florent F",
-          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Didn't I - Florent F Rework",
-      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
         "name": "Gentlewoman, Ruby Man",
         "url": "https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 201873,
       "name": "Look At What the Light Did Now",
       "url": "https://open.spotify.com/track/0BPHerKbGrXD8Y7SCXmhW8"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        },
+        {
+          "name": "Florent F",
+          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Didn't I - Florent F Rework",
+      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 234746,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Tonight I'll Be Staying Here with You",
-      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Baltus",
-        "url": "https://open.spotify.com/album/6nJKSj8yqRNDn9r4oKn1UE"
-      },
-      "artists": [
-        {
-          "name": "Gundelach",
-          "url": "https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Duck Hunting",
-      "url": "https://open.spotify.com/track/2YQW4TM1SNEWLeTEliwMbo"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 230484,
       "name": "Aiming Up",
       "url": "https://open.spotify.com/track/4Biz6kWjg6lHwupqnpqhJ7"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
+        "name": "Baltus",
+        "url": "https://open.spotify.com/album/6nJKSj8yqRNDn9r4oKn1UE"
+      },
+      "artists": [
+        {
+          "name": "Gundelach",
+          "url": "https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Duck Hunting",
+      "url": "https://open.spotify.com/track/2YQW4TM1SNEWLeTEliwMbo"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
-        "name": "Kids Fallin' In Love",
-        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm"
+        },
+        {
+          "name": "Hip Dozer",
+          "url": "https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p"
         }
       ],
-      "duration_ms": 227369,
-      "name": "Kids Fallin' In Love",
-      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
+      "duration_ms": 230588,
+      "name": "Changed",
+      "url": "https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl"
     },
     {
       "added_at": "2022-11-11 20:49:35",
@@ -1867,6 +1871,22 @@
     {
       "added_at": "2022-11-11 20:49:35",
       "album": {
+        "name": "Kids Fallin' In Love",
+        "url": "https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Kids Fallin' In Love",
+      "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
+    },
+    {
+      "added_at": "2022-11-11 20:49:35",
+      "album": {
         "name": "You Ain't The Problem (Claptone Remix)",
         "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 164714,
       "name": "You Ain't The Problem - Claptone Remix",
       "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
-    },
-    {
-      "added_at": "2022-11-11 20:49:35",
-      "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm"
-        },
-        {
-          "name": "Hip Dozer",
-          "url": "https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Changed",
-      "url": "https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl"
     },
     {
       "added_at": "2022-11-11 20:49:35",

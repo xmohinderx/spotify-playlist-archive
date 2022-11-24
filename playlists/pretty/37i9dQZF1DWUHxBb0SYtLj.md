@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste super artiste italiane! Cover: la musicista, produttrice e DJ <a href="spotify:artist:2fB3iExnBIP2AA713JAqIM">PLASTICA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,152 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,168 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

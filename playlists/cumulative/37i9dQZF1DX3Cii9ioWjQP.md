@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Woong San\(웅산\)\)
+> All about Korean Jazz hits & new \(Cover: youra, Mandong \(유라, 만동\)\)
 
-94 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
+97 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,12 @@
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
 | [Rhythm of Hope \(Prod\. DPR CREAM\)](https://open.spotify.com/track/0337drC05b9vF1yD8gA66L) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:47 | 2022-05-03 |  |
 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 | 2022-05-03 |  |
+| [Sag](https://open.spotify.com/track/0WT5exMmrq1biJR2cvJepO) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 4:21 | 2022-11-23 |  |
 | [Sail Away \(feat\. HAESONG\)](https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1) | [Kang Hyunho](https://open.spotify.com/artist/50oIUfjtvBKSSGO611Dqzi), [HAESONG](https://open.spotify.com/artist/6wdqKs5SjeknFU3YC1icr8) | [Sail Away](https://open.spotify.com/album/2OF34mOai76B9OjsBIuSaf) | 4:32 | 2022-05-03 |  |
 | [Saturday Rain](https://open.spotify.com/track/0fa7YZZdlqXtgUXoFP4z7P) | [Evenrain](https://open.spotify.com/artist/0rsCdUANsCVdMIsE2JcF6k) | [Saturday Rain](https://open.spotify.com/album/5N01UsVMq2ZV51fWnaybzw) | 5:57 | 2022-05-03 | 2022-05-19 |
 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 | 2022-05-03 |  |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
+| [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 |  |
 | [SPRING OF CHORYANG](https://open.spotify.com/track/2CVy1sSuzwKs2DJJlAM5rQ) | [LEE SE YOUNG](https://open.spotify.com/artist/1LxHZbzjNjznwqJzIokSyv) | [SPRING OF CHORYANG](https://open.spotify.com/album/3rdSQwYpcGJrw1rIscH2o9) | 5:06 | 2022-05-03 |  |
 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 |  |
 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 |  |
@@ -90,6 +92,7 @@
 | [TokTok](https://open.spotify.com/track/6fANOyLyypFGYeo9uzM1X2) | [Jinhee Hong](https://open.spotify.com/artist/1Ezsas1VaOs39tDXRdyTtI) | [TokTok](https://open.spotify.com/album/47BLSR5uu0ZOImlAFwFKo4) | 3:20 | 2022-05-03 | 2022-06-21 |
 | [Unspoken Words](https://open.spotify.com/track/4mTXOg7AweKIjmqSk0CP7c) | [Wonmi Jung](https://open.spotify.com/artist/0daAcOXMuzxPwRiRBqgO2l) | [Unspoken Words](https://open.spotify.com/album/3a7eZQXmz9pudoFomDsg3c) | 4:20 | 2022-11-11 |  |
 | [Ureonada](https://open.spotify.com/track/4YS7FPQN5hGBzrBC9X55Hf) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_288](https://open.spotify.com/album/5rrTnY08CcFWnUFM8vE6i1) | 3:27 | 2022-11-11 |  |
+| [Vacancy Hugs Time](https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:52 | 2022-11-23 |  |
 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 |  |
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 |  |

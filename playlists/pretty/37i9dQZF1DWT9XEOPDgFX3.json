@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Field Medic",
-  "num_followers": 53450,
+  "num_followers": 53565,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDhlNzRjMjZmMTJlMGQ1NjA0MTEzMDdjNDRjZTJjMDM1",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGQ1NzUzMzdlMmU3NmI4MzNkZmFmZWQ3YTZhMDhmZmI0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Sorceress",
@@ -895,22 +911,6 @@
       "duration_ms": 184853,
       "name": "bike again",
       "url": "https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "i only sing about food",
-        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "i only sing about food",
-      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "i only sing about food",
+        "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "i only sing about food",
+      "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Yeehoo!",
+        "url": "https://open.spotify.com/album/425NhcK8beUulJGrT4duTL"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "duration_ms": 208846,
+      "name": "Yeehoo!",
+      "url": "https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Serpentine Prison (Deluxe Edition)",
@@ -1391,22 +1407,6 @@
       "duration_ms": 220573,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Yeehoo!",
-        "url": "https://open.spotify.com/album/425NhcK8beUulJGrT4duTL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Juzang",
-          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
-        }
-      ],
-      "duration_ms": 208846,
-      "name": "Yeehoo!",
-      "url": "https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "i don\u2019t know who needs to hear this...",
         "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 285569,
       "name": "stoned",
       "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "VBS",
-        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 236864,
-      "name": "VBS",
-      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Whole New Mess",
         "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 222786,
       "name": "Whole New Mess",
       "url": "https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "VBS",
+        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 236864,
+      "name": "VBS",
+      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Whole New Mess",
-        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Waving, Smiling",
-      "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Solid Heart",
         "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Whole New Mess",
+        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Waving, Smiling",
+      "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Memory of a Cut off Head",
+        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
+        }
+      ],
+      "duration_ms": 287280,
+      "name": "Memory of a Cut off Head",
+      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Cady Road",
         "url": "https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Two Saviors",
-        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "Pareidolia",
-      "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
     }
   ],
   "unique_name": "Folk Arc",

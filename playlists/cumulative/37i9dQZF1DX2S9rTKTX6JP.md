@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-272 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+274 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Doomed \(Acoustic\)](https://open.spotify.com/track/0GmZftxnwknUcgSHvNkNA0) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Doomed \(Acoustic\)](https://open.spotify.com/album/1s0cnSk7Df11ddLbkPcRRn) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Drag Me Down](https://open.spotify.com/track/4Ka1naDgbMur3LwxMaPTrg) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/5Zj9nOCVsOe9cYuR2jIpNE) | 3:28 | 2020-12-16 | 2022-07-29 |
 | [Drag Me Down](https://open.spotify.com/track/6UBbdux7eI0m77auUWh4UD) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Drag Me Down](https://open.spotify.com/album/1WP3SyR5WGMxeLdXiAzGpg) | 3:28 | 2022-06-17 | 2022-08-20 |
-| [Dream On](https://open.spotify.com/track/2U0nXVgU5FcLTFtPbkcv1v) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/0FkzemXaWdS5R75QBjpBin) | 4:25 | 2020-12-16 |  |
+| [Dream On](https://open.spotify.com/track/2U0nXVgU5FcLTFtPbkcv1v) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/0FkzemXaWdS5R75QBjpBin) | 4:25 | 2020-12-16 | 2022-11-24 |
+| [Dream On](https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm) | [Blacktop Mojo](https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2) | [Burn the Ships](https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi) | 4:25 | 2022-10-26 |  |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-12-16 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 3:06 | 2020-12-16 |  |
 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 | 2020-12-16 |  |
@@ -166,6 +167,7 @@
 | [Love Song](https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 | 2022-03-25 |  |
 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 | 2020-12-16 | 2022-07-21 |
 | [Mad World](https://open.spotify.com/track/4WGJleSjFmH6k7MuzcDCkw) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/0k1NpI7iPhT3xuqA0rLxov) | 3:30 | 2020-12-16 | 2022-11-05 |
+| [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 | 2022-10-26 |  |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 |  |
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 |  |
@@ -197,7 +199,7 @@
 | [Reach Out I'll Be There](https://open.spotify.com/track/6R37NiT3mXUqY9op3H5SRD) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [We'll Meet Again / Reach Out I'll Be There](https://open.spotify.com/album/5NVd5iw4FLWuyohR5WHmHa) | 3:06 | 2020-12-16 | 2022-07-29 |
 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 | 2020-12-16 |  |
 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 | 2020-12-16 |  |
-| [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 1](https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI) | 3:33 | 2022-10-26 |  |
+| [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [Volume 1](https://open.spotify.com/album/1V7mEaiz643Os9Gq4icuzI) | 3:33 | 2022-10-26 | 2022-11-24 |
 | [ROCKIN' IN THE FREE WORLD](https://open.spotify.com/track/46s9pVsSRVewvyFvs1cBaF) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [NOT MAD ENOUGH/ROCKIN' IN THE FREE WORLD](https://open.spotify.com/album/5qrSGLktcjp0OOcNCLStOD) | 3:33 | 2020-12-16 | 2022-07-29 |
 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 | 2022-06-17 |  |
 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/6euCv1XBsg76oFROlkmvdM) | 3:57 | 2020-12-16 | 2022-07-29 |

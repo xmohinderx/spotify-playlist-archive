@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 402209,
+  "num_followers": 402668,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMDIwNWRmNTA5ZjVkZDg4NWVjOGM4ZjBiMTA3MzM4NTk0",
+  "snapshot_id": "MTY2ODc0NDAwMCwwMDAwMDAwMDdlMTUxOTA2MDc4YTRkMzczZjM0NjhjYWY4ZGJjYmFj",
   "tracks": [
     {
       "added_at": "2022-11-18 04:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "LYR",
         "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 180250,
       "name": "LYR",
       "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -531,38 +531,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Clear Language",
-        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Clear Language",
-      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Longhope",
         "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
       },
@@ -587,6 +555,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Sensibus",
         "url": "https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 392791,
       "name": "Klass",
       "url": "https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Clear Language",
+        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Clear Language",
+      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Flow State Vestida 4",
         "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
-        }
-      ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
         "name": "Take 5 - Solips (Klaus Sahm Rework)",
         "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 175346,
       "name": "Take 5 - Solips - Klaus Sahm Rework",
       "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Niemand bringt Marten um",
         "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 217412,
       "name": "Niemand bringt Marten um - Lambert Rework",
       "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "A Tiny Ripple That Becomes A Giant Wave",
+        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "A Tiny Ripple That Becomes A Giant Wave",
+      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "The Swimmer",
         "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
-        "name": "A Tiny Ripple That Becomes A Giant Wave",
-        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
       "artists": [
         {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 210440,
-      "name": "A Tiny Ripple That Becomes A Giant Wave",
-      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2022-11-18 04:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-11-18 04:00:00",
       "album": {
+        "name": "Still Blue",
+        "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Enrico Belli",
+          "url": "https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB"
+        }
+      ],
+      "duration_ms": 374662,
+      "name": "Still Blue",
+      "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
+    },
+    {
+      "added_at": "2022-11-18 04:00:00",
+      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
-    },
-    {
-      "added_at": "2022-11-18 04:00:00",
-      "album": {
-        "name": "Surface (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 148432,
-      "name": "Surfaced - From \"Surface\"",
-      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
     }
   ],
   "unique_name": "Not Quite Classical",

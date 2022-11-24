@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-60 songs - 2 hr 55 min - not published yet
+61 songs - 2 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 |  |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
-| [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
+| [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 | 2022-11-24 |
 | [Thunder & Streams](https://open.spotify.com/track/3d2loIRK1NH49qP6w7ydDH) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Thunder & Streams](https://open.spotify.com/album/37SSoz3jxhcfdGDvWeEXlg) | 2:42 | 2022-10-28 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 |  |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
@@ -65,6 +65,7 @@
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2022-10-28 |  |
+| [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2022-11-15 |  |
 | [Tumult Weather](https://open.spotify.com/track/0MACB4R2mVmzfoNDJlgGeI) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Tumult Weather](https://open.spotify.com/album/42P8aCd9vU9wAr98WeklKs) | 2:06 | 2022-10-28 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |
 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Cosmotic](https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 | 2022-10-28 |  |

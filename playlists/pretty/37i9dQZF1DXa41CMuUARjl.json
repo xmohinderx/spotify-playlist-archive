@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from PinkPantheress & Kaytranada.",
-  "num_followers": 410224,
+  "num_followers": 410416,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE1YWIzM2NkZDlmMjI5NDFiZTVhMmIzZjEzZjZkNGU0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDYwZGYxYTVjNWJhYTBiYjhhN2Q3NmNiY2NlM2VkMTkx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/4DCqEwCdgAUTYekmWgFCo2"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Body Breathe",
         "url": "https://open.spotify.com/album/4GIEyRGFd3rDKRc696fsbA"
       },
@@ -883,6 +883,30 @@
       "duration_ms": 260032,
       "name": "Body Breathe",
       "url": "https://open.spotify.com/track/7fYrNMgODWzlFAa18kYWtY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Micky Modelle",
+          "url": "https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "duration_ms": 222070,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -927,30 +951,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Micky Modelle",
-          "url": "https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb"
-        },
-        {
-          "name": "Simone Denny",
-          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
-        }
-      ],
-      "duration_ms": 222070,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Oi (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/46tOcV48XPP42wkr7pwYsy"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 181000,
       "name": "Oi - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/6KebNoEtQ4ZYiea7S4m00h"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 199370,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 205476,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 199370,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Zigazigahhhh",
+        "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 203487,
+      "name": "Zigazigahhhh",
+      "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Sidewindah (feat. Flirta D) [Interplanetary Criminal Remix]",
         "url": "https://open.spotify.com/album/5vCsrgumUZbbYEIqdTmXYu"
       },
@@ -1159,18 +1175,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Zigazigahhhh",
-        "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
+        "name": "Enchant\u00e9 (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 203487,
-      "name": "Zigazigahhhh",
-      "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+      "duration_ms": 166633,
+      "name": "Enchant\u00e9 (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1195,26 +1215,6 @@
       "duration_ms": 440301,
       "name": "In From The Night - Adam Beyer & Wehbba Remix",
       "url": "https://open.spotify.com/track/0I7ggM44AhOpWIZCM02HtP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Enchant\u00e9 (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 166633,
-      "name": "Enchant\u00e9 (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Unleash",
-        "url": "https://open.spotify.com/album/0VdSrE9RhQ0oK1AV2ZtSKy"
+        "name": "Life Is Good",
+        "url": "https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "Justin Caruso",
+          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
         }
       ],
-      "duration_ms": 375000,
-      "name": "Campainhas",
-      "url": "https://open.spotify.com/track/41sDOWYkryt8eXQ8ZyZHms"
+      "duration_ms": 200120,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1327,18 +1327,34 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Life Is Good",
-        "url": "https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2"
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/0VdSrE9RhQ0oK1AV2ZtSKy"
       },
       "artists": [
         {
-          "name": "Justin Caruso",
-          "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
         }
       ],
-      "duration_ms": 200120,
-      "name": "Life Is Good",
-      "url": "https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm"
+      "duration_ms": 375000,
+      "name": "Campainhas",
+      "url": "https://open.spotify.com/track/41sDOWYkryt8eXQ8ZyZHms"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
-      },
-      "artists": [
-        {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Want You Tonight (feat. Linus)",
         "url": "https://open.spotify.com/album/6VqpVewsVFF8Bci3nmT6cB"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/64y0NPZeOIewgF413KARfy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Exceso (feat. GALE)",
         "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
       },
@@ -1424,29 +1408,13 @@
           "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
         },
         {
-          "name": "Gale",
-          "url": "https://open.spotify.com/artist/4jRKBrY2S5uUxLzcPKtC8f"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
       "duration_ms": 142829,
       "name": "Exceso (feat. GALE)",
       "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4fGsqupoBci4jYcuL59geK"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 323916,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3IZ5rlo8Vncz2lOAYnB2If"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1467,6 +1435,38 @@
       "duration_ms": 371000,
       "name": "Umthandazo",
       "url": "https://open.spotify.com/track/4m3OLxVFU9Ba1QTFByKqPr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/64y0NPZeOIewgF413KARfy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4fGsqupoBci4jYcuL59geK"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 323916,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3IZ5rlo8Vncz2lOAYnB2If"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/3Hxg9D6IidPIcdp7TLk7D4"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 334265,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/1kxrUd6GDLEWsgIAlmErXF"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Cameras, Flash, Action",
         "url": "https://open.spotify.com/album/27OGxSKtIDnr0D9PC4R5Tu"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 146701,
       "name": "Cameras, Flash, Action",
       "url": "https://open.spotify.com/track/1J7FfcSQAp3K2OJk8LaNEI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/3Hxg9D6IidPIcdp7TLk7D4"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 334265,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/1kxrUd6GDLEWsgIAlmErXF"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1635,54 +1635,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/064Nm3EMjZLITKzGyCzdkw"
+        "name": "Down With You",
+        "url": "https://open.spotify.com/album/7eQr4LSWhQu10HsMpBYjUL"
       },
       "artists": [
         {
-          "name": "La Casita",
-          "url": "https://open.spotify.com/artist/0FO5cI3cVclon1WSqV4epL"
+          "name": "Wolter Wythe",
+          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
         },
         {
-          "name": "Club Soda",
-          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
+          "name": "D-Lish",
+          "url": "https://open.spotify.com/artist/73WJ0zv90Pys3iJgeRlENI"
         }
       ],
-      "duration_ms": 125917,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/1kzszYwxlgxyWBZoxHmhCE"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Lakitu",
-        "url": "https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Lakitu",
-      "url": "https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "First Come First Serve",
-        "url": "https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B"
-      },
-      "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        }
-      ],
-      "duration_ms": 153095,
-      "name": "First Come First Serve",
-      "url": "https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ"
+      "duration_ms": 186876,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/11082YVUU9ykSC09tdTN9u"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1719,22 +1687,54 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Down With You",
-        "url": "https://open.spotify.com/album/7eQr4LSWhQu10HsMpBYjUL"
+        "name": "Lakitu",
+        "url": "https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9"
       },
       "artists": [
         {
-          "name": "Wolter Wythe",
-          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
-        },
-        {
-          "name": "D-Lish",
-          "url": "https://open.spotify.com/artist/73WJ0zv90Pys3iJgeRlENI"
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
         }
       ],
-      "duration_ms": 186876,
-      "name": "Down With You",
-      "url": "https://open.spotify.com/track/11082YVUU9ykSC09tdTN9u"
+      "duration_ms": 239500,
+      "name": "Lakitu",
+      "url": "https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/064Nm3EMjZLITKzGyCzdkw"
+      },
+      "artists": [
+        {
+          "name": "La Casita",
+          "url": "https://open.spotify.com/artist/0FO5cI3cVclon1WSqV4epL"
+        },
+        {
+          "name": "Club Soda",
+          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
+        }
+      ],
+      "duration_ms": 125917,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/1kzszYwxlgxyWBZoxHmhCE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "First Come First Serve",
+        "url": "https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B"
+      },
+      "artists": [
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        }
+      ],
+      "duration_ms": 153095,
+      "name": "First Come First Serve",
+      "url": "https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/2b0cW59Zn45XHLo7Ql7vQe"
+      },
+      "artists": [
+        {
+          "name": "Naylor",
+          "url": "https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy"
+        }
+      ],
+      "duration_ms": 223481,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/6BHQ5tQJhOqe8Jx0rEthKr"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Clouds (Byron the Aquarius Remix)",
         "url": "https://open.spotify.com/album/26Q8vxSQlWH2vV4kAP5bMK"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 235541,
       "name": "Clouds - Byron the Aquarius Remix",
       "url": "https://open.spotify.com/track/6Pm9vZmj3kx1GxKoiDiR1w"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Here for You",
-        "url": "https://open.spotify.com/album/2b0cW59Zn45XHLo7Ql7vQe"
-      },
-      "artists": [
-        {
-          "name": "Naylor",
-          "url": "https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy"
-        }
-      ],
-      "duration_ms": 223481,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/6BHQ5tQJhOqe8Jx0rEthKr"
     },
     {
       "added_at": "2022-11-18 05:00:00",

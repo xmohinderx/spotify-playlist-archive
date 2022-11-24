@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDcyMTQwYWY0MWY3YTQyMmU5ZjM0N2Y3OWIyYjAwMTFm",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDMzNjdjN2I3MWE1N2ViM2JjNjUxZDFjYzVlODk0OTAy",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 564293,
-      "name": "He Turned It - Live",
-      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 505120,
       "name": "If God / Nothing But the Blood",
       "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 564293,
+      "name": "He Turned It - Live",
+      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 368560,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker & The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2022-04-17 06:11:04",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Family & Friends Choir III",
-        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
-      },
-      "artists": [
-        {
-          "name": "Ron Winans",
-          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "He Proved His Love",
-      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "Another Chapter, Psalms 51",
         "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 545000,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Family & Friends Choir III",
+        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
+      },
+      "artists": [
+        {
+          "name": "Ron Winans",
+          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "He Proved His Love",
+      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
     },
     {
       "added_at": "2022-04-17 06:11:04",

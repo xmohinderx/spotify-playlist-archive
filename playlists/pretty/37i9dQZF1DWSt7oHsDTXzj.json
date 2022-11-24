@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 121071,
+  "num_followers": 122634,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA0MjkwNywwMDAwMDAwMDAwNzQ4YTQxZjQ5MWRiZjRhNjE3ZDI1ODVkY2VhZjAy",
+  "snapshot_id": "MTY2OTA0MjkwNywwMDAwMDAwMGZmYTA1ZDUzOTYyY2E3MmU5ZTNhMzg5ODQxNDkwNzZl",
   "tracks": [
     {
       "added_at": "2022-11-11 18:59:34",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
-      "added_at": "2022-11-23 01:01:34",
+      "added_at": "2022-11-24 01:05:35",
       "album": {
         "name": "So Much Wine",
         "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
-      "added_at": "2022-11-23 01:01:34",
+      "added_at": "2022-11-24 01:05:35",
       "album": {
         "name": "Triste Navidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-11-11 18:59:34",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2022-11-11 18:59:34",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -337,7 +321,23 @@
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
-      "added_at": "2022-11-23 01:01:34",
+      "added_at": "2022-11-11 18:59:34",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2022-11-24 01:05:35",
       "album": {
         "name": "Must Be Santa (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4"
@@ -351,54 +351,6 @@
       "duration_ms": 311423,
       "name": "Must Be Santa - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv"
-    },
-    {
-      "added_at": "2022-11-11 18:59:34",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2022-11-11 18:59:34",
-      "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
-    },
-    {
-      "added_at": "2022-11-11 18:59:34",
-      "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Hallelujah - Bonus Track",
-      "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -419,18 +371,70 @@
     {
       "added_at": "2022-11-11 18:59:34",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+    },
+    {
+      "added_at": "2022-11-11 18:59:34",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2022-11-11 18:59:34",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Hallelujah - Bonus Track",
+      "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
+    },
+    {
+      "added_at": "2022-11-24 01:05:35",
+      "album": {
+        "name": "We Should Be Together",
+        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "We Should Be Together",
+      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -451,6 +455,22 @@
     {
       "added_at": "2022-11-11 18:59:34",
       "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+    },
+    {
+      "added_at": "2022-11-11 18:59:34",
+      "album": {
         "name": "Another Year",
         "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
-    },
-    {
-      "added_at": "2022-11-23 01:01:34",
-      "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
-      },
-      "artists": [
-        {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
     },
     {
+      "added_at": "2022-11-24 01:05:35",
+      "album": {
+        "name": "Last Christmas / Winter Wonderland",
+        "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4uR2dgTCiFQUfL9iIM4YQa"
+    },
+    {
       "added_at": "2022-11-11 18:59:34",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
@@ -599,22 +615,6 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2022-11-23 01:01:34",
-      "album": {
-        "name": "Last Christmas / Winter Wonderland",
-        "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/4uR2dgTCiFQUfL9iIM4YQa"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-11-11 18:59:34",
       "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+        "name": "I Dream Of Christmas (Extended)",
+        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+      "duration_ms": 202903,
+      "name": "I Dream Of Christmas",
+      "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-11-11 18:59:34",
       "album": {
-        "name": "I Dream Of Christmas (Extended)",
-        "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 202903,
-      "name": "I Dream Of Christmas",
-      "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -743,6 +743,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2022-11-11 18:59:34",
+      "album": {
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2022-11-11 18:59:34",
@@ -775,22 +791,6 @@
       "duration_ms": 254437,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2022-11-11 18:59:34",
-      "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2022-11-11 18:59:34",

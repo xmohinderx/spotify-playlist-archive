@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 115975,
+  "num_followers": 116180,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDc5MWJjYjczMDM3ODZmNTcyNTc1OGU0NmI4YjdmN2Ix",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDQyY2VhYmJhNTRkOTE0MzQ1YWUzOGM0OTBjNGNkMzhk",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -231,38 +231,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "UFO Tofu",
-        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Sex in a Pan",
-      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "What Did He Say? (Remastered)",
-        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Ostinato Bass",
         "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 253400,
       "name": "Inside My Memory",
       "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "UFO Tofu",
+        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Sex in a Pan",
+      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -351,30 +351,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Parato",
-          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
-        },
-        {
-          "name": "Lele Melotti",
-          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
-        },
-        {
-          "name": "Luca Scarpa",
-          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
-        }
-      ],
-      "duration_ms": 272300,
-      "name": "The Sniper",
-      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Transformation",
         "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 138791,
       "name": "Beyond The Rift",
       "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Parato",
+          "url": "https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP"
+        },
+        {
+          "name": "Lele Melotti",
+          "url": "https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR"
+        },
+        {
+          "name": "Luca Scarpa",
+          "url": "https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG"
+        }
+      ],
+      "duration_ms": 272300,
+      "name": "The Sniper",
+      "url": "https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -471,6 +471,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Transformation",
+        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
+      },
+      "artists": [
+        {
+          "name": "Tal Wilkenfeld",
+          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
+        }
+      ],
+      "duration_ms": 385533,
+      "name": "Cosmic Joke",
+      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 354533,
       "name": "Lifecycle",
       "url": "https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Transformation",
-        "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
-      },
-      "artists": [
-        {
-          "name": "Tal Wilkenfeld",
-          "url": "https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu"
-        }
-      ],
-      "duration_ms": 385533,
-      "name": "Cosmic Joke",
-      "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Ray of Hope",
-        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
-      },
-      "artists": [
-        {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
-        }
-      ],
-      "duration_ms": 279480,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Multiple Faces",
         "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 413266,
       "name": "Right After 4",
       "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Ray of Hope",
+        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -855,6 +855,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "P.A.C. Man",
+      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Trust and Faith",
         "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
-        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
-      },
-      "artists": [
-        {
-          "name": "Ida Nielsen",
-          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
-        }
-      ],
-      "duration_ms": 223895,
-      "name": "F.U.NKWHY",
-      "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
     }
   ],
   "unique_name": "Bottoms Up",

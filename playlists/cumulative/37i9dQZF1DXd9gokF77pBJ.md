@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-58 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/3zjUy4MI1JxgA135u6K15F)
+59 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/3zjUy4MI1JxgA135u6K15F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 | 2022-07-13 |  |
-| [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 | 2022-07-13 |  |
+| [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 | 2022-07-13 | 2022-11-24 |
+| [Agave Harvest](https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light](https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE) | 7:04 | 2022-07-13 |  |
 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 | 2022-07-13 |  |
 | [B.O.T.A\. \(Baddest of Them All\)](https://open.spotify.com/track/5Ccu0dFiUGhwWL2ytzwbi8) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Daily Pop Mix](https://open.spotify.com/album/3QhVs1hEwCwOihE8bsjIbO) | 5:58 | 2022-07-13 | 2022-11-13 |
 | [Back on You \(feat\. Crystal Winds\)](https://open.spotify.com/track/7tVHx32WoawUh6Go6WFre9) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI), [Crystal Winds](https://open.spotify.com/artist/4z0n4GcNBiUUBnEoYx4csp) | [Chicago](https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs) | 13:31 | 2022-07-13 |  |

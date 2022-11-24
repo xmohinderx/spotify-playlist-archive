@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,332 likes - 139 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,344 likes - 139 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 45 | [Reflection \(2020\) \- From "Mulan"](https://open.spotify.com/track/437eNQXusBT4q9q3f34oW9) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Reflection \(2020\) \[From "Mulan"\]](https://open.spotify.com/album/7uuzR6IeZUaKzeExKYkk2Y) | 3:37 |
 | 46 | [Keep the Beat](https://open.spotify.com/track/2cEUOtY0qN5ZcXaK6fcisd) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Keep the Beat \(From the Motion Picture "Vivo"\)](https://open.spotify.com/album/15L39EnifgX8czvFLNosug) | 2:33 |
 | 47 | [Suéltate \(From Sing 2\) \(with Sam i & Jarina De Marco feat\. Anitta, BIA\)](https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Suéltate \(From Sing 2\)](https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai) | 3:30 |
-| 48 | [Only Getting Better \- J Team Edition](https://open.spotify.com/track/3irDMB4J2yzw3neIK7Q8Ar) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:24 |
+| 48 | [Only Getting Better \- J Team Edition](https://open.spotify.com/track/0CxfACP62M4ZkvEVybxMUJ) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:24 |
 | 49 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 |
 | 50 | [Feel Good](https://open.spotify.com/track/7r8JDlUEYeIqBg6dLBIb8P) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Feel Good](https://open.spotify.com/album/6GvUJA4rqvPEihNky5CW6M) | 3:19 |
 | 51 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 138 | [We No Speak Americano](https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 4:29 |
 | 139 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
 
-Snapshot ID: `MTY1MTUwMzI0OCwwMDAwMDAwMGMzMGRiYWFmYWUzZDlkNmQwYjc4YTNlYzUwZDU2ZTgz`
+Snapshot ID: `MTY1MTUwMzI0OCwwMDAwMDAwMGQyNWFlYmI1YTY3YmI1ODRiNGMyYTFhNWRkZGUzNTU2`

@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-140 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
+141 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Am I Blue? \- Take 2](https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 2:44 | 2022-06-29 |  |
 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 | 2022-05-12 |  |
 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 | 2022-05-12 |  |
-| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-05-12 |  |
+| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-05-12 | 2022-11-24 |
 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 | 2022-05-12 | 2022-08-12 |
 | [Autumn Leaves](https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI) | [Stan Getz Quintet](https://open.spotify.com/artist/2N3DoTjaVvmRZIx6AIkOv5), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs) | [Autumn Leaves](https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 | 2022-06-29 |  |
@@ -44,6 +44,7 @@
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Bud Shank Quintet](https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS) | [All Through The Night: Julie London Sings The Choicest Of Cole Porter \(Bonus Tracks\)](https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn) | 4:20 | 2022-05-12 |  |
 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 | 2022-05-12 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 7:07 | 2022-05-12 |  |
+| [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 | 2022-11-23 |  |
 | [For The Want Of A Kiss \- Live](https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable](https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V) | 3:01 | 2022-05-12 |  |
 | [Gee Baby, Ain't I Good to You](https://open.spotify.com/track/0fIczzw8byT5OEd2Yg7ed1) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Blue Hour](https://open.spotify.com/album/3ZLZm4HdGvAtJ1DdNFylqi) | 5:24 | 2022-11-09 | 2022-11-13 |
 | [Gee Baby, Ain't I Good To You \- Remastered/2000](https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 5:23 | 2022-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 826418,
+  "num_followers": 826699,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMDJhMjA2ZWVkNGJmNzBiNzEyNDcyOWI2NTYwOWU3OTI0",
+  "snapshot_id": "MTY2OTA3MDYxMywwMDAwMDAwMGQ4NjI0N2IzZmU2NWZjODIyZTVkZGJkZDAzYWEzYjUw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "And In The Darkness, Hearts Aglow",
@@ -411,6 +395,22 @@
       "duration_ms": 385653,
       "name": "God Turn Me Into a Flower",
       "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
+      },
+      "artists": [
+        {
+          "name": "Jake Houlsby",
+          "url": "https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
-      },
-      "artists": [
-        {
-          "name": "Jake Houlsby",
-          "url": "https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Heiress",
         "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Higher Places",
-        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "The Only Thing I Fear",
-      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 230589,
       "name": "Bones",
       "url": "https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "The Only Thing I Fear",
+      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Haven Lea",
-        "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
-      },
-      "artists": [
-        {
-          "name": "Lists",
-          "url": "https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO"
-        }
-      ],
-      "duration_ms": 187370,
-      "name": "Haven Lea",
-      "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Wolf",
         "url": "https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 234216,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Haven Lea",
+        "url": "https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z"
+      },
+      "artists": [
+        {
+          "name": "Lists",
+          "url": "https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO"
+        }
+      ],
+      "duration_ms": 187370,
+      "name": "Haven Lea",
+      "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1533,7 +1533,7 @@
       "url": "https://open.spotify.com/track/6YpN6gfY8qGre9z8XRmTwM"
     },
     {
-      "added_at": "2022-11-23 01:31:23",
+      "added_at": "2022-11-24 01:34:37",
       "album": {
         "name": "Late Afternoon in the Meadow (1887)",
         "url": "https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi"
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "How Long Will It Take",
-        "url": "https://open.spotify.com/album/4Tp6SUfBcYkLGiAt8t9nHh"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Time Flows",
-      "url": "https://open.spotify.com/track/6AdNCJgN1w0Yw77pzvbtoI"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Lake Jons",
         "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 202586,
       "name": "Something",
       "url": "https://open.spotify.com/track/0EDdio6SE4roZX2Wmofc7K"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Far Out Dust",
+        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "The Light Upon Us",
+      "url": "https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh"
     }
   ],
   "unique_name": "Chill + Atmospheric",

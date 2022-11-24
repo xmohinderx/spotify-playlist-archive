@@ -1476,6 +1476,28 @@
     },
     {
       "album": {
+        "name": "The Greenhouse Dream",
+        "url": "https://open.spotify.com/album/6nqbLXaaG9MslP0Q7RamB3"
+      },
+      "artists": [
+        {
+          "name": "Kuranes",
+          "url": "https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e"
+        },
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Fleeting Time",
+      "url": "https://open.spotify.com/track/4iyT7YRZtAfwb9MSTf3mTR"
+    },
+    {
+      "album": {
         "name": "Fleeting Time",
         "url": "https://open.spotify.com/album/3rGd2MxgtRo1NfO5We8CLp"
       },
@@ -1491,7 +1513,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 136500,
       "name": "Fleeting Time",
       "url": "https://open.spotify.com/track/74CvjZd0jJsjBj6GdSNrTZ"
@@ -3805,6 +3827,28 @@
     {
       "album": {
         "name": "Put Your Hands Up",
+        "url": "https://open.spotify.com/album/2KHS5HCEvAzzrGKD3pHc07"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        },
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110655,
+      "name": "Put Your Hands Up",
+      "url": "https://open.spotify.com/track/0LRcMNHOeChV4UG7rLN1Xz"
+    },
+    {
+      "album": {
+        "name": "Put Your Hands Up",
         "url": "https://open.spotify.com/album/11C2S518ovqt7LhLsb3ryj"
       },
       "artists": [
@@ -3819,7 +3863,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 110655,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/3ZNY9uaSiilXtvX23JRiuM"
@@ -4033,6 +4077,24 @@
     {
       "album": {
         "name": "seed",
+        "url": "https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "seed",
+      "url": "https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk"
+    },
+    {
+      "album": {
+        "name": "seed",
         "url": "https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7"
       },
       "artists": [
@@ -4061,7 +4123,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 120000,
       "name": "seed",
       "url": "https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan"
@@ -4275,10 +4337,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 137100,
       "name": "Stardawg",
       "url": "https://open.spotify.com/track/01gC911lZe7VGWRthLPIz7"
+    },
+    {
+      "album": {
+        "name": "Stardawg",
+        "url": "https://open.spotify.com/album/3ZF2UaSQ0DumALPlqWL3A3"
+      },
+      "artists": [
+        {
+          "name": "Dooku",
+          "url": "https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "Stardawg",
+      "url": "https://open.spotify.com/track/6AF62xtBsFkM9ViW5Oc8La"
     },
     {
       "album": {
@@ -4301,6 +4381,24 @@
     {
       "album": {
         "name": "Stars Above",
+        "url": "https://open.spotify.com/album/73QcuppG1Gfqp0pEmy2o6O"
+      },
+      "artists": [
+        {
+          "name": "Mononome",
+          "url": "https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/5WtaGZevzqVOIoqpC80kT3"
+    },
+    {
+      "album": {
+        "name": "Stars Above",
         "url": "https://open.spotify.com/album/2X5IBOYLCthqHVsHgxfJQJ"
       },
       "artists": [
@@ -4311,7 +4409,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 183896,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/7jSEl0bllp0p6yo5Vet7Ja"

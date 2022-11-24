@@ -1839,6 +1839,24 @@
     {
       "album": {
         "name": "Growing",
+        "url": "https://open.spotify.com/album/1kHrtgtYnZ0Ehjw2cDCQrL"
+      },
+      "artists": [
+        {
+          "name": "Swik",
+          "url": "https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "It's Okay",
+      "url": "https://open.spotify.com/track/4dobwtBcssFtZ5qcF7aYK3"
+    },
+    {
+      "album": {
+        "name": "Growing",
         "url": "https://open.spotify.com/album/0WGhfrtGpcK8YhyMvoGw6I"
       },
       "artists": [
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 183529,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/7hC1AToOztuiOSfgav9qLd"

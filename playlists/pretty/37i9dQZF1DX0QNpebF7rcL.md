@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,058 likes - 99 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,151 likes - 99 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 93 | [Get Down](https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:27 |
 | 94 | [Twisted Ambition](https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Twisted Ambition](https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI) | 3:14 |
 | 95 | [Poor Black Children](https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Poor Black Children](https://open.spotify.com/album/05tULZEoDObegbsFSLgXAw) | 3:47 |
-| 96 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 |
+| 96 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 |
 | 97 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 | 98 | [When It Rains](https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV) | 6:23 |
 | 99 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGZhZGMyNzlhMTlmNDU2MmEyM2RmNjRjNTRmNjQ5YzZj`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDFiYWExOGYxZGM1MjYxYzkzZDc3NzdkZTU1MWI1ZGJh`

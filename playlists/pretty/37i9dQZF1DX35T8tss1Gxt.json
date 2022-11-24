@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 164208,
+  "num_followers": 164360,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGE0OGUxOWNlYzNjNmIyZDJlYTFmMjQ2NWI2ZGNmMTNj",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGQ1YzA5MWEwYjc2YzViN2QzY2IwYzljYzBlOWM4NTY4",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 147604,
       "name": "Has anyone ever left you high and dry?",
       "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Tell That (feat. Mr. Talkbox)",
-        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
-      },
-      "artists": [
-        {
-          "name": "Juan Winans",
-          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Tell That (feat. Mr. Talkbox)",
-      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 174545,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Tell That (feat. Mr. Talkbox)",
+        "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
+      },
+      "artists": [
+        {
+          "name": "Juan Winans",
+          "url": "https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Tell That (feat. Mr. Talkbox)",
+      "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "What Would I Gain?",
-        "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "What Would I Gain?",
-      "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "What Would I Gain?",
+        "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "What Would I Gain?",
+      "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "God of Dreams",
         "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 161454,
       "name": "God of Dreams",
       "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "God Made",
+        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "God Made",
+      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "GUIDE MY HEART",
         "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 143671,
       "name": "GUIDE MY HEART",
       "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "God Made",
-        "url": "https://open.spotify.com/album/0O6JNTsJfdSmmot1eaHwft"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "God Made",
-      "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McNeal",
-          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Rescue (Reimagined)",
         "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Jimmy McNeal",
+          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+      "duration_ms": 368026,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
       "artists": [
         {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 255579,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
+      "duration_ms": 180000,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1779,6 +1763,22 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
     },
     {
       "added_at": "2022-07-17 05:38:31",

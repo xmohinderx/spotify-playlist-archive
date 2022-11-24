@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,200 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,319 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 11 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 12 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 |
 | 13 | [Siren Song \- Radio Edit](https://open.spotify.com/track/5Av1pSoOroARH50X3V80nL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Eden](https://open.spotify.com/artist/6N2Ia8zUwFniMNuziWgRw0) | [Siren Song](https://open.spotify.com/album/5dKK3CIn47wK0EOfFil0Yx) | 3:27 |
-| 14 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
-| 15 | [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 |
+| 14 | [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 |
+| 15 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
 | 16 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 |
 | 17 | [I Just Died In Your Arms Tonight \(feat\. Andros\)](https://open.spotify.com/track/0bP88wC19xydrjB4vHe8Be) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [I Just Died In Your Arms Tonight](https://open.spotify.com/album/1CTcktO7RfykLfA52TbuGP) | 2:42 |
 | 18 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 | 50 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDNiMjA4ZmZlZjAxZDM0Y2ZjZGU0Mjg0ZTAyYzUzOGEx`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDRmNzY1Y2M2OTI3MGYxOWFlN2E1YjYyM2JiNTdiMDI4`

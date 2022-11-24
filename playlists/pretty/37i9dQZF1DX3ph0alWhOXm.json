@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 137330,
+  "num_followers": 137484,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMGQ2ZGRlMTZhOWMwZjBiZjNhNTdiZDRhNWMyZDQyMjM3",
+  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDcwNWEzMmQxN2RlMGViZmZhNzFjM2Q0NjYwNTc4M2M2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "10,000 Towns",
-        "url": "https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Drunk Last Night",
-      "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 257079,
       "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
       "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "10,000 Towns",
+        "url": "https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Drunk Last Night",
+      "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
     },
     {
       "added_at": "2022-09-23 04:05:05",

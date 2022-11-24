@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,129 songs - 2 day 14 hr 23 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+1,130 songs - 2 day 14 hr 25 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [EESTI \(On my Mind\)](https://open.spotify.com/track/5EhaUNWw48KNkAHnjPUUZl) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M), [Märkä\-Simo](https://open.spotify.com/artist/6L3yCtVL0UCdOFzD1DxRjs), [Juice Leskinen](https://open.spotify.com/artist/4W6vvLzFQKixmJXSJK3wLp) | [EESTI \(On my Mind\)](https://open.spotify.com/album/0Y6Uu0K8E5oF2fP5rVA4H0) | 3:09 | 2022-06-04 | 2022-08-02 |
 | [Ei kukaan muu](https://open.spotify.com/track/2Yp3dcDxBQByH3yPIy7Zyf) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Ei kukaan muu](https://open.spotify.com/album/2Cwhc4CrHipYpHvODSEjlj) | 3:25 | 2022-07-16 | 2022-07-24 |
 | [Ei kuole koskaan](https://open.spotify.com/track/6NFqSHKj227Z7umO6rBonF) | [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3) | [Ei kuole koskaan](https://open.spotify.com/album/2IpouV6T6TzSjE3qapAkfS) | 2:53 | 2022-10-29 | 2022-11-06 |
-| [Ei leiki](https://open.spotify.com/track/7DqZAdpcn1o0F5yzdH2lHa) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Vastustamaton](https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7) | 3:24 | 2022-11-05 |  |
+| [Ei leiki](https://open.spotify.com/track/7DqZAdpcn1o0F5yzdH2lHa) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Vastustamaton](https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7) | 3:24 | 2022-11-05 | 2022-11-24 |
 | [ei nabbaa \(feat\. VilleGalle\)](https://open.spotify.com/track/7F37IqJr4Cn5rTvpwBN61I) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [ei nabbaa \(feat\. VilleGalle\)](https://open.spotify.com/album/71dfFtaPbodBMhoaJX7ABh) | 2:46 | 2022-07-16 | 2022-10-01 |
 | [Ei olla enää](https://open.spotify.com/track/4P9Tg68yYCJ7hljVvIs07h) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 2:37 | 2021-10-03 | 2021-10-24 |
 | [Ei riidellä enää \- Vain elämää kausi 12](https://open.spotify.com/track/21i0KbDM4L8y58hpEqMaKa) | [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm) | [Ei riidellä enää \(Vain elämää kausi 12\)](https://open.spotify.com/album/2xcOTUj6eItNMkaynNtN7b) | 2:52 | 2021-11-14 | 2021-11-28 |
@@ -577,6 +577,7 @@
 | [Maailma meidän jälkeen](https://open.spotify.com/track/6nSeXEH8vhorjbsO1fQA8o) | [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Maailma meidän jälkeen](https://open.spotify.com/album/4mNlAWI1HUsOGObRQS0NAB) | 3:32 | 2021-04-26 | 2021-05-17 |
 | [Maalissa](https://open.spotify.com/track/4TwB1uA33Hcxxa7bynsrcA) | [Happoradio](https://open.spotify.com/artist/088hJWSolrJNzoNBo2cyOd) | [Majakka](https://open.spotify.com/album/0g1yCh1hw0utNw50ktxkUC) | 3:08 | 2021-09-05 | 2021-09-06 |
 | [Maamme](https://open.spotify.com/track/3VxDGHvNVcd2aDtOF3zrRs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Karjalan kunnailta \- Sotaveteraanikuorojen VIII laulujuhla](https://open.spotify.com/album/1lNcTadLmG6x6lCIQuq4S4) | 1:55 | 2021-12-08 | 2021-12-09 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-23 |  |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Magaluf](https://open.spotify.com/track/66uNjN5dWYiyJ6I4GttOgg) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Magaluf](https://open.spotify.com/album/26rG3cfmL07TaJymnczwd4) | 2:49 | 2022-10-29 |  |
 | [Magic](https://open.spotify.com/track/7dNVe4IuLnawmfSwUWOSMi) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Magic](https://open.spotify.com/album/3slnbnWcEFwmyCG3LCUc9f) | 3:16 | 2022-09-03 | 2022-09-07 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 23780,
+  "num_followers": 23841,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGM1MmIyYjMzZmYyODg5M2JlNjgwMWQxZjgzNDNhM2Ey",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGIyNjRjNzQwZTUyNmY5YTEwMmM3ZTNlNTc0NmU1OWM5",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -215,22 +215,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Canciones y Mujeres de Cabaret",
-        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
-      },
-      "artists": [
-        {
-          "name": "La Santanera",
-          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Fue en un Cabaret",
-      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Esencia Solar",
         "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 129306,
       "name": "Color Caf\u00e9",
       "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Canciones y Mujeres de Cabaret",
+        "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
+      },
+      "artists": [
+        {
+          "name": "La Santanera",
+          "url": "https://open.spotify.com/artist/4iVmrWbihNo3PheQM5ZHQl"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Fue en un Cabaret",
+      "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Antolog\u00eda...Los Xochimilcas",
+        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Xochimilcas",
+          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Pulque para dos",
+      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
@@ -583,22 +599,6 @@
       "duration_ms": 143830,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Antolog\u00eda...Los Xochimilcas",
-        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Xochimilcas",
-          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Pulque para dos",
-      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Nuevo Son Jarocho",
-        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jardin",
-          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Sonido Amazonico",
@@ -663,6 +647,22 @@
       "duration_ms": 257333,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Nuevo Son Jarocho",
+        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jardin",
+          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "No Tiene Fin",
-        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "Se\u00f1or Presidente",
-      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I"
       },
@@ -921,20 +905,20 @@
       "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+        "name": "No Tiene Fin",
+        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
       },
       "artists": [
         {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
         }
       ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+      "duration_ms": 167453,
+      "name": "Se\u00f1or Presidente",
+      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -951,6 +935,22 @@
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Endangered Species Remixed",
+        "url": "https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Zeb",
+          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Mi Swing es Tropical - Zeb Remix",
+      "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Guajira Guantanamera (Remastered)",
         "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 194466,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Endangered Species Remixed",
-        "url": "https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl"
-      },
-      "artists": [
-        {
-          "name": "Nickodemus",
-          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
-        },
-        {
-          "name": "Zeb",
-          "url": "https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Mi Swing es Tropical - Zeb Remix",
-      "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Guapapasea!",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Latin Soul Syndicate",
         "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
       },
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2020-05-28 20:45:13",

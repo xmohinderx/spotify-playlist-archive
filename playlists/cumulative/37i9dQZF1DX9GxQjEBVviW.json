@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 152600,
       "name": "Chapel of Dreams",
       "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
@@ -1025,6 +1025,24 @@
       "duration_ms": 159493,
       "name": "Searchin'",
       "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
+    },
+    {
+      "album": {
+        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
+        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
     },
     {
       "album": {

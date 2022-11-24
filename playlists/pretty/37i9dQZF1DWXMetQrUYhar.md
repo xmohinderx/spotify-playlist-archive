@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Japanese Breakfast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,209 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,267 likes - 125 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 72 | [Everything Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Spotify Singles](https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz) | 5:37 |
 | 73 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3hAA4dEyownaDxeKjMQv6R) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o) | 2:15 |
 | 74 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 |
-| 75 | [My Backwards Walk \- Live at Spotify Studios NYC](https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 3:08 |
-| 76 | [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 |
+| 75 | [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 |
+| 76 | [My Backwards Walk \- Live at Spotify Studios NYC](https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 3:08 |
 | 77 | [Don't Delete The Kisses \- Recorded at Spotify Studios London](https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Spotify Singles](https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN) | 4:37 |
 | 78 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 |
 | 79 | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH) | 2:16 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 122 | [ABC 123 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/52h3IRFSQB1phrAuvSEPhg) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Spotify Singles](https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ) | 4:19 |
 | 123 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 |
 | 124 | [Wild Flowers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3xVGSGFzuuKjTv7MVgAne3) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Spotify Singles](https://open.spotify.com/album/2DrJsCUBn0mvW2pjvkpruU) | 2:51 |
-| 125 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0aSAkZFJXRPx4DmzanThFQ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/4Xw3godmGRmZfTB8DeCVHh) | 3:50 |
+| 125 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 |
 
-Snapshot ID: `MTY2NjgwODAxNiwwMDAwMDAwMDhhNDMwNWE0OTBlNzkwNmNiMmFiMDhhNzIzODZmYjM4`
+Snapshot ID: `MTY2NjgwODAxNiwwMDAwMDAwMDRlOTQ3NDlmYmJmMzkzMGRhZmUyNmFlZjllMDE0MWNm`

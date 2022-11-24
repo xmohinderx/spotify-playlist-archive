@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2316668,
+  "num_followers": 2318199,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMGZjYzcxZjgwOTVmODRhZTE3ZWUwNDgzZjQ3Y2MyYzlk",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMGE5MjgxYjNlYmNhZjQ1NmZmMTA1ZWU4ZWExNDFjMjNl",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -831,18 +831,38 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
+        "name": "Pauwi Nako",
+        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
       "artists": [
         {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        },
+        {
+          "name": "Bullet D",
+          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
         }
       ],
-      "duration_ms": 275906,
-      "name": "So Slow",
-      "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
+      "duration_ms": 341573,
+      "name": "Pauwi Nako",
+      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
     }
   ],
   "unique_name": "OPM Favorites",

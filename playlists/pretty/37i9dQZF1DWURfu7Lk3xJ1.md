@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,860 likes - 199 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,054 likes - 199 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,11 +157,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 147 | [These Days](https://open.spotify.com/track/57OQiShUUQ7UfCqXvgHjJy) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [These Days](https://open.spotify.com/album/4R6s3OjTVLeAHYaJ9eoeG8) | 2:22 |
 | 148 | [All The What Ifs](https://open.spotify.com/track/0q81gA7hGOGaIyOCLbYayb) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [I'm Okay](https://open.spotify.com/album/4xgwXLSmSQPhaOZZ3mMoEZ) | 2:40 |
 | 149 | [Still Here](https://open.spotify.com/track/4A3CXr504iKbWp4QAwZ4xP) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Still Here](https://open.spotify.com/album/3TvAfmpVnZdjbA81DYBBCE) | 3:28 |
-| 150 | [Wishing](https://open.spotify.com/track/29GXrg61hnt8e8q0nLRzmN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/1GQwguVGpwxgdwYI6SxTTJ) | 2:22 |
+| 150 | [Wishing](https://open.spotify.com/track/5Fad8WA782vI44QU3dk27Q) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Chalm](https://open.spotify.com/artist/0QD7NOgkoDdwmAsq6Vg0xf) | [Wishing](https://open.spotify.com/album/4Hw58r49IR1pkClLZ226BI) | 2:22 |
 | 151 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 |
 | 152 | [Twilight](https://open.spotify.com/track/326kj2BCVjc6G97XWuJIFJ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Twilight](https://open.spotify.com/album/4gK9Pvf09pKOBvbfIjAizd) | 1:47 |
 | 153 | [Purple Sky](https://open.spotify.com/track/1vSGmKm49xTrc4nzhkQ5Oa) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Purple Sky](https://open.spotify.com/album/6svxvqUaD5PKTQvjD303T7) | 2:07 |
-| 154 | [Deep Affection](https://open.spotify.com/track/717gydHl2e27f5temk2yyc) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/41fruNAkolL6oaIma2fnSJ) | 2:38 |
+| 154 | [Deep Affection](https://open.spotify.com/track/438FpYzYrcrWFFTH84KrI8) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [New Beginning](https://open.spotify.com/album/4V9t2VbNccEAxhockfJovc) | 2:38 |
 | 155 | [TSUKUBA](https://open.spotify.com/track/5UkrIBWVS8WHqRUQY4bDm2) | [MOOD boy](https://open.spotify.com/artist/2YCuSc5zthk5gzM054mLOf), [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh) | [TSUKUBA](https://open.spotify.com/album/5G9VvcWFDuO9M2yuBqwobQ) | 3:15 |
 | 156 | [free agent](https://open.spotify.com/track/3I1EMZaJzJn1PljYX46ZOk) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [free agent](https://open.spotify.com/album/5K52oFLaPpHJ9KzzndaABx) | 2:24 |
 | 157 | [dewy Tuesday](https://open.spotify.com/track/6oggVU7j2p79cdTUekCL8r) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [dewy Tuesday](https://open.spotify.com/album/6INnkNfn9IW1ENekm5O7Ul) | 2:20 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 198 | [JP Photo Bounce](https://open.spotify.com/track/52drfrfdOabG98VBtK2qwC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [JP Photo Bounce](https://open.spotify.com/album/47aQvzo4dJD4NR8eKSOiE1) | 2:35 |
 | 199 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDAyMDM1ZTFkYTNiNTI5Zjk5YTNmMDBhMjYwNzk0OGQw`
+Snapshot ID: `MTY2ODc2ODgyMCwwMDAwMDAwMDc4NjY2MDBjYzg1NTQ1ODA5NzQ5OWMzZTNlNjczOWJl`

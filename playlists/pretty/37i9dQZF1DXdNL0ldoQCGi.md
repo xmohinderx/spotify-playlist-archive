@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,460 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,862 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 19 | [Meia Noite](https://open.spotify.com/track/09K1zzSVtouqzXBvAlmIG5) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Meia Noite](https://open.spotify.com/album/2A57QH1NYD9kKOvtUWa7k5) | 2:24 |
 | 20 | [Eu Te Amo Tanto Iguinho](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [Piseiro original](https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 3:32 |
 | 21 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
-| 22 | [Chapadinha na Gaveta](https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC) | [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Vanessa Lopes](https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy) | [Chapadinha na Gaveta](https://open.spotify.com/album/5CXtG2sHFTd7odjkLI7ezF) | 1:55 |
+| 22 | [Chapadinha na Gaveta](https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC) | [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Vanessa Lopes](https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Chapadinha na Gaveta](https://open.spotify.com/album/5CXtG2sHFTd7odjkLI7ezF) | 1:55 |
 | 23 | [Ô Lá na Roça \- Ao Vivo](https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB) | [Felipe & Murillo](https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ô Lá na Roça \(Ao Vivo\)](https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ) | 2:40 |
 | 24 | [Se Hoje Eu For Cair Iguinho](https://open.spotify.com/track/1NepT1lxXl7jItlkvonfG5) | [Piseiro original](https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 2:01 |
 | 25 | [Pagodin](https://open.spotify.com/track/5cji6LNml8t6OR2vGkPXmw) | [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K) | [Pagodin](https://open.spotify.com/album/0qxF58RwVxjcah4ktJyc8I) | 4:50 |

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Triple Riding",
-  "num_followers": 42751,
+  "num_followers": 42861,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTExOTY2NiwwMDAwMDAwMDY3NDgxNTU4M2U2NWU5OTYyYzRiZTY5ZTEzYjRhM2Qy",
+  "snapshot_id": "MTY2OTIxMTU1NCwwMDAwMDAwMDBiNTM5NzE1OGYzMThhMjg3M2Y3OGNjOWJhNTc4MGM5",
   "tracks": [
     {
       "added_at": "2022-11-09 10:49:51",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/6YO96EPkBSHLIAMOUm4mpq"
     },
     {
-      "added_at": "2022-11-11 07:07:49",
+      "added_at": "2022-11-21 11:35:39",
       "album": {
-        "name": "Gandhada Gudi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7"
+        "name": "Raymo",
+        "url": "https://open.spotify.com/album/6oSbXane1jXMmsQWONC2Bh"
       },
       "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
         {
           "name": "Sanjith Hegde",
           "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         }
       ],
-      "duration_ms": 204518,
-      "name": "Kaavalugaara",
-      "url": "https://open.spotify.com/track/6ZY5jOFuPR3ZzE1ohq8v1D"
+      "duration_ms": 174162,
+      "name": "Raymo Faymo",
+      "url": "https://open.spotify.com/track/0p6qHeb2DDsOwE6cmW6wHH"
     },
     {
       "added_at": "2022-10-02 05:35:08",
@@ -73,6 +69,42 @@
       "url": "https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2"
     },
     {
+      "added_at": "2022-10-27 11:48:36",
+      "album": {
+        "name": "Head Bush",
+        "url": "https://open.spotify.com/album/2vGOIhx4KxChnbqO4S7WRQ"
+      },
+      "artists": [
+        {
+          "name": "Vagu Mazan",
+          "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Habibi Habibi",
+      "url": "https://open.spotify.com/track/5JOg1vfzLwNsattTDq9QbO"
+    },
+    {
+      "added_at": "2022-11-11 07:07:49",
+      "album": {
+        "name": "Gandhada Gudi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 204518,
+      "name": "Kaavalugaara",
+      "url": "https://open.spotify.com/track/6ZY5jOFuPR3ZzE1ohq8v1D"
+    },
+    {
       "added_at": "2022-11-07 06:39:00",
       "album": {
         "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
@@ -91,38 +123,6 @@
       "duration_ms": 84138,
       "name": "The Family Ballad (From \"Vikrant Rona\") [KANNADA]",
       "url": "https://open.spotify.com/track/36abs6RCtMszC7MjJWZDQz"
-    },
-    {
-      "added_at": "2022-10-27 11:48:36",
-      "album": {
-        "name": "Head Bush",
-        "url": "https://open.spotify.com/album/2vGOIhx4KxChnbqO4S7WRQ"
-      },
-      "artists": [
-        {
-          "name": "Vagu Mazan",
-          "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "Habibi Habibi",
-      "url": "https://open.spotify.com/track/5JOg1vfzLwNsattTDq9QbO"
-    },
-    {
-      "added_at": "2022-11-21 11:35:39",
-      "album": {
-        "name": "Raymo",
-        "url": "https://open.spotify.com/album/6oSbXane1jXMmsQWONC2Bh"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 174162,
-      "name": "Raymo Faymo",
-      "url": "https://open.spotify.com/track/0p6qHeb2DDsOwE6cmW6wHH"
     },
     {
       "added_at": "2022-09-16 05:21:59",
@@ -181,6 +181,42 @@
       "url": "https://open.spotify.com/track/05dbmOdgMUJJUTwN57iJcd"
     },
     {
+      "added_at": "2022-11-23 10:06:06",
+      "album": {
+        "name": "Yuddhakanda (Title Teaser) [From \"Yuddhakanda\"]",
+        "url": "https://open.spotify.com/album/5M0bbdRs4nbiaOwDnWGSsb"
+      },
+      "artists": [
+        {
+          "name": "K B Praveen",
+          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
+        }
+      ],
+      "duration_ms": 128655,
+      "name": "Yuddhakanda (Title Teaser) - From \"Yuddhakanda\"",
+      "url": "https://open.spotify.com/track/02xX12EuHIvJ8HfoOWrZL1"
+    },
+    {
+      "added_at": "2022-11-23 09:49:27",
+      "album": {
+        "name": "Baare Baare Rajakumari (From \"Raja Rani Roarer Rocket\")",
+        "url": "https://open.spotify.com/album/1BpHJxPScE5w2FVGeVOoBW"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Prabhu S R",
+          "url": "https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Baare Baare Rajakumari (From \"Raja Rani Roarer Rocket\")",
+      "url": "https://open.spotify.com/track/2TI0vJ8Jdrwjx6Aht5lYFh"
+    },
+    {
       "added_at": "2022-11-21 11:35:39",
       "album": {
         "name": "Kamblihula",
@@ -199,22 +235,26 @@
     {
       "added_at": "2022-11-14 11:31:00",
       "album": {
-        "name": "Sasanasabha (Hindi)",
-        "url": "https://open.spotify.com/album/5PWRd9OYj2lcqatQjOGems"
+        "name": "Sasanasabha (Kannada)",
+        "url": "https://open.spotify.com/album/59ZxgIKimov7RchRNQCoDt"
       },
       "artists": [
         {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
         },
         {
           "name": "Ravi Basrur",
           "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
         }
       ],
-      "duration_ms": 199928,
-      "name": "Mere Darling",
-      "url": "https://open.spotify.com/track/1PlrhgOLo85I88EliwFIHX"
+      "duration_ms": 199940,
+      "name": "Nanna Kattikondre",
+      "url": "https://open.spotify.com/track/2NghZbSsahFjb7fEM9hrM7"
     },
     {
       "added_at": "2022-11-14 11:31:00",
@@ -327,6 +367,26 @@
       "duration_ms": 215010,
       "name": "Gandhada Gudi (Reprise)",
       "url": "https://open.spotify.com/track/1OgTEk2wbqJrWOxzNIqO7e"
+    },
+    {
+      "added_at": "2022-09-16 08:56:48",
+      "album": {
+        "name": "Alele Murari (From \"Raja Rani Roarer Rocket\")",
+        "url": "https://open.spotify.com/album/2pjCZNHU87WPKrmUmkaR8h"
+      },
+      "artists": [
+        {
+          "name": "Bhushan",
+          "url": "https://open.spotify.com/artist/6Yc9jK1RyiciVrjv6KMAqd"
+        },
+        {
+          "name": "Prabhu S R",
+          "url": "https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w"
+        }
+      ],
+      "duration_ms": 98144,
+      "name": "Alele Murari (From \"Raja Rani Roarer Rocket\")",
+      "url": "https://open.spotify.com/track/6zmXHLXqIR2NMIkcI3uaeP"
     },
     {
       "added_at": "2022-11-18 15:46:13",
@@ -1115,26 +1175,6 @@
       "duration_ms": 272359,
       "name": "Manasella Neene",
       "url": "https://open.spotify.com/track/35DIdndkvnI8iBG2LnmXKt"
-    },
-    {
-      "added_at": "2022-09-16 08:56:48",
-      "album": {
-        "name": "Alele Murari (From \"Raja Rani Roarer Rocket\")",
-        "url": "https://open.spotify.com/album/2pjCZNHU87WPKrmUmkaR8h"
-      },
-      "artists": [
-        {
-          "name": "Bhushan",
-          "url": "https://open.spotify.com/artist/6Yc9jK1RyiciVrjv6KMAqd"
-        },
-        {
-          "name": "Prabhu S R",
-          "url": "https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w"
-        }
-      ],
-      "duration_ms": 98144,
-      "name": "Alele Murari (From \"Raja Rani Roarer Rocket\")",
-      "url": "https://open.spotify.com/track/6zmXHLXqIR2NMIkcI3uaeP"
     },
     {
       "added_at": "2022-09-19 11:58:40",

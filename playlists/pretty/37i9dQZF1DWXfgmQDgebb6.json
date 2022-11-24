@@ -1,15 +1,15 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: LIM KIM)",
-  "num_followers": 6566,
+  "num_followers": 6583,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgxNDc3MCwwMDAwMDAwMDMyYjIwNGE1NzQzYTI5MjcwODNiZmJlMjI3NjU2NjIx",
+  "snapshot_id": "MTY2NzgxNDc3MCwwMDAwMDAwMDQ4NGU2MGRjYWYwM2E2OWMyOGE0ZGJiMWVjMGY4NDc3",
   "tracks": [
     {
-      "added_at": "2022-11-23 01:11:35",
+      "added_at": "2022-11-24 01:14:49",
       "album": {
         "name": "VEIL",
         "url": "https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J"
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
+        "name": "Amoo-rae-do",
+        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
+      },
+      "artists": [
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "duration_ms": 108226,
+      "name": "Amoo-rae-do",
+      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
+    },
+    {
+      "added_at": "2022-11-03 09:22:48",
+      "album": {
         "name": "Electric Animal",
         "url": "https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 145081,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk"
-    },
-    {
-      "added_at": "2022-11-03 09:22:48",
-      "album": {
-        "name": "Ideology",
-        "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
-      },
-      "artists": [
-        {
-          "name": "Claire Hau",
-          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
-        }
-      ],
-      "duration_ms": 175347,
-      "name": "Ideology",
-      "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
-        "name": "Amoo-rae-do",
-        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
+        "name": "Ideology",
+        "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
       },
       "artists": [
         {
-          "name": "COCONA",
-          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
         }
       ],
-      "duration_ms": 108226,
-      "name": "Amoo-rae-do",
-      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
+      "duration_ms": 175347,
+      "name": "Ideology",
+      "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
-        "name": "3M",
-        "url": "https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "3M",
-      "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
-    },
-    {
-      "added_at": "2022-11-03 09:22:48",
-      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
+        "name": "3M",
+        "url": "https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "3M",
+      "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
+    },
+    {
+      "added_at": "2022-11-03 09:22:48",
+      "album": {
         "name": "monochrome",
         "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 148000,
       "name": "redify",
       "url": "https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ"
-    },
-    {
-      "added_at": "2022-11-03 09:22:48",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 180042,
-      "name": "Fish",
-      "url": "https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -787,6 +771,22 @@
       "duration_ms": 159735,
       "name": "GGOOM (feat. Jvcki Wai)",
       "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
+    },
+    {
+      "added_at": "2022-11-03 09:22:48",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 180042,
+      "name": "Fish",
+      "url": "https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh"
     },
     {
       "added_at": "2022-11-03 09:22:48",
@@ -879,22 +879,18 @@
     {
       "added_at": "2022-11-03 09:22:48",
       "album": {
-        "name": "Money like",
-        "url": "https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv"
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob"
       },
       "artists": [
         {
-          "name": "HOSIN",
-          "url": "https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 242571,
-      "name": "Money like (feat. meenoi)",
-      "url": "https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF"
+      "duration_ms": 212481,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU"
     }
   ],
   "unique_name": "Hipster K' Pack",

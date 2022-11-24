@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 83909,
+  "num_followers": 83964,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMDVjNTM1ZGQ1MjBmOWZhMDNlNmJlMzMwODA1MzM5NzZk",
+  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMGI1OWY2OGQwNDRhZjA0MDRhNTJlMzYyOGMyNzY4ODY3",
   "tracks": [
     {
       "added_at": "2022-11-18 03:01:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+        "name": "Obsession (feat. Muni Long) [Remix]",
+        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+      "duration_ms": 201869,
+      "name": "Obsession (feat. Muni Long) - Remix",
+      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -547,6 +551,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Obsession (feat. Muni Long) [Remix]",
-        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession (feat. Muni Long) - Remix",
-      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "No Longer in the Suburbs",
         "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 174163,
       "name": "Open",
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "FYF",
-        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 173464,
-      "name": "FYF",
-      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Bag Lady",
         "url": "https://open.spotify.com/album/3o3ChnWY8L64Wa7aoQAC8W"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 287653,
       "name": "Bag Lady",
       "url": "https://open.spotify.com/track/2oW1N8R52n0f3Iwe0HtMFC"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "FYF",
+        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 173464,
+      "name": "FYF",
+      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 177371,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 234943,
       "name": "Nu Beginning",
       "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 187541,
       "name": "Type Of Day",
       "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2022-11-18 03:01:00",

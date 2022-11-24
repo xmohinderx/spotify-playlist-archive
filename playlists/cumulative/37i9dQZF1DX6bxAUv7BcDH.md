@@ -4,7 +4,7 @@
 
 > Song of the Year winners from 1959\-2021\. How many do you know? \#SpotifyTBT
 
-86 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
+87 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/5sviYI5JD7rztpjP8iZrzW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2022-02-16 |  |
 | [Change the World](https://open.spotify.com/track/3jYr59dZBKzFa7Ji7be6fT) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Phenomenon \(Music From The Motion Picture\)](https://open.spotify.com/album/7lRLCWZAAi6GPBGllbmmuV) | 3:54 | 2022-02-16 | 2022-11-14 |
 | [Change The World](https://open.spotify.com/track/463G7EJ5QLNSXzLIXRiY2g) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/1qcLcWUFHHFWe54IP7PN7j) | 3:54 | 2022-02-16 | 2022-10-21 |
+| [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2022-02-16 |  |
 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2022-02-16 | 2022-10-17 |
-| [Change the World](https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 3:54 | 2022-02-16 |  |
+| [Change the World](https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 3:54 | 2022-02-16 | 2022-11-24 |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2022-02-16 |  |
 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 | 2022-02-16 |  |
 | [Days Of Wine And Roses \- REMASTERED](https://open.spotify.com/track/2sWRC12vYVTHjdTD2WOE4v) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Greatest Hits \- The Best of Henry Mancini](https://open.spotify.com/album/1qUmcNnG6GBGXw9tLCTJ3V) | 2:06 | 2022-02-16 |  |

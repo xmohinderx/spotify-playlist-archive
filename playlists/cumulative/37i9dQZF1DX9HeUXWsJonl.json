@@ -1978,6 +1978,28 @@
     },
     {
       "album": {
+        "name": "\u0647\u0644\u0627 \u0647\u0644\u0627 .. \u0646\u0633\u0631 \u0646\u0633\u0631",
+        "url": "https://open.spotify.com/album/53mAxsyvO4656igMc5xsnM"
+      },
+      "artists": [
+        {
+          "name": "Zaza Show",
+          "url": "https://open.spotify.com/artist/2WVRwvUiLP3mGs5H69QEGZ"
+        },
+        {
+          "name": "Hedi Donia",
+          "url": "https://open.spotify.com/artist/60V7LXotDd5kcyvdpKydKc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139217,
+      "name": "\u0647\u0644\u0627 \u0647\u0644\u0627 .. \u0646\u0633\u0631 \u0646\u0633\u0631",
+      "url": "https://open.spotify.com/track/2HnhLt8zYijfoesiZNxbMl"
+    },
+    {
+      "album": {
         "name": "\u064a\u0627 \u0645\u0627\u0644\u064a \u0627\u0644\u0628\u064a\u062a",
         "url": "https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk"
       },

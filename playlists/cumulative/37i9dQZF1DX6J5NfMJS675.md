@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-406 songs - 1 day 17 hr 18 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+407 songs - 1 day 17 hr 23 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Derail](https://open.spotify.com/track/3gaWoB5GEzUgCGOM2HIw5b) | [Michele Conte](https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q) | [Derail](https://open.spotify.com/album/2ZhvzWHOrDEp33oIX8sJwp) | 6:02 | 2021-01-18 | 2021-05-03 |
 | [Destroy](https://open.spotify.com/track/0Be6JivsVe37CcrpuxCH4k) | [Antonio D'Africa](https://open.spotify.com/artist/03J1IG0hYPv7B2vAERhcFc), [Sall](https://open.spotify.com/artist/020KXX3WjBgzoA9VXmVnTb) | [Destroy](https://open.spotify.com/album/6T04oFX3CszogWsO1vV5lR) | 6:37 | 2020-06-23 | 2020-12-12 |
 | [Destroy \- Original Mix](https://open.spotify.com/track/2LQhGTl2rtQ9R4Ppdp1HyH) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Kuvoka](https://open.spotify.com/artist/33S2vuMYuPC5X7TwQjVDl8) | [Destroy](https://open.spotify.com/album/3qHnkdr7RnVlDfCuKwJCAk) | 3:51 | 2020-10-10 | 2021-06-05 |
-| [Destroy DNA](https://open.spotify.com/track/7A7M8amFsmKsWNERTJeHmO) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Confusion](https://open.spotify.com/album/7bBAsje71VeKolIaSYnaVJ) | 5:05 | 2022-10-21 |  |
+| [Destroy DNA](https://open.spotify.com/track/3ZgmxuPgPWwqxy3Qozdr2H) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Confusion](https://open.spotify.com/album/7d3pzKvMvmLmZaBymFUVke) | 5:05 | 2022-11-11 |  |
+| [Destroy DNA](https://open.spotify.com/track/7A7M8amFsmKsWNERTJeHmO) | [Harvey McKay](https://open.spotify.com/artist/6qB9lDPQ6tFbI1gZcSawCS) | [Confusion](https://open.spotify.com/album/7bBAsje71VeKolIaSYnaVJ) | 5:05 | 2022-10-21 | 2022-11-24 |
 | [Detention](https://open.spotify.com/track/2zkJHzAhra7IVFkTa6t1yY) | [Davinson](https://open.spotify.com/artist/7ubkW4hX5xPmcX1GroZx3S) | [Detention](https://open.spotify.com/album/1ejTpu97ufsaPLvOKrsFzT) | 7:55 | 2020-05-24 | 2020-12-18 |
 | [Dimensions](https://open.spotify.com/track/1qvtFBWczWfbPTGS1AE9v6) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/5aNxC5AMLCCfsaKrZw3LR2) | 6:02 | 2020-04-18\* | 2020-11-21 |
 | [Dirty Lagoon](https://open.spotify.com/track/4JvutGrckEHMwqvezbMRwB) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Dirty Lagoon](https://open.spotify.com/album/5uMPiDmYI70mtdxRnQJ2pH) | 4:50 | 2022-03-11 | 2022-06-04 |

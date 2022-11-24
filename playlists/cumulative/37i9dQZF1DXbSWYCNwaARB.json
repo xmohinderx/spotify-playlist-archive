@@ -1802,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn"
+    },
+    {
+      "album": {
         "name": "haShtag 2nd mini album #Aeji #paSsion",
         "url": "https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE"
       },
@@ -3017,7 +3035,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 196333,
       "name": "LIMBO!",
       "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"

@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "C-Rag",
+      "url": "https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s"
+    },
+    {
+      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 178573,
       "name": "Hard Walking Blues",
       "url": "https://open.spotify.com/track/6ASbQ2b9jprKki6VwyPsYW"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 171000,
       "name": "I'm Throwin' Up My Hand",
       "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 253200,
       "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
       "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Please Baby - Instrumental",
       "url": "https://open.spotify.com/track/4vp787isTelbuYgnkZcwGi"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 687066,
       "name": "She's Funny That Way - Live in Portland, OR",
       "url": "https://open.spotify.com/track/4hTyxAwowbSsShhdRPXFuY"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 221029,
       "name": "Slippin' Till My Gal Comes in Partner",
       "url": "https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v"
@@ -3187,10 +3205,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Walkin' Dog Blues",
       "url": "https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb"
+    },
+    {
+      "album": {
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Wall Hollow Blues",
+      "url": "https://open.spotify.com/track/0fkGnfmNL6Z6IL6wLu7TkL"
     },
     {
       "album": {
@@ -3223,7 +3259,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-24",
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
@@ -3277,7 +3313,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 246773,
       "name": "Whoopin' Blues",
       "url": "https://open.spotify.com/track/3VYANsrimdM8pzbGGt6K29"
@@ -3353,6 +3389,24 @@
       "duration_ms": 199160,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
+    },
+    {
+      "album": {
+        "name": "See What the Lord Has Done for Me",
+        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119213,
+      "name": "You Want a Good Man, Treat a Good Man Right",
+      "url": "https://open.spotify.com/track/2vq3Rc83WaK0BwydoR4jYm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg"

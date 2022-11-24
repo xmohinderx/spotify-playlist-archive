@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,468 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,515 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 3 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 |
 | 4 | [Believe again](https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:41 |
 | 5 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
-| 6 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
-| 7 | [ファボタージュ](https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G) | [わいわいわい](https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6) | [わーいわいわい わいわいわい!](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:36 |
+| 6 | [ファボタージュ](https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G) | [わいわいわい](https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6) | [わーいわいわい わいわいわい!](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:36 |
+| 7 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
 | 8 | [Paradise Chime](https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG) | [渡辺 曜 \(CV.斉藤朱夏\) from Aqours](https://open.spotify.com/artist/60xC7FUmpDBsPRQsb7uUNg) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Watanabe You](https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq) | 3:49 |
 | 9 | [青空Jumping Heart](https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [青空Jumping Heart](https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ) | 4:44 |
 | 10 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6), [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [津島善子 \(CV.小林愛香\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [地元愛♡満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [津島善子 \(CV.小林愛香\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
 | 50 | [ダイスキだったらダイジョウブ!](https://open.spotify.com/track/51118cg0D9k0F952AGtNou) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:32 |
 
-Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDU3OGYwMDc0YjhjYjczZjY2ZjllNWYyNDZlNjMzN2I3`
+Snapshot ID: `MTY2NzkzMDUwMSwwMDAwMDAwMDgwMzg2MzFjODk2ZGI5Yzc0NjUyN2MwMWZlNGU5NzQx`

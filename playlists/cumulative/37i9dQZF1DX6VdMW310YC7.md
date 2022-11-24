@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,368 songs - 3 day 22 hr 48 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,369 songs - 3 day 22 hr 51 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2020-03-20 | 2022-04-21 |
 | [Lowkey](https://open.spotify.com/track/5hp4te9BVHl3m1ZFSj62eX) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Lowkey](https://open.spotify.com/album/4PYmijWayYaKZizK3aGfNI) | 3:13 | 2021-09-10 | 2022-10-14 |
+| [Lowkey](https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [The Lofi Sessions](https://open.spotify.com/album/6NeItVGlH8Q4LGDuGrLTGu) | 3:13 | 2022-09-09 |  |
 | [Lullaby](https://open.spotify.com/track/7CsxkeYjAwSrHhNUOywZ2m) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [Lullaby / And The Sky Opened](https://open.spotify.com/album/3nwqphfZZbGT7QnjEafm1X) | 3:50 | 2022-06-03 | 2022-07-22 |
 | [Lullaby \- Chocolate Puma Balearic House Mix](https://open.spotify.com/track/56SKV0Wh2XJcbjKF4hxDXg) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Bishop](https://open.spotify.com/artist/0tCqZY8ifzb9GGAIfdGxGT) | [Lullaby \(The Remixes\)](https://open.spotify.com/album/2NA3pWnX8MDqif9GWolKRA) | 3:10 | 2020-05-22 | 2020-07-03 |
 | [Luma](https://open.spotify.com/track/3aV2Kz9XHD9rjAaFZ6lfYf) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Luma](https://open.spotify.com/album/5mZBsIi2CJWIenY2B8ArRy) | 3:24 | 2021-07-16 | 2022-07-28 |
@@ -1105,7 +1106,7 @@
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 |  |
 | [Something, Everything](https://open.spotify.com/track/1QBCsA9ilCqLm7BcWRxqT5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 5:17 | 2021-03-14 | 2022-08-27 |
 | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/track/36fM9efnGh85CtaXe6frd4) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/album/2kUuUnx2Oxel35bU3xtUVU) | 3:20 | 2020-03-16 | 2022-04-19 |
-| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 |  |
+| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 | 2022-11-24 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-24 | 2022-10-13 |
 | [Soul Spiral](https://open.spotify.com/track/3Do9fwtLWSCvcGJgq7PXUB) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Soul Spiral](https://open.spotify.com/album/0lbxOCslIA34Ll8uiN2PH1) | 3:36 | 2022-04-15 |  |
 | [Soweto](https://open.spotify.com/track/4WofBAFHcHd87y92Azllpm) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Soweto](https://open.spotify.com/album/58r0dOmMRQvBNeuXKLoVbd) | 3:04 | 2020-05-18 | 2020-07-18 |

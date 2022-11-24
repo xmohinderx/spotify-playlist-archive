@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-219 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
+220 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3E2lh7nVWayN4spRzw9dBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [In The Jungle](https://open.spotify.com/track/0NApDxr5cNELYiSVWXEIf0) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Jungle](https://open.spotify.com/album/7EvAxxlowrRCqwRYyhxUL0) | 1:34 | 2022-10-07 |  |
 | [inner radiance](https://open.spotify.com/track/6dgjPq81jslxokkN69V9hf) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [morning glisten & inner radiance](https://open.spotify.com/album/71J3cQicGq3zJn5u0wPcBm) | 3:03 | 2022-10-28 |  |
 | [Inside](https://open.spotify.com/track/1wMAIj5x4h7QUAnmz2LCR0) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Inside](https://open.spotify.com/album/7t5zV0TdQpR0Mg8YmW3pfZ) | 2:08 | 2022-10-28 |  |
-| [It's Okay](https://open.spotify.com/track/7hC1AToOztuiOSfgav9qLd) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Growing](https://open.spotify.com/album/0WGhfrtGpcK8YhyMvoGw6I) | 3:03 | 2022-10-07 |  |
+| [It's Okay](https://open.spotify.com/track/4dobwtBcssFtZ5qcF7aYK3) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Growing](https://open.spotify.com/album/1kHrtgtYnZ0Ehjw2cDCQrL) | 3:03 | 2022-11-18 |  |
+| [It's Okay](https://open.spotify.com/track/7hC1AToOztuiOSfgav9qLd) | [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai) | [Growing](https://open.spotify.com/album/0WGhfrtGpcK8YhyMvoGw6I) | 3:03 | 2022-10-07 | 2022-11-24 |
 | [Japan Hotel](https://open.spotify.com/track/1GhUM8qfEWVoGyhFmsM8uh) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Japan Hotel](https://open.spotify.com/album/5iOzumvOe5DV1q914sEQge) | 2:08 | 2022-09-09 |  |
 | [Jazzmund](https://open.spotify.com/track/5YifN6WrqfZRAhvsTzcnJr) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Jazzmund](https://open.spotify.com/album/1hVdFGF2lBa4GtuTbRGTiH) | 1:50 | 2022-09-09 | 2022-09-30 |
 | [Jelly](https://open.spotify.com/track/1SJR3tlgtFEGdzNrBHhHU2) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Jelly](https://open.spotify.com/album/1SqTPB0Vg0Y03DcurnthqQ) | 2:43 | 2022-09-09 | 2022-10-08 |
