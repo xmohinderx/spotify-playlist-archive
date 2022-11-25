@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,542 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,548 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 32 | [Signo Libra](https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:47 |
 | 33 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 |
 | 34 | [Mi Ultima Parranda \- En Vivo](https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:27 |
-| 35 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 |
+| 35 | [Tomando Cerveza](https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Tomando Cerveza](https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ) | 3:01 |
 | 36 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 |
-| 37 | [Tomando Cerveza](https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Tomando Cerveza](https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ) | 3:01 |
+| 37 | [Dime Porqué](https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [De Punta a Punta](https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9) | 2:13 |
 | 38 | [Ya Para Que](https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:19 |
 | 39 | [Quiéreme Ámame](https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:57 |
 | 40 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 43 | [De Punta a Punta](https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 |
 | 44 | [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 |
 
-Snapshot ID: `Mjc4MjAzNzEsMDAwMDAwMDAxY2YyMzc2NjlmYjEwODZhM2NiNTM5ODc1NzJiZGQwMA==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDBjOTJkYjAzOTEzZGNjMTBhOGI2NGYzNmYzMWE5OTg3MQ==`

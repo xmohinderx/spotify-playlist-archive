@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 803521,
+  "num_followers": 803924,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMGU3ODBlNDExZGI4MjllYWM2ZjE5MzQ0YmQ0NDVjNDNm",
+  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMDNhYjE2ZGJkM2Y0NTk4ZDVlMTk3OTZmZDMyMjgxYjU2",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
     },
     {
-      "added_at": "2022-11-24 01:14:39",
+      "added_at": "2022-11-25 01:10:48",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2022-08-05 16:27:56",

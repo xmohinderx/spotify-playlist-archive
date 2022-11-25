@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: TOBi",
-  "num_followers": 896881,
+  "num_followers": 897413,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGUzZWRkYmRjOGU4OTIyNzJmNzY1ZWFiNzJmYWYxMTU0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDJmOGRhZTUwZjk0MjQ5Mzk5NTA5N2M0NjFkY2NlYmQy",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Ce Soir",
         "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Dear Life",
-      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Non-Perishable",
-        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
       "artists": [
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 156414,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr"
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "A Bar About a Bar",
-        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
         }
       ],
-      "duration_ms": 65480,
-      "name": "A Bar About a Bar",
-      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+      "duration_ms": 156414,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr"
     },
     {
       "added_at": "2022-11-18 05:00:00",

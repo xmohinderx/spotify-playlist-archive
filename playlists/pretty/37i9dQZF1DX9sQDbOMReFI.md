@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,440 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,195 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 22 | [The Nigga Ya Love To Hate](https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [AmeriKKKa's Most Wanted](https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc) | 3:13 |
 | 23 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 24 | [The Ghetto](https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Short Dog's In The House](https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt) | 5:02 |
-| 25 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
+| 25 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
 | 26 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 |
 | 27 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 28 | [Money Trees](https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 6:26 |
-| 29 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
+| 29 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
 | 30 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 31 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 32 | [Dollaz + Sense](https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Safe + Sound](https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Back in the Day \- Remix](https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P) | [Ahmad Lewis](https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI) | [Ahmad](https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT) | 5:03 |
 | 50 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 |
 
-Snapshot ID: `MTY2NjcyNzM4OSwwMDAwMDAwMDE0ZTQ3NThiMGQ1NmFlZmQ3YjY2YTk5YzBmYzYxZDhk`
+Snapshot ID: `MTY2NjcyNzM4OSwwMDAwMDAwMGNjZmUwMzFlZDdlNzFmNjAyNjk0MWVmYTdhM2IzODFj`

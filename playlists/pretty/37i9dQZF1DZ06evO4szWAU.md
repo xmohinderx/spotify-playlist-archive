@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,829 likes - 51 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,871 likes - 51 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 27 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 28 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 |
 | 29 | [Qué Lío](https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 4:37 |
-| 30 | [Mi Sueno](https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 6:36 |
-| 31 | [Yo Puedo Vivir Del Amor](https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Last Fight](https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR) | 8:33 |
+| 30 | [Yo Puedo Vivir Del Amor](https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Last Fight](https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR) | 8:33 |
+| 31 | [Mi Sueno](https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fantasmas](https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW) | 6:36 |
 | 32 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 |
 | 33 | [Dime](https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 7:01 |
 | 34 | [Plazos Traicioneros](https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics: Celia Cruz & Willie Colón](https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht) | 2:53 |
 | 35 | [Asia](https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Legal Alien](https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T) | [Top Secrets](https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy) | 5:53 |
-| 36 | [Plantación Adentro](https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Metiendo Mano](https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn) | 4:56 |
-| 37 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 |
+| 36 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:18 |
+| 37 | [Plantación Adentro](https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Metiendo Mano](https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn) | 4:56 |
 | 38 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
 | 39 | [Amor Verdadero](https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 7:26 |
 | 40 | [Siembra](https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 5:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 50 | [Timbalero](https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [49 Minutes](https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72) | 8:17 |
 | 51 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
 
-Snapshot ID: `Mjc4MjAzNzEsMDAwMDAwMDBjMWNiODg1YmI0NzkyMzI5ZWU3MDU0OTJjOGZhMWY2NA==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA1NzFmZWE0NTFiNGRkYTE0YWMyNGQ1YTU3Y2JmOWFlMw==`

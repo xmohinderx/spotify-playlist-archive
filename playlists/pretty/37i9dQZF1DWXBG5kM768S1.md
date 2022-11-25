@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,025 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,060 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 4 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:51 |
 | 5 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 |
 | 6 | [E du nord](https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Og så kom resten av livet](https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN) | 5:11 |
-| 7 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 |
-| 8 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |
+| 7 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 |
+| 8 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 |
 | 9 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
 | 10 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
 | 11 | [20 år på vegen](https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [Søvnlaus](https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp) | 4:06 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 28 | [Lite og stort](https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn) | 3:11 |
 | 29 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
 | 30 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
-| 31 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
+| 31 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
 | 32 | [Vi Møttes I En Soloppgang](https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Vi Møttes I En Soloppgang](https://open.spotify.com/album/1aPBFbIRtY9TttO1eIfflK) | 3:15 |
-| 33 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 |
+| 33 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
 | 34 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 35 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 | 36 | [Godt nok](https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Inn i skogen](https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 50 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/32hQouZsr5n9bcFbqKiNbf) | 1:53 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDUyODdkMzIyNTU5ZDJjZDI3NTRlNDU3OTgwYTUwZmFi`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDAwMTI3MzIwMDEyYjJjZDA3NzJlMDYwZWExYTdlZGIw`

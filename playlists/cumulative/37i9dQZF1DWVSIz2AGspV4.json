@@ -1198,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Enta Tfooz",
+        "url": "https://open.spotify.com/album/7uW1QLJXNbraTZc8cz22XY"
+      },
+      "artists": [
+        {
+          "name": "Evan Naji",
+          "url": "https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q"
+        },
+        {
+          "name": "DJ Dvlz",
+          "url": "https://open.spotify.com/artist/5J0Es2qO9wTUsTmgLeeQZg"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Enta Tfooz",
+      "url": "https://open.spotify.com/track/1C25BZZEYagX26ImIPWnGV"
+    },
+    {
+      "album": {
         "name": "Enta W Thamrak",
         "url": "https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z"
       },

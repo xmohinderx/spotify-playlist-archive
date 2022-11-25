@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: María Peláe.
 
-444 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+445 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 | 2022-08-02 | 2022-10-05 |
 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 | 2022-05-31 | 2022-07-06 |
 | [La Primavera](https://open.spotify.com/track/4Vo0L5B1hyk6KEg2nYuUWl) | [Adelaida](https://open.spotify.com/artist/1QD47tJYVFNpFADXKKOOPt) | [La Primavera](https://open.spotify.com/album/6KIDMIVDmROr5dLVE4Txjm) | 3:42 | 2022-05-03 | 2022-06-01 |
-| [La Quería](https://open.spotify.com/track/7bXe270XHhuIobnJvyI41L) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Quería](https://open.spotify.com/album/7Iq7pPhZL17iOAIFeX07DG) | 3:53 | 2022-11-08 |  |
+| [La Quería](https://open.spotify.com/track/7bXe270XHhuIobnJvyI41L) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Quería](https://open.spotify.com/album/7Iq7pPhZL17iOAIFeX07DG) | 3:53 | 2022-11-08 | 2022-11-25 |
 | [La Última Función](https://open.spotify.com/track/0kg71K4pfn5gZ2lWvDIS73) | [Miriam Rodríguez](https://open.spotify.com/artist/3E3qsTzCvTX13A1Zrw7Wnf) | [La Última Función](https://open.spotify.com/album/0bywsH6xygVO5MP5Lqmfip) | 2:01 | 2022-07-05 | 2022-09-07 |
 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 | 2022-07-05 | 2022-10-05 |
 | [Las 13 Rosas\. Memoria\. Las Cartas Perdidas\. La Cárcel y el Exilio de las Mujeres Republicanas \(Banda Sonora Original\)](https://open.spotify.com/track/2CjGfM7Dml3r79jvcXzbyL) | [Lourdes Pastor](https://open.spotify.com/artist/12fuso0kavCsYxuraNhVUe) | [Las 13 Rosas\. Memoria\. Las Cartas Perdidas\. La Cárcel y el Exilio de las Mujeres Republicanas \(Banda Sonora Original\)](https://open.spotify.com/album/1d4nRUT9NZxSZfZIUsNbe2) | 4:06 | 2022-11-08 |  |
@@ -373,6 +373,7 @@
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-01-04 | 2022-11-09 |
 | [Sociedad Supermercado](https://open.spotify.com/track/0cveqc1ClellcKtRKMO3Y1) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Sociedad Supermercado](https://open.spotify.com/album/06Ijb3jtwAc7qiegcHbbW4) | 4:29 | 2022-05-31 | 2022-08-03 |
 | [Sol de Ayer](https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Sol de Ayer](https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA) | 3:10 | 2022-03-07 | 2022-04-07 |
+| [Solo Era Pena](https://open.spotify.com/track/4Kuwoo73ycM4kqsMacylRb) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [La Folcrónica, tan de...](https://open.spotify.com/album/6lGebOmKZaMOSUapQ0KGeJ) | 2:49 | 2022-11-24 |  |
 | [solo mía](https://open.spotify.com/track/2MP4w74qYD5dMIPbsMTFXU) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [solo mía](https://open.spotify.com/album/06j7wbAJhg44hBC3fbrtDj) | 2:52 | 2022-05-31 | 2022-07-06 |
 | [SOLTERA](https://open.spotify.com/track/01vfByqudU7yTKRIe8P2Ur) | [María Sánchez](https://open.spotify.com/artist/2cHCcij1RZIHBuVjubs4va) | [SOLTERA](https://open.spotify.com/album/1A8eAXYBUxqluGEf2ccv3K) | 2:54 | 2022-07-05 | 2022-08-03 |
 | [Somos Unos Valientes](https://open.spotify.com/track/4MGZrOE6i9syNgGW9coZkG) | [Merche](https://open.spotify.com/artist/27a2VPd27oQbqE2TdiZVTo) | [Somos Unos Valientes](https://open.spotify.com/album/6rhkzi2KhJnD1mpXlb6WBh) | 3:30 | 2022-01-04 | 2022-02-02 |

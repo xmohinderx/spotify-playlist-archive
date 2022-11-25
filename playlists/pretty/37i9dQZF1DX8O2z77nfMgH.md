@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Bizarrap y Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,033 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,143 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 28 | [La Culpa](https://open.spotify.com/track/69QDHp3lfuEWNcYIuprlAO) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [La Culpa](https://open.spotify.com/album/7zQeYJNgusijQWXwYQD6mZ) | 2:19 |
 | 29 | [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 |
 | 30 | [Me Va Mejor](https://open.spotify.com/track/1CTgLWnF5RVifJXxTDSiEJ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Me Va Mejor](https://open.spotify.com/album/7mp7HteHeJtotzVIKvCgqD) | 3:27 |
-| 31 | [Cadillac](https://open.spotify.com/track/70bOqTO6mtFAA18poj18qX) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Zarri](https://open.spotify.com/artist/3hBAWXu5mM5rQ4aQ8ntnn5), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj) | [Rich Vagos Mixtape, Vol\. 2](https://open.spotify.com/album/2kGTwHezbLOPc7wK5YLVL7) | 3:30 |
+| 31 | [Cadillac](https://open.spotify.com/track/70bOqTO6mtFAA18poj18qX) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Zarri](https://open.spotify.com/artist/0dslxxp5Bwc5LsMkq2tNaS), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj) | [Rich Vagos Mixtape, Vol\. 2](https://open.spotify.com/album/2kGTwHezbLOPc7wK5YLVL7) | 3:30 |
 | 32 | [QUE](https://open.spotify.com/track/13zd2kIMcyLshzbn59oUsr) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [QUE](https://open.spotify.com/album/2HgMoEpFqefljtszyVdQEY) | 2:31 |
 | 33 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 |
 | 34 | [5 SENTÍOS](https://open.spotify.com/track/7n12wwP15l3KhIKgMoUiZY) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [5 SENTÍOS](https://open.spotify.com/album/3777kSd47h5uVR0lnPf81n) | 3:35 |

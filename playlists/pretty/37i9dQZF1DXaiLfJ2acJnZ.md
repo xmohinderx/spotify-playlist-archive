@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,418 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,440 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 10 | [Charlie Be Quiet!](https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:08 |
 | 11 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 |
 | 12 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 |
-| 13 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
-| 14 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 |
+| 13 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 |
+| 14 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 |
 | 15 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 16 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 17 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 44 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
 | 45 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
 | 46 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 47 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
-| 48 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 47 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 48 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
 | 49 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
 | 50 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
 | 51 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
 | 80 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
 
-Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDI5OTNlOGFjMDdmZTI5OWM5OTg4OWI3ZjBhOTkyMmFm`
+Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMDNhOGQ5NDQ5Yzk1N2M2ZmI3MWJmZGUzNWNjYmZhZDJm`

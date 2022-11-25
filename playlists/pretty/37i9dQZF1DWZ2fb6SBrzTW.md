@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,818 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 45 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
 | 46 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 |
 | 47 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 |
-| 48 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
-| 49 | [Polongo](https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Polongo](https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa) | 2:53 |
+| 48 | [Polongo](https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Polongo](https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa) | 2:53 |
+| 49 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |
 | 50 | [Knocking \(Remix\)](https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM) | [Knocking \(Remix\)](https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt) | 3:14 |
-| 51 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 |
-| 52 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
+| 51 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
+| 52 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 |
 | 53 | [My Touch](https://open.spotify.com/track/0ydo79qMlvXi8MMuLFrAl0) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [My Touch](https://open.spotify.com/album/55JLMdnqUusKWh7tdWYCvS) | 2:59 |
 | 54 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 |
 | 55 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Jaiye \(Ihe Geme\)](https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:54 |
 | 60 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 |
 
-Snapshot ID: `MTY2ODc3MTkwMSwwMDAwMDAwMGJiYjIxZTgxMTFiNDE1YmI0NTI5MzJlZjM4MmM3ZTM5`
+Snapshot ID: `MTY2ODc3MTkwMSwwMDAwMDAwMDc1ZGRhNDQzMjRhYWZiYTk2OWZhMjI5OTNlM2Q1MjE0`

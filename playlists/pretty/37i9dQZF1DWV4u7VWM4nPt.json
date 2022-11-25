@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 18897,
+  "num_followers": 19027,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMDZhOTE3Mjk3MWJkNGJjYTkwNzc5YjlkMjc1OGFlOGQx",
+  "snapshot_id": "MTY2MDEwODYzOCwwMDAwMDAwMGFjMmI5NzdhMDM1MDRiYWNkZDQ3NzU0MTE4MWQwMGNm",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Estilolibre (Spanish Version)",
         "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 212400,
       "name": "Tramposa Y Mentirosa",
       "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
     },
     {
       "added_at": "2021-12-22 23:28:32",

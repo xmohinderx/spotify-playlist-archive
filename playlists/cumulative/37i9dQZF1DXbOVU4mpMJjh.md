@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-444 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+445 songs - 1 day 12 hr 12 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-11 |  |
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2022-04-14 | 2022-09-23 |
-| [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 |  |
+| [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2022-11-25 |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2022-04-14 | 2022-04-27 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-04-14 |  |
 | [Ballad for Bernt](https://open.spotify.com/track/3xFwFQ1SIzajuCahC7lRei) | [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives, Vol\. 4 \(Krzysztof Komeda \- Trzciński\)](https://open.spotify.com/album/6qk0f68VpLdQmSzwBy7sEG) | 3:25 | 2022-06-30 | 2022-09-23 |
@@ -118,6 +118,7 @@
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2022-09-23 |
 | [Field](https://open.spotify.com/track/0cjJap1BiwjXNmjnInw1V4) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Years](https://open.spotify.com/album/1Grt1oXyERBwijZXE8li2n) | 2:17 | 2022-04-14 | 2022-10-08 |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-11 |  |
+| [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-24 |  |
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2022-04-14 | 2022-11-11 |
 | [Footprints \(Remastered\)](https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Portrait](https://open.spotify.com/album/2VySoVcjtJ81MBjylAXmHL) | 7:29 | 2022-04-14 | 2022-07-28 |
 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 | 2022-06-30 | 2022-09-16 |

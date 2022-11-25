@@ -2,9 +2,9 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=GRhh15u3Q0KokSLJhHrBfw"> Focalistic</a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=80bGX4JKTpKyunvkOigNXg"> DBN Gogo</a>
 
-205 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
+206 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 | 2022-10-01 |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-10-22 | 2022-06-10 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-19 |  |
-| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 |  |
+| [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 | 2022-11-25 |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-10-22 | 2022-02-11 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2022-06-24 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2022-07-08 |
@@ -199,6 +199,7 @@
 | [Understand](https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Understand](https://open.spotify.com/album/3eFRo446TwN1OOr3DIJhcB) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 | 2021-10-22 |  |
 | [uThando \(feat\. Aymos\)](https://open.spotify.com/track/5ZOpzOg9JuKFQ5Q6aUYPix) | [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [uThando \(feat\. Aymos\)](https://open.spotify.com/album/6bkQbVxIFR3baR12YXTS98) | 7:38 | 2021-11-12 | 2021-12-24 |
+| [UYATHANDEKA](https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [UYATHANDEKA](https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp) | 7:51 | 2022-11-24 |  |
 | [Waist Drop](https://open.spotify.com/track/0pq7v5FzfN7pv4qVk173a5) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Waist Drop](https://open.spotify.com/album/2bXMxsnq3X6PgRx4Oucn3H) | 2:47 | 2022-05-19 | 2022-06-17 |
 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 | 2022-09-01 | 2022-09-16 |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-07 | 2022-04-15 |

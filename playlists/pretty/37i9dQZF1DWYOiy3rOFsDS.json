@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Mel Mu\u00f1iz en portada.",
-  "num_followers": 503032,
+  "num_followers": 503279,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMGI3NmZkZWNmOTI5MWM2NDkxMDZlYTliZTQyOGNiZmI4",
+  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMDlhNjk4OWEyOTIxYmUyMDdiMmUwM2E4ZTk2NDIwZWQ3",
   "tracks": [
     {
       "added_at": "2021-10-16 00:58:48",
@@ -235,22 +235,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 192746,
-      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
-      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -279,18 +275,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+      "duration_ms": 192746,
+      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
+      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Lo Mismo Que Usted",
+        "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Duetos lo mejor de Armando Manzanero",
         "url": "https://open.spotify.com/album/6RlbnA5C1oKufZT8aEnQ1Y"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 208733,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Lo Mismo Que Usted",
-        "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
     },
     {
       "added_at": "2022-04-22 18:07:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Por El Amor De Siempre",
-        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 262431,
-      "name": "El Amar El Querer",
-      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Por El Amor De Siempre",
+        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 262431,
+      "name": "El Amar El Querer",
+      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Drume Negrita (En Vivo Desde Fonobox)",
+        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
+      },
+      "artists": [
+        {
+          "name": "Priscila F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Drume Negrita",
+      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Drume Negrita (En Vivo Desde Fonobox)",
-        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
-      },
-      "artists": [
-        {
-          "name": "Priscila F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Drume Negrita",
-      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1617,38 +1617,6 @@
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
-    },
-    {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
       "added_at": "2022-09-28 22:58:27",
       "album": {
         "name": "Una Ma\u00f1ana",
@@ -1667,6 +1635,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 244711,
       "name": "B\u00e9same mucho",
       "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 232373,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
+      "duration_ms": 219818,
+      "name": "El primer amor (feat. Francisco Cespedes)",
+      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
     }
   ],
   "unique_name": "Boleros Pop",

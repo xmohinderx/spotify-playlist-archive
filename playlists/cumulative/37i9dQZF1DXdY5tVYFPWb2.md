@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-364 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+365 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 |  |
 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2022-05-24 |  |
 | [MOON NIGHT](https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Black Humor](https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt) | 3:10 | 2022-05-24 |  |
+| [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-08-02 |  |
 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 | 2022-07-19 |
 | [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-15 | 2022-11-23 |
@@ -296,7 +297,7 @@
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-31 | 2022-07-29 |
 | [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 |  |
 | [フライディ・チャイナタウン \- English Version](https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [フライディ・チャイナタウン \(English Version\)](https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF) | 3:31 | 2022-10-25 |  |
-| [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 |  |
+| [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 | 2022-11-25 |
 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 |  |
 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 | 2022-11-08 |  |
 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 | 2022-06-02 |  |

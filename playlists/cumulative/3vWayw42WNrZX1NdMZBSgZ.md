@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauw Alejandro
 
-341 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+342 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Mi Salida Contigo](https://open.spotify.com/track/4DKExb9AdxfNGyYh8RE9SB) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mi Salida Contigo](https://open.spotify.com/album/2ponivnQfYOHUw6aWv0cGm) | 2:55 | 2022-09-01 |  |
 | [Miami](https://open.spotify.com/track/0969BXUHWVqlmZa7zhuuRV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Miami](https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG) | 3:45 | 2022-08-24 |  |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2022-02-02 |  |
+| [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 | 2022-11-24 |  |
 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 | 2022-11-04 |  |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2022-02-02 |  |
 | [Modo Crudo](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 | 2022-06-03 |  |

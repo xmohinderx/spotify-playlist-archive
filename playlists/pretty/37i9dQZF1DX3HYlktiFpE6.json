@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 95237,
+  "num_followers": 95270,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDNhYmQyNzM1NTRhODVkNTk2ZDNiNGViYTM2NTA1Y2Fh",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMDEwZjlmNTIyYzA2YzAxYzA0OWRmNjY1ZmNiM2IwYzk3",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Full Disclosure",
-        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
-      },
-      "artists": [
-        {
-          "name": "Cornell Class Notes",
-          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
-        }
-      ],
-      "duration_ms": 236708,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Circle of Life/He Lives in You",
         "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 218386,
       "name": "Circle of Life/He Lives in You",
       "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Full Disclosure",
+        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
+      },
+      "artists": [
+        {
+          "name": "Cornell Class Notes",
+          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
+        }
+      ],
+      "duration_ms": 236708,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Kiss the Girl",
+        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Anthem Lights Covers",
         "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 216087,
       "name": "Give Your Heart a Break",
       "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pitch Perfect (More Music From The Motion Picture) EP",
-        "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
-      },
-      "artists": [
-        {
-          "name": "Hullabahoos",
-          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
-        }
-      ],
-      "duration_ms": 75360,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -872,6 +872,22 @@
       },
       "artists": [
         {
+          "name": "Hullabahoos",
+          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+        }
+      ],
+      "duration_ms": 75360,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Pitch Perfect (More Music From The Motion Picture) EP",
+        "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
+      },
+      "artists": [
+        {
           "name": "The Sockapellas",
           "url": "https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd"
         }
@@ -879,22 +895,6 @@
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Kiss the Girl",
-        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Morning Warriors",
-        "url": "https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs"
+        "name": "Disney's Broadway Is Back Medley",
+        "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
       },
       "artists": [
         {
-          "name": "Hullabahoos",
-          "url": "https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I"
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
+      "duration_ms": 148160,
+      "name": "Disney's Broadway Is Back Medley",
+      "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
     },
     {
       "added_at": "2021-12-24 05:00:00",

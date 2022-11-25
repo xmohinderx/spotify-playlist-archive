@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u5c55\u958b\uff01Cover: Anna hisbbuR",
+  "description": "\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u5c55\u958b\uff01Cover: \u9e97\u82f1",
   "name": "RADAR HK",
   "published_playlist_ids": [
     "2GxyEQrmuXvghh261BCyYI"
@@ -165,6 +165,24 @@
       "duration_ms": 194550,
       "name": "Dancing Cus It's Raining",
       "url": "https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O"
+    },
+    {
+      "album": {
+        "name": "do//die",
+        "url": "https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv"
+      },
+      "artists": [
+        {
+          "name": "kiyu",
+          "url": "https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144277,
+      "name": "do//die",
+      "url": "https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV"
     },
     {
       "album": {
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "\u60e1\u4f5c\u5287\u5b8c\u6210",
+        "url": "https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222907,
+      "name": "\u60e1\u4f5c\u5287\u5b8c\u6210",
+      "url": "https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z"
+    },
+    {
+      "album": {
         "name": "\u65e5\u51fa\u7684\u7f3a\u53e3",
         "url": "https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as"
       },
@@ -1259,7 +1295,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 262967,
       "name": "\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1"

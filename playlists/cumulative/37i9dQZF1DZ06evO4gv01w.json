@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI"
+    },
+    {
+      "album": {
         "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq"
       },
@@ -121,7 +139,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 147588,
       "name": "Danger Angel",
       "url": "https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi"
@@ -596,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2cjmpXHMfblf5Z8Ddzav1w"
+    },
+    {
+      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -607,7 +643,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"

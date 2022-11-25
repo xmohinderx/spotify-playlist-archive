@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,451 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,503 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 19 | [Sou Casa \- Remix](https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61) | [Sou Casa \(Remix\)](https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK) | 3:29 |
 | 20 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
 | 21 | [Yeshua + Só Quero Ver Você \(feat\. Marcelo Markes\)](https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Marcelo Markes](https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze) | [Yeshua + Só Quero Ver Você](https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O) | 4:18 |
-| 22 | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo) | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG) | 4:18 |
-| 23 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
+| 22 | [Eu Confio Em Ti \- Remix](https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG), [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [MAYK](https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa) | [Eu Confio Em Ti \(Remix\)](https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN) | 3:55 |
+| 23 | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo) | [É Assim que Eu Quero Te Adorar \(Remix\)](https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG) | 4:18 |
 | 24 | [Me Faz Viver](https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Me Faz Viver](https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS) | 2:31 |
 | 25 | [Eternidade](https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z) | [DJ Natan Flexa](https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Eternidade](https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7) | 3:41 |
 | 26 | [Melhor Lugar \- Remix](https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar \(Remix\)](https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 70 | [Balança \- AVIPA Remix](https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Diego Atalaia](https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Balança: Remixes](https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf) | 1:45 |
 
-Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDg1NzczNGMwNjViZDg5ODY2NDk0YzZiMDcwNjI3OTI1`
+Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMGFlNjRmODdkNjBiNTZkZWZjNmU2M2U0Y2ZhM2U1OTMw`

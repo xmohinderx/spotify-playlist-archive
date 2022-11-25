@@ -1,12 +1,12 @@
 {
   "description": "The Reggaeton hits of yesterday and today.",
-  "num_followers": 70236,
+  "num_followers": 70353,
   "original_name": "Now & Then Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMGRlYWZjNjc1NzA4NGRlNTIyNzU1NGM4YjZjYThkMWJl",
+  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDcwNjViMDExODcwOTMwNzRhOTUyNDRmMjc5NWRiN2Nh",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:59",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8"
     },
     {
       "added_at": "2022-06-02 19:51:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
         "name": "Afrodis\u00edaco",
         "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2022-06-02 19:51:59",
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
-        "name": "Poblado",
-        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
-        }
-      ],
-      "duration_ms": 201596,
-      "name": "Poblado",
-      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1795,6 +1771,30 @@
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
+        "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
     },
     {
       "added_at": "2022-06-02 19:51:59",

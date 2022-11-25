@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,700 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,921 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 37 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
 | 38 | [Lil' Darlin'](https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Intercontinental](https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A) | 3:44 |
 | 39 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 |
-| 40 | [Spiritual](https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 8:22 |
+| 40 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
 | 41 | [Joshua Fit De Battle Of Jericho](https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 8:04 |
 | 42 | [All Across The City](https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 4:50 |
 | 43 | [Django](https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:20 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 55 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 56 | [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 |
 | 57 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
-| 58 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
-| 59 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
+| 58 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
+| 59 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
 | 60 | [In A Sentimental Mood](https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [Firefly](https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je) | 7:49 |
 | 61 | [Autumn Leaves](https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [Verve Jazz Masters: Tal Farlow](https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi) | 1:41 |
 | 62 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [How Long Has This Been Going On](https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:31 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MTY2NTA0MTM2OCwwMDAwMDAwMDMzYjMyMWE2YzMyNzA3YmM2ZTU0YTg0M2U1OWFjMDgx`
+Snapshot ID: `MTY2NTA0MTM2OCwwMDAwMDAwMGM3OTg0ZTM5NmU0MTFlYTNiMzI5OGEyM2M1OTBkOTQ1`

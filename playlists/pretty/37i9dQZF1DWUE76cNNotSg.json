@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 399709,
+  "num_followers": 400084,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDUyYmFmODNmZWQ3ZmMwYjViNjY5Y2UzZDFlODAxMWEz",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGU2YzM0NzQxZmZjOTlmZWRlYjM5NDc5N2NjYTA5OWM1",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -703,22 +703,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -739,18 +735,38 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 168245,
+      "name": "Chika (scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -787,22 +803,6 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 168245,
-      "name": "Chika (scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2020-12-22 20:57:01",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Don't Turn Around",
         "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
-    },
-    {
       "added_at": "2021-03-08 18:24:23",
       "album": {
         "name": "Blue Ceiling",
@@ -1203,6 +1187,22 @@
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2021-03-19 20:47:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -1303,38 +1319,6 @@
       "duration_ms": 237560,
       "name": "Kinda Lovely",
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo"
-      },
-      "artists": [
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1367,6 +1351,22 @@
       "duration_ms": 202247,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2020-12-22 17:15:29",

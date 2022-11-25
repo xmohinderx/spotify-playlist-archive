@@ -4,7 +4,7 @@
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-70 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
+71 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/1FcICrbevbT0gAXUKq6YSS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,9 @@
 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 | 2022-05-19 |  |
 | [Roll Your Moneymaker](https://open.spotify.com/track/0CXE1U8eTHRabdF9pMVB3E) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/2FsioagiJwt1rWioB55Y6x) | 4:01 | 2022-05-19 | 2022-07-29 |
 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 | 2022-05-19 | 2022-11-15 |
+| [Running on Faith \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 | 2022-11-17 |  |
 | [Running On Faith \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 6:30 | 2022-05-19 | 2022-10-17 |
-| [Running On Faith \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; Single Edit; 2007 Remaster](https://open.spotify.com/track/3hyJZDcrMJXikUdf3T45VS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 6:11 | 2022-10-04 |  |
+| [Running On Faith \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; Single Edit; 2007 Remaster](https://open.spotify.com/track/3hyJZDcrMJXikUdf3T45VS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 6:11 | 2022-10-04 | 2022-11-25 |
 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 9:53 | 2022-05-19 |  |
 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 | 2022-05-19 | 2022-07-29 |
 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 | 2022-05-19 |  |

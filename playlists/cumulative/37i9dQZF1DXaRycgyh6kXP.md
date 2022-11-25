@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-146 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
+147 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5z5TOODdOzr7Xe3P1TW7fd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Appeayl 2 U part 1](https://open.spotify.com/track/43JZaXZh1HCRnZviJtE6A3) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/5uVvFt8cY1NtZDxTnSvqRU) | 3:56 | 2022-02-03 | 2022-07-29 |
 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 | 2022-02-03 |  |
 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 | 2022-02-03 |  |
+| [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 | 2022-02-03 |  |
 | [At Height](https://open.spotify.com/track/6LxPmMmwY76D4XPCvZnQR3) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 3:52 | 2022-02-03 | 2022-11-09 |
 | [At Height](https://open.spotify.com/track/6ePPIBoI4KCczj1PDYLGGn) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [At Height](https://open.spotify.com/album/2eoAGLBbQGSbV73IgTgseK) | 3:52 | 2022-02-03 | 2022-07-29 |
 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 | 2022-02-03 |  |
@@ -41,7 +42,7 @@
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2022-02-03 |  |
 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 | 2022-02-03 |  |
 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 | 2022-02-03 |  |
-| [Fine Match](https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9) | 4:05 | 2022-02-03 |  |
+| [Fine Match](https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9) | 4:05 | 2022-02-03 | 2022-11-25 |
 | [Fine Match](https://open.spotify.com/track/7x2E99ZJ2TzZAfUAcfLpQS) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5BwxI98XgdBwFPEeaJ0Zj2) | 4:05 | 2022-02-03 | 2022-07-29 |
 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 | 2022-02-03 |  |
 | [Four Horsemen](https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc) | [Jacober](https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu) | [Sketch for Winter X: Immortal Word](https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv) | 3:12 | 2022-02-03 | 2022-11-13 |

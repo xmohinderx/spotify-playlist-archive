@@ -176,6 +176,48 @@
     },
     {
       "album": {
+        "name": "Los Green Lanters 2.0",
+        "url": "https://open.spotify.com/album/4XuIa2a0170dUBN6HzhJd6"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368982,
+      "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+      "url": "https://open.spotify.com/track/2xHt5akicWyD4FCPv3ExVP"
+    },
+    {
+      "album": {
         "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
         "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
       },
@@ -211,7 +253,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 368982,
       "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
       "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"

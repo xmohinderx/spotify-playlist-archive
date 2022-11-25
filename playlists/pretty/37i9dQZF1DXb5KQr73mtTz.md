@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,939 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 9 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
 | 10 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 |
 | 11 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 |
-| 12 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
-| 13 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 12 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 13 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
 | 14 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 |
 | 15 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
 | 16 | [Can't Go](https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because This Is My First Life \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp) | 3:31 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 42 | [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 |
 | 43 | [Into My Heart](https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Encounter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u) | 3:19 |
 | 44 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
-| 45 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 |
-| 46 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 |
+| 45 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 |
+| 46 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 |
 | 47 | [한참 지나서 \(Original Television Soundtrack\) BEST](https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0) | [Baek Z Young](https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o) | [한참 지나서 \(Original Television Soundtrack\) BEST](https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz) | 3:20 |
 | 48 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 49 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 |
 | 50 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
 
-Snapshot ID: `MTY2OTEwNzU3MCwwMDAwMDAwMDg3ZmQxOWFhNzcwOTdmNDM1ZWRjMTI1NmY1YmEwNjU5`
+Snapshot ID: `MTY2OTEwNzU3MCwwMDAwMDAwMDg2NTBiMTQxZWVmZjA0ZTI5NzE0ODk5Y2U4ZmJjNDFk`

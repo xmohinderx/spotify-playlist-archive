@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1148540,
+  "num_followers": 1149911,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE4Njk1MSwwMDAwMDAwMGJlMTNjNWFlMWExM2I3ZTlhZDFmMDliODhhZTVhOWJm",
+  "snapshot_id": "MTY2OTE4Njk1MSwwMDAwMDAwMDRiYjgwOWM1MjRmOGM1ZTgyNDhiMzA5NzA2YjJkMGI4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 361026,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 361026,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
       },
@@ -389,7 +373,23 @@
       "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
     },
     {
-      "added_at": "2022-11-24 00:53:10",
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "added_at": "2022-11-25 01:41:12",
       "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
@@ -479,22 +479,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -519,22 +519,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Very Few Friends",
+        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Very Few Friends",
+      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Daddy Issues (Remix) feat. Syd",
         "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/4ppTAJUbNXELZcoUaL90wo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/4ppTAJUbNXELZcoUaL90wo"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Very Few Friends",
-        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Very Few Friends",
-      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "For Tonight",
-        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "For Tonight",
-      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "For Tonight",
+        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "For Tonight",
+      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 172106,
       "name": "everytime",
       "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "CASE STUDY 01",
-        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "CYANIDE",
-      "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "CASE STUDY 01",
+        "url": "https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "CYANIDE",
+      "url": "https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Oxford Circus",
-        "url": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
-      },
-      "artists": [
-        {
-          "name": "Frex",
-          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
-        }
-      ],
-      "duration_ms": 152019,
-      "name": "Oxford Circus",
-      "url": "https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Oxford Circus",
+        "url": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
+      },
+      "artists": [
+        {
+          "name": "Frex",
+          "url": "https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr"
+        }
+      ],
+      "duration_ms": 152019,
+      "name": "Oxford Circus",
+      "url": "https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Exscape",
-        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Eric B for President: Term 1",
         "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 178587,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Video Games",
+        "url": "https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ"
+      },
+      "artists": [
+        {
+          "name": "Sun",
+          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
+        }
+      ],
+      "duration_ms": 220820,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Video Games",
-        "url": "https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ"
-      },
-      "artists": [
-        {
-          "name": "Sun",
-          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
-        }
-      ],
-      "duration_ms": 220820,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
     },
     {
       "added_at": "2022-11-18 05:00:00",

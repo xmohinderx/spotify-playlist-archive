@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,124 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,328 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 41 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 42 | [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 |
 | 43 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
-| 44 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
-| 45 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
+| 44 | [Humíllate](https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk) | [Mi Única Alegría](https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT) | 2:42 |
+| 45 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 46 | [El Chancho Come Caviar](https://open.spotify.com/track/2gE7O9Fa9Botb1AtUS0CPp) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/2ZYrdNtbBgd2qqD1kKpvFD) | 2:35 |
 | 47 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
 | 48 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 73 | [Qué Se Siente](https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Una Eterna Pasión](https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn) | 3:59 |
 | 74 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
 | 75 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
-| 76 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 76 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
 | 77 | [Duele \(En Vivo\)](https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Alta Revolución, Pt\. 2 \(En Vivo\)](https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ) | 3:55 |
-| 78 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
+| 78 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
 | 79 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
 | 80 | [Como Tu Enemigo](https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [A Matar o Morir](https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL) | 3:49 |
 
-Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMDI0YWYyNjFlNTcyZTA2NzBlYmU0ZTM0MWUyMGUwNjc0`
+Snapshot ID: `MTY2ODc0MDQwMCwwMDAwMDAwMGEwMWZmOWViODRlNjg4OTJkMzZiM2Q0MDhlMjhlY2Nm`

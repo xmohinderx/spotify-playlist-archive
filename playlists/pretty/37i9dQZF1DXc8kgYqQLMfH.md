@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,353 likes - 430 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,486 likes - 430 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 5 | [Grab a Chair](https://open.spotify.com/track/2z97snT0H6GsFnJl9hvMEp) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Grab a Chair](https://open.spotify.com/album/2TgvWCNTjr2ramzv8PgtSr) | 2:04 |
 | 6 | [Horizons](https://open.spotify.com/track/3xDyvJ4bLvJuyjncFeg8iB) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Horizons](https://open.spotify.com/album/6EhaOcENiKT6Mp2krYnHyp) | 2:31 |
 | 7 | [Sanctuary](https://open.spotify.com/track/1q2JKbcSANVM51vo7ZcNGZ) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Sanctuary](https://open.spotify.com/album/1Ud5Pk8XpdnN39zNiT0i5S) | 2:47 |
-| 8 | [Celeste](https://open.spotify.com/track/4qPq2QErTzjq4UgSyhylmy) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Celeste](https://open.spotify.com/album/4TleXPSD3Eu6ZWzYqzh19v) | 2:47 |
+| 8 | [Celeste](https://open.spotify.com/track/7yVDG0xiA3TcuyxXfUVjze) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Celeste](https://open.spotify.com/album/728oX8gKQ7G5AX8yhc0q3s) | 2:47 |
 | 9 | [Calm](https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Calm](https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8) | 1:58 |
 | 10 | [Multiverse](https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Multiverse](https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR) | 2:32 |
 | 11 | [Yellow Mornings](https://open.spotify.com/track/2RUqbOHOiHEytATL8ia66F) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The View From The Tree House](https://open.spotify.com/album/59QF8BGS1UOX1l0NsluIYe) | 2:01 |
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 429 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 |
 | 430 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY2ODE2NTk2NCwwMDAwMDAwMDg2NGMwMWNkMWU3Y2E3NzU4N2FmODQ3YmNkZGIyNDE2`
+Snapshot ID: `MTY2ODE2NTk2NCwwMDAwMDAwMDQ2YzIxZjgxOWMxYjU2ZDBiYzZkMGQwMjkyNzBkZDA4`

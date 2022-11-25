@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=dc\_9qI9qRVOF71MNTCJGqQ">Nikita Kering</a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ?si=tdUrYs62R\-Wn4tBZJfT2hQ">Ukweli</a> and <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=yszItYT6R8Sl7BDM5wXqpA">Xenia Manasseh </a>
 
-109 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+110 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
 | [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 |  |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
-| [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 |  |
+| [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 | 2022-11-25 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-18 |  |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-03 |  |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-28 | 2022-07-16 |
 | [Love](https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Love](https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC) | 3:40 | 2022-01-20 | 2022-04-29 |
+| [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-24 |  |
 | [Love Song](https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza) | 3:11 | 2022-05-26 |  |
 | [Love Song](https://open.spotify.com/track/6eUMsc38EqwN70ggjXnWBV) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/4ioUbWV9uoKVBGwSiqjrpC) | 3:11 | 2022-05-26 | 2022-08-25 |
 | [Loverman \- Acoustic](https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Ethan](https://open.spotify.com/artist/6ouFdOVHXs3aZV5pwM3JlQ) | [Loverman \(Acoustic\)](https://open.spotify.com/album/5Ajbk0U4jDQRtqLDg9OZoB) | 2:54 | 2021-12-28 |  |

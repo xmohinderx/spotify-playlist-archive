@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,603 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,651 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 21 | [Still Got Time](https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 3:01 |
 | 22 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 |
 | 23 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
-| 24 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 |
-| 25 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 24 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 25 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 |
 | 26 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 |
 | 27 | [Question It All](https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Question It All / White Car](https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj) | 4:02 |
 | 28 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
 | 80 | [Wallflower](https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Wallflower](https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y) | 3:04 |
 | 81 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
-| 82 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
-| 83 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 |
+| 82 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 |
+| 83 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
 | 84 | [A.M\. AM](https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:56 |
 | 85 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 |
 | 86 | [Goodnights & Goodbyes](https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA) | [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Goodnights & Goodbyes](https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Uriah's Cry](https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd) | [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Uriah's Cry](https://open.spotify.com/album/4lo8NWKY2fTTDEoFm8J29W) | 3:21 |
 | 100 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 
-Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMGE3YzNkNWQwMmE5ZDdmNGVkYTU4NzVjY2VmNzAwZTA0`
+Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMDM0MmNkOGVhMTFlNjRmOThkMDI2MjU1Y2NiMjQ5MGM3`

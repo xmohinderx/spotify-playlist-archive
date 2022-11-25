@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-53 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/0LIqSNHuW7rSqStgtXBh7j)
+54 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0LIqSNHuW7rSqStgtXBh7j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Kafubaa](https://open.spotify.com/track/0Eq2gxOPzyyChNbmtntbav) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Zungu Macha](https://open.spotify.com/artist/1lWHgWVZ6jPu3rehQZG6fL) | [Kafubaa](https://open.spotify.com/album/7bD47Q1LTN7zc6ZabWbMjG) | 4:06 | 2022-08-05 |  |
 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform Tz](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 | 2022-08-05 |  |
 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 | 2022-08-05 |  |
-| [Kidimbwi](https://open.spotify.com/track/5X2Ah5XTeVnysfZMh5ilY9) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Kidimbwi](https://open.spotify.com/album/75CObft7TmFOtbAUabkTrm) | 6:13 | 2022-08-05 |  |
+| [Kidimbwi](https://open.spotify.com/track/5X2Ah5XTeVnysfZMh5ilY9) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Kidimbwi](https://open.spotify.com/album/75CObft7TmFOtbAUabkTrm) | 6:13 | 2022-08-05 | 2022-11-25 |
+| [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 | 2022-11-24 |  |
 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 | 2022-08-05 |  |
 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 |  |
 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 | 2022-08-05 |  |

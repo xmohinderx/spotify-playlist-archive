@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1076959,
+  "num_followers": 1078511,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3ODE2OSwwMDAwMDAwMDhmYzM0MDg4OTMyNTYyNjM3OTNmMzQ5N2I3NDhlN2M3",
+  "snapshot_id": "MTY2NzU3ODE2OSwwMDAwMDAwMGExYWNlNDc2ZTFhMTViNWVhNGYxNzIyNjgxZjlmZGU4",
   "tracks": [
     {
       "added_at": "2022-08-17 16:54:52",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 98023,
-      "name": "Belong to the City",
-      "url": "https://open.spotify.com/track/05ht6LtilQXryLlGAKH208"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "I Told You",
@@ -783,6 +767,22 @@
       "duration_ms": 237786,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/6s2isojT7rGZUgJyymjjKU"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/05ht6LtilQXryLlGAKH208"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1725,22 +1725,6 @@
       "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "A Seat at the Table",
@@ -1755,6 +1739,22 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231267,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     }
   ],
   "unique_name": "I Love My '10s R&B",

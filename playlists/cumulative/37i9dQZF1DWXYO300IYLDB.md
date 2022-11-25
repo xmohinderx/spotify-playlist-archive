@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-89 songs - 5 hr 14 min - not published yet
+90 songs - 5 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-10-20 |  |
 | [i get high](https://open.spotify.com/track/00P85t1fMCdWweMrVvAsU3) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [i get high](https://open.spotify.com/album/6Gz2a2ybIh06fzk2pNU7Fe) | 2:04 | 2022-10-20 |  |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-20 |  |
+| [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 |  |
 | [I Love You So \- Acoustic](https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So \(Acoustic\)](https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU) | 2:27 | 2022-10-20 |  |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 |  |
 | [Is It Real? \(feat\. Salena Mastroianni\) \- Acoustic](https://open.spotify.com/track/4nSzmDBXKSqzw7MySbv5pU) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Is It Real? \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/1vBlvh8xYucADAfrBNYrPM) | 3:35 | 2022-10-20 | 2022-11-02 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-10-20 |  |
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-10-20 |  |
-| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-11-10 |  |
+| [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-11-10 | 2022-11-25 |
 | [Keep Your Head Up Princess](https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Keep Your Head Up Princess](https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK) | 3:18 | 2022-10-25 | 2022-11-13 |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-10-20 |  |
 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 | 2022-10-20 |  |
@@ -85,7 +86,7 @@
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-10-20 |  |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-10-27 |  |
 | [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 | 2022-10-20 |  |
-| [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 | 2022-11-10 |  |
+| [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 | 2022-11-10 | 2022-11-25 |
 | [Tomorrow](https://open.spotify.com/track/3K4tHacJdMC9STBC1wW8Lr) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Tomorrow](https://open.spotify.com/album/6n17hLNrjJdfY6Skg8yJEt) | 1:55 | 2022-10-20 |  |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-10-20 | 2022-10-26 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-10-20 |  |

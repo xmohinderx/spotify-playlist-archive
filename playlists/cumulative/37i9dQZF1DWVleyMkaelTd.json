@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Calmaria",
+        "url": "https://open.spotify.com/album/10buLmtbI3B527DorE20FJ"
+      },
+      "artists": [
+        {
+          "name": "Newton Bossa Trio",
+          "url": "https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322581,
+      "name": "Calmaria",
+      "url": "https://open.spotify.com/track/15FJtMcEK4SoZC1mVxuQ55"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
       },

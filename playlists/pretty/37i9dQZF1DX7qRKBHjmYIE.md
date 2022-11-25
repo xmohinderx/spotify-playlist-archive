@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Danny Schiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,414 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,426 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 77 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 78 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 79 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
-| 80 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
-| 81 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
+| 80 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
+| 81 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
 | 82 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 |
 | 83 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
 | 84 | [Only One](https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One](https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
 | 100 | [Too Much](https://open.spotify.com/track/4ERovc94EVMUB0UGVgGNdo) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/2Gpr7GWQnq3CT93NrqiIGh) | 2:11 |
 
-Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMGE0NDBhZDJjZDdlN2Q5YzdmMDY2NTMxNzMwZTcwMmIy`
+Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMGFhMjZlYTY4Zjc2ZGRhMTRkOWMwNzlhNjI3MTI4ZDEz`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 4456,
+  "num_followers": 4568,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDIxY2QxOGM1YmViNGNlNWIwNjljZjk4ODViMmUyNmQ1",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGJjZTM1YjY4OTVlMWQ1OTEyMDE1MjQ5NGFhYmFjMWE3",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "WFM",
-        "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "WFM",
+        "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Night Trouble",
-        "url": "https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 391256,
-      "name": "Night Trouble",
-      "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "COOL RELAX",
         "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 274666,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Night Trouble",
+        "url": "https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 391256,
+      "name": "Night Trouble",
+      "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
     },
     {
       "added_at": "2022-10-02 01:51:23",

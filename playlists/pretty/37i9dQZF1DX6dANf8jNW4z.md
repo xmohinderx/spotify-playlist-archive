@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: María Peláe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,474 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,483 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Quería](https://open.spotify.com/track/7bXe270XHhuIobnJvyI41L) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Quería](https://open.spotify.com/album/7Iq7pPhZL17iOAIFeX07DG) | 3:53 |
+| 1 | [Solo Era Pena](https://open.spotify.com/track/4Kuwoo73ycM4kqsMacylRb) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [La Folcrónica, tan de...](https://open.spotify.com/album/6lGebOmKZaMOSUapQ0KGeJ) | 2:49 |
 | 2 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 |
 | 3 | [Mi Nombre](https://open.spotify.com/track/5dOGxX6c10Rb8DqqHTc2Cw) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [Mi Nombre](https://open.spotify.com/album/0oXlVXAvpKW54rDWMwYGMh) | 3:03 |
 | 4 | [Amor del Bo](https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Amor del Bo](https://open.spotify.com/album/6KAvzHl4HH1C8SX8iuIHZA) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 |
 | 50 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 
-Snapshot ID: `MTY2ODYxOTg4MywwMDAwMDAwMDk2MWYxMGEzNTc3MzhhMjZmY2E2NDQ3YzEwNjhhNTFm`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDZiMWQ2YTQxNDQ0MTQxN2RkN2E1ZTk0YTZlMWE4Nzk2`

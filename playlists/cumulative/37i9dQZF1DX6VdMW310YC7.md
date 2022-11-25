@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,369 songs - 3 day 22 hr 51 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,370 songs - 3 day 22 hr 54 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Another Dawn](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Another Dawn](https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv) | 3:16 | 2021-07-02 | 2022-01-13 |
 | [Another Life](https://open.spotify.com/track/5oJFMNh2D1RxWFeOkO1sTz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 6:40 | 2020-03-18 | 2021-02-19 |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-02-26 |  |
+| [Another You](https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Tears In Paradise](https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE) | 2:49 | 2022-07-01 |  |
 | [Another You](https://open.spotify.com/track/7KXN6j2viym11XbfJxWCsP) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Another You](https://open.spotify.com/album/1k69zllxEsg08KtHqBtvyU) | 2:49 | 2022-07-01 | 2022-11-14 |
 | [Another You](https://open.spotify.com/track/7xBtsvU7AWX4pYP02SXEtF) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Another You](https://open.spotify.com/album/5kriWdQNPawclQs1j2jfcZ) | 2:49 | 2022-04-20 | 2022-10-14 |
 | [Antigone \(Yotto Remix\)](https://open.spotify.com/track/4I3CCa5rzagw4Wh3LCuMrg) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Antigone \(Yotto Remix\)](https://open.spotify.com/album/60iv40rJkfcq0ygIfpk4FX) | 4:02 | 2020-03-25 | 2021-10-02 |
@@ -616,7 +617,7 @@
 | [It Was You \(With Zeeba\)](https://open.spotify.com/track/42uG027pzJkSk63FZkUd0I) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [It Was You \(With Zeeba\)](https://open.spotify.com/album/6pCrr0GMlTyu6XOirgJVF5) | 2:37 | 2020-03-20 | 2021-12-21 |
 | [It's All Over](https://open.spotify.com/track/1bqcDfcEHDQP7Q5AOUCnC5) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 4:10 | 2020-10-13 | 2021-03-06 |
 | [It's Strange \(feat\. K.Flay\) \- Melvv Remix](https://open.spotify.com/track/2VUKwQ5wovKeCLf0gQUttH) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [It's Strange \(feat\. K.Flay\) \[Remixes\]](https://open.spotify.com/album/0q1iCP7zlNEHcTIvovdCKj) | 3:38 | 2020-05-18 | 2020-07-03 |
-| [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 |  |
+| [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 | 2022-11-25 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-10 |  |
 | [Japan \- Satin Jackets Remix](https://open.spotify.com/track/4H33DONRzLH1dfbCXoFgbq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Japan \(Satin Jackets Remix\)](https://open.spotify.com/album/2T986R8R8ftbIEKIs1WWv1) | 3:57 | 2020-11-13 | 2022-07-29 |
 | [Jetty](https://open.spotify.com/track/71CRvX5TW0CsiCxGZ00IfA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 3:53 | 2020-03-20 | 2022-04-20 |

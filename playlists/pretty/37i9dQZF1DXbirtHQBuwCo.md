@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: oceanfromtheblue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,679 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,039 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/3wFlJuksXb9EslcGiIXjBs) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
+| 1 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
 | 2 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 3 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 | 4 | [Vanishing Cats](https://open.spotify.com/track/33DQMWkaKTBkpKlmXuuNT0) | [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [LOVE is DRUG](https://open.spotify.com/album/2zv1UOpGFgfJ5GC7Wb3kF0) | 3:15 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 28 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 29 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 30 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
-| 31 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
-| 32 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
+| 31 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
+| 32 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
 | 33 | [Lucid Dream](https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:30 |
 | 34 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 |
 | 35 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 61 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 |
 | 62 | [Last](https://open.spotify.com/track/41r2Q4UEDdU9cktfgQETnx) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:55 |
 | 63 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:30 |
-| 64 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 |
-| 65 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
-| 66 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 |
-| 67 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 |
-| 68 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
+| 64 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 |
+| 65 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 |
+| 66 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 |
+| 67 | [Running Through The Night](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:37 |
+| 68 | [Irene](https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Irene](https://open.spotify.com/album/2eXjByavfoB2DYM1AKUJPg) | 3:19 |
 | 69 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 70 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 |
 
-Snapshot ID: `MTY2OTE3ODMwMCwwMDAwMDAwMDQ0ZjgyZmE3MTgzYjVhYzM1YWE2NTY5OGE2YzZkOGRj`
+Snapshot ID: `MTY2OTE3ODMwMCwwMDAwMDAwMDM4NGExZGE2MWI2NGVlOTZjMDE3NWNhYmY4MmQzYTMw`

@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Adi Oasis
 
-764 songs - 1 day 21 hr 13 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+765 songs - 1 day 21 hr 15 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-18 | 2022-05-22 |
 | [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 | 2022-10-16 |
-| [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 |  |
+| [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 | 2022-11-25 |
 | [Grow \- A COLORS ENCORE](https://open.spotify.com/track/4NIIAwRjwayqGCk929daQh) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [Grow \- A COLORS ENCORE](https://open.spotify.com/album/0B2AOk5RVaUYGEgxwk8Z8k) | 3:27 | 2021-09-04 | 2022-04-21 |
 | [Guest](https://open.spotify.com/track/1C70OhbdPDbagZ5bCgMC4g) | [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Guest](https://open.spotify.com/album/7qX5w1HKnF8pXvBLWDwrIr) | 4:16 | 2020-06-29 | 2020-07-31 |
 | [Guilty Pleasures](https://open.spotify.com/track/09KeOvDkNfymrhNvnfTYAi) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/1IVwoyObWNl60Zk2NLQ7QK) | 4:18 | 2020-10-27 | 2021-05-26 |
@@ -441,6 +441,7 @@
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2020-02-28 | 2020-06-05 |
 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 | 2022-05-20 | 2022-11-13 |
 | [MOVIN'](https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [MOVIN'](https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi) | 2:33 | 2021-07-10 | 2022-11-20 |
+| [MOVIN'](https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [MOVIN'](https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm) | 2:33 | 2022-11-18 |  |
 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 | 2022-07-22 |  |
 | [Moving](https://open.spotify.com/track/41BPaKM3OVc8gs3VXbAAu6) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/4iWfNxkqoDI2E1FOhnQnvg) | 5:15 | 2020-11-13 | 2022-07-29 |
 | [Moving Forward](https://open.spotify.com/track/0awxfMcESmYucafK7d6CjL) | [Madsius Ovanda](https://open.spotify.com/artist/0koqqJSNJvFB0qooO7q11J) | [Talking Underwater](https://open.spotify.com/album/0NtpFQ7fru7LqjZERGyRpN) | 2:58 | 2020-03-20 | 2020-04-18 |

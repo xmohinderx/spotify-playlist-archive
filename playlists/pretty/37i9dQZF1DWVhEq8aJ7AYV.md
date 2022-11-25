@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,425 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,487 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 38 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 |
 | 39 | [Chamula \- En Vivo en el Multiforo Alicia](https://open.spotify.com/track/6VEQe9telEBRWslvxmZqGw) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Ecos de otro Mundo \(En Vivo en el Multiforo Alicia\)](https://open.spotify.com/album/4erGe9qrLRdYte4bUx7BjE) | 3:43 |
 | 40 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
-| 41 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
+| 41 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 |
 | 42 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
-| 43 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 |
+| 43 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
 | 44 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
 | 45 | [Apache \- Stereo](https://open.spotify.com/track/0iZ7IbC5eHHeEVIadW61rT) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Play Telstar, The Lonely Bull & Others](https://open.spotify.com/album/39ihYe9wjorVed79RQqZ0S) | 3:11 |
 | 46 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 48 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 |
 | 49 | [Demolicion](https://open.spotify.com/track/4pRfLTRysjmc0gDRg9pRjr) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO) | 2:35 |
 | 50 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
-| 51 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 |
-| 52 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
-| 53 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
-| 54 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 51 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
+| 52 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 |
+| 53 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
+| 54 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
 | 55 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
 | 56 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 57 | [Hey Lupe](https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
 | 75 | [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 |
 
-Snapshot ID: `MTY2MDg3MTY2MywwMDAwMDAwMDE3NjdiN2I5MTFmNTI3ZTNkMDVmZmFhNWM4ZjM0Y2Ni`
+Snapshot ID: `MTY2MDg3MTY2MywwMDAwMDAwMDI2MmQ4MzlkYTk1OTZkZmFlM2JhZWJhZDVlYjgyN2Qx`

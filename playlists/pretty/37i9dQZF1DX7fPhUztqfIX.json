@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 96836,
+  "num_followers": 96910,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDkzZmQ5NzMxZTNiMmQ3ZWIyODcwODdhYWU3NTMwNWFl",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDczMWI4YjMwYzI4ZTQzYTI5YTM3YjdjYWNlYTY4NWM5",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -811,6 +795,22 @@
       "duration_ms": 272000,
       "name": "Fire in My Bones",
       "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Insatiable",
         "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 266620,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Nothing But Good",
         "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Reputation",
         "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 242606,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 407190,
       "name": "When It Comes to You",
       "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 341451,
-      "name": "Landslide - Radio Version",
-      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -2339,22 +2323,34 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The King In All His Beauty",
-        "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
       },
       "artists": [
         {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        },
-        {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
         }
       ],
-      "duration_ms": 240766,
-      "name": "The King In All His Beauty",
-      "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+      "duration_ms": 341451,
+      "name": "Landslide - Radio Version",
+      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     }
   ],
   "unique_name": "New & Bold",

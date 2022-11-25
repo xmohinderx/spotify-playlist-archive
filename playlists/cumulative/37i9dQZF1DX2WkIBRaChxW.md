@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now\. Cover: Rihanna
 
-368 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+369 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 | 2022-09-30 |  |
 | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU) | 3:24 | 2022-07-22 |  |
 | [On Guard \(feat\. 6lack\)](https://open.spotify.com/track/0VAuyz8H8mgh89sjdR983P) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PRELUDE](https://open.spotify.com/album/6ur2Xhe9Q3YvsQSFIfbuQZ) | 3:26 | 2021-12-31 | 2022-01-15 |
+| [On My Way](https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [On My Way](https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq) | 3:03 | 2022-11-24 |  |
 | [One 4 U](https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [One 4 U](https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX) | 2:28 | 2022-09-16 | 2022-10-01 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-12-31 | 2022-01-08 |
 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 | 2022-01-14 | 2022-04-23 |
@@ -268,7 +269,7 @@
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-25 | 2022-05-20 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-10-22 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-31 | 2022-05-14 |
-| [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 | 2022-10-14 |  |
+| [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 | 2022-10-14 | 2022-11-25 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-10-14 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-22 |  |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-09-23 | 2022-11-05 |

@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: Loggins and Messina",
-  "num_followers": 878088,
+  "num_followers": 878285,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDBlMDU5YWRkNGVkNGU1MWI0MjRkMTE0NTNjN2Y5OTAx",
+  "snapshot_id": "MTY2NTUxMTc5MCwwMDAwMDAwMDRiNGUwYjU3Njg3MmRiMjg0YTAxOWY0YjllOWZkZTUw",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2021-12-14 20:07:58",
-      "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "What Is Life - Remastered 2014",
-      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "Oogum Boogum",
@@ -571,6 +555,22 @@
       "duration_ms": 186567,
       "name": "Oogum Boogum Song",
       "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
+    },
+    {
+      "added_at": "2021-12-14 20:07:58",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "What Is Life - Remastered 2014",
+      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
     },
     {
       "added_at": "2021-12-14 20:17:09",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
+      "added_at": "2022-06-30 18:06:09",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+    },
+    {
       "added_at": "2021-01-06 18:39:03",
       "album": {
         "name": "Teaser And The Firecat (Remastered 2021)",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-06-30 18:06:09",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
-    },
-    {
-      "added_at": "2022-06-30 18:06:09",
-      "album": {
         "name": "Tap Root Manuscript",
         "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 179933,
       "name": "Cracklin' Rosie - Single Version",
       "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-30 18:06:09",
@@ -687,34 +703,18 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "When You're In Love With A Beautiful Woman",
-      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2022",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
       "added_at": "2022-06-30 18:06:09",
@@ -751,24 +751,24 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
         }
       ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered 2022",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+      "duration_ms": 178826,
+      "name": "When You're In Love With A Beautiful Woman",
+      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
     },
     {
       "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
     },
     {
       "added_at": "2021-01-06 18:39:03",

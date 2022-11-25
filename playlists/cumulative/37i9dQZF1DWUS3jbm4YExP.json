@@ -1519,7 +1519,7 @@
           "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173148,
@@ -2435,6 +2435,28 @@
       "duration_ms": 260080,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/7nft6ODluTjQ7TVpTqxKXc"
+    },
+    {
+      "album": {
+        "name": "La Estrella",
+        "url": "https://open.spotify.com/album/4AYABoXRLfI7j1FsSrYTEk"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208005,
+      "name": "El pavo real",
+      "url": "https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7"
     },
     {
       "album": {
@@ -7333,7 +7355,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
@@ -7717,7 +7739,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
@@ -8705,7 +8727,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 203265,
       "name": "Ven Vamos",
       "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"

@@ -4,13 +4,14 @@
 
 > Lose yourself in the summer daze...
 
-135 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
+137 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2022-02-10 |  |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-02-10 |  |
-| [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 | 2022-02-10 |  |
+| [About U](https://open.spotify.com/track/2jBXxytea8dHAOZqIB3pHL) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:57 | 2022-02-10 |  |
+| [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 | 2022-02-10 | 2022-11-25 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2022-02-10 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2022-02-10 |  |
 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 | 2022-02-10 |  |
@@ -140,7 +141,8 @@
 | [Winnie Crush](https://open.spotify.com/track/1Pp8o0rIaUoU7JCWTcyHK6) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0a5dMmUgyFMjkLfLXJgmzs) | 2:54 | 2022-02-10 |  |
 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2022-02-10 |  |
 | [You](https://open.spotify.com/track/3TZc0SOn6YZsQYN4FNZcml) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [You](https://open.spotify.com/album/57NxnMCCI18NSUzqFv5Mbd) | 2:45 | 2022-02-10 |  |
-| [You Know That I Love You](https://open.spotify.com/track/6v5VxQOaYShyi8TyGVArrD) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/329Lm8mbxGvBLyA1HpVL8w) | 4:48 | 2022-02-10 |  |
+| [You Know That I Love You](https://open.spotify.com/track/6v5VxQOaYShyi8TyGVArrD) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/329Lm8mbxGvBLyA1HpVL8w) | 4:48 | 2022-02-10 | 2022-11-25 |
+| [You Know That I Love You](https://open.spotify.com/track/7HArfWkgOZGnRoFtmhgZXa) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/0wt1q9GNtdjYFHsoPsD7vr) | 4:48 | 2022-02-10 |  |
 | [You're The One](https://open.spotify.com/track/6gCQOoiPsCVJWahUic1JDT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [You're The One](https://open.spotify.com/album/7Cd98dJhEkm97KdjIe4RLh) | 3:19 | 2022-02-10 |  |
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2022-02-10 |  |
 

@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-66 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
+67 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Enjoy](https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Enjoy](https://open.spotify.com/album/1MbsUNijqaPrfESRq6jz7c) | 2:16 | 2022-07-27 |  |
 | [Enjoyment](https://open.spotify.com/track/6JLATH1pX3C4YOoZrjffxQ) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Enjoyment](https://open.spotify.com/album/42bt55qWJCFcSMp0D1ysfl) | 3:24 | 2022-11-18 |  |
 | [Enjoyment](https://open.spotify.com/track/2bwPEHSNLSjN4LJYdD80rK) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Enjoyment](https://open.spotify.com/album/5j37hkPCPpwl3JzdjAWdtW) | 3:14 | 2022-07-27 |  |
+| [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-24 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2022-07-27 |  |
 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 | 2022-07-27 |  |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2022-07-27 |  |
@@ -58,7 +59,7 @@
 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 | 2022-07-27 |  |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-07-27 |  |
 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 | 2022-07-27 |  |
-| [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/7h7vgL9hnOW6CB7XYAEIMr) | 2:53 | 2022-07-27 |  |
+| [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/7h7vgL9hnOW6CB7XYAEIMr) | 2:53 | 2022-07-27 | 2022-11-25 |
 | [Proper Enjoyment](https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Proper Enjoyment](https://open.spotify.com/album/6Zud8nl3jWGp7M80X3zJMY) | 3:45 | 2022-07-27 |  |
 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-07-27 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-19 |  |

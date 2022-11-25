@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Julión Álvarez y su Norteño Banda en portada.
 
-170 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
+171 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/0LXtInQa0kC0s87IuTby3p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 | 2021-12-09 |  |
 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 | 2021-12-09 |  |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2021-12-09 | 2022-07-29 |
+| [El Final De Nuestra Historia](https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Íconos 25 Éxitos](https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t) | 3:17 | 2021-12-09 |  |
 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 | 2022-07-18 |  |
 | [El Lujo De Tenerte](https://open.spotify.com/track/0bIBXi8kSiEkJhlCgg286I) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [El Lujo De Tenerte](https://open.spotify.com/album/4K3RiMOlwODnxsyX5JjiD4) | 2:56 | 2021-12-09 | 2022-06-21 |
 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2021-12-09 |  |
@@ -80,7 +81,7 @@
 | [Hola, ¿Que Tal?](https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Cuando Quieras Quiero](https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm) | 3:03 | 2021-12-09 |  |
 | [Hombre Libre](https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:17 | 2021-12-09 |  |
 | [Hombre Libre](https://open.spotify.com/track/0aNg375SvHpJAWSMZkIYtF) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:19 | 2021-12-09 | 2022-07-29 |
-| [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 | 2021-12-09 |  |
+| [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 | 2021-12-09 | 2022-11-25 |
 | [Juro por Dios \- En Vivo](https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Juro por Dios \(En Vivo\)](https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF) | 3:22 | 2022-07-18 |  |
 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [La Buena y la Mala](https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F) | 3:24 | 2021-12-09 |  |

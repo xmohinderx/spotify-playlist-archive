@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-734 songs - 1 day 3 hr 36 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+735 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2021-11-10 |  |
 | [Caramel Rain](https://open.spotify.com/track/7rH4Wp2iuM6ev0JiKMMor2) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Caramel Rain](https://open.spotify.com/album/0S70kHbPUwUZ1xecPGveBx) | 3:12 | 2022-01-27 |  |
 | [Catch That Goblin](https://open.spotify.com/track/2qggNgTqDnziO1RXq25rNl) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Funkophomatic](https://open.spotify.com/album/795wf2HDzo17vytmfBRcuo) | 2:19 | 2021-11-10 | 2022-06-03 |
-| [Celeste](https://open.spotify.com/track/4qPq2QErTzjq4UgSyhylmy) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Celeste](https://open.spotify.com/album/4TleXPSD3Eu6ZWzYqzh19v) | 2:47 | 2022-09-23 |  |
+| [Celeste](https://open.spotify.com/track/4qPq2QErTzjq4UgSyhylmy) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Celeste](https://open.spotify.com/album/4TleXPSD3Eu6ZWzYqzh19v) | 2:47 | 2022-09-23 | 2022-11-25 |
+| [Celeste](https://open.spotify.com/track/7yVDG0xiA3TcuyxXfUVjze) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [allunare.](https://open.spotify.com/artist/3Vl0zx8Pqr61eh9RcTUA8x), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Celeste](https://open.spotify.com/album/728oX8gKQ7G5AX8yhc0q3s) | 2:47 | 2022-11-11 |  |
 | [Cellular Automata](https://open.spotify.com/track/3gICKIUyTqDxUMrCTifAgV) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [Bits & Pieces](https://open.spotify.com/album/1uX4MbJJF71JbyWYbABIhY) | 1:54 | 2021-11-10 | 2022-06-03 |
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 |  |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 |  |

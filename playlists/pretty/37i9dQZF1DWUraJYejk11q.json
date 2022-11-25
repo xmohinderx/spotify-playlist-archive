@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447333,
+  "num_followers": 447434,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMDBmN2JiOTI4M2QxNWIxNWUyZDlkMDI1MzcyMjBlM2I4",
+  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMGE4MWI3NDBlODZhNzFmNjQ3ZDdhZmNhZmRkYzI4Yjk1",
   "tracks": [
     {
       "added_at": "2022-11-11 06:15:22",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
-      "added_at": "2022-08-24 01:23:50",
-      "album": {
-        "name": "it's a secret / sunflower",
-        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "sunflower",
-      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
-    },
-    {
       "added_at": "2022-04-22 18:53:10",
       "album": {
         "name": "Tahara",
@@ -247,6 +231,22 @@
       "duration_ms": 213850,
       "name": "Tahara",
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
+    },
+    {
+      "added_at": "2022-08-24 01:23:50",
+      "album": {
+        "name": "it's a secret / sunflower",
+        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -333,26 +333,6 @@
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
-      "added_at": "2022-07-08 04:48:31",
-      "album": {
-        "name": "Closer (Daniel Avery Edit)",
-        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 246696,
-      "name": "Closer - Daniel Avery Edit",
-      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -371,6 +351,26 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-07-08 04:48:31",
+      "album": {
+        "name": "Closer (Daniel Avery Edit)",
+        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 246696,
+      "name": "Closer - Daniel Avery Edit",
+      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
       "added_at": "2022-01-12 02:36:16",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 398232,
-      "name": "Trains & Airports",
-      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
-    },
-    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -639,6 +623,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 398232,
+      "name": "Trains & Airports",
+      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
     },
     {
       "added_at": "2022-01-13 02:05:11",
@@ -753,20 +753,20 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2022-08-31 03:28:18",
+      "added_at": "2022-08-19 02:33:31",
       "album": {
-        "name": "Solar Plexus",
-        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
+        "name": "Order",
+        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
       },
       "artists": [
         {
-          "name": "Karakter",
-          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
         }
       ],
-      "duration_ms": 229090,
-      "name": "Solar Plexus",
-      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
       "added_at": "2022-04-29 18:24:26",
@@ -783,6 +783,22 @@
       "duration_ms": 329596,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2022-08-31 03:28:18",
+      "album": {
+        "name": "Solar Plexus",
+        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
+      },
+      "artists": [
+        {
+          "name": "Karakter",
+          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Solar Plexus",
+      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
     },
     {
       "added_at": "2022-03-18 05:02:00",
@@ -823,22 +839,6 @@
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
-    },
-    {
-      "added_at": "2022-08-19 02:33:31",
-      "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
       "added_at": "2022-03-11 06:33:02",

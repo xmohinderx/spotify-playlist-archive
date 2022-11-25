@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "Bakawali",
+        "url": "https://open.spotify.com/album/1rt7xlrmsW7qAnOAcN0yNf"
+      },
+      "artists": [
+        {
+          "name": "Wany Hasrita",
+          "url": "https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1"
+        },
+        {
+          "name": "Dato Jamal Abdillah",
+          "url": "https://open.spotify.com/artist/2EYYkKx3dOBxFnx75HDNuf"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260100,
+      "name": "Bakawali",
+      "url": "https://open.spotify.com/track/3E8KWH68Tf8yUGBve4iZJ5"
+    },
+    {
+      "album": {
         "name": "Belai",
         "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
       },
@@ -193,6 +215,24 @@
       "duration_ms": 276343,
       "name": "Berdamai",
       "url": "https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM"
+    },
+    {
+      "album": {
+        "name": "Bertahan / Pergi",
+        "url": "https://open.spotify.com/album/33lrHJbplh0dOA5WzVP2T0"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bertahan / Pergi",
+      "url": "https://open.spotify.com/track/5ljnTSvVHXNlOLYSRDWPgM"
     },
     {
       "album": {
@@ -391,7 +431,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 234555,
       "name": "Cinta",
       "url": "https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht"
@@ -493,7 +533,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 209386,
       "name": "Debu - Strings Version",
       "url": "https://open.spotify.com/track/5CRTFdqAMRs1F4NyfMnQFU"
@@ -1000,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Kasih Merintih (Original Sound Track of Trinil)",
+        "url": "https://open.spotify.com/album/5Hk1GEK6UnoFZEWYc2i66E"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238809,
+      "name": "Kasih Merintih - Original Sound Track of Trinil",
+      "url": "https://open.spotify.com/track/03rOLJudsev770bNjJY04f"
+    },
+    {
+      "album": {
         "name": "Kaulah Syurga",
         "url": "https://open.spotify.com/album/674KAJHIrjzZx0ZpUPJyxp"
       },
@@ -1493,7 +1551,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 164881,
       "name": "PANTANG (feat. Noki)",
       "url": "https://open.spotify.com/track/1xQbLqiKCnDs6USd6sRcVj"
@@ -1910,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "Seandainya",
+        "url": "https://open.spotify.com/album/72nZrRNWpZsfbVmlxhBX98"
+      },
+      "artists": [
+        {
+          "name": "Ariff Bahran",
+          "url": "https://open.spotify.com/artist/2ZDEFZjcNiDOiCgQpixGBI"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Seandainya",
+      "url": "https://open.spotify.com/track/6QGyP2oyiOKHzh87rokO7d"
+    },
+    {
+      "album": {
         "name": "Sempurna",
         "url": "https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm"
       },
@@ -2257,7 +2333,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 204310,
       "name": "Ular",
       "url": "https://open.spotify.com/track/6SO0RhoIxu1vj7JZiZJdWE"

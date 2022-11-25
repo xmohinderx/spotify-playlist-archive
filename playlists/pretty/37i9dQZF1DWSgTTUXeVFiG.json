@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10175,
+  "num_followers": 10241,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDAwYmE1NDA3Mzg0YWYwZmE0OWE5ZDc4NzRjN2U4ZmIw",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGIzOTExNjBjYzZiMGU1ZWU4ZDZjYzczYzc1ZWMwYmE0",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Fania Live 02 From Miami With DJ LeSpam",
-        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 357386,
-      "name": "Merecumbe",
-      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Todos Vuelven Live, Vol. 1",
         "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 351026,
       "name": "Amor y Control - Live",
       "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Fania Live 02 From Miami With DJ LeSpam",
+        "url": "https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "duration_ms": 357386,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -163,18 +163,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "20 A\u00f1os (La Historia) [En Vivo]",
+        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Porfi Baloa",
+          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 277706,
-      "name": "Casi Te Envidio - Live Version",
-      "url": "https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15"
+      "duration_ms": 272214,
+      "name": "Clase Social - En Vivo",
+      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -239,22 +243,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "20 A\u00f1os (La Historia) [En Vivo]",
-        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Porfi Baloa",
-          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 272214,
-      "name": "Clase Social - En Vivo",
-      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
+      "duration_ms": 277706,
+      "name": "Casi Te Envidio - Live Version",
+      "url": "https://open.spotify.com/track/351z8ABoWoJliwcM87Ow15"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",

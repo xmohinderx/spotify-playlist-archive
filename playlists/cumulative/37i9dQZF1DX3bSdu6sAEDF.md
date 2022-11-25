@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-246 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
+247 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2021-08-05 | 2022-01-20 |
 | [Beautiful People](https://open.spotify.com/track/69vuBbW1qSGjkmAIkWeGW6) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Life In Colour](https://open.spotify.com/album/36zNWjjmLyBcqEGGmKuO5O) | 2:29 | 2022-01-19 | 2022-04-19 |
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-07-29 | 2022-08-06 |
+| [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-01-19 |  |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2022-01-19 | 2022-07-11 |
 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2022-01-19 | 2022-11-21 |
 | [Better Love](https://open.spotify.com/track/3z8Eqq1mKTrYqwJaOPQyuL) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [Katie](https://open.spotify.com/album/59Tge7eWAxLOCr5cqPvDHg) | 3:34 | 2021-08-05 | 2022-01-19 |
@@ -88,7 +89,7 @@
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [FREEDOM](https://open.spotify.com/track/4qBuY6UbPKReY424xbbt8k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 2:57 | 2022-01-19 | 2022-07-28 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-07 |  |
-| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 |  |
+| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 | 2022-11-25 |
 | [Glitter](https://open.spotify.com/track/5yR5ydZdVoSXBh6Dy4JhAS) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:35 | 2021-08-05 | 2022-01-20 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 | 2022-07-29 |
 | [Good Kisser](https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:38 | 2022-01-19 |  |

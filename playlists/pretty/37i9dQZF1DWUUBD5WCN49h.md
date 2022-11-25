@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e?si=U\-tX\-QiYQkmrwftWnDnSZQ"> Adomaa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,152 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,189 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

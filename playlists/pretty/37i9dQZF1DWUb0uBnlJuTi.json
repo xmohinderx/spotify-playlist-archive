@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 223509,
+  "num_followers": 224040,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDE1ZjA0N2UzODBiNzZlZDk0ZDdmYTk3ZjdmZGU5NWJl",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDE1OGY5OGFiMGE0ZTVlZjE4YWEzYzc4ZmEwN2I4MmVm",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "The Swedish Songbook",
-        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Kronkvist",
-          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Limu, Limu, Lima",
-      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Virgin Ubiquity II",
@@ -813,6 +797,22 @@
       "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "The Swedish Songbook",
+        "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Limu, Limu, Lima",
+      "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
+    },
+    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Funky Snakefoot",
@@ -827,6 +827,42 @@
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Squid Exit Music (7\" radio edit)",
+        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Mike Outram",
+          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Squid Exit Music - 7\" radio edit",
+      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "The Best of the Light of the World",
+        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
+      },
+      "artists": [
+        {
+          "name": "Light Of The World",
+          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -875,42 +911,6 @@
       "duration_ms": 319497,
       "name": "Toots",
       "url": "https://open.spotify.com/track/35Pq0buGI8yDZJvUiL6dan"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Squid Exit Music (7\" radio edit)",
-        "url": "https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        },
-        {
-          "name": "Mike Outram",
-          "url": "https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Squid Exit Music - 7\" radio edit",
-      "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "The Best of the Light of the World",
-        "url": "https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4"
-      },
-      "artists": [
-        {
-          "name": "Light Of The World",
-          "url": "https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "London Town",
-      "url": "https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "MXC.MMBL",
@@ -1037,20 +1053,20 @@
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
+      "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
       "artists": [
         {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+      "duration_ms": 424040,
+      "name": "So This Is Love?",
+      "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 146010,
       "name": "London 1969",
       "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 424040,
-      "name": "So This Is Love?",
-      "url": "https://open.spotify.com/track/60ioXDAEsoc3VoW1KNyz9H"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Thrust",
@@ -1167,6 +1151,22 @@
       "duration_ms": 636733,
       "name": "Palm Grease",
       "url": "https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Hammond\" Smith",
-          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
-        }
-      ],
-      "duration_ms": 317957,
-      "name": "Tell Me What To Do",
-      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Be on the Lookout",
@@ -1231,6 +1215,22 @@
       "duration_ms": 193516,
       "name": "Be on the Lookout",
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Hammond\" Smith",
+          "url": "https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq"
+        }
+      ],
+      "duration_ms": 317957,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "A Town Called Earth",
-        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
-      },
-      "artists": [
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Turnip's Big Move",
-      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
-    },
-    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "Mutual Attraction Vol. 2",
@@ -1311,6 +1295,22 @@
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "A Town Called Earth",
+        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
+      },
+      "artists": [
+        {
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Turnip's Big Move",
+      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "Spoon (Mike Casey Remix)",
+        "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 113785,
+      "name": "Spoon (Mike Casey Remix) [No Sax]",
+      "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
+    },
+    {
       "added_at": "2021-02-05 05:01:00",
       "album": {
         "name": "Sunray Junonia",
@@ -1375,22 +1391,6 @@
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Spoon (Mike Casey Remix)",
-        "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
-      },
-      "artists": [
-        {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
-        }
-      ],
-      "duration_ms": 113785,
-      "name": "Spoon (Mike Casey Remix) [No Sax]",
-      "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
     },
     {
       "added_at": "2020-10-09 04:01:00",

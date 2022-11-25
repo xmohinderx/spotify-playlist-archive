@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 和久井沙良
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,862 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,955 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 26 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 27 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 |
 | 28 | [Red Lightning](https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Takumi Kaneko](https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg), [Tomoharu"Jr."Takahashi](https://open.spotify.com/artist/4WgBkIoSdVQ5oCjekYpGck), [Yoshio Kobayashi](https://open.spotify.com/artist/5Su4NgoYgeEAt1GSXdmMxu) | [Red Lightning](https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C) | 5:32 |
-| 29 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
-| 30 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
+| 29 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
+| 30 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 31 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 32 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 33 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 |
 | 34 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 35 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 |
 | 36 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 |
-| 37 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
-| 38 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
+| 37 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
+| 38 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 | 39 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 |
 | 40 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 |
 | 41 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 50 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGMxYTYwYjg2MzY4MjMyOTEwZTVjZmUzMThjOTIzMTkz`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDk3YmJkNmYzYmY0MjJlMWNkNGNhNjZjNzQ1ZjI5YTI0`

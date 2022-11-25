@@ -1,12 +1,12 @@
 {
-  "description": "What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....",
-  "num_followers": 14235,
+  "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
+  "num_followers": 14359,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIxNTY4MywwMDAwMDAwMGVlYzYxMjY3Njc5OGFlOTg3NjA1NmE4OGM5OTRkOWY5",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDEyNDdhZmUxOThkOWU4OTU0ZDM1ZjEwZTVhMTgxN2Q3",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Give Thanks & Praises",
+      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "How Good of God",
         "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Give Thanks & Praises",
-      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "That Thank You Song!",
+        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "That Thank You Song!",
+      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thank You (Famine Or Feast)",
         "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "That Thank You Song!",
-        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 186709,
-      "name": "That Thank You Song!",
-      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -427,22 +443,6 @@
       "duration_ms": 482013,
       "name": "Thank You Lord (feat. BJ Putnam)",
       "url": "https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -479,6 +479,22 @@
       "duration_ms": 203800,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -584,22 +600,6 @@
       "added_at": "2022-11-23 15:01:23",
       "album": {
         "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
         "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
       },
       "artists": [
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 305006,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 327000,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 305006,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Kingdom Come - The Soundtrack",
-        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & Mary Mary",
-          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Kingdom Come - The Soundtrack",
+        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & Mary Mary",
+          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful (Live)",
-        "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
-      },
-      "artists": [
-        {
-          "name": "Cross Worship",
-          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
-        },
-        {
-          "name": "Lilly Powers",
-          "url": "https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt"
-        }
-      ],
-      "duration_ms": 419000,
-      "name": "Thankful - Live",
-      "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful (Live)",
+        "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
+      },
+      "artists": [
+        {
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Lilly Powers",
+          "url": "https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt"
+        }
+      ],
+      "duration_ms": 419000,
+      "name": "Thankful - Live",
+      "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
     },
     {
       "added_at": "2022-11-23 15:01:23",

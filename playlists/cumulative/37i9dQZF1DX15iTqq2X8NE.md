@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-123 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+124 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 | 2022-07-29 |  |
 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 | 2022-02-07 |  |
 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 | 2022-09-07 |  |
+| [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 | 2022-11-25 |  |
 | [Dayer Anwer Lek \(Light Your Path\)](https://open.spotify.com/track/4oAGVVlUQRkuLJbBhqSR6S) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Abu Obaida Hassan & His Tambour: The Shaigiya Sound of Sudan](https://open.spotify.com/album/6nX1I3VbQKyt8AoCGofZYO) | 5:03 | 2021-12-09 | 2022-07-28 |
 | [Dead Body](https://open.spotify.com/track/3uoCwqVCa7AjnHZHHliRxp) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:27 | 2021-12-09 |  |
 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 | 2021-12-09 | 2022-07-29 |
@@ -121,7 +122,7 @@
 | [أبوي الشيخ‎ \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ \(feat\. Ali Naseraldeen\)‎](https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr) | 3:02 | 2022-10-27 |  |
 | [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 | 2022-07-29 | 2022-11-05 |
 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 | 2022-10-27 |  |
-| [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 |  |
+| [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 | 2022-07-29 | 2022-11-25 |
 | [النار ولعت](https://open.spotify.com/track/2mvK1TlgqapzTkPoYnv7Px) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت](https://open.spotify.com/album/46sQoHYjvUTY36S6zb2Iy0) | 1:19 | 2022-07-13 | 2022-11-04 |
 | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/0tSLeFVhJ7zfXzJJpFhoI7) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw) | 1:19 | 2022-10-27 |  |
 | [تسجيل دخول](https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Aloo](https://open.spotify.com/artist/6IxTrmFoKAlamtTxTKUzkH) | [تسجيل دخول](https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI) | 2:56 | 2022-10-05 |  |

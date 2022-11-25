@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-103 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
+104 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 | 2022-01-07 |  |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-03-18 |  |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2022-01-07 |  |
-| [Moving Men \- Metronomy Remix](https://open.spotify.com/track/20MuUSddGA8EnELcd52EP3) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men \(Remixes\)](https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB) | 4:00 | 2022-03-18 |  |
+| [Moving Men \- Metronomy Remix](https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Born a Loser \(Deluxe Edition\)](https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB) | 4:00 | 2022-07-29 |  |
+| [Moving Men \- Metronomy Remix](https://open.spotify.com/track/20MuUSddGA8EnELcd52EP3) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men \(Remixes\)](https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB) | 4:00 | 2022-03-18 | 2022-11-25 |
 | [Moving Men \- Metronomy Remix](https://open.spotify.com/track/35jiqJNqZiCcSJ20t6y9zt) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men \(Metronomy Remix\)](https://open.spotify.com/album/3hmJYSyGyqfpR1MO0sfGyB) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [Music Is The Answer](https://open.spotify.com/track/4Gyx7Nq6WySuaY6aE8aT8t) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [SLO](https://open.spotify.com/artist/4w0X9CxVeoMeDucb4QT6Zl) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 4:58 | 2022-01-07 |  |
 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 | 2022-01-07 |  |

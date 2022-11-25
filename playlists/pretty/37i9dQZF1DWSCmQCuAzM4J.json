@@ -1,12 +1,12 @@
 {
   "description": "se acab\u00f3 todo \ud83d\udc94",
-  "num_followers": 33747,
+  "num_followers": 33852,
   "original_name": "pov: te rompi\u00f3 el coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMGEyM2M4ZGEzNTM1YWI0OTFlMWE4MDllZDIzMDlhNDg3",
+  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMDE4NGQ2MTY0MThiY2I2NzFmZGUzZGJlYTAwZjRlMGQ5",
   "tracks": [
     {
       "added_at": "2022-08-02 20:47:37",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 243136,
-      "name": "The Way I Loved You (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 243136,
+      "name": "The Way I Loved You (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
     },
     {
       "added_at": "2022-08-02 20:47:37",

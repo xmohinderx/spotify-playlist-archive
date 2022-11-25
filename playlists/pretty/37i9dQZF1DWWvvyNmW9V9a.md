@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > The petition to add Sabrina Carpenter to The Eras Tour starts here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,736 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,715,278 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

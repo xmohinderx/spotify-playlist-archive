@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 34564,
+  "num_followers": 34596,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMGFkYzYyZmMwMDM1YWZlN2MwY2E0OGM3OGEwMWIyN2Mz",
+  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMDg2MjVlMzI4MmJkYzhkOTQ2YmQ4ZDJmNzA5MDEzMGQw",
   "tracks": [
     {
       "added_at": "2022-01-24 19:51:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
         "name": "Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2022-01-24 19:51:47",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
+        "name": "El Poder de New York",
+        "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
         "name": "La Hora de la Verdad",
         "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 376533,
       "name": "Vivo en el limbo",
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
-        "name": "El Poder de New York",
-        "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
     },
     {
       "added_at": "2022-01-24 19:51:47",

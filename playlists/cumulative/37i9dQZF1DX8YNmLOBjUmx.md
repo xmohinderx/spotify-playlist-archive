@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-130 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
+131 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-12-01 |  |
 | [Futureproof](https://open.spotify.com/track/3s2UJl9ncmoaQYvMQHBE39) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:27 | 2021-12-01 |  |
 | [Guided By Angels](https://open.spotify.com/track/0BVI8MTzOWaXSktQTNHAwg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:59 | 2021-12-01 |  |
-| [Hanging by a Thread](https://open.spotify.com/track/5VI2qNOcabWt6RNJuApYHX) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/3Ihb50N9lgl7IPdXlt04Np) | 3:18 | 2021-12-01 |  |
+| [Hanging by a Thread](https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC) | 3:18 | 2021-12-01 |  |
+| [Hanging by a Thread](https://open.spotify.com/track/5VI2qNOcabWt6RNJuApYHX) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/3Ihb50N9lgl7IPdXlt04Np) | 3:18 | 2021-12-01 | 2022-11-25 |
 | [Her](https://open.spotify.com/track/02KSPbKGTGn3bfrtediUWF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 2:08 | 2021-12-01 | 2022-11-05 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2021-12-01 |  |
 | [Her](https://open.spotify.com/track/57FyMUl9YavijYJdJqXu6S) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Her](https://open.spotify.com/album/7tok3WUZQ6lGt3sNHnA5WK) | 2:08 | 2021-12-01 | 2022-11-14 |

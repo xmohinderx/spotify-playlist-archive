@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,884 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,897 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 31 | [Drömmen](https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3) | 2:05 |
 | 32 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 |
 | 33 | [Psykopaten](https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa) | 3:19 |
-| 34 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
+| 34 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
 | 35 | [Sverigevänner](https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 3:24 |
-| 36 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
+| 36 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 37 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
 | 38 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
 | 39 | [Arbetslös](https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo) | [VÄNSTERNÄVEN](https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl) | [Välkommen Hit](https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f) | 1:30 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Ni får aldrig in mig där](https://open.spotify.com/track/6SYznjcNBTzWkyfJuolhfa) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/1c86hf60yWW0pBqfIHV2Np) | 2:59 |
 | 65 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 
-Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDgzMjQyZWQ4ZGI3ZGIzNGUyNmQxOThkMTQwNGUxYWRi`
+Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDE5MGRjZTlmMDJiYmQ4MDM2ODc2ZDA3YWZkYjYyZDA2`

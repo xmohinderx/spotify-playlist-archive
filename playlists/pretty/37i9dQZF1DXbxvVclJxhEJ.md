@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,919 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,020 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 19 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
 | 20 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 |
 | 21 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
-| 22 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
-| 23 | [Gimme a Pigfoot \- Mono](https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 3:07 |
+| 22 | [Gimme a Pigfoot \- Mono](https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 3:07 |
+| 23 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
 | 24 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
 | 25 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
 | 26 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 49 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
 | 50 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
 
-Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMDNkN2JmMjFlOThkYjk0OTJhMmY4Mzg2YWEyNWJjNWEw`
+Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMGM2YmE2ODM3OWQ4NGUzNmQ5ZmE5NmM3ZGY0NDA2MDE0`

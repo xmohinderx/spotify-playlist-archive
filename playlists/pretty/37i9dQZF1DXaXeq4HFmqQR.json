@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9895,
+  "num_followers": 9902,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGZiYjA3OTRiNGJjYTQxNWNhZDYxNzIwYzdiZTVjYWZl",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDRmZmY4MzUwNjRhOGIxOTQ4MTM4ODg0YmY5ZTkyOGIw",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Unu",
         "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 200988,
       "name": "Unu",
       "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Blue V2",
         "url": "https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 223448,
       "name": "Stefany",
       "url": "https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 173158,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 133818,
-      "name": "Sufrir De Mentira (feat. Nass G)",
-      "url": "https://open.spotify.com/track/2rJfaHGtPOjKJ5siBC4MI1"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "U.U",
         "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
       },
@@ -519,6 +499,22 @@
       "duration_ms": 160000,
       "name": "Sad",
       "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Pros y Contras de Llamarte",
+        "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
+      },
+      "artists": [
+        {
+          "name": "Fran Mazu",
+          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+        }
+      ],
+      "duration_ms": 196295,
+      "name": "Pros y Contras de Llamarte",
+      "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Pros y Contras de Llamarte",
-        "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
       },
       "artists": [
         {
-          "name": "Fran Mazu",
-          "url": "https://open.spotify.com/artist/7ID3luDdu0YgSEj9Tlwfiy"
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 196295,
-      "name": "Pros y Contras de Llamarte",
-      "url": "https://open.spotify.com/track/0ADASZpWNjvJgUS9xvDWYS"
+      "duration_ms": 133818,
+      "name": "Sufrir De Mentira (feat. Nass G)",
+      "url": "https://open.spotify.com/track/2rJfaHGtPOjKJ5siBC4MI1"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Sat\u00e9lite",
+        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
+      },
+      "artists": [
+        {
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Sat\u00e9lite",
+      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/0AB3TQv94qIJsSiOzIXNDe"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 209747,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3xLq0kSehSq1RPRDJWi51d"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Sat\u00e9lite",
-        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Sat\u00e9lite",
-      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Flip Flops",
-        "url": "https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Flip Flops",
-      "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Rayo Polo",
         "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Flip Flops",
+        "url": "https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Flip Flops",
+      "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/4X40KrzSuLlgRlPzB69vzK"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 176456,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6qrpKBnajPTZqri62rOJYh"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "INTERLUDIO",
+        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        }
+      ],
+      "duration_ms": 130610,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -815,38 +831,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
-      },
-      "artists": [
-        {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
-        }
-      ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "INTERLUDIO",
-        "url": "https://open.spotify.com/album/6PnYN50FMk50qMO3J1Akc6"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 130610,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5xD8PWYISpU9Gu5EZrsUB5"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Mente Universal",
         "url": "https://open.spotify.com/album/7okrB8FspJxot0uPOw0utc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 148000,
       "name": "Mente Universal",
       "url": "https://open.spotify.com/track/1CZ2hFUJt8RpGkuDzkTpOg"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
     },
     {
       "added_at": "2022-11-04 00:00:00",

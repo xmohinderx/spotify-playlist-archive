@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-381 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+382 songs - 22 hr 35 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* |  |
 | [La myopie du coeur](https://open.spotify.com/track/0JvG23hQr8r5jK8sRDV56D) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [La myopie du coeur \- Single](https://open.spotify.com/album/587yESFa8dOQfYV0YaBv8Y) | 3:05 | 2021-01-15 | 2022-06-30 |
 | [La porte de l'hôpital](https://open.spotify.com/track/4yx36ceDtSEuPjvl5lwGlo) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [La porte de l'hôpital](https://open.spotify.com/album/3RKhAG0hro25cTVL8EXocG) | 4:16 | 2021-08-31 | 2021-09-28 |
-| [la rivière](https://open.spotify.com/track/34TsmGq0ibmXtJAcfl7W5o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:26 | 2022-09-23 |  |
+| [la rivière](https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 4:25 | 2022-11-11 |  |
+| [la rivière](https://open.spotify.com/track/34TsmGq0ibmXtJAcfl7W5o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:26 | 2022-09-23 | 2022-11-25 |
 | [La tireuse de cartes](https://open.spotify.com/track/0WAkPP6fVnKOoyK9Mxu9tx) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [L'Album de Boue](https://open.spotify.com/album/3y1Otdwrdze1bbukisaxeg) | 4:32 | 2021-02-26 | 2021-09-29 |
 | [La tête à hier](https://open.spotify.com/track/5eembkZTkQTPiDBrikrvV6) | [Émile Gruff](https://open.spotify.com/artist/5V4tYWMSUoiENIzBUzhom6) | [Une fin heureuse ? \(2e partie\)](https://open.spotify.com/album/2g9w8I9nkUPIVoT81uCufJ) | 3:20 | 2021-02-22 | 2021-05-07 |
 | [La vallée des fantômes](https://open.spotify.com/track/0CYFSRbOBPwwdqezHQKfKQ) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Le chemin des possibles](https://open.spotify.com/album/4Ulibhn07t2Jzam0wP2tdq) | 3:26 | 2022-04-29 | 2022-07-06 |

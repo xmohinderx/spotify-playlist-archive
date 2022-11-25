@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,456 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,691 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 36 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 |
 | 37 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
 | 38 | [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 |
-| 39 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
-| 40 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
+| 39 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
+| 40 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
 | 41 | [Tonight](https://open.spotify.com/track/1uUicV3BDzRccm6azPFnrl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/4RsttwlINL1UxDTZL2rQ6I) | 4:10 |
 | 42 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 43 | [No Lele](https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Couper décaler](https://open.spotify.com/track/6YrUPrGLY5CzrgyleP5kgG) | [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Retro Zouk Tunes](https://open.spotify.com/album/3LKSt5p2jPVO93JwgllpXP) | 5:29 |
 | 80 | [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDJmMTNjZjkzYTc1ZjY5OGQwOTY0ZjcxNzkwOTA1Y2Zi`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDA0MGVmMDE1MDhkMTcxZTAxODE0Yjg4YTQwNDRkZGRi`

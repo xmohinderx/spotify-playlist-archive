@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: PL Quest, Major RD, BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,758 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,892 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 18 | [M4](https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [M4](https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3) | 2:50 |
 | 19 | [VAI POR MIM](https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [VAI POR MIM](https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl) | 2:27 |
 | 20 | [Menina Se Prepara](https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Menina Se Prepara](https://open.spotify.com/album/3Lm13mfUcBeFGDitToszX5) | 3:30 |
-| 21 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
+| 21 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ruxn](https://open.spotify.com/artist/20bFEf0GKyZMdVEZ7ao790) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
 | 22 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 | 23 | [Baile do Cinga do 12](https://open.spotify.com/track/5GH9iPvJd3RlOBlMM2R3ME) | [MC Gontijo](https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY), [Dj Sati Marconex](https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN) | [Baile do Cinga do 12](https://open.spotify.com/album/4oNGK5AvVExXsSQ72lppjo) | 3:01 |
 | 24 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 241270,
+  "num_followers": 241499,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDYzOTY1NWFkNzFmZmNhZjJhYmQ4OTI0Y2U5MmM4ZTc4",
+  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDMxZWQzMTlmYjFmNWM1YzA2ZGJjMmY2MjQ4ZWY1ZGQy",
   "tracks": [
     {
       "added_at": "2022-10-21 07:00:00",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
-      "added_at": "2022-11-24 01:24:36",
+      "added_at": "2022-11-25 01:21:22",
       "album": {
         "name": "Vivien",
         "url": "https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/4kF5GADt85FeD8Y26RRyLY"
     },
     {
-      "added_at": "2022-11-24 01:24:36",
+      "added_at": "2022-11-25 01:21:22",
       "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Global Warning",
-        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Naitu",
-      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Global Warning",
+        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Naitu",
+      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Hengit\u00e4",
-        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Hengit\u00e4",
-      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Lust (Special Remastered Band Edition)",
         "url": "https://open.spotify.com/album/568RScapveqsGN0tCmoUKu"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 352586,
       "name": "I Sit on Acid",
       "url": "https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Hengit\u00e4",
+        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "Hengit\u00e4",
+      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "PUMPED UP KICKS",
-        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
       },
       "artists": [
         {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
         }
       ],
-      "duration_ms": 271666,
-      "name": "PUMPED UP KICKS",
-      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
+        "name": "PUMPED UP KICKS",
+        "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
       "artists": [
         {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
         }
       ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
+      "duration_ms": 271666,
+      "name": "PUMPED UP KICKS",
+      "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt - Original Version",
       "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Come Back to Life",
-        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
-      },
-      "artists": [
-        {
-          "name": "Lock The Basement",
-          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Come Back to Life",
-      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Come Back to Life",
+        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
+      },
+      "artists": [
+        {
+          "name": "Lock The Basement",
+          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Terapunk",
-        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
-      },
-      "artists": [
-        {
-          "name": "Dope Stars Inc.",
-          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
-        }
-      ],
-      "duration_ms": 238590,
-      "name": "Many Thanks",
-      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Prey & Obey",
         "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 286974,
       "name": "Prey & Obey",
       "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Terapunk",
+        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
+      },
+      "artists": [
+        {
+          "name": "Dope Stars Inc.",
+          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
+        }
+      ],
+      "duration_ms": 238590,
+      "name": "Many Thanks",
+      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
-      },
-      "artists": [
-        {
-          "name": "CueStack",
-          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
-        }
-      ],
-      "duration_ms": 264750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Feed Our Lie",
         "url": "https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 246843,
       "name": "Feed Our Lie",
       "url": "https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
+      },
+      "artists": [
+        {
+          "name": "CueStack",
+          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
+        }
+      ],
+      "duration_ms": 264750,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Linger Ficken' Good...And Other Barnyard Oddities",
-        "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
-      },
-      "artists": [
-        {
-          "name": "Revolting Cocks",
-          "url": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
-        }
-      ],
-      "duration_ms": 337226,
-      "name": "Da Ya Think I'm Sexy?",
-      "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Hellwalker",
         "url": "https://open.spotify.com/album/4wiwsQ8xxJk84cLzLXB2ap"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 243857,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/6JqvqbDADxVZ8Ld9SWt1Ia"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Linger Ficken' Good...And Other Barnyard Oddities",
+        "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
+      },
+      "artists": [
+        {
+          "name": "Revolting Cocks",
+          "url": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
+        }
+      ],
+      "duration_ms": 337226,
+      "name": "Da Ya Think I'm Sexy?",
+      "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
     }
   ],
   "unique_name": "Industrial Metal",

@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-282 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+283 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Just the Two of Us](https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 7:23 | 2021-10-01 | 2022-11-17 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-06-08 | 2022-07-29 |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2022-04-19 |
-| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-06-08 |  |
+| [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-06-08 | 2022-11-25 |
 | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/album/2xzmYeAFAzzru2hFUbgiBg) | 2:59 | 2021-06-08 | 2022-07-29 |
 | [lie to me](https://open.spotify.com/track/4x2e3S53WtvEi8jzl1g0Mt) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [lie to me](https://open.spotify.com/album/1ASYc873YDpvSuTdsSple5) | 3:35 | 2021-08-13 | 2022-04-18 |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2021-06-08 |  |
@@ -261,6 +261,7 @@
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2021-09-17 | 2022-07-28 |
 | [Ultimately](https://open.spotify.com/track/0I0ZackSSk90oGUJtfKnJd) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Autumn's End](https://open.spotify.com/album/2tGYgOBYVwd8N1e5jBmJqY) | 2:22 | 2021-06-08 | 2022-04-21 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-09-09 |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-09-09 |  |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-11-11 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2022-08-19 |  |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-07-22 |

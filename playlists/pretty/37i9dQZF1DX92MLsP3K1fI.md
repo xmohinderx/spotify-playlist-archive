@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Thalía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,041 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,080 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 30 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 31 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
 | 32 | [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 |
-| 33 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
+| 33 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
 | 34 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
 | 35 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 36 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 | 37 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
 | 38 | [Mi Película](https://open.spotify.com/track/4Gd65mnCu829bBJL4lb5Bb) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Mi Película](https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e) | 2:23 |
 | 39 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
-| 40 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
+| 40 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 | 41 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
 | 42 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
 | 43 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
 | 50 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
 
-Snapshot ID: `MTY2ODQ2ODY4MCwwMDAwMDAwMDY5NzI5MTBiNzU5NTQxMGI0OGMyZDZhMDQxNmRiOGY2`
+Snapshot ID: `MTY2ODQ2ODY4MCwwMDAwMDAwMGQyNzg1NWI2YjdmMDJkMDI0NzVmYmZlNjc1ZTc5MzRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,144 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,373 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,24 +44,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 34 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
 | 35 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
 | 36 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 |
-| 37 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 |
+| 37 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
 | 38 | [Big](https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 1:45 |
-| 39 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
+| 39 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 |
 | 40 | [It Was A Gift](https://open.spotify.com/track/4dm7wiTdyLxf2zUSuUuN7G) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [My Other People](https://open.spotify.com/album/6O8ZBxH4IMh214XoMPMVfR) | 3:33 |
-| 41 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 |
-| 42 | [Water in the Well](https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:07 |
+| 41 | [Water in the Well](https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:07 |
+| 42 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 |
 | 43 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 44 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
 | 45 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 |
 | 46 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
 | 47 | [Best Behavior](https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 3:24 |
-| 48 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 |
-| 49 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 48 | [Paul](https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Holding Hands with Jamie](https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9) | 6:53 |
+| 49 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 |
 | 50 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 |
 | 51 | [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 |
-| 52 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 |
-| 53 | [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 |
-| 54 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
-| 55 | [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 |
+| 52 | [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 |
+| 53 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 |
+| 54 | [Who's My Eugene? \- Edit](https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Who's My Eugene? \- Edit](https://open.spotify.com/album/6wApvXDrW8JIxCcq5hwHDQ) | 4:08 |
+| 55 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
 
-Snapshot ID: `MTY2ODc3ODcyNiwwMDAwMDAwMDlmMjA3ODgxZjhjMDBlMTFjMzgyNTg2NmRhZWJmNDVj`
+Snapshot ID: `MTY2ODc3ODcyNiwwMDAwMDAwMGIxYmJjMDU3NmQ3YmM4ZGEwYjRjZTBmMzNlYTU5ZDVh`

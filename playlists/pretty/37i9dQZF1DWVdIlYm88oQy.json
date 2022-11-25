@@ -1,29 +1,13 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 28581,
+  "num_followers": 28711,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGFiNWFjMmQ0MWJhNzgzNDUwNmM3YzA1NGQ5OTNhNDA0",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGIyZGUzYjNlZjUzZjc4MTc3M2U3MjZiM2Q2NzQ4MzI0",
   "tracks": [
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -287,18 +287,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -319,22 +323,18 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
     },
     {
       "added_at": "2022-08-31 07:29:23",

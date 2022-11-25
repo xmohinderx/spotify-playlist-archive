@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2023115,
+  "num_followers": 2023665,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM3MTA0OCwwMDAwMDAwMGFiMTliMWM3NmFlYjZiZDU2M2NjMGEzZDc2NmVkOWVi",
+  "snapshot_id": "MTY1MjM3MTA0OCwwMDAwMDAwMDU0ZGZhZTg2ZGI0ZjFkZDc5MjI4NzJiNjdlNjQ3NjZj",
   "tracks": [
     {
       "added_at": "2022-05-12 15:57:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-05-12 15:57:28",
       "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2022-05-12 15:57:28",
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
-    },
-    {
-      "added_at": "2022-05-12 15:57:28",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2022-05-12 15:57:28",
@@ -1703,42 +1703,6 @@
     {
       "added_at": "2022-05-12 15:57:28",
       "album": {
-        "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
-        "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
-      "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
-    },
-    {
-      "added_at": "2022-05-12 15:57:28",
-      "album": {
         "name": "Clasicos de la Provincia",
         "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
       },
@@ -1771,6 +1735,42 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2022-05-12 15:57:28",
+      "album": {
+        "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
+        "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
+      "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
     },
     {
       "added_at": "2022-05-12 15:57:28",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-05-12 15:57:28",
       "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
-    },
-    {
-      "added_at": "2022-05-12 15:57:28",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2022-05-12 15:57:28",
+      "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
     },
     {
       "added_at": "2022-05-12 15:57:28",

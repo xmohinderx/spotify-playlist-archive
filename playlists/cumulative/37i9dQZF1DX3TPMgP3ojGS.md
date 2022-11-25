@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,550 songs - 2 day 22 hr 9 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,551 songs - 2 day 22 hr 12 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [A Silent Wish](https://open.spotify.com/track/711P4SBPCX7zO6TarXBCJ4) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Silent Wish](https://open.spotify.com/album/54jnSi7iJTFQizuqW2xDxZ) | 2:29 | 2021-12-21 | 2022-07-25 |
 | [A Sky Full of Flowers](https://open.spotify.com/track/23IhmwOyEMpH7fPU8H6pZz) | [Jeff Bright Jr](https://open.spotify.com/artist/7E6ohNXHygGbx68hwQxEXN) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:38 | 2021-03-11 | 2021-12-19 |
 | [A Slow Tune for G](https://open.spotify.com/track/27flOqCzErq4rva0scXy6a) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Diving with My Harpoon](https://open.spotify.com/album/60Cqe5CeQTf6pUGZXtQGJG) | 2:57 | 2021-03-18 | 2022-04-01 |
+| [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-15 |  |
 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 | 2022-03-29 | 2022-04-19 |
 | [A Walk Down the Aisle](https://open.spotify.com/track/3gCN5z5Fy8b7iTJDKDk2JU) | [In Amber](https://open.spotify.com/artist/6KKwyhMJU6IO69OEY2f43C) | [A Walk Down the Aisle](https://open.spotify.com/album/0crcaS4yA0L6x7qfLbK5rc) | 2:42 | 2021-05-13 | 2021-05-14 |
 | [A Woman Alone](https://open.spotify.com/track/7uXvHGhRmxCBw2Y2vPCLcM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hostiles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4enMBkXDO3tSrqxFxPXxSZ) | 1:50 | 2021-05-20 | 2022-04-10 |
@@ -532,7 +533,7 @@
 | [Guarda](https://open.spotify.com/track/55pNaqKviMlFxtBbqWCMqH) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 1:38 | 2021-03-20 | 2022-04-07 |
 | [Guiding Light](https://open.spotify.com/track/1yifgXa6NhUmUayr78flWm) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Guiding Light](https://open.spotify.com/album/020aZCrrAmqQQ7TIobHAZN) | 2:10 | 2021-03-06\* | 2022-04-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-11-14 | 2022-07-29 |
-| [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 |  |
+| [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 | 2022-11-25 |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-04-12 | 2022-04-18 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-03-15 | 2022-05-14 |
 | [Harbinger](https://open.spotify.com/track/1VJFcuWEwolF6y5fS1J98x) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Harbinger](https://open.spotify.com/album/36gPNCQYHXSHGpl5FQ2GnC) | 2:49 | 2021-09-25 | 2022-04-01 |

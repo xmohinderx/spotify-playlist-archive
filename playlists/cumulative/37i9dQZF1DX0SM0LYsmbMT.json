@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 122757,
       "name": "All in blues",
       "url": "https://open.spotify.com/track/7t19TRzMGghcGNHoaIxIMw"
@@ -14122,6 +14122,28 @@
     },
     {
       "album": {
+        "name": "Don Lemon",
+        "url": "https://open.spotify.com/album/0Psg7qHlT0bf53XQzcouAq"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104036,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3"
+    },
+    {
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/7uEUmkKJhzVJN2A2VxJgQb"
       },
@@ -19411,7 +19433,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 102723,
       "name": "Fortune",
       "url": "https://open.spotify.com/track/2namVvGAaBKjeIm4spCMBT"
@@ -20351,7 +20373,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 105599,
       "name": "Genesee",
       "url": "https://open.spotify.com/track/3z9GfV4SQsg2dVECeEldwv"
@@ -24596,6 +24618,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6JzcuhWard5YwlMpmfGmaW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118620,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4aKZ2t4wiRgiNxXSaffotF"
+    },
+    {
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/0sP98arZeAHMervSvpwTWm"
       },
@@ -25109,6 +25149,24 @@
       "duration_ms": 132010,
       "name": "Ifeyinwa",
       "url": "https://open.spotify.com/track/4sCMICmVUPkNkYTmYK5Cn0"
+    },
+    {
+      "album": {
+        "name": "Marrakech EP",
+        "url": "https://open.spotify.com/album/5BdQohxvvaLyHqWTDCwUDq"
+      },
+      "artists": [
+        {
+          "name": "Wilczynski",
+          "url": "https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132010,
+      "name": "Ifeyinwa",
+      "url": "https://open.spotify.com/track/5unpQQb6s6qRfOlUpP9U1W"
     },
     {
       "album": {
@@ -27755,7 +27813,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 122758,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/33YYeNVd3MilBCq9GzBdrc"
@@ -27889,6 +27947,28 @@
       "duration_ms": 146926,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/0jvk77dyCUddjRW4plCiB7"
+    },
+    {
+      "album": {
+        "name": "Jupiter's Moon",
+        "url": "https://open.spotify.com/album/0mfq94OEqLvxnCfpvdQ94L"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Nofeels",
+          "url": "https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130259,
+      "name": "Jupiter's Moon",
+      "url": "https://open.spotify.com/track/1jyMnfxnWvHj4hbQIPoVnm"
     },
     {
       "album": {
@@ -31021,7 +31101,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 109629,
       "name": "Lilutu",
       "url": "https://open.spotify.com/track/2qHy5286NNXTEMmXWOQ9q5"
@@ -31497,7 +31577,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 117841,
       "name": "Locust",
       "url": "https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1"
@@ -31657,7 +31737,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 128470,
       "name": "Long Island",
       "url": "https://open.spotify.com/track/6AKjNK0aupoWGx2rk3FigD"
@@ -45770,6 +45850,28 @@
     },
     {
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1E7NoHUGc7h7x2eajwTH2B"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/7bpslE0Bb4juoM1LiBml1U"
+    },
+    {
+      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/3Mtsz4nyzoHXxISBLzOB3Z"
       },
@@ -48463,7 +48565,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1"
@@ -56107,7 +56209,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 148124,
       "name": "The News",
       "url": "https://open.spotify.com/track/1Spod3yKAoenrvhOHKCSeU"
@@ -57771,7 +57873,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 97747,
       "name": "Train Tales",
       "url": "https://open.spotify.com/track/0QOwzo2WjLX7l30KMM9W9T"
@@ -62713,7 +62815,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 173813,
       "name": "Will They Try - Beat Edit",
       "url": "https://open.spotify.com/track/3WMn1mgvtbpRgGLaFV7ALi"

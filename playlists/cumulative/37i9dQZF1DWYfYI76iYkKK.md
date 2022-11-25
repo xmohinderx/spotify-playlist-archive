@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-171 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+172 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 | 2022-06-16 |  |
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
 | [Long Long Way](https://open.spotify.com/track/4HybKmCMLUaejSe7gXVtet) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 4:34 | 2022-08-11 | 2022-08-19 |
+| [Make Wish](https://open.spotify.com/track/5NClrn8SgIijP7znDJUld1) | [謝孟其](https://open.spotify.com/artist/0JINcCQEGV2Qzda5MfXZ9H) | [Make Wish](https://open.spotify.com/album/00ufstiEUpSdOKZQMigttd) | 3:29 | 2022-11-24 |  |
 | [Maybe It’s for the Best](https://open.spotify.com/track/0xUULqd08ANKwp1u7Fh6Oz) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [Nothing is Under Control](https://open.spotify.com/album/6t6g0WbY1pim62oRUmxF2D) | 3:40 | 2022-06-10 | 2022-07-11 |
 | [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 | 2022-09-08 | 2022-09-16 |
 | [Midnight Sun \- Acoustic](https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP) | [Brian Yoong](https://open.spotify.com/artist/4lH5eW1YgDycEJoI3LHt8R), [Joel](https://open.spotify.com/artist/15VtB8EsjO97HFzbDsW129) | [Midnight Sun \(Acoustic\)](https://open.spotify.com/album/2oZbwitCD52R9ffOJN5xOe) | 4:01 | 2022-06-27 | 2022-07-01 |
@@ -146,7 +147,7 @@
 | [給妳們](https://open.spotify.com/track/5Yy7ly2otpGZmEDNKgMFpK) | [Wanfang](https://open.spotify.com/artist/468BFRg8N0wGREo2L4TXZp) | [給妳們](https://open.spotify.com/album/1oPz4gbvtkJDVLU8gnY5n9) | 3:55 | 2022-06-30 | 2022-07-08 |
 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-06-02 |  |
 | [老人與海](https://open.spotify.com/track/0f3cZB6WJ6ST9JuiDRs21x) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [老人與海](https://open.spotify.com/album/6IE5rzJKHQngovAbuda82F) | 3:12 | 2022-09-08 |  |
-| [聊聊天](https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 3:27 | 2022-06-16 |  |
+| [聊聊天](https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 3:27 | 2022-06-16 | 2022-11-25 |
 | [致。青春 \- 不插電版](https://open.spotify.com/track/69AwI75lGm1Dza1DosVPrs) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [致。青春 \(不插電版\)](https://open.spotify.com/album/6fZRxLirdn8mxNPS8SrwDR) | 5:12 | 2022-07-15 | 2022-07-19 |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2022-06-02 | 2022-07-29 |
 | [蒸發](https://open.spotify.com/track/0doFLlLPoWhtuoQnLnKe0s) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [在遊蕩的路上學會寬容](https://open.spotify.com/album/4vmXlNwuxCsEZFFrq1V1A3) | 5:49 | 2022-11-10 | 2022-11-18 |

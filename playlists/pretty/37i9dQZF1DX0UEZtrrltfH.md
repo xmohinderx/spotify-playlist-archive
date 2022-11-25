@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,935 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,980 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 22 | [Cinderella](https://open.spotify.com/track/00I1QKvKaAikK5joEW92Zd) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:05 |
 | 23 | [My Purple iPod Nano](https://open.spotify.com/track/0Zp9bIm1BeIyFiYNAof3Sm) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn) | 6:52 |
 | 24 | [I Remember \- Radio Edit](https://open.spotify.com/track/0y8EUU2h9emwmuyLQyQWZP) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/5lLoN1Gu1YleKyPm3xyFAj) | 3:20 |
-| 25 | [Cinema](https://open.spotify.com/track/7lpcsfhzWhzbBjg3QopQYb) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/59qMNeLYyUvxNBO3hXgtE5) | 2:06 |
+| 25 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
 | 26 | [Jam \(Turn It Up\)](https://open.spotify.com/track/6slnz0q9Peo9Pnok7U51so) | [Kim Kardashian](https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt) | [Jam \(Turn It Up\)](https://open.spotify.com/album/2JQLszU7O0xO0CY66mPkwf) | 4:35 |
 | 27 | [gloves](https://open.spotify.com/track/3jYmmtCLIHhBFssuyefhqR) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [gloves](https://open.spotify.com/album/2JrP8q7L4HaN8ql2MaehFx) | 3:30 |
 | 28 | [In Your Eyes](https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:17 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk4NTYwMTdjNTk1NjM4ODhjMzQ2YTMxYzdmYTIyYjFk`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk5ZjA5MjVmZGRmN2ZiZmQ4NzExZTYwZjBjNGYxZDky`

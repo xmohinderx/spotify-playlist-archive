@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7172255,
+  "num_followers": 7177250,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzMzUyNCwwMDAwMDAwMDEwNDMyOWVkZjZjZDU1OTQzNzE2OGQ2ODA1NDBmY2Y3",
+  "snapshot_id": "MTY2OTAzMzUyNCwwMDAwMDAwMDcyM2E2ZWIyMTMyY2Q0Y2MzZWRlNGY1YzNjZGIxMTRh",
   "tracks": [
     {
       "added_at": "2022-10-13 11:25:52",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ms. Fat Booty",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
+    },
+    {
+      "added_at": "2022-10-13 11:25:52",
+      "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2022-10-13 11:25:52",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ms. Fat Booty",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
       "added_at": "2022-10-13 11:25:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
-      },
-      "artists": [
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "When I B On Tha Mic",
-      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
-    },
-    {
-      "added_at": "2022-10-13 11:25:52",
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
-        "name": "Simon Says",
-        "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
       },
       "artists": [
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
-      "duration_ms": 173159,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
+      "duration_ms": 222933,
+      "name": "When I B On Tha Mic",
+      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
     },
     {
       "added_at": "2022-10-13 11:25:52",
@@ -1435,6 +1419,22 @@
       "duration_ms": 212760,
       "name": "Feel Me Flow",
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+    },
+    {
+      "added_at": "2022-10-13 11:25:52",
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 173159,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
     },
     {
       "added_at": "2022-10-13 11:25:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
-        "name": "Whut? Thee Album",
-        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Tonight's Da Night",
-      "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
-    },
-    {
-      "added_at": "2022-10-13 11:25:52",
-      "album": {
         "name": "Naughty By Nature",
         "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 271066,
       "name": "O.P.P",
       "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
+    },
+    {
+      "added_at": "2022-10-13 11:25:52",
+      "album": {
+        "name": "Whut? Thee Album",
+        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Tonight's Da Night",
+      "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
     },
     {
       "added_at": "2022-10-13 11:25:52",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
-        "name": "Gettin' It (Album Number Ten)",
-        "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        },
-        {
-          "name": "Parliament Funkadelic",
-          "url": "https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Gettin' It (feat. Parliament Funkadelic)",
-      "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
-    },
-    {
-      "added_at": "2022-10-13 11:25:52",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2022-10-13 11:25:52",
+      "album": {
+        "name": "Gettin' It (Album Number Ten)",
+        "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "Parliament Funkadelic",
+          "url": "https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Gettin' It (feat. Parliament Funkadelic)",
+      "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
     },
     {
       "added_at": "2022-10-13 11:25:52",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-10-13 11:25:52",
       "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
-    },
-    {
-      "added_at": "2022-10-13 11:25:52",
-      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 242573,
       "name": "Just Don't Give A Fuck",
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+    },
+    {
+      "added_at": "2022-10-13 11:25:52",
+      "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
     },
     {
       "added_at": "2022-10-13 11:25:52",

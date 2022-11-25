@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-193 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+194 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Could Have Been Me](https://open.spotify.com/track/16nCYYc1lCxCyvaR1lgo0i) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:28 | 2022-03-25 |  |
 | [Crazy Family \- From "The Addams Family 2"](https://open.spotify.com/track/6Qnhr1JQ1PfKWVT3MmqS6k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [Crazy Family \(From "The Addams Family 2"\)](https://open.spotify.com/album/3N0Za4kqBaFacLub1mvrtR) | 2:28 | 2022-03-25 |  |
 | [Crowd Go Crazy](https://open.spotify.com/track/0W58ZzQFWaZgRkKIbSFjde) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:00 | 2022-03-25 |  |
-| [D.R.E.A.M\. \- J Team Edition](https://open.spotify.com/track/5QDJnVgUc7YFMnL8JGrglr) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:42 | 2022-03-25 |  |
+| [D.R.E.A.M\. \- J Team Edition](https://open.spotify.com/track/00uz4t8WwLTXIRZep9tgJx) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:42 | 2022-03-25 |  |
+| [D.R.E.A.M\. \- J Team Edition](https://open.spotify.com/track/5QDJnVgUc7YFMnL8JGrglr) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:42 | 2022-03-25 | 2022-11-25 |
 | [D.R.E.A.M\. \- J Team Edition](https://open.spotify.com/track/5nKU5CGcmR9nlz5CEGT1Ef) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:42 | 2022-03-25 | 2022-10-13 |
 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2) | 3:43 | 2022-03-25 |  |
 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 | 2022-03-25 |  |

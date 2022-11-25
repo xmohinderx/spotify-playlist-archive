@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Tennis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,685 likes - 199 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,099 likes - 199 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 182 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 |
 | 183 | [heaven](https://open.spotify.com/track/5C1fqZBORhw6rLvqG0dDdp) | [niceboy ed](https://open.spotify.com/artist/72IB1qSk51wyeLceXNypqR) | [heaven](https://open.spotify.com/album/6xaNWA10SHWyjzBese8dEI) | 2:34 |
 | 184 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 |
-| 185 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
+| 185 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
 | 186 | [Never Gonna Change](https://open.spotify.com/track/3F8xxwdpfi50qEuHn6rrNH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Never Gonna Change](https://open.spotify.com/album/1kfPbv9rWWhaHV2cAivjiN) | 3:38 |
 | 187 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 188 | [One Night](https://open.spotify.com/track/5ZxhHEdMDGitVjy53Cm3Pp) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:49 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [Touchdown](https://open.spotify.com/track/6kqbiPlctyDu20K8juNgd1) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Please Have A Seat](https://open.spotify.com/album/1yBhhNIe3FKYZA8J3ds0vf) | 2:09 |
 | 199 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGQ4NDQxZjUxYTk2NTVkZDJkZWE5NzRjNjk3NDk5ODg3`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDkwNTJlZWFjYmUwM2VhYjgzNjViNGM2NmNhOGNiMDE5`

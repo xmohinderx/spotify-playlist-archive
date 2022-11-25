@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-126 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+127 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2022-11-16 |  |
 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 | 2022-04-26 |  |
 | [Búzios](https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 4:44 | 2022-04-26 |  |
+| [Calmaria](https://open.spotify.com/track/15FJtMcEK4SoZC1mVxuQ55) | [Newton Bossa Trio](https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX) | [Calmaria](https://open.spotify.com/album/10buLmtbI3B527DorE20FJ) | 5:22 | 2022-11-24 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2022-09-20 |  |
 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 | 2022-04-26 |  |
 | [Cascata](https://open.spotify.com/track/38QZjaaJwTLwEpSjF5nVXY) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Samba Rio](https://open.spotify.com/album/4hivZfrUKVeLoNMKDTGfoG) | 3:40 | 2022-04-26 |  |

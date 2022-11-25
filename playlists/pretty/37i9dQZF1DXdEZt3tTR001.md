@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,311 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,581 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 25 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 26 | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 |
 | 27 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
-| 28 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 |
-| 29 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
+| 28 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
+| 29 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 |
 | 30 | [This Woman's Work \- Remastered 2021](https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:00 |
 | 31 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 32 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 46 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 47 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 |
 | 48 | [How Could I Forget You](https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [How Could I Forget You](https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy) | 3:34 |
-| 49 | [3 Hour Drive \(feat\. Sampha\)](https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:01 |
-| 50 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
+| 49 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
+| 50 | [3 Hour Drive \(feat\. Sampha\)](https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:01 |
 | 51 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 | 52 | [Falling Higher](https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:18 |
 | 53 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [Communication](https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Communication](https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU) | 3:36 |
 | 70 | [Stay Up](https://open.spotify.com/track/2gPkEjYP9glmmjYOTw6dzN) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Intérimes](https://open.spotify.com/album/4Mbg7s2CRkw2AZa6V0gYXt) | 3:29 |
 
-Snapshot ID: `MTY2ODU2MDYzNywwMDAwMDAwMDEyOTA0OTM2M2FmMThiYmQ1MjAyYzAwYjI3OTljZTU1`
+Snapshot ID: `MTY2ODU2MDYzNywwMDAwMDAwMDBjZmE3NGZhNjg1ZTRhNDkwZTY1MGQ1YjY2NjRmYmFl`

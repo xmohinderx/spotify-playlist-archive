@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,494 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,618 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 77 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
 | 78 | [Good Vibes](https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Good Vibes](https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7) | 3:55 |
 | 79 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
-| 80 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
-| 81 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 80 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 81 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
 | 82 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 83 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
 | 84 | [C14TORCE III](https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE III](https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 | 100 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
 
-Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMGJlNzBlNWRkNjViMzcxNWQwYWY5MjM5YTJmM2ZhNTU4`
+Snapshot ID: `MTY2MzU5OTU2NywwMDAwMDAwMGMyZjRlNzA5YWMyZjQzNTY1MjU5M2I4MWNhOGExZDlk`

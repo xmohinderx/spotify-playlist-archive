@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-500 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+501 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,8 @@
 | [Boy 1904](https://open.spotify.com/track/44XF19WDSmEgCq1IuW2NmA) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7geaPgu6PxeEyhBOa20ajZ) | 5:03 | 2019-05-26\* | 2019-06-27 |
 | [Branch](https://open.spotify.com/track/2Sd7KgjJDMc7vhDe64nBpi) | [Keith Keniff](https://open.spotify.com/artist/2X8UJm1TVQT3Nl6kUMYyoq), [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG) | [Branches](https://open.spotify.com/album/4IbKXPIjP2Okg0Php81yFN) | 2:05 | 2019-05-26\* | 2020-08-07 |
 | [Branches And Constellations](https://open.spotify.com/track/6fD08OgJKEiviZ1R3h8SK8) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons Pt\. 3](https://open.spotify.com/album/7yaSxLY5uwMkpFc5CdZeur) | 6:27 | 2019-05-26\* | 2019-06-19 |
+| [Breathe](https://open.spotify.com/track/1ubCPXu6jZQJfttzO9APUB) | [Night Songs](https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF) | [Breathe](https://open.spotify.com/album/4eOkrdd40DYCPD1JCZxiE1) | 2:40 | 2022-05-19 |  |
 | [Breathe](https://open.spotify.com/track/3aJag451WnwJY280pZecbt) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Breathe](https://open.spotify.com/album/4UPZC7MdbrN4Xo20amcPPH) | 4:13 | 2019-06-19\* | 2020-01-09 |
-| [Breathe](https://open.spotify.com/track/1ubCPXu6jZQJfttzO9APUB) | [Sjöö](https://open.spotify.com/artist/4lutqwJj41iyKFuZwJ7WwH) | [Breathe](https://open.spotify.com/album/4eOkrdd40DYCPD1JCZxiE1) | 2:40 | 2022-05-19 |  |
 | [Breathing Like the Pastures](https://open.spotify.com/track/3KumNG1cPv2wf7R7t4Hm0V) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:41 | 2019-07-31 | 2021-10-21 |
 | [Bsmnt](https://open.spotify.com/track/2APM7QHU3UqgBjrzoeU9nm) | [kwajbasket](https://open.spotify.com/artist/33Ce3TUIc2sa9ZsGXbj6dZ) | [Aftrthghts](https://open.spotify.com/album/2zfDqAq5AT77fZBJNnz6Dp) | 5:42 | 2021-05-06 | 2021-09-03 |
 | [Bull’s Eye](https://open.spotify.com/track/21gBsNMebPvrZ6jAD0FLBN) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Bull’s Eye](https://open.spotify.com/album/7IPXNsZzeMWkgEAAOlGF3K) | 2:30 | 2022-01-28 |  |
@@ -283,6 +283,7 @@
 | [Montana](https://open.spotify.com/track/1EyctTkkGJVS3UYTuy8YZM) | [Le Verne](https://open.spotify.com/artist/5PrwBUjXfgLL5mJhEm3FKi) | [Montana](https://open.spotify.com/album/4IMsm84cwcYyR2iPOR6TMk) | 2:13 | 2019-06-27 | 2021-11-19 |
 | [Monumental](https://open.spotify.com/track/6CKu6K0xvozAgFlQq44Z56) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Monumental](https://open.spotify.com/album/2tOaZ6dOyRArPGhwiLEklp) | 3:15 | 2020-04-13 | 2021-09-04 |
 | [Morning Shimmer](https://open.spotify.com/track/24PDuLZfLOKtAgh4axr36e) | [Vochey](https://open.spotify.com/artist/02z03d6JvUT8uGF4ssw7B9) | [Morning Shimmer](https://open.spotify.com/album/7rbsoxzqDo2WOb9qcFWDYI) | 3:38 | 2020-06-19 | 2021-10-21 |
+| [Morpheus](https://open.spotify.com/track/580SKYBPZ2vQQRcQogBF9N) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Morpheus](https://open.spotify.com/album/3M6sHM9IIVwWUfCWeZ2O2m) | 1:44 | 2022-11-24 |  |
 | [Morro Bay](https://open.spotify.com/track/5sBPYOkp1YgCo5GGHBNWqG) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Morro Bay](https://open.spotify.com/album/7iHNARtyM1HRgTXKsuIQWK) | 3:12 | 2019-06-19\* | 2021-09-14 |
 | [Mount Soul](https://open.spotify.com/track/5M2Tj8w6F5dYuCeakcwZ9D) | [Nova Explora](https://open.spotify.com/artist/4GRyo16j0MxwX8OrJ3k1bl) | [Mount Soul](https://open.spotify.com/album/2uH2pDawJtIGnS9A0nZC8W) | 2:27 | 2021-12-22 |  |
 | [My World Is Changing](https://open.spotify.com/track/3tlfW4oTd2nNQVD6SNMc91) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [My World Is Changing](https://open.spotify.com/album/4cugHOMPDn5NlDijNiSXCf) | 2:51 | 2019-06-19\* | 2021-09-14 |
@@ -440,7 +441,7 @@
 | [Then the Quiet Explosion](https://open.spotify.com/track/4Eo2MHTPX1YiVwVxOiLvXT) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/5hLudhloZ4Nni0AiZQrPfl) | 6:43 | 2019-05-26\* | 2019-06-19 |
 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2019-09-14 | 2019-12-31 |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2019-05-26\* | 2019-08-13 |
-| [they sink](https://open.spotify.com/track/4tnWEXeAgZWTRULCkJ6IGL) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:35 | 2019-06-19\* |  |
+| [they sink](https://open.spotify.com/track/4tnWEXeAgZWTRULCkJ6IGL) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:35 | 2019-06-19\* | 2022-11-25 |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-06-19 |
 | [Thunder Rising](https://open.spotify.com/track/6ssI2e4kR5YA78MRoeskKS) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Thunder Rising](https://open.spotify.com/album/6Tcoj33aj1RyF7w8IV4Rvk) | 5:46 | 2019-06-19\* | 2019-06-27 |
 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 | 2022-11-18 |  |

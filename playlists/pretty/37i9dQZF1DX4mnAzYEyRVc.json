@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 20493,
+  "num_followers": 20578,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMGUzMDRkZDkzNjExMTc3NWVjM2U4ZTYyMDhiMzFiNmYy",
+  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDQ4ZjI5NGRmNWJiMzFmMWI0Mzk3YWFkZWFlOTEwNGUy",
   "tracks": [
     {
       "added_at": "2022-08-01 20:17:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+      "duration_ms": 224813,
+      "name": "Tu Que Pediras",
+      "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 224813,
-      "name": "Tu Que Pediras",
-      "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
     },
     {
-      "added_at": "2022-07-01 02:45:41",
-      "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "In The Mirror",
-      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
-    },
-    {
       "added_at": "2021-12-06 21:30:06",
       "album": {
         "name": "Yours Truly (Deluxe Edition)",
@@ -1211,6 +1195,22 @@
       "duration_ms": 232813,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo"
+    },
+    {
+      "added_at": "2022-07-01 02:45:41",
+      "album": {
+        "name": "In The Wild",
+        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "In The Mirror",
+      "url": "https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "A Frontline Compilation",
-        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Sarri, Sarri",
-      "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Kembali Berdansa",
         "url": "https://open.spotify.com/album/5s4ftdrs5SQ8FbcPpDIlZL"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 201200,
       "name": "Kembali Berdansa",
       "url": "https://open.spotify.com/track/2wUEPtqTxvWF0RlXpdi8b7"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "A Frontline Compilation",
+        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Sarri, Sarri",
+      "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Mierda De Ciudad",
-      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "El Precio del Sudor",
         "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 164186,
       "name": "Somos del Barrio",
       "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Mierda De Ciudad",
+      "url": "https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1663,22 +1663,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
       "artists": [
         {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         },
         {
-          "name": "Banda Bast\u00f3n",
-          "url": "https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a"
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
         }
       ],
-      "duration_ms": 197586,
-      "name": "No Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
+      "duration_ms": 219320,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Latin Ska Force",
-        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
       "artists": [
         {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
         },
         {
-          "name": "Salvador Moreno",
-          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
+          "name": "Banda Bast\u00f3n",
+          "url": "https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Labios Rojos",
-      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
+      "duration_ms": 197586,
+      "name": "No Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Reggae Hit L.A.",
-        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
-      },
-      "artists": [
-        {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Reggae Hit L.A.",
+        "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "1997-2002",
-        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Jaia",
-      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Mambo Ska",
         "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 171173,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "1997-2002",
+        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Jaia",
+      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Mi Vida En Otro Lado",
         "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 249800,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 148026,
       "name": "The 11th Hour",
       "url": "https://open.spotify.com/track/4ql37DQAaODZv76OjGe6cb"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 146452,
-      "name": "Puto Alcohol",
-      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
+      "duration_ms": 160586,
+      "name": "Oi To The World",
+      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 160586,
-      "name": "Oi To The World",
-      "url": "https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2"
+      "duration_ms": 146452,
+      "name": "Puto Alcohol",
+      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Latin Ska",
         "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 194413,
       "name": "Latin Ska",
       "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2627,18 +2627,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
       },
       "artists": [
         {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
         }
       ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+      "duration_ms": 205120,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2655,6 +2655,22 @@
       "duration_ms": 132146,
       "name": "Nana Punk",
       "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2679,38 +2695,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "K\u00f6pfer",
-        "url": "https://open.spotify.com/album/3CBKFNBLH5Hu3YQc3FIUI3"
-      },
-      "artists": [
-        {
-          "name": "Rantanplan",
-          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
-        }
-      ],
-      "duration_ms": 142746,
-      "name": "Unbekanntes Pferd",
-      "url": "https://open.spotify.com/track/3ZdGKlRg1491PKPFkAEBph"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Here in The Heights",
         "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 223347,
       "name": "Cali",
       "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "K\u00f6pfer",
+        "url": "https://open.spotify.com/album/3CBKFNBLH5Hu3YQc3FIUI3"
+      },
+      "artists": [
+        {
+          "name": "Rantanplan",
+          "url": "https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "Unbekanntes Pferd",
+      "url": "https://open.spotify.com/track/3ZdGKlRg1491PKPFkAEBph"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2903,6 +2903,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Nightfood Ina Party Time",
+        "url": "https://open.spotify.com/album/0OFYUg9St5uUcg9cTl2UXn"
+      },
+      "artists": [
+        {
+          "name": "The Heptones",
+          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
+        }
+      ],
+      "duration_ms": 284893,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/1saHtxaqY3zZBRzvILJpkd"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Reggae Greats - Toots & The Maytals",
         "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
       },
@@ -2935,22 +2951,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Nightfood Ina Party Time",
-        "url": "https://open.spotify.com/album/0OFYUg9St5uUcg9cTl2UXn"
-      },
-      "artists": [
-        {
-          "name": "The Heptones",
-          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
-        }
-      ],
-      "duration_ms": 284893,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/1saHtxaqY3zZBRzvILJpkd"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Soul Gedes",
         "url": "https://open.spotify.com/album/25HMUYWHdAnIwr5HIcs7NB"
       },
@@ -2963,6 +2963,22 @@
       "duration_ms": 141040,
       "name": "Carta de Amor",
       "url": "https://open.spotify.com/track/72ywCCatDWFs4blSmmWUgr"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "La \u00daltimo Carta",
+      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3003,22 +3019,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La \u00daltimo Carta",
-      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Tiempos Extras",
         "url": "https://open.spotify.com/album/1w8aDZJmomYGfae6kKZasy"
       },
@@ -3047,22 +3047,6 @@
       "duration_ms": 266386,
       "name": "Murdera",
       "url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Too Much Pressure",
-        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Three Minute Hero",
-      "url": "https://open.spotify.com/track/3iWEwCUX3OrJkHmadDCNgC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3099,6 +3083,22 @@
       "duration_ms": 250986,
       "name": "Funky Fire",
       "url": "https://open.spotify.com/track/23ocdrkMsbIT8Y5zYYFGLR"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Too Much Pressure",
+        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Three Minute Hero",
+      "url": "https://open.spotify.com/track/3iWEwCUX3OrJkHmadDCNgC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Einmal Ska Und Zur\u00fcck",
-        "url": "https://open.spotify.com/album/0GFUBQQWm7AAlcoqZa501d"
-      },
-      "artists": [
-        {
-          "name": "The Skatoons",
-          "url": "https://open.spotify.com/artist/5zoSNU9VQp8qDCUkNkSdmH"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Kotzen",
-      "url": "https://open.spotify.com/track/6UNf12sZXLcvQUbNpyfKHd"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "De Ke Manera te Olvido... Chimol!!",
         "url": "https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 215320,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Einmal Ska Und Zur\u00fcck",
+        "url": "https://open.spotify.com/album/0GFUBQQWm7AAlcoqZa501d"
+      },
+      "artists": [
+        {
+          "name": "The Skatoons",
+          "url": "https://open.spotify.com/artist/5zoSNU9VQp8qDCUkNkSdmH"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Kotzen",
+      "url": "https://open.spotify.com/track/6UNf12sZXLcvQUbNpyfKHd"
     },
     {
       "added_at": "2021-12-06 21:30:06",

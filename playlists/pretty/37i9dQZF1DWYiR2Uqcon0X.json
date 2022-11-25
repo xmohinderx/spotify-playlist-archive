@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 695252,
+  "num_followers": 695561,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMGU5YWRiZDhkYTZiM2E4Yzk2NzIxNmYyN2UzODIwYmEz",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDc0ZTAxYWNiOTY0M2MxOTJlYzhjZjJkZWNiNTQzNTIy",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Johnny Cash: Forever Words Expanded",
         "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Find Me Here - Broke Down",
+      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Find Me Here - Broke Down",
-      "url": "https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Without A Word",
         "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 171982,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
       "artists": [
         {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1199,6 +1183,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2022-10-12 19:05:09",

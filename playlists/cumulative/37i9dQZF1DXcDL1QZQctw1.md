@@ -4,7 +4,7 @@
 
 > Relaxing jazz music for meditation.
 
-61 songs - 3 hr 37 min - not published yet
+62 songs - 3 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-10-27 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-10-27 |  |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-10-27 |  |
+| [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Elise](https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Elise](https://open.spotify.com/album/08S5BBeRD6SNzKATObz1Hm) | 2:49 | 2022-10-27 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2022-10-27 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2022-10-27 |  |
@@ -41,10 +42,10 @@
 | [Lady Bird](https://open.spotify.com/track/4HbWMOjpKwELFft5e0010n) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 1:53 | 2022-10-27 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-10-27 |  |
 | [Misty](https://open.spotify.com/track/5pvAVftGdAAJokmic99YhG) | [Joakim Holgersson](https://open.spotify.com/artist/41ljvODEmelX8uWXuvPHnQ) | [Misty](https://open.spotify.com/album/5mpAWAGv7jw5sxtFYJaHZh) | 3:32 | 2022-11-10 |  |
-| [Moon River](https://open.spotify.com/track/56HXBWNHzMHHpY2ye7BnWU) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:53 | 2022-10-27 |  |
+| [Moon River](https://open.spotify.com/track/56HXBWNHzMHHpY2ye7BnWU) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:53 | 2022-10-27 | 2022-11-25 |
 | [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2022-10-27 |  |
 | [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2022-10-27 |  |
-| [My Wild Irish Rose](https://open.spotify.com/track/4LMG8I9yLA2NoyxeXDM38d) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:15 | 2022-10-27 |  |
+| [My Wild Irish Rose](https://open.spotify.com/track/4LMG8I9yLA2NoyxeXDM38d) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:15 | 2022-10-27 | 2022-11-25 |
 | [Night And Day](https://open.spotify.com/track/3zd6DRIYrcH8OIn4fcim8k) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Night And Day](https://open.spotify.com/album/7MSOiBvqEcXe549Nq6eKG0) | 3:57 | 2022-11-10 |  |
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2022-10-27 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-10-27 |  |

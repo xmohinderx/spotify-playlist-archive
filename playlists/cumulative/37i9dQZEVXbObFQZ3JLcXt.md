@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-345 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+346 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-05-29 | 2022-08-17 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-07 | 2022-08-14 |
 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 | 2022-08-13 |  |
-| [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-02-26 |  |
+| [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-02-26 | 2022-11-25 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-16 |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-05-12 | 2021-08-01 |
 | [Hujan](https://open.spotify.com/track/5QJANaK8ZlzI8ftloDM0We) | [Jourdy Pranata](https://open.spotify.com/artist/1hGg2T9OelLnkczhCqmPve) | [Hujan](https://open.spotify.com/album/34Wh0Ff41ceA0tCJFQFSan) | 1:29 | 2022-03-18 | 2022-04-08 |
@@ -290,6 +290,7 @@
 | [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-11-19 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2022-06-21 |  |
 | [Seperti Kisah](https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/1uKJZkkuqBuxDx4KimobBZ) | 4:39 | 2022-06-26 | 2022-09-18 |
+| [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 | 2022-11-24 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-10-23 | 2021-10-24 |
 | [Shouldn't Be](https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/5PsKfMP5ISDmpr4iKhchmO) | 3:30 | 2021-12-18 | 2022-01-27 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-11-22 |

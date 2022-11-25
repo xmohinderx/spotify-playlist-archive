@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,147 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,151 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 58 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 59 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 60 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 61 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz) | 9:25 |
-| 62 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
+| 61 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
+| 62 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz) | 9:25 |
 | 63 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
 | 64 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 |
 | 65 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 74 | [So Good](https://open.spotify.com/track/5FFRJRkI4aJ63CxI2KCoeN) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [So Good](https://open.spotify.com/album/0pzNooasslThzBqmdVlqR4) | 3:11 |
 | 75 | [Silver Moon](https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi) | [Eric Alexandrakis](https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc) | [Silver Moon \- Single](https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0) | 3:57 |
 
-Snapshot ID: `MTY2OTI0MzUzMSwwMDAwMDAwMDZhODU3NjYxYTQ1OWZhMmE0ZjA0MDk4YTI2NDM0ZWVk`
+Snapshot ID: `MTY2OTI0MzUzMSwwMDAwMDAwMGIwN2FkODY3OTBiODY3ZTdlZmI0MmQ4OGM0NWY4ZmEw`

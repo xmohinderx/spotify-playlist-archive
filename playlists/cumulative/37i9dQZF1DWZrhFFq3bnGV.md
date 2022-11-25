@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Rafi Muhammad
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Andre Dinuth
 
-80 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+81 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [A Little Girl](https://open.spotify.com/track/19t8VlFHLBQDhRm1XUW1Bj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK), [Ya\-Jung Chuang](https://open.spotify.com/artist/22elsMZ28pLrqEUVnpV2Yp) | [A Little Girl](https://open.spotify.com/album/2frAcSFieqCTgqF0cYZ20J) | 3:26 | 2022-09-02 |  |
 | [Affirmation \- Studio Version Radio Edit](https://open.spotify.com/track/5T51qyxzXcjClnLStmoyFW) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Affirmation](https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP) | 3:29 | 2022-09-02 |  |
 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 | 2022-09-02 |  |
-| [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 |  |
+| [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
+| [ATARAXIA](https://open.spotify.com/track/0DP0HQi7iQza3HlVaWcgCV) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [ATARAXIA](https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN) | 4:43 | 2022-11-24 |  |
 | [Autumn](https://open.spotify.com/track/0iua6kaiZlwKQsQ0CQaLkg) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 3:17 | 2022-09-02 |  |
 | [Begini Cinta](https://open.spotify.com/track/7vCBnI93aQCdPJMqx5z6EU) | [Kaloka](https://open.spotify.com/artist/6nHMb25O7yt2syNMxygMTK) | [Begini Cinta](https://open.spotify.com/album/18KtHSEUWRj9q1NrAPr2G1) | 4:35 | 2022-09-02 |  |
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 |  |
@@ -26,7 +27,7 @@
 | [Destiny](https://open.spotify.com/track/7yQILsI0Spo3GJjMcgO4Zk) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF) | [Destiny](https://open.spotify.com/album/2HjCEHPpi6PGxEqbh0w4Mx) | 3:50 | 2022-09-02 |  |
 | [Di Pusat Jakarta](https://open.spotify.com/track/1nXD12slBGEda2af9gl84v) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/59bPqJysP1SflaDMCOOFhK) | 3:19 | 2022-09-02 |  |
 | [Dibatas Waktu](https://open.spotify.com/track/6i25UJEZmwdBjNq1Wq8rdQ) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu), [SNYW Big Band](https://open.spotify.com/artist/75JsmfNx2HLyDEqI558O8S) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:09 | 2022-09-02 |  |
-| [Don't Start Now](https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Don't Start Now](https://open.spotify.com/album/447GoOsDCUjZFN8Tvotgtf) | 3:20 | 2022-09-02 |  |
+| [Don't Start Now](https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Don't Start Now](https://open.spotify.com/album/447GoOsDCUjZFN8Tvotgtf) | 3:20 | 2022-09-02 | 2022-11-25 |
 | [Don't You Worry](https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN) | [Reggie Pryor](https://open.spotify.com/artist/6Qyyfa0rATJXEpCQcfDosZ), [Jeremy Monteiro](https://open.spotify.com/artist/6k5z740XzUQCbtToofslkV) | [Don't You Worry](https://open.spotify.com/album/1aWfATwUsPr6m9QWpvHtc0) | 2:57 | 2022-09-02 |  |
 | [Euphoria](https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [EUPHORIA](https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X) | 4:02 | 2022-09-02 |  |
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 |  |

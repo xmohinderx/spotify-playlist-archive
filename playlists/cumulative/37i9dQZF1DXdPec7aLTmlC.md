@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-704 songs - 1 day 13 hr 29 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
+705 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [I Forgot That You Existed](https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:50 | 2019-10-01 |  |
 | [I Found You](https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [I Found You](https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ) | 2:47 | 2020-03-26 | 2022-07-29 |
 | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [I Found You \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb) | 2:32 | 2021-10-13 | 2022-04-21 |
-| [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-26 |  |
+| [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-26 | 2022-11-25 |
 | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [I Just Wanna \(feat\. Bow Anderson\)](https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS) | 2:39 | 2020-12-11 | 2021-01-15 |
 | [I Love Me](https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Love Me](https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH) | 3:23 | 2020-03-11 | 2022-04-20 |
 | [I Love My Friends \(feat\. Icona Pop\)](https://open.spotify.com/track/3StoIJo6WuoEwJzvImBZr2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Neon Future IV](https://open.spotify.com/album/5WV9e262b5xnFNiHZVSWif) | 3:05 | 2020-06-12 | 2020-06-19 |
@@ -399,6 +399,7 @@
 | [Lovers For The Weekend](https://open.spotify.com/track/7FvfODgUxsxQNDaYDEboIL) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Lovers For The Weekend](https://open.spotify.com/album/6gMlVQ70OywEXRg9QXh5qz) | 2:50 | 2020-06-12 | 2021-01-15 |
 | [Lush Life](https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life](https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG) | 3:21 | 2019-10-23 | 2019-10-24 |
 | [Mad Love](https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love](https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0) | 2:49 | 2019-06-21 | 2019-09-13 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-25 |  |
 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 | 2020-06-12 |  |
 | [Make You Feel Like](https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Make You Feel Like](https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU) | 3:07 | 2019-07-09 | 2020-01-04 |
 | [Mama](https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama](https://open.spotify.com/album/1PJTxJTsQxGT7KTY8gBfR7) | 3:04 | 2019-10-22 | 2019-12-31 |

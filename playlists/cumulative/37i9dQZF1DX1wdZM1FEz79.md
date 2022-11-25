@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Lucid Fall\(루시드폴\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: J Rabbit\(제이레빗\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-419 songs - 1 day 1 hr 0 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+420 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 | 2022-04-19 |
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-12-10 | 2022-04-08 |
+| [Dozy Dozy](https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [RESTORE : A](https://open.spotify.com/album/6DFNZmHSfrwN8vdaJWPnaB) | 4:47 | 2022-11-25 |  |
 | [Drawing](https://open.spotify.com/track/7ykvewPaJOFaFesFDtUO7N) | [Kang Jeonhan](https://open.spotify.com/artist/3mWjp3jzaJVV6gHbrUNMXz) | [Drawing](https://open.spotify.com/album/01mxZOqvTAB7OCvO997KQQ) | 4:14 | 2022-03-31 | 2022-04-20 |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-18 |  |
 | [Drunken](https://open.spotify.com/track/3GcEMGUEQrlqmaU05X0Mdh) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [\#10](https://open.spotify.com/album/5PcKDTett30v0zZfO7nF5E) | 5:25 | 2022-04-12 | 2022-04-18 |
@@ -278,7 +279,7 @@
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 |  |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |
-| [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 |  |
+| [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 | 2022-11-25 |
 | [Sappy Love Song](https://open.spotify.com/track/003Z3hDiS7KMpstUZDVBVF) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Sappy Love Song](https://open.spotify.com/album/32V0RRuEcdnpY1DL1ln5iT) | 3:18 | 2021-12-10 | 2022-04-10 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2021-12-10 | 2022-07-27 |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |

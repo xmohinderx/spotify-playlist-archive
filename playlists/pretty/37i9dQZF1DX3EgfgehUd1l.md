@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,226 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,317 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 27 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
 | 28 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
 | 29 | [Born Too Late](https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ) | [The Poni\-Tails](https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN) | [Born Too Late](https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og) | 2:19 |
-| 30 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
+| 30 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 31 | [Stupid Cupid](https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:13 |
-| 32 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
-| 33 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
+| 32 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
+| 33 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
 | 34 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 | 35 | [Love Is A Many\-Splendored Thing](https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:59 |
 | 36 | [Mambo Italiano \(with The Mellomen\) \- 78rpm Version](https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:29 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 54 | [Love And Marriage](https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:38 |
 | 55 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
 | 56 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
-| 57 | [When](https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp) | [Kalin Twins](https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH) | [The Kalin Twins](https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE) | 2:26 |
-| 58 | [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 |
+| 57 | [A Tear Fell](https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [A Sweet Old\-Fashioned Girl](https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh) | 2:36 |
+| 58 | [When](https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp) | [Kalin Twins](https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH) | [The Kalin Twins](https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE) | 2:26 |
 | 59 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
 | 60 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 |
 | 61 | [Whatever Will Be, Will Be \(Que Sera, Sera\) \- Single Version](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 |
 | 80 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
 
-Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDcyNTQ4YjRmZjU4NGFjMzI4ZmY2YjY1OWEzMzkyZjdk`
+Snapshot ID: `MTU5NDIyOTc2OCwwMDAwMDAwMDBhNjkyYzVmMTk1MzMyZDkxYjQ5NDllZWE5ZDVjYjdk`

@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> só hit bombado e viralizado na net! confia
+> i only speak pru pru pru pru pru pru pru pru pru🇧🇷🇧🇷🇧🇷🇧🇷
 
-172 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+173 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chama o Coveiro](https://open.spotify.com/track/2ErR4TJGUg3pRZZpUmWhiB) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Chama o Coveiro](https://open.spotify.com/album/77x3mlbs3y3E6wR7OzygYk) | 2:09 | 2022-05-26 | 2022-09-22 |
 | [Conto do Pescador](https://open.spotify.com/track/1BzO0NHexP6WGxJq7nGhWz) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Conto do Pescador](https://open.spotify.com/album/4ATEbSNMgmLMXvdsmAhYnR) | 3:11 | 2022-05-26 | 2022-11-10 |
 | [Dangerous](https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Not 4 Sale](https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e) | 4:06 | 2022-05-26 | 2022-07-05 |
+| [Dança do Pombo \(The Pigeon's Dance\)](https://open.spotify.com/track/5oTX1rD4zw9GIkcE4Ye7D9) | [Mc Faísca e os Perseguidores](https://open.spotify.com/artist/4hU7ku38ByYhGbLqQBRFqg) | [Dança do Pombo \(The Pigeon's Dance\)](https://open.spotify.com/album/0HAuF52pdqyTihq9hs1THk) | 2:34 | 2022-11-24 |  |
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-05-26 |  |
 | [DE GLOCK RAJADA AQUI NO PPG](https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz) | [Mc Bocão Capixaba](https://open.spotify.com/artist/775iJyr1r8cC7zDyaADidj) | [DE GLOCK RAJADA AQUI NO PPG](https://open.spotify.com/album/5hrZRZMhgnl1TK1AqGHf47) | 1:01 | 2022-11-07 | 2022-11-23 |
 | [Dengo](https://open.spotify.com/track/2Udojaa4kCFg7vBbcIEzHK) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Dengo](https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu) | 3:34 | 2022-11-07 |  |

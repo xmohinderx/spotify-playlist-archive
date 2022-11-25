@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Discover fresh new Pakistani indie tracks\. Cover \- Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 26 | [Piya](https://open.spotify.com/track/3NMt80oryb67S2u2siw0Wm) | [Danish Faruqi](https://open.spotify.com/artist/4QhWLeCCm0gxHSs8iccOMe), [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Falling Into Place](https://open.spotify.com/album/6DPpPM97ENwbWiXk9Ns5Jp) | 2:46 |
 | 27 | [Runner Up](https://open.spotify.com/track/0yvp4CA25YyNBj6eTgk9Bk) | [Shaeel Abrar](https://open.spotify.com/artist/0UwNM0Hix0biVpO0YFQD6A) | [Runner Up](https://open.spotify.com/album/5TfDFOKjeaZE6QKpFQa58O) | 2:01 |
 | 28 | [Elevate](https://open.spotify.com/track/4LiopfA5WsPi11sDdr3fW9) | [ZAKII](https://open.spotify.com/artist/2CqpiCNyjpVFiZ76BWdKmK) | [Elevate](https://open.spotify.com/album/75syVWnO2T9a5dBnC7xXg0) | 2:46 |
-| 29 | [Back Home](https://open.spotify.com/track/3N3saLvD7TJrM8a6f0kGYo) | [Jalali](https://open.spotify.com/artist/6OOiiZG8tptDdUjddKlTTj), [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Jawad khan](https://open.spotify.com/artist/6dfp55dxSzll5WN1T7b0Gm) | [Back Home](https://open.spotify.com/album/2TIc1Wbo6vvSxTOcHdMlY7) | 2:20 |
+| 29 | [Back Home](https://open.spotify.com/track/3N3saLvD7TJrM8a6f0kGYo) | [Jalali malick](https://open.spotify.com/artist/2KCYfNI8rYQH0z71XPYS8k), [Jawad khan](https://open.spotify.com/artist/6dfp55dxSzll5WN1T7b0Gm) | [Back Home](https://open.spotify.com/album/2TIc1Wbo6vvSxTOcHdMlY7) | 2:20 |
 | 30 | [Yaar Mere](https://open.spotify.com/track/6N7N5fMR0YbDoax2TjpewC) | [Dr Taz Kahlon](https://open.spotify.com/artist/3q9K96bG6WTb0kUw8mGQes) | [Yaar Mere](https://open.spotify.com/album/4gXZlb42rofMbwHVDRfxeU) | 3:18 |
 | 31 | [Muraqba](https://open.spotify.com/track/2RG6HbsbmsA8S6o9e3cY9A) | [Philosopher](https://open.spotify.com/artist/48Yez6kXz9M9Y9clFgRyQx) | [Muraqba](https://open.spotify.com/album/69JyMFIdbsgzTuYEibqYKz) | 2:48 |
 | 32 | [Strange](https://open.spotify.com/track/19KPKhnXv14OPBY07wQ2N2) | [Sami Khan](https://open.spotify.com/artist/6O1dWqes1kBe1EdQOZE5an) | [Poison In My Coffee](https://open.spotify.com/album/3j7Ca7fEistWrpaTNqgDuv) | 3:31 |

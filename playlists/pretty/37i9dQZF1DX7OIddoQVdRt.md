@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,389 likes - 40 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,521 likes - 40 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 34 | [Won't Let Go](https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 3:58 |
 | 35 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 |
 | 36 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 |
-| 37 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
-| 38 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
+| 37 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 |
+| 38 | [Speechless](https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [Worship Soul](https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E) | 6:16 |
 | 39 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 40 | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF) | 3:40 |
 
-Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMGYwMWE4YmY4M2YxZWU2NGI1OTg3ODUxZGRlMWZjZDQ4`
+Snapshot ID: `MTYyNDYwNDA5OSwwMDAwMDAwMDMxNDI3ZWI1NjMwMWUxZTE0YzQ0MThjYmIwNTViY2Vm`

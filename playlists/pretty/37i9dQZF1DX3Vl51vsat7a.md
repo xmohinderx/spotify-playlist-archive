@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,379 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,400 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 24 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 |
 | 25 | [Bring The Good Mood Back](https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 |
 | 26 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 |
-| 27 | [Schnelle Brille](https://open.spotify.com/track/03oGcuku4n7Lq4NTCixgYn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:18 |
+| 27 | [Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/3Vfv4Tsz00SLGBmi0JTGyd) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:18 |
 | 28 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 |
 | 29 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 |
 | 30 | [Fucked Up.](https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Fucked Up.](https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Tut mir nicht leid](https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [M \(Extended\)](https://open.spotify.com/album/1AnZRh08V385fqDx1qw979) | 3:02 |
 | 60 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMGZjODJiOWRiOTg4YTI4ZGU4MzAxOTlhMzg1MGVjOTY5`
+Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDhkYzZlYWYyN2RkYmMyZmUxMTk1YzAwMjY3NDljNGQ5`

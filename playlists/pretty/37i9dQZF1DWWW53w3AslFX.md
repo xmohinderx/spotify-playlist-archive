@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,275 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,282 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 55 | [Lifetime](https://open.spotify.com/track/2u0AwpPXxQY2PJNvYGQYXQ) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lifetime](https://open.spotify.com/album/3X3lBxcaYEMEv0kjOQv9ht) | 5:08 |
 | 56 | [Weekend](https://open.spotify.com/track/5XyQPpTMFzzxB7R0Rpz1u3) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/6oJyvqAMhh4PL3ahlAPQ9f) | 3:26 |
 | 57 | [Die Distance](https://open.spotify.com/track/4gpmrcdIW76OyhtdzBYWe8) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Die Distance](https://open.spotify.com/album/558cUeJzOL02b1Cma9ODyg) | 3:19 |
-| 58 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 |
+| 58 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 |
 | 59 | [Don't Save Me](https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 3:50 |
 | 60 | [Gold](https://open.spotify.com/track/5wxlrzKPaXfVklZBHdc6mk) | [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Flashbacks & Futures](https://open.spotify.com/album/6SAXfaWasm91BBreJCxPcx) | 4:14 |
 | 61 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGYxNDUyZTc0ZjFkMGY5MGMyYjFjYmVmZThjOWQ2Zjkx`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGY0NzExNWJjMzI3NTU4M2VmY2VlNWY1YzliYmU4MGM1`

@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-289 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
+290 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blooming](https://open.spotify.com/track/73IZLLvCZMDUWfmqZaLwEs) | [Ras](https://open.spotify.com/artist/5TnsoFfpiysAT5wNBIxOOV), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Blooming](https://open.spotify.com/album/0FnsDf5MBFWjCfsrVHbVpW) | 2:08 | 2021-12-16 | 2022-07-19 |
 | [Blue In Green](https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2) | [Anti Lilly & Phoniks](https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe) | [Stories From The Brass Section](https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi) | 3:20 | 2022-01-20 |  |
 | [Blue Skies](https://open.spotify.com/track/09udibRKZh5eQWyb90JHy8) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Blue Skies](https://open.spotify.com/album/6eCXenxHKuxdl6Q9XuGSuy) | 2:37 | 2021-12-16 | 2022-07-29 |
+| [Blue Skies](https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9) | 2:37 | 2022-10-13 |  |
 | [Blue Skies](https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn) | 2:37 | 2022-07-28 | 2022-11-20 |
 | [Bowl of Ramen](https://open.spotify.com/track/7ihA0OZAAftQpOGTnFnN4s) | [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bowl of Ramen](https://open.spotify.com/album/6tQAWwBl1bZe9A4T0TmJv0) | 2:48 | 2021-12-16 |  |
 | [Brain](https://open.spotify.com/track/3xD9KPvIfr5YxcJw5XaXvf) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Lori](https://open.spotify.com/artist/3NTT4t9lNkD2dphAGHMIqO) | [Brain](https://open.spotify.com/album/5y8tNprFrcaQftlvVWBrW5) | 3:50 | 2021-12-16 | 2022-07-29 |
@@ -147,7 +148,7 @@
 | [It's Alright](https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry) | 2:56 | 2021-12-16 | 2022-07-29 |
 | [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 |  |
 | [Jay\-Z in 1995](https://open.spotify.com/track/3Sr6QO0oaR0LXAbSNDIU6l) | [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Jay\-Z in 1995](https://open.spotify.com/album/0JHVYb7Qxv0cjM5QTmG2uw) | 1:57 | 2022-01-13 | 2022-07-29 |
-| [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2021-12-16 |  |
+| [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 | 2021-12-16 | 2022-11-25 |
 | [Jazz Got Me](https://open.spotify.com/track/01UHYCiwhLwlmuWQZg5phl) | [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [SUGAR LIKE SALT](https://open.spotify.com/album/0eeaR1oyRAFtre0WoxPJSg) | 4:02 | 2022-04-11 | 2022-04-21 |
 | [Jettin'](https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Blowout Comb](https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt) | 4:39 | 2022-02-18 |  |
 | [Jigsaw](https://open.spotify.com/track/1sjMm42W6sjPOMrwGzj9h0) | [The Primeridian](https://open.spotify.com/artist/7uOcbpwuTGujXqttm49Kgw) | [I'll Meet You in Greenwich](https://open.spotify.com/album/65zLQCL7cTw1bIrB61snqw) | 4:12 | 2021-12-16 | 2022-04-26 |

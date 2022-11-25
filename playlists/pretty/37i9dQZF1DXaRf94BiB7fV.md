@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: THE RUNWAY, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,104 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,138 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

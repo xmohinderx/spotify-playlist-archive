@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-67 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
+68 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 | 2021-06-17 |  |
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2022-06-09 |  |
 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/1VePrTOSgCLcaBecBs7i2q) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 | 2022-06-09 |  |
-| [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 | 2021-06-17 |  |
+| [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 | 2021-06-17 | 2022-11-25 |
 | [Daddy Could Swear, I Declare](https://open.spotify.com/track/2EljJKZd4yCPBhWczgQjoo) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 3:45 | 2022-06-09 | 2022-07-29 |
 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 | 2022-06-09 |  |
 | [Daddy Sang Bass](https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Holy Land](https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG) | 2:20 | 2022-06-09 |  |
@@ -53,6 +53,7 @@
 | [Just the Two of Us \- Radio Edit](https://open.spotify.com/track/5VjPqpxyWK7kzcINseJQLk) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Just The Two Of Us](https://open.spotify.com/album/1qGJfEOgna6f7WSIorxBkz) | 4:15 | 2021-06-17 | 2022-06-10 |
 | [Like My Father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Like My Father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 | 2021-06-17 |  |
 | [Memo to My Son \- 2002 Remaster](https://open.spotify.com/track/5Vw9sw0Tr4saqD2E75cZ1X) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Sail Away \(Expanded & Remastered Edition\)](https://open.spotify.com/album/7ojNQckNp7Tj2BkLJCiiUL) | 1:55 | 2021-06-17 | 2022-07-29 |
+| [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 | 2022-06-09 |  |
 | [My Father's Eyes](https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 5:23 | 2022-06-09 | 2022-11-24 |
 | [My Father's Eyes](https://open.spotify.com/track/46qmhckPWhcfBhw4hagOOS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 5:23 | 2021-06-17 | 2022-07-24 |
 | [My Father's Eyes](https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK) | 5:23 | 2022-06-09 | 2022-10-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 
 > Party on with these top children's tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275 likes - 53 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 53 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 21 | [Keep the Beat](https://open.spotify.com/track/3BhpY0zIbTbZt5twFz0t1P) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:33 |
 | 22 | [Into The Thick Of It!](https://open.spotify.com/track/4eOymg22XI5PrPr7BkPQiW) | [The Backyardigans](https://open.spotify.com/artist/0NFlmEJpgyF2sO4mtlwFfl) | [The Backyardigans](https://open.spotify.com/album/6o4JpkccU6eGejGBoUw88E) | 2:38 |
 | 23 | [We're All Fruit Salad!](https://open.spotify.com/track/33oKCaVt6xCwqCpLqK88iX) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [James Harkness](https://open.spotify.com/artist/4EYbQ2JhYc3wuGRYMDIEKt), [Jawan Jackson](https://open.spotify.com/artist/0ONtiRe8jev5ZryJ1jskR2), [Lou Diamond Phillips](https://open.spotify.com/artist/4VzUgqK1LIfv3QtdxIqOHw), [Robert Rakete](https://open.spotify.com/artist/7tGYHmPlBT59QDcpWAp6l0), [Taylor Symone](https://open.spotify.com/artist/56pc6Yle76x3otXIMEBEeR), [Victor Valdes](https://open.spotify.com/artist/2tdfuvyFbLTS4xqbjzBQ0F) | [We're All Fruit Salad!](https://open.spotify.com/album/0QOq6fjnJ2fRjk9Xc8XpLu) | 4:07 |
-| 24 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/7lwkzHlF9BroFhhZRZ1sdi) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 1:39 |
+| 24 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/5L4wJYKr5TYoMlZt3aD8wO) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 1:39 |
 | 25 | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/track/5J0NB5oOdZ0G8064e8PlEU) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Chelsea](https://open.spotify.com/artist/2cRZrfd2YZgyP9Rxi7Ndnl) | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/album/6asyAuurdLrjiqcY5maRR6) | 2:56 |
 | 26 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
 | 27 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 52 | [I Can See Clearly Now](https://open.spotify.com/track/30WMRYHqSYfzrrp80t1fGv) | [Anika Moa](https://open.spotify.com/artist/0ty8H0HaqWvIW9tTLoBSGF) | [Songs for Bubbas 3](https://open.spotify.com/album/6VI0W5tx6WU9Jq5YIcxlVg) | 2:36 |
 | 53 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/3N6kzbnfpTPB5J9NAGc1rU) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:32 |
 
-Snapshot ID: `MTYzODQ2NjAyNSwwMDAwMDAwMGIzZTBmNTI3MGRlYzk3ZmYwZDdmMzAxNzVkOTU3NGI1`
+Snapshot ID: `MTYzODQ2NjAyNSwwMDAwMDAwMGY5MzE3NGI1NTk3Zjk1MTRiY2I5OWRmMTgwMmIyZjdl`

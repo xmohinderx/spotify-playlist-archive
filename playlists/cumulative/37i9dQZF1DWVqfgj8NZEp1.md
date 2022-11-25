@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-258 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+259 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2020-10-09 |  |
 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 | 2022-04-07 |  |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2020-10-09 | 2022-04-08 |
+| [Lakeside](https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi) | [Enj Society](https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4), [Michael Erian](https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m), [DANIEL NÖSIG](https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh), [Milan Nikolic](https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM), [Howard Curtis](https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL) | [Here And Now](https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp) | 6:08 | 2022-11-24 |  |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2020-10-09 | 2022-02-18 |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2020-10-09 |  |
 | [Lighter Shades](https://open.spotify.com/track/4cG4S3LHdqibrEXgj87ZNx) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Lighter Shades](https://open.spotify.com/album/5HUxoBrYZtwTz97qbuNCwc) | 5:48 | 2020-10-09 |  |

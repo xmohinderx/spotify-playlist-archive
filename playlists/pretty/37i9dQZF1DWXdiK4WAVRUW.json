@@ -1,12 +1,12 @@
 {
   "description": "The most memorable country hits from the 2010s. Cover: Chris Stapleton",
-  "num_followers": 360114,
+  "num_followers": 361290,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMGZhZWI4YTE0OWFmMjA3ZTdhN2JmNTA4MjgxNjMzY2Qw",
+  "snapshot_id": "MTY1ODcwMzMwMSwwMDAwMDAwMDdhZDVlMzg5MmM5ZGM4MDE4ZjAwMDRmZGVmNmI4YWMw",
   "tracks": [
     {
       "added_at": "2022-07-24 22:55:01",
@@ -643,22 +643,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Up Down (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -679,18 +675,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -711,18 +707,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -743,18 +739,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+      "duration_ms": 197253,
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Weather",
+      "url": "https://open.spotify.com/track/3U8dHeggJ8IBe0UCb1gbyB"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Weather",
-      "url": "https://open.spotify.com/track/3U8dHeggJ8IBe0UCb1gbyB"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
+      "duration_ms": 293026,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Back To December",
-      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 224293,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "Lambs & Lions",
-        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
-      },
-      "artists": [
-        {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+        "name": "Lambs & Lions",
+        "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+      "duration_ms": 182493,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J"
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
+      "duration_ms": 216960,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Die From A Broken Heart",
-        "url": "https://open.spotify.com/album/4DPIFHZfh65TPPGem973zy"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 188290,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/1kFpL1itkwkdhO6kcmNJra"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Life At Best",
         "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 220520,
       "name": "Even If It Breaks Your Heart",
       "url": "https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Die From A Broken Heart",
+        "url": "https://open.spotify.com/album/4DPIFHZfh65TPPGem973zy"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188290,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/1kFpL1itkwkdhO6kcmNJra"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "The Incredible Machine",
-        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
-      },
-      "artists": [
-        {
-          "name": "Sugarland",
-          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Stuck Like Glue",
-      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "The Incredible Machine",
+        "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
+      },
+      "artists": [
+        {
+          "name": "Sugarland",
+          "url": "https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "Stuck Like Glue",
+      "url": "https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "I'm A Fire",
-        "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Whatever She's Got",
-      "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Red River Blue (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+        "name": "I'm A Fire",
+        "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+      "duration_ms": 236800,
+      "name": "Whatever She's Got",
+      "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2071,6 +2055,22 @@
       "duration_ms": 171120,
       "name": "When She Says Baby",
       "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2139,38 +2139,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Ticket To L.A.",
-        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Biscuits",
-      "url": "https://open.spotify.com/track/4Ykg6eWdX080gXOTswI90s"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -2191,18 +2159,34 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Snapback",
-      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+      "duration_ms": 198226,
+      "name": "Biscuits",
+      "url": "https://open.spotify.com/track/4Ykg6eWdX080gXOTswI90s"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Ticket To L.A.",
+        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2219,6 +2203,22 @@
       "duration_ms": 209280,
       "name": "I Like The Sound Of That",
       "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "I Hold On",
+      "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "I Hold On",
-      "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
-      },
-      "artists": [
-        {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/6PcLI5dTPttZi5OrhqcBSA"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 225640,
       "name": "Every Storm (Runs Out Of Rain)",
       "url": "https://open.spotify.com/track/6s3dgEQgen7G85NtYUTEbD"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
     },
     {
       "added_at": "2022-07-24 22:55:01",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2022-07-24 22:55:01",
       "album": {
-        "name": "Charleston, SC 1966",
-        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Come Back Song",
-      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
-    },
-    {
-      "added_at": "2022-07-24 22:55:01",
-      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 271906,
       "name": "Remind Me (with Carrie Underwood)",
       "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+    },
+    {
+      "added_at": "2022-07-24 22:55:01",
+      "album": {
+        "name": "Charleston, SC 1966",
+        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Come Back Song",
+      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
     },
     {
       "added_at": "2022-07-24 22:55:01",

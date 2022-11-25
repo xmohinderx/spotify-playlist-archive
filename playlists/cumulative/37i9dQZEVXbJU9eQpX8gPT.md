@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-858 songs - 1 day 23 hr 39 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+859 songs - 1 day 23 hr 42 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Lala Mama](https://open.spotify.com/track/41G8Erys8j0Ijux3HAJ9mp) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lala Mama](https://open.spotify.com/album/7CGDfjYxjMl8HT49pNydPG) | 2:43 | 2021-07-10 | 2021-08-21 |
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2021-03-27\* | 2021-08-07 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-13 |
-| [Lalla ou mali](https://open.spotify.com/track/6UtKKdLfQr7qPyBrnVpjWH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:29 | 2022-11-04 |  |
+| [Lalla ou mali](https://open.spotify.com/track/6UtKKdLfQr7qPyBrnVpjWH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:29 | 2022-11-04 | 2022-11-25 |
 | [Lawal \(3reft Trap\)](https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:44 | 2022-10-22 | 2022-11-21 |
 | [Layli](https://open.spotify.com/track/0NEzzI7b58J8FVIk80VNgh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:18 | 2021-08-01 | 2022-05-05 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2021-10-03 |  |
@@ -563,6 +563,7 @@
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2021-09-27 | 2021-12-01 |
 | [Nasa](https://open.spotify.com/track/2OZVq7Q1zcI1RDhy5ORf4m) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Nasa](https://open.spotify.com/album/3H0ogPMW8dHDncnryhcfbY) | 2:41 | 2021-07-17 | 2021-08-06 |
 | [Ndokk\-ha](https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:04 | 2022-11-04 | 2022-11-20 |
+| [Ne pleure pas](https://open.spotify.com/track/4SSF9Cs9AdMebHsBc4ar7E) | [Dame Civile](https://open.spotify.com/artist/2x3nZ4tXQJLAriCyhblQoG), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Ne pleure pas](https://open.spotify.com/album/6L9fjosMJDCIWqMjHlWz8C) | 3:36 | 2022-11-24 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-04 | 2021-09-27 |
 | [Netflix](https://open.spotify.com/track/0wm3Tuie0LfHwRSNI1bqOn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [8ird](https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:46 | 2022-01-29 | 2022-02-12 |
 | [NICHANE](https://open.spotify.com/track/5meK07pUTC30PBHWiNPTAX) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:47 | 2022-06-19 | 2022-06-23 |

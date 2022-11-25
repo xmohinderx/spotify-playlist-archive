@@ -1,12 +1,12 @@
 {
   "description": "Al cien con los corridos \u00a1Para un buen ejercicio!",
-  "num_followers": 102901,
+  "num_followers": 103084,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg4MzQzNiwwMDAwMDAwMDNmNzE0NWUwNGMwMDY1NmRmZmY2YjY0MGNhYjc2OGYx",
+  "snapshot_id": "MTY1NDg4MzQzNiwwMDAwMDAwMDM4ZGMyZWM2ZTFmOThmMzU0MTY4OTc5MzZiMWRmZTgx",
   "tracks": [
     {
       "added_at": "2022-06-10 17:50:36",
@@ -375,38 +375,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "De Boca En Boca",
-        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Se Fue La Pantera",
-      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 281760,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "De Boca En Boca",
+        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Se Fue La Pantera",
+      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 195136,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 156908,
-      "name": "Malditas Ganas",
-      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Yo Fui El Elegante",
         "url": "https://open.spotify.com/album/17omlxcfJTA2Ep7gadbOZX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 146413,
       "name": "Yo Fui El Elegante",
       "url": "https://open.spotify.com/track/6dJJT9h7FzjenIaa31bw8p"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 156908,
+      "name": "Malditas Ganas",
+      "url": "https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1399,42 +1399,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Summer School Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Corrido De Juanito",
-      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -1455,6 +1419,42 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Corrido De Juanito",
+      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Summer School Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "A Mis Enemigos",
-      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1515,6 +1499,22 @@
       "duration_ms": 238120,
       "name": "Los 4 Ases (Corrido Tumbado)",
       "url": "https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "A Mis Enemigos",
+      "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Vengo a Aclarar",
-        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Vengo a Aclarar",
-      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Cruzando Fronteras",
         "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 155967,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Jalo y Exhalo",
         "url": "https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 153968,
       "name": "Jalo y Exhalo",
       "url": "https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Chingandole Macizo",
-      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 203068,
       "name": "DEL Negociante",
       "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Chingandole Macizo",
+      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Un Album Sencillo",
+        "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/4YXY87glxNwyzpT3dJ1DyD"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "La Loteria",
         "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Un Album Sencillo",
-        "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 135127,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/4YXY87glxNwyzpT3dJ1DyD"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Tan Solo Morro",
-        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Tan Solo Morro",
-      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Por Si Acaso",
         "url": "https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP"
       },
@@ -2143,22 +2123,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "El Baleado",
-        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+        "name": "Tan Solo Morro",
+        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 219264,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+      "duration_ms": 144545,
+      "name": "Tan Solo Morro",
+      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2175,6 +2155,26 @@
       "duration_ms": 184848,
       "name": "En El Refuego",
       "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Sencillo Soy",
-        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 172954,
-      "name": "Sencillo Soy",
-      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "50 Corridones",
         "url": "https://open.spotify.com/album/2aZsNDl00gVYcOfdy1hLf5"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 211173,
       "name": "El Chino Piloto",
       "url": "https://open.spotify.com/track/6HL4B6ogVUeovbei4XUcrn"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Sencillo Soy",
+        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 172954,
+      "name": "Sencillo Soy",
+      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Seguimos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "KDR",
-        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 201265,
-      "name": "KDR",
-      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "El Cuestionario",
         "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 140954,
       "name": "Billetes Verdes",
       "url": "https://open.spotify.com/track/7GUvguaB0Ltzva87xgSpVv"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "KDR",
+        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "KDR",
+      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2655,22 +2655,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Good Vibes Buenas Vibras",
-        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 205034,
-      "name": "En Boca de Todos",
-      "url": "https://open.spotify.com/track/5yJZFxfltr29LKmlnax7za"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
       },
@@ -2779,34 +2763,18 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "El Mencho",
-        "url": "https://open.spotify.com/album/5J4dl2J6TPSs9oYmPdfomH"
+        "name": "Good Vibes Buenas Vibras",
+        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
       "artists": [
         {
-          "name": "Grupo Renuente",
-          "url": "https://open.spotify.com/artist/5XeyfGFfJRKI2nCtxjlZTE"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 134664,
-      "name": "El Mencho",
-      "url": "https://open.spotify.com/track/0BKT1Ax1zwnpHkOxDvztS1"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Platicame De Ti",
-      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+      "duration_ms": 205034,
+      "name": "En Boca de Todos",
+      "url": "https://open.spotify.com/track/5yJZFxfltr29LKmlnax7za"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2831,6 +2799,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "El Mencho",
+        "url": "https://open.spotify.com/album/5J4dl2J6TPSs9oYmPdfomH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Renuente",
+          "url": "https://open.spotify.com/artist/5XeyfGFfJRKI2nCtxjlZTE"
+        }
+      ],
+      "duration_ms": 134664,
+      "name": "El Mencho",
+      "url": "https://open.spotify.com/track/0BKT1Ax1zwnpHkOxDvztS1"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -2843,6 +2827,38 @@
       "duration_ms": 197929,
       "name": "De Peri\u00f3dico Un Gallito",
       "url": "https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Platicame De Ti",
+      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Otro Golpe",
+        "url": "https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "En La Sierra Y En La Ciudad \"La China\"",
+      "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2867,22 +2883,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Otro Golpe",
-        "url": "https://open.spotify.com/album/6b1BlHWJSeZ7QgRygd2YqU"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "En La Sierra Y En La Ciudad \"La China\"",
-      "url": "https://open.spotify.com/track/2wzBBN4okgN6lZ6OSkBB1L"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -2895,22 +2895,6 @@
       "duration_ms": 183871,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 177714,
-      "name": "En Menos de Un Minuto",
-      "url": "https://open.spotify.com/track/0laoKkCyhp5HW3wGejhPV5"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -2943,6 +2927,22 @@
       "duration_ms": 182739,
       "name": "Cuando los Necesit\u00e9 - Banda",
       "url": "https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 177714,
+      "name": "En Menos de Un Minuto",
+      "url": "https://open.spotify.com/track/0laoKkCyhp5HW3wGejhPV5"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -3023,6 +3023,22 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
+        "name": "Con La Nueva Federaci\u00f3n",
+        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "Comandos Del M.P (500 Balazos)",
+      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -3039,22 +3055,6 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
-        "name": "Con La Nueva Federaci\u00f3n",
-        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Comandos Del M.P (500 Balazos)",
-      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
     },
     {
       "added_at": "2022-06-10 17:50:36",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2022-06-10 17:50:36",
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 231378,
-      "name": "Que Tiene de Malo",
-      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
-    },
-    {
-      "added_at": "2022-06-10 17:50:36",
-      "album": {
         "name": "Pistiando En La Sierra",
         "url": "https://open.spotify.com/album/38YQoxbWhfJHIz9o0VmcH6"
       },
@@ -3427,6 +3411,22 @@
       "duration_ms": 165666,
       "name": "El Corrido Del Chapo",
       "url": "https://open.spotify.com/track/2PSKU76R9iHaxH1LwfsWfN"
+    },
+    {
+      "added_at": "2022-06-10 17:50:36",
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
     },
     {
       "added_at": "2022-06-10 17:50:36",

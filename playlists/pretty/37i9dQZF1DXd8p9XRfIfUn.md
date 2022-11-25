@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,053 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,118 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 34 | [Tussi Code Mari](https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Crismj](https://open.spotify.com/artist/73085QUq0HermcHl8fg65T) | [Tussi Code Mari](https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K) | 2:52 |
 | 35 | [Pasame la Botella \- Remix](https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [El Maniako The Boost](https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Pasame la Botella \(Remix\)](https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN) | 5:48 |
 | 36 | [COMO TE VEO](https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC) | 3:26 |
-| 37 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
-| 38 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
+| 37 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
+| 38 | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos \(with Jay Wheeler\)](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 |
 | 39 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 40 | [Prendete](https://open.spotify.com/track/6Dei890Fy98wn36t39CSht) | [Ery](https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Prendete](https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq) | 3:33 |
 | 41 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 | 60 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDMyMTViZDdjZTU3YWRmOWI2YzFlZTYwMDYwZDRkYzQ3`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGMyZWYwM2UyOGMxZTc4MmUxNDE3ZDQ5MTI3YTBjYzUw`

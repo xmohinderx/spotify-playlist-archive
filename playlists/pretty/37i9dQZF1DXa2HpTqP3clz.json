@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
-  "num_followers": 114814,
+  "num_followers": 114891,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGQ3MjY4Njg0MTU5MjFjOGU0NGI0M2QwYmMxZDVhMjRh",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGU5ZDk4MWVkMDI1YjI1YTU3OTQxMDYxYWIyOGQxMTky",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "On the Highway",
-        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
         }
       ],
-      "duration_ms": 212106,
-      "name": "On the Highway",
-      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+        "name": "On the Highway",
+        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
       },
       "artists": [
         {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+      "duration_ms": 212106,
+      "name": "On the Highway",
+      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "When I'm Free",
         "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 182120,
       "name": "You Were on My Mind This Morning",
       "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "City on a Hill",
-        "url": "https://open.spotify.com/album/0SAncQWJMyMMg9Ee0HvvUb"
-      },
-      "artists": [
-        {
-          "name": "Mile Twelve",
-          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "City That Drowned",
-      "url": "https://open.spotify.com/track/6Dx8DROmZ9YYAt2cA3Ew24"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Echo In The Valley",
         "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "City on a Hill",
+        "url": "https://open.spotify.com/album/0SAncQWJMyMMg9Ee0HvvUb"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Mile Twelve",
+          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
         }
       ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+      "duration_ms": 212480,
+      "name": "City That Drowned",
+      "url": "https://open.spotify.com/track/6Dx8DROmZ9YYAt2cA3Ew24"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 191906,
       "name": "Homemade Wine",
       "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -971,38 +971,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "In The Morning Light",
-        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "In The Morning Light",
-      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
-      },
-      "artists": [
-        {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
-        }
-      ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -1023,6 +991,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "In The Morning Light",
+        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "In The Morning Light",
+      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 281953,
       "name": "Monument",
       "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Turning Up The Ground",
+        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 264842,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Paint This Town",
         "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 252160,
       "name": "Gloryland",
       "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Forlorn Strangers",
         "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 220573,
       "name": "Bottom Of The Barrel",
       "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Turning Up The Ground",
-        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 264842,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1679,22 +1659,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "All The Lilacs In Ohio",
-        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
         },
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+        "name": "All The Lilacs In Ohio",
+        "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
       },
       "artists": [
         {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
     },
     {
       "added_at": "2022-11-18 05:00:00",

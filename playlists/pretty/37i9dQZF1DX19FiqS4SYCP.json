@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140875,
+  "num_followers": 140874,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDY0MmE3NDI0M2I2NmFmMDA5ODZmNGVmZGFiMWE1YTky",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDM2NjU1MGY0ZjkzZmEzYzNkNWUzMzY4MmY4OTcyNmQ3",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "So\u00f1ar Contigo",
         "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 283628,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Live Sessions 1",
         "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 182080,
       "name": "Acu\u00e9rdate - Radio Edit",
       "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Girls Night",
         "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
       },
       "artists": [
         {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
         }
       ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -659,38 +675,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 211750,
       "name": "That\u2019s All I\u2019ve Got to Say",
       "url": "https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
-      },
-      "artists": [
-        {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
-        }
-      ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Trampa De Amor",
         "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 161610,
       "name": "Trampa De Amor",
       "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+      },
+      "artists": [
+        {
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+        }
+      ],
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     },
     {
       "added_at": "2022-09-15 18:41:23",

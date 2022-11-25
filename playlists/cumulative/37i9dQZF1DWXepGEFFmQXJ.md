@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Brad Cox
+> The cream of today's Country crop\. Cover: The Wolfe Brothers
 
-258 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+262 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Glad It's Not Me](https://open.spotify.com/track/3zdL4Dghu09U3n6Wfv5UHu) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Glad It’s Not Me](https://open.spotify.com/album/2doK7K5fVjeTPl2unU6eyS) | 3:44 | 2022-03-24 | 2022-06-17 |
 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 | 2022-08-18 |  |
 | [God Took His Time On You](https://open.spotify.com/track/3QaA5jdFoAvcnxhfE50vCs) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [God Took His Time On You](https://open.spotify.com/album/553FYAh936iamVcIN0rx9F) | 3:35 | 2021-12-30 | 2022-07-01 |
+| [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-11-24 |  |
 | [Gold](https://open.spotify.com/track/1V580djyyXDniHemhjL906) | [Take Two](https://open.spotify.com/artist/3xpf0WFUBNHdkPVxKvrrGm), [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Gold](https://open.spotify.com/album/53HGyaGglyCQzDFNQhkgYM) | 3:15 | 2022-08-05 | 2022-11-18 |
 | [Gone Gone Gone](https://open.spotify.com/track/3e8guey6EYihDMOgFmUsAv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Gone Gone Gone](https://open.spotify.com/album/0ZF1G8jsIxqhvl6IMlAQgH) | 3:16 | 2021-12-30 | 2022-03-05 |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-01-06 | 2022-08-27 |
@@ -109,7 +110,8 @@
 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 | 2021-12-30 | 2022-04-01 |
 | [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-10-13 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-01-31 | 2022-02-22 |
-| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-27 |  |
+| [Hold My Halo](https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:26 | 2022-11-24 |  |
+| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-27 | 2022-11-25 |
 | [Home To Me](https://open.spotify.com/track/1BWrFZ30QHoGVvz7JFsf70) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:54 | 2022-09-15 |  |
 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 |  |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-06-02 |  |
@@ -163,6 +165,7 @@
 | [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2021-12-30 | 2022-04-01 |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-30 | 2022-04-01 |
 | [Nothing But Wild](https://open.spotify.com/track/4NcRfij5JDR55DFTlxrDd4) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/4iuQQpJvgPgqi3pP5txVhb) | 3:10 | 2022-04-21 | 2022-09-30 |
+| [Nothing Like Me](https://open.spotify.com/track/5YlyQIOBHGbcd2QTf1bWkD) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Nothing Like Me](https://open.spotify.com/album/5NkZwtpPJD3y2oGPLCZqV9) | 3:26 | 2022-11-24 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-12-30 | 2022-04-01 |
 | [One Of Them Nights](https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [One Of Them Nights](https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue) | 3:05 | 2022-07-14 |  |
 | [Only You](https://open.spotify.com/track/0BOAxZQ9xv738lfPKpBBsi) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:05 | 2021-12-30 | 2022-03-18 |
@@ -198,12 +201,13 @@
 | [SMALL TOWN](https://open.spotify.com/track/1NesmjPETOsK9X9jR9qXZR) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [SMALL TOWN](https://open.spotify.com/album/3hCTc2Vollvn6DSK2uzMe3) | 2:40 | 2021-12-30 | 2022-06-17 |
 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 | 2022-10-06 |  |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-03-17 | 2022-07-22 |
-| [Something Good's Gonna Happen \(feat\. Amy Sheppard\)](https://open.spotify.com/track/6xvx0rx68HedQx8U8UZwpx) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Kids on Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 2:21 | 2022-06-30 |  |
+| [Something Good's Gonna Happen \(feat\. Amy Sheppard\)](https://open.spotify.com/track/6xvx0rx68HedQx8U8UZwpx) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Kids on Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 2:21 | 2022-06-30 | 2022-11-25 |
 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-30 | 2022-04-01 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-12 |  |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-06-16 | 2022-09-30 |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-04-14 | 2022-09-16 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-12-30 | 2022-06-03 |
+| [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 | 2022-11-24 |  |
 | [Startin' Something](https://open.spotify.com/track/5ncsghcdHl3odHvkIl8y3P) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Startin' Something](https://open.spotify.com/album/1GIquCAg1ScgEkO2yP1fAE) | 3:00 | 2021-12-30 | 2022-03-25 |
 | [Stay In Your Lane](https://open.spotify.com/track/5w6cDriC2fIXeEcmN5WQLv) | [Hinterland](https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY) | [Stay In Your Lane](https://open.spotify.com/album/1MNF5gihhNsPwn0WjdE6Ro) | 3:08 | 2022-06-30 | 2022-09-09 |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-31 | 2022-07-12 |

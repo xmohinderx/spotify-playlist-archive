@@ -2,7 +2,7 @@
 
 ### [Give Thanks](https://open.spotify.com/playlist/37i9dQZF1DX6afkUGYYDyK)
 
-> What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
+> Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
 165 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
 

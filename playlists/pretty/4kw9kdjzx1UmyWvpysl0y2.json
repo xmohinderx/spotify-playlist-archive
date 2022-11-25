@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127159,
+  "num_followers": 127164,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzgzNiw4YzQ0MWUwMTQ2ZTk5NzFhZWYxNGVjZWVjYjQyYjgzMTMzYTJkODdl",
+  "snapshot_id": "MzgzOCxlYTM0MzY1YjA2ZDYxYWY3YzgzMGQwMDIwMzliODBmMWVmZDQxYmUy",
   "tracks": [
+    {
+      "added_at": "2022-11-24 22:23:45",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Mike Robert",
+          "url": "https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X"
+    },
     {
       "added_at": "2022-11-23 20:17:45",
       "album": {
@@ -1079,22 +1103,6 @@
       "duration_ms": 152827,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "INEEDU / SOYUZ",
-        "url": "https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 213942,
-      "name": "INEEDU",
-      "url": "https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

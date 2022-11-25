@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-136 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
+137 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fuck Forever](https://open.spotify.com/track/40VBtCOWsb3CadLYsATgxP) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion \(International Edition\)](https://open.spotify.com/album/5jE23bPNCDzMrpmavUaphx) | 4:37 | 2021-10-15 | 2022-07-29 |
 | [Fuck Forever](https://open.spotify.com/track/5pCRNBqSMQxBDf13sGCofO) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion \(International Edition\)](https://open.spotify.com/album/7DWYTuMJD7ahRMnzSZ4ouR) | 4:37 | 2022-01-20 |  |
 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 | 2021-10-15 |  |
-| [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 | 2021-10-15 |  |
+| [Gronlandic Edit](https://open.spotify.com/track/3X8gOyVXP93Tslnz9Bxw24) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/6EHyUWhxAzolO2lQBvuxTH) | 3:24 | 2021-10-15 | 2022-11-25 |
+| [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 | 2022-01-20 |  |
 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 | 2022-01-20 | 2022-11-13 |
 | [Heads Will Roll](https://open.spotify.com/track/3zvHOVC4jikl6jORSr6OLE) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/5HBmdEPIzWtcWwH2JSv7go) | 3:41 | 2021-10-15 | 2022-07-29 |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2022-01-20 |  |

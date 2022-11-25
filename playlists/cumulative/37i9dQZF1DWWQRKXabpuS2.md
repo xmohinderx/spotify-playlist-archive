@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: لمياء المالكي
 
-167 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+168 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 |  |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
+| [فرقاه](https://open.spotify.com/track/4wVVSDmBXA9MHeNUC7AGIu) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [فرقاه](https://open.spotify.com/album/5GdgJnx6r9A6DlxZlI5lhL) | 2:55 | 2022-11-24 |  |
 | [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 | 2022-07-27 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-11-06 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |

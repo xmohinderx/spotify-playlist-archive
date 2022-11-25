@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 178532,
+  "num_followers": 178743,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDZlZmY2ZTJmMmJkYzM4NDVjNjFhNDE5NWNhYmRhOTQ2",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDQ3MzBlNmU4ZTJmYjRkMDVlMTdiZGJkNzY1Mzg3ZmI4",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
-      },
-      "artists": [
-        {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Is It All Over My Face?",
         "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 427990,
       "name": "Is It All Over My Face? - Female Version",
       "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587050,
+      "name": "Heartbeat - Club Mix",
+      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
       "artists": [
         {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
         }
       ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Agb'oju L'ogun",
-        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
-      },
-      "artists": [
-        {
-          "name": "Shina Williams & His African Percussionists",
-          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
-        }
-      ],
-      "duration_ms": 702167,
-      "name": "Agb'oju L'ogun - Original 12\" Version",
-      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+        "name": "Agb'oju L'ogun",
+        "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+          "name": "Shina Williams & His African Percussionists",
+          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
         }
       ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+      "duration_ms": 702167,
+      "name": "Agb'oju L'ogun - Original 12\" Version",
+      "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
       "artists": [
         {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
         }
       ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1523,6 +1507,22 @@
       "duration_ms": 259415,
       "name": "You're a Melody - Extended Disco Version",
       "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

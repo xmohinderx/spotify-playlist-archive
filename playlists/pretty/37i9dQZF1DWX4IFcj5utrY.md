@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=br9etiveQvuwlbVvKDBaKw">Karyendasoul</a>
+> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=bSTf1MajQS6L2ajf\-MJZAA">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,744 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,856 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [THE OTHER SIDE](https://open.spotify.com/track/2IGFXMQdh2AlVdPyd6woaR) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z) | [THE OTHER SIDE](https://open.spotify.com/album/7MXM2V7gwh6oaF2x3uJgSo) | 3:16 |
 | 50 | [AIYE](https://open.spotify.com/track/5IYCGJP9AjEJiPomAoCQKw) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [AIYE \(Afro Tech Mix\)](https://open.spotify.com/album/2eDO3fMkVOC2Qi3JNBjUzQ) | 6:26 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMGNhM2MyNGI5N2RlMTQ2NzhkNWNiZTJhZTU1MWNmOGFk`
+Snapshot ID: `MTY2OTMyODE3NSwwMDAwMDAwMDViZTdiMWFjZjYxYTZjMzYwZGZiYmU1MTFjNjQ3NGM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Don Tetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,878 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,900 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 36 | [Colibrí](https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Colibrí](https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu) | 4:16 |
 | 37 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
 | 38 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
-| 39 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
-| 40 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
-| 41 | [Vuelve](https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL) | [Seis Peatones](https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh) | [Polvo](https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL) | 4:30 |
+| 39 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
+| 40 | [Vuelve](https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL) | [Seis Peatones](https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh) | [Polvo](https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL) | 4:30 |
+| 41 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 |
 | 42 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 43 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
 | 44 | [Cangrejo](https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Regular](https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 |
 | 60 | [Pimpinella](https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Pimpinella](https://open.spotify.com/album/1JjSmuzofyycWZ3s6wJE56) | 4:13 |
 
-Snapshot ID: `MTY2NTY3Mzk2MCwwMDAwMDAwMGMzNGFhOGMxZTk0MzhiYWQ1YWEzZmMwOWIzNmI1M2Vk`
+Snapshot ID: `MTY2NTY3Mzk2MCwwMDAwMDAwMDYzNzg5Zjk3NmIzZDhmYzYzM2RjYzI3NWU5NGVlNjZi`

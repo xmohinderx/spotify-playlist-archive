@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,587 likes - 82 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,010 likes - 82 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,284 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,418 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 2 | [Hey Papi \- Edit](https://open.spotify.com/track/3eTfuKPA6T23XEgHC20IsA) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/0rVHwUMBfiXNgnwO8FHPJY) | 2:38 |
 | 3 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
 | 4 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7s47cTLl4j1JKawu308yId) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Forward](https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx) | 3:17 |
-| 5 | [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 |
+| 5 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 |
 | 6 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 |
 | 7 | [Bad Seeds](https://open.spotify.com/track/0dPM5QtTPLYLOPo8Zp9aNa) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Bad Seeds](https://open.spotify.com/album/5QP5uWmiAIcOpTStPW3V86) | 3:00 |
 | 8 | [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 36 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
 | 37 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 |
 | 38 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
-| 39 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
-| 40 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
+| 39 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
+| 40 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
 | 41 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 42 | [Debold](https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 2:43 |
 | 43 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 | 70 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDE3ZWIzM2ZiNDIwMTIwYzlhOGUxNDM2YmVjNDIyNTkz`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDJiZDNhZjQ0ZWNkMzQ2MDU3OWIwN2U1OTE4OWY5ZmM2`

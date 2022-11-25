@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,009 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,105 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 39 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 40 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 41 | [terms \(feat\. Dominic Fike & Denzel Curry\)](https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:12 |
-| 42 | [Back2Roadz](https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Back2Roadz](https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8) | 3:29 |
+| 42 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 |
 | 43 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
-| 44 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 |
-| 45 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
+| 44 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
+| 45 | [Back2Roadz](https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Back2Roadz](https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8) | 3:29 |
 | 46 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 47 | [Body on fire](https://open.spotify.com/track/3VgCXhYG94j4EXJWhgm1mQ) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Honey Doom](https://open.spotify.com/album/3TvKmSxLeUCvQpNRgnVgN3) | 2:51 |
 | 48 | [No Place to Go](https://open.spotify.com/track/5BZNwpikNrrsEJMO2WB75Y) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [No Place to Go](https://open.spotify.com/album/1TZGnPEGfPSfK9H2TBUkxX) | 2:58 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 53 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 |
 | 54 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 |
 | 55 | [Scary Sight](https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Scary Sight](https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5) | 5:12 |
-| 56 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 |
-| 57 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
+| 56 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
+| 57 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 |
 | 58 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 |
 | 59 | [Sometimes I Feel Like A Motherless Child](https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 2:45 |
 | 60 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGUyNjQ4ZTczMmE0YTc0MDAwMzIyYzRkYmFmOWFjNjJk`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGZiOTc3YmRiM2Q3MmVhNWZmZTFmOGUyOTVlNDg4MzQ1`

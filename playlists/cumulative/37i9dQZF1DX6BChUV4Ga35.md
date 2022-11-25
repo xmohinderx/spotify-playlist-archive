@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-113 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
+114 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Ants Go Marching](https://open.spotify.com/track/2DuVZNALyo1SpBrOOUB1RR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 2 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs) | 1:40 | 2022-07-25 |  |
 | [Ants Go Marching](https://open.spotify.com/track/4JwpZ2LNT5pcOwxP5f1bqC) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Ants Go Marching](https://open.spotify.com/album/4sSUjh5Sst0G387Zr77Gbx) | 1:40 | 2022-07-25 | 2022-11-13 |
 | [Ants Go Marching](https://open.spotify.com/track/6gZI9dXzOHhs0G6JPUrwU8) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 1](https://open.spotify.com/album/5R6UKISlffAbuEXsBAUzXv) | 1:40 | 2022-02-01 | 2022-07-29 |
-| [At the Zoo](https://open.spotify.com/track/1Rt5jDuAVWdTNRvUt1JF4Z) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:48 | 2022-07-25 |  |
+| [At the Zoo](https://open.spotify.com/track/1Rt5jDuAVWdTNRvUt1JF4Z) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:48 | 2022-07-25 | 2022-11-25 |
+| [At the Zoo](https://open.spotify.com/track/57ocGtdjzazXaV0HRxTug1) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:48 | 2022-07-25 |  |
 | [At the Zoo](https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:48 | 2022-02-01 | 2022-10-13 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/5TvkzVJZ8YrN8WF9gixsEr) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 1](https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz) | 1:38 | 2022-02-01 |  |
 | [Baby Animals](https://open.spotify.com/track/6Cqinxek9SxhSsooX5rAhL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:12 | 2022-02-01 |  |

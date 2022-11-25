@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-774 songs - 1 day 20 hr 11 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
+775 songs - 1 day 20 hr 15 min - [published](https://open.spotify.com/playlist/4095CD5XCukMZYOcr7Aaxg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [REDEVELOPMENT OF LOVE 2](https://open.spotify.com/track/7kYvQZCSjS51Zfx3XeYFcf) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y) | [REDEVELOPMENT OF LOVE 2](https://open.spotify.com/album/6fmO991GfLBOjwHFny7goK) | 3:05 | 2022-04-07 | 2022-07-27 |
 | [Regret](https://open.spotify.com/track/1oCBG4fDUmrXKJSFCvTpKK) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:26 | 2022-05-03 | 2022-07-25 |
 | [Return to Pusan por](https://open.spotify.com/track/1uc5Fm6zHXyE8ll9ZXu3fv) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 2:31 | 2022-04-22 | 2022-07-13 |
-| [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 | 2022-04-22 |  |
+| [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 | 2022-04-22 | 2022-11-25 |
 | [Reverse life:Poor man](https://open.spotify.com/track/4fBtWvylDMUu3DTHKtniup) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:15 | 2022-05-03 | 2022-07-06 |
 | [Ring Ring](https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Ring Ring](https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n) | 3:17 | 2022-04-22 | 2022-09-02 |
 | [Ring ring](https://open.spotify.com/track/4hgHEgmDePRdVHx5X43Hi4) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:17 | 2022-05-03 | 2022-07-23 |
@@ -667,6 +667,7 @@
 | [You](https://open.spotify.com/track/6yseOwFaSFars2gFNmSp7t) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 4:15 | 2022-04-22 | 2022-07-02 |
 | [YOU & ME](https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk) | [KIM SOO CHAN](https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf) | [YOU & ME](https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G) | 3:12 | 2022-04-22 |  |
 | [You + A secret love](https://open.spotify.com/track/7bn835atZfqocEI3MiECyr) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/1qabkEyfuiYxzewvUD6hHf) | 3:39 | 2022-04-22 | 2022-05-31 |
+| [You + A secret love](https://open.spotify.com/track/7r0hg8zWNi2MoHjmxT4t0x) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK) | 3:39 | 2022-10-07 |  |
 | [you and me](https://open.spotify.com/track/21r7SFDa33gjR05B9zmsyi) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [you and me](https://open.spotify.com/album/3JcBqKVYTcFnOekafWPGHf) | 2:51 | 2022-04-07 | 2022-06-26 |
 | [you and me](https://open.spotify.com/track/7zpWaPILKIdfmSkFizgVUJ) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 2:51 | 2022-04-22 | 2022-07-24 |
 | [You and me \(guitar by Ham Chun Ho\)](https://open.spotify.com/track/3yupC0Hy9BRAPptlvQ1Cih) | [Cho Youngnam](https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART15](https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt) | 5:16 | 2022-05-03 | 2022-06-14 |

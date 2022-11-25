@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 93 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
 | 94 | [LY4L](https://open.spotify.com/track/1bYLwAgNXt4dOrUJifW6r1) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/08ph2c3DmaV01A2BsJ9PXV) | 3:40 |
 | 95 | [Cold](https://open.spotify.com/track/0a14F5kFcz5GCWX10KK6SM) | [Citizen Four](https://open.spotify.com/artist/0bp5rkeCxghGGOsHKWwmUC) | [Cold](https://open.spotify.com/album/59SzZY51q1IcO81ffmExpR) | 3:25 |
-| 96 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
-| 97 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
+| 96 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
+| 97 | [that's what i'd do \- live](https://open.spotify.com/track/0DIhbi6IbA2o4m5sXQ4vDb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [that's what i'd do \(live\)](https://open.spotify.com/album/2pUvlqckRhn3gsdgUPr3Hi) | 6:36 |
 | 98 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 |
 | 99 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 |
 | 100 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 119 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 120 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc4MjA4NzcsMDAwMDAwMDAxMTVhMDFkNTk4MzUwNjY0NjU1NzBjZDVlNDlmNmZiYQ==`
+Snapshot ID: `Mjc4MjIzMTcsMDAwMDAwMDBhMmVmYTkwOWY0NjE1MTM0MDE5ZGEzMGE4NjhmOWYyMg==`

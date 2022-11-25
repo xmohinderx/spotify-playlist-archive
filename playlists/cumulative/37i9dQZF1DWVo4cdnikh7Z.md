@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-368 songs - 23 hr 5 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+369 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Mallu Girl](https://open.spotify.com/track/66NuWfsMCksBsEOHK6wsCv) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Athira A\. Nair](https://open.spotify.com/artist/4fWPrG7G2cwPHY55TmfdN7) | [Mallu Girl \(From "Varalaru Mukkiyam"\)](https://open.spotify.com/album/78vfIHiOKwyfr7oB7LO45X) | 3:36 | 2022-07-08 | 2022-07-20 |
 | [Mamakutty](https://open.spotify.com/track/7FsAdgPI7Q9hATDOoyErm6) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Pradeep Ranganathan](https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1), [Savitha Reddy](https://open.spotify.com/artist/0r9tuwwUaIN8e9xh19ZoWr), [A.U\. Navin Krubhakar](https://open.spotify.com/artist/666PYWUnhPbOc65Wzn745I) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 2:25 | 2022-11-07 |  |
 | [Manniley](https://open.spotify.com/track/7aaFeJqkHobmz4nA6aBBp3) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Poikkal Kuthirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YVCRMdqLGIF0lIQYs7Bwx) | 4:02 | 2022-08-04 | 2022-08-17 |
+| [Mannuminge](https://open.spotify.com/track/1Jh3IzNeALUyyIxUMswfO2) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o), [Padmalatha Ramanand](https://open.spotify.com/artist/6WCHFythfRGteXpkzcRHlR) | [Mannuminge \(From "Kalagathalaivan"\)](https://open.spotify.com/album/5D2cTZajDd31jIGh3M4GKS) | 2:33 | 2022-11-24 |  |
 | [Marakkuma Nenjam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Marakkuma Nenjam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ) | 4:18 | 2022-08-14 |  |
 | [Marudhanayagam Title Track \- From "Marudhanayagam"](https://open.spotify.com/track/6ES2I4myj1E5RtpPMMZ9lQ) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Marudhanayagam Title Track \(From "Marudhanayagam"\)](https://open.spotify.com/album/2FzSieA7ynF0lNs32NwMyt) | 2:47 | 2022-07-11 | 2022-07-21 |
 | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/track/0RHBdFlKMpvsWJGMsPuFkI) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Rakul Preet Singh](https://open.spotify.com/artist/1MKWS2FzyIsjlLV9v926gU) | [Mashooka \(Tamil\) \[feat\. Rakul Preet Singh\]](https://open.spotify.com/album/6rwRAdvQRUTXHaOeG6QwCU) | 3:07 | 2022-07-26 | 2022-08-07 |

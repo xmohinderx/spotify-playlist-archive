@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,979 likes - 48 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,991 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 16 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
 | 17 | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Groove Continental: Side A](https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI) | 2:54 |
 | 18 | [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 |
-| 19 | [Passion](https://open.spotify.com/track/4WyDmwmeBdrGgJEQquZfz3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:21 |
+| 19 | [Pacific Coast Highway In The Movies \(feat\. Rivers Cuomo of Weezer\)](https://open.spotify.com/track/0oS1aOj8pLkDV9bGp7j95G) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:55 |
 | 20 | [Jailbreak](https://open.spotify.com/track/57UIoWO4bNtnrTRXHvHfbL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:41 |
-| 21 | [Pacific Coast Highway In The Movies \(feat\. Rivers Cuomo of Weezer\)](https://open.spotify.com/track/0oS1aOj8pLkDV9bGp7j95G) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:55 |
+| 21 | [Passion](https://open.spotify.com/track/4WyDmwmeBdrGgJEQquZfz3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:21 |
 | 22 | [Eye In The Sky \(feat\. Beck\)](https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:03 |
 | 23 | [Wake Up](https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:02 |
 | 24 | [I Am](https://open.spotify.com/track/31CgjKFR1pzFO5Im365rXB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:34 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 32 | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh) | 4:09 |
 | 33 | [Slam \(Angel Miners\)](https://open.spotify.com/track/7qVsMCptRS8tf4eIsQVHYR) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 4:48 |
 | 34 | [Alone Again \(Naturally\)\[feat\. Midland\]](https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 3:31 |
-| 35 | [MF](https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:17 |
-| 36 | [Radical \(feat\. Grouplove\)](https://open.spotify.com/track/6x6tlwQoLddsOSdbaKDyx6) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Radical \(feat\. Grouplove\)](https://open.spotify.com/album/0oo9h3hC2wlz2JJAgbVST5) | 3:35 |
+| 35 | [Radical \(feat\. Grouplove\)](https://open.spotify.com/track/6x6tlwQoLddsOSdbaKDyx6) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Radical \(feat\. Grouplove\)](https://open.spotify.com/album/0oo9h3hC2wlz2JJAgbVST5) | 3:35 |
+| 36 | [MF](https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:17 |
 | 37 | [California Halo Blue](https://open.spotify.com/track/6YA5dsZtMM68VkEpbSSpcD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:53 |
 | 38 | [Flagpole Sitta \(feat\. Elohim\)](https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:09 |
 | 39 | [Jealous Buffoon](https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:09 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 47 | [Shoestrings](https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:11 |
 | 48 | [Cannibals](https://open.spotify.com/track/7lGDiKxrmodlgNvzjZOtws) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:28 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDA4OWZhNjE1NjdmZjM1OGU1ZjE5MjNjNmQ1NjdkMDg1Nw==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA1OTY2Y2I1OGUwZDgzZDVlMTZhZDQyNDJkNjExN2RiZQ==`

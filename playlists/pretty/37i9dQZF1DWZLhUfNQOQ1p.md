@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,933 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,932 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
 | 13 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
-| 15 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
+| 15 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
-| 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
+| 17 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
 | 18 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
 | 19 | [Before the Parade](https://open.spotify.com/track/59toTGL3M0Qyhl8UsWlZbM) | [The Lancelot](https://open.spotify.com/artist/3wy6NtyqVhXqpm32LHZNNJ) | [Before the Parade](https://open.spotify.com/album/1KuuarXiaBMsTySJ3IFB8J) | 3:55 |
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 26 | [Cruel Summer](https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2) | [Daniel Liebt](https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9) | [Cruel Summer](https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk) | 3:29 |
 | 27 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 |
 | 28 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
-| 29 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
+| 29 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
 | 30 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 |
-| 31 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 |
+| 31 | [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 |
 | 32 | [Never Be the Same](https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU), [Agatha Saron](https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO) | [Never Be the Same \(Sons Of Maria vs\. Agatha Saron\)](https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U) | 3:20 |
 | 33 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
 | 34 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDIyYzBlMDQ4OWI0ODg0ODhlMjYwYWE2NTc2NWI5MjIz`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDFmMTc0ZGQ2MmJhNTBlYjNmOGVmYmM0YTNiYWI4MWRl`

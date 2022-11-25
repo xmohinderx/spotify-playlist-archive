@@ -1,57 +1,13 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 2270,
+  "num_followers": 2307,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc2ODcyMiwwMDAwMDAwMDA3NzAxMjc5N2FiZGEwNzVhNzZmY2U1M2FkMTJlNTE4",
+  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMGNkZTNhYzA5ZWVjZTgxNTg0YmM0OGQwMjI2MzVlNTA1",
   "tracks": [
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
-        "name": "Notumato",
-        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
-      },
-      "artists": [
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 471428,
-      "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
-    },
-    {
-      "added_at": "2022-10-12 12:05:24",
-      "album": {
-        "name": "Hamba Wena",
-        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
-      },
-      "artists": [
-        {
-          "name": "Deep London",
-          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        }
-      ],
-      "duration_ms": 374848,
-      "name": "Hamba Wena",
-      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
     {
       "added_at": "2022-11-18 10:52:02",
       "album": {
@@ -79,6 +35,26 @@
       "duration_ms": 446573,
       "name": "Tsela Tse Nyane",
       "url": "https://open.spotify.com/track/7IQbOBVEQTb3lGNNi1e71i"
+    },
+    {
+      "added_at": "2022-10-12 12:05:24",
+      "album": {
+        "name": "Hamba Wena",
+        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
+      },
+      "artists": [
+        {
+          "name": "Deep London",
+          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "duration_ms": 374848,
+      "name": "Hamba Wena",
+      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
     },
     {
       "added_at": "2022-09-15 13:20:05",
@@ -141,6 +117,34 @@
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
     },
     {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "UYATHANDEKA",
+        "url": "https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 471478,
+      "name": "UYATHANDEKA",
+      "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
+    },
+    {
       "added_at": "2022-11-15 09:52:00",
       "album": {
         "name": "Pele Pele",
@@ -163,6 +167,30 @@
       "duration_ms": 317486,
       "name": "Pele Pele",
       "url": "https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE"
+    },
+    {
+      "added_at": "2022-09-15 13:20:05",
+      "album": {
+        "name": "Notumato",
+        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
+      },
+      "artists": [
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 471428,
+      "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
     },
     {
       "added_at": "2022-09-15 13:20:05",
@@ -295,38 +323,6 @@
       "duration_ms": 410586,
       "name": "The Fxckin Injury",
       "url": "https://open.spotify.com/track/4TI2IiuzHSG0ZSiWHpcI1k"
-    },
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/32RQyizKmrCGhZJwaLTUKi"
-      },
-      "artists": [
-        {
-          "name": "Cyfred",
-          "url": "https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4"
-        },
-        {
-          "name": "BenyRic",
-          "url": "https://open.spotify.com/artist/5GNaHlz1LNjlfw4VgkTkMZ"
-        },
-        {
-          "name": "Nkulee501",
-          "url": "https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75"
-        },
-        {
-          "name": "Skroef 28",
-          "url": "https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F"
-        },
-        {
-          "name": "T&T MusiQ",
-          "url": "https://open.spotify.com/artist/2gA3C0nYaIX42pf5XIau1X"
-        }
-      ],
-      "duration_ms": 324983,
-      "name": "Lengoma",
-      "url": "https://open.spotify.com/track/6g7OOSIzUoyLzhbtjpJBYQ"
     },
     {
       "added_at": "2022-09-15 13:20:05",
@@ -487,90 +483,6 @@
     {
       "added_at": "2022-09-15 13:20:05",
       "album": {
-        "name": "3310",
-        "url": "https://open.spotify.com/album/3EPcPHhURKJDhWQBCmmZzE"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        }
-      ],
-      "duration_ms": 417857,
-      "name": "3310",
-      "url": "https://open.spotify.com/track/3VrQOiUF58HYGeWgwGI7Cy"
-    },
-    {
-      "added_at": "2022-11-18 10:52:02",
-      "album": {
-        "name": "Friday Groove Riddim",
-        "url": "https://open.spotify.com/album/2brmroVsMupgSoS1cMQXw9"
-      },
-      "artists": [
-        {
-          "name": "Ace DJ Xquisite",
-          "url": "https://open.spotify.com/artist/4ROfUgX8Mgmm3IarBdh96f"
-        },
-        {
-          "name": "Magicsticks",
-          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
-        }
-      ],
-      "duration_ms": 194988,
-      "name": "Friday Groove Riddim",
-      "url": "https://open.spotify.com/track/5WFJOL0JPKwqWfvrQm1hax"
-    },
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
-        "name": "Yimi Lo",
-        "url": "https://open.spotify.com/album/4qsxQElnfnsgWzkG1ozu6b"
-      },
-      "artists": [
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        }
-      ],
-      "duration_ms": 381428,
-      "name": "Lyf Styl",
-      "url": "https://open.spotify.com/track/1VSqIYu2mCrGgurfE6mdXc"
-    },
-    {
-      "added_at": "2022-11-18 10:52:02",
-      "album": {
-        "name": "KOTTO",
-        "url": "https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV"
-      },
-      "artists": [
-        {
-          "name": "Sifoor",
-          "url": "https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj"
-        },
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "KOTTO",
-      "url": "https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7"
-    },
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
         "name": "Shapa Munne Ep.1",
         "url": "https://open.spotify.com/album/70c2rlqsypfKYzsug2Nyml"
       },
@@ -695,6 +607,22 @@
       "duration_ms": 377624,
       "name": "Ngixolele",
       "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Konibaje",
+        "url": "https://open.spotify.com/album/2T4eR1rRBuQuCASPrzr083"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "duration_ms": 176836,
+      "name": "Konibaje",
+      "url": "https://open.spotify.com/track/7KvL1yYQfJ63Qp0d56gaPm"
     },
     {
       "added_at": "2022-09-15 13:20:05",
@@ -1323,22 +1251,6 @@
     {
       "added_at": "2022-09-15 13:20:05",
       "album": {
-        "name": "Baby Boi III",
-        "url": "https://open.spotify.com/album/5Oqd9wqJO0rj2z7hqyEKbH"
-      },
-      "artists": [
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
-        }
-      ],
-      "duration_ms": 412773,
-      "name": "Untold Stories",
-      "url": "https://open.spotify.com/track/6AyU0cXVSVNBDg7WECKiht"
-    },
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -1543,30 +1455,6 @@
       "duration_ms": 355033,
       "name": "John Vuli Gate (feat. Ntosh Gazi & Colano)",
       "url": "https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC"
-    },
-    {
-      "added_at": "2022-09-15 13:20:05",
-      "album": {
-        "name": "Dlala Captain",
-        "url": "https://open.spotify.com/album/3vMBlNVRJye1Z1mvX7hhlR"
-      },
-      "artists": [
-        {
-          "name": "Dlala Regal",
-          "url": "https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK"
-        },
-        {
-          "name": "Sir Sensei",
-          "url": "https://open.spotify.com/artist/24SqCLXYvCX9ioHoot1bNH"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Dlala Captain - Edit",
-      "url": "https://open.spotify.com/track/6lBqv0Sa93v3Wi5aiS2Y6f"
     },
     {
       "added_at": "2022-09-15 13:20:05",

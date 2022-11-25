@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest South African alternative and indie music. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=1kLL2uwqRpudjJjI6yFrAA\">HONEYMOAN</a>",
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=TsDMEATKR_Gq-4FjsnL6Cw\">Tanaka</a>",
   "name": "SAlt",
   "published_playlist_ids": [
     "725N8DiCOBrEyrBxUeYOar"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 145454,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA"
@@ -81,6 +81,24 @@
       "duration_ms": 77991,
       "name": "All I ask for",
       "url": "https://open.spotify.com/track/7cnK5RmaVkizAJZiJ772T4"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
     },
     {
       "album": {
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 175609,
       "name": "b r o k e n",
       "url": "https://open.spotify.com/track/4zSvDZHmk0mcxwy1ZbeVsL"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 205577,
       "name": "Be Safe",
       "url": "https://open.spotify.com/track/4ew3JQ22NjwC0zyyzx0tob"
@@ -505,6 +523,24 @@
       "duration_ms": 175862,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
+    },
+    {
+      "album": {
+        "name": "Fight For Me",
+        "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226544,
+      "name": "Fight For Me",
+      "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
     },
     {
       "album": {
@@ -1220,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "album": {
         "name": "Shooting Stars",
         "url": "https://open.spotify.com/album/6aT6t9qHQEJirp6hlWnDlQ"
       },
@@ -1350,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home (One Take)",
+        "url": "https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY"
+      },
+      "artists": [
+        {
+          "name": "True nESS",
+          "url": "https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141480,
+      "name": "Take Me Home (One Take)",
+      "url": "https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz"
+    },
+    {
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
       },
@@ -1383,6 +1455,32 @@
       "duration_ms": 251400,
       "name": "Through The Misty With You - From \u201cThe Score\u201d",
       "url": "https://open.spotify.com/track/2yhH4M2YAc2jzFhOYDQ6K5"
+    },
+    {
+      "album": {
+        "name": "Solplay Tape, Vol. 1 (Mixtape)",
+        "url": "https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg"
+      },
+      "artists": [
+        {
+          "name": "VOLDY",
+          "url": "https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/3Qsuw3KJY0DZDEBHR7uRPe"
+        },
+        {
+          "name": "SwimGood",
+          "url": "https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130142,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A"
     },
     {
       "album": {
@@ -1585,7 +1683,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 209293,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G"
@@ -1603,7 +1701,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 153163,
       "name": "You Wouldn't Understand",
       "url": "https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9"

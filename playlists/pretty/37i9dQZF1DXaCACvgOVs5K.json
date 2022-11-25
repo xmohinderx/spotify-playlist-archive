@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 71822,
+  "num_followers": 72029,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMGMyZjY2N2YyOWNkMjVmMjgxNzI3ZDlhNDA4MjVmOGYx",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDU3ODJmNDRmMWI4YzM4Mjc3MzVjNmQ4OThjMDNhZDFh",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -883,34 +883,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Lonely Heart",
-        "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        },
-        {
-          "name": "Europa",
-          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
-        }
-      ],
-      "duration_ms": 167526,
-      "name": "Lonely Heart",
-      "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
@@ -947,6 +919,34 @@
       "duration_ms": 489480,
       "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
       "url": "https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        },
+        {
+          "name": "Europa",
+          "url": "https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC"
+        }
+      ],
+      "duration_ms": 167526,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Know My Name",
-        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Know My Name",
-      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "Deep End (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 196666,
       "name": "Deep End - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Universal Consciousness EP",
-        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 400624,
-      "name": "Universal Consciousness",
-      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "Universal Consciousness EP",
+        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 400624,
+      "name": "Universal Consciousness",
+      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "La Murga (Michael's Midnight Mix)",
-        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 206971,
-      "name": "La Murga - Michael's Midnight Mix",
-      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+        "name": "La Murga (Michael's Midnight Mix)",
+        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+      "duration_ms": 206971,
+      "name": "La Murga - Michael's Midnight Mix",
+      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
     },
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1911,18 +1911,22 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
+        "name": "O Retha",
+        "url": "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Crush Club",
+          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
         }
       ],
-      "duration_ms": 348306,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/54TgI46OnNqcf0SyzQyCL6"
+      "duration_ms": 228407,
+      "name": "O Retha",
+      "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
     }
   ],
   "unique_name": "Ibiza 2022",

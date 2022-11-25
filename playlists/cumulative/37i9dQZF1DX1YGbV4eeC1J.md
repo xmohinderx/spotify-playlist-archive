@@ -4,7 +4,7 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-59 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
+60 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/7JISV0PYVntzUTc3mfFjMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 | 2022-05-26 |  |
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 |  |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 |  |
+| [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-24 |  |
 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 |  |
 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-05-26 |  |
 | [Mapenzi](https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:35 | 2022-05-26 | 2022-11-18 |
@@ -58,7 +59,7 @@
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 |  |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2022-05-26 |  |
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 |  |
-| [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 |  |
+| [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 | 2022-11-25 |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 |  |
 | [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 |  |

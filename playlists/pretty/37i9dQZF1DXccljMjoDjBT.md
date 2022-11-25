@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,658 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,015 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 52 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
 | 53 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 |
 | 54 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 55 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
-| 56 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 |
+| 55 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 |
+| 56 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 57 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 58 | [Althea \- 2013 Remaster](https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 6:52 |
 | 59 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 70 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 |
 | 71 | [A Face In The Crowd](https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 3:59 |
 | 72 | [Angelia](https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 5:17 |
-| 73 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 |
-| 74 | [Romeo and Juliet](https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh) | 6:01 |
+| 73 | [Romeo and Juliet](https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh) | 6:01 |
+| 74 | [The Best Of Times](https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:17 |
 | 75 | [The Living Years](https://open.spotify.com/track/7tJnjRY2js0yXtNUWE4fgF) | [Mike + The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Living Years](https://open.spotify.com/album/0d8h3wYNXHFKVeIedrehrs) | 5:30 |
 | 76 | [Leather and Lace \- 2016 Remaster](https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:45 |
 | 77 | [Shame On The Moon](https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [I Should Have Known Better](https://open.spotify.com/track/06Q8OSgrnDx0NNDf0oeOtd) | [Jim Diamond](https://open.spotify.com/artist/4MC3knlcFjcW7nt2hdn4Dk) | [The Best 80s Love Songs Album In The World...Ever!](https://open.spotify.com/album/7zNZ7yIrl8riW5m4FXiedC) | 3:38 |
 
-Snapshot ID: `MTY2ODcwMDM3NSwwMDAwMDAwMDcwYWFlZmY1ZWZkMTU1MzUyNDU5YTlkYjllOGUyMGUw`
+Snapshot ID: `MTY2ODcwMDM3NSwwMDAwMDAwMGZkZmE2NjA1MzMzYTBmYWY5Zjk5ZGU5NmM0NWZhN2Jl`

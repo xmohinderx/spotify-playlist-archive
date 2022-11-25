@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 636503,
+  "num_followers": 637005,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc4NDQxOCwwMDAwMDAwMDkyMjZhNWU4NDcwMjAyNDQxZTZmNzY1MmI3MWVhOTYx",
+  "snapshot_id": "MTY2Njc4NDQxOCwwMDAwMDAwMDUwYjY0YzEzYjlhNTBkMDYwYzNjMjA3MTUyNmNjMGRh",
   "tracks": [
     {
       "added_at": "2022-09-30 14:44:41",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-30 14:44:41",
       "album": {
+        "name": "Up (Instrumental)",
+        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
+    },
+    {
+      "added_at": "2022-09-30 14:44:41",
+      "album": {
         "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
         "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": "2022-09-30 14:44:41",
-      "album": {
-        "name": "Up (Instrumental)",
-        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
     },
     {
       "added_at": "2022-09-30 14:44:41",

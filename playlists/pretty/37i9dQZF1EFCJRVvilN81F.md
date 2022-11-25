@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,172 likes - 105 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179 likes - 105 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 25 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 |
 | 26 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 |
 | 27 | [At All](https://open.spotify.com/track/0aR99yr1CNoxlZxm2veB65) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/6VD74xHxGq77aSCaTSMDIw) | 4:47 |
-| 28 | [ONE TOO MANY](https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:38 |
-| 29 | [LEAVE ME ALONE](https://open.spotify.com/track/4yYJUgayu4jKB258dukWaF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 |
+| 28 | [LEAVE ME ALONE](https://open.spotify.com/track/4yYJUgayu4jKB258dukWaF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 |
+| 29 | [ONE TOO MANY](https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:38 |
 | 30 | [Rush](https://open.spotify.com/track/1mObaffqm7cPSUUbNZuiNJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:50 |
 | 31 | [Your Time \(feat\. KAYTRANADA\)](https://open.spotify.com/track/7JzXmXuqPRJNClCdOAE1Ah) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Missing Link](https://open.spotify.com/album/6GxbfAJrMfFhMNjuAYJ7Z0) | 4:04 |
 | 32 | [NOTHIN LIKE U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5yPrF4nP6JoaXV8TIjndPc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 55 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 56 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
 | 57 | [Telling The Truth](https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 3:57 |
-| 58 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
-| 59 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
+| 58 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
+| 59 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
 | 60 | [Driftin'](https://open.spotify.com/track/3ViHeWphifuEGsSipW3uoz) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:54 |
 | 61 | [Typically Her \- Kaytranada Edition](https://open.spotify.com/track/73enYVf3Nm3WSmdztzJOjz) | [Beverlay](https://open.spotify.com/artist/0Qlftb3wGkmMwK1m81UdSx) | [Nova Tunes 2.8](https://open.spotify.com/album/3sZtdc5cA6mCQDxqJC6WlQ) | 3:44 |
 | 62 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/6IdCoC26mus1crAnWEiG9j) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:03 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 104 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 105 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `Mjc4MjA4NjksMDAwMDAwMDAyOWU3YWQ0YzM5YmJmNjE4MTY0Y2ExYzM1ZDMwMTNjMw==`
+Snapshot ID: `Mjc4MjIzMTksMDAwMDAwMDBlNzU4YTIwZDQzOGRmYzgyMmM0N2QzZGI5MjdhMzIyYw==`

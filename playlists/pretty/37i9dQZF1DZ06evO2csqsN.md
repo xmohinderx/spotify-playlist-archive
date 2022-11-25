@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,790 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,842 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 14 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
 | 15 | [B\*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B\*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 |
 | 16 | [Live My Best Life \(with Snoop Dogg & Latto\)](https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 2:43 |
-| 17 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
+| 17 | [One Light \(feat\. Yung Bleu\) \- Remix](https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [One Light \(feat\. Yung Bleu\) \[Remix\]](https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g) | 3:15 |
 | 18 | [Make Em Say \(feat\. Latto\)](https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:22 |
-| 19 | [One Light \(feat\. Yung Bleu\) \- Remix](https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [One Light \(feat\. Yung Bleu\) \[Remix\]](https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g) | 3:15 |
+| 19 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
 | 20 | [5'5 \(feat\. Latto\)](https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 2:48 |
 | 21 | [Baby Wyd \(Remix\) \(feat\. Latto & Lakeyah\)](https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 3:48 |
 | 22 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Longway](https://open.spotify.com/track/25AujQLIytQyTmdEIVRE8V) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Latto](https://open.spotify.com/album/3JfwblqPm4qtegXObm9ZiM) | 2:41 |
 | 50 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDBkYzg4YjUyMWNlNTEzN2M4NGMzZWJhZWRlNjQ5YjFmYg==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDBlOWEzZjZhMTVlNTg2ODFmNDk2OWEwODM3OWY5ZTQzNA==`

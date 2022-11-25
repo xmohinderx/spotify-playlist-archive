@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju?si=GRhh15u3Q0KokSLJhHrBfw\"> Focalistic</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=80bGX4JKTpKyunvkOigNXg\"> DBN Gogo</a>  ",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 191505,
       "name": "Money & Love",
       "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
@@ -4135,6 +4135,36 @@
       "duration_ms": 458772,
       "name": "uThando (feat. Aymos)",
       "url": "https://open.spotify.com/track/5ZOpzOg9JuKFQ5Q6aUYPix"
+    },
+    {
+      "album": {
+        "name": "UYATHANDEKA",
+        "url": "https://open.spotify.com/album/1xJnRQlIhkJsZSwLgZxEGp"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471478,
+      "name": "UYATHANDEKA",
+      "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
     },
     {
       "album": {

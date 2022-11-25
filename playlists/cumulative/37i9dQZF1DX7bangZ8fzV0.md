@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=cDwCrdEYT0myEkr4CvIMng">Dodo Nyoka</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=0IyWnw1PSRCm3TShrrq6Xg">Barto</a>
 
-75 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
+77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3e1GdHUgFT8NgWwl0UpVff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,10 @@
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 | 2022-10-29 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 |  |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
+| [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-07-21 |  |
 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 | 2021-11-18 |  |
-| [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 |  |
+| [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 | 2022-11-25 |
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 |  |
 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 | 2021-12-02 |  |
 | [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 | 2022-10-13 | 2022-11-18 |
@@ -50,8 +51,9 @@
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 |  |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |
 | [Marie](https://open.spotify.com/track/2jVwAnPHfeVeUyEEk4ERFU) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Marie](https://open.spotify.com/album/3GOXoNZKODuAhlhXBVAQHy) | 3:21 | 2022-09-08 | 2022-10-14 |
-| [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 |  |
+| [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 |  |
+| [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 |  |
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |
 | [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 |  |

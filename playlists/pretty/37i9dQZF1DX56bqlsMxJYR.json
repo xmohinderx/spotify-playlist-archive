@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 873685,
+  "num_followers": 874523,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ1NTI5MSwwMDAwMDAwMDI5N2ZkMGVjN2YzMDgwNGYzN2UxZTM1MThmOTcwOWU4",
+  "snapshot_id": "MTY2NTQ1NTI5MSwwMDAwMDAwMDFmNDkyMDBmZThmNjIxOGU2ZDk5YWZkZGQ3N2JhYTMy",
   "tracks": [
     {
       "added_at": "2022-10-10 23:51:59",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-11 02:18:55",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
       "added_at": "2022-10-11 02:18:55",
       "album": {
         "name": "For Once In My Life",
@@ -415,6 +399,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-11 02:18:55",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
-      },
-      "artists": [
-        {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+      },
+      "artists": [
+        {
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono / 1997 Remastered",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
       "added_at": "2022-10-10 23:51:59",
       "album": {
         "name": "Everybody Loves Somebody",
@@ -895,6 +879,22 @@
       "duration_ms": 164546,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-11 02:18:55",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "All You Need Is Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
-    },
-    {
       "added_at": "2022-10-10 23:51:59",
       "album": {
         "name": "Buddy Holly",
@@ -1287,6 +1271,22 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
       "added_at": "2022-10-10 23:51:59",
       "album": {
         "name": "Four Tops",
@@ -1415,6 +1399,22 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194216,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
-    },
-    {
       "added_at": "2022-10-10 23:51:59",
       "album": {
         "name": "Sings the Songs that Made Him Famous",
@@ -1485,6 +1469,22 @@
       "url": "https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j"
     },
     {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194216,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
+    },
+    {
       "added_at": "2022-10-10 23:51:59",
       "album": {
         "name": "The Essential Roy Orbison",
@@ -1499,22 +1499,6 @@
       "duration_ms": 176933,
       "name": "Oh, Pretty Woman",
       "url": "https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 197093,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -1563,6 +1547,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 163680,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -1859,6 +1859,38 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2022-10-11 02:18:55",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
         "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
@@ -1879,22 +1911,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
-      },
-      "artists": [
-        {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
-        }
-      ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 116026,
       "name": "Yakety Yak - 2007 Remaster",
       "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
-    },
-    {
-      "added_at": "2022-10-11 02:18:55",
-      "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2022-10-11 02:18:55",
@@ -2007,8 +2007,8 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
       "artists": [
         {
@@ -2016,9 +2016,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -2087,8 +2087,8 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
       "artists": [
         {
@@ -2096,9 +2096,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+      "duration_ms": 139506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-10-10 23:51:59",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
-    },
-    {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 151706,
       "name": "Perhaps, Perhaps, Perhaps",
       "url": "https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
     },
     {
       "added_at": "2022-10-10 23:51:59",
@@ -2393,22 +2393,6 @@
       "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
     },
     {
-      "added_at": "2022-10-10 23:51:59",
-      "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
-      },
-      "artists": [
-        {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
-    },
-    {
       "added_at": "2022-10-11 02:18:55",
       "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
@@ -2423,6 +2407,22 @@
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-10-10 23:51:59",
+      "album": {
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
+      },
+      "artists": [
+        {
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
+        }
+      ],
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
     },
     {
       "added_at": "2022-10-10 23:51:59",

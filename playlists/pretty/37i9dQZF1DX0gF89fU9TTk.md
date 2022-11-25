@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,454 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,526 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 23 | [Lifeline](https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Lifeline](https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW) | 3:14 |
 | 24 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 25 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 |
-| 26 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
-| 27 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 26 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
+| 27 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 28 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 29 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 30 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 |
 | 31 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
 | 32 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
-| 33 | [BETTER WITH YOU](https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [BETTER WITH YOU](https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz) | 2:46 |
-| 34 | [Momentum](https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV) | 3:14 |
+| 33 | [Momentum](https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV) | 3:14 |
+| 34 | [BETTER WITH YOU](https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [BETTER WITH YOU](https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz) | 2:46 |
 | 35 | [Tightrope](https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Ages](https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k) | 3:44 |
 | 36 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
 | 37 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 70 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
 | 71 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 |
 | 72 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 |
-| 73 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
-| 74 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
+| 73 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
+| 74 | [Gravity](https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Gravity](https://open.spotify.com/album/0OOBKQWUax70V9bF7gvdDc) | 3:22 |
 | 75 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 
-Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMGJkMzJhMGI0YTIwMTE3YmE3YjJkMjg1NjQ1MzllNmVl`
+Snapshot ID: `MTY0MDkzMjEwOSwwMDAwMDAwMDhkYzhjZDZhMDI5NDE0ZTExMWM1Y2M2YWM2N2I2YWQ4`

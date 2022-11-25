@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189338,
       "name": "Can't Forgive",
       "url": "https://open.spotify.com/track/1prWAsunNCjB4nuoTkqVuN"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189735,
       "name": "DEH DEH",
       "url": "https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf"
@@ -3702,6 +3702,24 @@
     },
     {
       "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+    },
+    {
+      "album": {
         "name": "Internet Trolls",
         "url": "https://open.spotify.com/album/6cgml95XCwzKGVL0JIEriQ"
       },
@@ -4093,7 +4111,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 178000,
       "name": "LA Leakers Freestyle",
       "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
@@ -4439,6 +4457,28 @@
       "duration_ms": 181747,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/5I9eYV4oLOC469oOTi9rTm"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/7GSb6XEHLu8ISjuaxtU7tW"
+      },
+      "artists": [
+        {
+          "name": "Outcast Music",
+          "url": "https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/0gsuGg31HJgIiVSlqBpX2S"
     },
     {
       "album": {
@@ -5184,6 +5224,32 @@
     },
     {
       "album": {
+        "name": "OCD RIDDIM (Part 2)",
+        "url": "https://open.spotify.com/album/5fIRfzeWMzYiQxxBaqXwwE"
+      },
+      "artists": [
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        },
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        },
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "OCD RIDDIM (Part 2)",
+      "url": "https://open.spotify.com/track/6UaX2QFl9ePHMcRWkGY0Ab"
+    },
+    {
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI"
       },
@@ -5765,6 +5831,28 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+    },
+    {
+      "album": {
+        "name": "PSA",
+        "url": "https://open.spotify.com/album/6ApHyivdjMRRafCdmg9fX8"
+      },
+      "artists": [
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        },
+        {
+          "name": "CH (GMD)",
+          "url": "https://open.spotify.com/artist/0GB9JwyieSfl4FONkheT6k"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "PSA",
+      "url": "https://open.spotify.com/track/73xqPVwc4XZcoAp93eDhkV"
     },
     {
       "album": {
@@ -6805,7 +6893,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 150889,
       "name": "Ten Toes",
       "url": "https://open.spotify.com/track/2l6cWeDkec1ZZbiMlI47kR"
@@ -6911,6 +6999,24 @@
       "duration_ms": 157440,
       "name": "They Want It, But No",
       "url": "https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA"
+    },
+    {
+      "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
     },
     {
       "album": {
@@ -7345,7 +7451,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 151510,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv"

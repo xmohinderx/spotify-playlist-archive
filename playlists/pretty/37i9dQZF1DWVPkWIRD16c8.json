@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29077,
+  "num_followers": 29168,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDZhODAxZDljOGZiOTY3ZjEyMWNkZjA2ODkzN2M1ZWQ0",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGUxYjJjOTYyZTA3OTVkMWNmNjdkZjkxMjBkZTQyODUx",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "The Best Yet",
         "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 246826,
       "name": "Dare You to Move",
       "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -687,6 +687,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
     },
     {
       "added_at": "2019-11-20 07:28:20",

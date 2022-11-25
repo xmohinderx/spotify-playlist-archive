@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: MONSS",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Koven",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -151,6 +151,24 @@
       "duration_ms": 259764,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/46OCS9qV8Vsa9PNFV95bTL"
+    },
+    {
+      "album": {
+        "name": "All U Gotta Do",
+        "url": "https://open.spotify.com/album/5eBnGbTjE9gIFh7IC01EEI"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225785,
+      "name": "All U Gotta Do",
+      "url": "https://open.spotify.com/track/1Uk6kqbSTNFBqXACE4Vv6A"
     },
     {
       "album": {
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 259310,
       "name": "Be The Reason",
       "url": "https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi"
@@ -1263,6 +1281,28 @@
       "duration_ms": 273106,
       "name": "Code Red - 94 Extended Remix",
       "url": "https://open.spotify.com/track/7yL3wCDOfjfvs7gYvh0DSO"
+    },
+    {
+      "album": {
+        "name": "Collecting Thoughts",
+        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Collecting Thoughts",
+      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     },
     {
       "album": {
@@ -3505,7 +3545,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 206485,
       "name": "Living For The Moment",
       "url": "https://open.spotify.com/track/4IjRB1gSSwBWgBTwbmKrS0"
@@ -3527,7 +3567,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 177931,
       "name": "Load Up",
       "url": "https://open.spotify.com/track/6BiTUkRQlhd9Srio14CZcr"
@@ -4219,6 +4259,28 @@
       "duration_ms": 298784,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/3NIJcdXRPZNRJtfgXB9Fwl"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Tom Cane",
+          "url": "https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/590bkJ03KhVwsSlCZi7oUj"
     },
     {
       "album": {
@@ -4962,6 +5024,32 @@
     },
     {
       "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/6xj53G72xDqejDEeqYXCyx"
+      },
+      "artists": [
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Synth System",
+          "url": "https://open.spotify.com/artist/6QsoTtZ0wvLWa31H7jg068"
+        },
+        {
+          "name": "Anna Simone",
+          "url": "https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "Return To You",
+      "url": "https://open.spotify.com/track/38gqmMpi72rUsoE1NI4MRY"
+    },
+    {
+      "album": {
         "name": "Sampler 1: Sofa King Sick, Chapter 3",
         "url": "https://open.spotify.com/album/1myJoorvSNwRXaadYUs9kd"
       },
@@ -5079,7 +5167,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 291944,
       "name": "Running Back",
       "url": "https://open.spotify.com/track/3INtpS78393i2Y9A7ZHSWh"
@@ -5523,6 +5611,24 @@
       "duration_ms": 290842,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/5wN3p3JA3LadVYxbcqfiLo"
+    },
+    {
+      "album": {
+        "name": "So Tell Me\u2026",
+        "url": "https://open.spotify.com/album/4BH2rFhaoB6HBgX8fSeeyb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "So Tell Me\u2026",
+      "url": "https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd"
     },
     {
       "album": {
@@ -6875,7 +6981,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 184000,
       "name": "Weed & Wine",
       "url": "https://open.spotify.com/track/1eAdTClFtvmuGheritC6VF"

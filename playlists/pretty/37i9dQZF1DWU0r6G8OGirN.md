@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,393 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,745 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 54 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 |
 | 55 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 56 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
-| 57 | [O Little Town of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
+| 57 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
 | 58 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
 | 59 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
 | 60 | [Winter Wonderland](https://open.spotify.com/track/09hSLe9VWIOT5uiMDufJZF) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 2:47 |

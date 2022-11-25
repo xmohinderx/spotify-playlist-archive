@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: GALE",
-  "num_followers": 264243,
+  "num_followers": 264334,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1NjUzNiwwMDAwMDAwMGJkOWNjYjMzN2Q1Y2Q1NjEyMGE0M2RhYWY2ZTJiNWEx",
+  "snapshot_id": "MTY2Njk1NjUzNiwwMDAwMDAwMGI4NzA3NTQwZjUzYTk0YjQwNTdjYjE2MjdlNWFiNTMx",
   "tracks": [
     {
       "added_at": "2022-10-28 11:28:56",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-28 11:28:56",
       "album": {
+        "name": "Freno",
+        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Freno",
+      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+    },
+    {
+      "added_at": "2022-10-28 11:28:56",
+      "album": {
         "name": "Skapat",
         "url": "https://open.spotify.com/album/4py1UOmRZJ7uUzgchzoeyC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 162000,
       "name": "Skapat",
       "url": "https://open.spotify.com/track/0iFLPu2hj9ROYDh3tzHIhr"
-    },
-    {
-      "added_at": "2022-10-28 11:28:56",
-      "album": {
-        "name": "Freno",
-        "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Freno",
-      "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
     },
     {
       "added_at": "2022-10-28 11:28:56",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-28 11:28:56",
       "album": {
-        "name": "R\u00f3mpelo",
-        "url": "https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K"
-      },
-      "artists": [
-        {
-          "name": "Arkano",
-          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
-        }
-      ],
-      "duration_ms": 186993,
-      "name": "R\u00f3mpelo",
-      "url": "https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO"
-    },
-    {
-      "added_at": "2022-10-28 11:28:56",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 171313,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv"
+    },
+    {
+      "added_at": "2022-10-28 11:28:56",
+      "album": {
+        "name": "R\u00f3mpelo",
+        "url": "https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K"
+      },
+      "artists": [
+        {
+          "name": "Arkano",
+          "url": "https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ"
+        }
+      ],
+      "duration_ms": 186993,
+      "name": "R\u00f3mpelo",
+      "url": "https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO"
     },
     {
       "added_at": "2022-10-28 11:28:56",

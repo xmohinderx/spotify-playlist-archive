@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Chilli Jesson
+> The best in current indie rock\. Cover: Jadu Heart
 
-330 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+332 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-18 | 2022-10-07 |
 | [Charmer And The Snake](https://open.spotify.com/track/0VnKOTCpqOzTG8BXkiyQEe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:49 | 2021-10-15 | 2022-08-19 |
 | [Chinese Medicine](https://open.spotify.com/track/4zbpCp1NiRHJXKLDM1Mf4u) | [King Nun](https://open.spotify.com/artist/0FHPAcPoHtExxmF68aEChO) | [Chinese Medicine](https://open.spotify.com/album/3vC4E2uwamB6d9hFE03NLw) | 2:45 | 2021-03-09 | 2022-01-17 |
-| [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 | 2022-09-22 |  |
+| [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 | 2022-09-22 | 2022-11-25 |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2021-07-16 | 2022-08-19 |
 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-06 |  |
 | [Cocoon](https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Cocoon](https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR) | 4:07 | 2022-08-18 | 2022-10-07 |
@@ -122,6 +122,7 @@
 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 |  |
 | [Forever](https://open.spotify.com/track/2cmDPqRq97ivaQcjUo8erq) | [Repenter](https://open.spotify.com/artist/4sFVHlvgogxZ41szbq6wip) | [Forever](https://open.spotify.com/album/5AGEqq97zCOGgd0PfjbujC) | 4:10 | 2021-03-09 | 2022-01-17 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-04 | 2022-04-02 |
+| [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 | 2022-11-25 |  |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-08-18 | 2022-10-07 |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-17 | 2022-02-04 |
 | [Get the Piss Up](https://open.spotify.com/track/1O2qx7Q2Qm1LYxzCMHqYLn) | [Broken Baby](https://open.spotify.com/artist/3HqT4VT5m66V7HvOgxtmoA) | [Get the Piss Up](https://open.spotify.com/album/7pcNOY0MHc4kbVa5qTAMHN) | 3:34 | 2021-07-16 | 2022-08-19 |
@@ -155,6 +156,7 @@
 | [Hollywood Factory](https://open.spotify.com/track/6mr4kZOSDLgyTdzsUDySdQ) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [The Make It All Show](https://open.spotify.com/album/0PaV2cQZJLbjYjnZRoYq2f) | 2:55 | 2021-03-09 | 2022-01-17 |
 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [How Are You Feeling?](https://open.spotify.com/track/2ctbvOJeepAPf51RoeBE4m) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [How Are You Feeling?](https://open.spotify.com/album/54TbLSAUGAQIIZSW4s8Jwu) | 2:56 | 2022-08-18 | 2022-11-18 |
+| [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 |  |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-06 |  |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 | 2022-11-20 |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-18 | 2022-07-29 |
@@ -243,7 +245,7 @@
 | [R Entertainment](https://open.spotify.com/track/2FL3nYZ8T0HmluyJx83FEL) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/32RAzHZGl1TmEx6C24Cd5X) | 3:08 | 2022-04-01 | 2022-08-19 |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
-| [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 |  |
+| [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 | 2022-11-25 |
 | [Remains](https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 4:07 | 2022-09-01 | 2022-11-18 |
 | [rid of me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-22 |  |
 | [Roadkill](https://open.spotify.com/track/5o0KFn33JBbKfoVXUkD1sd) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63) | 3:25 | 2021-06-25 | 2022-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,518 likes - 136 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,530 likes - 136 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

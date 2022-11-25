@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,870 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,054 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 5 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 6 | [スカイブルー](https://open.spotify.com/track/76JZBSd8oq8USE4gRwdxtz) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [スカイブルー](https://open.spotify.com/album/4kvE2PgtYvZ0LY3rrKOg0S) | 3:16 |
 | 7 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
-| 8 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/7H4Uw9BWE43eV7Ut2HjvQl) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 |
+| 8 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 |
 | 9 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 |
 | 10 | [Nagisa Hotel](https://open.spotify.com/track/4e8gNWPaGuAqXpvtgh4tTM) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:38 |
 | 11 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 33 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 |
 | 34 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 35 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 36 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
+| 36 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 37 | [MERRY X'MAS IN SUMMER](https://open.spotify.com/track/2U99CkOaKJ000EV8GqMS1E) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [MERRY X'MAS IN SUMMER](https://open.spotify.com/album/60iBZ6OLMcN1CU11E3MNzw) | 5:05 |
 | 38 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
 | 39 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
 | 40 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 |
 | 41 | [いつか何処かで\(I FEEL THE ECHO\)](https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 5:20 |
-| 42 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
+| 42 | [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 |
 | 43 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
 | 44 | [Don't Think Twice \(It's not over\)](https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:09 |
-| 45 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
+| 45 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 46 | [DADADADA!!](https://open.spotify.com/track/5GKUID6YTAM4ps2u5Urw6t) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [キミボク](https://open.spotify.com/album/1DhaAjt9xfSjJP8juoYf0t) | 4:22 |
-| 47 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
+| 47 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
 | 48 | [魔法](https://open.spotify.com/track/5kxL7DfGUkUuGxaocTqMeG) | [LACCO TOWER](https://open.spotify.com/artist/47VpPVgXyjyV2pIShGpUud) | [魔法](https://open.spotify.com/album/4fCHFQoHBE7NOJ5l3s9c0i) | 4:19 |
 | 49 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 50 | [深緑の Morning glow](https://open.spotify.com/track/4nHZgxPtYZHW2julZsOs5V) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:13 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGU1OGM5OWVjZmI4N2IwMmE0YzQ1MTI4OGI5ZDY1Yzc3`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDdjYjNkNGY0MmM4NTNlMGY0YmIzOTJmNzhiNjIxOTli`

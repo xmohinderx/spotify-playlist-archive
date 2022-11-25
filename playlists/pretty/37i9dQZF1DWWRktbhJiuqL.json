@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
-  "num_followers": 1513775,
+  "num_followers": 1514300,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDU5M2JiYzFjNTVhMGUyNGQ0YjhlNGIyMmEwOWM1NzBj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDMyY2ZiZWVjNTRlMjQyMjNlZjkwMGNhMWIwNmYxMjQ1",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Climbing!",
+        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Climbing!",
-        "url": "https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP"
-      },
-      "artists": [
-        {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 146480,
-      "name": "Jailhouse Rock",
-      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
+      "duration_ms": 235560,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+      "duration_ms": 146480,
+      "name": "Jailhouse Rock",
+      "url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Since You Been Gone",
-      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Since You Been Gone",
+      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
       "artists": [
         {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+      },
+      "artists": [
+        {
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
       "artists": [
         {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
+      "duration_ms": 247613,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
         }
       ],
-      "duration_ms": 247613,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     }
   ],
   "unique_name": "Pure Rock & Roll",

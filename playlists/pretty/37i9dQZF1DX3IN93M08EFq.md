@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,677 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,692 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 25 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 26 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
 | 27 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 28 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
+| 28 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 |
 | 29 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
-| 30 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 |
-| 31 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
-| 32 | [Come On Eileen \- Single Edit](https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Too\-Rye\-Ay \(As It Should Have Sounded 2022\)](https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h) | 3:25 |
+| 30 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
+| 31 | [Come On Eileen \- Single Edit](https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk), [Kevin Rowland](https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m) | [Too\-Rye\-Ay \(As It Should Have Sounded 2022\)](https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h) | 3:25 |
+| 32 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
 | 33 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 34 | [Från och med Du](https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Vilja Bli](https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp) | 3:13 |
 | 35 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Jonny Boy](https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [III](https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5) | 3:25 |
 | 45 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 |
 
-Snapshot ID: `MTYyMzc0OTEwNSwwMDAwMDAwMGM3NDlkMjlmOGFkMjAyN2FiYzhlNzEyOTNmYzNjMjA3`
+Snapshot ID: `MTYyMzc0OTEwNSwwMDAwMDAwMGI5MmY1NmFkYWMxYjQ1NGI5NWMzMmEwYWY5YjU0Yjg1`

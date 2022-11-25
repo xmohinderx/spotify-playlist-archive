@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridareee \u2764\ufe0f\u200d\ud83e\ude79 cover: taxi b",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 frada in cover",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "0 SENTIMENTO",
+        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
+      },
+      "artists": [
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149629,
+      "name": "0 SENTIMENTO",
+      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
     {
       "album": {
         "name": "1,2,3 Stella",
@@ -494,6 +512,28 @@
     },
     {
       "album": {
+        "name": "Andr\u00e0 Tutto Bene",
+        "url": "https://open.spotify.com/album/3KNhhz6W12CP62GdXt383e"
+      },
+      "artists": [
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Andr\u00e0 Tutto Bene",
+      "url": "https://open.spotify.com/track/1PawQdWbmeDiOcE3kDhQ5d"
+    },
+    {
+      "album": {
         "name": "Anima Persa",
         "url": "https://open.spotify.com/album/41hETtBNsistPUEAtqyXKV"
       },
@@ -701,7 +741,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 159837,
       "name": "BEIBE",
       "url": "https://open.spotify.com/track/6WRFAQug16ogOiOdEHINzO"
@@ -931,7 +971,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 129198,
       "name": "Carrello di SHEIN",
       "url": "https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC"
@@ -957,7 +997,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 152665,
       "name": "Cazzo vuoi?!",
       "url": "https://open.spotify.com/track/47fWFRXXsKLiRU9tiZod01"
@@ -1317,6 +1357,24 @@
       "duration_ms": 136000,
       "name": "Distrutto",
       "url": "https://open.spotify.com/track/7bHMFs5ueeFuDL1N5NiN9E"
+    },
+    {
+      "album": {
+        "name": "Bart Forever",
+        "url": "https://open.spotify.com/album/3ev1xSnhoKNPS45C7LL1pc"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Diverso",
+      "url": "https://open.spotify.com/track/1ii7KHvn46DhqR2ucG0AOt"
     },
     {
       "album": {
@@ -1912,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "Fuoriluogo",
+        "url": "https://open.spotify.com/album/0lMO5329mQD3O4V0Y61A5A"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148357,
+      "name": "Fuoriluogo",
+      "url": "https://open.spotify.com/track/6Q1NlWzwFK3KGgpBE7WUgH"
+    },
+    {
+      "album": {
         "name": "generazione // love kids",
         "url": "https://open.spotify.com/album/6UinIuQGxZFG43qqfhbSHC"
       },
@@ -2072,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "RAVE, ECLISSI",
+        "url": "https://open.spotify.com/album/0eqtPtuyfh2prrAWApMCgK"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "GLI ANNI MIGLIORI",
+      "url": "https://open.spotify.com/track/09SjR6PZI4nRoPjdguS6vu"
+    },
+    {
+      "album": {
         "name": "Amaranto",
         "url": "https://open.spotify.com/album/6u428KL8ujONkv4bJ2dzoV"
       },
@@ -2123,7 +2217,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189473,
       "name": "Gotham City",
       "url": "https://open.spotify.com/track/6DLsle6lTv5zbtZIglRFGU"
@@ -2297,7 +2391,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 166956,
       "name": "houston.",
       "url": "https://open.spotify.com/track/44484FfnypEERbTMTQrYc2"
@@ -2576,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "L'anima balla",
+        "url": "https://open.spotify.com/album/20t4Fh0OdFRgEUQwpiTE7D"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156620,
+      "name": "L'anima balla",
+      "url": "https://open.spotify.com/track/65NR4YkJwlGhOtCwZMMAen"
+    },
+    {
+      "album": {
         "name": "LA CANZONE DELLA SBORRA",
         "url": "https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk"
       },
@@ -2643,6 +2755,24 @@
       "duration_ms": 230787,
       "name": "LA SAD ITALIANA",
       "url": "https://open.spotify.com/track/6Y4025mVnPucBiUDdQZk1p"
+    },
+    {
+      "album": {
+        "name": "La tua laurea",
+        "url": "https://open.spotify.com/album/7vdObNu7UCLkAI4eVeHtPv"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191928,
+      "name": "La tua laurea",
+      "url": "https://open.spotify.com/track/0fW72MeciQU95GEXe3LMzB"
     },
     {
       "album": {
@@ -3099,7 +3229,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 167868,
       "name": "Male e Bene",
       "url": "https://open.spotify.com/track/7tkwRpNRH4l15B070Tdzqi"
@@ -3528,6 +3658,24 @@
     },
     {
       "album": {
+        "name": "Non Piangere",
+        "url": "https://open.spotify.com/album/0leAdGkv75n8mgSd2VDgV9"
+      },
+      "artists": [
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Non Piangere",
+      "url": "https://open.spotify.com/track/34a6K461hJ4NHZH8ZakM2K"
+    },
+    {
+      "album": {
         "name": "NON TI PENSO PI\u00d9",
         "url": "https://open.spotify.com/album/3x1BSogUIGvctSOjpbLcMW"
       },
@@ -3611,7 +3759,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 178061,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3N4XsYIpsw9yXEZjOATeFM"
@@ -3993,7 +4141,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 172500,
       "name": "Policlinico",
       "url": "https://open.spotify.com/track/5CMpU5V7hHCbcmPzx6n8hq"
@@ -5021,7 +5169,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 181653,
       "name": "starboy",
       "url": "https://open.spotify.com/track/6wHjt9CA1JLqjlq5haFikW"
@@ -5325,7 +5473,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 178303,
       "name": "Tela Bianca",
       "url": "https://open.spotify.com/track/6BY9mCswZP8JmXyKsB46Hz"
@@ -5503,7 +5651,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
@@ -5790,6 +5938,24 @@
     },
     {
       "album": {
+        "name": "VADO IN CRASH",
+        "url": "https://open.spotify.com/album/0CgueHFglJjrzTU1QO8aTv"
+      },
+      "artists": [
+        {
+          "name": "Aspettativa",
+          "url": "https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172181,
+      "name": "VADO IN CRASH",
+      "url": "https://open.spotify.com/track/008Eu3VYrBfrLfJ0lujTYh"
+    },
+    {
+      "album": {
         "name": "Vaffanculo",
         "url": "https://open.spotify.com/album/5YrCSnfadRdt1iaeC5sYQy"
       },
@@ -5801,7 +5967,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 190093,
       "name": "Vaffanculo",
       "url": "https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS"

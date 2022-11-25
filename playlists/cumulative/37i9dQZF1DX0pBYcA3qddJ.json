@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ"
       },
@@ -211,6 +229,28 @@
       "duration_ms": 261924,
       "name": "After Yang Main Theme - Solo",
       "url": "https://open.spotify.com/track/7oUSWInt45VpluuZWOsygW"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW"
+      },
+      "artists": [
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        },
+        {
+          "name": "CeaseTone",
+          "url": "https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273777,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS"
     },
     {
       "album": {
@@ -565,7 +605,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 161219,
       "name": "Family Photograph - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp"
@@ -671,6 +711,24 @@
       "duration_ms": 222220,
       "name": "Furui Chizu (Old Map)",
       "url": "https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM"
+    },
+    {
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
     },
     {
       "album": {
@@ -1095,7 +1153,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 168608,
       "name": "Koto",
       "url": "https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP"
@@ -2075,7 +2133,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"

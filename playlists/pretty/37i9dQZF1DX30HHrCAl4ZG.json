@@ -1,13 +1,29 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839743,
+  "num_followers": 839857,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODk2MjkxNCwwMDAwMDAwMDc0YjZmMzIyNzcwOGQ4YTdkOGFjYzMzYjBmOTU1MTJk",
+  "snapshot_id": "MTY2OTI4MzU4MCwwMDAwMDAwMDg1Zjk0MDEyZTAzMTJjYTNhNjMxY2JjMTBjNDdkZWUw",
   "tracks": [
+    {
+      "added_at": "2022-11-24 09:53:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -89,22 +105,6 @@
       "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "WTF is even going on?",
-        "url": "https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 143550,
-      "name": "adrenaline",
-      "url": "https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo"
-    },
-    {
       "added_at": "2022-11-04 04:05:00",
       "album": {
         "name": "Attaboy",
@@ -119,6 +119,22 @@
       "duration_ms": 213530,
       "name": "Start This Over",
       "url": "https://open.spotify.com/track/3rghzWiJzh59FHeec1hcfK"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "WTF is even going on?",
+        "url": "https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 143550,
+      "name": "adrenaline",
+      "url": "https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo"
     },
     {
       "added_at": "2022-09-23 05:48:00",
@@ -137,6 +153,22 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
+      "added_at": "2022-11-24 09:53:00",
+      "album": {
+        "name": "How You Like",
+        "url": "https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "How You Like",
+      "url": "https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT"
+    },
+    {
       "added_at": "2022-11-04 04:05:00",
       "album": {
         "name": "Alpha Zulu",
@@ -151,6 +183,30 @@
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "added_at": "2022-09-02 10:00:00",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 215149,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -183,6 +239,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Into The Rift (Deluxe)",
+        "url": "https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 359319,
+      "name": "T Love - Extended",
+      "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -231,30 +303,6 @@
       "duration_ms": 206280,
       "name": "heart attack",
       "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
-    },
-    {
-      "added_at": "2022-09-02 10:00:00",
-      "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-        "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 215149,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -339,22 +387,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Into The Rift (Deluxe)",
-        "url": "https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 359319,
-      "name": "T Love - Extended",
-      "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Maybe Love",
         "url": "https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT"
       },
@@ -387,8 +419,8 @@
     {
       "added_at": "2022-10-07 04:05:00",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
+        "name": "After The Earthquake",
+        "url": "https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k"
       },
       "artists": [
         {
@@ -398,7 +430,7 @@
       ],
       "duration_ms": 185276,
       "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
+      "url": "https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -431,22 +463,6 @@
       "duration_ms": 214497,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
-    },
-    {
-      "added_at": "2022-11-19 04:37:20",
-      "album": {
-        "name": "mr. butterfly",
-        "url": "https://open.spotify.com/album/3yhW3ZEXA0u3bPU9mApvao"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        }
-      ],
-      "duration_ms": 156615,
-      "name": "mr. butterfly",
-      "url": "https://open.spotify.com/track/6iLtjX5AhdZ6Muj5ELBfF7"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -775,22 +791,6 @@
       "duration_ms": 208013,
       "name": "I'm So Bored",
       "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Leash on My Neck",
-        "url": "https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Leash on My Neck",
-      "url": "https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL"
     },
     {
       "added_at": "2022-10-07 04:05:00",

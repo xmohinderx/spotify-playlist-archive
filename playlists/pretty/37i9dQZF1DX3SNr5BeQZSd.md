@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,132 likes - 96 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,505 likes - 96 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 |
+| 1 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 2 | [Will You Stay Here with Me](https://open.spotify.com/track/6RUIaR18qGtO1TYS4m3q8b) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:11 |
 | 3 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
 | 4 | [sundown](https://open.spotify.com/track/5LKVbgGeC5UAKoORA0rnKU) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/6A9dbXAqZKVf31i5TzxUw4) | 1:52 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 34 | [Yellow](https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Yellow](https://open.spotify.com/album/4C5iCxq8RjQOqLoXaBXWLO) | 1:42 |
 | 35 | [just friends](https://open.spotify.com/track/5Mn3siu0XehRb9kTEPqotX) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/16Plc6F8ZjKVlaqEkbCKfr) | 2:52 |
 | 36 | [Pokémon Theme Lofi](https://open.spotify.com/track/59dMMxNmcPXPKa4S0vYi1j) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:20 |
-| 37 | [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 |
+| 37 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 |
 | 38 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
 | 39 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
 | 40 | [\[oops\]](https://open.spotify.com/track/7JgZbix8xDasAhbn3N7eIF) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/5bVU9WsKLocZOukajEMk3V) | 2:22 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 95 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 96 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDMxMTZkOWE3N2JmZTA3ODgxMTEyNzUwODcwY2Y5ZmZi`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGY5MTdiZTM5Yzc1ZDY4YjFlZDY2Mzc2YjYxYWI1YjFk`

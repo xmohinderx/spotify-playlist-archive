@@ -790,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
+    },
+    {
+      "album": {
         "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N"
       },
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 181214,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 185194,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/5hoCPpH764j3z2HxAEq4rz"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 234000,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 242000,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki"
@@ -3015,10 +3033,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 249866,
       "name": "The Shadow Of Your Smile - From The Sandpiper",
       "url": "https://open.spotify.com/track/1JXImcBMjydCrUc9ClAEwO"
+    },
+    {
+      "album": {
+        "name": "The Snows Of Yesteryear",
+        "url": "https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu"
+      },
+      "artists": [
+        {
+          "name": "Mannie Goldings",
+          "url": "https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183803,
+      "name": "The Snows Of Yesteryear",
+      "url": "https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD"
     },
     {
       "album": {

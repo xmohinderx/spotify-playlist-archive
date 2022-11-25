@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Deda.",
+  "description": "Beat e rime, oggi come una volta. In cover, Inoki e DJ Shocca.",
   "name": "Radici Hip Hop",
   "published_playlist_ids": [
     "4N3m0KkyvafB7QizhgRop2"
@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Carattere",
+        "url": "https://open.spotify.com/album/4yo33avrF5NtkC442KKxBA"
+      },
+      "artists": [
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Carattere",
+      "url": "https://open.spotify.com/track/1fjTchtUOqEz2PhBqgLH5p"
+    },
+    {
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
       },
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 161645,
       "name": "Diario di bordo, Pt. IV (BOG - MXP)",
       "url": "https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT"
@@ -2278,6 +2296,32 @@
     },
     {
       "album": {
+        "name": "Lavanda Knox",
+        "url": "https://open.spotify.com/album/6GudYg4nMnxojLi1Ee2oGL"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Lavanda Knox",
+      "url": "https://open.spotify.com/track/4dHPtp8WfP3BJjQfO0Y5u3"
+    },
+    {
+      "album": {
         "name": "Le Ultime Lacrime",
         "url": "https://open.spotify.com/album/02cHJg3HsKxWID0dAXpy8m"
       },
@@ -2531,7 +2575,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 175219,
       "name": "Maledetti",
       "url": "https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt"
@@ -2669,6 +2713,36 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
+      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
     },
     {
       "album": {
@@ -3689,7 +3763,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 134463,
       "name": "Portami con Te.",
       "url": "https://open.spotify.com/track/1WWAYAfHPrtxCgllHjZEdm"
@@ -3755,7 +3829,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 181451,
       "name": "PRIVACY",
       "url": "https://open.spotify.com/track/2aSttgBmRJyhI6LLLgEkqO"
@@ -4537,6 +4611,28 @@
       "duration_ms": 145446,
       "name": "SPECIALIST",
       "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "SPUNTABLU",
+      "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
     },
     {
       "album": {

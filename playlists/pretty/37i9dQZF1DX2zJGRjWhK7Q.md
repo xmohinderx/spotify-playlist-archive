@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,335 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,411 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 11 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 12 | [Trucutu](https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Chamaco Ramírez](https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx) | [Planté Bandera](https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae) | 5:02 |
 | 13 | [Triste Y Vacía](https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 6:11 |
-| 14 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
-| 15 | [El Ratón](https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:48 |
+| 14 | [El Ratón](https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:48 |
+| 15 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
 | 16 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 17 | [Mujer Divina](https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 4:55 |
 | 18 | [Mi Gente](https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 50 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 |
 
-Snapshot ID: `MTY0NTIwMDE5NSwwMDAwMDAwMGIwY2Y3OTg3MTlmMTNiYTBhNGU4ZDNjMDk4OWM0ZGU2`
+Snapshot ID: `MTY0NTIwMDE5NSwwMDAwMDAwMGUzN2YzZjRiYWM1MTYwNGQ5YWI0MWUxNDRmODQ5MzJk`

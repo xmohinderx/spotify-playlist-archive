@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 223932,
+  "num_followers": 223997,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMGE2ZWM1NGE5MjhmM2UyNzU3ZjFjM2RmMzA1NWQxNGYz",
+  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDI2ZDNiNjc3ZDhjNzQ0NGQyMThhNzMwMzg2ZWY0YWI3",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "A Pedido",
-        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
-      },
-      "artists": [
-        {
-          "name": "Horacio Molina",
-          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Flor de lino - Live",
-      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183560,
       "name": "Tinta Roja",
       "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "A Pedido",
+        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
+      },
+      "artists": [
+        {
+          "name": "Horacio Molina",
+          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Flor de lino - Live",
+      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Lo Mejor de Alfredo Belusi",
-        "url": "https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Belusi",
-          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "De Puro Curda",
-      "url": "https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Alberto Castillo - Asi se baila el tango",
         "url": "https://open.spotify.com/album/1fFBzmIUSdNaejKSM44y5l"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175386,
       "name": "Mu\u00f1eca brava",
       "url": "https://open.spotify.com/track/2SPb8awMSxa5NmSaBQKWGN"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Album Blanco",
-        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "El Album Blanco",
+        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Siempre Se Vuelve a Buenos Aires",
+      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Vientos del Sur",
-        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
-      },
-      "artists": [
-        {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Siempre Se Vuelve a Buenos Aires",
-      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Hombres de tango",
         "url": "https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 231177,
       "name": "Danzar\u00edn",
       "url": "https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
-      },
-      "artists": [
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Re-Encuentro",
         "url": "https://open.spotify.com/album/6kxxUyfgkO5n4NcHDkHMHC"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Comunidad",
-        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Rodolfo Mederos",
-          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 247026,
-      "name": "El Abrojito",
-      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+        "name": "Comunidad",
+        "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
       },
       "artists": [
         {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+          "name": "Rodolfo Mederos",
+          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
         }
       ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+      "duration_ms": 247026,
+      "name": "El Abrojito",
+      "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Boleros y Tangos Cl\u00e1sicos Mix",
-        "url": "https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Desde El Alma - Instrumental",
-      "url": "https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Luna de Abril",
         "url": "https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 227426,
       "name": "Luna de Abril",
       "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Boleros y Tangos Cl\u00e1sicos Mix",
+        "url": "https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Desde El Alma - Instrumental",
+      "url": "https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX"
     },
     {
       "added_at": "2022-03-18 03:00:00",

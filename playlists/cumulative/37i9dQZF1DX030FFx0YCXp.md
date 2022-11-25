@@ -4,7 +4,7 @@
 
 > Crowdpleasing classics for an easy, carefree day.
 
-203 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/5KfAy6T6IqX0wAh1kF69QC)
+204 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/5KfAy6T6IqX0wAh1kF69QC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/33WUS0MyM4lpKIQIhwfBSc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Vacances détente : Été 2022](https://open.spotify.com/album/3Smu8Aa56GWYkGMggRhmkH) | 2:30 | 2022-06-16 | 2022-11-13 |
 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 | 2021-09-20 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster](https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:20 | 2021-09-20 | 2022-10-17 |
-| [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 | 2022-06-16 |  |
+| [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 | 2022-06-16 | 2022-11-25 |
+| [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(2013 Remaster\)](https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy) | 4:49 | 2022-06-16 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2021-09-20 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2021-09-20 |  |
 | [Lonesome Loser \- Remastered 2010](https://open.spotify.com/track/3OZ40egQbNWeTe0BnR2QKa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [First Under The Wire \(Remastered 2010\)](https://open.spotify.com/album/6vCT1BZLicHHNWc0McAWb2) | 3:57 | 2021-09-20 | 2022-10-20 |

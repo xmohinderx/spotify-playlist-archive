@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,201 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,309 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 47 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 |
 | 48 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 49 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
-| 50 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
-| 51 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 50 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 51 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 52 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
-| 53 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
-| 54 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 |
+| 53 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 |
+| 54 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
 | 55 | [Mistakes Like This](https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Why Does Everything Happen So Much EP](https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE) | 3:11 |
 | 56 | [Chapstick](https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:13 |
 | 57 | [Baby Blue Shades](https://open.spotify.com/track/2bCFAFxw6uLRu3Mk1jF9E0) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:40 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 85 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
 | 86 | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Too Late \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn) | 2:37 |
 | 87 | [Red Dress](https://open.spotify.com/track/4zag02jtwumRcnPdYYr0Do) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Red Dress](https://open.spotify.com/album/77Vs3r6NWtsTdvYs7w7v5J) | 3:20 |
-| 88 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
-| 89 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 |
-| 90 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
+| 88 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 |
+| 89 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
+| 90 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
 | 91 | [801](https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Under My Influence](https://open.spotify.com/album/0KPgrwFMQKpRaBcmeLg1Rw) | 3:34 |
-| 92 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
+| 92 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
 | 93 | [Set On Fire](https://open.spotify.com/track/49YNXgHWiNSxz2wGtXCVZ7) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:35 |
 | 94 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 95 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
 | 96 | [Carried Away](https://open.spotify.com/track/670iB5TOAt9dGjyPFXUUiu) | [OVERSTREET](https://open.spotify.com/artist/5TGdkTyHliaYLHPGxqcSUt) | [Carried Away](https://open.spotify.com/album/5UHnIcmtWq5rldnKeDF2cc) | 3:16 |
 | 97 | [Tell Me Tell Me](https://open.spotify.com/track/62Ltf8vQM3VRB7CsrjJYzx) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Denial in Paradise](https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY) | 3:08 |
 | 98 | [Lift Me Up](https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Lift Me Up](https://open.spotify.com/album/1aN1BvqkohdINxEHf83z3u) | 2:33 |
-| 99 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 |
-| 100 | [Changes](https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 3:31 |
+| 99 | [Changes](https://open.spotify.com/track/5RdHkLxnVnj1RZndX1Sj1T) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Under The Shade of Green](https://open.spotify.com/album/7zDlksfOktU7vodm08KPsb) | 3:31 |
+| 100 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 |
 
-Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMGE0ZDE1NzhiMmY4MzQ0Mzk1ZjYzNmZkNmJhZWRhM2M3`
+Snapshot ID: `MTY2NTExNTI2MCwwMDAwMDAwMDc5OTc0YjJmNzczNzkzMzAyMjJkMGIyODNkNDRkODc5`

@@ -2,7 +2,7 @@
 
 ### [Energy Release](https://open.spotify.com/playlist/37i9dQZF1DX0YwbagSTSJv)
 
-> Let it all go with relaxing ambient music.
+> Let it all go and lift yourself up with inspiring ambient music.
 
 141 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 

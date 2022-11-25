@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-863 songs - 1 day 21 hr 27 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+864 songs - 1 day 21 hr 29 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-26 | 2022-03-06 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-22 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-30 | 2021-12-27 |
-| [Italia](https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:50 | 2022-04-07 |  |
+| [Italia](https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:50 | 2022-04-07 | 2022-11-25 |
 | [Ja, Vi Elsker Dette Landet](https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG) | [N/A](https://open.spotify.com/artist/0TssKMrMlrXSxIwNrghB1V), [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4xd4aloOZg3LAxNnhDPuFB) | 3:11 | 2021-05-19 | 2022-05-20 |
 | [Ja, vi elsker dette landet \- alle 8 vers](https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE) | [Rikard Nordraak](https://open.spotify.com/artist/1HIBjVzHAL7l9dOnKllH5J), [Bjørnstjerne Bjørnson](https://open.spotify.com/artist/11LPmaVCc0NqqKm7x4mDeb), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U), [THE STAFF BAND OF THE NORWEGIAN ARMED FORCES](https://open.spotify.com/artist/3xYnbdPOwx0r5ett9Hhoq9), [Schola Cantorum](https://open.spotify.com/artist/7kHhGP2Cm5z0YZsxuuoPo1), [Ingar Bergby](https://open.spotify.com/artist/5wgwZ42k45KFtRKHUgQhmI), [Tone Bianca Sparre Dahl](https://open.spotify.com/artist/059bRJ2h0NY1NDMaT21fSU) | [Ja, vi elsker](https://open.spotify.com/album/2fI9O9AauAKVT8RbkIobkY) | 8:39 | 2021-05-19 | 2022-05-20 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-13 |
@@ -455,6 +455,7 @@
 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-29 | 2022-04-05 |
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-14 | 2022-05-27 |
 | [Kongesangen](https://open.spotify.com/track/0IAomkyECswbHhi2FaOL9o) | [N/A](https://open.spotify.com/artist/0TssKMrMlrXSxIwNrghB1V), [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4xd4aloOZg3LAxNnhDPuFB) | 0:49 | 2021-05-19 | 2021-05-20 |
+| [Kriminell \(Charabanc\)](https://open.spotify.com/track/3zH1J1L9w75VNhQFE2aSqP) | [Koseklubben](https://open.spotify.com/artist/71sjX2udw1ivw5S1IMCcBA), [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw) | [Kriminell \(Charabanc\)](https://open.spotify.com/album/3F6pCTcKfGbmmHvG56YYzt) | 2:08 | 2022-11-24 |  |
 | [Kriminell \(feat\. Lars Vaular\)](https://open.spotify.com/track/3Vj7sTCwtzB78YZkHk7e8T) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2), [OK+](https://open.spotify.com/artist/6xLd2K0tkCg90NDvc3OP0q) | [Kriminell \(feat\. Lars Vaular\)](https://open.spotify.com/album/7DnlwF8e8r3CsS0LRizyLk) | 2:44 | 2022-10-15 | 2022-10-18 |
 | [La Bohème](https://open.spotify.com/track/5X1i9b6bJ18WR4NcZfZuEW) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Medici Marstein](https://open.spotify.com/album/3eYqDn8VLmUDcODpSLtglF) | 2:24 | 2022-09-24 | 2022-10-02 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-22 |  |

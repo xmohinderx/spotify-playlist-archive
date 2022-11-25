@@ -884,6 +884,28 @@
     },
     {
       "album": {
+        "name": "Envidia",
+        "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -1450,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "LO TENGO",
+        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167442,
+      "name": "LO TENGO",
+      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
+    },
+    {
+      "album": {
         "name": "El Mundo Es Tuyo",
         "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
       },
@@ -1871,7 +1915,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 213461,
       "name": "Orgullo Caf\u00e9",
       "url": "https://open.spotify.com/track/6beXs35DoHlGfudHu071EC"
@@ -2101,7 +2145,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 105093,
       "name": "Real (Freestyle)",
       "url": "https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG"
@@ -2555,7 +2599,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 237658,
       "name": "TIERRA ZANTA",
       "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"

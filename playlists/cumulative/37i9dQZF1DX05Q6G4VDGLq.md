@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-360 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+362 songs - 22 hr 57 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-06-28 |  |
 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 | 2022-11-17 |  |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-06-28 | 2022-10-08 |
-| [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-06-28 |  |
+| [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-06-28 | 2022-11-25 |
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 |  |
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-06-28 |  |
@@ -40,6 +40,7 @@
 | [Beautiful Love](https://open.spotify.com/track/1oT0zC6lxsNHITyexFwQIM) | [Lenox Livingroom Sessions](https://open.spotify.com/artist/2PDSuVvSKWLMFtb4j2O06t) | [VOL.1](https://open.spotify.com/album/4o4YAUFAzbwczGbbDgyrUR) | 2:36 | 2022-06-28 | 2022-10-08 |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2022-06-28 | 2022-10-08 |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-06-28 |  |
+| [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-24 |  |
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-28 | 2022-10-08 |
 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 | 2022-06-28 |  |
 | [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-28 | 2022-10-08 |
@@ -284,7 +285,7 @@
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2022-06-28 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:10 | 2022-06-28 | 2022-10-08 |
 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2022-06-28 |  |
-| [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-06-28 |  |
+| [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-06-28 | 2022-11-25 |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2022-08-30 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/6idTshNWsrWkNUrJYgzs3v) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 4:08 | 2022-06-28 | 2022-10-08 |
 | [Someone to watch over me](https://open.spotify.com/track/2jbsvklNUjADVADcaedWDW) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Someone to watch over me](https://open.spotify.com/album/6LYRSriv65VdK0yiNiXndc) | 4:18 | 2022-06-28 | 2022-10-08 |
@@ -364,6 +365,7 @@
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-28 | 2022-10-08 |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-28 | 2022-10-08 |
 | [You Know How It Goes](https://open.spotify.com/track/3TR8fYlSYXGANhHjjRb6hX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [You Know How It Goes](https://open.spotify.com/album/4RmNODl5TII1EIBiasiP3c) | 3:48 | 2022-11-17 |  |
+| [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-24 |  |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-09-29 |  |
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-30 |  |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-30 |  |

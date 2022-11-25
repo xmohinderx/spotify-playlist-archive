@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,222 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,325 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 42 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 |
 | 43 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
 | 44 | [Shake Your Money\-Maker](https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:26 |
-| 45 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 |
-| 46 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 |
+| 45 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 |
+| 46 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 |
 | 47 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 |
 | 48 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 |
 | 49 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 50 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 |
 
-Snapshot ID: `MTY2ODc3NzcwOSwwMDAwMDAwMDNiODE4Y2MwZTQ1OGZkM2Y4ZThiZGEzNTI5MjVlMjk0`
+Snapshot ID: `MTY2ODc3NzcwOSwwMDAwMDAwMDExNmMzODg5MzJhMWZjYzQwYmZlMTc5MTY5ZThjNTE2`

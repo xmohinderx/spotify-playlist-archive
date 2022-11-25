@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Take the Ride",
+        "url": "https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW"
+    },
+    {
+      "album": {
         "name": "In the Wake of Determination",
         "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },

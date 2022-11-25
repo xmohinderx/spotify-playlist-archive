@@ -3887,10 +3887,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 130285,
       "name": "Noctuid",
       "url": "https://open.spotify.com/track/3WMP6rFpFZQJ6FaZwYzIzT"
+    },
+    {
+      "album": {
+        "name": "Noctuid",
+        "url": "https://open.spotify.com/album/1leg1zIzVGFdsCW7rZmsnN"
+      },
+      "artists": [
+        {
+          "name": "Prithvi",
+          "url": "https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Noctuid",
+      "url": "https://open.spotify.com/track/66zOvL1ZU2vHYM7c0kWyrc"
     },
     {
       "album": {
@@ -5685,6 +5703,28 @@
     {
       "album": {
         "name": "Under The Waterfall Mist",
+        "url": "https://open.spotify.com/album/7JF2LBiypQuv2dYfw5nkn1"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Godwin",
+          "url": "https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8"
+        },
+        {
+          "name": "Vannorte",
+          "url": "https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Under The Waterfall Mist",
+      "url": "https://open.spotify.com/track/4gxCwxh5qjZb7XxHDBfGt6"
+    },
+    {
+      "album": {
+        "name": "Under The Waterfall Mist",
         "url": "https://open.spotify.com/album/58l7zjlUwdeaUBlmLFDKtr"
       },
       "artists": [
@@ -5699,7 +5739,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 180800,
       "name": "Under The Waterfall Mist",
       "url": "https://open.spotify.com/track/4wewUPcd9IlG5kFuZ53PIR"

@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-173 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+174 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 | 2022-08-10 |  |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-03-30 | 2022-06-14 |
 | [Enta Gheir](https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb) | [Ali Leo](https://open.spotify.com/artist/3syttYlmeD3RTKBv0dGrcf) | [Enta Gheir](https://open.spotify.com/album/3QYmHo0ILA2kXnVlNBg1vO) | 3:33 | 2021-12-23 | 2022-02-18 |
+| [Enta Tfooz](https://open.spotify.com/track/1C25BZZEYagX26ImIPWnGV) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q), [DJ Dvlz](https://open.spotify.com/artist/5J0Es2qO9wTUsTmgLeeQZg) | [Enta Tfooz](https://open.spotify.com/album/7uW1QLJXNbraTZc8cz22XY) | 3:31 | 2022-11-24 |  |
 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 | 2022-09-30 |  |
 | [Er7am 7ali](https://open.spotify.com/track/6SgEZAjgJCjqunDi1bKJfR) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Er7am 7ali](https://open.spotify.com/album/7bzq1yir1DHiQSS8E2B5hX) | 4:31 | 2022-06-09 | 2022-10-29 |
 | [Erjaa Habibi](https://open.spotify.com/track/1xiIRisLA9xvJgEK3w64Ft) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Erjaa Habibi](https://open.spotify.com/album/1ek4BlMt0gZxkXoyjln3RJ) | 3:27 | 2021-12-23 | 2022-05-14 |

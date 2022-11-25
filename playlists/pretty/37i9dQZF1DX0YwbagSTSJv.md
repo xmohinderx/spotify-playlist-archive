@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 ### [Energy Release](https://open.spotify.com/playlist/37i9dQZF1DX0YwbagSTSJv)
 
-> Let it all go with relaxing ambient music.
+> Let it all go and lift yourself up with inspiring ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,684 likes - 121 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,722 likes - 121 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 120 | [Tamashi Journey](https://open.spotify.com/track/3bB0KwVk8ZZi4qzGoWhJ3h) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Tamashi Journey](https://open.spotify.com/album/7oTeFssIU9rzERwXP3sBv7) | 3:05 |
 | 121 | [Brightest Blue](https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:38 |
 
-Snapshot ID: `MTY2OTIyMDIwMiwwMDAwMDAwMGUwMDNhMWQxNTYwNGExM2I0NTM0YmYwY2NiNDlmYWY2`
+Snapshot ID: `MTY2OTMxMTI0MCwwMDAwMDAwMDVlNGRlM2Y3MjhjZmNhMDA4NjcwYmRhZWFkYjA5Zjkw`

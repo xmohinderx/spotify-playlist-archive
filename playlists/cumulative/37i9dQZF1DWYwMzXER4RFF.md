@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-297 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+298 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Book](https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Audio Drag for Ego Slobs](https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3) | 2:00 | 2022-06-16 |  |
 | [Book](https://open.spotify.com/track/6lpyYxV1Hd72S4ezzA47fb) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Book](https://open.spotify.com/album/1tfymjAd3g5Uz08K9qCmrh) | 2:00 | 2021-12-06 | 2022-07-29 |
 | [Broke](https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN) | 8:01 | 2022-06-16 | 2022-11-10 |
+| [Broke](https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY) | 8:01 | 2022-11-18 |  |
 | [Broke](https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e) | [Scott Lavene](https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n) | [Broke](https://open.spotify.com/album/4JCVC1iVEc4FsN8HT8V2ZH) | 8:01 | 2021-12-06 | 2022-07-29 |
 | [Broken Homes](https://open.spotify.com/track/3OGPJxSWbjASAj0iR7rOCw) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Broken Homes](https://open.spotify.com/album/6deOAiLcYOUfZbaxMA4JrQ) | 4:22 | 2021-12-06 | 2022-07-29 |
 | [Calling It](https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Signal](https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS) | 2:29 | 2022-06-16 |  |
@@ -188,7 +189,7 @@
 | [Never Fight A Man With A Perm](https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt) | 3:48 | 2021-12-06 |  |
 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-12 |  |
 | [Nigel Hitter](https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Nigel Hitter](https://open.spotify.com/album/4J51jRBqnXfZSPGWf8YMbn) | 3:24 | 2021-12-06 | 2022-07-13 |
-| [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 | 2022-06-16 |  |
+| [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 | 2022-06-16 | 2022-11-25 |
 | [Nine While Nine](https://open.spotify.com/track/1jzLF2qFDkfbqcUcH9zeYB) | [Kill Shelter](https://open.spotify.com/artist/1hl06hvbtecgkhML5iVf5B), [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA) | [Nine While Nine](https://open.spotify.com/album/00PmG5z68JlTQ6VsJp20MI) | 5:04 | 2022-03-11 | 2022-04-16 |
 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 | 2021-12-06 |  |
 | [No One Ever Talks to Us](https://open.spotify.com/track/6XasRlSqU5nIYhPBe2gNMU) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [No One Ever Talks to Us](https://open.spotify.com/album/4fkO0fyHQExouQOvX8rwxv) | 2:36 | 2022-03-11 | 2022-07-16 |

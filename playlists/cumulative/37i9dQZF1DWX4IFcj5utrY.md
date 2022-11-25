@@ -2,7 +2,7 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=br9etiveQvuwlbVvKDBaKw">Karyendasoul</a>
+> Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=bSTf1MajQS6L2ajf\-MJZAA">Dlala Thukzin</a>
 
 627 songs - 2 day 12 hr 55 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: omar apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,398 likes - 115 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,236 likes - 115 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 42 | [Gilded Lily](https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:32 |
 | 43 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |
 | 44 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 |
-| 45 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 |
+| 45 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
 | 46 | [Glitter and Tears \- Myra Molloy Remix](https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Glitter and Tears \(Myra Molloy Remix\)](https://open.spotify.com/album/5uopUaKx0wWta1xbeaLzBY) | 3:24 |
 | 47 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 |
 | 48 | [The Giver](https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The Giver](https://open.spotify.com/album/49aUKXpJ9U0llET9mhgOqI) | 3:47 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 114 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
 | 115 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 
-Snapshot ID: `MTY2OTA0MDc5NiwwMDAwMDAwMGFkYjViZjRhMWE4NTIxMWNjYzc5N2NjMTU2MDU0Yzc4`
+Snapshot ID: `MTY2OTA0MDc5NiwwMDAwMDAwMDdmMWRhYzU0MThmMjk2MjcwMDRjNjFjNTU0MzRhNjhi`

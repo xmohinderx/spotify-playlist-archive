@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3"
+    },
+    {
+      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 174973,
       "name": "Ignoraste Mis L\u00e1grimas",
       "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"

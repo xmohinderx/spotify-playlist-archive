@@ -382,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 239120,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
@@ -3463,10 +3481,32 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 206161,
       "name": "El Black",
       "url": "https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU"
+    },
+    {
+      "album": {
+        "name": "Querido Pablo",
+        "url": "https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "El Breve Espacio en Que No Estas",
+      "url": "https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb"
     },
     {
       "album": {
@@ -4587,7 +4627,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
@@ -5785,7 +5825,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -6357,7 +6397,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
@@ -7185,7 +7225,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 177066,
       "name": "Menthol",
       "url": "https://open.spotify.com/track/2TiaktqJAtI0CsTL9NfyAS"
@@ -8283,7 +8323,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -8401,6 +8441,24 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "album": {
@@ -12820,6 +12878,28 @@
     },
     {
       "album": {
+        "name": "Troubadour (Champion Edition - Espa\u00f1ol Repackage)",
+        "url": "https://open.spotify.com/album/3Tx9vtG13sySDeosnyYvL9"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Wavin' Flag - Coca-Cola\u00ae Spanish Celebration Mix",
+      "url": "https://open.spotify.com/track/0l6t6VVX8b0rzetokYAl3L"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -13253,6 +13333,24 @@
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
+    },
+    {
+      "album": {
+        "name": "Yo Me Quedo",
+        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278825,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
     },
     {
       "album": {

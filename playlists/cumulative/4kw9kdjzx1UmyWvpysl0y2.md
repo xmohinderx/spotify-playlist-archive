@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-349 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+350 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
+| [Bad Habits](https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Mike Robert](https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8) | [Bad Habits](https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa) | 2:58 | 2022-11-24 |  |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-18 | 2022-11-01 |
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 | 2022-09-01 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 |  |
@@ -159,7 +160,7 @@
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 |  |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 | 2022-10-19 |
-| [INEEDU](https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:33 | 2022-09-22 |  |
+| [INEEDU](https://open.spotify.com/track/6oj95LjRQSKa5oY6aexgpa) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:33 | 2022-09-22 | 2022-11-25 |
 | [Integration Sequence](https://open.spotify.com/track/0daZirXuEz8FVBlZFu9MsE) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:58 | 2022-11-15 | 2022-11-22 |
 | [Invane](https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Invane](https://open.spotify.com/album/4ZPn0tMUiC7uaLFotARGIW) | 3:42 | 2022-10-13 |  |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 |  |

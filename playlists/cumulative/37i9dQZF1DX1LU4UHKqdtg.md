@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: STAYC
 
-429 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+431 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2021-12-23 | 2022-01-19 |
 | [Nerdy](https://open.spotify.com/track/6HRIKkqRYqGNETVUsRKIFH) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/6Az8pkdJ1s4utD6I7kbdYG) | 2:58 | 2022-07-26 | 2022-07-29 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 | 2022-10-19 |
+| [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 |  |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-18 |  |
 | [O](https://open.spotify.com/track/2tBsQUWGLdVDWytQwMQcas) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 0 : WHO\]](https://open.spotify.com/album/3RoFKfin5pPGRfXkiupgXR) | 3:15 | 2022-03-23 | 2022-05-18 |
 | [O](https://open.spotify.com/track/7je54vTlkPbe80PSj5PUOb) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/4EdWz8Lb77wi5UjPD9wqd6) | 3:15 | 2022-04-25 | 2022-07-05 |
@@ -345,6 +346,7 @@
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 |  |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/0pE16sFbRDVuTOEL0yxFoy) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb) | 3:12 | 2022-05-17 | 2022-07-09 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 | 2022-05-10 | 2022-06-03 |
+| [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 |  |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-25 |  |
@@ -402,7 +404,7 @@
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-04-01 |
 | [West Swing \(feat\. E\-40\)](https://open.spotify.com/track/1sm9EPvFtjD0nmSotn4lmF) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [West Swing \(feat\. E\-40\)](https://open.spotify.com/album/3q7iMJOXp2eFIUAHfyOffC) | 3:22 | 2022-08-25 | 2022-10-14 |
-| [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 |  |
+| [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-11-25 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |
 | [WILDSIDE](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:49 | 2022-03-29 | 2022-07-23 |

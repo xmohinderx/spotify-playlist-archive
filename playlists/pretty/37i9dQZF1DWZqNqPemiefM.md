@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,188 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,456 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 42 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
 | 43 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 44 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
-| 45 | [Gazing](https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u) | [Firo](https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH) | [Gazing](https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW) | 3:16 |
-| 46 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
-| 47 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
+| 45 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
+| 46 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
+| 47 | [Gazing](https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u) | [Firo](https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH) | [Gazing](https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW) | 3:16 |
 | 48 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
 | 49 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
 | 50 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
 
-Snapshot ID: `MTY2ODY5NzIwMCwwMDAwMDAwMDFlMTI4OGNhNTAyODlhMThiN2Y2OTc5N2M3ZjI4Njk5`
+Snapshot ID: `MTY2ODY5NzIwMCwwMDAwMDAwMDlmOGI3OWI1YmM4YTBjYmZkZmQ0Njk2OTNjZmE4OTk5`

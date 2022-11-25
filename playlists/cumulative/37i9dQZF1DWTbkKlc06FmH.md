@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-118 songs - 7 hr 6 min - not published yet
+119 songs - 7 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-10-20 | 2022-11-13 |
 | [Mirage Op.2](https://open.spotify.com/track/3u3Y1mQWOKICeg1pLOzUO8) | [Mirage Collective](https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Mirage Op.2](https://open.spotify.com/album/3GXYjkSXN5kDtMdqa5NhVc) | 4:07 | 2022-11-15 | 2022-11-23 |
 | [Mirage Op.3 \- Collective ver.](https://open.spotify.com/track/7HPAzfHeXm5itZGahUKbFN) | [Mirage Collective](https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Mirage Op.3 \- Collective ver.](https://open.spotify.com/album/2aVREOIIGvGHmnfrzxMerN) | 4:24 | 2022-11-22 |  |
+| [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 |  |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-10-20 |  |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-10-20 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-10-20 |  |
@@ -125,6 +126,6 @@
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-20 | 2022-10-26 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2022-11-18 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
-| [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 |  |
+| [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 | 2022-11-25 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

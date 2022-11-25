@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68lbF0lqCZV.md) - [plain]
 
 > Con mucho corazón 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,534 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,768 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

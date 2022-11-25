@@ -2,7 +2,7 @@
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Seether
+> The best Grunge heirs' songs\. Cover: Staind
 
 159 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/0QVwgnSnBXtgD6WdqeyPu5)
 
@@ -34,7 +34,7 @@
 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 | 2022-09-20 |  |
 | [Bulletproof Skin](https://open.spotify.com/track/6JJ8dMD8ZHo9RQbZfKUTyK) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/39NUMGNHvB1k3VWzujcCPv) | 4:25 | 2021-11-25 | 2022-07-29 |
 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 | 2021-11-25 |  |
-| [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 | 2022-09-20 |  |
+| [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 | 2022-09-20 | 2022-11-25 |
 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 | 2021-11-25 |  |
 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 | 2022-06-28 |  |
 | [Comedown \- Remastered](https://open.spotify.com/track/7KgVUnGCMEXBwY2EeqGlaI) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ) | 5:26 | 2022-06-28 | 2022-07-29 |
@@ -56,7 +56,7 @@
 | [Flowers On A Grave](https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:45 | 2021-11-25 |  |
 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 | 2022-01-19 |  |
 | [Glycerine](https://open.spotify.com/track/0l9l90a1zB3wUObtwWbqHy) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK) | 4:26 | 2021-11-25 | 2022-06-29 |
-| [Golden](https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Feel This](https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty) | 3:57 | 2022-11-04 | 2022-11-13 |
+| [Golden](https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Feel This](https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty) | 3:57 | 2022-11-04 |  |
 | [Gone Away \(A Song For Starr\)](https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:14 | 2021-11-25 |  |
 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 | 2022-06-28 |  |
 | [Hanging By A Moment](https://open.spotify.com/track/1cRNEme8Bp7V8eNIAeyiAk) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/73VoR62ltV5NrQfdK06CC6) | 3:36 | 2021-11-25 | 2022-07-29 |

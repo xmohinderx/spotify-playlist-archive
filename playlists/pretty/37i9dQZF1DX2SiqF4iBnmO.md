@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,464 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 8 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 |
 | 9 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 10 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
-| 11 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
-| 12 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
+| 11 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
+| 12 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
 | 13 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
 | 14 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
 | 15 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 43 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 44 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 45 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
-| 46 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
-| 47 | [Man on the Corner \- 2007 Remaster](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:27 |
+| 46 | [Man on the Corner \- 2007 Remaster](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:27 |
+| 47 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
 | 48 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 49 | [Chimes](https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Chimes](https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn) | 3:31 |
 | 50 | [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 |
 
-Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMDE5NGQ0MGUzYTc2MjQwZGYxZTk2NjQxODEzYzNjMDJi`
+Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMGViOWU3MjljMmU5NjQwNDk0ODQ2MzZkMjJhOTI1N2Ex`

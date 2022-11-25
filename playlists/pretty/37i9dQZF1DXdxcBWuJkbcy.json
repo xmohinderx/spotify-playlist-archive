@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6554354,
+  "num_followers": 6556731,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA0MTU2NywwMDAwMDAwMGM0ZmUyZjg3MDVhNWZjODYyOWU5ZTNlNTcxYjJjYzc1",
+  "snapshot_id": "MTY2OTA0MTU2NywwMDAwMDAwMDY1ODA0MTA5MWU2OGQ3NzUyYTYwNzVmNzM0NmJjMTg5",
   "tracks": [
     {
       "added_at": "2022-11-17 23:01:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "California Dreamin' (feat. High Jinx)",
-        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
-        }
-      ],
-      "duration_ms": 196899,
-      "name": "California Dreamin' (feat. High Jinx)",
-      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 195268,
       "name": "Damn (You\u2019ve Got Me Saying)",
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
+        "name": "California Dreamin' (feat. High Jinx)",
+        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+        }
+      ],
+      "duration_ms": 196899,
+      "name": "California Dreamin' (feat. High Jinx)",
+      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -963,26 +963,22 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -1007,22 +1003,26 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "We Go Out",
-        "url": "https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170010,
-      "name": "We Go Out",
-      "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
         "name": "Save Me Now",
         "url": "https://open.spotify.com/album/4vJT6er7II3CDCYZsOBoci"
       },
@@ -1759,6 +1739,42 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
+        "name": "We Go Out",
+        "url": "https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170010,
+      "name": "We Go Out",
+      "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
         "name": "GET GET DOWN",
         "url": "https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 154687,
       "name": "GET GET DOWN",
       "url": "https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
-        "name": "Hardcore Vibes",
-        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Hardcore Vibes - Radio Edit",
-      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -1911,22 +1911,26 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
-        "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
         },
         {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        },
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
         }
       ],
-      "duration_ms": 186377,
-      "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
-      "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
+      "duration_ms": 132479,
+      "name": "Blue (Da Ba Dee)",
+      "url": "https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -1951,6 +1955,26 @@
       "duration_ms": 148624,
       "name": "Are You OK? (feat. ILIRA)",
       "url": "https://open.spotify.com/track/6Ppext7tYrK3trnspkoSry"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
+        "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
+        "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
+      "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -2039,26 +2063,6 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 132479,
-      "name": "Blue (Da Ba Dee)",
-      "url": "https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -2079,6 +2083,42 @@
     {
       "added_at": "2022-11-17 23:01:00",
       "album": {
+        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
+      "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/1on4DjUpgOCvULb3FTp9mO"
       },
@@ -2091,30 +2131,6 @@
       "duration_ms": 159968,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/1o6Wucld04vGF4UBeyHGwF"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
-        "name": "Tell Me Secrets",
-        "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        },
-        {
-          "name": "Joker Bra",
-          "url": "https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM"
-        }
-      ],
-      "duration_ms": 136299,
-      "name": "Tell Me Secrets",
-      "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
     }
   ],
   "unique_name": "Motivation Mix",

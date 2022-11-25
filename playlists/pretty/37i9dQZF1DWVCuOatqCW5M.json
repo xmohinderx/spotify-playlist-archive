@@ -1,15 +1,155 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Raman Negi",
-  "num_followers": 11530,
+  "description": "New music from popular Hindi artists. Cover- Siddhant Bhosle & Sana",
+  "num_followers": 11625,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MjA2NiwwMDAwMDAwMGVmZjBjODM5NzRiZWMzZDdkNGFmODQ1YWE1Y2M5YTcw",
+  "snapshot_id": "MTY2OTMzNTM2MCwwMDAwMDAwMDlmZTVkNGY5M2VkMzlmNzg5ZjdjMmM5Y2VkMzU2MzM4",
   "tracks": [
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Nadaniya",
+        "url": "https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "duration_ms": 172564,
+      "name": "Nadaniya",
+      "url": "https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Jadu Salona",
+        "url": "https://open.spotify.com/album/5iCq2e5RrsS1Tp9QPA1JPJ"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "Shehnaiyan",
+      "url": "https://open.spotify.com/track/6m3ZqppRXccBUsDx5rfw80"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Kuch Toh Zaroor Hai - Single",
+        "url": "https://open.spotify.com/album/1aHqQ2LzoRyPhoSAc4ZZPd"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 207391,
+      "name": "Kuch Toh Zaroor Hai",
+      "url": "https://open.spotify.com/track/7jDYNeso9PzdUzo8FKNh78"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Jaam - The Casino Song",
+        "url": "https://open.spotify.com/album/6wTLh0yYyBA9QPLygxOLH4"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "Jaam - The Casino Song",
+      "url": "https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Naazneen",
+        "url": "https://open.spotify.com/album/3C5TLv2lcobPCxKD0CZwUP"
+      },
+      "artists": [
+        {
+          "name": "Uchana Amit",
+          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Naazneen",
+      "url": "https://open.spotify.com/track/6BAv7bYrFv9Uz8SId90qzi"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Kaafi Nahi",
+        "url": "https://open.spotify.com/album/2NcPIGrXzAYCDRTKx19zcv"
+      },
+      "artists": [
+        {
+          "name": "Aashran Mahajan",
+          "url": "https://open.spotify.com/artist/31PjatGYhKyaRAqRsS9ciA"
+        },
+        {
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "duration_ms": 313713,
+      "name": "Kaafi Nahi",
+      "url": "https://open.spotify.com/track/3iT92tthPoD594IBiRGRgw"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
+      "album": {
+        "name": "Voh Raaz",
+        "url": "https://open.spotify.com/album/1uhAKbw5vUMmAuDPLKn1gD"
+      },
+      "artists": [
+        {
+          "name": "Arnav Maggo",
+          "url": "https://open.spotify.com/artist/5LVF2MHRmVtXDuU1cHQcvZ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Voh Raaz",
+      "url": "https://open.spotify.com/track/2LS1UEpJDgxarWAhNtnpLR"
+    },
+    {
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Tum Aao Dobara",
         "url": "https://open.spotify.com/album/3sk0O1BCuXzqzvDWjcMXbo"
@@ -29,7 +169,7 @@
       "url": "https://open.spotify.com/track/664gQyOGSEy9b4EOXwoxsa"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "12 Ladke",
         "url": "https://open.spotify.com/album/3vdf52R0THbfGrqszSsTG7"
@@ -49,7 +189,7 @@
       "url": "https://open.spotify.com/track/1SPsVUm6aB9ztpD6naRrXd"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Hazir Main Rahun",
         "url": "https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr"
@@ -65,7 +205,7 @@
       "url": "https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Shakhsiyat",
         "url": "https://open.spotify.com/album/1VHNsQleLNyHbLmbEbbfBc"
@@ -81,7 +221,7 @@
       "url": "https://open.spotify.com/track/64dxWp7Ins4nMlnTQMhyLS"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Mujhe Pyaar Ho Gaya Hain",
         "url": "https://open.spotify.com/album/4KUj2A8y9sOBl6JIIoQrF1"
@@ -97,7 +237,7 @@
       "url": "https://open.spotify.com/track/5ZGCjZ8JQJBVcxgRjknsSc"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Ik Vaari",
         "url": "https://open.spotify.com/album/500hPnovUwKPi2VpXbtW29"
@@ -117,7 +257,7 @@
       "url": "https://open.spotify.com/track/6Z1QUcx0B1VlxMOAd0wIC1"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Rajasthan Calling",
         "url": "https://open.spotify.com/album/6cNAuwGciEi7GrFSSgYiQP"
@@ -137,7 +277,7 @@
       "url": "https://open.spotify.com/track/0D40TUm6tHtDATbrZmILcS"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Sargoshiyan",
         "url": "https://open.spotify.com/album/5ke44cmpHCCM7IXYmRduzZ"
@@ -161,7 +301,7 @@
       "url": "https://open.spotify.com/track/7xTWkH8LXyFQoqQpTFhT7P"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Bura / Bhala",
         "url": "https://open.spotify.com/album/3Weyfjbzr8k74d0eBPH5dS"
@@ -181,7 +321,7 @@
       "url": "https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
@@ -201,7 +341,7 @@
       "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Bas Tujhse Pyaar Ho",
         "url": "https://open.spotify.com/album/7f7sUKr0VLjEjwETcNjVYF"
@@ -221,7 +361,7 @@
       "url": "https://open.spotify.com/track/00zGcHmBkcOfKVYQgwcZW1"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Ek Ghar",
         "url": "https://open.spotify.com/album/3C82gtWeUpQT95intCWx5j"
@@ -237,7 +377,7 @@
       "url": "https://open.spotify.com/track/1hkJ4tJwgFw8BpfT9C2alz"
     },
     {
-      "added_at": "2022-11-18 06:14:26",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "My Heeriye - Single",
         "url": "https://open.spotify.com/album/5NY6M10b4xfDSeqtnNuG6I"
@@ -253,7 +393,7 @@
       "url": "https://open.spotify.com/track/0ui3bXDUEDSFoLmd69Pa8r"
     },
     {
-      "added_at": "2022-11-11 05:39:32",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Akela",
         "url": "https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd"
@@ -273,7 +413,7 @@
       "url": "https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Jadu Salona",
         "url": "https://open.spotify.com/album/53wnbGpczje778Zz4wBpV0"
@@ -289,7 +429,7 @@
       "url": "https://open.spotify.com/track/6Eq3E0eekWhb56ZPGCmE0L"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Baawra Mann",
         "url": "https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR"
@@ -309,7 +449,7 @@
       "url": "https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Parchhayi",
         "url": "https://open.spotify.com/album/2cH3mXLJITBSZkUMT8nFGF"
@@ -329,7 +469,7 @@
       "url": "https://open.spotify.com/track/18N9vliPBBcqJValK1vKge"
     },
     {
-      "added_at": "2022-11-11 05:40:49",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
@@ -349,7 +489,7 @@
       "url": "https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Kaise Jaane Du",
         "url": "https://open.spotify.com/album/3MPlJFPWrJkAYtaRF5ZPmN"
@@ -369,7 +509,7 @@
       "url": "https://open.spotify.com/track/3nMc2ybTSfCyCQpykR3E1n"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Kya Karein",
         "url": "https://open.spotify.com/album/1mztpgbKJgEuuK3PPhg95g"
@@ -389,7 +529,7 @@
       "url": "https://open.spotify.com/track/4kBknWlaWOLZCbP5BL6PXg"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Sapne",
         "url": "https://open.spotify.com/album/6bWxltsBsSChMUDrsrmsYS"
@@ -405,7 +545,7 @@
       "url": "https://open.spotify.com/track/0P9c5LI5pjiUDUnzGeP2tZ"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "YADON SE",
         "url": "https://open.spotify.com/album/6KksGviHeMcobXtdnZeHkm"
@@ -421,7 +561,7 @@
       "url": "https://open.spotify.com/track/56oMv9F1phGIbYo9elLBBK"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Doob Ja",
         "url": "https://open.spotify.com/album/2yBsjlugV3JzChZtTAARhI"
@@ -445,7 +585,7 @@
       "url": "https://open.spotify.com/track/1Y3W451uvsj7cz5KSaZFjn"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/7q3J5Z39LFEq1HEdOkfdD9"
@@ -461,7 +601,7 @@
       "url": "https://open.spotify.com/track/2YMlGrhVHdbXeDejv0R77R"
     },
     {
-      "added_at": "2022-11-11 05:40:49",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
@@ -481,7 +621,7 @@
       "url": "https://open.spotify.com/track/5zX5SGzWkMoMIPv1HKMaFa"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Inni Si Gal - Single",
         "url": "https://open.spotify.com/album/675AWjsyb446jjoFk4hizO"
@@ -501,7 +641,7 @@
       "url": "https://open.spotify.com/track/4jj4pNTBG060Nqa3EH1agv"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Apna Bana Le",
         "url": "https://open.spotify.com/album/3tkM1ZoTNv9uxmKIFvmbYl"
@@ -517,7 +657,7 @@
       "url": "https://open.spotify.com/track/3ATQIPBT5i5LfhUVNIdjBz"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Mehman",
         "url": "https://open.spotify.com/album/23LclG4COVNQYBCkdsYieh"
@@ -533,7 +673,7 @@
       "url": "https://open.spotify.com/track/6mPet122yXpp6X8iTiNVo9"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Tum Na Aaye",
         "url": "https://open.spotify.com/album/22zkkuFDLTC9OnZ80ed8Ag"
@@ -557,7 +697,7 @@
       "url": "https://open.spotify.com/track/0m84Kkj7oZdqUumOnSOsKP"
     },
     {
-      "added_at": "2022-11-11 06:24:16",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Kaha Nahi Ise.. Pyaar",
         "url": "https://open.spotify.com/album/6pvrcR1OhyfHKV7mxZT4Kq"
@@ -573,7 +713,7 @@
       "url": "https://open.spotify.com/track/4nazOs0ZPqPScSDz50fxBP"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Pehchaan",
         "url": "https://open.spotify.com/album/1ky93SkZZcf5Hm64zq0ZI9"
@@ -589,7 +729,7 @@
       "url": "https://open.spotify.com/track/3ff9s6bbI3Vsv5aWAf9WNe"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Khoobi",
         "url": "https://open.spotify.com/album/1ICJkkMQwTMKeGDwUV2ext"
@@ -605,7 +745,7 @@
       "url": "https://open.spotify.com/track/2qA6DtqFCyeIEAdSI2hGWu"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "May Be",
         "url": "https://open.spotify.com/album/2ldLTBbjZtWQZlcPlIdkSa"
@@ -621,7 +761,7 @@
       "url": "https://open.spotify.com/track/0hkB9nEqmLn41O35lut9Vn"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "OOPS",
         "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
@@ -637,7 +777,7 @@
       "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Lagan Lagi",
         "url": "https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB"
@@ -653,7 +793,7 @@
       "url": "https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Aapko Dekh Kar",
         "url": "https://open.spotify.com/album/5On97bWPnucY1U7y3xCPp1"
@@ -669,7 +809,7 @@
       "url": "https://open.spotify.com/track/0TOW8bu1pkcvT9H8qCdRJO"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Taqdeerein",
         "url": "https://open.spotify.com/album/6SfGrAdFiZ1tu5sow6DSnS"
@@ -693,7 +833,7 @@
       "url": "https://open.spotify.com/track/67mR2WXCQcQN9f2Y63V1Gr"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Woh Saat Din",
         "url": "https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa"
@@ -717,7 +857,7 @@
       "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Ek Pal",
         "url": "https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl"
@@ -733,7 +873,7 @@
       "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Hai Koi Khayaal",
         "url": "https://open.spotify.com/album/29hJQdgRtwHtHRo0obpIKA"
@@ -749,7 +889,7 @@
       "url": "https://open.spotify.com/track/586yBRVKdA1vy3tes2wjmB"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Shaan",
         "url": "https://open.spotify.com/album/5ZfApCkywHmo9onnGstgnS"
@@ -769,23 +909,7 @@
       "url": "https://open.spotify.com/track/5zN4y6PdlvexKhWumalUPB"
     },
     {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Jo Tum Ho",
-        "url": "https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0"
-      },
-      "artists": [
-        {
-          "name": "Dhruv Kapoor",
-          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Jo Tum Ho",
-      "url": "https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
+      "added_at": "2022-11-25 00:16:00",
       "album": {
         "name": "Khud Se Riha",
         "url": "https://open.spotify.com/album/73Y7zu9SM99GQfksUF68ji"
@@ -799,138 +923,6 @@
       "duration_ms": 191487,
       "name": "Khud Se Riha",
       "url": "https://open.spotify.com/track/1dXNkpaDOy548fZW0n2nI4"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Jaan",
-        "url": "https://open.spotify.com/album/7ABKNzknlAQnvfSIAvZ2A1"
-      },
-      "artists": [
-        {
-          "name": "Sonu Kakkar",
-          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
-        }
-      ],
-      "duration_ms": 272848,
-      "name": "Jaan",
-      "url": "https://open.spotify.com/track/1SyrjVgx1fC70bfU7AJNcP"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Paris Ka Trip",
-        "url": "https://open.spotify.com/album/3wrAkSJmYHwokdHci0Iuyh"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Millind Gaba",
-          "url": "https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN"
-        },
-        {
-          "name": "Asli GOLD",
-          "url": "https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp"
-        }
-      ],
-      "duration_ms": 196430,
-      "name": "Paris Ka Trip",
-      "url": "https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Heeriye",
-        "url": "https://open.spotify.com/album/3pEMuO0AYxhN9Y7dfV6oZo"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        },
-        {
-          "name": "Arooh",
-          "url": "https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Heeriye",
-      "url": "https://open.spotify.com/track/2n81wfUPrLqem735iUKmCD"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Tumhe Pyaar Karungga",
-        "url": "https://open.spotify.com/album/2T31BGhbCWL94uwSJpQZcD"
-      },
-      "artists": [
-        {
-          "name": "Lakshay Kapoor",
-          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
-        },
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        }
-      ],
-      "duration_ms": 238263,
-      "name": "Tumhe Pyaar Karungga",
-      "url": "https://open.spotify.com/track/1mPuVuDCF53dcUVw8RR2Ja"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Gale Se Laga Lu",
-        "url": "https://open.spotify.com/album/5UGsOOISnC3E0Zlv6wQYSq"
-      },
-      "artists": [
-        {
-          "name": "Keshav Anand",
-          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Gale Se Laga Lu",
-      "url": "https://open.spotify.com/track/6YiMeYvtmcba8ICnaX7CjU"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/15KvHBepyvvrCZQcpDI5a2"
-      },
-      "artists": [
-        {
-          "name": "Gopal Dass",
-          "url": "https://open.spotify.com/artist/3ysXfxZWRCSZUo5Oc8aE9D"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/5hxeoqlTdpSl4nEyaRUKhy"
-    },
-    {
-      "added_at": "2022-11-11 05:39:18",
-      "album": {
-        "name": "Sataya Na Karo",
-        "url": "https://open.spotify.com/album/4By6bHCEWk8MXZEOmQjRUc"
-      },
-      "artists": [
-        {
-          "name": "Saaj Bhatt",
-          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
-        },
-        {
-          "name": "Mann Taneja",
-          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Sataya Na Karo",
-      "url": "https://open.spotify.com/track/1bTmXxjYVmu45kFWxfsSRa"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: BIG THE KIID",
-  "num_followers": 95935,
+  "num_followers": 96003,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMDNlMjI5YjVmYWNhZGU1ODg5ZjczNmE0ZDdhYzI4ZWJh",
+  "snapshot_id": "MTY2NjkzNTQ5NywwMDAwMDAwMDJkYTI2MzczYjRkOGZjNjQ3OTQ0MmZmZDVmYjgxMzQ0",
   "tracks": [
     {
       "added_at": "2022-10-28 05:38:17",
@@ -351,18 +351,22 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "Sensei Songs",
+          "url": "https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb"
         }
       ],
-      "duration_ms": 160062,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+      "duration_ms": 143530,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -431,38 +435,34 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Rei",
-        "url": "https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua"
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
       },
       "artists": [
         {
           "name": "Orelhv",
           "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        },
-        {
-          "name": "Sensei Songs",
-          "url": "https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb"
         }
       ],
-      "duration_ms": 143530,
-      "name": "Rei",
-      "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "Flow Rei Davi",
-        "url": "https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        }
-      ],
-      "duration_ms": 118285,
-      "name": "Flow Rei Davi",
-      "url": "https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP"
+      "duration_ms": 185430,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -483,6 +483,22 @@
       "duration_ms": 244500,
       "name": "Eu Te Amo",
       "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Flow Rei Davi",
+        "url": "https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Flow Rei Davi",
+      "url": "https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Os Dois Lados",
-        "url": "https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Os Dois Lados",
-      "url": "https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "Montanha",
         "url": "https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN"
+        "name": "Os Dois Lados",
+        "url": "https://open.spotify.com/album/0QjZYRn8b829lSy4aZSvQG"
       },
       "artists": [
         {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
         }
       ],
-      "duration_ms": 153817,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6"
+      "duration_ms": 219759,
+      "name": "Os Dois Lados",
+      "url": "https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -583,38 +583,18 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Chamada Perdida",
-        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Chamada Perdida",
-      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Reino",
-      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
+      "duration_ms": 153817,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -651,6 +631,26 @@
       "duration_ms": 184251,
       "name": "God Vem",
       "url": "https://open.spotify.com/track/5fnIy8tlUEBJR7uyCOROY4"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Chamada Perdida",
+        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Chamada Perdida",
+      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
+        "name": "Marionete",
+        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
         "name": "Apologetas",
         "url": "https://open.spotify.com/album/634hOgzEX0ZjtPLI52bCTm"
       },
@@ -895,42 +915,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Marionete",
-        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "\u00c1guias",
-        "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 213929,
-      "name": "\u00c1guias",
-      "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "Vazio",
         "url": "https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 154390,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "\u00c1guias",
+        "url": "https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW"
+      },
+      "artists": [
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        }
+      ],
+      "duration_ms": 213929,
+      "name": "\u00c1guias",
+      "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Ef\u00eamero Atemporal",
-        "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
-      },
-      "artists": [
-        {
-          "name": "Pregador Luo",
-          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
-        }
-      ],
-      "duration_ms": 213922,
-      "name": "Ef\u00eamero Atemporal",
-      "url": "https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "CQC",
         "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 120245,
       "name": "C\u00e9u",
       "url": "https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Ef\u00eamero Atemporal",
+        "url": "https://open.spotify.com/album/6DGbktchq40Qaa6vkGc4SV"
+      },
+      "artists": [
+        {
+          "name": "Pregador Luo",
+          "url": "https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r"
+        }
+      ],
+      "duration_ms": 213922,
+      "name": "Ef\u00eamero Atemporal",
+      "url": "https://open.spotify.com/track/49e4mRatiyMDsf50fGLlVA"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2022-10-28 05:38:17",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-10-28 05:38:17",
       "album": {
-        "name": "Levantar",
-        "url": "https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "Ca\u00edque Ribeiro",
-          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
-        }
-      ],
-      "duration_ms": 167832,
-      "name": "LEVANTAR",
-      "url": "https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0"
-    },
-    {
-      "added_at": "2022-10-28 05:38:17",
-      "album": {
         "name": "Se Cair",
         "url": "https://open.spotify.com/album/7M8bKWCmVtrUK3hrk3NSSQ"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 216034,
       "name": "Se Cair",
       "url": "https://open.spotify.com/track/6qx9NzaqtRvYrcJ0ojAZzh"
+    },
+    {
+      "added_at": "2022-10-28 05:38:17",
+      "album": {
+        "name": "Levantar",
+        "url": "https://open.spotify.com/album/1R5eqiltxoCCSUpr3VuigR"
+      },
+      "artists": [
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "Ca\u00edque Ribeiro",
+          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
+        }
+      ],
+      "duration_ms": 167832,
+      "name": "LEVANTAR",
+      "url": "https://open.spotify.com/track/2JMgMgcS4H1jAWxoP19vy0"
     },
     {
       "added_at": "2022-10-28 05:38:17",

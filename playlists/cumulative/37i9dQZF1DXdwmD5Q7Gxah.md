@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: omar apollo
 
-1,955 songs - 4 day 8 hr 41 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,956 songs - 4 day 8 hr 44 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [April](https://open.spotify.com/track/01cfQTm61M2Wvo1bMlMrwh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/68QSx74coxzwPDgSNOWX6g) | 3:18 | 2020-02-15 | 2020-03-25 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-21 | 2022-10-13 |
 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2022-11-16 |  |
-| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-11-02 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2022-11-02 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-11-02 | 2022-11-25 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2019-07-30\* | 2020-08-20 |
 | [Are You Bored Yet? \(feat\. Clairo\) \- Mura Masa Remix](https://open.spotify.com/track/4jgAfg7f9Wf6p4sIWYeOi3) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Are You Bored Yet? \(feat\. Clairo\) \[Mura Masa Remix\]](https://open.spotify.com/album/6wfbONYZZCJUAdKj2clYla) | 3:16 | 2020-08-30 | 2020-11-11 |
 | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [ARE YOU LETTING GO? \(feat\. BENEE\)](https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI) | 3:25 | 2021-10-22 | 2022-02-26 |

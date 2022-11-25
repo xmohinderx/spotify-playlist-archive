@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,649 likes - 250 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,680 likes - 250 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 73 | [Distance](https://open.spotify.com/track/42wsxrrkw6FYYxr01zcNjr) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2) | [Distance](https://open.spotify.com/album/2VkH7cE7KaixemQDFy3nkU) | 2:34 |
 | 74 | [burgundy](https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue) | [CHASE STEPHEN](https://open.spotify.com/artist/24PuTGiB6ISP3wErX3RzRT) | [burgundy](https://open.spotify.com/album/28wE9i34oVa5zG1ZC0miq7) | 1:45 |
 | 75 | [Hummingbird](https://open.spotify.com/track/4gpjkwHPHRZVWiohmSLbtK) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU) | [Hummingbird](https://open.spotify.com/album/253mUYy3bfbZmuMpnxdU7I) | 1:20 |
-| 76 | [Crystals](https://open.spotify.com/track/5hM8Ljjy7Miqnh8yORVAMn) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Crystals](https://open.spotify.com/album/2NFBr0K13CUQCd7iHHIVHh) | 2:06 |
+| 76 | [Crystals](https://open.spotify.com/track/1OAdZsRqOykleScTTfgZmo) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Crystals](https://open.spotify.com/album/5gEXCUmcxnmROBcWem1O4W) | 2:06 |
 | 77 | [Chill With Me](https://open.spotify.com/track/3Bt3ARiqE55W8rqRmpnsid) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5) | [Chill With Me](https://open.spotify.com/album/5Vfa9hZn234F7bntKMvvD7) | 2:12 |
 | 78 | [Bottle post](https://open.spotify.com/track/6hpPyrW13t94TQIMC7h0M2) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Bottle post](https://open.spotify.com/album/7rRfoRckclV5J7zLDgMeJY) | 2:31 |
 | 79 | [Granites](https://open.spotify.com/track/4DE0NmLlFzhVZPnvkhaHDl) | [Claude Diar](https://open.spotify.com/artist/6tGdJRFOFqO3SCsMphgYIw) | [Granites](https://open.spotify.com/album/1nfxMDHGjSK2yRFukOYSkr) | 2:07 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 249 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 |
 | 250 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 |
 
-Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMDQzZTE3ZDM4NDBjY2Y2ZjMxMTA3MTMwMDkyZmQ0ZmYw`
+Snapshot ID: `MTY2ODE2NzQzNCwwMDAwMDAwMDRiNDQ0OThjYTMzYTRjNGE3NjBmNWYyZDNlYmNkNmRm`

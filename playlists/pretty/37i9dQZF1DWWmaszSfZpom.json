@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
-  "num_followers": 790033,
+  "num_followers": 790164,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDBlNWFmZWY0YWM4ZGZlZWUwZWQ5ZTI0MzM1MGUyZTY0",
+  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDBkYWFkZWQ1OTdiYjBkNDU2MzFhMmYxZDJlYTRmNDhh",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -563,42 +563,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Isso Que \u00e9 Vida",
-        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Cantini",
-          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Isso Que \u00e9 Vida",
-      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -619,6 +583,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 176608,
       "name": "Movimento da sanfoninha - Ao vivo",
       "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "Isso Que \u00e9 Vida",
+        "url": "https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Cantini",
+          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Isso Que \u00e9 Vida",
+      "url": "https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT"
+      },
+      "artists": [
+        {
+          "name": "very man",
+          "url": "https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR"
+        }
+      ],
+      "duration_ms": 179624,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Baila Comigo (feat. Kelly Ruiz) [Rennan da Penha Remix]",
         "url": "https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 120050,
       "name": "Baila Comigo (feat. Kelly Ruiz) - Rennan da Penha Remix",
       "url": "https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT"
-      },
-      "artists": [
-        {
-          "name": "very man",
-          "url": "https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR"
-        }
-      ],
-      "duration_ms": 179624,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g"
     },
     {
       "added_at": "2022-10-07 03:03:00",

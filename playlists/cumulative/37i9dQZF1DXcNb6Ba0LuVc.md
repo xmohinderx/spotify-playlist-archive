@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-382 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
+383 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/49DbOQDSQNDQqGqwVkSprU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-11-11 |  |
 | [Golden](https://open.spotify.com/track/4wNhZBHX5nljSBTCbf4Z0x) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Golden](https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL) | 2:13 | 2022-08-19 |  |
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2021-11-11 |  |
-| [Good Life](https://open.spotify.com/track/3qRWNLXIMrxZOrld6JiOco) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:05 | 2022-11-11 |  |
+| [Good Life](https://open.spotify.com/track/3qRWNLXIMrxZOrld6JiOco) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:05 | 2022-11-11 | 2022-11-25 |
+| [Good Life](https://open.spotify.com/track/6kpDdS0xl78MeBm0IvrjB5) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:05 | 2022-11-11 |  |
 | [Good Life](https://open.spotify.com/track/6z3Chfc9QRxWOAEwuwgfs7) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Good Life](https://open.spotify.com/album/0UdElH7dMKYhsHnSXrGqOM) | 2:05 | 2022-07-01 | 2022-11-20 |
 | [Group Study](https://open.spotify.com/track/5OxxVnONU85inGDHoRBs2M) | [Maoen](https://open.spotify.com/artist/1bKSEAwS6nhv0kTYWfRkZK), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Group Study](https://open.spotify.com/album/1cUyNhvm1u0k9TKeIswkoq) | 1:30 | 2021-11-11 | 2022-05-20 |
 | [Guava Gods](https://open.spotify.com/track/3MY68eRK74kdGZucW8d8bA) | [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH), [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Guava Gods](https://open.spotify.com/album/1Jx6aukHSmymo0Itc8nvzn) | 1:57 | 2021-11-11 | 2022-05-27 |

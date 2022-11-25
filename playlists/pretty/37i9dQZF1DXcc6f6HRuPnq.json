@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 58919,
+  "num_followers": 59124,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMGExNzNkZGIyYTA4NjZhNWNiYWU0M2QxYzgwYzEwMTNm",
+  "snapshot_id": "MTY2ODc3Nzg5OSwwMDAwMDAwMDM1YzRmZTIyMDExNWMyZDUxNmI1ODRmNTY3NmM1MTdi",
   "tracks": [
     {
       "added_at": "2022-11-17 14:44:01",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "My Blues Pathway",
         "url": "https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 313253,
       "name": "Struggle for Grace",
       "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Tommy Castro Presents A Bluesman Came To Town",
         "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
       },
       "artists": [
         {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
         }
       ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -499,6 +483,22 @@
       "duration_ms": 373920,
       "name": "Same Old Blues Again",
       "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2022-11-17 14:44:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-17 14:44:01",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
-      },
-      "artists": [
-        {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
-    },
-    {
-      "added_at": "2022-11-17 14:44:01",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2022-11-17 14:44:01",
+      "album": {
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+      },
+      "artists": [
+        {
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2022-11-17 14:44:01",

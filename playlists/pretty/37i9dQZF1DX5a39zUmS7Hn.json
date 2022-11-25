@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Smashing Pumpkins",
-  "num_followers": 352181,
+  "num_followers": 352530,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4MDU1MSwwMDAwMDAwMDgwNDllNmUxYTgyMWEwZWU0ZjA3NzhiY2NkNmI3NTBk",
+  "snapshot_id": "MTY2ODc4MDU1MSwwMDAwMDAwMDBhNjIxMWYyMTQ3NzRiOWRmNmVkZmY2YTA3MjljZWU4",
   "tracks": [
     {
       "added_at": "2022-11-14 14:12:53",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
-      "added_at": "2022-11-24 00:54:44",
+      "added_at": "2022-11-25 01:29:08",
       "album": {
         "name": "ATUM - Act I",
         "url": "https://open.spotify.com/album/6lnwneHwAQkzRdRLf4W10i"
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-14 14:12:53",
       "album": {
-        "name": "San Quentin",
-        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
-    },
-    {
-      "added_at": "2022-11-14 14:12:53",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2022-11-14 14:12:53",
+      "album": {
+        "name": "San Quentin",
+        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
     },
     {
       "added_at": "2022-11-14 14:12:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-14 14:12:53",
       "album": {
-        "name": "Tippa My Tongue",
-        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 260808,
-      "name": "Tippa My Tongue",
-      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
-    },
-    {
-      "added_at": "2022-11-14 14:12:53",
-      "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 295054,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH"
+    },
+    {
+      "added_at": "2022-11-14 14:12:53",
+      "album": {
+        "name": "Tippa My Tongue",
+        "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 260808,
+      "name": "Tippa My Tongue",
+      "url": "https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW"
     },
     {
       "added_at": "2022-11-14 14:12:53",

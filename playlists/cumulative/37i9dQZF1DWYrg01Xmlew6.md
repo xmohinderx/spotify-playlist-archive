@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Lazza
+> Il meglio da Napoli e dalla scena campana\. Cover: MV Killa
 
-130 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+132 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 | 2022-09-15 | 2022-10-14 |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 |  |
 | [Chello Che Vuó \(feat\. Geolier\)](https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AMBIZIONE](https://open.spotify.com/album/6eKnvAWCYNYJncvryqP8Ha) | 3:21 | 2022-05-10 | 2022-05-27 |
+| [CHI DIO](https://open.spotify.com/track/0wDA1UIKeUhelqefsrqYhe) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [CHI DIO](https://open.spotify.com/album/2bRjwdOxrP2qriTMievPoW) | 2:24 | 2022-11-24 |  |
 | [CHI S MOV](https://open.spotify.com/track/74NGmB3Wos02vi3JuuH3am) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [CHI S MOV](https://open.spotify.com/album/5bfoRPpcH9ageXHInpChQr) | 2:24 | 2022-11-10 | 2022-11-18 |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 | 2022-10-27 |  |
 | [Chiamm'm](https://open.spotify.com/track/6kf8m42FQ1YB4KZOXdsnCo) | [Southboy](https://open.spotify.com/artist/5d4A9NzErxmra8zPzo2ckE), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chiamm'm](https://open.spotify.com/album/416Zpbe6xnUU2mZn8HRyek) | 2:10 | 2022-09-22 | 2022-10-28 |
@@ -72,6 +73,7 @@
 | [Montana](https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Montana](https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U) | 2:52 | 2022-09-08 |  |
 | [Motorola](https://open.spotify.com/track/0FVgTO00uY8WyHPtfHp4Az) | [Joka](https://open.spotify.com/artist/7IENJBytwoka42rgzfLLyW) | [Motorola](https://open.spotify.com/album/3CB5vY8hjXg1NqehIhQvQS) | 2:39 | 2022-05-10 | 2022-06-03 |
 | [NA CRIATURA](https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [NA CRIATURA](https://open.spotify.com/album/07DTjfY4CXGe01KxN1HdwE) | 2:54 | 2022-05-10 | 2022-05-27 |
+| [NO BODYGUARD](https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [NO BODYGUARD](https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F) | 2:52 | 2022-11-24 |  |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-10 | 2022-05-27 |
 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:47 | 2022-07-28 | 2022-09-16 |
 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:47 | 2022-05-10 | 2022-07-29 |

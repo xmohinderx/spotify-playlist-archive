@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167816,
+  "num_followers": 167842,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDU0MmM3YmVjMzVmNThmYTk3MzI4YzIwZmM2ZTAxY2Yz",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDIyY2U4NGQ4MWFiYmZkMjk1NjdiMjExMDY0YzU0YmQy",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Escorpio",
-        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Knock Out",
-      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Te Doy Igual",
         "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 146024,
       "name": "Te Doy Igual",
       "url": "https://open.spotify.com/track/5MjgAWBRFkKU2OKgLHqWdZ"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Escorpio",
+        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Cohen's Cumbia",
-      "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "fluye",
         "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
       "artists": [
         {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+      "duration_ms": 153500,
+      "name": "Cohen's Cumbia",
+      "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 201504,
       "name": "Palmeras",
       "url": "https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Habla Claro",
-        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
-      },
-      "artists": [
-        {
-          "name": "Queens Tafari",
-          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Habla Claro",
-      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -483,18 +467,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/2yevwO4S3gYsYf1OdZGOPC"
+        "name": "Habla Claro",
+        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
       },
       "artists": [
         {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+          "name": "Queens Tafari",
+          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/00bOusre2EknU7gtMdnrs2"
+      "duration_ms": 150266,
+      "name": "Habla Claro",
+      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -511,6 +495,22 @@
       "duration_ms": 193953,
       "name": "Fighting Ghosts",
       "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/2yevwO4S3gYsYf1OdZGOPC"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/00bOusre2EknU7gtMdnrs2"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2W6XLQgCLJbvIYxzIZrFuw"
+      },
+      "artists": [
+        {
+          "name": "Paola Guanche",
+          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/059RWrtCpHMSO7OF9gO38c"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "On Those Nights",
         "url": "https://open.spotify.com/album/5EpIdMGqtk2EdiH4CwBu88"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 190755,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2W6XLQgCLJbvIYxzIZrFuw"
-      },
-      "artists": [
-        {
-          "name": "Paola Guanche",
-          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/059RWrtCpHMSO7OF9gO38c"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "1 AM: NE\u00d3N",
-        "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Zanelatto",
-          "url": "https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN"
-        },
-        {
-          "name": "Uawa",
-          "url": "https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF"
-        }
-      ],
-      "duration_ms": 176686,
-      "name": "1 AM: NE\u00d3N",
-      "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 168774,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "1 AM: NE\u00d3N",
+        "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Zanelatto",
+          "url": "https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN"
+        },
+        {
+          "name": "Uawa",
+          "url": "https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF"
+        }
+      ],
+      "duration_ms": 176686,
+      "name": "1 AM: NE\u00d3N",
+      "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
-      },
-      "artists": [
-        {
-          "name": "Matiu Colin",
-          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Se Hizo De Noche",
         "url": "https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 242602,
       "name": "Buen Augurio",
       "url": "https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
+      },
+      "artists": [
+        {
+          "name": "Matiu Colin",
+          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
     },
     {
       "added_at": "2022-11-10 00:19:53",

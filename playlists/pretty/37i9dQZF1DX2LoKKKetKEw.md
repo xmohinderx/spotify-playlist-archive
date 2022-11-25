@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,420 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,588 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 20 | [Hosanna](https://open.spotify.com/track/6OLJqYcAfhqd91ZnvH8Sst) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:21 |
 | 21 | [Ife Wami](https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Ife Wami](https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz) | 2:17 |
 | 22 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 |
-| 23 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
-| 24 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 |
+| 23 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 |
+| 24 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 | 25 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 |
 | 26 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 |
 | 27 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 44 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 |
 | 45 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 |
 | 46 | [Right Now](https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Right Now](https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x) | 2:14 |
-| 47 | [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 |
-| 48 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m), [Pure Streams](https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 |
+| 47 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/2T5MR0ZRAo0VH5quEfnN3m), [Pure Streams](https://open.spotify.com/artist/0M2IMlSX6lnDQZMdFsnzgr) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 |
+| 48 | [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 |
 | 49 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
 | 50 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
 | 51 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 54 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 |
 | 55 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMDQ4NjA4NjllZTE3NjcyNWYwM2M1NzYzOWI3OTk1YzFm`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGM0ZjMxMTczOGZiNDI1YTU4YTVhMTBlMzY2YTM2OTUw`

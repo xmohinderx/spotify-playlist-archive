@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-58 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
+59 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Shine On](https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On \(Bonus Track Version\)](https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx) | 5:12 | 2022-03-23 |  |
 | [Shine On](https://open.spotify.com/track/7anTdHy8B3QSnxmldi6H2u) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On](https://open.spotify.com/album/2uuDPTEvQCzMyvmAVsbqk7) | 5:12 | 2022-03-23 | 2022-11-13 |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2022-03-23 |  |
-| [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 | 2022-03-23 |  |
+| [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-03-23 |  |
+| [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 | 2022-03-23 | 2022-11-25 |
 | [Sunset Funk](https://open.spotify.com/track/0CCfUjVaA2321ao0TuRaor) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0) | 4:20 | 2022-03-23 |  |
 | [Take Your Time](https://open.spotify.com/track/7AMbZs3gWTlx2azi5sFwow) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [Dj Chabin présente : Fonky Funk planète](https://open.spotify.com/album/0DXei2VwBUwRf9T5jS17X2) | 7:45 | 2022-03-23 |  |
 | [The Blue \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5Jw0Pi74l6A2jNG7k9CfNC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:25 | 2022-03-23 |  |

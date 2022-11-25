@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -5825,7 +5825,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 235800,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
@@ -6599,7 +6599,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -8495,7 +8495,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -9625,7 +9625,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -10833,7 +10833,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FFF Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
@@ -11526,6 +11526,24 @@
     },
     {
       "album": {
+        "name": "World Cup",
+        "url": "https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256704,
+      "name": "World Cup",
+      "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -12187,7 +12205,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 253130,
       "name": "\u0627\u0644\u0644\u0647 \u0627\u0644\u0644\u0647 \u064a\u0627 \u0645\u0646\u062a\u062e\u0628\u0646\u0627",
       "url": "https://open.spotify.com/track/5NbPFNIfQo0zCaNmpLSNSG"

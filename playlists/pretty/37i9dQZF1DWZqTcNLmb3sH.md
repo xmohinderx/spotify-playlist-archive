@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,861 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 10 | [Yuddhakanda \(Title Teaser\) \- From "Yuddhakanda"](https://open.spotify.com/track/02xX12EuHIvJ8HfoOWrZL1) | [K B Praveen](https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur) | [Yuddhakanda \(Title Teaser\) \[From "Yuddhakanda"\]](https://open.spotify.com/album/5M0bbdRs4nbiaOwDnWGSsb) | 2:08 |
 | 11 | [Baare Baare Rajakumari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/track/2TI0vJ8Jdrwjx6Aht5lYFh) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prabhu S R](https://open.spotify.com/artist/4VrFORsWwVXNQ0hLCMrV1w) | [Baare Baare Rajakumari \(From "Raja Rani Roarer Rocket"\)](https://open.spotify.com/album/1BpHJxPScE5w2FVGeVOoBW) | 3:52 |
 | 12 | [Helabeku Yellavannu](https://open.spotify.com/track/2B74gqICeP9boID7SmQ4SC) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Kamblihula](https://open.spotify.com/album/5tzWqE63pcgttJO54xtnYo) | 3:56 |
-| 13 | [Nanna Kattikondre](https://open.spotify.com/track/2NghZbSsahFjb7fEM9hrM7) | [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Sasanasabha \(Kannada\)](https://open.spotify.com/album/59ZxgIKimov7RchRNQCoDt) | 3:19 |
+| 13 | [Nannu Pattukunte](https://open.spotify.com/track/3yt5jBNkJ5uL2k6ZZK3PGo) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Sasanasabha \(Telugu\)](https://open.spotify.com/album/2dFw58wnQs565dBJNbx78F) | 3:19 |
 | 14 | [Barthale Barthale \- From "Ugravathara"](https://open.spotify.com/track/4sfq3hBeBShpkYmKJp8p3R) | [Girija Siddi](https://open.spotify.com/artist/5Mj5VPECenQla2RuKGikE1), [Krishna Basrur](https://open.spotify.com/artist/2gkLsHCvSpaoRJw2zVwB3P), [Geetha Siddi](https://open.spotify.com/artist/1ujAeBylfUOkZJMmpmjavF) | [Barthale Barthale \(From "Ugravathara"\)](https://open.spotify.com/album/713rDvKHgy7FpdL0ZpRjxM) | 3:22 |
 | 15 | [Freedom](https://open.spotify.com/track/4pilBzcDFw8G58jpQp3REK) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R) | [Thimayya & Thimayya](https://open.spotify.com/album/4OB36jYXZhHDxZDEHdmnEZ) | 3:04 |
 | 16 | [Love You Dear](https://open.spotify.com/track/1lx8xUbgT0QDB5rmz8zYB4) | [Basavanth Rao](https://open.spotify.com/artist/0aRObP4WhRc4ywXa2nqgjp), [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Nambabeda](https://open.spotify.com/album/6QShIC7cJ8ptIFaJBcW8ya) | 4:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 98 | [Nenne Tanaka \- From "Trivikrama"](https://open.spotify.com/track/7evkVwg65A0bAuRf7DVFHx) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Nenne Tanaka \(From "Trivikrama"\)](https://open.spotify.com/album/7G2DtZGuybwxA5YScHSHFm) | 4:17 |
 | 99 | [Thale Kettaga Onde Formula](https://open.spotify.com/track/416xO4d117dG2tB5vaVC2K) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Abbara](https://open.spotify.com/album/0F2I0bqjDIysW79xkUSex3) | 3:32 |
 
-Snapshot ID: `MTY2OTIxMTU1NCwwMDAwMDAwMDBiNTM5NzE1OGYzMThhMjg3M2Y3OGNjOWJhNTc4MGM5`
+Snapshot ID: `MTY2OTIxMTU1NCwwMDAwMDAwMGIyY2IyYjE3YWM2Y2ZhODVmNDkyOGM5ODg1ZjQzNGMy`

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Defining Moment",
+        "url": "https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os"
+      },
+      "artists": [
+        {
+          "name": "Cuarto Silencioso",
+          "url": "https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "A Defining Moment",
+      "url": "https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod"
+    },
+    {
+      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 120000,
       "name": "A Winged Time",
       "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 161000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 197500,
       "name": "Always",
       "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
@@ -1704,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD"
       },
@@ -1881,6 +1917,24 @@
       "duration_ms": 144509,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4"
+    },
+    {
+      "album": {
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/09u2ELLZ0BNQPhMj4BKinj"
+      },
+      "artists": [
+        {
+          "name": "Richard Mahees",
+          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115129,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/7a5R2EBE3U9cByR9EbD1zC"
     },
     {
       "album": {
@@ -3218,6 +3272,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7M09LrIRkm1eph7q7n3Blf"
+      },
+      "artists": [
+        {
+          "name": "Hale Hoffman",
+          "url": "https://open.spotify.com/artist/4274kWhhMpB59WtAGGr7j5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/708sPQ3Czu2U7sOJcbY1fd"
+    },
+    {
+      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj"
       },
@@ -3701,7 +3773,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 136500,
       "name": "Heartfelt",
       "url": "https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1"
@@ -4047,7 +4119,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 218750,
       "name": "Hymn for Archimedes",
       "url": "https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX"
@@ -4353,7 +4425,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 155250,
       "name": "Intermedanos",
       "url": "https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP"
@@ -5307,7 +5379,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 159056,
       "name": "Lj\u00f3ma",
       "url": "https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7"
@@ -5782,6 +5854,24 @@
     },
     {
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
+      },
+      "artists": [
+        {
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+    },
+    {
+      "album": {
         "name": "Minuit \u00e0 Paris",
         "url": "https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6"
       },
@@ -5955,7 +6045,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 177750,
       "name": "Morning Air",
       "url": "https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E"
@@ -6207,7 +6297,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 129121,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR"
@@ -7528,6 +7618,24 @@
     },
     {
       "album": {
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175763,
+      "name": "Rh\u00f4ne",
+      "url": "https://open.spotify.com/track/7xjXwre2UJf8M7GpTvEoIT"
+    },
+    {
+      "album": {
         "name": "Rianmarsi",
         "url": "https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J"
       },
@@ -8205,7 +8313,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/0auqJASBeDsWxuAU7PAmAn"
@@ -8439,7 +8547,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 147573,
       "name": "Sorrisi",
       "url": "https://open.spotify.com/track/5Sies2EfN1e7CNHhfaAq8g"
@@ -8879,7 +8987,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 167295,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
@@ -8901,6 +9009,24 @@
       "duration_ms": 178674,
       "name": "Tana",
       "url": "https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP"
+    },
+    {
+      "album": {
+        "name": "Allg\u00e4uer Winter",
+        "url": "https://open.spotify.com/album/3TteT6GzxNbGON4e6L2D1m"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147577,
+      "name": "Tannheimer Tal",
+      "url": "https://open.spotify.com/track/1amrAsnnNF1T3asupLTlyu"
     },
     {
       "album": {
@@ -9059,7 +9185,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 223880,
       "name": "the color of the sky - solo piano",
       "url": "https://open.spotify.com/track/06UlQEupfklesVD0OB2N87"
@@ -9211,6 +9337,24 @@
       "duration_ms": 160000,
       "name": "The Heartbeat of The Coral Reef",
       "url": "https://open.spotify.com/track/4JDDpSkJRWUOX59NPvGBWZ"
+    },
+    {
+      "album": {
+        "name": "The hills",
+        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "The hills",
+      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
     },
     {
       "album": {
@@ -9553,6 +9697,24 @@
       "duration_ms": 152000,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE"
+    },
+    {
+      "album": {
+        "name": "Toivoa",
+        "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121732,
+      "name": "Toivoa",
+      "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
     },
     {
       "album": {

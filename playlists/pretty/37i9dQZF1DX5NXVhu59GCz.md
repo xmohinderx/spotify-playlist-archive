@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,702 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,732 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 28 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
 | 29 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
 | 30 | [Sometimes I Think About](https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Lollipop](https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX) | 4:10 |
-| 31 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
-| 32 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
+| 31 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
+| 32 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
 | 33 | [You Shouldn't Do That \- 1996 Remaster](https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 15:41 |
 | 34 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
 | 35 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMGNjMjUyNDhjNTZkMWZiMzFiY2NhYzE1NzBhY2U4YmQx`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDZiNTFmMmNhOGUxNjk0YzY4NmI5MjY0ZTY5ZDA3Mzg1`

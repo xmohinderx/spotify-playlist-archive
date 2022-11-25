@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,550 likes - 90 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,011 likes - 90 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 32 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 |
 | 33 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 34 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
-| 35 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
-| 36 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 35 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 36 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
 | 37 | [Alright \- Remastered](https://open.spotify.com/track/5sBSotSAMpBlz97tLswT7v) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:42 |
 | 38 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
 | 39 | [I'll Be With You](https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR) | 3:42 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 75 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
 | 76 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
 | 77 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
-| 78 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
-| 79 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
+| 78 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
+| 79 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
 | 80 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
 | 81 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 82 | [Dear Limmertz](https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth: Outubro](https://open.spotify.com/album/6baaqatjoaHoivfzexDedw) | 4:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
 | 90 | [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 |
 
-Snapshot ID: `MTY2MDIzODM1MywwMDAwMDAwMGM5NzFhNzc1YWI1MjVhMmIxYzliODM4NmYyMWQyNGY3`
+Snapshot ID: `MTY2MDIzODM1MywwMDAwMDAwMDEwMWI3MDEzOTc3ODI5MWRkYjMzNDE3MGI0MjE0Njdm`

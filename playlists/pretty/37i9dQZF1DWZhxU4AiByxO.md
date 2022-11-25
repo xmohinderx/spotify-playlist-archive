@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,694 likes - 178 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,760 likes - 178 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 27 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 |
 | 28 | [Coming Out of the Dark](https://open.spotify.com/track/00kR62ndRz8GMrcULgxoze) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Coming Out Of The Dark](https://open.spotify.com/album/6YiN0lVcpxK9OUnEgbHvo4) | 2:53 |
 | 29 | [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 |
-| 30 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 |
+| 30 | [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 |
 | 31 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
 | 32 | [Montero \(Call Me By Your Name\)](https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:16 |
 | 33 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 79 | [Circles](https://open.spotify.com/track/7a0PtNlA2njR3OYszwCWJ1) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:30 |
 | 80 | [ily \(i love you baby\)](https://open.spotify.com/track/1AijjSH5B1JZN8k1E7U2QV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:56 |
 | 81 | [Born to Be Brave \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/68Q2XfjYwOTdIlLhnfeXib) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Born to Be Brave \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/0HUaQANiPs6GN9qMRH9aMy) | 3:09 |
-| 82 | [U\-N\-I](https://open.spotify.com/track/4k3i2Qmo8vfhiQwkUszK0K) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7API0ZipF82Jy6kKwLVGUB) | 2:27 |
+| 82 | [U\-N\-I](https://open.spotify.com/track/1AIvhp4HzFbe6zyELLGocj) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:27 |
 | 83 | [10,000 Hours](https://open.spotify.com/track/78DrMIudWWGuMD7jQHvEqm) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 18](https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO) | 2:47 |
 | 84 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 85 | [Panini](https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Panini](https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf) | 1:57 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 177 | [Meant to Be](https://open.spotify.com/track/6UVyRn5CmTr2hXjC4mtmLK) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 16](https://open.spotify.com/album/2Of9F4htVY5MPY8KWs96E9) | 2:45 |
 | 178 | [Mercy](https://open.spotify.com/track/5hx745zVn9ydtxVTPoRU6I) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 35](https://open.spotify.com/album/446h1jQEUAz94QrRd9Ry3y) | 3:10 |
 
-Snapshot ID: `MTY2OTE5NTMwOCwwMDAwMDAwMGUyZjkzZjYyMTg2ZjFiMTEwNjk1MjA1ZDhkYTI2OGRk`
+Snapshot ID: `MTY2OTE5NTMwOCwwMDAwMDAwMDFhNWQ1MGMzMDk3MTcxMzdkMTI1OTlhYzJmYzk0MmZi`

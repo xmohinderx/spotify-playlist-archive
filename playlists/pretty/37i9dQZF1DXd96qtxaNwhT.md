@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,411 likes - 88 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,450 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 2 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 |
 | 3 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 |
 | 4 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 |
-| 5 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 |
+| 5 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/7sCdIXPcYIzYmPEl7FdloT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:17 |
 | 6 | [Letter](https://open.spotify.com/track/7KyCx9yhNre0RdV7D1ANZJ) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 3:09 |
 | 7 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
 | 8 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 87 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 |
 | 88 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 |
 
-Snapshot ID: `MTY2NzQ4MDQwMCwwMDAwMDAwMDM0ZjVlNWFmOGZjYzdjMGFjODMzOTc2YjRiOGY5NjNk`
+Snapshot ID: `MTY2NzQ4MDQwMCwwMDAwMDAwMDkzZjZlZjVlYWMxZGM3YmE3ZjM3MzQwZThjNDZlOTBj`

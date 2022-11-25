@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 452208,
+  "num_followers": 452294,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDM4MDA0OGVjZGJiZmUxOTJjYmJjMTc2MTI4OGY5M2Vk",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDAwYmE5ZDFlYTY2YTI2NDc0ZjEzMmY4NmUwZTQ3YWNi",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Betty Davis",
+        "url": "https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz"
+      },
+      "artists": [
+        {
+          "name": "Betty Davis",
+          "url": "https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Anti Love Song",
+      "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "The Best of Eric Burdon & War",
         "url": "https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 237400,
       "name": "Tobacco Road",
       "url": "https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Betty Davis",
-        "url": "https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz"
-      },
-      "artists": [
-        {
-          "name": "Betty Davis",
-          "url": "https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Anti Love Song",
-      "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
     },
     {
       "added_at": "2022-02-04 05:02:00",

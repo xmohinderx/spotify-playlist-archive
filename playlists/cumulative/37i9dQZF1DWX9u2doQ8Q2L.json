@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 207017,
       "name": "Be With You feat. Ai Furihata",
       "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 234693,
       "name": "Butter - Hidden Spheres Remix",
       "url": "https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 288241,
       "name": "D'Addario",
       "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
@@ -2252,6 +2252,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9"
+      },
+      "artists": [
+        {
+          "name": "yahyel",
+          "url": "https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328434,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
       },
@@ -3112,6 +3130,24 @@
     },
     {
       "album": {
+        "name": "Mabushii Sekai",
+        "url": "https://open.spotify.com/album/1rMfgMG2eMuqFjPpmCUdCC"
+      },
+      "artists": [
+        {
+          "name": "Keiichi Sokabe",
+          "url": "https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320638,
+      "name": "Mabushii Sekai",
+      "url": "https://open.spotify.com/track/7urd5ed6VVT9s3g1fVZL5p"
+    },
+    {
+      "album": {
         "name": "MAD DOCTOR",
         "url": "https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv"
       },
@@ -3681,7 +3717,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
@@ -4121,7 +4157,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 410761,
       "name": "Quai",
       "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
@@ -4527,6 +4563,24 @@
       "duration_ms": 183709,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
+    },
+    {
+      "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/3obgU7GXmEVH1YzAdHIToZ"
+      },
+      "artists": [
+        {
+          "name": "Def Tech",
+          "url": "https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM"
     },
     {
       "album": {
@@ -5701,7 +5755,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 180861,
       "name": "Toxins",
       "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
@@ -8155,7 +8209,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 271525,
       "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"

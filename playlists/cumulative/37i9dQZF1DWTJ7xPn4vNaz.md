@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1970s\. Cover: Olivia Newton\-John.
 
-524 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
+525 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/4f5WBgUIVWfE2Rex20Gg2k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,12 +352,13 @@
 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 | 2022-08-12 | 2022-11-13 |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/1zC9mSQAH2fn3DGscYRuCY) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Favorites](https://open.spotify.com/album/5sChslya0IEmKrmGFifGze) | 6:57 | 2019-06-10 | 2020-06-04 |
 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 | 2020-12-23 | 2021-10-14 |
-| [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 | 2022-01-25 |  |
+| [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 | 2022-01-25 | 2022-11-25 |
 | [Peace of Mind](https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 5:03 | 2021-02-25 | 2021-05-28 |
 | [Peg](https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW) | 4:00 | 2020-12-23 | 2021-10-16 |
 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 | 2019-06-25 | 2021-10-14 |
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2020-04-25 |  |
 | [Pink Moon](https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 2:03 | 2020-08-20 | 2021-10-12 |
+| [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2022-08-12 |  |
 | [Play That Funky Music \- Single Version](https://open.spotify.com/track/1Zg71dOvDOf63sXwYEnGol) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:11 | 2019-06-21 | 2021-10-16 |
 | [Please Mr\. Postman](https://open.spotify.com/track/6RMo3zv9VjmcGi4V5O3cOL) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/2FxmC1q7CTXLSfHIX5xWCr) | 2:52 | 2019-05-26\* | 2022-07-16 |
 | [Police & Thieves](https://open.spotify.com/track/5qbj8dqll1Kopdku7Ssz9l) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Reggae Greats](https://open.spotify.com/album/0BFEBubsvc74oyVKk9PHFr) | 4:06 | 2019-07-18 | 2021-05-27 |

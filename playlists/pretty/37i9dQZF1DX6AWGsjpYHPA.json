@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 90392,
+  "num_followers": 90514,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGI4NjFhM2VkODc5OTQ5MTdhNTNhMjJjNjA5ZjRjZGZj",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGZlZWI1ZTdkNGU0NGY0YTlhYmUwNzU0OTEzMzQ4ZTU4",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Imagineering",
-        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Imagineering",
+        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Jazz Vol. 1",
-        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz Vol. 1",
-      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 221053,
       "name": "Action Line",
       "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Jazz Vol. 1",
+        "url": "https://open.spotify.com/album/2cWeR05mqXycoHSAHaCBMV"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 397477,
+      "name": "Jazz Vol. 1",
+      "url": "https://open.spotify.com/track/2f9TCHbHyWF85G9LDjjwiF"
     },
     {
       "added_at": "2022-09-15 22:32:37",

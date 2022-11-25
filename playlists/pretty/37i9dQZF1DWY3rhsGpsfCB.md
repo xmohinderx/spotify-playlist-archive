@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,062 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,178 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 74 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 |
 | 75 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
 | 76 | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [G.O.A.T\. \(feat\. Ty Dolla $ign & Bella Alubo\)](https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk) | 3:52 |
-| 77 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 |
-| 78 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
-| 79 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 |
-| 80 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 77 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
+| 78 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 |
+| 79 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 80 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 |
 
-Snapshot ID: `MTY2ODc3MDkzNCwwMDAwMDAwMDAyMWZiZjU3NzAxMjE1MWZlZjg1ODYxZTkzNTk4MGM2`
+Snapshot ID: `MTY2ODc3MDkzNCwwMDAwMDAwMDUxNTkyMGMwMTZmNGVkNTNhMTc0ZDkyZGYyNzBlYzg3`

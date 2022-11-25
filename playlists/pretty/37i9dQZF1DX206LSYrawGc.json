@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 158377,
+  "num_followers": 158773,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDI4NjIyZjlmMmY4NmQyNzc2MWViM2VhMGYwY2Q4NWU5",
+  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDJiMjZiZTUwMjg1NGFkNDhkN2Q0ODM3NzEyNGJiOGJi",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
-      "added_at": "2022-07-05 15:28:41",
+      "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 323706,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -217,20 +217,20 @@
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
+      "added_at": "2022-07-05 15:28:41",
       "album": {
-        "name": "Love At First Sting",
-        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Rock You Like A Hurricane",
-      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+      "duration_ms": 323706,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-29 17:56:03",
       "album": {
-        "name": "Mechanical Resonance",
-        "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Modern Day Cowboy",
-      "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
-    },
-    {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
         "name": "Winger",
         "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245266,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Mechanical Resonance",
+        "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Modern Day Cowboy",
+      "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
     },
     {
       "added_at": "2021-03-16 22:32:51",

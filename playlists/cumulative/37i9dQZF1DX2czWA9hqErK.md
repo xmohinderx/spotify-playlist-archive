@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-414 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+415 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [Still in Love with You](https://open.spotify.com/track/6o9zlsIDcf643tAw44jpuV) | [Deeps](https://open.spotify.com/artist/2Z6S0daezacaUwUukXQUqJ) | [Still in Love with You](https://open.spotify.com/album/4x6Uy0jOKl3m2K5wjeWmJZ) | 3:18 | 2022-03-25 | 2022-04-08 |
 | [Sugar Pink Moon](https://open.spotify.com/track/2XppuUtmSsMUx7eIQpbR5i) | [ilselena](https://open.spotify.com/artist/4080n5KoGfdo3p93orsGIo) | [Sugar Pink Moon](https://open.spotify.com/album/5aWOcCrZlYH49eZSExESPM) | 3:38 | 2022-01-17 | 2022-07-24 |
 | [Sugarush](https://open.spotify.com/track/3bqy3C5Qr3LSENrH4lvS6m) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Sugarush](https://open.spotify.com/album/4HG3KflDvugWwUGp5UXtst) | 3:10 | 2021-12-16 | 2022-01-07 |
-| [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-04-04 |  |
+| [Take My Hand](https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Take My Hand](https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n) | 3:59 | 2022-04-04 | 2022-11-25 |
+| [Take My Hand](https://open.spotify.com/track/6euGVWSYUNW2e7jRjHr13M) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 3:59 | 2022-10-21 |  |
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2022-03-25 | 2022-04-12 |
 | [Talking to Myself](https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:59 | 2021-12-16 | 2021-12-30 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-03-25 | 2022-08-03 |

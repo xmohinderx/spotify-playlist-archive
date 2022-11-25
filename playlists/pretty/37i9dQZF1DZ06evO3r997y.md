@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598 likes - 28 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602 likes - 28 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 27 | [Drawing a Wish](https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:15 |
 | 28 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDA2YjdiOGQyYzY2Y2JhY2MyMjQyOWFlNzc4ZjY3NjMxYg==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAxNzg5NzAwMDM5YjQ5ZDIwOGMwMTA1ZTBmMzE1NWE2YQ==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO?si=ShwKhUgxTQ2nMhtDaz8WZw\">Frans Karoo</a>",
+  "description": "Only the hottest out now in South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349?si=eZI2cZr1Q_KCg5-BCJVRAw\">Posduif</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "As Ek Jou Hoor Lag",
+        "url": "https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29"
+      },
+      "artists": [
+        {
+          "name": "Jan Bloukaas",
+          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166834,
+      "name": "As Ek Jou Hoor Lag",
+      "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
+    },
+    {
+      "album": {
         "name": "Autobiography of an Evening",
         "url": "https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 157733,
       "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 260109,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5"
@@ -622,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Die Son",
+        "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "Die Son",
+      "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
+    },
+    {
+      "album": {
         "name": "Doesn't Mean You",
         "url": "https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY"
       },
@@ -637,6 +673,24 @@
       "duration_ms": 195652,
       "name": "Doesn't Mean You",
       "url": "https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ"
+    },
+    {
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd"
+      },
+      "artists": [
+        {
+          "name": "Mark Haze",
+          "url": "https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264834,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I"
     },
     {
       "album": {
@@ -723,7 +777,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 193750,
       "name": "Electrosexual",
       "url": "https://open.spotify.com/track/3yLUIXM52P3jEj7AWLr5oz"
@@ -929,6 +983,24 @@
       "duration_ms": 273226,
       "name": "Feast Or Famine",
       "url": "https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa"
+    },
+    {
+      "album": {
+        "name": "Fight For Me",
+        "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226544,
+      "name": "Fight For Me",
+      "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
     },
     {
       "album": {
@@ -1319,6 +1391,24 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
+    },
+    {
+      "album": {
+        "name": "Laatnag-sonop-koebaai",
+        "url": "https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229561,
+      "name": "Laatnag-sonop-koebaai",
+      "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
     },
     {
       "album": {
@@ -1967,7 +2057,7 @@
       },
       "artists": [
         {
-          "name": "ARD Matthews",
+          "name": "ARD matthews",
           "url": "https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo"
         },
         {
@@ -2166,6 +2256,24 @@
     },
     {
       "album": {
+        "name": "The Boys Scribbled Like Mad",
+        "url": "https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX"
+      },
+      "artists": [
+        {
+          "name": "Yndian Mynah",
+          "url": "https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442888,
+      "name": "Socks On Astroturf",
+      "url": "https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer"
+    },
+    {
+      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp"
       },
@@ -2213,7 +2321,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 211426,
       "name": "Soul Parasite",
       "url": "https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz"
@@ -2701,7 +2809,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 106090,
       "name": "WAR",
       "url": "https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi"
@@ -2813,7 +2921,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 215000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ"

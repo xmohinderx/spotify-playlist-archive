@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-474 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+475 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Oh My God](https://open.spotify.com/track/2U12JbtnFSYa5Av5wEcEDX) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Oh My God](https://open.spotify.com/album/4luKvo6ahaj8ZG9fAzQ6YO) | 3:07 | 2020-02-14 | 2021-02-19 |
 | [Oh, What a World 2.0 \- Earth Day Edition](https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Oh, What a World 2.0 \(Earth Day Edition\)](https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq) | 3:39 | 2020-04-24 | 2020-05-08 |
 | [Older](https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Older](https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS) | 3:11 | 2019-07-29\* | 2019-09-27 |
-| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-08 |  |
+| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-08 | 2022-11-25 |
+| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/7sCdIXPcYIzYmPEl7FdloT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:17 | 2022-11-03 |  |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2020-04-24 | 2022-01-28 |
 | [One](https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 2:59 | 2019-07-29\* | 2019-08-02 |
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-14 |  |

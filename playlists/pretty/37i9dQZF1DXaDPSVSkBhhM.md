@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,478 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,515 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 42 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 | 43 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
 | 44 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 |
-| 45 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
-| 46 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
+| 45 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
+| 46 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
 | 47 | [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 |
 | 48 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
-| 49 | [Lok@](https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a) | [Luisa Vox](https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA) | [Lok@](https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6) | 2:31 |
-| 50 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
+| 49 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
+| 50 | [Lok@](https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a) | [Luisa Vox](https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA) | [Lok@](https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6) | 2:31 |
 
-Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDBiZmJiOTU2N2I2ZGVjM2JkMDhmMzQ5ZDZkYWYxMzU2`
+Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDRiMWYyZjk1OGFkNDgyYjEyMzljMGYyMTg3YWViZTA4`

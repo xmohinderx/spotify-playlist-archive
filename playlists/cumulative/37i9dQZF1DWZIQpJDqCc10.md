@@ -4,7 +4,7 @@
 
 > A selection of the greatest alternative love songs of all time.
 
-195 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6YQCZe8hO85v0lGe1i13Jq)
+196 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6YQCZe8hO85v0lGe1i13Jq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,11 @@
 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-02-10 |  |
 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 | 2021-01-28 |  |
 | [Apocalypse](https://open.spotify.com/track/51QJPY4MKeIgc4XErzTnPv) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/1bUuI29ZOu2QsU9kzM9Cvw) | 4:50 | 2021-01-28 | 2022-02-11 |
+| [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2022-02-10 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/1kuLb02RysdiBU9qoEJbfw) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [PV Digest \#2](https://open.spotify.com/album/0GfDcJbaG8x4U41xTepO6V) | 3:16 | 2022-02-10 | 2022-11-14 |
 | [Archie, Marry Me](https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/28a7IkiQxDoxGpAr8Cy0fP) | 3:16 | 2021-01-28 | 2022-02-11 |
 | [Archie, Marry Me](https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT) | 3:16 | 2022-02-10 | 2022-07-29 |
-| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-02-10 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2022-02-10 | 2022-11-25 |
 | [Ask \- 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:18 | 2021-01-28 | 2022-02-11 |
 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 | 2021-01-28 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2022-02-10 | 2022-07-29 |

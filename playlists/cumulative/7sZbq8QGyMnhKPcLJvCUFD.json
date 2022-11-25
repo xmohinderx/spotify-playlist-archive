@@ -2106,6 +2106,32 @@
     },
     {
       "album": {
+        "name": "Running Wild",
+        "url": "https://open.spotify.com/album/6VZdLgAn691GkOqHxWZwP4"
+      },
+      "artists": [
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Vizzen",
+          "url": "https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185930,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/7Mp1SXLvQEh02nVsLNnmLR"
+    },
+    {
+      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/7zbwXAxBnAuoJfmZ7m4duL"
       },

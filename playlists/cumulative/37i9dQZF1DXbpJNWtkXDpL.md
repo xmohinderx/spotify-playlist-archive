@@ -4,7 +4,7 @@
 
 > ¡Presentamos a La Santa Grifa, nuestro artista Radar!
 
-205 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+206 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Feel It](https://open.spotify.com/track/1ubAvhXZgD7MT5aKtvNKzQ) | [Soundsuality](https://open.spotify.com/artist/0J9dBhhc6u4cBC66R3Rn9K), [Facy Sedated](https://open.spotify.com/artist/5t0SAmKeiNPoJ8sUkdJ0gw), [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Feel It](https://open.spotify.com/album/3cUwG8b8iJhItf4VqxELSP) | 3:39 | 2021-10-01 | 2022-05-10 |
 | [Femme Fatale](https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r) | 2:42 | 2022-05-13 | 2022-07-29 |
 | [Fuego](https://open.spotify.com/track/6UdltNPsNpVXOjeyYiT9yH) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [VAYU](https://open.spotify.com/album/6u3eUX1lYrI7siwwc10d4p) | 2:36 | 2021-10-01 | 2022-05-12 |
+| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-25 |  |
 | [Gloomy Afternoon 2021](https://open.spotify.com/track/2HJYx9tG5Yq7x36cHX7KaW) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Gloomy Afternoon 2021](https://open.spotify.com/album/76gCRBIi7hMB8VPvcNZ4si) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 | 2022-05-13 | 2022-07-13 |
 | [Heroína](https://open.spotify.com/track/4YIX3ZVrM0S0fIQfOW8Hyp) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Contradicciones](https://open.spotify.com/album/0h9VfVGQbHAA40tK0Jc3m7) | 4:25 | 2022-05-11 | 2022-07-28 |
@@ -92,7 +93,7 @@
 | [Lento](https://open.spotify.com/track/4f07s0huRslrHqfO36G8D1) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Lento](https://open.spotify.com/album/2izPga5hTYeQoST4IxzoEE) | 2:48 | 2021-10-01 | 2022-05-12 |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-05-11 | 2022-07-23 |
 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 | 2021-10-01 | 2022-04-30 |
-| [Lluvia De Micheladas](https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Lluvia De Micheladas](https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw) | 3:42 | 2022-05-13 |  |
+| [Lluvia De Micheladas](https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Lluvia De Micheladas](https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw) | 3:42 | 2022-05-13 | 2022-11-25 |
 | [lo peor](https://open.spotify.com/track/0w6rYYEf5FrT6plPg6UhxW) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 3:02 | 2022-05-13 | 2022-07-29 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-20 |  |
 | [Los días grises](https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Los días grises](https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8) | 2:19 | 2022-09-09 |  |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-274 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+275 songs - 15 hr 44 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Fingerprints](https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:16 | 2021-12-15 |  |
 | [Fireball](https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp), [Amare Symon​é](https://open.spotify.com/artist/5I2gIfxjl45cGxCZ8SwWw7), [Saint Lewis](https://open.spotify.com/artist/3qhlxMX0i4a9oVOx79NC9Y) | [Fireball](https://open.spotify.com/album/07Vdp0EpPAgcaQHLQogcmH) | 2:44 | 2021-12-15 | 2022-07-19 |
 | [Flight 99](https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [Flight 99](https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac) | 2:47 | 2021-12-15 | 2022-11-20 |
+| [Flight 99](https://open.spotify.com/track/7iwn9FANtRltiafratcH07) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Flight 99](https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL) | 2:47 | 2022-11-09 |  |
 | [Flowers](https://open.spotify.com/track/6g8tNqCUHQsRJhYcGajvh2) | [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Flowers](https://open.spotify.com/album/0CtyUf3Hf0KS0cwOMRWKAf) | 3:25 | 2021-12-15 | 2022-04-21 |
 | [Fool](https://open.spotify.com/track/79AYVbuDWxdzXK59VsvT86) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Fool](https://open.spotify.com/album/7uDKo6sEqA737fGIw7iK3C) | 3:05 | 2021-12-15 | 2022-04-21 |
 | [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-10-14 |  |
@@ -168,7 +169,7 @@
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2021-12-15 | 2022-04-19 |
 | [Motion](https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH) | [ASTU](https://open.spotify.com/artist/7im6YMNQQpdI06Yn764gAi) | [Motion](https://open.spotify.com/album/4bPw584LULeVDYpSvGzWnn) | 3:55 | 2021-12-15 | 2022-07-26 |
 | [Movement](https://open.spotify.com/track/4PkqYfR5Z1So9tWexu6uhz) | [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [Movement](https://open.spotify.com/album/78CsycL5yFdeyd8h9o37U6) | 3:10 | 2021-12-15 | 2022-07-28 |
-| [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 | 2021-12-15 |  |
+| [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 | 2021-12-15 | 2022-11-25 |
 | [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2021-12-15 | 2022-07-23 |
 | [Napkins](https://open.spotify.com/track/37b1KAbfOZeBzeMB0LGO3g) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/5lcJvdmBrCxGitr691Hdjm) | 3:35 | 2021-12-15 | 2022-04-19 |
 | [Napkins](https://open.spotify.com/track/3PqnBkr83kaVQNKP0qYjQF) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Napkins](https://open.spotify.com/album/01uQnrOaLJC13xdImR2Dtc) | 3:35 | 2022-06-30 | 2022-09-30 |

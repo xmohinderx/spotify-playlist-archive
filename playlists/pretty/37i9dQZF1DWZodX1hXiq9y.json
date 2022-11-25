@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 47201,
+  "num_followers": 47326,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1OTUwNiwwMDAwMDAwMDdjYzU3MDI1ZGEwNDdjZWUwNzNiZmEwZDk5MTBjNTMw",
+  "snapshot_id": "MTY2Njg1OTUwNiwwMDAwMDAwMDY5NTMzZWJlNjk5NDNmZDZmMWJmNjRiMGJmZGE0ZDMz",
   "tracks": [
     {
       "added_at": "2022-10-27 08:31:46",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Today And Now",
-        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins Quartet",
-          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Love Song From \"Apache\"",
-      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 342066,
       "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Today And Now",
+        "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins Quartet",
+          "url": "https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Love Song From \"Apache\"",
+      "url": "https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 302666,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 437840,
-      "name": "A Love Supreme, Pt. II - Resolution",
-      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+      "duration_ms": 374626,
+      "name": "Dorene Don't Cry, I - Remastered",
+      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "That's Where It's At",
-        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 374626,
-      "name": "Dorene Don't Cry, I - Remastered",
-      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
+      "duration_ms": 437840,
+      "name": "A Love Supreme, Pt. II - Resolution",
+      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "The Bad Plus Joshua Redman",
         "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 412613,
       "name": "As This Moment Slips Away",
       "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 606026,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 606026,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 494026,
-      "name": "Somethin' Else - Remastered",
-      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+      "duration_ms": 494026,
+      "name": "Somethin' Else - Remastered",
+      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Cool Imagination",
-        "url": "https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
-    },
-    {
-      "added_at": "2022-10-27 08:31:46",
-      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -1411,18 +1395,34 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Very Cool",
-        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
+        "name": "Cool Imagination",
+        "url": "https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 443613,
-      "name": "Crazy She Calls Me",
-      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
+      "duration_ms": 345240,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
+    },
+    {
+      "added_at": "2022-10-27 08:31:46",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2022-10-27 08:31:46",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-10-27 08:31:46",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Very Cool",
+        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+      "duration_ms": 443613,
+      "name": "Crazy She Calls Me",
+      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
     },
     {
       "added_at": "2022-10-27 08:31:46",

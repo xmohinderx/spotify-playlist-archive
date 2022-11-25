@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -387,6 +387,24 @@
       "duration_ms": 219808,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx"
+    },
+    {
+      "album": {
+        "name": "Coeur abim\u00e9",
+        "url": "https://open.spotify.com/album/50T8VXZfysf3dcpijH9sPK"
+      },
+      "artists": [
+        {
+          "name": "Jayel",
+          "url": "https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170510,
+      "name": "Coeur abim\u00e9",
+      "url": "https://open.spotify.com/track/6x40VT2kRXPiM8AiNt3txn"
     },
     {
       "album": {
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Wilma",
+        "url": "https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "La pierre",
+      "url": "https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e"
+    },
+    {
+      "album": {
         "name": "Le monde par ma fen\u00eatre",
         "url": "https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z"
       },
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 154121,
       "name": "MONEY TIME",
       "url": "https://open.spotify.com/track/456DJS1um0455bLuepBH9J"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 205263,
       "name": "OTREMOND",
       "url": "https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx"
@@ -1748,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Rod\u00e9o",
+        "url": "https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6"
+      },
+      "artists": [
+        {
+          "name": "Myth Syzer",
+          "url": "https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Rod\u00e9o",
+      "url": "https://open.spotify.com/track/6AIU6Vfq4p1y1ZKUQlF0N3"
+    },
+    {
+      "album": {
         "name": "R\u00eaves",
         "url": "https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn"
       },
@@ -1943,7 +1997,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 237783,
       "name": "Temp\u00eate",
       "url": "https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 193732,
+  "num_followers": 193894,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGQ3NWM3ZThkMjI1OWQyNzMyNjhhMGZkMDA4MzY2YTVi",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGU1OGUzNTNjM2M0NjdjODhiZTcwNjFlNDRkMDM2N2Vj",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Bachatas Pal' Pueblo: Mas Pueblo Que Nunca",
-        "url": "https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb"
-      },
-      "artists": [
-        {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "El Profesor",
-      "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+        "name": "Bachatas Pal' Pueblo: Mas Pueblo Que Nunca",
+        "url": "https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Bachata En Kingston",
-      "url": "https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg"
+      "duration_ms": 221480,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360751,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx"
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 360751,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ"
+      "duration_ms": 239426,
+      "name": "Bachata En Kingston",
+      "url": "https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
+        "name": "Hablamos En La Cama",
+        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "Coraz\u00f3n Con Candado",
+      "url": "https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 229613,
       "name": "La Luz De Mis Ojos",
       "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Hablamos En La Cama",
-        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 262786,
-      "name": "Coraz\u00f3n Con Candado",
-      "url": "https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7"
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2022-10-25 23:01:25",

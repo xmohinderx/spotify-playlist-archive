@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 412417,
+  "num_followers": 412543,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGM0OTJlZDI4MzY2YjE0NGUyZDlhZjViNDI2NzEyOGNj",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGJmZDE2NGZmNzYwYTVhMWFhZmU2ODc5NWY4NzJkYWE2",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -423,7 +423,7 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Daram\u00f4",
+        "name": "DARAM\u00d4",
         "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
       "artists": [
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 179521,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Melhor do Mundo",
         "url": "https://open.spotify.com/album/4qczavWvfkLgJP2nlYOfbJ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 200654,
       "name": "Melhor do Mundo",
       "url": "https://open.spotify.com/track/7KG23Pebr0cPAzLH8RrpO9"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 179521,
-      "name": "MENTIRA",
-      "url": "https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Defeito De F\u00e1brica",
         "url": "https://open.spotify.com/album/5lZc6lIMSx15e8bTc55Qhv"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 146782,
       "name": "Defeito De F\u00e1brica",
       "url": "https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Depois de Te Encontrar",
+        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 193804,
+      "name": "Depois de Te Encontrar",
+      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Adoro Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
-      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Doideira",
         "url": "https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Depois de Te Encontrar",
-        "url": "https://open.spotify.com/album/42HaJWNeppTw5TOS9xiLzB"
+        "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+        "url": "https://open.spotify.com/album/5SDyNbbogMnxYdXw29dijy"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 193804,
-      "name": "Depois de Te Encontrar",
-      "url": "https://open.spotify.com/track/2at2wmtCtuioxPvb6gYgin"
+      "duration_ms": 180046,
+      "name": "Eu N\u00e3o Ando T\u00e3o Bem Assim",
+      "url": "https://open.spotify.com/track/7fbZjEmoOFBu1HrhrRHLFc"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Embriagado de Saudade",
+        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Embriagado de Saudade",
+      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "me diz (onde que isso vai dar)",
         "url": "https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 157976,
       "name": "me diz (onde que isso vai dar) - remix",
       "url": "https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Embriagado de Saudade",
-        "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Embriagado de Saudade",
-      "url": "https://open.spotify.com/track/5efZJvbyTISLTujhMm3rcR"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1275,62 +1275,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "T\u00e1 Dif\u00edcil Entender",
-        "url": "https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq"
-      },
-      "artists": [
-        {
-          "name": "Dudu Pacceli",
-          "url": "https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj"
-        },
-        {
-          "name": "Victor de Albuquerque",
-          "url": "https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD"
-        },
-        {
-          "name": "jay",
-          "url": "https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m"
-        }
-      ],
-      "duration_ms": 150684,
-      "name": "T\u00e1 Dif\u00edcil Entender",
-      "url": "https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
-      },
-      "artists": [
-        {
-          "name": "Aquino e a Orquestra Invis\u00edvel",
-          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "ELA \u00c9 UM 10",
-        "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        }
-      ],
-      "duration_ms": 111949,
-      "name": "ELA \u00c9 UM 10",
-      "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -1355,6 +1299,62 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "T\u00e1 Dif\u00edcil Entender",
+        "url": "https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq"
+      },
+      "artists": [
+        {
+          "name": "Dudu Pacceli",
+          "url": "https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj"
+        },
+        {
+          "name": "Victor de Albuquerque",
+          "url": "https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD"
+        },
+        {
+          "name": "jay",
+          "url": "https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m"
+        }
+      ],
+      "duration_ms": 150684,
+      "name": "T\u00e1 Dif\u00edcil Entender",
+      "url": "https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "ELA \u00c9 UM 10",
+        "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 111949,
+      "name": "ELA \u00c9 UM 10",
+      "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
     },
     {
       "added_at": "2022-11-18 03:00:00",

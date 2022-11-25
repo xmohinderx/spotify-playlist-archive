@@ -1,15 +1,15 @@
 {
   "description": "FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.",
-  "num_followers": 307161,
+  "num_followers": 307275,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzODQzNCwwMDAwMDAwMDIxMzdkYjY1ZmRlMGFkZjg5ZjVlNmNlZDYwMjQxOTYy",
+  "snapshot_id": "MTY2OTI2NDI3MCwwMDAwMDAwMGQyM2YyZTcwMGYzZjRlZTQwMTIxMjMyNjg5NWI2Yjcx",
   "tracks": [
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Chickie",
         "url": "https://open.spotify.com/album/5O5FkfXq7uEgy32ZUjzonC"
@@ -29,59 +29,7 @@
       "url": "https://open.spotify.com/track/7AiAxbSpcnZ5YRYnhwo1Eq"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
-      "album": {
-        "name": "Medicijn",
-        "url": "https://open.spotify.com/album/11RoNgftJUoxbTGERjxwLI"
-      },
-      "artists": [
-        {
-          "name": "Jeriel",
-          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
-        }
-      ],
-      "duration_ms": 177878,
-      "name": "Medicijn",
-      "url": "https://open.spotify.com/track/4sJcYumdgXQuHDWM1tIbys"
-    },
-    {
-      "added_at": "2022-11-20 14:51:31",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 174063,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
-    },
-    {
-      "added_at": "2022-11-20 14:51:31",
-      "album": {
-        "name": "Strandje Aan De Maas",
-        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Stunten",
-      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
-    },
-    {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "POV",
         "url": "https://open.spotify.com/album/6h9E9C3gGVt3kumf0YH2G1"
@@ -109,7 +57,59 @@
       "url": "https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 174063,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
+    },
+    {
+      "added_at": "2022-11-24 04:31:10",
+      "album": {
+        "name": "Medicijn",
+        "url": "https://open.spotify.com/album/11RoNgftJUoxbTGERjxwLI"
+      },
+      "artists": [
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        }
+      ],
+      "duration_ms": 177878,
+      "name": "Medicijn",
+      "url": "https://open.spotify.com/track/4sJcYumdgXQuHDWM1tIbys"
+    },
+    {
+      "added_at": "2022-11-24 04:31:10",
+      "album": {
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Stunten",
+      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Reset The Levels IV",
         "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/7MaKRjuwZcynWGpX96pcok"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
+      "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/4HW0xW2nhso4HHSO6rhM8n"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf"
+    },
+    {
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Zo Fly (Met Je Naar De Club)",
         "url": "https://open.spotify.com/album/6QtXBDNKqqUh6lm5MAxfJh"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/5mQjW9iPWCQYhtRXAh7uYB"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Monogram",
         "url": "https://open.spotify.com/album/1EFWH0ql51hoYtJmvxRnXj"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/0PNnvtiejtjLXoEM5D5Vgv"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Offside",
         "url": "https://open.spotify.com/album/6RVtAsb3BS4hFagO0R4ZIn"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/68rhQ3IDF05PHF4md3DAfa"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "CONTEST",
         "url": "https://open.spotify.com/album/3iJqniJbShK8X9G0TMazur"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/6yWzuF0sb6cX2gyNFl5mYJ"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/7Kt404MeesjKF910O5fTop"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/27txhnT0TfhJ7a5p0ql8CN"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/44umGFDnbnwLD7Eovr4jYE"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Commando",
         "url": "https://open.spotify.com/album/31sUe2fAR76RTCiz9emu0J"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Shikidim",
         "url": "https://open.spotify.com/album/4nckwHAozyiuAPeiQdaBzC"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Namek",
         "url": "https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/3oXkYHn1T8V2RsPpKUAZQr"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Birthday Pack",
         "url": "https://open.spotify.com/album/38XUKcoyObX0WtOdIvbBFy"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/5cwLimOJagMF4vAiZK60Wc"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Beslama",
         "url": "https://open.spotify.com/album/6s9dmp1dGErzwfrmYlrQpB"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/0uPYFty43hvhwdeFrIbVGq"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Kleine Jongens Worden Groot",
         "url": "https://open.spotify.com/album/24z2HWc8t4yya3nP4yEBaC"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/5ulIfOLr3pg4EDuVmF96RD"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Tas",
         "url": "https://open.spotify.com/album/0FMQ40Q2ASBbyY3myOJFEw"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/3KK7eZ50sw0xbyzmtq2hb6"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Blind Op Zoek (Trapagas)",
         "url": "https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Wat Het Is",
         "url": "https://open.spotify.com/album/4avor6SsbPKVaxlq9JKset"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Yaad Meri",
         "url": "https://open.spotify.com/album/2whSY40DGijkTIXEUeXZ4C"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/5oNCkHYZugVdtHOtKDvKxc"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/1zDxfWStcuzQ61UWZ6qJrX"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/188lK7l7SN2LhEj6NE46af"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Laat Dat",
         "url": "https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Billen Anthem",
         "url": "https://open.spotify.com/album/1eJoVwQbMu0Jp9HiFxpaM3"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/2HeJomeF35e762ZlwbgQmD"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/3kQNGlINUYJlTLGCoVSp27"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/4GPQ1sTjYKBVSpU4ZkMjoB"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3kwSv2ZSuRp3nQ8RFW9UlW"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Day 2 Day",
         "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "1 Blik",
         "url": "https://open.spotify.com/album/7dp8ZZuptJZo40Jn8OCTMm"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/3YD8JSsQWSyRr3OhIrUR6y"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Take A Shot",
         "url": "https://open.spotify.com/album/3whDWI4a0GUCYO16U7e7k3"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/4xERtKypSdYy3FCigHMvIV"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Expres",
         "url": "https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Vliegtuigmodus (feat. Bartofso)",
         "url": "https://open.spotify.com/album/0AvQPUtK5VITy1EbnImX0h"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/5X9N2rNF5D2WW7mzBVAweh"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Shine Bright",
         "url": "https://open.spotify.com/album/6cuYpHerue7oNk3PqcKQqz"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/60l9cfnaUop1NJGgpiQ7UA"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/0NDDauT2FX7ZWUoFXqb1Vq"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/1IxDjSx4nasfoO539Iemie"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Passa Passa",
         "url": "https://open.spotify.com/album/559Ym4G6Nd0rQdLRnM1PR4"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Marbie",
         "url": "https://open.spotify.com/album/2iPDltZWzpTP2S9ViGKUGZ"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/5hDccoCuU4VdzPIQBhwUxx"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/7pN3FhfGTkjrdff1ft9VH5"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/4zlqylypqhY89AeFROEjf9"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Dey Inside",
         "url": "https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "BALANCE",
         "url": "https://open.spotify.com/album/37GYdu01PcqkCvlqMBu1Ub"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/1tf1A7fBIk05bEXotkbZJs"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Pami",
         "url": "https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "2 Kanten",
         "url": "https://open.spotify.com/album/5XKTGqakgMXTPBY9oIJFFb"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4AVIjhILX1rtfHoAE2BlHe"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Actief in de night",
         "url": "https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7"
@@ -1052,7 +1068,7 @@
           "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
         },
         {
-          "name": "C.c",
+          "name": "CC",
           "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
         }
       ],
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Druk",
         "url": "https://open.spotify.com/album/3RBRLi9fvabjM1xj5cO6uC"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6Eig12I0DJsLK6WaNia5E6"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2wIL7dDUfmg3jBlfzcJKMR"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6MyNYnAbkeVurcOs966gBc"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "I Am Lord Frass",
         "url": "https://open.spotify.com/album/65KQIo5Myw2RmsNwDFvkfC"
@@ -1161,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6885Eo1ndziuZJp4HOxICp"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Bela",
         "url": "https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0pIa1YAqWLOP7gFpDKzqlo"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Freak In The Night",
         "url": "https://open.spotify.com/album/371xkAecyOFq9ANsACjbUg"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/6xrxbUdqaunHEAKMq2n0o5"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "MEDITATE",
         "url": "https://open.spotify.com/album/7FN9Q9zI3aWB9ZZ4DiR3FG"
@@ -1257,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6VDVCBwsuiEHyOg2OshTi5"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
@@ -1273,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/701ZrEwpgFDJZxN8Vjh6y8"
@@ -1297,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5hbAKbh48v9iCdA8BRTJ5i"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "No Matta",
         "url": "https://open.spotify.com/album/1048jFibNEAdmvcuy3hd66"
@@ -1317,7 +1333,7 @@
       "url": "https://open.spotify.com/track/3IuC01T7uEnCxPnGMg41Hv"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Good Girls",
         "url": "https://open.spotify.com/album/321080p33tt05xgRoJHEov"
@@ -1337,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4CAaHP9HwaaJeh1sJrsNrR"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
@@ -1353,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Jini",
         "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
@@ -1373,7 +1389,7 @@
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/5XxKAoAqJUAnVxpjswzcwN"
@@ -1393,7 +1409,7 @@
       "url": "https://open.spotify.com/track/0W5T6KsHZH1XfOTLnuWlgg"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Oogcontact",
         "url": "https://open.spotify.com/album/0MItqAZ0g4uuafQTKW4Cj9"
@@ -1409,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0PnJySpHldNFH2iNe6luhy"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR"
@@ -1433,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Omoge",
         "url": "https://open.spotify.com/album/5gAvjipmSzUXGTWIavWk01"
@@ -1449,7 +1465,7 @@
       "url": "https://open.spotify.com/track/2WmlrdRYXJwtvsStaLhdEa"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
@@ -1469,7 +1485,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2022-11-20 14:51:31",
+      "added_at": "2022-11-24 04:31:10",
       "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG"

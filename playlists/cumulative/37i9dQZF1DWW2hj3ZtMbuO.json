@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+    },
+    {
+      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -5497,7 +5515,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 198600,
       "name": "You\u2019re here that\u2019s the thing",
       "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,044 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,104 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 28 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
 | 29 | [Flor de Retana](https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE) | [Duo Retama](https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf) | [Wistu Vida](https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k) | 6:28 |
 | 30 | [Otra vez me equivoqué](https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 3:17 |
-| 31 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
-| 32 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 |
+| 31 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 |
+| 32 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 33 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
 | 34 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe) | [Trio Ayacucho](https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8) | [Como Siempre Con El Mayor Cariño](https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn) | 3:44 |
 | 35 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
 | 36 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 |
-| 37 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
-| 38 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 |
+| 37 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 |
+| 38 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
 | 39 | [A los Filos de un Cuchillo](https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM) | 3:08 |
 | 40 | [Huaylash Macho](https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:39 |
 | 41 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 60 | [Quisiera Olvidarte](https://open.spotify.com/track/6fjbD1QYBlkSTQrwbIMvFE) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Huayno Music of Peru, Vol\. 1](https://open.spotify.com/album/6BmF9UOYhJPnn4QqWscWfs) | 2:33 |
 
-Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMGYxYTllNTA3M2MwZmQyYjUxMmMzMjIzMzZlOGIyMDgx`
+Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMDk2MWNmYjUyODc4MjM3YmRkZDc0NWJlNjliMDhjY2Fi`

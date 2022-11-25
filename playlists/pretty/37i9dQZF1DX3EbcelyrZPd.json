@@ -1,12 +1,12 @@
 {
-  "description": "Get your fill of vibes straight out of Tanzania.",
-  "num_followers": 50503,
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux",
+  "num_followers": 50585,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDI5OGJmZmQwZmUyMmYzNjA2NmZiNzEwZDhkM2ZjYjRh",
+  "snapshot_id": "MTY2OTMyMzU0MCwwMDAwMDAwMDZiOGVjOWQ0ZGIzMDg3Y2NjZGZjM2I2NWM0OWExOWM4",
   "tracks": [
     {
       "added_at": "2022-11-10 21:59:00",
@@ -27,6 +27,26 @@
       "duration_ms": 185044,
       "name": "Nitongoze (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G"
+    },
+    {
+      "added_at": "2022-11-24 20:59:00",
+      "album": {
+        "name": "King of Hearts",
+        "url": "https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Nidhibiti",
+      "url": "https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -93,6 +113,22 @@
       "url": "https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS"
     },
     {
+      "added_at": "2022-11-24 20:59:00",
+      "album": {
+        "name": "Mozzah",
+        "url": "https://open.spotify.com/album/77RnmREa4GxhDp5xf1gKKq"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 298461,
+      "name": "Mozzah",
+      "url": "https://open.spotify.com/track/6h4uStxFbRaKFJW0aIlffl"
+    },
+    {
       "added_at": "2022-07-21 20:59:00",
       "album": {
         "name": "Nakupenda",
@@ -145,40 +181,20 @@
       "url": "https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0"
     },
     {
-      "added_at": "2022-11-07 08:33:36",
+      "added_at": "2022-11-24 20:59:00",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/410bUVJ7FdtsmvxySVU6Xl"
       },
       "artists": [
         {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
         }
       ],
-      "duration_ms": 177947,
-      "name": "Mon Bebe",
-      "url": "https://open.spotify.com/track/07GU7epMc4AY69kgNWR3L8"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Nileweshe",
-        "url": "https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz"
-      },
-      "artists": [
-        {
-          "name": "Platform Tz",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
-        }
-      ],
-      "duration_ms": 168946,
-      "name": "Nileweshe",
-      "url": "https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr"
+      "duration_ms": 190967,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4iww8XAglV8mbENbyBvrpb"
     },
     {
       "added_at": "2022-09-20 09:03:33",
@@ -237,6 +253,58 @@
       "url": "https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi"
     },
     {
+      "added_at": "2022-11-07 08:33:36",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg"
+      },
+      "artists": [
+        {
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 177947,
+      "name": "Mon Bebe",
+      "url": "https://open.spotify.com/track/07GU7epMc4AY69kgNWR3L8"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Upo Nyonyo",
+        "url": "https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Upo Nyonyo",
+      "url": "https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y"
+    },
+    {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Nileweshe",
+        "url": "https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz"
+      },
+      "artists": [
+        {
+          "name": "Platform Tz",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Nileweshe",
+      "url": "https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr"
+    },
+    {
       "added_at": "2022-10-07 13:00:20",
       "album": {
         "name": "Superstar",
@@ -279,22 +347,6 @@
       "duration_ms": 246935,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/5z4TYCJddMV0BNBauAv8XF"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Upo Nyonyo",
-        "url": "https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv"
-      },
-      "artists": [
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Upo Nyonyo",
-      "url": "https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y"
     },
     {
       "added_at": "2022-11-17 20:59:00",
@@ -965,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1UQfdQIYiu4Ogj7SOWBTJf"
     },
     {
-      "added_at": "2022-05-05 20:59:00",
-      "album": {
-        "name": "Simuachi",
-        "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Simuachi",
-      "url": "https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2"
-    },
-    {
       "added_at": "2022-06-02 20:59:00",
       "album": {
         "name": "Manzese",
@@ -1189,22 +1225,6 @@
       "url": "https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0"
     },
     {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Mwambieni",
-        "url": "https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 180978,
-      "name": "Mwambieni",
-      "url": "https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9"
-    },
-    {
       "added_at": "2022-02-10 20:59:00",
       "album": {
         "name": "I Love You",
@@ -1263,26 +1283,6 @@
       "duration_ms": 212294,
       "name": "Nioneshe (feat. Alikiba)",
       "url": "https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt"
-    },
-    {
-      "added_at": "2022-01-06 20:59:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
-        }
-      ],
-      "duration_ms": 266408,
-      "name": "Teamo (feat. Messias Maricoa)",
-      "url": "https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf"
     },
     {
       "added_at": "2022-09-23 04:16:19",

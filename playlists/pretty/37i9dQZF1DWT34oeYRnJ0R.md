@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,904 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,946 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 44 | [NO MAN](https://open.spotify.com/track/5pZhTh1X9lQQQoknYuM3Ds) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Mike Snell](https://open.spotify.com/artist/2fxKX3blmv0SZfVvuwopd8) | [NO MAN](https://open.spotify.com/album/2QqkPOYsFBdvpFq6RFfAnz) | 3:28 |
 | 45 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 |
 | 46 | [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 |
-| 47 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
-| 48 | [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 |
+| 47 | [do you come here often?](https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0) | 2:34 |
+| 48 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
 | 49 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 50 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
 | 51 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [Embeleso](https://open.spotify.com/track/5OMX4q4yknfdEFLBU0ufWl) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4tvKQtkJEk1dkFs53jh1ue) | 3:20 |
 | 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
 
-Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMDdlOTNhNjViZWZkOWI1M2NiZWNhZGMwNzQyZjg5NGVm`
+Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMDIyNmQ0YTQzNzA4Zjk0OWY1NTJjNDk0ODI2YWU1Nzc0`

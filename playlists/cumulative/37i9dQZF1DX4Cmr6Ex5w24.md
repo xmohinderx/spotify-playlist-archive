@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-147 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/2m0rOYjqZBGwuIjvVWSPjN)
+148 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/2m0rOYjqZBGwuIjvVWSPjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Kadhalenum](https://open.spotify.com/track/2vIJ5ynPunetnvAV6Xe5rk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 6:42 | 2021-10-15 | 2022-07-29 |
 | [Kadhalenum](https://open.spotify.com/track/70usDdEk4zRWxSPFogQqfQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 6:42 | 2021-10-15 |  |
 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 | 2021-10-15 | 2022-07-29 |
-| [Kannai Kattikolathey](https://open.spotify.com/track/2jO9zl2fQJMqZiLa7fRh5e) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OXiESvWvO6vETPmeY1Dxz) | 5:56 | 2021-10-15 |  |
+| [Kannai Kattikolathey](https://open.spotify.com/track/2jO9zl2fQJMqZiLa7fRh5e) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OXiESvWvO6vETPmeY1Dxz) | 5:56 | 2021-10-15 | 2022-11-25 |
+| [Kannai Kattikolathey \(From "Iruvar"\)](https://open.spotify.com/track/4TpGX2zGl65K6yE2dJAdId) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Can't Touch This A R Rahman Hits \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w5giRxfQJMNE0PRWpTTQ7) | 5:56 | 2021-10-15 |  |
 | [Kannalanae](https://open.spotify.com/track/0ZMOIWlRK56eQPamwvg9Cf) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bombay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fz5xoaToq6uZ3VOi5L6Lw) | 5:53 | 2021-10-15 |  |
 | [Kannukku Mai Azhagu \- Male](https://open.spotify.com/track/5GTehHGjk2REUcg4XMd6mb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 4:24 | 2021-10-15 |  |
 | [Kannum Kannum](https://open.spotify.com/track/14IbCMxPaSD3bkStHORkeL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 4:08 | 2021-10-15 |  |

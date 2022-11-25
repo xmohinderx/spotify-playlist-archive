@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-143 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
+144 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/07zdgoDKJ8jxaVLlbQqEma)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 | 2021-07-02 |  |
 | [Jackie Tequila](https://open.spotify.com/track/4vylvWmzkARLasyWiAMo2I) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Calango](https://open.spotify.com/album/5pp3Fjp4h728libl8vxoFn) | 4:10 | 2021-07-02 | 2022-07-29 |
 | [Jeito Sexy](https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo) | [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2) | [Retratos](https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP) | 4:12 | 2021-07-02 | 2022-07-29 |
+| [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2021-07-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2021-07-02 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2021-07-02 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2021-07-02 | 2022-11-18 |
@@ -105,7 +106,7 @@
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2021-07-02 |  |
 | [Passarinhos](https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [Pesadão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:19 | 2021-07-02 | 2022-07-29 |
-| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2021-07-02 |  |
+| [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 | 2021-07-02 | 2022-11-25 |
 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 | 2021-07-02 |  |
 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 | 2021-07-02 | 2022-07-28 |
 | [Pra alegrar o meu dia](https://open.spotify.com/track/4MO1hmYpkkPjcjhBsFRZ5d) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [A Coruja e o Coração](https://open.spotify.com/album/5A87qEB2LBZTRBLn37usNX) | 2:49 | 2021-07-02 | 2022-07-29 |

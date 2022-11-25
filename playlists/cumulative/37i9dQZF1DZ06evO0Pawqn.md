@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/5p79flXpkrnSIPRunpqyfo)
+66 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5p79flXpkrnSIPRunpqyfo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [De La Tierra Al Cielo](https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De La Tierra Al Cielo](https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd) | 2:37 | 2022-07-03 |  |
 | [De la Tierra al Cielo](https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 2:37 | 2022-06-01 |  |
 | [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 | 2022-06-01 |  |
+| [Diamante Negro](https://open.spotify.com/track/0ceiWUkNNYVmF1uzkGyj3H) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:15 | 2022-11-24 |  |
 | [Dulce Morena](https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 2:57 | 2022-06-01 |  |
 | [Echame a Mi la Culpa](https://open.spotify.com/track/511ZpnhnfDK6payDHFkIpp) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 3:50 | 2022-06-01 |  |
 | [El Disgusto \- En Vivo](https://open.spotify.com/track/0tYh79KyyAMOWl32wsAT4T) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 4:36 | 2022-06-01 |  |
@@ -48,7 +49,7 @@
 | [MI Amiga,MI Amor](https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:18 | 2022-06-01 |  |
 | [Mi Motivo](https://open.spotify.com/track/2WNGl9oCqUNyQb791qIJgy) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Recuerdos](https://open.spotify.com/album/5P7MPSn2HSQq1JCz2mK1eD) | 2:24 | 2022-06-01 | 2022-10-12 |
 | [Mil Noches](https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:23 | 2022-06-01 |  |
-| [Mujer de Cabaret](https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Relampagueando](https://open.spotify.com/album/5HLgQtnZbcqiT59ktqtWae) | 2:48 | 2022-06-01 |  |
+| [Mujer de Cabaret](https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Relampagueando](https://open.spotify.com/album/5HLgQtnZbcqiT59ktqtWae) | 2:48 | 2022-06-01 | 2022-11-25 |
 | [Nada Contigo\-La Banqueta](https://open.spotify.com/track/1Iycx5kO4ncISwHfC46vnF) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:01 | 2022-06-01 |  |
 | [Ni La Vida Es Mia](https://open.spotify.com/track/328esIvzI95ilj8G26ilbT) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Juego Peligroso](https://open.spotify.com/album/11dW5IqcLzDkruN3LtyQvN) | 3:24 | 2022-06-01 |  |
 | [No Te Vayas Deteniendo](https://open.spotify.com/track/3pCTV4RQP7HZhKBFiqHyzd) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:53 | 2022-06-20 | 2022-09-03 |

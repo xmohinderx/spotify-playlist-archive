@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Ashe",
-  "num_followers": 401674,
+  "num_followers": 401773,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGM0YWE4NDNmOWY4YjNjNzI2Njg3YjRjZTk5ZThjM2Ew",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGE3ZDE1YjM4MTEwN2MyMDZkZWE3NmNhYWU3YWY5NGQ2",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "AMAZING",
-        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "IT'S YOU (feat. keshi)",
@@ -259,6 +243,22 @@
       "duration_ms": 173427,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "AMAZING",
+        "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 283879,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Maybe We Could Be a Thing",
@@ -659,22 +675,6 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 283879,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Slow Song (with Dragonette)",
@@ -831,22 +847,6 @@
       "duration_ms": 171773,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "The Joy of Music, The Job of Real Estate",
         "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 225665,
       "name": "LAX",
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
     },
     {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Sweet",
@@ -1343,22 +1359,6 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1529,6 +1529,22 @@
       "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Where the Light Is",
@@ -1551,22 +1567,6 @@
       "duration_ms": 230101,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Chapter 2",
-        "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Drifting Apart",
-      "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Last Call For Coco",
         "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 206753,
       "name": "Let Me Get To Know You",
       "url": "https://open.spotify.com/track/1QudNKU0D6MxhlakgIul9Z"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Drifting Apart",
+      "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
     }
   ],
   "unique_name": "Retro Pop",

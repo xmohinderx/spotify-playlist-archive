@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,359 likes - 59 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,415 likes - 59 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 53 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
 | 54 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
 | 55 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
-| 56 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
-| 57 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
+| 56 | [A Journey](https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:16 |
+| 57 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 58 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
 | 59 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 
-Snapshot ID: `MTY2NDg5NDcwMCwwMDAwMDAwMDQxMjNjMzQ0OGE4NTJiYzQ5YzQyMjZlM2Y2NmMxMjYw`
+Snapshot ID: `MTY2NDg5NDcwMCwwMDAwMDAwMGJmNDU3ZTE4MTY3ZmYzNTcyNWJkOGUxMjNkYjQ3YThh`

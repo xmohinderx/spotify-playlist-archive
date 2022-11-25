@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 11801,
+  "num_followers": 11988,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzU0NiwwMDAwMDAwMDJjNmJlMjlmMzc4MDNmZjcyMTJkODRkMGJhNTk4MzE0",
+  "snapshot_id": "MTY2OTEwNzU0NiwwMDAwMDAwMGYxOTdlNDBkY2RkNDk1ZjE5NjU5ZDZhZjllOGIzNWFj",
   "tracks": [
     {
       "added_at": "2022-11-03 09:23:10",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
-      "added_at": "2022-11-24 01:06:49",
+      "added_at": "2022-11-25 01:02:24",
       "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
@@ -435,38 +435,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Chrome Hearts",
-      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -487,6 +455,38 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "In the Blur of the Rain",
-      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 213282,
-      "name": "Down (Feat. DUT2)",
-      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 253411,
       "name": "Point (feat. Loopy)",
       "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 213282,
+      "name": "Down (Feat. DUT2)",
+      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
-      "added_at": "2022-11-24 01:06:49",
+      "added_at": "2022-11-25 01:02:24",
       "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -919,18 +935,34 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
       "artists": [
         {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -955,38 +987,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "I'M LOVIN' AMY",
         "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 202853,
       "name": "Murder On The Dance Floor",
       "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "EASY (feat. ELO)",
-        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
-      },
-      "artists": [
-        {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "EASY (feat. ELO)",
-      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -1055,6 +1035,26 @@
       "duration_ms": 187716,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "EASY (feat. ELO)",
+        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "EASY (feat. ELO)",
+      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
     },
     {
       "added_at": "2022-11-03 09:23:10",

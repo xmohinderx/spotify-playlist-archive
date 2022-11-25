@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Romy
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,939,937 likes - 95 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,940,478 likes - 95 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

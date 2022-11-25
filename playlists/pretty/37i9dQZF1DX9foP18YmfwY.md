@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Thiago Brado
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,510 likes - 70 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,592 likes - 70 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 34 | [Sara Esta Nação](https://open.spotify.com/track/0DK1wETxHVvJAcMAKe5pVK) | [Emanuel Stênio](https://open.spotify.com/artist/7wkcbRxRtbBmYPpyvXpH1D), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Sara Esta Nação](https://open.spotify.com/album/0Syjy40Sj9HR9dRMsP6ulM) | 6:26 |
 | 35 | [Coração de Pai](https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Nelsinho Corrêa](https://open.spotify.com/artist/4PBRc9BHh6zVmQV3TOQoz4) | [Coração de Pai](https://open.spotify.com/album/72xUT7yjz9qGAunIC8BDWQ) | 3:42 |
 | 36 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
-| 37 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 |
+| 37 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 38 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 39 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
 | 40 | [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 |
 | 41 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 42 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 |
-| 43 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
+| 43 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 |
 | 44 | [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 |
 | 45 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
 | 46 | [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMGQ1MjI0ZWU5YmEzYzU1OWRmNzg0MTU2NGI5NzZmY2Jj`
+Snapshot ID: `MTY2NTcyNjg1NywwMDAwMDAwMDJhMTM4YjMzYmE1OTJhNzFlZTNlNTE2MjEwODNmMjVi`

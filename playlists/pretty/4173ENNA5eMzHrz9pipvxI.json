@@ -1,15 +1,99 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: NERVO",
-  "num_followers": 119556,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Leftwing : Kody x Goodboys",
+  "num_followers": 119569,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjMyNixjOTY0NDZkMmY2MDBiMmNiNmVhMDQwMjAzMWIwM2FjM2ZmYjVjMGUy",
+  "snapshot_id": "NjMzMiw1ZjE0NDExMTBlZTVlYWYzNjkxNThiN2ZkZjM4MzdhYWQ5ZGM4YzI3",
   "tracks": [
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Better with You",
+        "url": "https://open.spotify.com/album/6DhqOOvdiHkns5fninBy8C"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 154940,
+      "name": "Better with You",
+      "url": "https://open.spotify.com/track/0TpXy0gvSuaJcPaG6o9XcM"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Sleepwalking (feat. The Chain Gang of 1974)",
+        "url": "https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "GHOSTT",
+          "url": "https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk"
+        },
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "duration_ms": 159193,
+      "name": "Sleepwalking (feat. The Chain Gang of 1974)",
+      "url": "https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Have It All (feat. Franky)",
+        "url": "https://open.spotify.com/album/0NHCitf8CZjmXsUmAJ6tWM"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        },
+        {
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Have It All (feat. Franky)",
+      "url": "https://open.spotify.com/track/3PryuZr5TAxT74B8290q51"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Is Someone Looking for Me (feat. Ace Paloma)",
         "url": "https://open.spotify.com/album/2rPs208CWsCwRT1CO0kuDu"
@@ -29,7 +113,23 @@
       "url": "https://open.spotify.com/track/6CTbQBYHle6Faip4SNVlSC"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Alley Oop",
+        "url": "https://open.spotify.com/album/1JDZATDTbpsE39AmBkAxmw"
+      },
+      "artists": [
+        {
+          "name": "U Know Who",
+          "url": "https://open.spotify.com/artist/05l3lWoAqlSOEfoYKbNait"
+        }
+      ],
+      "duration_ms": 102941,
+      "name": "Alley Oop",
+      "url": "https://open.spotify.com/track/1U6KaIshYmRV3DTpPQFkQI"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "I Knew It Was You",
         "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
@@ -49,27 +149,67 @@
       "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/3dEgnqIAPwT1YsChpnzWV3"
+        "name": "Dare Your Move",
+        "url": "https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "sonofsteve",
-          "url": "https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
         }
       ],
-      "duration_ms": 158769,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/5IFae1IHjYgG7Gz5iWLy7O"
+      "duration_ms": 169180,
+      "name": "Dare Your Move",
+      "url": "https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Lovesick (feat. BullySongs)",
+        "url": "https://open.spotify.com/album/5knODI610HT7I93xE7tIa1"
+      },
+      "artists": [
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Lovesick (feat. BullySongs)",
+      "url": "https://open.spotify.com/track/761dzyEgu1hXpClXWdWHPV"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Rahala (with Arem Ozguc & Arman Aydin)",
+        "url": "https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s"
+      },
+      "artists": [
+        {
+          "name": "Rasster",
+          "url": "https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Rahala (with Arem Ozguc & Arman Aydin)",
+      "url": "https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Lions Roar (feat. Philip Strand)",
         "url": "https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V"
@@ -89,7 +229,107 @@
       "url": "https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Rave Hoven (feat. Maikki)",
+        "url": "https://open.spotify.com/album/2LYtTq3gF8dJ7bJ57lzNjQ"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Rave Hoven (feat. Maikki)",
+      "url": "https://open.spotify.com/track/0rqIgCd4Yotte91pKv08T9"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Summer Jams (Henri PFR VIP Mix)",
+        "url": "https://open.spotify.com/album/2f9K5EbVLPtl725nnnzaoj"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 250629,
+      "name": "Summer Jams (Henri PFR VIP Mix)",
+      "url": "https://open.spotify.com/track/2UYVc8cyX52jtIqj2LvklZ"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Round My Head (Kohen & LIVA Remix)",
+        "url": "https://open.spotify.com/album/2S7DK3HBYqyGgvFvIWtgWR"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        },
+        {
+          "name": "LIVA",
+          "url": "https://open.spotify.com/artist/21sW1taNqgtxFPlnqVRGgC"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Round My Head (Kohen & LIVA Remix)",
+      "url": "https://open.spotify.com/track/5VOJUivOleuWD6q4crBpw7"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
+      "album": {
+        "name": "Summer Jams (Blasterjaxx Festival Mix)",
+        "url": "https://open.spotify.com/album/2iBRfLIksm4eG2zRo5XStd"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "Summer Jams (Blasterjaxx Festival Mix)",
+      "url": "https://open.spotify.com/track/6riXvqD2fTUALqtJ0TO1AK"
+    },
+    {
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "KOMNAARMETOE",
         "url": "https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl"
@@ -113,7 +353,7 @@
       "url": "https://open.spotify.com/track/1BXeCo71ZZWXfMPmU7bpWs"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy"
@@ -129,7 +369,7 @@
       "url": "https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Rude Boy",
         "url": "https://open.spotify.com/album/1I28SZ74p1LngWLhtS4VNj"
@@ -149,7 +389,7 @@
       "url": "https://open.spotify.com/track/65h5CykM8uuCkAXvzadztl"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Left & Right (MXRCVRY Remix)",
         "url": "https://open.spotify.com/album/6G9QKvnZMdNp3cXiMwXdXm"
@@ -173,7 +413,7 @@
       "url": "https://open.spotify.com/track/3dHucT6ZXMhHQNqRW7AkKb"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
@@ -189,7 +429,7 @@
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
-      "added_at": "2022-11-17 23:56:19",
+      "added_at": "2022-11-24 23:56:22",
       "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
@@ -203,262 +443,6 @@
       "duration_ms": 198897,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Nitrous",
-        "url": "https://open.spotify.com/album/2b3xZ6D9mLJaCTPZNvHP3d"
-      },
-      "artists": [
-        {
-          "name": "Razihel",
-          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Nitrous",
-      "url": "https://open.spotify.com/track/4V1FZSAp6y1QjnxYKz0mBy"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Cleopatra (feat. Alex Price)",
-        "url": "https://open.spotify.com/album/0MIKGb3t0qcRRLftv6Nv99"
-      },
-      "artists": [
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        },
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Alex Price",
-          "url": "https://open.spotify.com/artist/2VbPcJ9yPMsZP3Ihap9hnv"
-        }
-      ],
-      "duration_ms": 175342,
-      "name": "Cleopatra (feat. Alex Price)",
-      "url": "https://open.spotify.com/track/3VkVbl3uuVnceUaGUlrN83"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "The Night Is Young (feat. Will Matta)",
-        "url": "https://open.spotify.com/album/1dHofNvzkpNLQuyfKQqmka"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Tarik Asadi",
-          "url": "https://open.spotify.com/artist/0GCbwgKya0FBeRCVnDZ9OP"
-        },
-        {
-          "name": "Will Matta",
-          "url": "https://open.spotify.com/artist/11v5YEpIdO3SLbLNniiR4p"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "The Night Is Young (feat. Will Matta)",
-      "url": "https://open.spotify.com/track/33HVQXwbR5D7sHrVH4yQx0"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Holy Water (feat. Maikki)",
-        "url": "https://open.spotify.com/album/433RyTV7t66D7Eomv83R7B"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Holy Water (feat. Maikki)",
-      "url": "https://open.spotify.com/track/5XhA4rmsoFmFibSSfeYJ5P"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Skeletons (feat. Robbie Rosen)",
-        "url": "https://open.spotify.com/album/0bJg1Q5uu1p43LAfaHrMpT"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 155851,
-      "name": "Skeletons (feat. Robbie Rosen)",
-      "url": "https://open.spotify.com/track/7cvTZtzaH8A6gLSJIKqrQA"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Call You Out",
-        "url": "https://open.spotify.com/album/6VsY5WXjTuHvnJe3oPhpqt"
-      },
-      "artists": [
-        {
-          "name": "Swatkat",
-          "url": "https://open.spotify.com/artist/5RuEvqOyramjOkUG8KwCOs"
-        },
-        {
-          "name": "Jason Dewey",
-          "url": "https://open.spotify.com/artist/7h6oxSy3aaObueohaj5V9C"
-        },
-        {
-          "name": "Romi Lux",
-          "url": "https://open.spotify.com/artist/3R0G5zcoYl9Ja3NRogHvXr"
-        }
-      ],
-      "duration_ms": 143809,
-      "name": "Call You Out",
-      "url": "https://open.spotify.com/track/3W3yHpH8kT4sPxZMEog9Rq"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "You Are A Danger",
-        "url": "https://open.spotify.com/album/7K7g0WcV5RkxUqqYjteIZ1"
-      },
-      "artists": [
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        },
-        {
-          "name": "Kim Kaey",
-          "url": "https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy"
-        }
-      ],
-      "duration_ms": 148214,
-      "name": "You Are A Danger",
-      "url": "https://open.spotify.com/track/34bDBmzjRFp687olZS62CT"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Welcome To The Rave",
-        "url": "https://open.spotify.com/album/5EG8GtuRiCWbQSP3IZmSLc"
-      },
-      "artists": [
-        {
-          "name": "Mark Sixma",
-          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
-        },
-        {
-          "name": "Rave Republic",
-          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "Welcome To The Rave",
-      "url": "https://open.spotify.com/track/37Vd8OozOdhuYoFXyaC0SW"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Spark Of Light",
-        "url": "https://open.spotify.com/album/1X45OgcaviF1Scc3U7ht6p"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        },
-        {
-          "name": "SQU4RE",
-          "url": "https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb"
-        }
-      ],
-      "duration_ms": 284500,
-      "name": "Spark Of Light",
-      "url": "https://open.spotify.com/track/4Iy0bmPLIOglTSz47y6x0s"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "I Won\u2019t Need You",
-        "url": "https://open.spotify.com/album/3e1DQ5tYkCUgCNe7b5mXTo"
-      },
-      "artists": [
-        {
-          "name": "Tep No",
-          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
-        },
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 178938,
-      "name": "I Won\u2019t Need You",
-      "url": "https://open.spotify.com/track/0w16BQtFsrTTesvoWO9zoj"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        },
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
-    },
-    {
-      "added_at": "2022-11-17 23:56:19",
-      "album": {
-        "name": "Talk To Me (with BRUX)",
-        "url": "https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Anthony Attalla",
-          "url": "https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv"
-        },
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Talk To Me (with BRUX)",
-      "url": "https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

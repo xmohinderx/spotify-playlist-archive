@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8237,
+  "num_followers": 8250,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGNmYTI0MDg5NWM3NGVlNjJjODY2N2Y2ZTJlNDcyZDQx",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDRhYTQwN2ZkOGIwYzU3M2YyZWJiZmI0NWU4YjUwZjQ5",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Split in De Middle",
         "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 139000,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
-      },
-      "artists": [
-        {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
-        }
-      ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Mobster",
-        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
       "artists": [
         {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
         }
       ],
-      "duration_ms": 193226,
-      "name": "Mobster",
-      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 230711,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Yuh Bad Riddim (Soca 2020 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/0Ul4h8cL3XeDeynbkieDpL"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 146681,
       "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
       "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230711,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Rats Hole Riddim",
         "url": "https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wileside Government",
-        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+        "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
       },
       "artists": [
         {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
         }
       ],
-      "duration_ms": 202332,
-      "name": "Wileside Government",
-      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 183818,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/5YpSruBBOaIHNGu5aNDeT9"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Progress Riddim",
-        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 210806,
-      "name": "Up Top Boss",
-      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
-      },
-      "artists": [
-        {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Feeling It",
         "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
       },
@@ -1199,6 +1183,38 @@
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+      },
+      "artists": [
+        {
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2012",
+        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 181805,
       "name": "Wuk",
       "url": "https://open.spotify.com/track/6e7h5Gr9HMPQCq9w4po8kP"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Soca Gold 2012",
-        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
     },
     {
       "added_at": "2022-02-24 18:00:00",

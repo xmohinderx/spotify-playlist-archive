@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2249194,
+  "num_followers": 2250376,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE1YmMyODA1MTE4OGY5N2E5ZDIzOTgxZDBhYTA3NmMz",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDgzMTdkODdhMDIzMjUyNTUzMWJlNzJiNDFmZDJlYzBk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Walkerverse, Pt. I",
-        "url": "https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 191098,
-      "name": "Somebody Like U",
-      "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Human (feat. Echoes)",
         "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Walkerverse, Pt. I",
+        "url": "https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 213495,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK"
       },
@@ -1359,18 +1375,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1391,26 +1411,6 @@
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1855,30 +1855,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
-        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
+        "name": "Show Me (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
         }
       ],
-      "duration_ms": 205530,
-      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
-      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+      "duration_ms": 177142,
+      "name": "Show Me (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1907,42 +1899,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Show Me (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
+        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
+        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Show Me (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+      "duration_ms": 205530,
+      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
+      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1963,6 +1943,26 @@
       "duration_ms": 206222,
       "name": "Children - Radio Edit",
       "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2022-11-18 05:00:00",

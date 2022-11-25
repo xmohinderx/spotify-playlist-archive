@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,668 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,989 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 |
 | 2 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 |
 | 3 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
-| 4 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
-| 5 | [Slightly Hung Over](https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ) | [Blues Delight](https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA) | [Rock Island Line](https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh) | 4:45 |
-| 6 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
+| 4 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
+| 5 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
+| 6 | [Slightly Hung Over](https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ) | [Blues Delight](https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA) | [Rock Island Line](https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh) | 4:45 |
 | 7 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 8 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
 | 9 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 28 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
 | 29 | [Blues for Mama](https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 3:55 |
 | 30 | [J.C's\. Blues](https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1) | [Michigan Curve](https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba) | [Bluesmen Don't Use Umbrellas](https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm) | 6:59 |
-| 31 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
-| 32 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
+| 31 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
+| 32 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 33 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
 | 34 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
 | 35 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 49 | [Blues In "A"](https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 10:25 |
 | 50 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
 
-Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMGY5N2RmMDE0MWYxNTljY2Q4YjJlYWVhOGMwZDcxN2I1`
+Snapshot ID: `MTY2ODc2ODUxOSwwMDAwMDAwMDUxZTFmMjFkNzJlZTk5NmVmYzJiYjY3NDk1ZjMxZDQz`

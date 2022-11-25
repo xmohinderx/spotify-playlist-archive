@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 89633,
+  "num_followers": 89737,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMzAxMywwMDAwMDAwMDBjOTVkOTI5ODhiMmY2OWE1MGE4M2M1NDVjNDI4OGEx",
+  "snapshot_id": "MTY2ODIwMzAxMywwMDAwMDAwMDdjZjM5YzI0MWI5ZjZhNDVmNGFiMDUyOWQ1OWJmZTNi",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Ni\u00f1o Amor",
+        "url": "https://open.spotify.com/album/5OSl8lw989VgokND0mOmqK"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 183097,
+      "name": "Ni\u00f1o Amor",
+      "url": "https://open.spotify.com/track/1AXD4Qm1FDkXpqGRQzo9Oa"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Por Ti Me Quedo en San Luis",
         "url": "https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 157263,
       "name": "Por Ti Me Quedo en San Luis",
       "url": "https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Ni\u00f1o Amor",
-        "url": "https://open.spotify.com/album/5OSl8lw989VgokND0mOmqK"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 183097,
-      "name": "Ni\u00f1o Amor",
-      "url": "https://open.spotify.com/track/1AXD4Qm1FDkXpqGRQzo9Oa"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+        "name": "A D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
       },
       "artists": [
         {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 188660,
-      "name": "Me Conecto (feat. Jorge Drexler)",
-      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+      "duration_ms": 202230,
+      "name": "A D\u00f3nde Vamos?",
+      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1083,38 +1083,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "A D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         },
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 202230,
-      "name": "A D\u00f3nde Vamos?",
-      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 214161,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
+      "duration_ms": 188660,
+      "name": "Me Conecto (feat. Jorge Drexler)",
+      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1135,6 +1119,38 @@
       "duration_ms": 235865,
       "name": "Intensidad",
       "url": "https://open.spotify.com/track/7MPKbeCWeCljobb31x7kVI"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 214161,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "QUN",
+        "url": "https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 189885,
+      "name": "QUN",
+      "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 193013,
       "name": "Amarrados",
       "url": "https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "QUN",
-        "url": "https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 189885,
-      "name": "QUN",
-      "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1543,58 +1543,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT"
-      },
-      "artists": [
-        {
-          "name": "Panga N\u00e9bula",
-          "url": "https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu"
-        }
-      ],
-      "duration_ms": 189695,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Primavera 2020 (feat. Zoe Gotusso)",
-        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 289842,
-      "name": "Primavera 2020 (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
       },
@@ -1623,6 +1571,58 @@
       "duration_ms": 198664,
       "name": "Manual de una P\u00e9rdida",
       "url": "https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Primavera 2020 (feat. Zoe Gotusso)",
+        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 289842,
+      "name": "Primavera 2020 (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT"
+      },
+      "artists": [
+        {
+          "name": "Panga N\u00e9bula",
+          "url": "https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu"
+        }
+      ],
+      "duration_ms": 189695,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd"
     },
     {
       "added_at": "2022-10-28 03:00:00",

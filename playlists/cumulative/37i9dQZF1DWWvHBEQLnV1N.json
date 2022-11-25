@@ -420,6 +420,24 @@
     },
     {
       "album": {
+        "name": "Christmas Tree Farm (Old Timey Version)",
+        "url": "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Christmas Tree Farm (Old Timey Version)",
+      "url": "https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L"
+    },
+    {
+      "album": {
         "name": "Christmas Without You",
         "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
       },

@@ -4,7 +4,7 @@
 
 > you up?
 
-337 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+338 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Give You the World](https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:33 | 2022-08-25 |  |
 | [Go Again](https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Go Again](https://open.spotify.com/album/78egLdqpviDIASDHbQg79i) | 2:25 | 2022-02-04 | 2022-05-24 |
 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 | 2022-02-04 |  |
-| [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2022-03-25 |  |
+| [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2022-03-25 | 2022-11-25 |
 | [Good Enough \(feat\. Ant Clemons\)](https://open.spotify.com/track/4UGgiMKfSwQizY2bsWss6K) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:22 | 2022-03-25 | 2022-03-30 |
 | [Goodbye Paris](https://open.spotify.com/track/7vDTqg9YLvr3ONmSrPleCL) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Goodbye Paris](https://open.spotify.com/album/1j9bISVe9klnDse00amxRQ) | 3:45 | 2022-09-23 | 2022-11-12 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2022-02-04 |  |
@@ -148,6 +148,7 @@
 | [Holding On](https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:19 | 2022-03-25 | 2022-04-17 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-22 | 2022-11-06 |
+| [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 | 2022-11-17 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-02-04 | 2022-07-29 |
 | [I Am](https://open.spotify.com/track/50qLAF3XgfhtaCGDKT4Kks) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/5f8pMn2A5d5lKMDapYbCmp) | 3:28 | 2022-04-01 | 2022-04-19 |
 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/6oIahjoSHQ3GQJg0hrLdzY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/album/0nKlLF5MUHVyMAiQdMD3Pi) | 4:06 | 2022-03-25 | 2022-04-16 |

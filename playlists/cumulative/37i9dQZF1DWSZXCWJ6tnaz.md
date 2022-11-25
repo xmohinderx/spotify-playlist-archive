@@ -4,7 +4,7 @@
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-47 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
+48 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-05-06 | 2022-10-25 |
 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:18 | 2022-05-06 |  |
 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2wlUU8uTvjeCetz0EyeF5M) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/album/1rOnSUZnWw9cR0CBikcRRT) | 4:18 | 2022-05-06 | 2022-07-29 |
-| [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-05-06 |  |
+| [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-05-06 | 2022-11-25 |
+| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2022-11-14 |  |
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2022-05-06 |  |
 | [Worlds Collide](https://open.spotify.com/track/47CBgP1kMvdXGhZ5jNLJlF) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 3:25 | 2022-05-06 |  |
 | [Woven](https://open.spotify.com/track/2z5W3GOgV8yoNyCBkIpBzt) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Spun from Reverence](https://open.spotify.com/album/6jgOizURcTyaHQPZk6jH3u) | 4:57 | 2022-05-06 | 2022-07-29 |

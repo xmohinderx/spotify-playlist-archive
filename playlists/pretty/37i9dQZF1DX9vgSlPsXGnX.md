@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,909 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,984 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 55 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 | 56 | [Amor de Mis Amores](https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:58 |
 | 57 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
-| 58 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
-| 59 | [Besos De Fuego](https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 2:21 |
+| 58 | [Besos De Fuego](https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 2:21 |
+| 59 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
 | 60 | [Mi Manera De Amar](https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 4:11 |
 | 61 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |
 | 62 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDU2NDhmOWMyYTc3Y2FhMjMxMzY0MmQ0YTU5MmUwY2Nm`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMGY3MDhhZGJiZDI5MjAwOTljOGQ1ZGM3YjI0OGQ0Mzcw`

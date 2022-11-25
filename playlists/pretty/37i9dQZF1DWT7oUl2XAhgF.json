@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 158534,
+  "num_followers": 159093,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDQxMTk5ZjQ1OWM3NDI3NTE0N2Q1ZDhlN2FjNGIwYjIx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDIyMmI0YTIyNGQ3NjhmODExZmQwOWMyNmE5MjA2YmM1",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
     },
     {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+    },
+    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "No Time For Dreaming",
@@ -575,22 +591,6 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2021-12-13 16:49:02",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Piece of Me",
@@ -663,6 +647,22 @@
       "duration_ms": 224730,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Breakfast",
@@ -775,6 +759,22 @@
       "duration_ms": 251853,
       "name": "Do You Wanna Do Nothing with Me?",
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-08-26 04:02:00",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
         "name": "Red To Violet (Feat. Jamila Woods)",
         "url": "https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 174706,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
     },
     {
       "added_at": "2021-07-09 02:40:08",

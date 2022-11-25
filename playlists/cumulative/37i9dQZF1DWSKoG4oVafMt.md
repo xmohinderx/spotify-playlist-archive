@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-629 songs - 1 day 10 hr 10 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+632 songs - 1 day 10 hr 18 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bhabi](https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Bhabi](https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj) | 2:35 | 2021-12-02 | 2022-07-29 |
 | [Bhabi](https://open.spotify.com/track/7FusXh0bnkRQPrfxknnDyN) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bhabi](https://open.spotify.com/album/2QENKH3rWXemkrWjvsmoog) | 2:35 | 2022-07-28 |  |
 | [Bhang](https://open.spotify.com/track/7indSZ78PnXjgTrdunQg4c) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Bhang](https://open.spotify.com/album/1tVG94zbcVmDDdT0QMVX55) | 2:40 | 2022-11-07 |  |
+| [Bhull Gye](https://open.spotify.com/track/05qlEalMnO5RUYcoXRBWwK) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 2:37 | 2022-11-24 |  |
 | [Big Men \(Chapter 2\)](https://open.spotify.com/track/3i0uUsZFO2eJfc4uULSWLy) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Big Men \(Chapter 2\)](https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg) | 3:44 | 2022-05-13 |  |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2022-07-25 |  |
 | [Billboard](https://open.spotify.com/track/0otKvucrit5zbMjN2fjU4k) | [A.Shawn](https://open.spotify.com/artist/6n79gZsJ80nwh33qIrRqbY), [Dhruv G](https://open.spotify.com/artist/0ZsEm750sSwnqKe7LDE67k) | [Billboard](https://open.spotify.com/album/1wymoXJV1i5cIRHyUxOkpz) | 2:32 | 2022-08-16 | 2022-08-18 |
@@ -303,6 +304,7 @@
 | [Lambo \(Version Snappy\)](https://open.spotify.com/track/3nQZULgmcDRUFTLrY7yw03) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:18 | 2022-01-17 | 2022-02-01 |
 | [Lambo Car](https://open.spotify.com/track/7hzjokqjgAolbg3xqeG21k) | [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf), [Simar Kaur](https://open.spotify.com/artist/0Y1YOEVDYNn3UjVuXljM2m), [Neha Sharma](https://open.spotify.com/artist/3XLZGHc3hdywEa50EiMrEt) | [Lambo Car](https://open.spotify.com/album/6tAGlCN5ToaR5o7hG4IBGL) | 3:15 | 2021-12-02 | 2022-04-06 |
 | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 |  |
+| [Lemme See](https://open.spotify.com/track/1HuS5LXJT6IitmeQrNPXlc) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 3:20 | 2022-11-24 |  |
 | [Let Me Be](https://open.spotify.com/track/7fKwQZvc7xCv5TmqaKp1pF) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Let Me Be](https://open.spotify.com/album/2kvP8qyJe9nzkDIVmCa0zD) | 3:17 | 2022-02-07 | 2022-02-12 |
 | [Libaas](https://open.spotify.com/track/0vqw3BCyNr3DDVBmjD21H8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Libaas](https://open.spotify.com/album/1zCJSedSGgctXkJ3HnQCfC) | 4:27 | 2021-12-02 | 2022-04-06 |
 | [Lifeline](https://open.spotify.com/track/0oKRRJUcHFBHay9B8851FB) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Lifeline](https://open.spotify.com/album/46QP5a4l9n4LREswMLJN9a) | 3:29 | 2022-05-20 | 2022-07-06 |
@@ -508,6 +510,7 @@
 | [Shraab Wargi](https://open.spotify.com/track/7Cx9BdsrVLSPpYaQi8vxd4) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 3:07 | 2021-12-02 | 2022-04-06 |
 | [Shudai](https://open.spotify.com/track/0G31EquWmEDBHO9CGONcCF) | [Mansimran Sandhu](https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn) | [Shudai](https://open.spotify.com/album/3TlHV8ADbFujMEIzn7EiLx) | 3:41 | 2022-02-18 | 2022-04-06 |
 | [Shukarguzar](https://open.spotify.com/track/4TZ0TLM9XlsEyaD5CUGFnH) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Shukarguzar](https://open.spotify.com/album/1mR0MRCo6O8Xt6ekiljo4Z) | 3:04 | 2022-01-27 | 2022-04-06 |
+| [Sifat](https://open.spotify.com/track/4RxSQlQNHdlotqEq2GLpNI) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Sifat](https://open.spotify.com/album/4OTSOeM7hmbCXMh3i4LHVu) | 2:26 | 2022-11-24 |  |
 | [Sikhar Dupehre \(From "Teeja Punjab"\)](https://open.spotify.com/track/2Lmakevk0jkKURWZ3NuVqS) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Shah An Shah](https://open.spotify.com/artist/7m7CYrgAso8DmLNwWL3yTD) | [Sikhar Dupehre \(From "Teeja Punjab"\)](https://open.spotify.com/album/7tE5RQl6WheySIy46XTeir) | 2:48 | 2022-01-28 | 2022-02-12 |
 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 | 2021-12-02 |  |
 | [Slow\-Mo](https://open.spotify.com/track/5HtPFkvtYUq2ToujMrfFLo) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Slow\-Mo](https://open.spotify.com/album/6Uv5G5GMcHdmAaWMNtZldN) | 3:20 | 2022-03-21 | 2022-04-06 |

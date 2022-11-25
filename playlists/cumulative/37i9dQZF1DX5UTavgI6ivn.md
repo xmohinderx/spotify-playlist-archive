@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Juanes
 
-154 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+155 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Justicia](https://open.spotify.com/track/6ipp8Dhs33KinlF4BStgca) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Justicia](https://open.spotify.com/album/1D0VxL4e9Ut4bY5LLMXG9H) | 3:29 | 2022-01-12 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-27 |  |
 | [La Invité a Bailar](https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP) | 4:02 | 2022-01-12 | 2022-07-29 |
-| [La Invité a Bailar](https://open.spotify.com/track/0POcXvbd6f9NX5UV4Zf5QM) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/2RztUTXShCrQmIvHRXOgjd) | 4:05 | 2022-11-11 |  |
+| [La Invité a Bailar](https://open.spotify.com/track/0POcXvbd6f9NX5UV4Zf5QM) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/2RztUTXShCrQmIvHRXOgjd) | 4:05 | 2022-11-11 | 2022-11-25 |
 | [La Invité a Bailar](https://open.spotify.com/track/3mcNcVQbpNGdhLKhQSc0g6) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana \(Deluxe Edition\)](https://open.spotify.com/album/50IbqXd4EIkocjvHhDmBjZ) | 4:05 | 2022-07-08 | 2022-11-11 |
+| [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 | 2022-11-18 |  |
 | [La Plata \(feat\. Lalo Ebratt\)](https://open.spotify.com/track/7Eso5mURNFprb5PmhOXDlf) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [La Plata](https://open.spotify.com/album/0XLBczjmcgplRNc6m6erfV) | 3:15 | 2022-01-12 | 2022-05-20 |
 | [La Presión](https://open.spotify.com/track/0LXk0yWcGfACtMKX0igobq) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Presión](https://open.spotify.com/album/4wfAezGxcpg6I2sQHldZ0u) | 2:44 | 2022-01-12 |  |
 | [La Vida Sin Ti](https://open.spotify.com/track/1RvL7eHoeUolnQbWm2Hnba) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:14 | 2022-01-12 |  |

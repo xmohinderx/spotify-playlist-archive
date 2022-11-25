@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,617 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,625 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 9 | [12/12](https://open.spotify.com/track/3F2avOu7brXts7okal0BbK) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Kärlek & Revolt](https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO) | 3:52 |
 | 10 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
 | 11 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
-| 12 | [Det strålar så om dig](https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 4:17 |
+| 12 | [Spontanitet](https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:14 |
 | 13 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
 | 14 | [1.000.000 Nollor](https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 3:46 |
 | 15 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 17 | [Polisen slår](https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 3:46 |
 | 18 | [Hetare Än Lava](https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kärlek & Revolt](https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO) | 3:23 |
 | 19 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
-| 20 | [Spontanitet](https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:14 |
+| 20 | [Det strålar så om dig](https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 4:17 |
 | 21 | [In Kommer Ting](https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 2:59 |
 | 22 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
 | 23 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 46 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
 | 47 | [Twin Flame](https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:07 |
 | 48 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 49 | [Vägsjäl](https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Trodal](https://open.spotify.com/album/3NJujcbx0smsffJx4vOode) | 3:28 |
-| 50 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
+| 49 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
+| 50 | [Vägsjäl](https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Trodal](https://open.spotify.com/album/3NJujcbx0smsffJx4vOode) | 3:28 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDk5NWIxNWIzYjljOGFhNDFmNGFkMWM1ZDgyYzE0YTA2`
+Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDBmMGMxOGU4ZjVkMGFmNWQ1ZDU3ZTlmYzkwOGM4MDc4`

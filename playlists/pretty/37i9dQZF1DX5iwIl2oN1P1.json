@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 72021,
+  "num_followers": 72040,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDVkY2E0MjdhNmExYTM1YzU2NDMzNTA2MjI0ZjIyMjlh",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDQyMTY3NjcyYjBmZGZjMzE1ZGJlZTVhNjU3OTA5OTRm",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Never Have to Be Alone",
         "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
     },
     {
       "added_at": "2020-06-03 14:33:10",

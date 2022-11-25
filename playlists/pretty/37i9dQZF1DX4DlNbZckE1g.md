@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,416 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,414 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 11 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
 | 12 | [help herself \(with BENEE\)](https://open.spotify.com/track/021ktrEMDrcTdkLEo74gqo) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [my oh my](https://open.spotify.com/album/7sAAPOgQ1UNo0iozBiqNQX) | 2:46 |
 | 13 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
-| 14 | [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 |
+| 14 | [About U](https://open.spotify.com/track/2jBXxytea8dHAOZqIB3pHL) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:57 |
 | 15 | [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 |
 | 16 | [Touch Back Down](https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Touch Back Down](https://open.spotify.com/album/5LfsDu8m8AKyIljMVTu0BZ) | 4:16 |
 | 17 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 26 | [DANCE WITH ME TODAY](https://open.spotify.com/track/1rgjeaK2kgI4y2BmZ1Daul) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [DANCE WITH ME TODAY](https://open.spotify.com/album/0ITiZ4HwA76j0IfnjhWklL) | 3:18 |
 | 27 | [Lose Your Head](https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:19 |
 | 28 | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [R U HIGH \(feat\. Mallrat\)](https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd) | 3:59 |
-| 29 | [You Know That I Love You](https://open.spotify.com/track/6v5VxQOaYShyi8TyGVArrD) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/329Lm8mbxGvBLyA1HpVL8w) | 4:48 |
+| 29 | [You Know That I Love You](https://open.spotify.com/track/7HArfWkgOZGnRoFtmhgZXa) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [Love Songs](https://open.spotify.com/album/0wt1q9GNtdjYFHsoPsD7vr) | 4:48 |
 | 30 | [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 |
 | 31 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 |
 | 32 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 106 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMDcwOGUxNzU0ZWEwYmNlNTJjMTY0YjZlOTVlMjUyMzZk`
+Snapshot ID: `MTY0NDQ2NDcwNiwwMDAwMDAwMDE5MDZkYjI5MWU3MTMxZGY5YzZiMjE1NjhkYmQyOTJj`

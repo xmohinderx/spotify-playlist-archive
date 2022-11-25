@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,638 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,081 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 33 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 |
 | 34 | [Implanted Memories](https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Computer Afterlife](https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq) | 1:26 |
 | 35 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [slaywitme](https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
-| 36 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 |
-| 37 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
-| 38 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 |
+| 36 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 |
+| 37 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 |
+| 38 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
 | 39 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
 | 40 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 41 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 68 | [Taxi](https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR) | [foster n!x](https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl) | [Drop Five](https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L) | 1:38 |
 | 69 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
 | 70 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
-| 71 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
-| 72 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
+| 71 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
+| 72 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
 | 73 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 | 74 | [departure](https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc) | [UNIT KAI](https://open.spotify.com/artist/3xEXDFJiPyIS1oC1xYX06F), [acounta](https://open.spotify.com/artist/0sGvH1VL3n3Dn6rvDu2KhX) | [departure](https://open.spotify.com/album/2gosUSZpSN0zTv9WYF8HCj) | 2:31 |
 | 75 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
 
-Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMGIyMjQ0MGI3YWVhM2JmNTVhNTQxNTY1ZWMxMDYwNzc2`
+Snapshot ID: `MTY0ODgyNTAwNiwwMDAwMDAwMDM0ZTE1YzYzY2E5YjQ2YTIwNmYwYWVhMjJhNGM1ZmU3`

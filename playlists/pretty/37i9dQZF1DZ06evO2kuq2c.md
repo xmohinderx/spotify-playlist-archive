@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,994 likes - 41 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,050 likes - 41 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 7 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 8 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
 | 9 | [Dead Butterflies](https://open.spotify.com/track/2XdcUAsMCuNMaWLmXIhdjW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 |
-| 10 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 |
+| 10 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 |
 | 11 | [Royal Beggars](https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:01 |
 | 12 | [Nihilist](https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 2:51 |
 | 13 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 |
-| 14 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 |
+| 14 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 |
 | 15 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 |
 | 16 | [Gravity](https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:18 |
 | 17 | [Giving Blood](https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:32 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 40 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
 | 41 | [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDAxZWJlYmNiYzhmNWI3ZTRiYWI0NmM0YTJmZDdkYzViYg==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA2MGM1N2U1ZDdkNTcyNGEwODBlZmYyYzlkMDI1NWEwYw==`

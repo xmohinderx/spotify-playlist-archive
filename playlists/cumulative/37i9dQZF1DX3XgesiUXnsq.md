@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: MF DOOM 🕊
 
-246 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+247 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Psyche](https://open.spotify.com/track/2aJ6ZK4FDm6Gf4etxmDzwV) | [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ), [RÉMiii](https://open.spotify.com/artist/1FN2Bxap2wlM7YqbqePUPL) | [Psyche](https://open.spotify.com/album/5EDngVC8AOwMJepXOkCsAn) | 2:15 | 2022-04-29 | 2022-07-02 |
 | [Quantum Leap](https://open.spotify.com/track/3ujsJyNJl1zxvS4G9JhJtE) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:28 | 2022-08-26 |  |
 | [Re\-Rock](https://open.spotify.com/track/3j2tYuoeNBFx8mkTZFX7LB) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Re\-Rock](https://open.spotify.com/album/51D6O4RF8eiWQlVPID5wTA) | 2:57 | 2022-04-29 | 2022-07-09 |
-| [Rhymes Like Dimes](https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon) | 4:18 | 2022-10-28 |  |
+| [Rhymes Like Dimes](https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon) | 4:18 | 2022-10-28 | 2022-11-25 |
+| [Rhymes Like Dimes](https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:18 | 2022-11-18 |  |
 | [RICH HUSTLE \(with Jim Jones\)](https://open.spotify.com/track/2hFiYxiRV9pxM4BVATrKeX) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [RICH HUSTLE](https://open.spotify.com/album/0PJY2gSMWWAzcOq672mUac) | 2:22 | 2022-08-26 | 2022-09-24 |
 | [RIGHT NOW \(feat\. Stove God Cooks & Jadakiss\)](https://open.spotify.com/track/4f7r6dRgC7e8XSoKHD1UpL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Hitler Wears Hermes 8: Sincerely Adolf](https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC) | 3:39 | 2022-04-29 | 2022-05-14 |
 | [RIP NIP](https://open.spotify.com/track/2wk8mPIwieospUGsyBHuW2) | [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F) | [RIP NIP](https://open.spotify.com/album/55POWBDqObs6QY6rj4Z97t) | 2:38 | 2022-07-29 | 2022-10-29 |

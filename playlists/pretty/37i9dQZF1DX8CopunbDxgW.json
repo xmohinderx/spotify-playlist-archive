@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring Barry Can't Swim",
-  "num_followers": 817611,
+  "num_followers": 818091,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA0MTk0NCwwMDAwMDAwMDA1OTFmNTk4NmZlMzAzYzQxYjA1NmU3Y2Y1OGJjOWZh",
+  "snapshot_id": "MTY2OTA0MTk0NCwwMDAwMDAwMDhlNWM0MDc2MTBlZWRjODhmZTg2Y2RmYzg5MDZiMjNj",
   "tracks": [
     {
       "added_at": "2022-10-05 04:00:00",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in my mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "405 - Metronomy x Biig Piig",
         "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 216818,
       "name": "Highest Building (feat. Oklou)",
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
+    },
+    {
+      "added_at": "2022-10-05 04:00:00",
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -711,26 +731,6 @@
       "duration_ms": 181873,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2022-10-05 04:00:00",
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 196965,
-      "name": "Bleu (better with time)",
-      "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw"
     },
     {
-      "added_at": "2022-11-08 16:57:03",
-      "album": {
-        "name": "Restless Bones",
-        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Restless Bones",
-      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "MACHINE",
@@ -803,6 +787,22 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2022-11-08 16:57:03",
+      "album": {
+        "name": "Restless Bones",
+        "url": "https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Restless Bones",
+      "url": "https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Recap (with VanJess & Channel Tres)",
         "url": "https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Passion (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2022-11-18 16:47:43",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 247327,
+      "name": "Be with You",
+      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 247327,
-      "name": "Be with You",
-      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Condition",
-        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 224393,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Fade (feat. SHELLS)",
@@ -1331,6 +1311,26 @@
       "duration_ms": 223396,
       "name": "Fade (feat. Shells)",
       "url": "https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Condition",
+        "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 224393,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -1375,38 +1391,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 239846,
-      "name": "Never Gonna Stop",
-      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 181687,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 239846,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Looking at Your Pager",
-        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Looking at Your Pager",
-      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
         "url": "https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "R U HIGH (feat. Mallrat)",
-        "url": "https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 239456,
-      "name": "R U HIGH (feat. Mallrat)",
-      "url": "https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Bang My Line (feat. Tkay Maidza)",
         "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 153500,
       "name": "Bang My Line (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "R U HIGH (feat. Mallrat)",
+        "url": "https://open.spotify.com/album/29iHejEs5RHC3EQiezTLrd"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 239456,
+      "name": "R U HIGH (feat. Mallrat)",
+      "url": "https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "2gether",
-        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 191074,
-      "name": "2gether",
-      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "2gether",
+        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 191074,
+      "name": "2gether",
+      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
       "added_at": "2022-09-09 04:00:00",

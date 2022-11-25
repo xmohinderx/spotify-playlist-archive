@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,833 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,305 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 63 | [Remembering Sunday](https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 4:16 |
 | 64 | [Over You](https://open.spotify.com/track/2R5uY1gbIKzGB1yAOH067s) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:24 |
 | 65 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
-| 66 | [There Is](https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 3:16 |
-| 67 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
-| 68 | [It Ends Tonight](https://open.spotify.com/track/1FMHNVeJ9s1x1l1WlaRs2I) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 4:04 |
+| 66 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
+| 67 | [It Ends Tonight](https://open.spotify.com/track/1FMHNVeJ9s1x1l1WlaRs2I) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 4:04 |
+| 68 | [There Is](https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 3:16 |
 | 69 | [Pictures Of You](https://open.spotify.com/track/4bfyeYgNLENrwLRRSKXfM3) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Poison Kiss](https://open.spotify.com/album/3MOMO36PjOCsTjRgN7D7IE) | 3:09 |
 | 70 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
 | 71 | [Unwell \- 2007 Remaster](https://open.spotify.com/track/0PXWpNBYg52gABrn1qL1bD) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Exile on Mainstream](https://open.spotify.com/album/0oFlNGmGpsFvvhBgnNPirh) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 99 | [Feels Like Home](https://open.spotify.com/track/06qK8tWn0OQKMVPCDsmHtn) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pMVUZBPHy7a8BwdlZwBNO) | 4:39 |
 | 100 | [Where I Stood](https://open.spotify.com/track/76CYHISAJBBjQr0vgP9mrC) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On a Clear Night](https://open.spotify.com/album/5g8Z9GwurUdRCm6SToBqvW) | 4:17 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMDI5NjBiMzY0YTlhYWEzZTMxNmJkY2UyNmI5OWE4YzIy`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGIwNjQyYjFlMGY3MmJjZWUzYTRlY2JiMTE4M2VhNTcx`

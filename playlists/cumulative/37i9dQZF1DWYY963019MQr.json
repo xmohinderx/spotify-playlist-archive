@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/7qe6VBTIkgGfnluSwEV4jz"
+      },
+      "artists": [
+        {
+          "name": "Billie Arnold",
+          "url": "https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158001,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/3L0bUhCLyWQif6u3oRtUjo"
+    },
+    {
+      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 230481,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/4cpnWeyzfOASkuCQrGtCWs"
@@ -644,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Mellow D",
+        "url": "https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "Mellow D",
+      "url": "https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G"
+    },
+    {
+      "album": {
         "name": "Kiss And Tell",
         "url": "https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB"
       },
@@ -915,6 +951,24 @@
       "duration_ms": 132337,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt"
+    },
+    {
+      "album": {
+        "name": "Stella By Starlight",
+        "url": "https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB"
+      },
+      "artists": [
+        {
+          "name": "Layton Rooney",
+          "url": "https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171687,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,234 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,326 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 11 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 |
 | 12 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 |
 | 13 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
-| 14 | [Hidden](https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Hidden](https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP) | 2:48 |
-| 15 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 |
+| 14 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 |
+| 15 | [Hidden](https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Hidden](https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP) | 2:48 |
 | 16 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 |
 | 17 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 |
 | 18 | [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 38 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 |
 | 39 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
 | 40 | [Legendary](https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Legendary](https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C) | 2:48 |
-| 41 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 |
-| 42 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
+| 41 | [Lower East Side](https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [Songs for the Late Night Drive Home](https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl) | 3:31 |
+| 42 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 |
 | 43 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 |
 | 44 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
 | 45 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 50 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 51 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 |
 | 52 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 |
-| 53 | [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 |
-| 54 | [Same Old Story](https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Same Old Story](https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc) | 4:09 |
-| 55 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
+| 53 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
+| 54 | [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 |
+| 55 | [Same Old Story](https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Same Old Story](https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc) | 4:09 |
 | 56 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
 | 57 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 58 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 69 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 |
 | 70 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 |
 | 71 | [Send Forth Laborers](https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R) | [Pennell](https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D) | 5:33 |
-| 72 | [Drive](https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS) | [Danger Scene](https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3) | [Futures](https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7) | 4:06 |
-| 73 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 72 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
+| 73 | [Drive](https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS) | [Danger Scene](https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3) | [Futures](https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7) | 4:06 |
 | 74 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
 | 75 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 |
 | 76 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 |
 | 77 | [Vice](https://open.spotify.com/track/4ou4cASYUalgtmw8A0tbyD) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Vice](https://open.spotify.com/album/0FjbxhgXFOBqrHxPXTjFYu) | 4:46 |
-| 78 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
-| 79 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
-| 80 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 |
+| 78 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 |
+| 79 | [The Truth](https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju) | [I Am Spartacus](https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l) | [Unite](https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi) | 4:17 |
+| 80 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
 
-Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMDIzOWMyN2IxZTMwYmFlMDBiMWE1ZDIwMzQ5ZDEzOWI5`
+Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMGM1MGVlYzA1YmJhNWMyZTdmN2FiZDkzYzRhZmNlYzcz`

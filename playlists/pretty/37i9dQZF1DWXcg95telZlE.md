@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,918 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,616 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 12 | [Summertime](https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 4:58 |
 | 13 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 14 | [The Great Pretender](https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:37 |
-| 15 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
-| 16 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
+| 15 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
+| 16 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
 | 17 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 18 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
 | 19 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 69 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
 | 70 | [Mood Indigo \- Remastered](https://open.spotify.com/track/2LuKtTtotMk41MxesmjCdR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:30 |
 | 71 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
-| 72 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
-| 73 | [Down In The Willow Garden](https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Songs Our Daddy Taught Us](https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy) | 3:04 |
+| 72 | [Down In The Willow Garden](https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Songs Our Daddy Taught Us](https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy) | 3:04 |
+| 73 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
 | 74 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
-| 75 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
-| 76 | [Tennessee Waltz](https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [The Patti Page Collection: The Mercury Years, Volume 1](https://open.spotify.com/album/6UoTP4eval115JObrelnEr) | 3:02 |
+| 75 | [Tennessee Waltz](https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [The Patti Page Collection: The Mercury Years, Volume 1](https://open.spotify.com/album/6UoTP4eval115JObrelnEr) | 3:02 |
+| 76 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [The Very Best Of Norman Wisdom](https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz) | 3:36 |
 | 77 | [Rivers Of No Return](https://open.spotify.com/track/0Smy9pU6cl87BUJsBO1PIN) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Essentials](https://open.spotify.com/album/2KarlyCvqzzVdsbhGaH2bI) | 2:14 |
 | 78 | [The Black Hills of Dakota](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
 | 79 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 82 | [I'll Never Smile Again](https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:54 |
 | 83 | [Outside of Heaven](https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 2:38 |
 
-Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMDJmYTExMGFmZjY0ZDg0YzUwZWY1MGExZTljZGM4Yjk3`
+Snapshot ID: `MTY1MzkxNTU0MCwwMDAwMDAwMDNjYzNiOWNiYzU4NDQyMDA1ZDg0NGZlYjZjNGJkYWVk`

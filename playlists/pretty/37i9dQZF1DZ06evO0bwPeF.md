@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,700 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,717 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 7 | [Like I Care](https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:19 |
 | 8 | [Just Another Victim](https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0), [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 4:22 |
 | 9 | [Iron Head](https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
-| 10 | [Speechless](https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:58 |
+| 10 | [Wilma's Rainbow](https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:54 |
 | 11 | [See You Dead](https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:46 |
 | 12 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
 | 13 | [Give It](https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:16 |
-| 14 | [Wilma's Rainbow](https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:54 |
+| 14 | [Speechless](https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:58 |
 | 15 | [Milktoast](https://open.spotify.com/track/0EV6881kagOULo42517dMX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:58 |
 | 16 | [Pure](https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:33 |
 | 17 | [FBLA II](https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 |
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 31 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
 | 32 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 |
 | 33 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
-| 34 | [Bad News](https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 2:36 |
+| 34 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
 | 35 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
-| 36 | [Disagreeable](https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 3:44 |
-| 37 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 |
-| 38 | [Gone](https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:31 |
+| 36 | [Bad News](https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 2:36 |
+| 37 | [Disagreeable](https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 3:44 |
+| 38 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 |
 | 39 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
 | 40 | [Red Scare](https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:19 |
-| 41 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
-| 42 | [Swallowing Everything](https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:54 |
+| 41 | [Brand New](https://open.spotify.com/track/3T2Fwwxr2Q7WlG45Jo7gK9) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 4:11 |
+| 42 | [Seeing Eye Dog](https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:03 |
 | 43 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
-| 44 | [In Person](https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:06 |
-| 45 | [Brand New](https://open.spotify.com/track/3T2Fwwxr2Q7WlG45Jo7gK9) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 4:11 |
+| 44 | [Swallowing Everything](https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:54 |
+| 45 | [In Person](https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:06 |
 | 46 | [Bury Me](https://open.spotify.com/track/7JF5gAGflcwUyGwuejhBmk) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 4:31 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDBjY2NiNmQwMmY2MGRjZTkzMGRlNmYyZDIwZTI0NWI1MA==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAyZTI3OGVkMjkwODNlM2Y3MmY0ZDhmNTI5MjE4YThjZA==`

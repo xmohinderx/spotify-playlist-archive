@@ -4,12 +4,12 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-123 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
+124 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/0a8qLwuYjb3BzzgElxKw9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Case Of You \- Short Version](https://open.spotify.com/track/4pVnYnA1mTIccXsLLEKMyY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lounge Jazz](https://open.spotify.com/album/6rhfgujT6eCMrlnQay4T0C) | 7:36 | 2022-09-13 | 2022-09-27 |
-| [A Case Of You \- Short Version](https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Herbie Hancock: Hits & Rarities](https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY) | 7:36 | 2022-10-05 |  |
+| [A Case Of You \- Short Version](https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Herbie Hancock: Hits & Rarities](https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY) | 7:36 | 2022-10-05 | 2022-11-25 |
 | [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 | 2022-09-13 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Basie's Beatle Bag](https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE) | 4:22 | 2022-09-13 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Deborah Dixon](https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl) | [Sunday Morning](https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy) | 2:53 | 2022-09-13 |  |
@@ -29,6 +29,7 @@
 | [Bird On The Wire](https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 3:46 | 2022-10-13 |  |
 | [Blackbird](https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 4:59 | 2022-09-13 |  |
 | [Blackbird](https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:59 | 2022-09-13 |  |
+| [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 | 2022-11-24 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 | 2022-09-13 |  |
 | [Both Sides Now](https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Life's Love Songs](https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW) | 5:28 | 2022-09-13 |  |
 | [Both Sides Now](https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 7:38 | 2022-10-05 | 2022-10-11 |

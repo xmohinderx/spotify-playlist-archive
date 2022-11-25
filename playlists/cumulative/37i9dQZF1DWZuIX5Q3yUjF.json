@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Heartman",
+  "description": "Il meglio dell'R&B italiano. Cover: Martina May",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -41,6 +41,24 @@
       "duration_ms": 178032,
       "name": "2000 \u20ac",
       "url": "https://open.spotify.com/track/4M7xe51VhlPIjmsBnTuHvz"
+    },
+    {
+      "album": {
+        "name": "20121 VOLTE",
+        "url": "https://open.spotify.com/album/7syWfqu4j1ZO67lAphKKGC"
+      },
+      "artists": [
+        {
+          "name": "DAN7E",
+          "url": "https://open.spotify.com/artist/6CMtEmJeVq1mwVcZyBPY0f"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "20121 VOLTE",
+      "url": "https://open.spotify.com/track/2t1brPHjSrbI3EmYiaWYaQ"
     },
     {
       "album": {
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 151395,
       "name": "California",
       "url": "https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU"
@@ -874,6 +892,28 @@
     },
     {
       "album": {
+        "name": "Dipinto",
+        "url": "https://open.spotify.com/album/1jPwyUAnIKDd6OicV6BQRH"
+      },
+      "artists": [
+        {
+          "name": "CLARICE",
+          "url": "https://open.spotify.com/artist/3n8gcjmulraZzTPHH8sONK"
+        },
+        {
+          "name": "Commodo",
+          "url": "https://open.spotify.com/artist/3tdN1qijWdkKpbB2ofQCmo"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Dipinto",
+      "url": "https://open.spotify.com/track/7EyaNzozxk5KAXjXK9fv4c"
+    },
+    {
+      "album": {
         "name": "Coppa Martini",
         "url": "https://open.spotify.com/album/6P41Fu8o0MclS4ExYl6uUO"
       },
@@ -1328,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "TUCANO'S PARTY",
+        "url": "https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z"
+      },
+      "artists": [
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "Geisha",
+      "url": "https://open.spotify.com/track/3YvBbdZuOmbM2Q39B4lYbm"
+    },
+    {
+      "album": {
         "name": "Giorni che esplodono",
         "url": "https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx"
       },
@@ -1667,7 +1725,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 185842,
       "name": "Jeans Appeal",
       "url": "https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb"
@@ -1711,6 +1769,24 @@
       "duration_ms": 218566,
       "name": "Kat\u00e1basis",
       "url": "https://open.spotify.com/track/4oB1ITrhWrneUtt96y7eVZ"
+    },
+    {
+      "album": {
+        "name": "L'R&B IN ITALIA NON ESISTE",
+        "url": "https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg"
+      },
+      "artists": [
+        {
+          "name": "Martina May",
+          "url": "https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Kelly",
+      "url": "https://open.spotify.com/track/0J5rO7iKSFzzYfBLd0Xu86"
     },
     {
       "album": {
@@ -1787,6 +1863,24 @@
       "duration_ms": 208285,
       "name": "L'Italia e la Corsica",
       "url": "https://open.spotify.com/track/2KYs0wAMyb5uauCgkU6Ext"
+    },
+    {
+      "album": {
+        "name": "L'R&B IN ITALIA NON ESISTE",
+        "url": "https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg"
+      },
+      "artists": [
+        {
+          "name": "Martina May",
+          "url": "https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "L'R&B in Italia non esiste (Interlude)",
+      "url": "https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH"
     },
     {
       "album": {
@@ -1903,6 +1997,24 @@
       "duration_ms": 166109,
       "name": "Lacrime dolci",
       "url": "https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf"
+    },
+    {
+      "album": {
+        "name": "lady",
+        "url": "https://open.spotify.com/album/0W2Hl8EavczdDz8aDRf28d"
+      },
+      "artists": [
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193998,
+      "name": "lady",
+      "url": "https://open.spotify.com/track/7dyGck536nTt7BaGcEyOXJ"
     },
     {
       "album": {
@@ -2121,6 +2233,28 @@
       "duration_ms": 178434,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/0Ui2KA71Iq5GkXRBFdsRRz"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6kB1K9IzbiWjeqVOTazV1f"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "SANTO BLUE",
+          "url": "https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195014,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2oh3jT73AcCwKxaTXs5dRl"
     },
     {
       "album": {
@@ -3334,6 +3468,24 @@
     },
     {
       "album": {
+        "name": "Sesto Senso",
+        "url": "https://open.spotify.com/album/4HpWgfWsraglBZqtbpdIbO"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Sesto Senso",
+      "url": "https://open.spotify.com/track/402WgUURAGH1QY4QXUPX9j"
+    },
+    {
+      "album": {
         "name": "Settembre",
         "url": "https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC"
       },
@@ -3529,7 +3681,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 234000,
       "name": "Stavolta",
       "url": "https://open.spotify.com/track/0y9C4eT0lKJ0UWUtfrK6FR"

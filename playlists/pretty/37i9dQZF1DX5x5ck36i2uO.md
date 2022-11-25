@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,344 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,360 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 20 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
 | 21 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
 | 22 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
-| 23 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
-| 24 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
+| 23 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
+| 24 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
 | 25 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
 | 26 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 27 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 47 | [Rainy Day](https://open.spotify.com/track/6lmSfkbYSpI6zgLjzkZ4WS) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:58 |
 | 48 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 |
 | 49 | [Green Thumb](https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Green Thumb](https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV) | 3:05 |
-| 50 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
+| 50 | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [LOTTE DEPARTMENT STORE](https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h) | [Song For You Project, Vol\. 1: Mask Christmas \(with LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO) | 3:29 |
 
-Snapshot ID: `MTY2Nzk3OTU0NSwwMDAwMDAwMDNjNTk1YTlmZmVhNzUxN2I4MTExODIzMGY2ZWViYzIy`
+Snapshot ID: `MTY2Nzk3OTU0NSwwMDAwMDAwMDgxNTFmMDFhMDQ3NTlhYzgwNzMwZGUxZGI1ZTY0YTJj`

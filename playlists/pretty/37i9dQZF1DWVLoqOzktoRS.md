@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,562 likes - 63 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,571 likes - 63 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 16 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
 | 17 | [Suite Española No\. 1, Op\. 47: No\. 5, Asturias \(Leyenda\) \[Arranged by John Williams for Guitar\]](https://open.spotify.com/track/2u6GTNZF07O4mmFg8CZozY) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [John Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Albeniz: Granada; Asturias; Mallorca; Cordoba; Torre Bermeja; Cadiz; Zambra; Tango \- Sony Classical Masters](https://open.spotify.com/album/5lY62FNmxjms4v3OMTGFWl) | 6:12 |
 | 18 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 |
-| 19 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
-| 20 | [Marea Baja](https://open.spotify.com/track/0cmNd3qjbDcOpY0ePI7UB4) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:00 |
+| 19 | [Marea Baja](https://open.spotify.com/track/0cmNd3qjbDcOpY0ePI7UB4) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:00 |
+| 20 | [Morente Habichuela \- Alegrías](https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs) | [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh), [Javier Colina](https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW), [Bandolero](https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN) | [De Cerca](https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A) | 6:43 |
 | 21 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 22 | [Reflejo De Luna](https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Integral](https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E) | 3:54 |
 | 23 | [Summer Nursery Rhyme, No\. 2](https://open.spotify.com/track/6XHSHfCA5ddufMu34bDG4n) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Cascade Street](https://open.spotify.com/album/7ELV10HZC94beTCa9B7n6y) | 2:13 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 62 | [Tema llorón](https://open.spotify.com/track/7DS6x1F9gPR7m30s6kygfG) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Volver \(Banda Sonora Original\)](https://open.spotify.com/album/1sOwreBJafc3ZRLKrmJEnz) | 4:17 |
 | 63 | [Lovin' IT](https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [On The Road \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV) | 5:32 |
 
-Snapshot ID: `MTY2MzY3OTIwMCwwMDAwMDAwMGIzMjAyODg5ZGRjOTkxMzU2ZDhlZmIyNmMwNGUwZjg0`
+Snapshot ID: `MTY2MzY3OTIwMCwwMDAwMDAwMGE4M2RmOTVjNTYxNmFjZTQ4NzM2YzMxNjRiMGI5M2Iy`

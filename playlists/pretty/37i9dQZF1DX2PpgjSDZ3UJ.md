@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,991 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,010 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 31 | [Más Triste Que Shinji Ikari](https://open.spotify.com/track/5dUhsIOT08kRzJHgbD9Mxz) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Bellavista](https://open.spotify.com/album/307m411JDgwF4UW2NuEJ3g) | 3:14 |
 | 32 | [Clap Clap](https://open.spotify.com/track/4vUIReErgckFJjhncayvWI) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Las Montañas](https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj) | 3:45 |
 | 33 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
-| 34 | [Chico Pum](https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 3:06 |
-| 35 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
+| 34 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
+| 35 | [Chico Pum](https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 3:06 |
 | 36 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 37 | [Centro](https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:38 |
 | 38 | [Vigilantes del Espejo](https://open.spotify.com/track/6I3Og9oU3qNKMyjBBRsJKB) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 3:22 |
-| 39 | [Serenidad](https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs) | 3:28 |
-| 40 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 |
+| 39 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 |
+| 40 | [Serenidad](https://open.spotify.com/track/1bZwFCKn9tpefTvl6mQ6Xb) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/4iVFdQFYtLNTzmyxtqLVhs) | 3:28 |
 | 41 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
 | 42 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 43 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 45 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
 | 46 | [No Sentir Nada](https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [No Sentir Nada](https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3) | 3:44 |
 | 47 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 |
-| 48 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
-| 49 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
+| 48 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
+| 49 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
 | 50 | [y arderán](https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:16 |
 | 51 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
 | 52 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 68 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 |
 | 69 | [Cara De Idiota](https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Cara De Idiota](https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae) | 2:33 |
 | 70 | [Acción \- O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano](https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Acción \(O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano\)](https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj) | 4:08 |
-| 71 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
-| 72 | [Stuck on You](https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Too Bad](https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC) | 3:20 |
+| 71 | [Stuck on You](https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Too Bad](https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC) | 3:20 |
+| 72 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
 | 73 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
 | 74 | [Conversaciones](https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Conversations](https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng) | 3:17 |
 | 75 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 82 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
 | 83 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
 | 84 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
-| 85 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
-| 86 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
+| 85 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
+| 86 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
 | 87 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDkyY2QzZDdkYTRiZTY1YzhmNjVmNzY5OGIxMDIwZTg0`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDNjNjA5NGIyMGExNGMzZjU1N2UyM2RiZDg0OWVkODkw`

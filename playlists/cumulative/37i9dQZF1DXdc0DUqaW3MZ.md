@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-305 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+306 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Strong Womxn](https://open.spotify.com/track/1DIMNvFdsQKJRFkCHAzCTT) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Strong Womxn](https://open.spotify.com/album/6Vx1R4btosBieKQPbXORu2) | 3:02 | 2022-04-11 | 2022-05-07 |
 | [Suffer and Swim](https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Suffer and Swim](https://open.spotify.com/album/0jLL6liR4zMgct4YNhM391) | 3:28 | 2021-12-07 | 2022-07-29 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2022-04-11 |  |
-| [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 | 2022-01-14 |  |
+| [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-06-20 |  |
+| [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 | 2022-01-14 | 2022-11-25 |
 | [Sunrays](https://open.spotify.com/track/0SNrtp4SUxh6Bz6HDdHNzf) | [Tainsus](https://open.spotify.com/artist/26xZG1fqaCKjvOIkMS31BT) | [Sunrays](https://open.spotify.com/album/2nsDUp6iFUVQrPEGWiDoiE) | 2:52 | 2022-04-11 | 2022-04-19 |
 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 | 2022-06-20 |  |
 | [Super Good Times](https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T) | 3:41 | 2021-12-07 | 2022-07-29 |

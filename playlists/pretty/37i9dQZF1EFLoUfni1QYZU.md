@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 82 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 82 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 68 | [Torch](https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp) | [Isa Machine](https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rock The Kasbah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7) | 3:47 |
 | 69 | [Fingerprint](https://open.spotify.com/track/2Sk4yHsNXMvPL3Id92JSNA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:07 |
 | 70 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
-| 71 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
-| 72 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 71 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 72 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
 | 73 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
 | 74 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 |
 | 75 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 81 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 82 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc4MjA4NjEsMDAwMDAwMDAzZjI5ZjhhMDIwNDczMWJjMjhmMjZjMGViNDZhMDYzMA==`
+Snapshot ID: `Mjc4MjIzMDIsMDAwMDAwMDBiNjYyZjA4ZDM2ZTJkYzM4YjAxNTkxOGFmOGE5MTU5NA==`

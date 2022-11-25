@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,264 likes - 95 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,410 likes - 95 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 43 | [Honesty & Truth \- 10\-Minute Mix For Meditation & Massage](https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Spa Music: Tibet \(80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation\)](https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3) | 10:59 |
 | 44 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
 | 45 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
-| 46 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
-| 47 | [Garden of Peace](https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba) | [Philip Guyler](https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY) | [Holistic Relaxation](https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R) | 6:04 |
+| 46 | [Garden of Peace](https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba) | [Philip Guyler](https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY) | [Holistic Relaxation](https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R) | 6:04 |
+| 47 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
 | 48 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
 | 49 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
 | 50 | [The Hierophant](https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N) | 15:13 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 53 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
 | 54 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 |
 | 55 | [Moonlight Saptah](https://open.spotify.com/track/7Ewux0DybgmLssS2HtEfKt) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI) | [Bindu: Music for Yoga, Meditation & Healing](https://open.spotify.com/album/3bEQirFx4qGRFbNEns9fiz) | 9:41 |
-| 56 | [Oxygen Bar](https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe) | 5:31 |
-| 57 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
+| 56 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
+| 57 | [Oxygen Bar](https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe) | 5:31 |
 | 58 | [Barefoot](https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:07 |
 | 59 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
 | 60 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 84 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
 | 85 | [Light and Color](https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb) | [One Trybal](https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh) | [Yoga World Meditation Vol .1](https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h) | 4:34 |
 | 86 | [Singing Wire](https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY) | [\#Sereneyogaselection](https://open.spotify.com/album/4eeFNXX0zjGWU5c5edlzPw) | 6:58 |
-| 87 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
-| 88 | [Relaxation Music](https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt) | [Qi Gong Academy](https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN) | [Jardin Zen \- Musique Asiatique avec des Sons de la Nature](https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM) | 5:22 |
+| 87 | [Relaxation Music](https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt) | [Qi Gong Academy](https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN) | [Jardin Zen \- Musique Asiatique avec des Sons de la Nature](https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM) | 5:22 |
+| 88 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 89 | [Relaxing Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Indian Music for Relaxation – Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
 | 90 | [Charukeshi](https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI) | [Ambient](https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69) | [Meditation: Calming Music for the Mind](https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k) | 3:56 |
 | 91 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
 | 95 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 
-Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDIyYWFhYmI1OWE4NjE1ZTcwYzhhYTRkYTU5NWRlYTg0`
+Snapshot ID: `MTY2ODc4NzU4MywwMDAwMDAwMDk1YjFkOTZlNjJiMGI0YjI5ZDk5YjE1Nzg1OWJiZjlk`

@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 219239,
+  "num_followers": 219374,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNDUxMCwwMDAwMDAwMGFiMTg5YTZhYjIzMDBkODI4YmQ1N2UwNjJkMGQ4NGIw",
+  "snapshot_id": "MTY2NzgzNDUxMCwwMDAwMDAwMDVjYjRiYzQ0ZjU3MTkwNmU3MWFmMzM0NDEzZTY2NDU1",
   "tracks": [
     {
       "added_at": "2022-11-07 15:21:50",
@@ -399,6 +399,26 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 159357,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -451,22 +451,22 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 218865,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 218865,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "Sound from Africa",
         "url": "https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 152608,
       "name": "Tetema (feat. Diamond Platnumz)",
       "url": "https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 242442,
       "name": "GO",
       "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "When I See You",
-        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 159127,
-      "name": "When I See You",
-      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -2687,6 +2687,30 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
+        "name": "Ravin'",
+        "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Ravin'",
+      "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/5Tejq7aVDwDa2doHQNKqjU"
       },
@@ -2739,30 +2763,6 @@
       "duration_ms": 149369,
       "name": "Tunup (feat. Konshens & Bokoesam)",
       "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
-        "name": "Ravin'",
-        "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Ravin'",
-      "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -2923,42 +2923,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Quarantime: The Lost Files",
-        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
-      },
-      "artists": [
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Table For Two",
-      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 202111,
-      "name": "Lying If I Call It Love (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
       },
@@ -2983,6 +2947,42 @@
       "duration_ms": 156817,
       "name": "C'est Cuit (feat. Aya Nakamura & Swae Lee)",
       "url": "https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 202111,
+      "name": "Lying If I Call It Love (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "Quarantime: The Lost Files",
+        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
+      },
+      "artists": [
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -3183,6 +3183,30 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
+        "name": "Pamela",
+        "url": "https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE"
+      },
+      "artists": [
+        {
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
         "name": "Ghana Must Go",
         "url": "https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi"
       },
@@ -3207,30 +3231,6 @@
       "duration_ms": 180624,
       "name": "Curvy Waistline",
       "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
-        "name": "Pamela",
-        "url": "https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "ZieZie",
-          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0"
     },
     {
       "added_at": "2022-11-07 15:21:50",
@@ -3359,26 +3359,6 @@
     {
       "added_at": "2022-11-07 15:21:50",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2022-11-07 15:21:50",
-      "album": {
         "name": "Come Online (feat. King Promise & Diquenza) [Remix]",
         "url": "https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr"
       },
@@ -3407,6 +3387,26 @@
       "duration_ms": 156545,
       "name": "Come Online (feat. King Promise & Diquenza) - Remix",
       "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
+    },
+    {
+      "added_at": "2022-11-07 15:21:50",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
     },
     {
       "added_at": "2022-11-07 15:21:50",

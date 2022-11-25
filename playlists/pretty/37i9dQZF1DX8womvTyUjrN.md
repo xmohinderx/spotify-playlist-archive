@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,243 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,334 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 26 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 |
 | 27 | [La Equivocada](https://open.spotify.com/track/2VeyK1f5HRgNGNhn8MUvdf) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [XOXO](https://open.spotify.com/album/3UxgQmk5mb2G4zCFM4ScHH) | 3:18 |
 | 28 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 |
-| 29 | [Skapat](https://open.spotify.com/track/0iFLPu2hj9ROYDh3tzHIhr) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Skapat](https://open.spotify.com/album/4py1UOmRZJ7uUzgchzoeyC) | 2:42 |
-| 30 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 |
+| 29 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 |
+| 30 | [Skapat](https://open.spotify.com/track/0iFLPu2hj9ROYDh3tzHIhr) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Skapat](https://open.spotify.com/album/4py1UOmRZJ7uUzgchzoeyC) | 2:42 |
 | 31 | [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 |
 | 32 | [Eso Que Tenés](https://open.spotify.com/track/48Qj2SZJpEJ9ToXwcyJBhC) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Eso Que Tenés](https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ) | 2:44 |
 | 33 | [Telenovela](https://open.spotify.com/track/3WMRQ1kWWBpNV3hJFhqmhB) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Telenovela](https://open.spotify.com/album/7jrUStxYyNBOmz5ul1iGoC) | 2:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 42 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 |
 | 43 | [KATAN](https://open.spotify.com/track/52LzkfgpSfBvf3EF9Xfya0) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [KATAN](https://open.spotify.com/album/0QMamEWq0KIRemCbcaogcd) | 2:52 |
 | 44 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
-| 45 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 |
-| 46 | [Claramente](https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Claramente](https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6) | 2:51 |
+| 45 | [Claramente](https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Claramente](https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6) | 2:51 |
+| 46 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 |
 | 47 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 |
 | 48 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 |
 | 49 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 |
 | 50 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
 
-Snapshot ID: `MTY2Njk1NjUzNiwwMDAwMDAwMGJkOWNjYjMzN2Q1Y2Q1NjEyMGE0M2RhYWY2ZTJiNWEx`
+Snapshot ID: `MTY2Njk1NjUzNiwwMDAwMDAwMGI4NzA3NTQwZjUzYTk0YjQwNTdjYjE2MjdlNWFiNTMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,603 likes - 101 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,739 likes - 101 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 12 | [Getting It Right](https://open.spotify.com/track/7zNFIqmdezDsHbvyQz86Gd) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 2:50 |
 | 13 | [Rubberband Man](https://open.spotify.com/track/7Aj4lvqrOA29OVHLnTlRwQ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 2:30 |
 | 14 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
-| 15 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
+| 15 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
 | 16 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 17 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 18 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 100 | [Friends I Barely Know](https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 2:59 |
 | 101 | [Playground](https://open.spotify.com/track/5zuOIckVgtIj4azwZ8OQrO) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 4:09 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDA2ODQ1NDIxZWUxOGU0MzM4ZGY5MTg5YWM4YjM5OWZi`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGI4ZTIwZDlkODYyZGVhNWE5OWIyYWU4MjM1NThiZmRj`

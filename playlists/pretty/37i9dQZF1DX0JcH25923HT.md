@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,057 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,800 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 73 | [Es Mejor](https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Flakk Daniel's Lp](https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX) | 2:59 |
 | 74 | [Condenado Para El Millón](https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:42 |
 | 75 | [Dillom: Bzrp Music Sessions, Vol\. 9](https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Dillom: Bzrp Music Sessions, Vol\. 9](https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB) | 2:31 |
-| 76 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
-| 77 | [Condiciones](https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Condiciones](https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY) | 3:15 |
+| 76 | [Condiciones](https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Condiciones](https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY) | 3:15 |
+| 77 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
 | 78 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 79 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 80 | [Não Me Sinto Mal Mais](https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
 | 100 | [Hennessy](https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:04 |
 
-Snapshot ID: `MTY1NDcxMjgyOSwwMDAwMDAwMDk4MGM0MTM5NTUxNzFlY2MwNGY5M2Y1NmJkMWI0MDQz`
+Snapshot ID: `MTY1NDcxMjgyOSwwMDAwMDAwMDY1NzI1YjI2NTZmMzNkZGZlM2NjZWFjNGQxZjA2OTk3`

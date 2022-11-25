@@ -239,10 +239,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 134193,
       "name": "Again",
       "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2VPnkehP5dgUJ2UDaQswKO"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134234,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
     },
     {
       "album": {
@@ -1059,10 +1077,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 187402,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU"
+    },
+    {
+      "album": {
+        "name": "Hoods Hottest",
+        "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
+      },
+      "artists": [
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "Hoods Hottest",
+      "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
     },
     {
       "album": {
@@ -1261,10 +1297,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/30CXaXM9pfJKYtTZ2kV7T1"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97477,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
     },
     {
       "album": {
@@ -1496,7 +1550,7 @@
       "artists": [
         {
           "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "url": "https://open.spotify.com/artist/52iJWJJfz31W1mLZ9gXmt5"
         }
       ],
       "date_added": "2022-04-05",
@@ -1573,10 +1627,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
+    },
+    {
+      "album": {
+        "name": "My Girl (Gemini)",
+        "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153089,
+      "name": "My Girl (Gemini)",
+      "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
     },
     {
       "album": {
@@ -2293,6 +2365,24 @@
     {
       "album": {
         "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203128,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
+    },
+    {
+      "album": {
+        "name": "Two Years Clear",
         "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
       },
       "artists": [
@@ -2303,7 +2393,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 205053,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"

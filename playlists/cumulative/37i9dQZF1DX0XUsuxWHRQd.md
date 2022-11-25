@@ -4,7 +4,7 @@
 
 > New music from Roddy Ricch, Don Toliver and Gucci Mane.
 
-1,436 songs - 3 day 1 hr 55 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,437 songs - 3 day 2 hr 0 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1413,6 +1413,7 @@
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2020-09-04 | 2020-12-04 |
 | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb) | 3:38 | 2019-08-16 | 2019-09-27 |
 | [Woodlawn](https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:23 | 2020-08-07 | 2020-08-14 |
+| [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 | 2022-11-24 |  |
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 | 2022-04-29 |
 | [Worth It](https://open.spotify.com/track/4XiGKQqbmnMVxDzUj6j3f2) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Worth It](https://open.spotify.com/album/6xxdRevqix78TFbWJpO2AO) | 3:09 | 2019-06-21 | 2019-08-13 |
 | [Wow\. \- Remix](https://open.spotify.com/track/3IKRHd9ihUdGffgz4Mbgv0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/3VEFGAVtQp8eHzVdvL5aGK) | 2:50 | 2019-05-26\* | 2019-06-15 |

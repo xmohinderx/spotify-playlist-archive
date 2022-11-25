@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,756 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,887 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 62 | [Al\-Naafyish \- Time](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
 | 63 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
 | 64 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
-| 65 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
-| 66 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
+| 65 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
+| 66 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 | 67 | [Subway Theme](https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ) | [Grand Wizard Theodore](https://open.spotify.com/artist/2zrfhl1NJWRE8SbDu4ekfI) | [Wild Style \(Original Motion Picture Soundtrack \- 25th Anniversary Edition\)](https://open.spotify.com/album/2e1cehaMUqiMtNp5S4fSUJ) | 2:53 |
 | 68 | [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 |
 | 69 | [Strong Island](https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR) | [JVC Force](https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw) | [Doin' Damage](https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK) | 5:59 |
 | 70 | [Jam On Revenge \(The Wikki Wikki Song\)](https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:35 |
 
-Snapshot ID: `MTY2OTAzMzQ5MiwwMDAwMDAwMDAwOGIyZTFmMGVlYjMzMTgxYzlkYjVmYWFiZjNhMmIy`
+Snapshot ID: `MTY2OTAzMzQ5MiwwMDAwMDAwMGVlNDBjMThjM2MxMTZlYWE4MzU2ZWMwYjMyZGZkNGQ2`

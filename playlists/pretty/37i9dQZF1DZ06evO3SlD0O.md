@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,985 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,999 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 9 | [Destapé Otra Botella](https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 3:05 |
 | 10 | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:39 |
 | 11 | [Anoche Estuve Llorando](https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:14 |
-| 12 | [Arrastrando La Cobija](https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 3:06 |
-| 13 | [Apartamento Tres](https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:40 |
+| 12 | [Apartamento Tres](https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:40 |
+| 13 | [Arrastrando La Cobija](https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 3:06 |
 | 14 | [La Burra Tuerta](https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:36 |
 | 15 | [Ven](https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Como Decirte](https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy) | 2:48 |
 | 16 | [Palabras Tristes](https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [La Tabla del Uno \- En Vivo](https://open.spotify.com/track/2ca21NmVvhjRTNJOOpdOYL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:26 |
 | 50 | [Ay Amigo!](https://open.spotify.com/track/0LR71IkOpwAt2wxYlSiFD0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Eliseo Robles Jr.](https://open.spotify.com/artist/024sMKXZ3Vd1br0b1LGyTI) | [De Festejo](https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1) | 2:54 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDAxYTljMTc4N2Q5MjdmNTEzNjA1MjkyODU1Zjg4MWFjNQ==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAwOGI0M2EwMGY5NjVkMWVlYmNjNDExOTkxZDdmNDVmZg==`

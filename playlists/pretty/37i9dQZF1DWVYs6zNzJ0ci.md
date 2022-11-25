@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,828 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,142 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 63 | [A Los Ojos](https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:06 |
 | 64 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |
 | 65 | [Mucha Experiencia \- Su Reggaeton Mix](https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Pericos & Friends \(Extended\)](https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY) | 3:15 |
-| 66 | [Ilegal \- En Vivo](https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:16 |
-| 67 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
+| 66 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
+| 67 | [Ilegal \- En Vivo](https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:16 |
 | 68 | [Kultura Babylon](https://open.spotify.com/track/7vKxkgvw31YjVgEiabyXZa) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kultura Babylon](https://open.spotify.com/album/0DZ7bLQzuop71o90CTkueo) | 3:58 |
 | 69 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 |
 | 70 | [Keep The Fyah Burning](https://open.spotify.com/track/1Rp41EZvGAym6wLzj7QgRY) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Brinsley Forde](https://open.spotify.com/artist/63qBcGs26phTxIJUhgOWB8), [Flabba Holt](https://open.spotify.com/artist/5utMO0rlmzSsVIEIQEm9Tl) | [Keep The Fyah Burning](https://open.spotify.com/album/5d8pv82S8cNEp4jXwhejxm) | 4:16 |
 | 71 | [Tú](https://open.spotify.com/track/085cxMAY91of46MYke5OQK) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/6e2HWh7tBqocDo2QLW04Sx) | 4:18 |
 | 72 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
 | 73 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
-| 74 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
-| 75 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
+| 74 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
+| 75 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
 | 76 | [Entre Sombras](https://open.spotify.com/track/5yWVQBSbHJRwQ0TBBuvSRY) | [Killah Man](https://open.spotify.com/artist/4P2v08fHwV1eqMrDsBOw0W), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM) | [Entre Sombras](https://open.spotify.com/album/1nNKsMJWo80HyYbg6rKIob) | 3:18 |
 | 77 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 78 | [Eu Quero Tudo](https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Eu Quero Tudo](https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 100 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDk5MmIxMmRkZjhmZTYzZjM3OGFjMTU0OTgwMmMzOTQz`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGIyYTM1ZjJlYzc3NzkwMzljMzg1MzIzNjNiOWNmNjll`

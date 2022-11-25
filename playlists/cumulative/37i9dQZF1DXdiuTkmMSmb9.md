@@ -2,9 +2,9 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Wizkid
+> Tropical jams to catch a vibe and whine to\. Cover: Big Skeez
 
-192 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+195 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-09-08 |  |
 | [Masala](https://open.spotify.com/track/01edOubcjFt0LAqJtwaG93) | [hummerhummer](https://open.spotify.com/artist/77MBNlDseOmqVvt840PCbZ), [Kash goodluck](https://open.spotify.com/artist/5VUdAGVfx1EPyVi5QvT9xa) | [The Prelude \(Gwanga Mujje\)](https://open.spotify.com/album/331rvKR8ffkyjMXt1oD52X) | 3:00 | 2022-07-18 | 2022-10-28 |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-07-18 | 2022-08-26 |
+| [Mercy](https://open.spotify.com/track/4NsFzoTE4XdXpnjETfQLMZ) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9), [Aymix](https://open.spotify.com/artist/3KovTlzUIWFOB8yQ4xBILr) | [WORTH THE WAIT](https://open.spotify.com/album/64aXLGJFmgrjZuZIKGskJ2) | 3:06 | 2022-11-24 |  |
 | [MERLOT](https://open.spotify.com/track/4mPW13e8qf7nCRIcEus6oK) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [MERLOT](https://open.spotify.com/album/1RRLb4HprP0YH3YNvmopB9) | 2:52 | 2022-09-05 | 2022-09-09 |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2022-08-25 | 2022-09-09 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-07-18 |  |
@@ -118,6 +119,7 @@
 | [My Lil Dancer](https://open.spotify.com/track/4eKr7ZffDd4SigyNaKCkr3) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [My Lil Dancer](https://open.spotify.com/album/2R92f2ua8bB6XZ81BoUZX0) | 2:25 | 2022-09-08 |  |
 | [My Lil Dancer](https://open.spotify.com/track/69EkBoYuLneOkFTJ1AyUgd) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [My Lil Dancer](https://open.spotify.com/album/27Yt0uaMAKusbnwvS7dzlx) | 2:25 | 2022-07-18 | 2022-08-26 |
 | [My Mind](https://open.spotify.com/track/3k3SG1f3RYeizBlIFo6CGl) | [Partyateleven](https://open.spotify.com/artist/6YhLewrpSbbjRPCvIvbM78), [Currency Baba](https://open.spotify.com/artist/7JgiEeISnfcOnekgSUrmW5) | [My Mind](https://open.spotify.com/album/6fPgzlV7BpA1retsHVDa5I) | 4:06 | 2022-07-18 | 2022-10-28 |
+| [Need You](https://open.spotify.com/track/6p0u1dLtzN6F2N0pPhP2JC) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 3:17 | 2022-11-24 |  |
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-07-18 |  |
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-07-18 | 2022-10-28 |
 | [NJ \(Freestyle\)](https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [NJ \(Freestyle\)](https://open.spotify.com/album/0bYdUoADyRkjmrp95lfWrj) | 1:52 | 2022-07-18 |  |
@@ -196,6 +198,7 @@
 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 | 2022-07-28 |  |
 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 | 2022-07-18 |  |
 | [woman](https://open.spotify.com/track/3AUW4YqukPw4YfBV1ZkkNe) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [woman](https://open.spotify.com/album/3PLwZChArK9UempZmyhGul) | 2:48 | 2022-07-18 | 2022-10-28 |
+| [Work Don't Stop](https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Work Don't Stop](https://open.spotify.com/album/137773lEIYB4FGzzQ00xgp) | 3:20 | 2022-11-24 |  |
 | [Worth It](https://open.spotify.com/track/4xxiRFjPWMpOdblDBM4QBW) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9), [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Twisted Love Fantasy](https://open.spotify.com/album/74WnB2zW5Q3EzqG8CbYMPZ) | 3:32 | 2022-07-18 | 2022-08-26 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-08 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-08 |  |

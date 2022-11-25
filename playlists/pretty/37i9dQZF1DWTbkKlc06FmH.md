@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,208 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,343 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 8 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 |
 | 9 | [S.O.L](https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [BIB10](https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7) | 5:51 |
 | 10 | [Back To You](https://open.spotify.com/track/7JOQU9emKpGgvcpKbOsvuy) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Back To You](https://open.spotify.com/album/5XnRUJSX2KwP5ijkterivr) | 3:28 |
-| 11 | [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 |
+| 11 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 |
 | 12 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 |
 | 13 | [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 |
 | 14 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 61 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 |
 | 62 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 |
 | 63 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 |
-| 64 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
-| 65 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 |
-| 66 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
-| 67 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
-| 68 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
+| 64 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 |
+| 65 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
+| 66 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 |
+| 67 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
+| 68 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 69 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 |
 | 70 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
 | 71 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 79 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 80 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 
-Snapshot ID: `MTY2OTE5OTY3NiwwMDAwMDAwMGYzYTUyOTYxNzM4ODU0YzdjYTczOWMwYmQ5YjJkOTU4`
+Snapshot ID: `MTY2OTMwMjAwMCwwMDAwMDAwMGNlZTEzNGExZjUxMmZiZDMzNTBmODgxYzcyMDkxODll`

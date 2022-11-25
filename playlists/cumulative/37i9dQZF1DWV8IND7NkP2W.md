@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-522 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+524 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Era Of The Moon](https://open.spotify.com/track/1YcNZwfYySIw01GYKvIFM9) | [Doubutsu System](https://open.spotify.com/artist/1rZhGbtNcaBkLQ9eRNcyd1) | [Era Of The Moon](https://open.spotify.com/album/5XUQttdJ0Z9UXrQbYzohfF) | 1:48 | 2021-12-23 | 2022-07-24 |
 | [Escape](https://open.spotify.com/track/7bo4r7W8iraamCHCwlQTDi) | [Prod by Rose](https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Escape](https://open.spotify.com/album/6pDhysQmEoso3qhhlTqHsi) | 2:55 | 2022-01-13 | 2022-07-20 |
 | [evening](https://open.spotify.com/track/5DEhdsysvAgKaEse1YMDYa) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [evening](https://open.spotify.com/album/3iBvFy0IMlwBQXzxL07oCC) | 3:22 | 2021-12-23 | 2022-07-27 |
+| [EVENING](https://open.spotify.com/track/0qjSPCsAMCdMRvU1zxGSuR) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [EVENING](https://open.spotify.com/album/7gmVOnPkeBmdr3XEi9w9R3) | 2:52 | 2022-11-24 |  |
 | [Evening Stroll in Shibuya](https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Evening Stroll in Shibuya](https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz) | 2:50 | 2021-12-23 | 2022-07-26 |
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 |  |
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 |  |
@@ -514,14 +515,15 @@
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-23 |  |
 | [Windshield Wiper](https://open.spotify.com/track/5w8T6jJQ9ikTxyOVXUDpeS) | [Bunen](https://open.spotify.com/artist/0qB2un7FwMyJARnEvG48Kh), [Ohm Guru](https://open.spotify.com/artist/7GD1ahbgKEcQkS2qIvwwKY) | [Boredom Empire](https://open.spotify.com/album/5NFcbg1dhDWtUpVfjSF5BM) | 2:56 | 2022-03-24 | 2022-04-17 |
 | [wooden piano](https://open.spotify.com/track/3Q6atcj3iYHcmWSS0ZYV8c) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [wooden piano](https://open.spotify.com/album/2qqqbBh9kX1Q93Zgk9B30Y) | 1:20 | 2021-12-23 | 2022-06-26 |
-| [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 |  |
+| [wooden piano](https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [wooden piano](https://open.spotify.com/album/5hwhvjxUQrZslxfCpduJZq) | 1:20 | 2022-10-20 | 2022-11-25 |
 | [XO](https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F) | [Botsfuneral](https://open.spotify.com/artist/4p5E4RsC9ZcUkyoK5j2Jx0) | [XO](https://open.spotify.com/album/4GbRETxpxr4bikdN7bj5HN) | 1:58 | 2021-12-23 | 2022-01-16 |
 | [Yarden](https://open.spotify.com/track/4Y2ks8t6QoaWGQaFVrrlug) | [MADLISK](https://open.spotify.com/artist/2tWCWZuRGn0nAE8l8r4H8h) | [Yarden](https://open.spotify.com/album/31keasWCyoW2vJKMoccCh4) | 2:00 | 2022-01-06 | 2022-07-27 |
 | [Yoake](https://open.spotify.com/track/3wvp4cZcmltC12kVjxYh42) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [synfilums](https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi), [Toma Itoko](https://open.spotify.com/artist/6EWRrTJig48jwlvwNUPCL4) | [Yoake](https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc) | 2:52 | 2021-12-23 | 2022-07-29 |
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
-| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 |  |
+| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2022-11-25 |
+| [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 |  |
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |

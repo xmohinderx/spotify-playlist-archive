@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,039 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,198 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 33 | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Admit It \(feat\. 24kGoldn\)](https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO) | 2:53 |
 | 34 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 |
 | 35 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 |
-| 36 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
-| 37 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
+| 36 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
+| 37 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
 | 38 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 |
 | 39 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 | 40 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 55 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 56 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 |
 | 57 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 |
-| 58 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 |
-| 59 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 |
+| 58 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 |
+| 59 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 |
 | 60 | [I Love You.](https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Love You.](https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9) | 4:06 |
 | 61 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 |
 | 62 | [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [enough](https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [enough](https://open.spotify.com/album/6NBSOdNlc2dhzHrHttMUhw) | 2:38 |
 | 100 | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDVmYjE1MTNmZjk0NDdjYWQyZDNjMjA2YmUxYjg3MGU2`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDE2NjAyNTBiY2Y1NzcxNjRjMTUyNmI0ZjU5NGUwMzNm`

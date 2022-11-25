@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,819 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Bourbon, One Scotch, One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 |
-| 2 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
-| 3 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
+| 2 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
+| 3 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
 | 4 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 |
 | 5 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 |
 | 6 | [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 29 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 |
 | 30 | [The Sun Is Shining](https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:43 |
 | 31 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 |
-| 32 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
-| 33 | [I Love The Woman](https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Freddy King Sings](https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs) | 2:48 |
+| 32 | [I Love The Woman](https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Freddy King Sings](https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs) | 2:48 |
+| 33 | [Herbert Harper's Free Press News](https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [Black Midnight Sun \(feat\. Bill Laswell & Jerome "Bigfoot" Brailey\)](https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo) | 5:22 |
 | 34 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 4:32 |
 | 35 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 |
 | 36 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 58 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 |
 | 59 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 |
 | 60 | [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 |
-| 61 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
-| 62 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
+| 61 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
+| 62 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
 | 63 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
 | 64 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
 | 65 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMGU4ZjIxYWI0NGNkYzg0ZGIyOWZjNTlmODlmMzk2Yjdi`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDJjNWEzODY4ZTgxNjgyOTQ0ZDdiY2IxNjZkMTBlOWM3`

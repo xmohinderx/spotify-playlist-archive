@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 87148,
+  "num_followers": 87233,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDg3OTA3MWYwYmJjYTE5M2Y5MDJmYjA2YTNkN2FlODA5",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDJhNTJjYzUyNWZmZWI1YTAyNjVjYzZjOTQzNGU0ZmY2",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
         {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     }
   ],
   "unique_name": "Tra Amiche",

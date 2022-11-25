@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen con Elis Paprika en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,493 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,490 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

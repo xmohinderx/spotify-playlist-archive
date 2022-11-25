@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 138128,
+  "num_followers": 138236,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA0MDU4NiwwMDAwMDAwMDE1NDgwNjU1ODU4N2U1NjZiNDQ1Y2ZmMjk4YzM3YjMy",
+  "snapshot_id": "MTY2OTA0MDU4NiwwMDAwMDAwMGE5M2I0ZDJiOGI2ZDQ5ZTExYTcyY2NmZWZlMDlhMGFl",
   "tracks": [
     {
       "added_at": "2022-11-14 04:13:44",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-14 04:13:44",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2022-11-14 04:13:44",
-      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 181140,
       "name": "Feels",
       "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2022-11-14 04:13:44",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2022-11-14 04:13:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-11-14 04:13:44",
       "album": {
-        "name": "Want U Bad",
-        "url": "https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Want U Bad",
-      "url": "https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB"
-    },
-    {
-      "added_at": "2022-11-14 04:13:44",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2022-11-14 04:13:44",
+      "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB"
     },
     {
       "added_at": "2022-11-14 04:13:44",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-14 04:13:44",
       "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
+    },
+    {
+      "added_at": "2022-11-14 04:13:44",
+      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-11-14 04:13:44",
-      "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2022-11-14 04:13:44",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-14 04:13:44",
       "album": {
-        "name": "Blinded",
-        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
-    },
-    {
-      "added_at": "2022-11-14 04:13:44",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2022-11-14 04:13:44",
+      "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
     },
     {
       "added_at": "2022-11-14 04:13:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-14 04:13:44",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
-    },
-    {
-      "added_at": "2022-11-14 04:13:44",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-11-14 04:13:44",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
     },
     {
       "added_at": "2022-11-14 04:13:44",

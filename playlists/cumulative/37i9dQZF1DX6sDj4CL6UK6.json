@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde"
+      },
+      "artists": [
+        {
+          "name": "Taarini",
+          "url": "https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191572,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A"
+    },
+    {
+      "album": {
         "name": "Have You Been Told",
         "url": "https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,026 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,093 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 17 | [Orfeo en los Tambores](https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Tino Contreras](https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2) | 2:48 |
 | 18 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 |
 | 19 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
-| 20 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
-| 21 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
+| 20 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
+| 21 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 |
 | 22 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
 | 23 | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [Razón de Vivir \(Desde Casa\)](https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz) | 4:14 |
 | 24 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:40 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 39 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
 | 40 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
 | 41 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 |
-| 42 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
-| 43 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
+| 42 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
+| 43 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 44 | [Orbita 13](https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Musica Infinita](https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ) | 4:43 |
 | 45 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 46 | [Humanidad](https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA) | [Leo Acosta y Su Orquesta](https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr) | [Leo Acosta](https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX) | 2:33 |
-| 47 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 47 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
 | 48 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
-| 49 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
-| 50 | [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 |
+| 49 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 50 | [Valor De Volar](https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Vientos Del Norte](https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg) | 3:56 |
 
-Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDMzYzQ3YmVhZmM2Mjk3NDE4MzQ2YmRjODViZTNjNWQw`
+Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDczYzUyZTUzNmVjNWM2ZmM3MjQ0NWZlYzYxMGIyYWVi`

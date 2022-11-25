@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,774 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,787 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 34 | [Fantasías Animadas de Ayer y Hoy](https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 2:11 |
 | 35 | [Discojapi](https://open.spotify.com/track/6mevK2IlIU5rmvkfqxCFWT) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 4:08 |
 | 36 | [Don´t Dream It´s Over](https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Don´t Dream It´s Over](https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU) | 4:18 |
-| 37 | [Abejas En La Miel](https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Abejas En La Miel](https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0) | 3:45 |
-| 38 | [La Libertad Absoluta y el Terror](https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Victoria](https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV) | 4:19 |
+| 37 | [La Libertad Absoluta y el Terror](https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Victoria](https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV) | 4:19 |
+| 38 | [Abejas En La Miel](https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Abejas En La Miel](https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0) | 3:45 |
 | 39 | [Círculo](https://open.spotify.com/track/74BEycFqYrZTg8vFOj1iEU) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [Canto a Lo Brujo](https://open.spotify.com/album/1Quy87yIayfMxKeD6FpbfJ) | 4:51 |
 | 40 | [Casualidades](https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 3:19 |
 | 41 | [Milagro](https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Milagro](https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L) | 3:33 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 88 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 |
 | 89 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 |
 | 90 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
-| 91 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
+| 91 | [Música de Fondo](https://open.spotify.com/track/0KoBS9IJFn9USaHK6dbgch) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Música de Fondo](https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5) | 3:26 |
 | 92 | [Libido](https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm) | [María Tyrana](https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu) | [Libido](https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr) | 2:55 |
-| 93 | [Música de Fondo](https://open.spotify.com/track/0KoBS9IJFn9USaHK6dbgch) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Música de Fondo](https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5) | 3:26 |
+| 93 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
 | 94 | [Dispárame](https://open.spotify.com/track/1HoAtTDd5RLmg7Cxrpqado) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ) | [Era Luz](https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5) | 3:46 |
 | 95 | [Lo Que Hemos Dejado](https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lo Que Hemos Dejado](https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft) | 3:51 |
-| 96 | [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 |
-| 97 | [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 |
+| 96 | [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 |
+| 97 | [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 |
 | 98 | [93](https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [93](https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z) | 2:49 |
-| 99 | [Lo Que Haces](https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Uno](https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi) | 3:52 |
-| 100 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 |
+| 99 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 |
+| 100 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDc4NWFkMGMzNTk3ZjRmOTM4YThkNTFjMmM2ZmZjZjgy`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDlkMjQzZWRlNzJmY2RkNWZlZGZiYzllY2E2ZTQ4ZDQz`

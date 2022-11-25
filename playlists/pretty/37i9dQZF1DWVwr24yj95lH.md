@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Seether
+> The best Grunge heirs' songs\. Cover: Staind
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,838 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,192 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 48 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 49 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
 | 50 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
-| 51 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
-| 52 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
+| 51 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
+| 52 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
 | 53 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
 | 54 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
 | 55 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
@@ -82,31 +82,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 72 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |
 | 73 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
 | 74 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
-| 75 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
-| 76 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
+| 75 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
+| 76 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 77 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
-| 78 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
-| 79 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
+| 78 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
+| 79 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
 | 80 | [Rapture](https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub) | [Hurt](https://open.spotify.com/artist/3jnoH2xrhvxUgeN2rrudHL) | [Vol\. 1](https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h) | 5:40 |
 | 81 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 |
 | 82 | [The Otherside](https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 3:36 |
 | 83 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
 | 84 | [Welcome To The Fold](https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 7:40 |
-| 85 | [Ashtray](https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:56 |
-| 86 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
+| 85 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
+| 86 | [Ashtray](https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:56 |
 | 87 | [Flowers On A Grave](https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:45 |
 | 88 | [Gone Away \(A Song For Starr\)](https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:14 |
 | 89 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
 | 90 | [So Far so Good](https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn) | [Thornley](https://open.spotify.com/artist/2GuMOJNCLkYdDGfgbJMP3v) | [Come Again](https://open.spotify.com/album/3rwSoS50vbg8oiz5YxbW09) | 3:21 |
 | 91 | [Die Born](https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New \(Red Album\)](https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP) | 3:56 |
 | 92 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
-| 93 | [Chew Me Up \(feat\. Terrible Johnny\)](https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [Introvert](https://open.spotify.com/album/1UB0WV9UwC1xaQY95c5md6) | 3:39 |
-| 94 | [Just Go](https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:50 |
+| 93 | [Just Go](https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:50 |
+| 94 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
 | 95 | [No One](https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [13 Ways To Bleed Onstage](https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn) | 3:17 |
-| 96 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 |
-| 97 | [Don't Wake Me](https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Not The Same](https://open.spotify.com/album/5IUoKMmB607UsJmfzKhAhh) | 3:27 |
-| 98 | [Not An Addict](https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr) | [K's Choice](https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv) | [10: 1993\-2003 \- Ten Years of K's Choice](https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2) | 4:48 |
-| 99 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
-| 100 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
+| 96 | [Don't Wake Me](https://open.spotify.com/track/13heJXQpJsfROWJpNR22e0) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Not The Same](https://open.spotify.com/album/5IUoKMmB607UsJmfzKhAhh) | 3:27 |
+| 97 | [Not An Addict](https://open.spotify.com/track/38TozZBUSqO5HA4ya6OxZr) | [K's Choice](https://open.spotify.com/artist/1lO13Grp3I1AsIbcACRWvv) | [10: 1993\-2003 \- Ten Years of K's Choice](https://open.spotify.com/album/7u5VdkpJuSXEWxNq4PdXJ2) | 4:48 |
+| 98 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
+| 99 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
+| 100 | [Golden](https://open.spotify.com/track/6xDjH0ixZLfT8p6jSp0rkJ) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Feel This](https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty) | 3:57 |
 
-Snapshot ID: `MTY2ODYxMDMzNSwwMDAwMDAwMDFiMDdhMzQ1N2UxYmQyMzE4ZDYwYmYxYmY5YjU3OWU1`
+Snapshot ID: `MTY2OTMxNzk5NCwwMDAwMDAwMDY2ZDY0ZmUxN2M3ZTc4MGY4MTFiNTQ2MTMwZTg2Mzk3`

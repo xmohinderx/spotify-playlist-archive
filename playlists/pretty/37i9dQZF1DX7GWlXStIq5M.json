@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118197,
+  "num_followers": 118192,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDQyNTU3MmUxOTVhNDljZGIxNDQwMDhlNWNlYTljZDlk",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGRhZGI2ZGUzMTIyNjZmMjQyZjM2N2E1NTkyNzczOWZk",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 242180,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 201600,
       "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
       "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 242180,
-      "name": "Righteous",
-      "url": "https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -695,26 +695,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Bandit (with YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 189322,
-      "name": "Bandit (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Bandit (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 189322,
+      "name": "Bandit (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -951,6 +951,26 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "Certified Hitmaker",
+        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Stuck In A Dream (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Certified Hitmaker",
-        "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 123560,
-      "name": "Stuck In A Dream (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Kallidade",
-        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Kallidade",
-      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 225923,
       "name": "Hot Shower",
       "url": "https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Kallidade",
+        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Kallidade",
+      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
     },
     {
       "added_at": "2020-10-20 20:23:39",

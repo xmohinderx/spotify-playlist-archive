@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
-  "num_followers": 170734,
+  "num_followers": 170881,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MDg1MiwwMDAwMDAwMDdmNGVlZGI3NzI3MjBmMjYxMjE5ZjI1MTcyNDZkOTVh",
+  "snapshot_id": "MTY2ODc3MDg1MiwwMDAwMDAwMDZmYzAxOWI0YzgxZmI5YjI3Y2MzMzZiOTNlYjRkMmU1",
   "tracks": [
     {
       "added_at": "2022-10-28 12:40:45",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
     },
     {
-      "added_at": "2022-11-24 01:20:59",
+      "added_at": "2022-11-25 01:17:35",
       "album": {
         "name": "Love Station",
         "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
-      "added_at": "2022-11-24 01:20:59",
+      "added_at": "2022-11-25 01:17:35",
       "album": {
         "name": "Asiwaju",
         "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
@@ -1001,38 +1001,6 @@
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2022-08-22 17:00:00",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Antidote (feat. Adekunle Gold)",
@@ -1051,6 +1019,38 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-08-22 17:00:00",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+    },
+    {
+      "added_at": "2022-02-24 23:00:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2022-07-28 23:00:00",

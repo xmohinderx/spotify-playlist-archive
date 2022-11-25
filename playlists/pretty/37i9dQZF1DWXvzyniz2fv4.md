@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,860 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,109 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

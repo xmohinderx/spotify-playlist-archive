@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,464 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,579 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 61 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 62 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
 | 63 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
-| 64 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
+| 64 | [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 |
 | 65 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
-| 66 | [King](https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [King](https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ) | 3:12 |
+| 66 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
 | 67 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 68 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 | 69 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 82 | [Cinema Love](https://open.spotify.com/track/28yYvFeocTDYzao76YVB75) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7) | 3:48 |
 | 83 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 | 84 | [As We Are Now](https://open.spotify.com/track/0auccbirOSgf38celsAEJA) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Young Blood EP](https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi) | 2:37 |
-| 85 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 |
-| 86 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
-| 87 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
+| 85 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
+| 86 | [West Coast](https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [West Coast](https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6) | 4:11 |
+| 87 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 |
 | 88 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 |
 | 89 | [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 |
 | 90 | [Hollow](https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow](https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7) | 3:38 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 94 | [Fountain Of Youth](https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:53 |
 | 95 | [Help Me to Feel Again](https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/656dTune8st7zgtyUljuGH) | 4:22 |
 | 96 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 |
-| 97 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
-| 98 | [Method to the Madness](https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:33 |
+| 97 | [Method to the Madness](https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:33 |
+| 98 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
 | 99 | [Nothing Personal](https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:26 |
 | 100 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 | 101 | [Come Follow Me Down](https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Come Follow Me Down](https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn) | 3:12 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 106 | [Vagabonds](https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Waking Up The Giants](https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI) | 3:19 |
 | 107 | [Dead Century](https://open.spotify.com/track/1PBe6S0vnjl6patUrlKeAP) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Age Of Everything](https://open.spotify.com/album/6UgPtnHxknhli434khaImD) | 3:24 |
 | 108 | [Here's To Moving On](https://open.spotify.com/track/0GCngfjdoIbBBPisYkv3Y3) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [All The Truth That I Can Tell](https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD) | 4:17 |
-| 109 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 |
+| 109 | [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 |
 | 110 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
-| 111 | [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 |
+| 111 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 |
 | 112 | [Big Ideas](https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Ocean by Ocean](https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55) | 4:26 |
 | 113 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
 | 114 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Too Young to Fall in Love](https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP) | [OWEL](https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S) | [Dear Me](https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY) | 4:34 |
 | 125 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDhjYWVjY2VlOTUwMzA1OTE1NjdjMDAzZDA5Y2IwOGM4`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDY3MjhmNjEwMGFmZGJkMGRjMTAwYmQwZDExZWJiNDA2`

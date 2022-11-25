@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 22 | [Do The Chores](https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Mojo A Go Go \- Real Rock For Kids](https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu) | 3:13 |
 | 23 | [Brush Brush Brush](https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:32 |
 | 24 | [El Baño del Elefantito](https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC) | [Leoncito Alado](https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5) | [Leoncito Alado](https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S) | 1:23 |
-| 25 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
-| 26 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
+| 25 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
+| 26 | [Good Morning](https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff) | [Love to Sing](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) | [With You](https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv) | 2:11 |
 | 27 | [Nice 'N' Clean](https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:49 |
 | 28 | [Leche Con Pan](https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 2:35 |
 | 29 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 42 | [Baño de Burbujas](https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW) | [Osito Panda Band](https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0) | [20 Canciones Infantiles](https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3) | 1:52 |
 | 43 | [A Comer Que la Mesa Está Servida](https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW), [Edith Hermida](https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh), [Mauricio D'Alessandro](https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr) | [CD8: Llegó Panam](https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW) | 2:30 |
 | 44 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
-| 45 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
-| 46 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
+| 45 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
+| 46 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
 | 47 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
 | 48 | [Nappin' Time](https://open.spotify.com/track/5pI482wCmSObEDLo14dPDl) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Pink!](https://open.spotify.com/album/5LdIdJQ3KuAnfeYuWnULAE) | 3:04 |
 | 49 | [Exercise Time](https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Gordon](https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:43 |
 | 50 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 
-Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDEyNGJjYjY2MDU3NWY3YTUyZTE5MzZlM2Y1ZDZlYmY2`
+Snapshot ID: `MTY0NzI3Njg2OSwwMDAwMDAwMDM2MjdhMTc0YTM4Y2JmZTk5MzRkNzA1YzVlZmFkOThm`

@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 806940,
+  "num_followers": 807225,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNTgwMzI2MCwwMDAwMDAwMGI4YTEwYjNmMzJkZGJjOTU2ZTVlZWEzZjVjNzY2YWM2",
+  "snapshot_id": "MTYyNTgwMzI2MCwwMDAwMDAwMGNmZmUyY2RiYzgwYzliNzMxMjMwMWUyODczYmRlOTUy",
   "tracks": [
     {
       "added_at": "2021-07-09 04:01:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
       "added_at": "2021-07-09 04:01:00",

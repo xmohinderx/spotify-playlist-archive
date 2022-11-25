@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 650278,
+  "num_followers": 650499,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMGVkZjg1MzRmMWM5ZTY4N2Y3Njg2ODRjYTFmYWE2YWEx",
+  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMGFiZjEwOTA5N2IwZTkzNDI3ZmM0NWUwYWMzOTBjNGYx",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "House We Share",
-        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "House We Share",
-      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Wilton",
         "url": "https://open.spotify.com/album/6rOXMsIBhPQfMuGqIjCI8O"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "House We Share",
+        "url": "https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "House We Share",
+      "url": "https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220405,
+      "name": "Help Me Down",
+      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 214643,
       "name": "Timing",
       "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Help Me Down",
-      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
     }
   ],
   "unique_name": "Stay in Bed",

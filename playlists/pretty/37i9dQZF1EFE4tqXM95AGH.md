@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762 likes - 142 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 142 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 89 | [High Rollin](https://open.spotify.com/track/756Se0zQWWR5NZC240W8oJ) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [High Rollin](https://open.spotify.com/album/0vJ3s3wCUV5dlMVD90dbOr) | 2:57 |
 | 90 | [Lights](https://open.spotify.com/track/3DEM3WifNrig0sVrFb22ac) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:02 |
 | 91 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/5MYsn6ZeNgax3SFoqUlqz0) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:31 |
-| 92 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
-| 93 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
+| 92 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
+| 93 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
 | 94 | [Warmer](https://open.spotify.com/track/0J1dghZvW89xWai1COnPdT) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:05 |
 | 95 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
 | 96 | [Weekend](https://open.spotify.com/track/3APdNGA9kaoF1xB9URocBP) | [Adam Sample](https://open.spotify.com/artist/4ljG1jvAMItCY45vzI5k0G) | [Weekend](https://open.spotify.com/album/7xc55UnH6f3F1KM51YdVrH) | 3:13 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 141 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 142 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc4MjA4NzQsMDAwMDAwMDBlOWY3OTJlYTgzZDBiNzEwMTIxMjk5NTZkYTgxYWQzMw==`
+Snapshot ID: `Mjc4MjIzMTQsMDAwMDAwMDBjMTQyODFjNDdhMmQ2ZDRhMzg5NWE3NzFiYWIwMDA4Mw==`

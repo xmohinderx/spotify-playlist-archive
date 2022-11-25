@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Tres Tequilas & Un Mezcal",
+        "url": "https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        },
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "Amos del Piano Bar (feat. Hombres G)",
+      "url": "https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd"
+    },
+    {
+      "album": {
         "name": "Antes de ti",
         "url": "https://open.spotify.com/album/5djhwnRTb6I5K1RPHM7Tov"
       },
@@ -709,7 +731,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 213542,
       "name": "Resurrecci\u00f3n",
       "url": "https://open.spotify.com/track/3rXa3jWEqNbfsZsOVGWrue"

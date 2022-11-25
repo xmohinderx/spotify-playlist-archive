@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-335 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+336 songs - 20 hr 11 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Mansfield 6.0](https://open.spotify.com/track/5lBloZxmRMfkZT8BA7i4CG) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Mansfield 6.0](https://open.spotify.com/album/4r9gSmwn17jFSZcqcnCyXJ) | 3:18 | 2022-08-05 |  |
 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2020-10-10\* | 2021-02-25 |
 | [Meet Me on the Roof](https://open.spotify.com/track/3YCUPKddcFr4s6iL4mj6Xy) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:39 | 2020-10-10\* | 2021-05-13 |
+| [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 | 2022-11-25 |  |
 | [Mercury in Retrograde](https://open.spotify.com/track/6PT1dLDHk9BaVwFG74pomG) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 4:31 | 2020-10-10\* | 2021-02-25 |
 | [Middle Finger](https://open.spotify.com/track/7mNXePzVOXqBTE1WuDa5HQ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Middle Finger](https://open.spotify.com/album/4wYDZ71tevPReWBFRzTHSI) | 2:35 | 2021-02-26 | 2022-03-18 |
 | [Midnight Demon Club](https://open.spotify.com/track/0Ha3SbwjPO11gZ0zPjZQ2o) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 4:12 | 2022-09-09 |  |

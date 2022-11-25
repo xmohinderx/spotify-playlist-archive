@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : DJ Arafat
 
-88 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+89 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 | 2022-09-30 |
 | [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 | 2022-09-23 |
 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 | 2022-06-09 |  |
-| [Dinero](https://open.spotify.com/track/6ovQy5ORm3DaZtPC5yZJt8) | [Tidiane Mario](https://open.spotify.com/artist/18KtXJle23YLBaRsGpMCxx), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Dinero](https://open.spotify.com/album/0qFDvXYZKNLthuFhlufwvO) | 4:03 | 2022-09-22 |  |
+| [Dinero](https://open.spotify.com/track/6ovQy5ORm3DaZtPC5yZJt8) | [Tidiane Mario](https://open.spotify.com/artist/18KtXJle23YLBaRsGpMCxx), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Dinero](https://open.spotify.com/album/0qFDvXYZKNLthuFhlufwvO) | 4:03 | 2022-09-22 | 2022-11-25 |
 | [Dis merci à Dieu](https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Dis merci à Dieu](https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj) | 3:26 | 2021-12-20 | 2022-06-03 |
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
 | [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 |  |
@@ -71,6 +71,7 @@
 | [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 | 2022-06-17 |
 | [Nanakafra](https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Nanakafra](https://open.spotify.com/album/5MMCy49BKCbOuale1Pc6Cs) | 4:08 | 2022-11-17 |  |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
+| [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 |  |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 |  |
 | [Quand J'aurai l'argent \(Plenty Money\) \(feat\. Innoss'B\)](https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Quand J'aurai l'argent \(Plenty Money\) \[feat\. Innoss'B\]](https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua) | 3:21 | 2022-06-16 |  |

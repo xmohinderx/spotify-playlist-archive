@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,509 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 13 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 |
 | 14 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
 | 15 | [Ek Baar](https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt) | [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Vinaya Vidheya Rama](https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF) | 4:19 |
-| 16 | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/track/1z3tN40wH9dixW1aSaRDd5) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/album/2j4BXFHljGo2IWurG8eUOY) | 3:58 |
-| 17 | [Cinema Choopistha Mama](https://open.spotify.com/track/4HTDl31KMbRxWrH778ffvV) | [Simha Yadgiri](https://open.spotify.com/artist/32Uwf51gH5NnFG96viJNUZ), [Malavika](https://open.spotify.com/artist/2KYWcjtMcKmqEWjpjB6XpT), [Mansi](https://open.spotify.com/artist/1wQJ1Ayact7i3gzsfCfGhw), [Monisha](https://open.spotify.com/artist/7zflVRASfYKDym83CqIsur) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:30 |
+| 16 | [Cinema Choopistha Mama](https://open.spotify.com/track/4HTDl31KMbRxWrH778ffvV) | [Simha Yadgiri](https://open.spotify.com/artist/32Uwf51gH5NnFG96viJNUZ), [Malavika](https://open.spotify.com/artist/2KYWcjtMcKmqEWjpjB6XpT), [Mansi](https://open.spotify.com/artist/1wQJ1Ayact7i3gzsfCfGhw), [Monisha](https://open.spotify.com/artist/7zflVRASfYKDym83CqIsur) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:30 |
+| 17 | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/track/1z3tN40wH9dixW1aSaRDd5) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Mass Biriyani \(From "Krack"\)](https://open.spotify.com/album/2j4BXFHljGo2IWurG8eUOY) | 3:58 |
 | 18 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 |
 | 19 | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/track/7Ft65MCYElRCDo7jOekQFs) | [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/album/33bGNKG4SqamfmuenEbtcn) | 4:13 |
 | 20 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGVkOTY0YjA5MGQzNDY0ZWQ3N2JjZDQ2NjkzNjM4MDBk`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDNhNDIzN2Q2ZDZmZjk5NDI1MGM2MzBmOGNmOGE5YzYx`

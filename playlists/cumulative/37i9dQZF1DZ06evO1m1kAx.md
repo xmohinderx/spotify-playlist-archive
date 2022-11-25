@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-87 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
+88 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 | 2021-12-28 | 2022-10-05 |
 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2021-12-28 |  |
 | [Appreciate It](https://open.spotify.com/track/2mOcoUaBhqKmnpBxTptCMl) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 4:14 | 2021-12-28 | 2022-10-13 |
+| [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 | 2022-11-24 |  |
 | [Baba Nla](https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Baba Nla](https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN) | 3:22 | 2022-09-10 |  |
 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 | 2021-12-28 |  |
 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 | 2021-12-28 |  |
@@ -45,7 +46,7 @@
 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 | 2021-12-28 |  |
 | [Ihe Ne Me](https://open.spotify.com/track/1A2wFAONqaU2BrzmFVqZQS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 4:13 | 2021-12-28 |  |
 | [Implication](https://open.spotify.com/track/0ZORrd5CsTwRg0UP1bn3Tm) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:29 | 2021-12-28 |  |
-| [In Your Eyes](https://open.spotify.com/track/310NSkclxmN4Npsc9Q2R3B) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 4:15 | 2021-12-28 |  |
+| [In Your Eyes](https://open.spotify.com/track/310NSkclxmN4Npsc9Q2R3B) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 4:15 | 2021-12-28 | 2022-11-25 |
 | [Iworiwo](https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Living In Bondage: Breaking Free \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI) | 4:02 | 2022-09-10 |  |
 | [Keep On Rocking](https://open.spotify.com/track/3jDiJeeFb0Q81eqBzAzKHt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Natives](https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF), [Lil Seal](https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 5:45 | 2021-12-28 |  |
 | [Keep on Rocking \- Remastered Version](https://open.spotify.com/track/6lbjsi4ZoerN7tJLot91VD) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Natives](https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF), [Lil Seal](https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 5:43 | 2022-03-31 | 2022-09-07 |

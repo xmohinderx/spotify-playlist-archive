@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Lupita Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,821 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,845 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 59 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 60 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
 | 61 | [Yo Quiero Ser](https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Yo Quiero Ser](https://open.spotify.com/album/6IQASp9gvLbyMzzVB1FD9v) | 3:17 |
-| 62 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
-| 63 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
+| 62 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
+| 63 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 | 64 | [Buscando el Olvido](https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Buscando el Olvido](https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ) | 2:32 |
 | 65 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
 | 66 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 68 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
 | 69 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 70 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
-| 71 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 |
-| 72 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
+| 71 | [Se Olvidó \- Versión Mariachi](https://open.spotify.com/track/3fLCCuQPA7kO2ZMIoB3bp1) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Se Olvidó \(Versión Mariachi\)](https://open.spotify.com/album/0SoeOj7WfmVbqtw8jir9Ys) | 3:11 |
+| 72 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 |
 | 73 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
 | 74 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
 | 75 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGMxOTY3NGI3M2VmNzc5NDQ4NGNiN2Y3ZGIzNGE3MGMy`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDBjMGRiNTdjMzZmYzEwYTkzYmIwZjg5NjVjYTg1YTli`

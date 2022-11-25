@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 116180,
+  "num_followers": 116293,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDQyY2VhYmJhNTRkOTE0MzQ1YWUzOGM0OTBjNGNkMzhk",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDQwZWY5ZjBiYzU2MmFlMmM1ZjI1N2Y3ZDE1OTI1ZTc2",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Doug's Party Mix",
-        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
-      },
-      "artists": [
-        {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
-        }
-      ],
-      "duration_ms": 89333,
-      "name": "Just Play",
-      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Dr Hypenstein",
         "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 187276,
       "name": "Funktionality",
       "url": "https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Doug's Party Mix",
+        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 89333,
+      "name": "Just Play",
+      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
     },
     {
       "added_at": "2021-05-06 21:09:12",

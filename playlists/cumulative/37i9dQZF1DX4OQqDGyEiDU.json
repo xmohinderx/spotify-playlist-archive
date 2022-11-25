@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "After the partY",
+        "url": "https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw"
+      },
+      "artists": [
+        {
+          "name": "Hitoshizuku and Yama",
+          "url": "https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Bad \u221e End \u221e Night",
+      "url": "https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09"
+    },
+    {
+      "album": {
         "name": "Bakrom",
         "url": "https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0"
       },
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 219082,
       "name": "Reincarnation Apple",
       "url": "https://open.spotify.com/track/1O8mA7lbLISvEGUiNFwQnV"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 122422,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0ACamuYJ0EyIW7TfkM97EV"
@@ -2145,6 +2163,24 @@
       "duration_ms": 134869,
       "name": "Yoidoreshirazu",
       "url": "https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q"
+    },
+    {
+      "album": {
+        "name": "YOMI",
+        "url": "https://open.spotify.com/album/4IWge9TEfl1Kdc8P3FWJi2"
+      },
+      "artists": [
+        {
+          "name": "\u716e\u30eb\u679c\u5b9f",
+          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217724,
+      "name": "YOMI",
+      "url": "https://open.spotify.com/track/3Mm9Cx5gCig9qeMm4eaUoI"
     },
     {
       "album": {
@@ -3603,7 +3639,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 117055,
       "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1YIr7kCHsECRkVclYvFRUY"
@@ -6799,7 +6835,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 203000,
       "name": "\u5929\u624d\u30ed\u30c3\u30af (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj"

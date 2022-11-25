@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,290 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,333 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 |
-| 2 | [love nwantiti \(feat\. Dj Yo 1 & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo 1](https://open.spotify.com/artist/3WGhf19UmmgF7CIrDRH06z), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo 1 & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
+| 2 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
 | 3 | [Balenciaga](https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Balenciaga](https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3) | 2:48 |
 | 4 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
 | 5 | [Jhanak Jhanak](https://open.spotify.com/track/3IvL7aRZDOsL4kcZ7qq9GV) | [Blu Attic](https://open.spotify.com/artist/4yIQ0g5IyRNgJBsWsgkjIe), [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv) | [Resurface](https://open.spotify.com/album/0duF0mQpA1prb73d0BTUm5) | 4:23 |

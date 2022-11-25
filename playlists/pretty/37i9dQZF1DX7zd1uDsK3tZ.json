@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 59167,
+  "num_followers": 59451,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMGZiZWMxMmFmNjRkYzFkZjY5YzhmNjMwYjY2ZjZjZWU2",
+  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMDdjNDUwNjA0ZjlmOGQxZTMyMTRmZjllMzQyNTdjYzVm",
   "tracks": [
     {
       "added_at": "2022-09-23 19:17:07",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "The Dock of the Bay (Mono)",
         "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 221533,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 299066,
       "name": "Strawberry Letter 23",
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-09-23 19:17:07",

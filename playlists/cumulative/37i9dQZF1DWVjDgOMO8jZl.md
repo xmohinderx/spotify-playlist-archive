@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-80 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+81 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-08-31 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-08-31 |  |
 | [Male](https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Male](https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO) | 2:33 | 2022-11-07 |  |
+| [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2022-11-24 |  |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 |  |
 | [Mayday](https://open.spotify.com/track/6BfywUJ9tXjFNVvLZU1wNW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Mayday](https://open.spotify.com/album/5AwOXRsX7ZO4Q9n4g0C9N0) | 2:43 | 2022-08-31 |  |
 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 | 2022-08-31 |  |

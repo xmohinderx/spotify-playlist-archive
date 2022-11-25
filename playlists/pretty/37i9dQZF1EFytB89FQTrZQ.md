@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,082 likes - 234 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,083 likes - 234 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 117 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 |
 | 118 | [Unlovable \(feat\. Rudimental\)](https://open.spotify.com/track/3zmxLLhTpgdLTAPPVbVRqe) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:22 |
 | 119 | [Better Together](https://open.spotify.com/track/4dY0mqsFpE7EHZFN20nV5h) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Better Together](https://open.spotify.com/album/7tFRdZtdN1iBR1lm3H9SnI) | 3:37 |
-| 120 | [Not for the Radio \(feat\. MNEK\)](https://open.spotify.com/track/1VM5S8JNUysQsSgdoRFsdI) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [YOUTH](https://open.spotify.com/album/0ctfduE1sLhqIjbcFokWvv) | 4:05 |
-| 121 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 120 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 121 | [Not for the Radio \(feat\. MNEK\)](https://open.spotify.com/track/1VM5S8JNUysQsSgdoRFsdI) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [YOUTH](https://open.spotify.com/album/0ctfduE1sLhqIjbcFokWvv) | 4:05 |
 | 122 | [WORSHIP \(feat\. MNEK\)](https://open.spotify.com/track/6EiVkThclMrFSYJn6r4JcN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 3:35 |
 | 123 | [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 |
 | 124 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 188 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
 | 189 | [No Problem](https://open.spotify.com/track/4yaLjLWzvGQLsVyMpHCw0x) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [MOOD \- EP](https://open.spotify.com/album/5VBEpbBOib8MvQT2tkiHuz) | 3:10 |
 | 190 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
-| 191 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
-| 192 | [Heart & Soul](https://open.spotify.com/track/6PvtIeDteCDh7JVDjzQ2vF) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/1AqhupWS7VVO5LaAve8qCO) | 2:42 |
+| 191 | [Heart & Soul](https://open.spotify.com/track/6PvtIeDteCDh7JVDjzQ2vF) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/1AqhupWS7VVO5LaAve8qCO) | 2:42 |
+| 192 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
 | 193 | [Play Me](https://open.spotify.com/track/5qO1826lRIvkgC5O4ySIe5) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:21 |
 | 194 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 195 | [When The Party's Over](https://open.spotify.com/track/2KLWP0h8H5tZM7mbZOgh4C) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:55 |
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 223 | [Muscle](https://open.spotify.com/track/7AhlVNoD2zOA6nzUsHYExb) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:00 |
 | 224 | [My Work Is Done](https://open.spotify.com/track/5gymlK2U1SmNwTp4dpwAmt) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:26 |
 | 225 | [Bridges](https://open.spotify.com/track/0Q4g6gvhXIA0bYrglXXyuU) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:33 |
-| 226 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
-| 227 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
+| 226 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
+| 227 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
 | 228 | [Whatever](https://open.spotify.com/track/5ewpMzqrq5uxeiGqw9tElj) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 3:44 |
 | 229 | [Rope](https://open.spotify.com/track/4PCNyUNFulAzqTjBpzI6qC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/3gzZEIjvV8djfkYG1z4Pk8) | 4:20 |
 | 230 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 233 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 234 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc4MjA4NjUsMDAwMDAwMDA1YmUzMDdiZWJmN2U2MjdkOGI4NGNmNzk3ZGQxZGJlZg==`
+Snapshot ID: `Mjc4MjIzMjAsMDAwMDAwMDAxZTEyNGRlMzM5ZmVkYTU2ODIwYTk4ODJhMjk3ODIxMg==`

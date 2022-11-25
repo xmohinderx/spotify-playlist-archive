@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-60 songs - 3 hr 32 min - not published yet
+61 songs - 3 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-10-16 |  |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-10-16 |  |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-11-08 | 2022-11-13 |
-| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2022-10-16 |  |
+| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2022-10-16 | 2022-11-25 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-10-16 |  |
 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 | 2022-10-16 |  |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2022-10-16 |  |
@@ -32,6 +32,7 @@
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/3Vtl4Xc9cKVs1UoenXtScn) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8) | 3:20 | 2022-10-16 | 2022-11-14 |
 | [Forever Young](https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Forever Young](https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50) | 3:31 | 2022-10-27 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-16 |  |
+| [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-25 |  |
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2022-10-16 |  |
 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-10-16 |  |
 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 | 2022-10-16 |  |

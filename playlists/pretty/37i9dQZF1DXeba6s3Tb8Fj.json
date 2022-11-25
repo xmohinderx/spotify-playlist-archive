@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 5167,
+  "num_followers": 5187,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDNkYjc1MDVkYTQzOGQyMDc0YmJjYTdlNmRjMWJjZmRi",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGJmMGYyYTExYzUyYWRhZDAyZGViMzgzYjVjYmUxYmEx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jamm",
-        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
-      },
-      "artists": [
-        {
-          "name": "Cheikh L\u00f4",
-          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "Jamm",
-      "url": "https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        }
+      ],
+      "duration_ms": 288293,
+      "name": "Jamm",
+      "url": "https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Kidal",
         "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
@@ -283,6 +283,42 @@
       "duration_ms": 218076,
       "name": "Mawarniha Tartit",
       "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Kulanjan",
+        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "duration_ms": 329866,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Tiw\u00e0yyen",
+      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -315,42 +351,6 @@
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Tiw\u00e0yyen",
-      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Kulanjan",
-        "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 329866,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Adagh",
-        "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
+        "name": "Gandadiko",
+        "url": "https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Samba Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
         }
       ],
-      "duration_ms": 312333,
-      "name": "Aratane N' Adagh",
-      "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
+      "duration_ms": 264933,
+      "name": "Gandadiko",
+      "url": "https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gandadiko",
-        "url": "https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB"
+        "name": "Adagh",
+        "url": "https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4"
       },
       "artists": [
         {
-          "name": "Samba Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 264933,
-      "name": "Gandadiko",
-      "url": "https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO"
+      "duration_ms": 312333,
+      "name": "Aratane N' Adagh",
+      "url": "https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,186 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,182 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 33 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 |
 | 34 | [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 |
 | 35 | [The River](https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:52 |
-| 36 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
-| 37 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
+| 36 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
+| 37 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
 | 38 | [Prince Caspian](https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Billy Breathes](https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN) | 5:19 |
 | 39 | [Breathe](https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC) | 5:00 |
 | 40 | [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 42 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 |
 | 43 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
 | 44 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
-| 45 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
-| 46 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 |
-| 47 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
+| 45 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
+| 46 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
+| 47 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 |
 | 48 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 |
 | 49 | [A Picture Of Dorian Gray](https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [And Don't The Kids Just Love It](https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT) | 2:11 |
 | 50 | [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDlkM2U2NjkxMGY2MzAyNTIwMDIwMjNmMmVlOTdkNzY2`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDk0YzQxN2Y3NWIwZTQ4NTRmMmI2NjdiMWQ5YThlZDBm`

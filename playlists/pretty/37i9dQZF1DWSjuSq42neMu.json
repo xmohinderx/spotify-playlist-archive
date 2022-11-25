@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 552982,
+  "num_followers": 553689,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMDcxMDA0NTA2OGMyNTkxMmQ4NjY5ODNjOTNhNjQ1OGFj",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMGY3YjIxOGRjM2FlNzc1Mzc5YWI4ZjM3OWJhZjAyMzM3",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -691,6 +691,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Beb\u00e9 Que Bien Te Ves",
-      "url": "https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Aroma",
         "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 189500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Beb\u00e9 Que Bien Te Ves",
+      "url": "https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "OTRO FILI",
+        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "OTRO FILI",
+      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "EL TREN",
         "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
       },
@@ -2127,26 +2147,6 @@
       "duration_ms": 174952,
       "name": "H\u00e1zmelo",
       "url": "https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "OTRO FILI",
-        "url": "https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "OTRO FILI",
-      "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
     }
   ],
   "unique_name": "suave",

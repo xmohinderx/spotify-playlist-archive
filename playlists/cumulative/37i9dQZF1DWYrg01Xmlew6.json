@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Lazza",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: MV Killa",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -417,6 +417,24 @@
       "duration_ms": 201440,
       "name": "Chello Che Vu\u00f3 (feat. Geolier)",
       "url": "https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77"
+    },
+    {
+      "album": {
+        "name": "CHI DIO",
+        "url": "https://open.spotify.com/album/2bRjwdOxrP2qriTMievPoW"
+      },
+      "artists": [
+        {
+          "name": "Vettosi",
+          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144839,
+      "name": "CHI DIO",
+      "url": "https://open.spotify.com/track/0wDA1UIKeUhelqefsrqYhe"
     },
     {
       "album": {
@@ -1417,6 +1435,24 @@
       "duration_ms": 174000,
       "name": "NA CRIATURA",
       "url": "https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC"
+    },
+    {
+      "album": {
+        "name": "NO BODYGUARD",
+        "url": "https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "NO BODYGUARD",
+      "url": "https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4"
     },
     {
       "album": {

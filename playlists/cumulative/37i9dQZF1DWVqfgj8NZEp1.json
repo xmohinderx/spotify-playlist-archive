@@ -2628,6 +2628,40 @@
     },
     {
       "album": {
+        "name": "Here And Now",
+        "url": "https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp"
+      },
+      "artists": [
+        {
+          "name": "Enj Society",
+          "url": "https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4"
+        },
+        {
+          "name": "Michael Erian",
+          "url": "https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m"
+        },
+        {
+          "name": "DANIEL N\u00d6SIG",
+          "url": "https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh"
+        },
+        {
+          "name": "Milan Nikolic",
+          "url": "https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM"
+        },
+        {
+          "name": "Howard Curtis",
+          "url": "https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368442,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi"
+    },
+    {
+      "album": {
         "name": "Landmarks",
         "url": "https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT"
       },

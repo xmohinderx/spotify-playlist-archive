@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-163 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
+164 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Juan Mecánico \(Visión Dinamita\)](https://open.spotify.com/track/1ubDGW9FhowKbpMpMvlXH6) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 2:40 | 2021-10-01 | 2022-07-02 |
 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 | 2021-10-01 |  |
 | [La Invité a Bailar](https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP) | 4:02 | 2021-10-01 | 2022-07-29 |
-| [La Invité a Bailar](https://open.spotify.com/track/0POcXvbd6f9NX5UV4Zf5QM) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/2RztUTXShCrQmIvHRXOgjd) | 4:05 | 2022-08-12 |  |
+| [La Invité a Bailar](https://open.spotify.com/track/0POcXvbd6f9NX5UV4Zf5QM) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/2RztUTXShCrQmIvHRXOgjd) | 4:05 | 2022-08-12 | 2022-11-25 |
 | [La Invité a Bailar](https://open.spotify.com/track/3mcNcVQbpNGdhLKhQSc0g6) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana \(Deluxe Edition\)](https://open.spotify.com/album/50IbqXd4EIkocjvHhDmBjZ) | 4:05 | 2022-07-01 | 2022-11-11 |
+| [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 | 2022-08-12 |  |
 | [La Malgeniosa](https://open.spotify.com/track/6skbFFnqI3KhZuyVWqvV8F) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Edwin Gómez "El Fantasma"](https://open.spotify.com/artist/0VFLH182dLSHXpVxdy9Kxn) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:20 | 2021-10-01 | 2022-07-02 |
 | [La Noche](https://open.spotify.com/track/15DUcGdD7BnGEJW6cZmtbd) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:23 | 2021-10-01 | 2022-07-29 |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2022-07-01 |  |

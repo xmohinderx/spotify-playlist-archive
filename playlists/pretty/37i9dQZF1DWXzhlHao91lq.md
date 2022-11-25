@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,469 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,522 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 62 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 63 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 64 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
-| 65 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 |
-| 66 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 |
+| 65 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 |
+| 66 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 |
 | 67 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
 | 68 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 69 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 |
-| 70 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 |
-| 71 | [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 |
-| 72 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 |
-| 73 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5rkAjs38ImEoJJBHW3T8pb) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/0k7HiB1RSPBMTzwY93aGLv) | 3:36 |
-| 74 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
-| 75 | [Better with You \- Acoustic](https://open.spotify.com/track/08de9W83HKyeTNX2Vcfy5E) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/4JNwakn9CPlE2iAypiWUIc) | 3:28 |
+| 70 | [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 |
+| 71 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 |
+| 72 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5rkAjs38ImEoJJBHW3T8pb) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/0k7HiB1RSPBMTzwY93aGLv) | 3:36 |
+| 73 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 |
+| 74 | [Better with You \- Acoustic](https://open.spotify.com/track/08de9W83HKyeTNX2Vcfy5E) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/4JNwakn9CPlE2iAypiWUIc) | 3:28 |
+| 75 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 
-Snapshot ID: `MTY2OTA0NjY0NSwwMDAwMDAwMDdjYWZiZDQ0ZGZhNjdkZjMyN2E1MGNhYjU1NTE1OTY0`
+Snapshot ID: `MTY2OTA0NjY0NSwwMDAwMDAwMDUzZTdkMzliYjliZWIzZGU0OTE0MGJhMjU1MDM2OTc3`

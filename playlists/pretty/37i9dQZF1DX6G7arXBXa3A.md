@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,720 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,830 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 16 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
 | 17 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:23 |
 | 18 | [Pistol Packin' Mama \- Single Version](https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:03 |
-| 19 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 |
-| 20 | [Everybody Eats When They Come To My House](https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Hi De Ho Man](https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT) | 2:47 |
+| 19 | [Everybody Eats When They Come To My House](https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [Hi De Ho Man](https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT) | 2:47 |
+| 20 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 |
 | 21 | [Let's Fall In Love](https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz) | 2:46 |
 | 22 | [Woodchopper's Ball](https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Blues On Parade](https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp) | 3:14 |
 | 23 | [Chattanooga Choo Choo](https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:26 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 42 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 | 43 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
 | 44 | [The Night Is Ours](https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf) | [Gregory Cotti](https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa), [Gabriel Saban](https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G) | [Rumble Jam \- Big Band and Jazz Themes](https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM) | 2:28 |
-| 45 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
-| 46 | [Straight, No Chaser](https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 2:27 |
+| 45 | [Straight, No Chaser](https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 2:27 |
+| 46 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
 | 47 | [The Waltz I Blew for You](https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX) | [Rob McConnell](https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr), [The Boss Brass](https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT) | [Present Perfect](https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn) | 9:42 |
 | 48 | [Your Mind Is on Vacation](https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ) | [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW), [David Clayton\-Thomas](https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa), [John Finley](https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr) | [Your Mind Is on Vacation](https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK) | 3:06 |
 | 49 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 | 50 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGIzMDczNjI0Y2JmMjA3MDMzZGVlMDU4Mjc1MzMyNzU5`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGVjYTEyYjQ4YjcxMmI2YjY2NmY5MWMwMzNmZjkyMTky`

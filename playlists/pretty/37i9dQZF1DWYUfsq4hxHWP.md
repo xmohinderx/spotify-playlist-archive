@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Austin Snell, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,220 likes - 168 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,313 likes - 168 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

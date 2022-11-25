@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,844 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,892 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 28 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 | 29 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 |
 | 30 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
-| 31 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
-| 32 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |
+| 31 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 |
+| 32 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 33 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 |
 | 34 | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blue Notes 2 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye) | 3:50 |
 | 35 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 50 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [EDNA \(Deluxe\)](https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP) | 2:53 |
 
-Snapshot ID: `MTY2NzU0MzM1NCwwMDAwMDAwMDYwOWM2MjgyODhlNjY1YTI0ODQyMjRhMDQ0ZGQzNTA0`
+Snapshot ID: `MTY2NzU0MzM1NCwwMDAwMDAwMGVkNDZlYzBkNGE3ZGI4Nzc2ZmYxYjU3ZDg5MDgzNjky`

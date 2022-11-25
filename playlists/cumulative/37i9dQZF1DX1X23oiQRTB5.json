@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fav\u00e9 au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Zola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -135,6 +135,24 @@
       "duration_ms": 166746,
       "name": "Allez dehors",
       "url": "https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj"
+    },
+    {
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182067,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
       "album": {
@@ -1226,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194905,
+      "name": "LIF",
+      "url": "https://open.spotify.com/track/1bQzTUxeGELwCbWIan83V3"
+    },
+    {
+      "album": {
         "name": "LIF",
         "url": "https://open.spotify.com/album/5G40PCwbFMnEL1CyW0e5Rw"
       },
@@ -1237,10 +1273,32 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 194905,
       "name": "LIF",
       "url": "https://open.spotify.com/track/5L6inxcqOemJI2utN8lvBs"
+    },
+    {
+      "album": {
+        "name": "Link in the Ends",
+        "url": "https://open.spotify.com/album/13OEJkAAM0iIfcKJTaP0up"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Link in the Ends",
+      "url": "https://open.spotify.com/track/6LaiBYDgJ0nTGAldMQeg9Y"
     },
     {
       "album": {
@@ -1735,7 +1793,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 203133,
       "name": "Passat",
       "url": "https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3"
@@ -2163,7 +2221,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 189653,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F"

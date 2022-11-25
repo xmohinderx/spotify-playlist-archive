@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,706 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,775 likes - 70 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,21 +62,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 52 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 |
 | 53 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 |
 | 54 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
-| 55 | [ÿuni](https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [ÿuni](https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU) | 4:15 |
-| 56 | [Arms](https://open.spotify.com/track/1B6SBaHIua9BXsL2IrNqj3) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [21SS](https://open.spotify.com/album/53wfpETmJBR5sfAo8O4JuF) | 3:52 |
-| 57 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
-| 58 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA\(ハルシュラ\)](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
-| 59 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 |
-| 60 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
+| 55 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA\(ハルシュラ\)](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
+| 56 | [ÿuni](https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [ÿuni](https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU) | 4:15 |
+| 57 | [Arms](https://open.spotify.com/track/1B6SBaHIua9BXsL2IrNqj3) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [21SS](https://open.spotify.com/album/53wfpETmJBR5sfAo8O4JuF) | 3:52 |
+| 58 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
+| 59 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
+| 60 | [ロマンチック2017](https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0) | [KENTA MAENO](https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043) | [ロマンチック2017](https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH) | 1:07 |
 | 61 | [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 |
-| 62 | [eureka](https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [eureka](https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ) | 3:30 |
-| 63 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 |
-| 64 | [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 |
-| 65 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
-| 66 | [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 |
-| 67 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
-| 68 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
+| 62 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 |
+| 63 | [eureka](https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [eureka](https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ) | 3:30 |
+| 64 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
+| 65 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
+| 66 | [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 |
+| 67 | [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 |
+| 68 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
 | 69 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 |
-| 70 | [Runaway](https://open.spotify.com/track/7vPO57xxaEwGwc44bDn71X) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Runaway](https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe) | 3:11 |
+| 70 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
 
-Snapshot ID: `MTY2OTE2MjE4OSwwMDAwMDAwMDJmZDA1NjZlNWI1NzMzNTk2Y2E1NGMzODE4YTI0MGQ2`
+Snapshot ID: `MTY2OTE2MjE4OSwwMDAwMDAwMDhiMTQxYzE2YjA5YWQxNzQ5YzE1MzJjYjQyYmQ5Y2Jm`

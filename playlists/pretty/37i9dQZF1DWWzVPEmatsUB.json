@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 494201,
+  "num_followers": 494472,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDg4YjVjMDlhMmFkNjI3ZmExMzMzMmI4MGE5N2I3Yjli",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDE4MzQzZWUxODc1NTNmM2ZiMTEzNWI5NmUzZjQyMTgx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -545,6 +545,38 @@
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -563,22 +595,6 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -611,22 +627,6 @@
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
       "added_at": "2021-12-10 05:01:00",
       "album": {
         "name": "Midnight River (feat. 6LACK)",
@@ -711,6 +695,22 @@
       "duration_ms": 184242,
       "name": "Midnight River (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "Paper Airplanes",
-        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 257493,
-      "name": "Paper Airplanes",
-      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
+      "duration_ms": 199903,
+      "name": "Old Fashioned",
+      "url": "https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "Paper Airplanes",
+        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         }
       ],
-      "duration_ms": 199903,
-      "name": "Old Fashioned",
-      "url": "https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0"
+      "duration_ms": 257493,
+      "name": "Paper Airplanes",
+      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
       "added_at": "2022-06-10 04:02:00",

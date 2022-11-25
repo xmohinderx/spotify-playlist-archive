@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Stefania
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,926 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,938 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 30 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 |
 | 31 | [Thee Mou Kane](https://open.spotify.com/track/3tJvrn9qPMkl6hyBzsxdIC) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz) | [Thee Mou Kane](https://open.spotify.com/album/6DUOB9RsGY6cEryN54YemQ) | 3:43 |
 | 32 | [To Katerinaki Sou](https://open.spotify.com/track/1BFGmdOhjlhD7QQf7x8hS4) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Katerinaki Sou](https://open.spotify.com/album/3ycSCh9GLe4zeeJCGF5fx9) | 3:07 |
-| 33 | [Chameni Omorfia](https://open.spotify.com/track/4VEuBha11JwqAleHVwglg9) | [Maria Papageorgiou](https://open.spotify.com/artist/3WQuwa7Flok3CNsMTia7oK) | [Chameni Omorfia](https://open.spotify.com/album/7oumOEBpuxt9aHxRfHkCcj) | 3:22 |
+| 33 | [Chameni Omorfia](https://open.spotify.com/track/4VEuBha11JwqAleHVwglg9) | [Maria Papageorgiou](https://open.spotify.com/artist/3WQuwa7Flok3CNsMTia7oK), [Giannis Vasilotos](https://open.spotify.com/artist/4KKI5eJ1IUdqH6Vi2UoiHh) | [Chameni Omorfia](https://open.spotify.com/album/7oumOEBpuxt9aHxRfHkCcj) | 3:22 |
 | 34 | [Egw & Esy](https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Egw & Esy](https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH) | 3:06 |
 | 35 | [Honeymoon Song](https://open.spotify.com/track/3LkJRemnyJueuKj7LiXBS0) | [Alexandra Koniak](https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30), [Mikis Theodorakis](https://open.spotify.com/artist/58EvYFzDGAQOmBpIOxujnj) | [Honeymoon Song](https://open.spotify.com/album/46XdabuQ7fzdNhNwZfR1QJ) | 2:54 |
 | 36 | [Thelei O Erotas Aera](https://open.spotify.com/track/3E64Ogv7D9mZiqjr5kDlXd) | [Yanna Vasileiou](https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx) | [Thelei O Erotas Aera](https://open.spotify.com/album/3oaf7goCLeQNaow9rPiF7M) | 3:16 |

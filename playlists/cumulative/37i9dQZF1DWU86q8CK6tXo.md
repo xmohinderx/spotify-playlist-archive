@@ -4,7 +4,7 @@
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:1GDbiv3spRmZ1XdM1jQbT7”>Natti Natasha</a>.
 
-606 songs - 1 day 8 hr 47 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+607 songs - 1 day 8 hr 50 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Hide & Seek](https://open.spotify.com/track/5w54zex3SDT8IKQ3WjCYcc) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [View from the Bridge](https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC) | 3:41 | 2022-04-06 | 2022-05-05 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-03-08 | 2022-04-07 |
 | [History of Breaking Up](https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 3:28 | 2022-08-03 | 2022-09-09 |
-| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-11-02 |  |
+| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-11-02 | 2022-11-25 |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-07-06 | 2022-07-29 |
 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 | 2022-07-06 | 2022-08-04 |
 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 | 2022-02-02 | 2022-03-09 |
@@ -292,6 +292,7 @@
 | [Joga](https://open.spotify.com/track/20ZvzoDSefcZo6bj10jgGC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf) | 5:05 | 2022-07-06 | 2022-08-04 |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2022-02-02 | 2022-03-09 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-07-06 | 2022-08-04 |
+| [Keep The Change](https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Keep The Change](https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC) | 3:07 | 2022-11-02 |  |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-08-03 | 2022-09-09 |
 | [Lady Like \- Deepend Remix](https://open.spotify.com/track/02s4EO6gl9uxfu1JziEIkZ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deepend Remix\)](https://open.spotify.com/album/5TmitZ50PrIXZLr0Q9OsvD) | 3:05 | 2022-02-02 | 2022-03-09 |
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-03-08 | 2022-04-07 |

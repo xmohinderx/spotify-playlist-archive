@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-320 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+321 songs - 19 hr 52 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-12-22 |  |
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
+| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Dumb](https://open.spotify.com/track/6kCQsjFV3SubIrNTDkGrdr) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Dumb](https://open.spotify.com/album/0N42Coxg2wBuzP1LyB2mkq) | 3:21 | 2019-11-19\* | 2020-08-09 |
@@ -222,8 +223,8 @@
 | [Perfectly Out Of Place](https://open.spotify.com/track/1ogk8gkNwRw9iHONH2CAna) | [Dreams We've Had](https://open.spotify.com/artist/5LkgVE79AHNZN7kMukfJFv) | [Perfectly Out Of Place](https://open.spotify.com/album/0Z4R2r8QIaAV2pQF9tbgsa) | 4:53 | 2019-11-19\* | 2020-12-11 |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-06 | 2022-07-29 |
 | [Pharmacist](https://open.spotify.com/track/1P5wEz9ddMvOURt4L0jTi4) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:04 | 2022-07-06 | 2022-11-13 |
-| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 | 2022-10-09 |
-| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-07-06 |  |
+| [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 |  |
+| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-07-06 | 2022-11-25 |
 | [Picnic In The Rain](https://open.spotify.com/track/3FenxrOYkVI0qlQuW0AWyz) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Picnic In The Rain](https://open.spotify.com/album/4v5lvDQMTrgTbbaYvCw0TF) | 3:15 | 2022-07-06 | 2022-07-29 |
 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 | 2022-07-06 |  |
 | [Pixel Affection](https://open.spotify.com/track/46IEYjzyS37lltLLCDJbC0) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Pixel Affection](https://open.spotify.com/album/6293U8X30osYTMXgFpVnub) | 3:39 | 2019-11-19\* | 2020-12-22 |
@@ -279,7 +280,7 @@
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2019-11-19\* | 2020-12-22 |
 | [Temps](https://open.spotify.com/track/5jh147eWeuNyimT2Oo1A5J) | [Mellow Gang](https://open.spotify.com/artist/048vFxJzjmNds1zJjeZ3mP) | [Temps](https://open.spotify.com/album/4zLS3ANkrGUVlKjz7PvG73) | 3:46 | 2019-11-19\* | 2021-02-06 |
 | [Tenderness](https://open.spotify.com/track/0l4cR2AZ18MktMd0BU3zwh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/7zNsEEBdQImuX9pFfDMblw) | 4:01 | 2020-12-22 | 2022-07-29 |
-| [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2022-07-06 |  |
+| [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2022-07-06 | 2022-11-25 |
 | [Tenue](https://open.spotify.com/track/2uQ5w2gLmKxdQD9KJNj0g8) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Tenue](https://open.spotify.com/album/5ppUv3i6B7SBmiIQhpV5sI) | 3:46 | 2022-04-13 | 2022-04-20 |
 | [Terrestrial Changeover Blues \(2007 – 2012\)](https://open.spotify.com/track/5I324DQSe589WK21l83G6X) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Terrestrial Changeover Blues \(2007 – 2012\)](https://open.spotify.com/album/1VgHTIASNa1VxN6PdEFykb) | 5:01 | 2019-11-19\* | 2020-08-09 |
 | [Thankful](https://open.spotify.com/track/2eN6V8hiaW2BB7ol4UVvYf) | [Andrew Younker](https://open.spotify.com/artist/0vtP0a9XL5ZWM8HvOusFHA) | [Thankful](https://open.spotify.com/album/6nrNvv3xEdW2e6Rd3QRvLO) | 3:43 | 2019-11-19\* | 2020-08-09 |

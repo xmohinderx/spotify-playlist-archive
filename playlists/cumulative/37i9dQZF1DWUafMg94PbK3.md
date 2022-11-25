@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-102 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
+103 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/3xQc98EzemNzLKHcZqjikd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Street Sweeper](https://open.spotify.com/track/6FYkE4CDAGFPVfZX7qvNpG) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 1:59 | 2020-09-25 | 2022-07-29 |
 | [Subway Train](https://open.spotify.com/track/42FFOjM6H3ISwFIZNO3IE5) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 3:46 | 2019-10-29 |  |
 | [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2019-10-29 | 2022-10-13 |
-| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2019-10-29 |  |
+| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2019-10-29 | 2022-11-25 |
+| [Take Me Away on a Train](https://open.spotify.com/track/5gSIQdpPHFrNavHPfQzNWx) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:21 | 2019-10-29 |  |
 | [The Airplane Song](https://open.spotify.com/track/2ezjsQ4Ovf5gQfllhja85v) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/3uD0l4haHJADqL4I3ykb8b) | 2:44 | 2019-10-29 |  |
 | [The Airplane Song](https://open.spotify.com/track/2l6tE5F0zukZddr1GZROdH) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 2:44 | 2019-10-29 | 2022-11-13 |
 | [The Airplane Song](https://open.spotify.com/track/6qBDXAIxumtwgXW7ryNZ1b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 2: Machines \(Music for Toddlers\)](https://open.spotify.com/album/7FW8yYv5Ox3CJjkEJCA8Se) | 2:46 | 2019-10-29 | 2022-07-29 |

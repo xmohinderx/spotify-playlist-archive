@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,588 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,605 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,21 +32,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 22 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 |
 | 23 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 24 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
-| 25 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
-| 26 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
+| 25 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
+| 26 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
 | 27 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 28 | [Amor Libre](https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:11 |
 | 29 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 |
 | 30 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
-| 31 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
-| 32 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
-| 33 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
-| 34 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
+| 31 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 |
+| 32 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
+| 33 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
+| 34 | [Time I Love To Waste](https://open.spotify.com/track/3mnMlvraGWOphHveLsCoCi) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:17 |
 | 35 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
-| 36 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
-| 37 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
-| 38 | [For You](https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K) | 3:26 |
-| 39 | [tonight](https://open.spotify.com/track/3v2yVqzxhUa79fphga70JJ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight](https://open.spotify.com/album/7rvSSNrAP99MNu9mKYrU5X) | 4:43 |
+| 36 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
+| 37 | [tonight](https://open.spotify.com/track/3v2yVqzxhUa79fphga70JJ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight](https://open.spotify.com/album/7rvSSNrAP99MNu9mKYrU5X) | 4:43 |
+| 38 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
+| 39 | [For You](https://open.spotify.com/track/5AkF7FqmUUJbPPrQ0OazOc) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/6OcYD13rTjmihZu2I5Xn5K) | 3:26 |
 | 40 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
 | 41 | [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 |
 | 42 | [Flores No Mar \- Radio Edit](https://open.spotify.com/track/7Bi5S5rbQIGe57Ckq95AR1) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar \(Radio Edit\)](https://open.spotify.com/album/13pN5e0Jmu4CiQFJPHLJ4S) | 4:23 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 51 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 |
 | 52 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
 | 53 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
-| 54 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
-| 55 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
+| 54 | [DWYSSWM \(Don't Worry Your Secret's Safe with Me\)](https://open.spotify.com/track/6iPiRxI2j02GQBFQLu06G2) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:09 |
+| 55 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
 | 56 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
 | 57 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 |
 | 58 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 |
 | 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGRjYzY1YTFiNmIyZTJlMzExMWNkNjQ2YTFmOTU3ZDY3`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDJhYzlhN2QyOTI2M2YyZjY4OTlmMTBhYWQ0NjcyOWVi`

@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 602755,
+  "num_followers": 603261,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGY0NzY2ZmRiYjgzMjQ0YzE0MDE2OGE3NGIyZjg5YjJh",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGQyZDczMjk2OTVmNjc5M2NjNDY4NzdhZjhiMzEyNGI1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
-      },
-      "artists": [
-        {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Watermelon Crawl",
-      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Time Marches On",
         "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185360,
       "name": "Time Marches On",
       "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Watermelon Crawl",
+      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "I Will Stand By You - The Essential Collection",
+        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 256333,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "I Will Stand By You - The Essential Collection",
-        "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
-      "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Wicks",
-          "url": "https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "Stealing Cinderella",
-      "url": "https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Country Is My Rock",
         "url": "https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 218720,
       "name": "Just Might Have Her Radio On",
       "url": "https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Wicks",
+          "url": "https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK"
+        }
+      ],
+      "duration_ms": 242986,
+      "name": "Stealing Cinderella",
+      "url": "https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl"
     },
     {
       "added_at": "2022-10-07 04:00:00",

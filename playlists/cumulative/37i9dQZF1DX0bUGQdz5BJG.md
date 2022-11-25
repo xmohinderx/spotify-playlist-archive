@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Madeline Edwards
 
-952 songs - 2 day 2 hr 55 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+953 songs - 2 day 2 hr 58 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [History Repeats](https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH) | 3:46 | 2022-08-05 | 2022-10-15 |
 | [Hits Me Like](https://open.spotify.com/track/0H6MQm8mfv52DvwqL80fb8) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Hits Me Like](https://open.spotify.com/album/4B8KhzjsKnflBoC8DmtxtM) | 2:38 | 2022-09-16 |  |
 | [Hitting Your Friends Up](https://open.spotify.com/track/5uMFM4LAGy1rcgS9YrVTgq) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Hitting Your Friends Up](https://open.spotify.com/album/2a1MSTd8WxHLkAaPFGL7YJ) | 3:10 | 2022-08-05 | 2022-10-01 |
-| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-28 |  |
+| [Hold My Halo](https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:26 | 2022-11-18 |  |
+| [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-28 | 2022-11-25 |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 | 2022-06-25 |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2021-12-31 | 2022-01-15 |
 | [Holy Water](https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Higher Education](https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL) | 3:29 | 2022-01-21 | 2022-03-12 |

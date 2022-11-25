@@ -244,6 +244,28 @@
     },
     {
       "album": {
+        "name": "Mawingu",
+        "url": "https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Juicee Man",
+          "url": "https://open.spotify.com/artist/5aPQde9UW5ec9Rl3kQ94lh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF"
+    },
+    {
+      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD"
       },
@@ -637,6 +659,24 @@
       "duration_ms": 244558,
       "name": "BTW",
       "url": "https://open.spotify.com/track/2EV48VVgvkW1zQuGQTsdED"
+    },
+    {
+      "album": {
+        "name": "Ghetto Genius",
+        "url": "https://open.spotify.com/album/2QijZ5nkbcTtWg7XYv8fMx"
+      },
+      "artists": [
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215562,
+      "name": "Bure Kabisa",
+      "url": "https://open.spotify.com/track/4Yla7sZf5R0CRmzlSIrVKD"
     },
     {
       "album": {
@@ -2422,6 +2462,32 @@
     },
     {
       "album": {
+        "name": "Makofi",
+        "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Fabio",
+          "url": "https://open.spotify.com/artist/1whozOVVllaopi95PnKqPv"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209397,
+      "name": "Makofi",
+      "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
+    },
+    {
+      "album": {
         "name": "Manyuria",
         "url": "https://open.spotify.com/album/1Va6NPyYIHQSQ1tKIwl7A3"
       },
@@ -2541,7 +2607,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 182217,
       "name": "Masaa Zake",
       "url": "https://open.spotify.com/track/2Q9YvawJ0m8zq17N4DQNJF"
@@ -3953,7 +4019,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 201723,
       "name": "Shamra Shamra",
       "url": "https://open.spotify.com/track/0zBeSzwKqoZ96EVfltBxp6"
@@ -4179,7 +4245,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 214900,
       "name": "Sijazoea Kuteteshwa (Si Lazima Tuolewe)",
       "url": "https://open.spotify.com/track/0DA5PMNJQXpeUBtL4uM4ZS"

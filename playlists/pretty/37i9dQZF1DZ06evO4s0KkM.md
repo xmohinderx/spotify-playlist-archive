@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,070 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,126 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 37 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
 | 38 | [Prisoner's Song](https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 2:46 |
 | 39 | [Your Spirit's Alive](https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:20 |
-| 40 | [The Lonesome Boatman](https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:42 |
+| 40 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 |
 | 41 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 |
-| 42 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 |
-| 43 | [Heroes From Our Past](https://open.spotify.com/track/6woegjlrVelSK2Oy5vM2ge) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:30 |
-| 44 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 |
+| 42 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
+| 43 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 |
+| 44 | [The Lonesome Boatman](https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:42 |
 | 45 | [I Wish You Were Here](https://open.spotify.com/track/1SwGLh5FjretgcJFf85QIw) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 4:23 |
-| 46 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 |
-| 47 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 |
+| 46 | [Heroes From Our Past](https://open.spotify.com/track/6woegjlrVelSK2Oy5vM2ge) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:30 |
+| 47 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 |
 | 48 | [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 |
-| 49 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 |
-| 50 | [Paying My Way](https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:54 |
+| 49 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 |
+| 50 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 |
 
-Snapshot ID: `Mjc4MjAzNzEsMDAwMDAwMDA1NzQ3MmJiYzQzM2I4NGE0NDRhNzgxMTcyNTAxNTZkYg==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDA5OTA3NTUxNzFmNjU5Njg0ODgzZTU0YWMwMzYzZjgzNg==`

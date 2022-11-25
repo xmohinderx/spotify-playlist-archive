@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Kaash Paige &amp; FLO Updated weekly! Cover: Ari Lennox
 
-84 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
+85 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6HnqloX71hOSuHC1eMQwe6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 | 2022-06-09 |  |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-09-24 |  |
 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP](https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1) | 3:26 | 2022-07-08 | 2022-09-25 |
+| [Karma](https://open.spotify.com/track/0gU2jK97gomLLkYuO5n26N) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Top Trending Romania \- Vara 2022](https://open.spotify.com/album/4Tg6ZaMT2psOkJEAVF5fLQ) | 3:08 | 2022-11-24 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-31 |  |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2022-06-09 | 2022-06-30 |
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-31 |  |

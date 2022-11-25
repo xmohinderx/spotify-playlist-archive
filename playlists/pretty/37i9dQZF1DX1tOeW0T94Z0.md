@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,265 likes - 85 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,285 likes - 85 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 84 | [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 |
 | 85 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
 
-Snapshot ID: `MTY2ODU0MTcyNSwwMDAwMDAwMGQwMDkzZThjMjAyZGVjYzRiNzQ4N2RmNWUxYzM0ODg2`
+Snapshot ID: `MTY2OTMyOTM0MywwMDAwMDAwMDdmMmFhOGRkODJkMmZmOWQ4ZjczYjQ0NjQwZWJhMTAw`

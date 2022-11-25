@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4050941,
+  "num_followers": 4051738,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMDFlNWQzMDg2MzMyOTMxNjgxNTcyOGQ1OWFlMWM0MWU5",
+  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMGJiYmJhZmQ3ZWFlYTFiY2RkNDFhOTg5MTg2Y2U2ZmVk",
   "tracks": [
     {
       "added_at": "2022-08-31 06:35:41",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2022-08-31 06:35:41",

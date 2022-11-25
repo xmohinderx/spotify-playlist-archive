@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,207 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,739 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 44 | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD) | 2:58 |
 | 45 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
 | 46 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
-| 47 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
-| 48 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 |
+| 47 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 |
+| 48 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
 | 49 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
 | 50 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 |
-| 51 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
-| 52 | [Knocking \(Remix\)](https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM) | [Knocking \(Remix\)](https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt) | 3:14 |
+| 51 | [Knocking \(Remix\)](https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM) | [Knocking \(Remix\)](https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt) | 3:14 |
+| 52 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 53 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 |
 | 54 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 |
 | 55 | [Ozumba Mbadiwe](https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Ozumba Mbadiwe](https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 |
 | 60 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
 
-Snapshot ID: `MTY2ODc3MDI3NiwwMDAwMDAwMDBjMjMyNmZhM2FmYThjMjUxNWNhOTFmNjNlMzYxNWRk`
+Snapshot ID: `MTY2ODc3MDI3NiwwMDAwMDAwMDc5YzMzMzQ1MzA4Njg0Yjc2NzA3MjEzOGQyMGUxYzY2`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 341,
+  "num_followers": 365,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMDFlMDFiNTAwNDkyOTc4MzI4MGYwMWFlNGYyYTlmY2Uz",
+  "snapshot_id": "MTY2NzI3NTIwMCwwMDAwMDAwMDEwY2Q3MTljNDI5MWFhNzYxMzYwM2U5NmY0Y2VkZjUz",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 211025,
       "name": "PARTY (feat. Quavo & Takeoff)",
       "url": "https://open.spotify.com/track/3kT6P4hFj0IVr45TjKOLRp"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Let's Get It: Thug Motivation 101",
-        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 280013,
-      "name": "Soul Survivor",
-      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 193656,
+      "name": "Hard To Choose One",
+      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 216547,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "High Off Life",
-        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 193656,
-      "name": "Hard To Choose One",
-      "url": "https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk"
     },
     {
       "added_at": "2022-11-01 04:00:00",

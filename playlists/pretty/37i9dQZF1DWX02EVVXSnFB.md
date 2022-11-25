@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,864 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,940 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 41 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
 | 42 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
 | 43 | [EQUILIBRIUM](https://open.spotify.com/track/2GnhkfBcDsFdG1MQILHM3j) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [EQUILIBRIUM](https://open.spotify.com/album/5e3V72rf9cvVg8hMS5UvHH) | 4:49 |
-| 44 | [Sun Moon](https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [Sun Moon](https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv) | 2:34 |
+| 44 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 |
 | 45 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
 | 46 | [How Many Zeros](https://open.spotify.com/track/4XkmtOHgvRbINOOctmsX3M) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 3:25 |
 | 47 | [Dance, Dance, Dance \(Disco Version\)](https://open.spotify.com/track/6chkDKDiskOeKnctKVO5GK) | [Marta Acuna](https://open.spotify.com/artist/3GfLu9GKQxKZCzKLy1Dggn) | [Dance, Dance, Dance](https://open.spotify.com/album/3DWpUoxqqPH6DWr1ToXyZb) | 6:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 50 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 51 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 
-Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDlkNzhjODM2NzRmZjE4N2JlNzkwYjQzMGY5YmNmZDFj`
+Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMGMxMDk3NmY2YWRhMmIwMzg5ZDYzM2NkZjEwMzM5ZDJh`

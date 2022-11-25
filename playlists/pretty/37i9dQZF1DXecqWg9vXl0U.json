@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Bella \u00c1lvarez.",
-  "num_followers": 36581,
+  "num_followers": 36652,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI1NDYwNSwwMDAwMDAwMDRhMzczYmI5NzdlYTE5ZWQ0NmJiOWEzM2IzYTc3ODVj",
+  "snapshot_id": "MTY2NzI1NDYwNSwwMDAwMDAwMDIzMGZjNDQ3OWQ0MTlkY2E1ZmUyNjJjYzI0ZGYzZGQy",
   "tracks": [
     {
       "added_at": "2022-10-31 22:16:45",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 110175,
-      "name": "Never Felt This Before",
-      "url": "https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe"
+      "duration_ms": 120000,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
+      "duration_ms": 110175,
+      "name": "Never Felt This Before",
+      "url": "https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         }
       ],
-      "duration_ms": 206489,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -827,6 +811,22 @@
       "duration_ms": 181600,
       "name": "Amor Como Pu\u00f1al",
       "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2022-10-31 22:16:45",
+      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
-    },
-    {
-      "added_at": "2022-10-31 22:16:45",
-      "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "No Aguanto el Calor",
-        "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
       },
       "artists": [
         {
-          "name": "Lisbon Girls",
-          "url": "https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3"
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
         }
       ],
-      "duration_ms": 220000,
-      "name": "No Aguanto el Calor",
-      "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
+      "duration_ms": 193274,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
     },
     {
       "added_at": "2022-10-31 22:16:45",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-10-31 22:16:45",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
+        "name": "No Aguanto el Calor",
+        "url": "https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB"
       },
       "artists": [
         {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5"
+          "name": "Lisbon Girls",
+          "url": "https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3"
         }
       ],
-      "duration_ms": 193274,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
+      "duration_ms": 220000,
+      "name": "No Aguanto el Calor",
+      "url": "https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70"
     },
     {
       "added_at": "2022-10-31 22:16:45",

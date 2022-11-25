@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,624 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,618 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 41 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
 | 42 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 | 43 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 |
-| 44 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
+| 44 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
 | 45 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 46 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
 | 47 | [Motherlode](https://open.spotify.com/track/50lNoDOWVxhdWbmgvecuXa) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Motherlode](https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [SKODEN](https://open.spotify.com/track/3ssxyKEYJgkZxPjrmniL5w) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [SKODEN](https://open.spotify.com/album/4bQcsJ1UJGeyg1PPjA3I3i) | 3:33 |
 | 100 | [Never Said I Love You](https://open.spotify.com/track/1CTvIWh1mje3HTU3jMSCRf) | [Envy Of None](https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ) | [Envy of None](https://open.spotify.com/album/23Iuy4cXEOCOdmbnkb8ZIy) | 4:06 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDY4Nzg2N2JmOTVmZTBjNTI2NjE3ZGE1ZDhlNGZiNGNh`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDMwYjYxNThkZDEwOGY5M2M3NzAwM2QyZWFmNmViOTcz`

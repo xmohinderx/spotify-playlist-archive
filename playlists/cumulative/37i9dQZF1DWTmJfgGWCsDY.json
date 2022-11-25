@@ -299,10 +299,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 373072,
       "name": "Kidimbwi",
       "url": "https://open.spotify.com/track/5X2Ah5XTeVnysfZMh5ilY9"
+    },
+    {
+      "album": {
+        "name": "Kua Uone",
+        "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        },
+        {
+          "name": "Easy Man",
+          "url": "https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291980,
+      "name": "Kua Uone",
+      "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
     },
     {
       "album": {

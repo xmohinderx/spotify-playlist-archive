@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,306 likes - 65 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,425 likes - 65 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 44 | [I Have This Hope](https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 3:24 |
 | 45 | [Bleed The Same](https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Out Of The Dark](https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF) | 4:04 |
 | 46 | [Hope in Front of Me](https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:37 |
-| 47 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
-| 48 | [Good Fight](https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 2:55 |
+| 47 | [Good Fight](https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 2:55 |
+| 48 | [Hope Has a Name](https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Million Lifetimes](https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA) | 4:48 |
 | 49 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
 | 50 | [All My Hope](https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [All My Hope](https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe) | 3:52 |
 | 51 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 57 | [That Was Then, This Is Now](https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [That Was Then, This Is Now](https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq) | 3:17 |
 | 58 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
 | 59 | [My Hope Is in You](https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe \(Deluxe Edition\)](https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD) | 4:14 |
-| 60 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
-| 61 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
+| 60 | [Seasons](https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 4:34 |
+| 61 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 | 62 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 63 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 |
-| 64 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
-| 65 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
+| 64 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
+| 65 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
 
-Snapshot ID: `MTU5NTUxNTA5NiwwMDAwMDAwMGI1ZTE1ZDMzOThhNWYwYmRjMzE3MGJiYzEzZTIwZDgy`
+Snapshot ID: `MTU5NTUxNTA5NiwwMDAwMDAwMDI1ZWQ2ZTcxOTNhOGJmYjk4ZWIwMTZkMGZlNjRjMjNk`

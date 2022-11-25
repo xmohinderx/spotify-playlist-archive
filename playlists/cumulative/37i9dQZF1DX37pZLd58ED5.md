@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-86 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+87 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/2MiWbrDdfI2B56wiJPfObl) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Certi Giorni](https://open.spotify.com/album/1sX4JraSeZL1AlGJGX5DV2) | 3:14 | 2022-04-28 | 2022-07-29 |
 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 | 2022-07-14 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
+| [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:13 | 2022-11-24 |  |
 | [Come Stai](https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:46 | 2022-04-28 | 2022-07-07 |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/1OeIJITrlUR4qss2kywMEn) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 3:50 | 2022-04-28 | 2022-07-29 |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-07-14 |  |
@@ -57,7 +58,7 @@
 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 | 2022-07-01 |  |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-06-20 |
 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 | 2022-04-28 |  |
-| [m12ano \- feat\. Mara Sattei](https://open.spotify.com/track/0LfMuWu6FKNSDHEoxHu9iK) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:08 | 2022-04-28 |  |
+| [m12ano \- feat\. Mara Sattei](https://open.spotify.com/track/0LfMuWu6FKNSDHEoxHu9iK) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:08 | 2022-04-28 | 2022-11-25 |
 | [Male](https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 2:41 | 2022-07-14 |  |
 | [Male](https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Gaming Hip Hop Hits](https://open.spotify.com/album/7fPtjzJR9bfAf7Wv0v9Xp2) | 2:41 | 2022-10-25 | 2022-11-13 |
 | [Male](https://open.spotify.com/track/5BxBGvLJdwBBjCYJRdezxM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 2:41 | 2022-04-28 | 2022-07-29 |

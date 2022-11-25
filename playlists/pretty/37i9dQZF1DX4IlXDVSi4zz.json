@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 134710,
+  "num_followers": 135157,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODI3NDI1OSwwMDAwMDAwMDFlZjc3Y2E0OGMyYTdhOWMyZjM0NGY3NzAzN2Q5ZGRl",
+  "snapshot_id": "MTY2OTMzNzAxMywwMDAwMDAwMGM3N2MxMmE5NjExYjk1OTdiYWM2ZjkxMGVhYjVjODIz",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -189,20 +189,24 @@
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
-      "added_at": "2022-11-12 17:30:59",
+      "added_at": "2022-11-25 01:25:31",
       "album": {
-        "name": "Sera El Sol (Mixed)",
-        "url": "https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR"
+        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
       "artists": [
         {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 187851,
-      "name": "Epico",
-      "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
+      "duration_ms": 269711,
+      "name": "GOOD TIMES - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -219,26 +223,6 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -263,6 +247,26 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-12 15:41:51",

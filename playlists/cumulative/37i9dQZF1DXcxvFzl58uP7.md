@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-793 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+794 songs - 1 day 17 hr 14 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Rush](https://open.spotify.com/track/1YVDXfQqscsz95OHzXtYj2) | [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP), [M.R.L.N](https://open.spotify.com/artist/6FdUPIozbiZTwiaxQXzMM5) | [Rush](https://open.spotify.com/album/5frGEFPYH8gC6ziIceNHPA) | 3:02 | 2019-07-30\* | 2020-04-23 |
 | [Same as It Ever Was](https://open.spotify.com/track/2p4hVPCgzyB7OXDtcdoaWQ) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Same as It Ever Was](https://open.spotify.com/album/3WVb6l4hnwAxisjsG6FDrS) | 2:28 | 2021-08-27 | 2022-04-20 |
 | [Satellite](https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU) | 3:11 | 2021-08-27 | 2022-09-30 |
-| [Satellite](https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs) | 3:11 | 2022-09-14 |  |
+| [Satellite](https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Satellite](https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs) | 3:11 | 2022-09-14 | 2022-11-25 |
 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 | 2022-04-29 | 2022-07-29 |
 | [Scarlett](https://open.spotify.com/track/1xda2R5cSP7GKlqXY3Pji2) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Scarlett](https://open.spotify.com/album/7tkT2j5BuPSjzoBWVygIG7) | 2:38 | 2019-08-01 | 2021-06-04 |
 | [Seabirds](https://open.spotify.com/track/5I0iOfX9YLacuhLspYnTaY) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [Seabirds](https://open.spotify.com/album/1sjjSbwmZbILR4yA8PrdeB) | 4:58 | 2019-07-30\* | 2022-07-29 |
@@ -677,6 +677,7 @@
 | [Talk](https://open.spotify.com/track/62R6tHMZLTzqEvnNaqDXkz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Talk](https://open.spotify.com/album/2I3SLUZ8dt5RFxdKiBwUL8) | 3:02 | 2021-07-02 | 2022-07-29 |
 | [talk](https://open.spotify.com/track/1tVTQKBteYXUUVGh1IOSdB) | [Helena Mayer](https://open.spotify.com/artist/3Cgfb3YtMWmIqo4I1BmCCU) | [talk](https://open.spotify.com/album/1RNDWIy7pJ2wrWMU8nBEk7) | 3:01 | 2021-06-25 | 2022-04-21 |
 | [Talk to Me](https://open.spotify.com/track/7mLIL4OdNdwFcGNlTcWa0c) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Dear.](https://open.spotify.com/album/4DIujoqFXrPFtxPts7PlWz) | 4:37 | 2019-07-30\* | 2021-08-14 |
+| [Talk to You](https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 3:34 | 2022-09-14 |  |
 | [Talk to You](https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You](https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG) | 3:34 | 2021-06-25 | 2022-11-17 |
 | [Talk to You \- slow](https://open.spotify.com/track/2eUmt1vpwc7pl0SImUEWfJ) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You \(remixes\)](https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H) | 4:03 | 2021-08-27 | 2022-06-28 |
 | [Tapioca Cheeks](https://open.spotify.com/track/4XVcu0WKTeQpCgKkb5Q4QK) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Tapioca Cheeks](https://open.spotify.com/album/30TyMP6R9AkzkmVWjTHuor) | 3:07 | 2021-06-04 | 2021-12-21 |

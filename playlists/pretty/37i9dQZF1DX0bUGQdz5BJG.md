@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,524 likes - 157 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,730 likes - 157 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 20 | [Over Her Over Here](https://open.spotify.com/track/1OdqwStwNBN4xWEGQjpceQ) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [This Is Your Brain On Love](https://open.spotify.com/album/0cRcatVb8V1Y6xqJ5MvKAO) | 3:27 |
 | 21 | [Already Crazy](https://open.spotify.com/track/4IoZV0Lbu90FCgIxo2MDM3) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Already Crazy](https://open.spotify.com/album/7sw2yYFMArOmlXs1wHdTo0) | 3:19 |
 | 22 | [Small Town Story](https://open.spotify.com/track/7qno7p651WKKTurXuUSaEe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Small Town Story](https://open.spotify.com/album/50D19Tyeu5HuwyIZS1etr4) | 2:52 |
-| 23 | [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 |
+| 23 | [Hold My Halo](https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:26 |
 | 24 | [RSVP](https://open.spotify.com/track/0OsNG7uCcM23PfxOcJqwKx) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP](https://open.spotify.com/album/08QbTZ27CNzIGQZOg3gJAK) | 2:42 |
 | 25 | [Slide](https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU) | 3:34 |
 | 26 | [Pretty Things](https://open.spotify.com/track/1ieCVH4YMnsXWtGWUiw1Nl) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Pretty Things](https://open.spotify.com/album/1IGUdQwPJ0S1CLEMDjD89P) | 3:44 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 156 | [One Of Those](https://open.spotify.com/track/1jkdZf8nR3UsMMn6dySkJu) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [One Of Those](https://open.spotify.com/album/7G8W1BoxFHXnD7prGXL16s) | 3:36 |
 | 157 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGE3MDNkNWFlNDk4ZjJhZjc4NzhkZTAwZGQ3MjM5Y2Rj`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGJkOTBhNDZmMWY0Nzg3ZDhlNWQ0MWRkNTU4NTkxMTcy`

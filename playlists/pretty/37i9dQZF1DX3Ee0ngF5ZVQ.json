@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers Band",
-  "num_followers": 389968,
+  "num_followers": 390126,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDI2NWQ3NmI1ZmNlMzIwOTUwN2Q2ZTkyNjJmYzQzYTE2",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDBhNTFlYzliZWVhY2Q3M2Q0YTk0YTgyZjI3YzM0OWQw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Happier Alone (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
       "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 224027,
+      "name": "Happier Alone (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -271,22 +275,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Happier Alone (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 242517,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 285525,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 189009,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Die Runnin'",
-        "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 191531,
-      "name": "Die Runnin'",
-      "url": "https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Baby Don't",
         "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 183763,
       "name": "Baby Don't",
       "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Die Runnin'",
+        "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 191531,
+      "name": "Die Runnin'",
+      "url": "https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 229586,
       "name": "If I Lived Here",
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Two Left Feet",
-        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
-      },
-      "artists": [
-        {
-          "name": "Cameron James Smith",
-          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
+      },
+      "artists": [
+        {
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Hang Me Out to Dry",
-        "url": "https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 237077,
-      "name": "Hang Me Out to Dry",
-      "url": "https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "The Old Man Said (Radio Edit)",
-        "url": "https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb"
+        "name": "Hang Me Out to Dry",
+        "url": "https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 194499,
-      "name": "The Old Man Said - Radio Edit",
-      "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
+      "duration_ms": 237077,
+      "name": "Hang Me Out to Dry",
+      "url": "https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 188995,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "The Old Man Said (Radio Edit)",
+        "url": "https://open.spotify.com/album/65ZBxEfMl4eG1DxhshPzVb"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 194499,
+      "name": "The Old Man Said - Radio Edit",
+      "url": "https://open.spotify.com/track/0dSDsfaUbBAqoDw4zBkhYv"
     },
     {
       "added_at": "2022-11-18 05:01:00",

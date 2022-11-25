@@ -3358,6 +3358,24 @@
     },
     {
       "album": {
+        "name": "Love Sux (Deluxe)",
+        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129279,
+      "name": "Mercury In Retrograde",
+      "url": "https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx"
+    },
+    {
+      "album": {
         "name": "SOUND & FURY",
         "url": "https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq"
       },

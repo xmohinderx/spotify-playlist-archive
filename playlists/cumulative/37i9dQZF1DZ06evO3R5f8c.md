@@ -4,14 +4,15 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-75 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+76 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Missed Calls \(feat\. Pharrell Williams & Jozzy\)](https://open.spotify.com/track/5o1JjtIuYRXBoea4WBZGDc) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [10 Missed Calls \(feat\. Pharrell Williams & Jozzy\)](https://open.spotify.com/album/6tmZ3UIw6EXNDS3ziB8Xu9) | 3:57 | 2021-12-28 | 2022-04-10 |
 | [100 Zulu Warriors](https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 | 2021-12-28 |  |
 | [Afraid Of The Dark](https://open.spotify.com/track/6SJgKMpTkkS3A7OTOOpOo6) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:10 | 2021-12-28 |  |
-| [Africa Shine](https://open.spotify.com/track/7uld2wN7GThO54ryAS0ezL) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:26 | 2021-12-28 |  |
+| [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 | 2022-11-24 |  |
+| [Africa Shine](https://open.spotify.com/track/7uld2wN7GThO54ryAS0ezL) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:26 | 2021-12-28 | 2022-11-25 |
 | [Angelina](https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 8:06 | 2021-12-28 |  |
 | [Arise And Shine](https://open.spotify.com/track/4xE4nImgVAFtSADMkupgvm) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:29 | 2022-01-08 | 2022-02-25 |
 | [Buya](https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 8:35 | 2022-02-23 | 2022-11-03 |

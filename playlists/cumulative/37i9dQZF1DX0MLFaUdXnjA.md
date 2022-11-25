@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Chelsea Cutler
 
-1,122 songs - 2 day 11 hr 47 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,123 songs - 2 day 11 hr 51 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,8 @@
 | [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 | 2021-12-11 | 2022-04-16 |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2021-09-18 | 2022-09-05 |
 | [older](https://open.spotify.com/track/3RAmNLhKmAJ4ApDnWChrtl) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [older](https://open.spotify.com/album/2UZOrsVOG6hGUfWoVE4zUx) | 3:32 | 2020-10-16 | 2021-01-15 |
-| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-09 |  |
+| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-09 | 2022-11-25 |
+| [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/7sCdIXPcYIzYmPEl7FdloT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:17 | 2022-11-18 |  |
 | [Older Overnight \- Bonus Track](https://open.spotify.com/track/4PkEC6lj6GXgxDyjmG4obk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 2:39 | 2021-02-26 | 2021-06-26 |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2020-05-01 | 2020-09-18 |
 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 | 2022-09-19 | 2022-10-15 |

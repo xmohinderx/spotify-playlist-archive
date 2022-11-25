@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 4461,
+  "num_followers": 4466,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYzOTg3NiwwMDAwMDAwMDFjMWIxMjMwNDBhZjhiMDI3NjBiNGM2NDRkOWVlMmFk",
+  "snapshot_id": "MTY2NTYzOTg3NiwwMDAwMDAwMDdkMmJiNmRhYzQxNjk0MTEyZDk4ZTZmODgzNmIzNDg5",
   "tracks": [
     {
       "added_at": "2022-10-13 05:44:36",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
-      },
-      "artists": [
-        {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Sun Dance",
-      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -323,42 +323,6 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
-      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
+      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -527,18 +523,22 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
         "name": "Hold tight",
         "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
       "added_at": "2022-10-13 05:44:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-13 05:44:36",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
-    },
-    {
-      "added_at": "2022-10-13 05:44:36",
-      "album": {
         "name": "BOKE (Remix) (feat. kojikoji)",
         "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184510,
       "name": "BOKE (Remix) (feat. kojikoji)",
       "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+    },
+    {
+      "added_at": "2022-10-13 05:44:36",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
     },
     {
       "added_at": "2022-10-13 05:44:36",

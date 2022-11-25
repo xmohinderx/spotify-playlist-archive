@@ -2084,6 +2084,24 @@
     },
     {
       "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204772,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
+    },
+    {
+      "album": {
         "name": "Downstairs (feat. Jaquell) [Remixes]",
         "url": "https://open.spotify.com/album/6H2fT3UlOqvPog8j9xHnu6"
       },
@@ -2747,7 +2765,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 218709,
       "name": "Get It",
       "url": "https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc"

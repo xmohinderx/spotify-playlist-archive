@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,246 likes - 300 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,327 likes - 300 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,10 +106,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 96 | [Salzburg, Vienna, Bratislava](https://open.spotify.com/track/1UBz80xTEt0P3mSGmbwIlo) | [Arkadi Martinë](https://open.spotify.com/artist/6EQHxYOYw1qAvoE38AHZsi) | [Salzburg, Vienna, Bratislava](https://open.spotify.com/album/2Zsl9wRDnS3s4Y1iAEsmTk) | 2:32 |
 | 97 | [Avenue](https://open.spotify.com/track/4jaabHRb9VW5OR0WAQB5JA) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Avenue](https://open.spotify.com/album/2NZn50T5ycvvUlOZvDxvfd) | 2:19 |
 | 98 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 |
-| 99 | [Train Tales](https://open.spotify.com/track/0QOwzo2WjLX7l30KMM9W9T) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/3vB1aery0YEAhmASiTiAHY) | 1:37 |
+| 99 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 |
 | 100 | [Mallorca](https://open.spotify.com/track/5fwUgcNVOqWaAiO7q0m5S4) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [Charry](https://open.spotify.com/artist/0gRHHNqL2VnRuTyPrSVtRr), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Mallorca](https://open.spotify.com/album/64CZA0vP8zFXaGoc2MCV7u) | 1:55 |
 | 101 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 |
-| 102 | [Dope after 8 PM](https://open.spotify.com/track/4qqMCDmYVhSem1M7WAra5b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6lNtzdcPzUIoQ2jZn2GXVr) | 1:56 |
+| 102 | [Dope after 8 PM](https://open.spotify.com/track/7n4ocFmiU0iucf8xrrLxRJ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Dope after 8 PM](https://open.spotify.com/album/6y78KpQ9HxxFLLxtSVVYpI) | 1:56 |
 | 103 | [Blue Vibe](https://open.spotify.com/track/32HW7A2WIZlriOMIFXbfZB) | [Unbeat Ive](https://open.spotify.com/artist/52vH8kSLKLTzOyJ5j3fVS3) | [Blue Vibe](https://open.spotify.com/album/3n22h1oXWBZunHT9HqTZYL) | 2:24 |
 | 104 | [Alone Again](https://open.spotify.com/track/1I5LzwQzflf3ZoNuIwLnBq) | [Aarly](https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj) | [Alone Again](https://open.spotify.com/album/2PmKJoMUa2vd4keMvlO7xS) | 2:24 |
 | 105 | [Dreamwalker](https://open.spotify.com/track/2zVJsiJGMW7mgHbKVlckX5) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Dreamwalker](https://open.spotify.com/album/262766IDUhyOti6GJToput) | 3:00 |
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 247 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 |
 | 248 | [Puerto Rico](https://open.spotify.com/track/6aqMX6fuByY91a282vtaCC) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Puerto Rico](https://open.spotify.com/album/2E6Qwucc6QPeGohiym9YG3) | 3:32 |
 | 249 | [Spiegelei](https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G) | [Spaze Windu](https://open.spotify.com/artist/0yAQ48yJ94zWFTs0YUIdcE), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spiegelei](https://open.spotify.com/album/5dX5r4M9K5DYfYTnJGgfmM) | 2:31 |
-| 250 | [Memories](https://open.spotify.com/track/6cbj6Q87nePYNMCTvNRjCS) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:33 |
+| 250 | [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 |
 | 251 | [Brasileiro](https://open.spotify.com/track/7KZBQq0GlS2VDoN7AcTgSM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Brasileiro](https://open.spotify.com/album/0DFCy6lv7KXEX9GGysJw38) | 1:45 |
 | 252 | [Nine One Nine](https://open.spotify.com/track/56Bovd4TcOgv6LbVpSMgh8) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Carolina Sound](https://open.spotify.com/album/0Vux1XegJB79Un1aRtrRog) | 2:16 |
 | 253 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMDUwZTY2YzJjNDIyNmNiYmNiYmU0NzJiZjVmZTg1NGNm`
+Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMDFkMDYxYjJiZWVjMGYxNTBjOWVhMTUzZTMyNjRlZDZh`

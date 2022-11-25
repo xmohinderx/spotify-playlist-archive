@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 276852,
+  "num_followers": 277065,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMDBkYjU4NTM2ZmUzMTliNmIzMWNiZjc0ZmE2MDQzYjNk",
+  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMDIxNjcyNzlmODJhNWQxYThjY2NkNWRjNTlmZGE3N2Vk",
   "tracks": [
     {
       "added_at": "2022-11-11 09:37:05",
@@ -71,26 +71,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
-      },
-      "artists": [
-        {
-          "name": "Axel Black & White",
-          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
-        }
-      ],
-      "duration_ms": 141170,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Mistakes",
         "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
+      },
+      "artists": [
+        {
+          "name": "Axel Black & White",
+          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
+        }
+      ],
+      "duration_ms": 141170,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/06LkBMhuqiHBQKr72PjONc"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 189543,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "Nobody To Love (with Loren Gray)",
-        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
-      },
-      "artists": [
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Loren Gray",
-          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
-        }
-      ],
-      "duration_ms": 146372,
-      "name": "Nobody To Love (with Loren Gray)",
-      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -575,6 +555,26 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Nobody To Love (with Loren Gray)",
+        "url": "https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "duration_ms": 146372,
+      "name": "Nobody To Love (with Loren Gray)",
+      "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 149724,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
         "name": "Ghost in My Bed",
         "url": "https://open.spotify.com/album/6IWPmmrOiwFINNwTYwLMK1"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 164880,
       "name": "Ghost in My Bed",
       "url": "https://open.spotify.com/track/3prlSDDBKA3kvIaPRK3wca"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 149724,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Barking",
         "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 139500,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "redruM (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
-      },
-      "artists": [
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "redruM - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK"
       },
@@ -1247,6 +1223,30 @@
       "duration_ms": 143266,
       "name": "Princess",
       "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "redruM (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "redruM - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
     }
   ],
   "unique_name": "SLAP!",

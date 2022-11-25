@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,757 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,623 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 14 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
 | 15 | [i'm bored](https://open.spotify.com/track/5tbUOswPFOzdji3HmJ8qTx) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [i'm bored](https://open.spotify.com/album/2OwbS1Pizs6Lu8Edd7BKEk) | 2:16 |
 | 16 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
-| 17 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
-| 18 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOODMORNINGTOKYO!](https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD) | 2:30 |
+| 17 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOODMORNINGTOKYO!](https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD) | 2:30 |
+| 18 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 19 | [If Self\-Destruction Was an Olympic Event, I’d Be Tonya Harding](https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:22 |
 | 20 | [Who Dat Boy \(feat\. A$AP Rocky\)](https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:25 |
 | 21 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 36 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 |
 | 37 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
 | 38 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 |
-| 39 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
-| 40 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
+| 39 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 |
+| 40 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
 | 41 | [DRAINO \(feat\. Denzel Curry\)](https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CITY MORGUE VOL 2: AS GOOD AS DEAD](https://open.spotify.com/album/6o5cXlhhYbFvewfsYpuyEM) | 3:22 |
 | 42 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 43 | [Smack A Bitch](https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [YELLOW PISS](https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [TOXIC BOOGALOO](https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9) | 2:01 |
 | 50 | [DICTATOR](https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [DICTATOR](https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2) | 3:01 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDVmZWY3NDRlYTYyODk5ZmYwNzlkY2QwYTZjMTdiNWI0`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDQ3YzA3Mzk1MTkxOWYyMzJhOWVmYmMxNmZiYzkzOGQ0`

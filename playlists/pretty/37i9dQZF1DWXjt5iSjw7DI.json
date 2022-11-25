@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 58073,
+  "num_followers": 58215,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDZiNTRlZTJkZTllZGUxNDFjNWM5OWQ4NmIzN2RmMmUw",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJkNDQxYmVmYjU2ZWU0NjU5NDJkMjgwMjRkMzFhN2Mw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live At The Star-Club Hamburg",
-        "url": "https://open.spotify.com/album/6pqT4OHQ2QZW77gWehUeLm"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Great Balls Of Fire - Live At The Star-Club, Hamburg, Germany/1964",
-      "url": "https://open.spotify.com/track/6ARRsYdwgQb9igmmjSHDrA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Eagles Live",
         "url": "https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 225173,
       "name": "Your Man - Live In Ohio/2009",
       "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live At The Star-Club Hamburg",
+        "url": "https://open.spotify.com/album/6pqT4OHQ2QZW77gWehUeLm"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Great Balls Of Fire - Live At The Star-Club, Hamburg, Germany/1964",
+      "url": "https://open.spotify.com/track/6ARRsYdwgQb9igmmjSHDrA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -723,18 +723,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "Live At Texas Stadium",
+        "url": "https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 237706,
-      "name": "The Cowboy Rides Away - Live",
-      "url": "https://open.spotify.com/track/5gZqP05YLcDTpLMnDHZMrA"
+      "duration_ms": 236613,
+      "name": "It's 5 O'Clock Somewhere - Live",
+      "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -771,6 +775,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "The Cowboy Rides Away - Live",
+      "url": "https://open.spotify.com/track/5gZqP05YLcDTpLMnDHZMrA"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 248853,
       "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Live At Texas Stadium",
-        "url": "https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "It's 5 O'Clock Somewhere - Live",
-      "url": "https://open.spotify.com/track/2rDJ3cYYaLu5MkwkfN4YQj"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live At Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/2PqZZVNAgRh9cGZwey2pnz"
-      },
-      "artists": [
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/6AbxXqesa6lmRjdxovJIY2"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Kiss You All Over",
-      "url": "https://open.spotify.com/track/5Sn9V9bmIMjoNQ4uxrvGjJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Live From Austin, TX",
         "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Live At Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/2PqZZVNAgRh9cGZwey2pnz"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/6AbxXqesa6lmRjdxovJIY2"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Kiss You All Over",
+      "url": "https://open.spotify.com/track/5Sn9V9bmIMjoNQ4uxrvGjJ"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Mickey Gilley",
         "url": "https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 194786,
       "name": "Stand by Me - Live",
       "url": "https://open.spotify.com/track/1NznZVTpxWpcIysj6xyte3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "Whose Bed Have Your Boots Been Under? - Live",
-      "url": "https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Live at RCA Studios 1972",
         "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Willie And Family Live",
-        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
-      "url": "https://open.spotify.com/track/1PSP9fxy8NGqcnPSkrcl9C"
+      "duration_ms": 286200,
+      "name": "Whose Bed Have Your Boots Been Under? - Live",
+      "url": "https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Mud On the Tires (Live)",
-      "url": "https://open.spotify.com/track/2LzudgjQEiLYhjDVKNcbfl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "The Best Of Jerry Jeff Walker",
         "url": "https://open.spotify.com/album/1lXSCSUAGz7G5ke5yGwbvf"
       },
@@ -1187,8 +1171,8 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
       },
       "artists": [
         {
@@ -1196,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
+      "duration_ms": 213600,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/1PSP9fxy8NGqcnPSkrcl9C"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 445293,
       "name": "Suspicious Minds - Live",
       "url": "https://open.spotify.com/track/6bBacKPEKJ7xRS8EzArysc"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Mud On the Tires (Live)",
+      "url": "https://open.spotify.com/track/2LzudgjQEiLYhjDVKNcbfl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Streets of Bakersfield - Live",
+      "url": "https://open.spotify.com/track/7nLdau7g2f0PemdWBm0Wmb"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "A Concert Behind Prison Walls (Live)",
         "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
       },
@@ -1363,38 +1379,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "Rocky Mountain High - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/3zDNqlZkx2Q8oZh3LD9x27"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/6YB9HUyw0g6m0n5aRMNu9A"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Streets of Bakersfield - Live",
-      "url": "https://open.spotify.com/track/7nLdau7g2f0PemdWBm0Wmb"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Bullets in the Gun",
         "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
@@ -1407,22 +1391,6 @@
       "duration_ms": 367973,
       "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone) - Live at the Fillmore New York at Irving Plaza, 2010",
       "url": "https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Essential Bobby Bare",
-        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Marie Laveau",
-      "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1463,6 +1431,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "Rocky Mountain High - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/3zDNqlZkx2Q8oZh3LD9x27"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/1iHuYVJvgQlix9cawyqKJS"
       },
@@ -1495,34 +1495,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+        "name": "The Essential Bobby Bare",
+        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
-        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 265898,
-      "name": "I'm Gonna Be Somebody - Live",
-      "url": "https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1"
+      "duration_ms": 189080,
+      "name": "Marie Laveau",
+      "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "A Man and His Guitar (Live from the Franklin Theatre)",
+        "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 265898,
+      "name": "I'm Gonna Be Somebody - Live",
+      "url": "https://open.spotify.com/track/7MrG4eeHwaxOVu6l2UW0f1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 243733,
       "name": "This Time - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/7lpnrBgUuirSlzoYYjaVc2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Love Without End, Amen - Live",
+      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 96280,
       "name": "I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
       "url": "https://open.spotify.com/track/2UTLiDHKqkKZ0b0jsGUDDc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Love Without End, Amen - Live",
-      "url": "https://open.spotify.com/track/3HgxVSPIgY96WCKI1ifX1c"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live From Dixie's Bar & Bus Stop",
-        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+        "name": "Live at RCA Studios 1972",
+        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
       },
       "artists": [
         {
-          "name": "Jerry Jeff Walker",
-          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 304480,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
+      "duration_ms": 181853,
+      "name": "Sunday Mornin' Comin' Down - Live from RCA Studios 1972",
+      "url": "https://open.spotify.com/track/0Sx8JhbiYEYo66lWVBe9xz"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live at RCA Studios 1972",
-        "url": "https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Sunday Mornin' Comin' Down - Live from RCA Studios 1972",
-      "url": "https://open.spotify.com/track/0Sx8JhbiYEYo66lWVBe9xz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
         "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 223066,
       "name": "Come Monday - Live",
       "url": "https://open.spotify.com/track/6P0lgXMMtRVcdLigJHQAgA"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live From Dixie's Bar & Bus Stop",
+        "url": "https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jeff Walker",
+          "url": "https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7"
+        }
+      ],
+      "duration_ms": 304480,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1851,34 +1851,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Pam Tillis - Live in Nashville",
-        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
       },
       "artists": [
         {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Don't Tell Me What to Do - Live",
-      "url": "https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
-      },
-      "artists": [
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        },
         {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
+      "duration_ms": 317560,
+      "name": "Love In The First Degree - Live",
+      "url": "https://open.spotify.com/track/1ryDjjcVbq1zk8pEtOHWuf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1899,6 +1887,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Pam Tillis - Live in Nashville",
+        "url": "https://open.spotify.com/album/50ZUmHBs3YcId8YHGD3HcL"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Don't Tell Me What to Do - Live",
+      "url": "https://open.spotify.com/track/59GyZY5JJ2dcdOnVKP210B"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Live Anthology",
         "url": "https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx"
       },
@@ -1915,18 +1919,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Boogie Woogie Country Man - Live",
-      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1943,6 +1947,22 @@
       "duration_ms": 222013,
       "name": "Rodeo Cowboy",
       "url": "https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Boogie Woogie Country Man - Live",
+      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2043,26 +2063,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "At The Ryman (Live)",
-        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "Love In The First Degree - Live",
-      "url": "https://open.spotify.com/track/1ryDjjcVbq1zk8pEtOHWuf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov"
       },
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
-      },
-      "artists": [
-        {
-          "name": "Asleep At The Wheel",
-          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Get Your Kicks On Route 66",
-      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Dwight Live",
         "url": "https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 259200,
       "name": "Fast as You - Live",
       "url": "https://open.spotify.com/track/0vxCflvX87W5Jd5AC7kvLc"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
+      },
+      "artists": [
+        {
+          "name": "Asleep At The Wheel",
+          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Get Your Kicks On Route 66",
+      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "The Whiskey Ain't Working Anymore",
-      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
         "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 732786,
       "name": "Free Bird - Live",
       "url": "https://open.spotify.com/track/3BlXLhEVCZOdirf4YuS7gx"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "The Whiskey Ain't Working Anymore",
+      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "First Time Live!",
-        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "No Show Jones - Live",
-      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/5mlJ4Ka8AAuXDNQe2EJrI7"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 210546,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/660k4yDTMqwWa7eoqyiSpO"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "First Time Live!",
+        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "No Show Jones - Live",
+      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Hillbilly Rock",
-      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
         "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 439506,
       "name": "Simple Man - Live",
       "url": "https://open.spotify.com/track/2NDJucOxHz73g8JBbdGYlX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Hillbilly Rock",
+      "url": "https://open.spotify.com/track/6CCW2iEsdeMuZdPG6lQkhX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Setlist: The Very Best of George Jones LIVE",
-        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Who's Gonna Fill Their Shoes - Live",
-      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 233080,
       "name": "Drinkin' My Baby Goodbye",
       "url": "https://open.spotify.com/track/7rKGE2pcmaI7jqzdhTle5x"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Setlist: The Very Best of George Jones LIVE",
+        "url": "https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Who's Gonna Fill Their Shoes - Live",
+      "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
     },
     {
       "added_at": "2022-11-18 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,108 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,236 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 34 | [Cop Just Out of Frame](https://open.spotify.com/track/5aErz7rxrFV56SybevCdRR) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:46 |
 | 35 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
 | 36 | [Question Authority](https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:02 |
-| 37 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
-| 38 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
-| 39 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
-| 40 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
+| 37 | [Leaders of Tomorrow](https://open.spotify.com/track/3T0t41YzwZeY5ZBYMAuJBA) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/6wjLrUW0SFMZxehAp0EpDi) | 3:56 |
+| 38 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
+| 39 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
+| 40 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
 | 41 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
-| 42 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
-| 43 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
-| 44 | [Leaders of Tomorrow](https://open.spotify.com/track/3T0t41YzwZeY5ZBYMAuJBA) | [Perkele](https://open.spotify.com/artist/6tchRzwnjHlOGnFt1Dh9cF) | [Leaders of Tomorrow](https://open.spotify.com/album/6wjLrUW0SFMZxehAp0EpDi) | 3:56 |
+| 42 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
+| 43 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
+| 44 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
 | 45 | [Super Spreader](https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Super Spreader](https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy) | 2:45 |
 | 46 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
 | 47 | [Trust No One](https://open.spotify.com/track/5Z7xS2nswfBaO0u5itfwad) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Bears, Mayors, Scraps, & Bones \(Remastered\) \[10 Year Anniversary Editio\]](https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
 | 50 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 
-Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMDQ2Njg5OGVjYjM3ODlhYTkxMGE5YmFkZGJjZWUxYTQ5`
+Snapshot ID: `MTY2NDcxMTI3MCwwMDAwMDAwMGQ2NGRhOGYyYWEyNGQ0ZTZhZjQ0NjI5MDE5NjMyZTUz`

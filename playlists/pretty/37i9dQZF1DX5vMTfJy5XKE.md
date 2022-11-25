@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,489 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,252 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

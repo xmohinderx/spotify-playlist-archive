@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,187 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 11 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
 | 12 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
 | 13 | [Alghafiat](https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3) | [Amanar](https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px) | [Music from Saharan Cellphones, Vol\. 1](https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU) | 6:37 |
-| 14 | [Jamm](https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:48 |
-| 15 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 |
+| 14 | [Heygana](https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/78Pv299m6S629pS6hPFOix) | 5:58 |
+| 15 | [Jamm](https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:48 |
 | 16 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
-| 17 | [African Blues](https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 7:02 |
+| 17 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
 | 18 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
-| 19 | [Catfish Blues](https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 5:29 |
+| 19 | [African Blues](https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 7:02 |
 | 20 | [Iyo Djeli](https://open.spotify.com/track/71vG7YOBuSQD5BnRH9HZH0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Seya](https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6) | 6:36 |
 | 21 | [M'Badehou](https://open.spotify.com/track/61AJlCxahP7OhPjYojRvN6) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mali Denhou](https://open.spotify.com/album/0Y3ejNw8PD0839BoDg8N7E) | 6:07 |
 | 22 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 24 | [Tar Hani \(My Love\)](https://open.spotify.com/track/0EvnRzwVhtaboVkVSYvxyA) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Agadez](https://open.spotify.com/album/3lHrjUzIWhXAbdnpUBKVI3) | 6:30 |
 | 25 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
 | 26 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
-| 27 | [Aratane N' Adagh](https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Adagh](https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4) | 5:12 |
+| 27 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 |
 | 28 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
 | 29 | [Yere faga](https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 5:11 |
-| 30 | [Gandadiko](https://open.spotify.com/track/5QW3NVIXKixkTYsVUaTdeO) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:24 |
+| 30 | [Aratane N' Adagh](https://open.spotify.com/track/7f2VHu1fDVbyr3qKpjSgyJ) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Adagh](https://open.spotify.com/album/0NCZHorNT5GUmCcT2nbCU4) | 5:12 |
 | 31 | [Sekou Oumarou](https://open.spotify.com/track/2AOCrMXj342i5mz5Ade7Wi) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:33 |
 | 32 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/6nwusKP4pSgbjjyitIcJMm) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/4NgcUISFZhkOYxh0WshCib) | 6:07 |
 | 33 | [Tamudre](https://open.spotify.com/track/1EPdbtse9qPz2AQN7yUQ1q) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 49 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDNkYjc1MDVkYTQzOGQyMDc0YmJjYTdlNmRjMWJjZmRi`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGJmMGYyYTExYzUyYWRhZDAyZGViMzgzYjVjYmUxYmEx`

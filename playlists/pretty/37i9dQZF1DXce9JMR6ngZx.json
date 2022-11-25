@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 172905,
+  "num_followers": 172993,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMGY5YzA4YTc2NzQ1NWY4MGYxMTUyZDg5NmEwZTNhZTQx",
+  "snapshot_id": "MTU5MzAwOTQ0MCwwMDAwMDAwMDgxODM3YzhkZjk0Y2E4YTAxYTEwNTc0ZjVlMjVmY2Ji",
   "tracks": [
     {
       "added_at": "2020-06-24 14:37:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222426,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 271440,
       "name": "Eduardo E M\u00f4nica",
       "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2020-06-24 14:37:20",

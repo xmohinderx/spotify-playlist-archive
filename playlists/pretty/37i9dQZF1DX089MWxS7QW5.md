@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: merrymerryseoul\(메리메리서울\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,537 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,639 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call me \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [Are we still friends?](https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA) | 3:35 |
-| 2 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/3wFlJuksXb9EslcGiIXjBs) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
+| 2 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 |
 | 3 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 4 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 |
 | 5 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 |

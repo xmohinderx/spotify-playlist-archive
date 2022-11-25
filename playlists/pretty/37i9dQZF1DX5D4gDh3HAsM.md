@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,526 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,893 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 13 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 14 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
 | 15 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 |
-| 16 | [O Little Town of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
+| 16 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
 | 17 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 |
 | 18 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 |
 | 19 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 44 | [Winter Wonderland](https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 2:28 |
 | 45 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
 | 46 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
-| 47 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
-| 48 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 |
-| 49 | [What Child Is This?](https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 4:46 |
-| 50 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 |
+| 47 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 |
+| 48 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
+| 49 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 |
+| 50 | [What Child Is This?](https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 4:46 |
 
-Snapshot ID: `MTY2ODc5ODEwOCwwMDAwMDAwMDNhMDhmM2I3ZDUwNDEyNzU0MDRmMDkwZGYyOWQ2ZGNk`
+Snapshot ID: `MTY2ODc5ODEwOCwwMDAwMDAwMDRmYjI1ZGQ3N2MyMTZiNzdjNGYxYzlmOGU0MTViMWNk`

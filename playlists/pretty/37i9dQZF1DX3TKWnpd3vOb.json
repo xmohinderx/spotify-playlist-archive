@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199774,
+  "num_followers": 199787,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDc4NWFkMGMzNTk3ZjRmOTM4YThkNTFjMmM2ZmZjZjgy",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDlkMjQzZWRlNzJmY2RkNWZlZGZiYzllY2E2ZTQ4ZDQz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Abejas En La Miel",
-        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 225696,
-      "name": "Abejas En La Miel",
-      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 259968,
       "name": "La Libertad Absoluta y el Terror",
       "url": "https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Abejas En La Miel",
+        "url": "https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 225696,
+      "name": "Abejas En La Miel",
+      "url": "https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Por 30 M\u00e1s",
-        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
+        "name": "M\u00fasica de Fondo",
+        "url": "https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
         }
       ],
-      "duration_ms": 184517,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
+      "duration_ms": 206000,
+      "name": "M\u00fasica de Fondo",
+      "url": "https://open.spotify.com/track/0KoBS9IJFn9USaHK6dbgch"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "M\u00fasica de Fondo",
-        "url": "https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5"
+        "name": "Por 30 M\u00e1s",
+        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 206000,
-      "name": "M\u00fasica de Fondo",
-      "url": "https://open.spotify.com/track/0KoBS9IJFn9USaHK6dbgch"
+      "duration_ms": 184517,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
-      },
-      "artists": [
-        {
-          "name": "Candy66",
-          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
-        }
-      ],
-      "duration_ms": 342186,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Sale",
         "url": "https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 237940,
       "name": "Sale",
       "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
+      },
+      "artists": [
+        {
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "duration_ms": 342186,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "R\u00e1pida Comida",
         "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
       },
@@ -1691,6 +1675,26 @@
       "duration_ms": 124552,
       "name": "Surfing caracol",
       "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
+        "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        },
+        {
+          "name": "GrassBrass",
+          "url": "https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
+      "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
     }
   ],
   "unique_name": "Rock Chileno",

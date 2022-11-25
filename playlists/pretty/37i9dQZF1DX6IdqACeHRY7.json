@@ -1,15 +1,15 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 65209,
+  "num_followers": 65222,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMDhmM2M4YmE5ZjYzOGYwMDAxMzlmNGRmMjczYmEzZjNl",
+  "snapshot_id": "MTY2NTA1MjE0MCwwMDAwMDAwMGQ0MWY4MzVkNWNkMGExYTVjNmE5OTRkNmFmNGVlMzU5",
   "tracks": [
     {
-      "added_at": "2022-11-24 00:38:10",
+      "added_at": "2022-11-25 01:31:08",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-11-24 00:38:10",
+      "added_at": "2022-11-25 01:31:08",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "F\u00e5nga mig n\u00e4r jag faller",
-        "url": "https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Svag",
-      "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "I Should Probably Go To Bed",
         "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "F\u00e5nga mig n\u00e4r jag faller",
+        "url": "https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Svag",
+      "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Love & Hurt",
         "url": "https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "These Two Windows",
         "url": "https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP"
       },
@@ -651,38 +651,6 @@
       "duration_ms": 177805,
       "name": "Must Have Been The Wind",
       "url": "https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -707,6 +675,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "What a Time To Be Alive",
         "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 198101,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+      "duration_ms": 189906,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 217161,
       "name": "6 months",
       "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+        "name": "Stay Awake with Me (acoustic)",
+        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Dan Owen",
+          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+      "duration_ms": 207866,
+      "name": "Made to Love You",
+      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Stay Awake with Me (acoustic)",
-        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
         {
-          "name": "Dan Owen",
-          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Made to Love You",
-      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Rhythm Inside (Acoustic)",
-        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 212171,
-      "name": "Rhythm Inside - Acoustic",
-      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 190266,
       "name": "Back in the Water",
       "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Rhythm Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 212171,
+      "name": "Rhythm Inside - Acoustic",
+      "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1631,22 +1631,6 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
-        "name": "Nattely",
-        "url": "https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 211766,
-      "name": "Nattely",
-      "url": "https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1679,6 +1663,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Nattely",
+        "url": "https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 211766,
+      "name": "Nattely",
+      "url": "https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Call Your Girlfriend",
-        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 194809,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+        "name": "Call Your Girlfriend",
+        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
       },
       "artists": [
         {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+      "duration_ms": 194809,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1811,18 +1795,18 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/5tUvSrIpluvVXXJq0E1mYf"
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
       "artists": [
         {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Lost Sparks",
-      "url": "https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy"
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2022-09-09 08:53:28",
@@ -1843,6 +1827,22 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/5tUvSrIpluvVXXJq0E1mYf"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Lost Sparks",
+      "url": "https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2022-09-09 08:53:28",
       "album": {
-        "name": "Out of My Hands",
-        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "Out of My Hands",
-      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
-    },
-    {
-      "added_at": "2022-09-09 08:53:28",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 233133,
       "name": "Where the Heart Is",
       "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+    },
+    {
+      "added_at": "2022-09-09 08:53:28",
+      "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
     }
   ],
   "unique_name": "Ren hygge",

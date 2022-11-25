@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-944 songs - 2 day 3 hr 8 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+945 songs - 2 day 3 hr 11 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Ghetto](https://open.spotify.com/track/3havVW3H4KDEcpenG18uMY) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:21 | 2022-02-26 | 2022-03-10 |
 | [Gia Dio](https://open.spotify.com/track/3spuD6XrnVkNFef5eAC2DI) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [Gia Dio](https://open.spotify.com/album/5nTDzAtEZXZKqtiP3FeYkU) | 2:48 | 2021-09-24 | 2022-04-10 |
 | [GIA NA](https://open.spotify.com/track/2zJdRbci1gCEidwFo2wYOE) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP), [Pala Tranx](https://open.spotify.com/artist/2wPXmugQZ0k6GkdfuWiTeI) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:53 | 2022-11-12 |  |
-| [Gia Sena](https://open.spotify.com/track/38doLxZXMnFU2rwImjshPY) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Gia Sena](https://open.spotify.com/album/4zkNC5w5xq9KFkLfXSlwGg) | 3:41 | 2022-08-18 |  |
+| [Gia Sena](https://open.spotify.com/track/38doLxZXMnFU2rwImjshPY) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Gia Sena](https://open.spotify.com/album/4zkNC5w5xq9KFkLfXSlwGg) | 3:41 | 2022-08-18 | 2022-11-25 |
 | [Gia Sena](https://open.spotify.com/track/5N1eryUOWd5UECQeR5aDfW) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Gia Sena](https://open.spotify.com/album/5ouQIxrRj3K0OqwKB66Qk8) | 3:30 | 2021-07-01 | 2021-10-02 |
 | [GINA](https://open.spotify.com/track/4XtCM0qWk51wpqwaOTrSmc) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 2:07 | 2022-05-20 | 2022-06-12 |
 | [Giousef](https://open.spotify.com/track/5aGpvjdwveeWmclir7dLtL) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:33 | 2022-05-27 | 2022-06-26 |
@@ -420,6 +420,7 @@
 | [Kardia Mou](https://open.spotify.com/track/4kdhUBdBQCEjqbC961YW1L) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [Amantes Amentes](https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF) | 2:31 | 2022-06-11 | 2022-06-13 |
 | [KASETINA](https://open.spotify.com/track/3aybNOn87hMvJUVC697SRi) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 3:01 | 2022-11-12 |  |
 | [Katara](https://open.spotify.com/track/0wPk1A5C3Y73HaaWiinPbm) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [BOSSIDONAS](https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz) | 2:58 | 2022-07-02 | 2022-07-07 |
+| [KATEGIDA](https://open.spotify.com/track/7aV83dc7M5CASPveVmzsSw) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu) | [KATEGIDA](https://open.spotify.com/album/022H5QIRMTwhIJ18UhutW3) | 2:51 | 2022-11-24 |  |
 | [Kathikon](https://open.spotify.com/track/2L0sKpUHojPgtqAmv22f7F) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Kathikon](https://open.spotify.com/album/7d3k9aWkP4DCWJTYzW4v9h) | 1:39 | 2021-05-14 | 2021-05-22 |
 | [Kathikon](https://open.spotify.com/track/5tQrjxSC13DsAxFQ6aMUhV) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 1:39 | 2021-05-22 | 2021-12-05 |
 | [Kati San Asteri](https://open.spotify.com/track/20301UvnG0Foz84sMuInUh) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Kati San Asteri](https://open.spotify.com/album/6MyZHwzoo74P6fglxTjmFH) | 4:05 | 2021-09-12 | 2021-09-13 |

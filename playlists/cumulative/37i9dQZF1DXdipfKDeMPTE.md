@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-392 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+393 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [CrO2](https://open.spotify.com/track/1safGkgdw1Grocn4MdwPFl) | [Kaizen 92](https://open.spotify.com/artist/4b3rKm8D3J3HWUggopMju9) | [Hypnotized](https://open.spotify.com/album/14sSxGjEEXKztcBVI3Y0Nc) | 1:28 | 2022-05-20 | 2022-06-10 |
 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 | 2022-07-22 |  |
 | [Cryon](https://open.spotify.com/track/5HGbCqPkdjQMuzA4FuHZ2F) | [Rhode Chain](https://open.spotify.com/artist/7bNOMStsWlhQ05wzIu8vIW) | [Rhode Chain](https://open.spotify.com/album/4hNCIHb12UGIyHcGItCD3m) | 2:37 | 2022-05-20 |  |
-| [Crystals](https://open.spotify.com/track/5hM8Ljjy7Miqnh8yORVAMn) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Crystals](https://open.spotify.com/album/2NFBr0K13CUQCd7iHHIVHh) | 2:06 | 2022-10-28 |  |
+| [Crystals](https://open.spotify.com/track/1OAdZsRqOykleScTTfgZmo) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Crystals](https://open.spotify.com/album/5gEXCUmcxnmROBcWem1O4W) | 2:06 | 2022-11-11 |  |
+| [Crystals](https://open.spotify.com/track/5hM8Ljjy7Miqnh8yORVAMn) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Crystals](https://open.spotify.com/album/2NFBr0K13CUQCd7iHHIVHh) | 2:06 | 2022-10-28 | 2022-11-25 |
 | [Cutting The Crap](https://open.spotify.com/track/0YacCBc1ZXHrktfiIBWM1p) | [No Dolby](https://open.spotify.com/artist/52BfyAKN0jvZkhu39J0w89) | [Cutting The Crap](https://open.spotify.com/album/08aDF6M1yB0G3Z9da2Z7pW) | 1:43 | 2022-11-11 |  |
 | [dark beat](https://open.spotify.com/track/5C5BsRdreXZ6MkW1BDNEGt) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [dark beat](https://open.spotify.com/album/1g9SHQM7lita1ze8kuPI31) | 1:48 | 2022-05-20 |  |
 | [Days and Daze](https://open.spotify.com/track/6W1OgysIrz7HEHskFh9mZo) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Days and Daze](https://open.spotify.com/album/3TqZsarn2tKEZAlini4bUa) | 2:33 | 2022-10-07 |  |

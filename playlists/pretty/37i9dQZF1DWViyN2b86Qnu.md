@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,411 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,515 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 43 | [Benji](https://open.spotify.com/track/0J4ZatE29YjV3G5gw1xnWx) | [Smooth Jas](https://open.spotify.com/artist/5blslrsLBjGu9TQBq1QD5A) | [Benji](https://open.spotify.com/album/5WwQL4T4cC3aOYrrPxbRs9) | 4:29 |
 | 44 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 |
 | 45 | [Pills & Good Advice](https://open.spotify.com/track/7mVua1NkDiqHpy5YDkUCfu) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [t.i.a.p.f.y.h.](https://open.spotify.com/album/3AmtZIC01fVMxFCGIIlMzO) | 10:13 |
-| 46 | [Lolo 13](https://open.spotify.com/track/7tJiFAXnQ0x6SwwHzjAZYB) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/4PMZlbwVmNpMEOkY1UkM03) | 2:41 |
+| 46 | [Lolo 13](https://open.spotify.com/track/5YGVoookgrVr9Zyw615G1Q) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/1D5mBLxOJpg426RflIyFAf) | 2:41 |
 | 47 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 |
 | 48 | [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 |
 | 49 | [No Thoughts, Head Empty \- Single Version](https://open.spotify.com/track/7v5rX1Id8Lo1t8SeKcGWMf) | [Tape Girl](https://open.spotify.com/artist/04RmwYKUtw7TelYW3UQ3L6) | [No Thoughts, Head Empty](https://open.spotify.com/album/1mc4tA9yDBwHlt6XBGKnlW) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGI0MGRmMmQ5MWFkNmM5MDBjNmNjZjM0NGVkOGY3OWY0`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGJiOGRhMTdhYWFkMjczMWM2NmRhNWJjOWVmNGQ5ODIy`

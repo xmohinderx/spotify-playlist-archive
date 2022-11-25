@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-162 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
+165 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/70im7N6meAYoKT60tHvpq4) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Ain't No Sunshine](https://open.spotify.com/album/1Ad7CT2VSQzEcifgglWrJP) | 2:17 | 2021-12-09 |  |
 | [All Night Long](https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [All Night Long](https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ) | 4:53 | 2021-12-09 |  |
 | [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 | 2021-12-09 |  |
+| [Angel, Won't You Call Me](https://open.spotify.com/track/1j8J1KmPM6qsFnyOBNomZw) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Angel, Won't You Call Me](https://open.spotify.com/album/2JIG5AP8msXqmGskJ6qHQD) | 2:50 | 2022-11-24 |  |
 | [Aventura](https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws) | [Rita Passos](https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO) | [Aventura](https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b) | 3:50 | 2021-12-09 |  |
 | [Bad Guy](https://open.spotify.com/track/1TNPHIgn83UN8r0qg8VMwS) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Bad Guy](https://open.spotify.com/album/75KEw2J5VlubFMIrKNwhec) | 3:10 | 2021-12-09 |  |
 | [Beat It](https://open.spotify.com/track/6UWQ9q6gNZC8AQh3otkUFa) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:54 | 2021-12-09 |  |
@@ -31,6 +32,7 @@
 | [Careless Whisper](https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px) | 5:53 | 2021-12-09 |  |
 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 | 2022-09-30 |  |
 | [China](https://open.spotify.com/track/3GDVAt1e7YXnjpLQLO3Uj6) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [China](https://open.spotify.com/album/0tzBJeeNocpK4aAJJ8PWu6) | 2:48 | 2021-12-09 |  |
+| [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2022-11-24 |  |
 | [Cool Kids](https://open.spotify.com/track/2jyfbS6X9OmOHFXYdowj2V) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Cool Kids](https://open.spotify.com/album/0sy65ji8nJDfZOAfBzluDE) | 3:06 | 2021-12-09 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2021-12-09 |  |
 | [Cruel Summer](https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj) | [Esqapades](https://open.spotify.com/artist/2C2tv6F19vAPlgpvih613k) | [Cruel Summer](https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY) | 3:23 | 2021-12-09 |  |
@@ -161,6 +163,7 @@
 | [Viva La Vida \- Bossa Version](https://open.spotify.com/track/2RHTYieGCulnGxOmyl7tl3) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV) | [Vintage Café \- Lounge & Jazz Blends \(Special Selection\), Pt\. 9](https://open.spotify.com/album/3bRhpBXLNhVGSjY31jrraJ) | 4:09 | 2022-05-04 |  |
 | [Você](https://open.spotify.com/track/1Dd1vP76i14CB4an8wwWW8) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd) | [Voce](https://open.spotify.com/album/2yUfEDdWxAs3oylZnQSdAm) | 4:04 | 2021-12-09 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Daniela Maia](https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT) | [Best of Bossa Lounge \(Millenium Edition\)](https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX) | 3:21 | 2022-05-04 |  |
+| [Wave](https://open.spotify.com/track/0e0yu5W79DVahOtpju6PBk) | [Luiz Mura](https://open.spotify.com/artist/5RlK0YqgWYpYSkLLNR9O6g), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Wave](https://open.spotify.com/album/1BACEpzKmOR7zTgBHnt4dS) | 2:20 | 2022-11-24 |  |
 | [We Found Love \(Bossa Nova Style\) \[Originally Performed By Rihanna and Calvin Harris\]](https://open.spotify.com/track/0YJRmdHf7PJKqBq564BKLW) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:47 | 2021-12-09 |  |
 | [Weak](https://open.spotify.com/track/24mJZpO5vC4weHpATNQXef) | [La Cabana Reyo](https://open.spotify.com/artist/2OULNPMNW4thsI4HFAm0y3) | [Weak](https://open.spotify.com/album/0KrngwmfWFAvlwbaWI25Nb) | 3:23 | 2021-12-09 |  |
 | [Whole Again](https://open.spotify.com/track/5vQPUsti44KFsm1xOrhKHj) | [Juis de Fora](https://open.spotify.com/artist/46BKARTr4WbL2apQKFZ4kt), [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Whole Again](https://open.spotify.com/album/3Lifjzuc8bU1yBhnAJPVCC) | 2:41 | 2021-12-09 |  |

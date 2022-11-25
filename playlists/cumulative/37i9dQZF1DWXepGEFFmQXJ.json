@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Brad Cox",
+  "description": "The cream of today's Country crop. Cover: The Wolfe Brothers",
   "name": "Fresh Country",
   "published_playlist_ids": [
     "4BrfIt5VuvXM9ZKeooO5jX"
@@ -1600,6 +1600,24 @@
     },
     {
       "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/53HGyaGglyCQzDFNQhkgYM"
       },
@@ -1915,6 +1933,24 @@
     {
       "album": {
         "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY"
       },
       "artists": [
@@ -1925,7 +1961,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 206240,
       "name": "Hold My Halo",
       "url": "https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk"
@@ -2918,6 +2954,24 @@
     },
     {
       "album": {
+        "name": "Nothing Like Me",
+        "url": "https://open.spotify.com/album/5NkZwtpPJD3y2oGPLCZqV9"
+      },
+      "artists": [
+        {
+          "name": "Josh Setterfield",
+          "url": "https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206838,
+      "name": "Nothing Like Me",
+      "url": "https://open.spotify.com/track/5YlyQIOBHGbcd2QTf1bWkD"
+    },
+    {
+      "album": {
         "name": "One Mississippi",
         "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
       },
@@ -3579,7 +3633,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 141587,
       "name": "Something Good's Gonna Happen (feat. Amy Sheppard)",
       "url": "https://open.spotify.com/track/6xvx0rx68HedQx8U8UZwpx"
@@ -3673,6 +3727,24 @@
       "duration_ms": 171864,
       "name": "South On Ya",
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
+    },
+    {
+      "album": {
+        "name": "Start Nowhere",
+        "url": "https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Start Nowhere",
+      "url": "https://open.spotify.com/track/33bMASZzuBL82YERsMyozx"
     },
     {
       "album": {

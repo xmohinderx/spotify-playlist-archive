@@ -590,6 +590,24 @@
     },
     {
       "album": {
+        "name": "A subtle joy",
+        "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "A subtle joy",
+      "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -9511,7 +9529,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 150500,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6"

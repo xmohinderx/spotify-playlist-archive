@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,244 likes - 43 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,259 likes - 43 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 |
-| 2 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
-| 3 | [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 |
-| 4 | [cactus](https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:52 |
-| 5 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 |
-| 6 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 |
-| 7 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 |
+| 1 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 |
+| 2 | [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 |
+| 3 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
+| 4 | [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 |
+| 5 | [cactus](https://open.spotify.com/track/7KMVvz2pgecZrUDkRJiFqY) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:52 |
+| 6 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 |
+| 7 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 |
 | 8 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 |
 | 9 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 |
 | 10 | [You Should Know](https://open.spotify.com/track/5my3W0CKAb8kb6Z2Z7NjGx) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [You Should Know](https://open.spotify.com/album/47k8LFRZGbI3TKNSzuHAjq) | 3:03 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 42 | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/track/6rYi8GI5jEUCYSHYZSlpvZ) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/album/4VlVn6uG7iXD7H9Onqb6c8) | 5:03 |
 | 43 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
 
-Snapshot ID: `MTY2NTY4MDQwMCwwMDAwMDAwMDhiNjRlMjUwODRiNGFlYmZjNWY1YjczOGUyZDU4Y2E5`
+Snapshot ID: `MTY2OTMwOTIwMCwwMDAwMDAwMDhlNDkzODE5MWMzNGJhMzg3OWQzODgzNTkyN2FjOTJm`

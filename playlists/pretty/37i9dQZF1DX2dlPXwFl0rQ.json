@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Dueto Eleval en portada.",
-  "num_followers": 77994,
+  "num_followers": 78029,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGUwOGMwMzI3ODdjMzI1OTdmYzFhMTdiNTI1ZGI4YWU1",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGQ3NmFjZjhkODYzMDU2ODhhNjY5Yzg4M2JmMzQ2ZmQz",
   "tracks": [
     {
       "added_at": "2022-09-23 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Mis 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+        }
+      ],
+      "duration_ms": 184816,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Tambien Las Mujeres Pueden (En Vivo)",
         "url": "https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Mis 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
         {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 184816,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt"
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 231506,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/7dz7NLIMO7es3GfCpf6Mdt"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2022-09-23 05:00:00",

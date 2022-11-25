@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 5427,
+  "num_followers": 5461,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMwNjIwNiwwMDAwMDAwMDhmOTVmMzJhODMwNTI4NTYwYjFjZGUyM2IyMjgxZjg2",
+  "snapshot_id": "MTY2NzMwNjIwNiwwMDAwMDAwMGNiMDg3ZTdmN2FhNzYxNjdkOThkOTAwNGFkMWIzNDYw",
   "tracks": [
     {
       "added_at": "2022-11-01 12:36:46",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-11-01 12:36:46",
       "album": {
-        "name": "Show Me the Money 8 Episode 4",
-        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 228607,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
-    },
-    {
-      "added_at": "2022-11-01 12:36:46",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
+    },
+    {
+      "added_at": "2022-11-01 12:36:46",
+      "album": {
+        "name": "Show Me the Money 8 Episode 4",
+        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 228607,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
     },
     {
       "added_at": "2022-11-01 12:36:46",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-11-01 12:36:46",
       "album": {
+        "name": "DARKROOM : roommates only",
+        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 209086,
+      "name": "home sh*t home",
+      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
+    },
+    {
+      "added_at": "2022-11-01 12:36:46",
+      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2022-11-01 12:36:46",
-      "album": {
-        "name": "DARKROOM : roommates only",
-        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 209086,
-      "name": "home sh*t home",
-      "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
     },
     {
       "added_at": "2022-11-01 12:36:46",

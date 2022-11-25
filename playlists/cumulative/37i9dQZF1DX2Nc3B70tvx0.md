@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Wet Leg
 
-1,328 songs - 3 day 7 hr 32 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,329 songs - 3 day 7 hr 35 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 | 2021-05-28 | 2021-10-16 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-30 | 2022-11-17 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 |  |
-| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-11 |  |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-11 | 2022-11-25 |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-11-16 |  |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 | 2022-09-03 |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-12 | 2020-10-29 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-04-20 | 2022-02-25 |
@@ -896,7 +897,7 @@
 | [Pharmacist](https://open.spotify.com/track/1LWXIQyreuswhaIqKabxAD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/10umg2aCAjXa8HPvPKuFw0) | 2:04 | 2022-07-06 | 2022-07-09 |
 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 | 2022-07-15 | 2022-07-29 |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-15 | 2022-08-22 |
-| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-10-14 |  |
+| [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-10-14 | 2022-11-25 |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-07-29 | 2022-04-30 |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-04-02 | 2022-01-12 |
 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-06-23 | 2022-07-01 |
@@ -962,7 +963,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-06-24 | 2022-04-30 |
 | [Rotten](https://open.spotify.com/track/4euglpuBWHIqrTofPsdVTi) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:00 | 2022-05-27 | 2022-06-18 |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-03 | 2022-07-29 |
-| [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-11-16 | 2022-11-22 |
+| [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-11-16 |  |
 | [Rue](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Rue](https://open.spotify.com/album/0wwsKyplQfWHtLxlMvVkvP) | 3:36 | 2020-09-04 | 2021-03-10 |
 | [Run Away](https://open.spotify.com/track/4Ef1QKChVVBQLt0wmTycUS) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/0TUxwnkbBEjBhriA5aTOL8) | 3:39 | 2020-10-13 | 2021-04-15 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-23 | 2022-08-05 |

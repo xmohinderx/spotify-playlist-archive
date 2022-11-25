@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: kid apollo
+> Discover your new favourite artists\. Cover: Caity Baser
 
-176 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+178 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 | 2022-02-18 |  |
 | [Isolate](https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv) | 4:03 | 2022-03-18 | 2022-07-29 |
 | [Isolate](https://open.spotify.com/track/4kbB92kKusaCvb5Mw3HLnL) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/6o5P0rxdduLU4qpB1E71pJ) | 4:03 | 2022-07-28 |  |
+| [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2022-11-25 |  |
 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 | 2022-02-18 |  |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2022-02-18 |  |
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2022-02-18 |  |
@@ -110,7 +111,8 @@
 | [No Romeo](https://open.spotify.com/track/2GNH6YhM2rBaJoxYKy0iF8) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 3:11 | 2022-07-28 | 2022-10-13 |
 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 | 2022-10-06 |  |
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-02-18 | 2022-07-29 |
-| [Northern Line](https://open.spotify.com/track/0kptlB6nxzT2uUpqyceYbr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Northern Line](https://open.spotify.com/album/6Oe15DN8qZBu2zFsTQoBjq) | 2:20 | 2022-02-18 |  |
+| [Northern Line](https://open.spotify.com/track/0kptlB6nxzT2uUpqyceYbr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Northern Line](https://open.spotify.com/album/6Oe15DN8qZBu2zFsTQoBjq) | 2:20 | 2022-02-18 | 2022-11-25 |
+| [Northern Line](https://open.spotify.com/track/3seUKx0ZXlFBqnYzuDx2A8) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [We Live Here \(Deluxe\)](https://open.spotify.com/album/6mciOh2YVlEdXdmHDmphz5) | 2:20 | 2022-11-25 |  |
 | [On the Inside](https://open.spotify.com/track/0HAsW69cfzM0jyiXra0YVr) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:11 | 2022-07-28 |  |
 | [On the Inside](https://open.spotify.com/track/2uzuj9JqqWvSvbJsVWJoOf) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [On the Inside](https://open.spotify.com/album/3Q2ViCzPgVOE2A68GtKaCw) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/1gh1oLs5EBKsGf5KDwgxiO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/39biam1ziDPOSlUeB9fx3L) | 3:12 | 2022-02-18 |  |

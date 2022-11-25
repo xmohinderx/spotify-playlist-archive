@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 7568903,
+  "num_followers": 7572176,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5NzkxNiwwMDAwMDAwMGI3YWQ5ZWVhZjg4NDg2YzMzMmY0NTM5NjU0MzJjMmMy",
+  "snapshot_id": "MTY2ODA5NzkxNiwwMDAwMDAwMDdiMWJiY2ZjM2QzNDc1NTlhYWE2ZjgxYjk1Njg4NDhl",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-11-24 00:51:11",
+      "added_at": "2022-11-25 01:26:06",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "IDK You Yet (Live on Piano)",
+        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "IDK You Yet (Live on Piano)",
-        "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Love Me More",
-        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190658,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190658,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Birthday Cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Birthday Cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "How Could You",
         "url": "https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 187813,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Birthday Cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Astronomy",
-        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 243907,
-      "name": "Astronomy",
-      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "WITHOUT YOU (with Miley Cyrus)",
         "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Astronomy",
+        "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 243907,
+      "name": "Astronomy",
+      "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+        "name": "Mad at Disney",
+        "url": "https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+      "duration_ms": 136838,
+      "name": "Mad at Disney",
+      "url": "https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mad at Disney",
-        "url": "https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P"
+        "name": "Visiting Hours",
+        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
       "artists": [
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 136838,
-      "name": "Mad at Disney",
-      "url": "https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE"
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1795,6 +1795,22 @@
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Go (Remixes)",
         "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
       },
@@ -2003,18 +2019,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -2071,22 +2087,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
     },
     {
       "added_at": "2022-11-03 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 35 | [Thug Cry](https://open.spotify.com/track/74PG0V0b2yt1xZqTNkL2Tr) | [LBS Kee'vin](https://open.spotify.com/artist/7CnxjDbOLSjMEAcyehjztA) | [Belair Baby](https://open.spotify.com/album/1iegXh1wkEkwo9Z74nwO4K) | 2:18 |
 | 36 | [Zero Tolerance](https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Zero Tolerance](https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ) | 4:17 |
 | 37 | [45 \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:35 |
-| 38 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
-| 39 | [Love Is..\. \(feat\. J.I the Prince of N.Y\)](https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [missunderstood…still](https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO) | 3:55 |
+| 38 | [Love Is..\. \(feat\. J.I the Prince of N.Y\)](https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [missunderstood…still](https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO) | 3:55 |
+| 39 | [My Terms \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 2:52 |
 | 40 | [Bad Guy](https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:12 |
 | 41 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
 | 42 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 | 50 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 
-Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMGQwNDMyM2VhYzdjODViZWY1MDk1YzcyZGM5YzY0NTJj`
+Snapshot ID: `MTY2NDY1NjI3MSwwMDAwMDAwMDE5ODBlYTE5NDEyM2NlZDc0ZjEyMTdjYjI5Zjg0MjI0`

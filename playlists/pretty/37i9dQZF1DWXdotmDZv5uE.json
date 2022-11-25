@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 121947,
+  "num_followers": 121993,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDQ0YTY0N2JiYTAyOGEwMjVmMGQ1MjM0NTM0MGFmMGJl",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMDM3OTJlODVlMGYyOGRkOGZiZTljNmZlYWYxNzc2MmQ1",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "Pinotepa",
-      "url": "https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Mis Rancheras Favoritas",
         "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 167636,
       "name": "All\u00e1 En El Rancho Grande",
       "url": "https://open.spotify.com/track/5sqRaYsFBVkG5QyI2c3SnV"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "Pinotepa",
+      "url": "https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -451,22 +451,6 @@
       "duration_ms": 214960,
       "name": "Los machetes",
       "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Las Bicicletas",
-      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Las Bicicletas",
+      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Caribe Mar Sincopado",
         "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Mis Rancheras Favoritas",
         "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
@@ -559,34 +575,30 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+        "name": "Mariachi Vol. 1",
+        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
       "artists": [
         {
           "name": "Mexican Music Factory",
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        }
-      ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
+        },
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+      "duration_ms": 100943,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -623,50 +635,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Antologia Musical 30 Exitos",
-        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
-      },
-      "artists": [
-        {
-          "name": "Los Montanes Del Alamo",
-          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Barrilito",
-      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Mariachi Vol. 1",
-        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 100943,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
       },
@@ -679,22 +647,6 @@
       "duration_ms": 595746,
       "name": "Candela / Morena",
       "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son Itsme\u00f1o",
-          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "La Martiniana",
-      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -715,6 +667,54 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "Antologia Musical 30 Exitos",
+        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
+      },
+      "artists": [
+        {
+          "name": "Los Montanes Del Alamo",
+          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Barrilito",
+      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
+      },
+      "artists": [
+        {
+          "name": "Son Itsme\u00f1o",
+          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "La Martiniana",
+      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -731,26 +731,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 98871,
-      "name": "Huapango 2",
-      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+      "duration_ms": 173800,
+      "name": "La raspa",
+      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -767,22 +759,6 @@
       "duration_ms": 112596,
       "name": "Juarez",
       "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "La raspa",
-      "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -835,22 +811,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
-        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
-      },
-      "artists": [
-        {
-          "name": "Los Camperos de Valles",
-          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "El fandanguito - The Little Fandango",
-      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -867,6 +827,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
+        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
+      },
+      "artists": [
+        {
+          "name": "Los Camperos de Valles",
+          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "El fandanguito - The Little Fandango",
+      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Son De Madera",
         "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 360640,
       "name": "La Guanabana",
       "url": "https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        }
+      ],
+      "duration_ms": 98871,
+      "name": "Huapango 2",
+      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "El Apasionado",
         "url": "https://open.spotify.com/album/2fADsQIgAk1ifIvDNLGBvn"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 237053,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/406FTp77mbKa4NGY0ebVJn"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 397133,
-      "name": "La Gallina",
-      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "\u00a1caramba Ni\u00f1o!",
-        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
-      },
-      "artists": [
-        {
-          "name": "Chuchumb\u00e9",
-          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "La Iguana",
-      "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
         "url": "https://open.spotify.com/album/1I5kQcXKDxb3zkqiZcZcBp"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 158066,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "\u00a1caramba Ni\u00f1o!",
+        "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
+      },
+      "artists": [
+        {
+          "name": "Chuchumb\u00e9",
+          "url": "https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "La Gallina",
+      "url": "https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
-        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Cantores de la Huasteca",
-          "url": "https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "La Petenera",
-      "url": "https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "La Garza",
         "url": "https://open.spotify.com/album/163Wf83iT0ki8EySTd71u9"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 258000,
       "name": "La Garza",
       "url": "https://open.spotify.com/track/0aEA6Ohx2hTBSrpyFVjCmB"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
+        "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Cantores de la Huasteca",
+          "url": "https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "La Petenera",
+      "url": "https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG"
     },
     {
       "added_at": "2022-08-31 15:41:18",

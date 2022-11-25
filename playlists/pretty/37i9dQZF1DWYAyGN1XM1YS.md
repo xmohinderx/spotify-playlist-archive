@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,377 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,594 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 17 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 |
 | 18 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 |
 | 19 | [Copper and Stars](https://open.spotify.com/track/3X6BvcNz8QSYaXLqJ3uHfw) | [Planes Mistaken For Stars](https://open.spotify.com/artist/2rfJuPYf7n3inXgdDNxMku) | [Planes Mistaken for Stars](https://open.spotify.com/album/2yyupliWXQe9Dz4xYT3Y14) | 3:31 |
-| 20 | [Killing A Camera](https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4Q0Q0m5YzJA4liSkoBlbhL) | 2:33 |
+| 20 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
 | 21 | [The D In Detroit](https://open.spotify.com/track/0tlgt22cueiCMotxCMc6Cf) | [The Anniversary](https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8) | [Designing a Nervous Breakdown](https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ) | 4:16 |
 | 22 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 |
 | 23 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 |
 | 24 | [Code Red](https://open.spotify.com/track/3Y82AcAH1o2NW04YYLXBZK) | [The Casket Lottery](https://open.spotify.com/artist/3kSqc2brwAF1kWRFWYe2fW) | [Survival is for Cowards](https://open.spotify.com/album/4t3CkrmaiYODMKPQ4h0wQa) | 4:43 |
 | 25 | [Venus and Bacchus](https://open.spotify.com/track/10G4c1yAJymTIKTvPYP2Pm) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Collected](https://open.spotify.com/album/63tBBmuRFk2tTIF4AeffOU) | 3:19 |
-| 26 | [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 |
+| 26 | [Breakfast of Champions](https://open.spotify.com/track/4J35P4WwTQ1yYIN4ilAYC7) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/63fo684HqZ1MRvyHNUdHW6) | 3:37 |
 | 27 | [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 4:04 |
 | 28 | [Grace Kelly With Wings](https://open.spotify.com/track/3LTwneFzQwPFSI1O8QfNXf) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [If It Weren’t for Venetian Blinds, It Would Be Curtains for Us All](https://open.spotify.com/album/0VrUE9XpB5OBnvRewc0Aq0) | 5:25 |
 | 29 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 |
 | 50 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
 
-Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMGQ5OWNiOTUyMmNhMTU2YTI0NjdjY2E3ZWU5NmE2OWJl`
+Snapshot ID: `MTY1NDc4MjM2MSwwMDAwMDAwMDk3ODI5NWZmMGJlNzZlYjdlNmI0NjJhYWQ2ODM3MmUw`

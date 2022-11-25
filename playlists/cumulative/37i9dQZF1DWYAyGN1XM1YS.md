@@ -4,7 +4,7 @@
 
 > Back to the golden age of emo\. Cover: Thursday
 
-57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
+59 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/2OcBf1DX0Haz6eQXJ4V6dg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 | 2021-06-28 |  |
 | [All These Things](https://open.spotify.com/track/5bDDMJLKJrQLeMj2FpKTXd) | [Benton Falls](https://open.spotify.com/artist/2Gy32a74uxhKUDGuQL57kl) | [Fighting Starlight](https://open.spotify.com/album/3g2zFcP2exTjpyvOncGB9Z) | 5:03 | 2021-06-28 |  |
 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 | 2021-06-28 |  |
-| [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 | 2021-06-28 |  |
+| [Breakfast of Champions](https://open.spotify.com/track/4J35P4WwTQ1yYIN4ilAYC7) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/63fo684HqZ1MRvyHNUdHW6) | 3:37 | 2022-06-09 |  |
+| [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 | 2021-06-28 | 2022-11-25 |
 | [Calm Americans](https://open.spotify.com/track/5rH5kb3vapjDifLxgK3P4Q) | [Elliott](https://open.spotify.com/artist/6KkOfCQtoMpjS2qYgDxmHI) | [False Cathedrals](https://open.spotify.com/album/6s2VrdrRwXXB1kr6RcrKfv) | 4:25 | 2021-06-28 |  |
 | [Caught in a Flood With the Captain of the Cheerleading Squad](https://open.spotify.com/track/3HlL9LqIdf1v4C3BIK9dQA) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:26 | 2021-06-28 |  |
 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 | 2021-06-28 |  |
@@ -37,7 +38,8 @@
 | [In Circles \- Remastered](https://open.spotify.com/track/5k7RUvywwUAl7Dq6qEXR8c) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/2BpIgyANTKnyMIIRvXOjm2) | 4:58 | 2021-06-28 | 2022-07-29 |
 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 | 2022-06-09 |  |
 | [Jude Law And A Semester Abroad](https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Your Favorite Weapon](https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj) | 3:42 | 2021-06-28 |  |
-| [Killing A Camera](https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4Q0Q0m5YzJA4liSkoBlbhL) | 2:33 | 2021-06-28 |  |
+| [Killing A Camera](https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4Q0Q0m5YzJA4liSkoBlbhL) | 2:33 | 2021-06-28 | 2022-11-25 |
+| [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 | 2022-06-09 |  |
 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 | 2021-06-28 |  |
 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 | 2021-06-28 |  |
 | [Mother Mary](https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Soon](https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S) | 2:16 | 2021-06-28 |  |

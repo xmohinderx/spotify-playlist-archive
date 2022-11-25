@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,872 likes - 75 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,267 likes - 75 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 49 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 |
 | 50 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 |
 | 51 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
-| 52 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
-| 53 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 |
+| 52 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 |
+| 53 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
 | 54 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
 | 55 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 | 56 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 |
 | 75 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
 
-Snapshot ID: `MTY2NTE0MjU3NiwwMDAwMDAwMDc5YzM2NGQ5NDRmOTA5NTI5YzkwMThmY2JiMjVlMDUz`
+Snapshot ID: `MTY2NTE0MjU3NiwwMDAwMDAwMDg2Y2I5MjdjMjc1NGRiYWFmNGRjMjFlYWQxMGEyZDUy`

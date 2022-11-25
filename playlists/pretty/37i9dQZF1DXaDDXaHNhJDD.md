@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Thallumaala
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,845 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,062 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 30 | [Uyire](https://open.spotify.com/track/60N3SoK4oWcF0jLU27CRBf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV) | [Gauthamante Radham](https://open.spotify.com/album/4zWNhzZELsqulV8Y2aSZeq) | 3:19 |
 | 31 | [Hemanthamen](https://open.spotify.com/track/2ZDD8iDJmB44AkoVCAAFxh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Kohinoor](https://open.spotify.com/album/0c1uakRjUSIRVXhHHd5gB9) | 4:18 |
 | 32 | [Uyire \- From "Minnal Murali"](https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Mithun Jayaraj](https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh) | [Uyire \(From "Minnal Murali"\)](https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt) | 5:27 |
-| 33 | [Thirike Vaa](https://open.spotify.com/track/6efzNHEEuYb7UDr6J2fFGi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Anne Amie Vazhappilly](https://open.spotify.com/artist/18lbckVMP7tVyDdw7VTgYq) | [Sita Ramam \(Malayalam\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC) | 3:28 |
+| 33 | [Thirike Vaa](https://open.spotify.com/track/6efzNHEEuYb7UDr6J2fFGi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Anne Amie](https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x) | [Sita Ramam \(Malayalam\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC) | 3:28 |
 | 34 | [Theerame](https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Malik \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nEDUHDqYhwz2OqBzCIHZV) | 4:23 |
 | 35 | [Nee Mukilo](https://open.spotify.com/track/4kw7D5nU2QqjdM9pVef6GN) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Uyare \(Original Motion Picture Sound Track\)](https://open.spotify.com/album/5cx4GeMEteMsTzjyZFAPm1) | 3:29 |
 | 36 | [Aaraadhike](https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Ambili \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal) | 6:00 |

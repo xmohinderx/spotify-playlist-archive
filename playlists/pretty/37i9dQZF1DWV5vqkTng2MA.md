@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,605 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,849 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 21 | [Better Man](https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 2:20 |
 | 22 | [I'm Writing a Novel](https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:35 |
 | 23 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
-| 24 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
+| 24 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
 | 25 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 |
-| 26 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
-| 27 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
-| 28 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
+| 26 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 |
+| 27 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
+| 28 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
 | 29 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 |
 | 30 | [The Beachland Ballroom](https://open.spotify.com/track/6numDs6jtM3BAVO2NRrwXC) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:00 |
 | 31 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 51 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
 | 52 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
 | 53 | [Devil in Me](https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 3:41 |
-| 54 | [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 |
-| 55 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
+| 54 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
+| 55 | [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 |
 | 56 | [Never Been a Captain](https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 4:41 |
 | 57 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
 | 58 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 |
-| 59 | [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 |
-| 60 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
+| 59 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
+| 60 | [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 |
 | 61 | [To the Boys](https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [First Flower](https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup) | 3:47 |
 | 62 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
 | 63 | [Sleep](https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Allen Stone](https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 |
 | 90 | [Upside](https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Radius \(Deluxe Edition\)](https://open.spotify.com/album/2sVa8Vc8jNp6vClhgljcrj) | 4:01 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDY5NjE4YzRhOGYxNGRhNzc4NDAzMzg2M2JmYjY3MmNh`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDg2Mjg1YjIwZDkxZjI2YWFlNDM0Mjc3ZGY0ODUxNzIx`

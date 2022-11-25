@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-71 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
+72 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Hot Potato](https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:21 | 2022-03-11 |  |
 | [I Am A Gummy Bear \(English\)](https://open.spotify.com/track/5YJfmBODXO0lL2zTDf8xlD) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [The Gummy Bear Song International Singles](https://open.spotify.com/album/1sgWR5fZEmnBxPlbjmCQVg) | 3:12 | 2022-03-11 |  |
 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 | 2022-03-11 |  |
-| [Kid in a Candy Store](https://open.spotify.com/track/1EkFvCLdauTdHvGWttkd0S) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/3fHLTZ3Gxcvqoyavyp0E2F) | 3:01 | 2022-03-11 |  |
+| [Kid in a Candy Store](https://open.spotify.com/track/10PHhsCeV0Wsw1tWFJ5pEe) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/4MXFo0cqJvqmFQsaxiMozJ) | 3:01 | 2022-03-11 |  |
+| [Kid in a Candy Store](https://open.spotify.com/track/1EkFvCLdauTdHvGWttkd0S) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/3fHLTZ3Gxcvqoyavyp0E2F) | 3:01 | 2022-03-11 | 2022-11-25 |
 | [Kid in a Candy Store](https://open.spotify.com/track/3i6kLnrrhnOnHNGjfMBm7h) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/6lY2JtBkLSZNdv23wo0zik) | 3:01 | 2022-03-11 | 2022-10-13 |
 | [Mr Butt](https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:11 | 2022-03-11 |  |
 | [Mr Butt](https://open.spotify.com/track/6bM6ODk3nkv3ZD6vzP1spw) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/1IJSsAAraXkzM5VF6aX4Lj) | 1:11 | 2022-03-11 | 2022-07-29 |

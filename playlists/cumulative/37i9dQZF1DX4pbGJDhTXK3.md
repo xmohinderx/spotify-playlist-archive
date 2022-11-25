@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-107 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+108 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [I Feel Space](https://open.spotify.com/track/0aDl9YSxDukKL8QKVJ2pBQ) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [I Feel Space](https://open.spotify.com/album/2F88I19y7Fig0dODhq4k1K) | 7:01 | 2022-06-02 | 2022-07-28 |
 | [I Feel Space](https://open.spotify.com/track/2XwqNJ0IynowN5SEk3A6wP) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [I Feel Space](https://open.spotify.com/album/3I7zwJgNse371fJ6AfDD5I) | 7:01 | 2022-07-28 |  |
 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 | 2022-06-02 |  |
-| [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 | 2022-06-02 |  |
+| [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 | 2022-06-02 | 2022-11-25 |
 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 | 2022-09-01 |  |
 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 | 2022-06-02 | 2022-10-13 |
 | [Italian Stallion](https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 6:27 | 2022-10-27 |  |
@@ -89,6 +89,7 @@
 | [Song of Sol](https://open.spotify.com/track/41yLJJEjGT7bEpzKuh5lbf) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Song of Sol](https://open.spotify.com/album/6McSOL6zt40YIegw40csqY) | 7:36 | 2022-06-02 | 2022-07-29 |
 | [Spooks \- Prins Thomas Diskomiks](https://open.spotify.com/track/3TQd0sZE4tfD5fcR0gPn3m) | [Mental Overdrive](https://open.spotify.com/artist/2xjNStXNOmaRCTXHV25IcH), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [10 Years of Full Pupp](https://open.spotify.com/album/6IZdTRzDKC8mlDQw4Tsy3m) | 6:18 | 2022-06-02 | 2022-07-25 |
 | [Stargaze](https://open.spotify.com/track/5XSi9uwzMcwRAPjLrydEOv) | [Erik Skantze](https://open.spotify.com/artist/2J8pNk0h9erP2XcerGPB5R) | [10 Years of Full Pupp](https://open.spotify.com/album/6IZdTRzDKC8mlDQw4Tsy3m) | 6:33 | 2022-06-02 | 2022-07-28 |
+| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-24 |  |
 | [Staying In](https://open.spotify.com/track/5kx5OYMtDOYmkHN973rr0m) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/2KskrAgPQBKonLKPpMCQqS) | 3:54 | 2022-06-02 | 2022-07-29 |
 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 | 2022-07-28 |  |
 | [Strandbar](https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 4:28 | 2022-09-01 |  |

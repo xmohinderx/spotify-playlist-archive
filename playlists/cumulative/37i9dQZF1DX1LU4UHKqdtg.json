@@ -4548,6 +4548,32 @@
     },
     {
       "album": {
+        "name": "The Story : RETOLD",
+        "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "WDBZ",
+          "url": "https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219293,
+      "name": "Nirvana (feat. pH-1 & WDBZ)",
+      "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
+    },
+    {
+      "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
@@ -6286,6 +6312,24 @@
     },
     {
       "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox"
       },
@@ -7363,7 +7407,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 191853,
       "name": "WHISPER",
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Mariah Angeliq & YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,060 likes - 120 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,164 likes - 120 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

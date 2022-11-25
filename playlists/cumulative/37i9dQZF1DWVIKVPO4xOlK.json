@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: 2DEEP",
+  "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Fuerza Regida",
   "name": "Rompiendo: Los Angeles",
   "published_playlist_ids": [
     "0bH4Nye50v2mRRde9njJas"
@@ -445,6 +445,28 @@
       "duration_ms": 171866,
       "name": "Baila As\u00ed (feat. Chiquis)",
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
     },
     {
       "album": {
@@ -959,6 +981,24 @@
       "duration_ms": 205125,
       "name": "Chingas A Tu Madre",
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
+    },
+    {
+      "album": {
+        "name": "Chrysler 300",
+        "url": "https://open.spotify.com/album/3k43dLRyRy4p1ull0bDUem"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Chrysler 300",
+      "url": "https://open.spotify.com/track/6z9Ef3SnDxISkvLuPVDyju"
     },
     {
       "album": {
@@ -1715,7 +1755,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 146250,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/6LDrO6oVhyL64YUcWCRJkV"
@@ -2011,7 +2051,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 146313,
       "name": "Guaracha En Reggaetonlandia",
       "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
@@ -3089,7 +3129,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 138991,
       "name": "Me Acostumbre A Lo Bueno (Remix)",
       "url": "https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw"
@@ -3891,7 +3931,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 123411,
       "name": "Pistol Packin",
       "url": "https://open.spotify.com/track/6Cel5MA3hUownZYYp13pO6"

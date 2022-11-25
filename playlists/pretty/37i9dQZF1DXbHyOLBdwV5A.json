@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 89451,
+  "num_followers": 89503,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjU1MywwMDAwMDAwMDg1NzczNGMwNjViZDg5ODY2NDk0YzZiMDcwNjI3OTI1",
+  "snapshot_id": "MTY2NTcyNjU1MywwMDAwMDAwMGFlNjRmODdkNjBiNTZkZWZjNmU2M2U0Y2ZhM2U1OTMw",
   "tracks": [
     {
       "added_at": "2022-10-14 05:49:13",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
-        "url": "https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
-      "url": "https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
+        "url": "https://open.spotify.com/album/7DId93LkqgXRhIYTE5j1KG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar (Remix)",
+      "url": "https://open.spotify.com/track/5rG2lehtfdwUjkAyEi6K9Z"
     },
     {
       "added_at": "2022-10-14 05:49:13",

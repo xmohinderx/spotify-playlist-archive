@@ -4,7 +4,7 @@
 
 > Because we all deserve great pop love songs in one playlist.
 
-419 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
+420 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/5Gy0dP1pgPGbnWiiwYHssX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [I'm So Sorry](https://open.spotify.com/track/3ve8WYDQjXMKJLy3xfjwG2) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [I'm So Sorry](https://open.spotify.com/album/1ZXuFAbilZWJUhZB4V1Ub1) | 3:00 | 2019-08-02 | 2019-08-27 |
 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 | 2019-08-09 | 2022-07-29 |
 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2021-11-08 | 2022-11-18 |
+| [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 | 2021-11-08 |  |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2019-08-08 |  |
 | [I.F.L.Y.](https://open.spotify.com/track/4R9ATNRRl1uth17i5qDCc0) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I.F.L.Y.](https://open.spotify.com/album/5Q4g8NWSgDf0AEE0Vy7bz9) | 2:45 | 2019-08-04 | 2019-11-02 |
 | [If I Ain't Got You](https://open.spotify.com/track/7m8PEWF1Qjo4BmcjEYsacr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Valentine's Day \- R&B Love](https://open.spotify.com/album/6oUTqYPV88CVjpv2H4Noo9) | 3:49 | 2019-08-05 | 2021-10-13 |
@@ -376,7 +377,7 @@
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-10-12 | 2019-10-23 |
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2021-11-08 |  |
 | [Truly Madly Deeply](https://open.spotify.com/track/69hwHdKl4Y1HusAutt3W6q) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/73I6LRyJDx4scO2zlMqR8m) | 4:37 | 2019-07-29\* | 2021-05-26 |
-| [Turn Back Time](https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Turn Back Time](https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK) | 3:43 | 2019-07-29\* |  |
+| [Turn Back Time](https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Turn Back Time](https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK) | 3:43 | 2019-07-29\* | 2022-11-25 |
 | [U Got Me](https://open.spotify.com/track/2NjQePuDpwMvBcEs4hhOVK) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [U Got Me](https://open.spotify.com/album/3swOXDLiHlH9OiQElpcxPo) | 2:56 | 2019-07-30 | 2021-10-13 |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2020-07-24 |  |
 | [Unbelievable](https://open.spotify.com/track/3anNizayrIeuVv3Mb2KnIR) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Unbelievable](https://open.spotify.com/album/0XHhn6w5KGdsYCKGwpU1xj) | 3:09 | 2019-07-30 | 2019-11-02 |

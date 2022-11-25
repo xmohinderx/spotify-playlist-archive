@@ -2898,6 +2898,24 @@
     },
     {
       "album": {
+        "name": "I Can't Let Up",
+        "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "I Can't Let Up",
+      "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
+    },
+    {
+      "album": {
         "name": "I Know I Been Changed (Music From The Motion Picture \"American Skin\") [feat. Gary Clark Jr.]",
         "url": "https://open.spotify.com/album/09pulMY06JHZrN23zR51H1"
       },
@@ -4029,6 +4047,24 @@
       "duration_ms": 210206,
       "name": "Mazza",
       "url": "https://open.spotify.com/track/4qX69KLy8BvQg9skV6ecsr"
+    },
+    {
+      "album": {
+        "name": "mess it up",
+        "url": "https://open.spotify.com/album/6RGc68Chn4t2kLI2OODxYP"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128300,
+      "name": "mess it up",
+      "url": "https://open.spotify.com/track/0R65qkFygRF8FB4iX9VndY"
     },
     {
       "album": {
@@ -5419,7 +5455,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
@@ -5705,7 +5741,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 222375,
       "name": "SIX THIRTY",
       "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"

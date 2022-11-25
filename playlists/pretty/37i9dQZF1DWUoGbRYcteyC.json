@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Que viva el amor!",
-  "num_followers": 1948939,
+  "num_followers": 1949297,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDU4NWQ0ZWY5YzY4ODc3ZTY5NmI4NGQwYWZlNTE4MTI1",
+  "snapshot_id": "MTY1OTcxNzY1MSwwMDAwMDAwMDFlMzRmNTZmOWJkZjE3MWIxNjRhYmQ0ODY3NzRhNDUx",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 205369,
       "name": "Mejores Amigos",
       "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 218232,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "Qu\u00edtate las Gafas",
-        "url": "https://open.spotify.com/album/72w6yDcGkl4i5eW5TxJJla"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 273293,
-      "name": "Desde Que Estamos Juntos",
-      "url": "https://open.spotify.com/track/66VmioeXL4i1TCfHIO8R9t"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 228506,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "Qu\u00edtate las Gafas",
+        "url": "https://open.spotify.com/album/72w6yDcGkl4i5eW5TxJJla"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Desde Que Estamos Juntos",
+      "url": "https://open.spotify.com/track/66VmioeXL4i1TCfHIO8R9t"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
         "name": "Si Tu Amor No Vuelve",
         "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     },
     {
       "added_at": "2022-08-05 16:40:51",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-08-05 16:40:51",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2022-08-05 16:40:51",
-      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 217000,
       "name": "A Un Beso",
       "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
+    },
+    {
+      "added_at": "2022-08-05 16:40:51",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-05 16:40:51",

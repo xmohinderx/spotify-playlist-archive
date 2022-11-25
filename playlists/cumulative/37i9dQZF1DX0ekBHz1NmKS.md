@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-604 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+605 songs - 1 day 8 hr 9 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
+| [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 | 2022-11-24 |  |
 | [Stockholmsvy](https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/4NUrMxS5Jwc0sa84UeOeZf) | 2:41 | 2022-07-28 | 2022-11-24 |
 | [Stockholmsvy](https://open.spotify.com/track/5DEXZtBOW4haBWw3fvSmwD) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/296TJIJiULJkhgFxhapwR6) | 2:41 | 2022-04-28 | 2022-07-29 |
 | [Stop! In the Name of Love](https://open.spotify.com/track/0iUVV85Q1PAenDqkwfbycd) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Stop! In the Name of Love](https://open.spotify.com/album/2peccCwWOUMXiauAuahEIw) | 3:49 | 2021-12-16 | 2022-03-10 |
@@ -501,7 +502,7 @@
 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 | 2021-12-16 | 2022-04-01 |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
-| [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 |  |
+| [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2022-11-25 |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |

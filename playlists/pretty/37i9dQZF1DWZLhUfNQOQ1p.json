@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230933,
+  "num_followers": 230932,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDIyYzBlMDQ4OWI0ODg0ODhlMjYwYWE2NTc2NWI5MjIz",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDFmMTc0ZGQ2MmJhNTBlYjNmOGVmYmM0YTNiYWI4MWRl",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -251,18 +251,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
+        "name": "Best Part Of Us",
+        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
       },
       "artists": [
         {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 194429,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
+      "duration_ms": 241040,
+      "name": "Best Part Of us",
+      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -283,22 +287,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Best Part Of Us",
-        "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
       },
       "artists": [
         {
-          "name": "AmPm",
-          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
-        },
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
         }
       ],
-      "duration_ms": 241040,
-      "name": "Best Part Of us",
-      "url": "https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp"
+      "duration_ms": 194429,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -487,18 +487,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
       },
       "artists": [
         {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        },
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+      "duration_ms": 200590,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -519,22 +523,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Zonoma",
-          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
-        },
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 200590,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",

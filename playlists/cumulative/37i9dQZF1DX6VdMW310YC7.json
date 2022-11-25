@@ -1422,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "Tears In Paradise",
+        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+    },
+    {
+      "album": {
         "name": "Another You",
         "url": "https://open.spotify.com/album/1k69zllxEsg08KtHqBtvyU"
       },
@@ -12271,7 +12289,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 143066,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5"

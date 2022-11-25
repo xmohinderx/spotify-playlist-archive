@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,640 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 24 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 25 | [OCT 33](https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:49 |
 | 26 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 |
-| 27 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 |
-| 28 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 |
+| 27 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 |
+| 28 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 |
 | 29 | [Flesh and Blood](https://open.spotify.com/track/6lZ4wuGYV4S1qgeiqgsxCo) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:58 |
 | 30 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
 | 31 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
 | 32 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 |
-| 33 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 |
-| 34 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
+| 33 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
+| 34 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 |
 | 35 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
 | 36 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
 | 37 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 | 65 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
 
-Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMDA2OTIxYWY4YjNhNGY2ZDI3NmI1ZTlkM2VmNzZiMGM5`
+Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMGE1ZGRjY2UzZmNlN2FiYjAwZjM2ODY5ZDM1M2FhYzY3`

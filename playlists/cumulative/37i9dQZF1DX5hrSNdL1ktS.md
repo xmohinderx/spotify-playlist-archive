@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-97 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+98 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 | 2022-01-07 | 2022-02-16 |
 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 | 2022-07-29 |  |
 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 | 2022-03-02 |  |
+| [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 | 2022-11-25 |  |
 | [Imagínate](https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Imagínate](https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw) | 3:42 | 2022-02-15 | 2022-07-30 |
 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 | 2022-01-07 |  |
 | [INESTABLE](https://open.spotify.com/track/4Uxd6PAp9jeau7FfA22RIc) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/2m45lXuEtPji0HTrS3Vdw3) | 2:28 | 2022-06-17 | 2022-10-21 |
@@ -75,7 +76,7 @@
 | [NO CONFÍO EN EL INSTA](https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:18 | 2022-01-07 | 2022-02-16 |
 | [No Es Justo](https://open.spotify.com/track/4rqprXWVN6msrKaA6MK0Wl) | [YNG LGNDZ](https://open.spotify.com/artist/1w2oGzpOHgn6dzF6dW5zmT), [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Danny](https://open.spotify.com/artist/4qQ3QoXAwsMqUqh1QDoqtK) | [YNG LGNDZ: Season 1](https://open.spotify.com/album/6THHZzzZicnZYL3HiwnTDL) | 2:42 | 2022-01-07 | 2022-06-04 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-14 |  |
-| [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-02-23 |  |
+| [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-02-23 | 2022-11-25 |
 | [Otra Vez](https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Otra Vez](https://open.spotify.com/album/7HvsH9tnLxISte8aMXsl7J) | 3:07 | 2022-01-07 | 2022-04-25 |
 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-06-17 |  |
 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 | 2022-06-17 |  |

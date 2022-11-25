@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236085,
+  "num_followers": 236126,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDZmNDNhYmQyMWIxZGM0Y2UwMDU3MmJhMTVjY2YzYzIw",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGNjNjU2NDNlZjcwNDcxMWU4NjUxODdiOWMzMWExMWM1",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -925,26 +925,6 @@
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Woman (feat. Lianne La Havas)",
-        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Woman (feat. Lianne La Havas)",
-      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -967,6 +947,26 @@
       "duration_ms": 177925,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Woman (feat. Lianne La Havas)",
+        "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Woman (feat. Lianne La Havas)",
+      "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "My Tribe",
+      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Trust the change",
@@ -1217,20 +1233,20 @@
       "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
         }
       ],
-      "duration_ms": 183500,
-      "name": "My Tribe",
-      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 322320,
       "name": "Don\u2019t Care",
       "url": "https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
-      },
-      "artists": [
-        {
-          "name": "The Jack Moves",
-          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Lionel Richie",
-      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
       "added_at": "2021-08-13 04:01:00",

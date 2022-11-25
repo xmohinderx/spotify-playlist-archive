@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-189 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+190 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Blue](https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [People Pleaser](https://open.spotify.com/album/1j70typFafujL4ecw5kbmP) | 4:12 | 2022-09-16 |  |
 | [Blue](https://open.spotify.com/track/1oAeR6SrUeAMrIM0CD3EdD) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Blue](https://open.spotify.com/album/5KGs3rzqvjS1H7LwPvZD6c) | 4:12 | 2021-11-12 | 2022-10-13 |
 | [Blue Vapor](https://open.spotify.com/track/2Fba40Uu5LoL6qzug1RxJz) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Blue Vapor](https://open.spotify.com/album/2gn1I8UhrLueJxug4NcJVb) | 3:26 | 2021-11-12 | 2022-07-28 |
-| [Body](https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:07 | 2021-11-12 |  |
+| [Body](https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:07 | 2021-11-12 | 2022-11-25 |
 | [Body](https://open.spotify.com/track/1RqQvfdYJBMsltegb00yN2) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/3Xrmpl2pYkGbIZ5CApEfEA) | 5:07 | 2021-11-12 | 2022-07-29 |
+| [Body](https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Body](https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR) | 5:07 | 2022-09-16 |  |
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-12 | 2022-11-12 |
 | [Boxing Day Blues](https://open.spotify.com/track/5H4XMIorgnOoTrQ2JLPvEl) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, And Sometimes I Just Sit](https://open.spotify.com/album/1WBps8cIMT6LYVq5rYh5ze) | 3:02 | 2021-11-12 | 2022-07-18 |
 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2021-11-12 |  |

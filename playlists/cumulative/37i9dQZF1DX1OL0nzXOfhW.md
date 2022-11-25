@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Anna hisbbuR
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英
 
-66 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+68 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Cozy City](https://open.spotify.com/track/2BbjYvro6HGorIwGCoDcCw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [小王子](https://open.spotify.com/album/0dMrxzd1C8h1wITGmdLsWj) | 2:59 | 2022-05-26 |  |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-23 | 2022-10-06 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 | 2022-09-15 |  |
+| [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 |  |
 | [Feelings](https://open.spotify.com/track/0WkAHpwITTLqlhYVoxMOYp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Feelings](https://open.spotify.com/album/0fze6yVFkk6MrYRcneUrZq) | 3:33 | 2022-05-26 |  |
 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 | 2022-05-26 |  |
 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 | 2022-05-26 |  |
@@ -62,6 +63,7 @@
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-05-26 |  |
 | [寶貝 \(feat\. Lily\)](https://open.spotify.com/track/0sHhCmkw2kPiptphcn2c3t) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Lily](https://open.spotify.com/artist/4SyOeqnA6bO9xwHJf8pFoR) | [寶貝 \(feat\. Lily\)](https://open.spotify.com/album/3HMRa0x9dlizDUAPyhlvUR) | 2:51 | 2022-11-17 |  |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-06 |  |
+| [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 |  |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 |  |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
@@ -72,7 +74,7 @@
 | [聽海浪](https://open.spotify.com/track/7nlBO1PoiiB5rjro96w35l) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight.](https://open.spotify.com/artist/0hLugf4oCj37Z2o5Y3Dg6o) | [Bluesea EP \(Extended Version\)](https://open.spotify.com/album/3mQOhYbV2Q7TulGiPcXZzK) | 3:32 | 2022-08-18 |  |
 | [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 | 2022-07-29 |
 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 |  |
-| [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 |  |
+| [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-05-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

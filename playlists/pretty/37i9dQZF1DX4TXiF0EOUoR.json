@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 103462,
+  "num_followers": 103679,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMTIwNywwMDAwMDAwMDNhYWZjOGFmNjA0YmY3OGRjYzk1ZTBmNGU5YTc5MzZj",
+  "snapshot_id": "MTY2MzAxMTIwNywwMDAwMDAwMDhiZDAwNzc1NjU4ZTBhZDA5ZmQ4YmRjZDdjYjE5YWQ3",
   "tracks": [
     {
       "added_at": "2022-09-12 19:33:27",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Tamarindo",
-      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "El Viej\u00f3n de Oro",
         "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 225410,
       "name": "El Pistolero Huapango",
       "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Tamarindo",
+      "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Las Huiliotas",
-      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Aquel Amor (Desde Tingambato Michoacan)",
         "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 246903,
       "name": "Y Claro Que Se Puede - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Las Huiliotas",
+      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Con Sangre Ranchera",
         "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
+      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 167100,
       "name": "Los Colorados (feat. Banda los Escamilla)",
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
-      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 192989,
       "name": "Los Mayeles - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Bailando Ando",
-        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 261712,
-      "name": "El Sonao",
-      "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Como Loco Alucino",
         "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 192066,
       "name": "La Vaquilla",
       "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 261712,
+      "name": "El Sonao",
+      "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
       "artists": [
         {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
         "name": "Arriba Mi Rancho",
         "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 225410,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
-        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
-      },
-      "artists": [
-        {
-          "name": "Banda Perla De Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
-        }
-      ],
-      "duration_ms": 166876,
-      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1575,18 +1559,34 @@
     {
       "added_at": "2022-09-12 19:33:27",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
         }
       ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
+      "duration_ms": 166876,
+      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 160725,
+      "name": "El Toro De Once",
+      "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1603,6 +1603,22 @@
       "duration_ms": 128501,
       "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
       "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
+    },
+    {
+      "added_at": "2022-09-12 19:33:27",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2022-09-12 19:33:27",
@@ -1635,22 +1651,6 @@
       "duration_ms": 288072,
       "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
       "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
-    },
-    {
-      "added_at": "2022-09-12 19:33:27",
-      "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "El Novillo Despuntado",
-      "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
     }
   ],
   "unique_name": "Jaripeo",

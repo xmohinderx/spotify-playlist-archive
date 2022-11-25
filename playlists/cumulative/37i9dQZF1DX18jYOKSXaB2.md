@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-62 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
+63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0bSPCUxLrbY58psnl7ryQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2022-02-11 |  |
 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-02-11 |  |
 | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 |  |
-| [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 |  |
+| [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 | 2022-11-25 |
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-11 | 2022-10-15 |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2022-02-11 | 2022-09-02 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2022-02-11 |  |
@@ -66,6 +66,7 @@
 | [Southy Love](https://open.spotify.com/track/6onjI16E1H5E9BKP7T0V1f) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Southy Love](https://open.spotify.com/album/5WxvR0zKlBEULW3DFKlXZS) | 3:30 | 2022-02-11 | 2022-11-14 |
 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 | 2022-02-11 |  |
 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 | 2022-08-18 |  |
+| [Whenever](https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [A Piece Of Me](https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj) | 2:36 | 2022-11-24 |  |
 | [Winner](https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 3:08 | 2022-08-26 |  |
 | [woman](https://open.spotify.com/track/1IU8Sx9ZEKa3tuowb8R3ut) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:48 | 2022-05-19 | 2022-11-13 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 |  |

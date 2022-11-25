@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,417 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,489 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 64 | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Next To You Part II \(feat\. Rvssian & Davido\)](https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2) | 2:59 |
 | 65 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 |
 | 66 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 |
-| 67 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
+| 67 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 |
 | 68 | [SOLO CON MI CANCIÓN](https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [AFRICAN LOVER](https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC) | 2:52 |
-| 69 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 |
+| 69 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 70 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDFkM2E2NzFiOWMzZWM1MzEzZTE5YzFjNzNmYTdkY2I4`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGU5MzNhNzM0YmU3NmI1MGNhYjAxNjFlYTIwZDUwYWE2`

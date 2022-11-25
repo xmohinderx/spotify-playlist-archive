@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 11151,
+  "num_followers": 11262,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDM3ZTExYjA2ZDg2MDcwMjUyODE2MTNkODI3MmM2NTgw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDI1M2Y1ZGRhZjIxYjkwNTlkOWUxOTIyODBlOTBjNDI2",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Don't Wanna Go",
@@ -403,22 +419,6 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -749,6 +749,26 @@
       "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Beeper Blowing Up",
+        "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
+      },
+      "artists": [
+        {
+          "name": "LATE NIITE",
+          "url": "https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS"
+        },
+        {
+          "name": "Thomas Garcia",
+          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Beeper Blowing Up",
+      "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Snatch! OFF 071",
@@ -771,26 +791,6 @@
       "duration_ms": 186190,
       "name": "About The Music",
       "url": "https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Beeper Blowing Up",
-        "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
-      },
-      "artists": [
-        {
-          "name": "LATE NIITE",
-          "url": "https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS"
-        },
-        {
-          "name": "Thomas Garcia",
-          "url": "https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Beeper Blowing Up",
-      "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
     },
     {
       "added_at": "2022-11-11 05:00:00",

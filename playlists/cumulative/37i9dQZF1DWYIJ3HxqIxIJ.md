@@ -4,7 +4,7 @@
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-179 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+180 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2021-10-15 | 2022-08-16 |
 | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \- Remix](https://open.spotify.com/track/4TRmv5FVCK9kr5khEsdfIH) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Magic \(feat\. BARKAA & MADAM3EMPRESS\) \[Remix\]](https://open.spotify.com/album/2y7BeXWttwmaUt2Udad4qJ) | 2:23 | 2021-10-15 | 2022-08-16 |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-08-15 |  |
-| [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-08-15 |  |
+| [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-08-15 | 2022-11-25 |
+| [Me Myself & I](https://open.spotify.com/track/78Qk1m8zbvvvrmWH2M1yxT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 2:57 | 2022-11-10 |  |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-08-15 |  |
 | [Memories of You](https://open.spotify.com/track/180yjcIvKU1Vx6KifwaTU9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Memories of You](https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh) | 3:21 | 2022-11-10 |  |
 | [MEXICO](https://open.spotify.com/track/5lM91CtjHLkREYf1CVdcbE) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MEXICO](https://open.spotify.com/album/285ln9j6Hny71rTh3rV65n) | 2:14 | 2022-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,074 likes - 120 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,089 likes - 120 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 103 | [Osito Dormilón \(feat\. Tony Hernandez El Gran Silencio\)](https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Tony Hernández El Gran Silencio](https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:06 |
 | 104 | [Como Un Sol](https://open.spotify.com/track/0Zd2UPtm7sy0nQd2U6kRoz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:47 |
 | 105 | [Cúrame](https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:41 |
-| 106 | [Quinto Patio Ska](https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 4:05 |
-| 107 | [Toloache Pa Mi Negra](https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:33 |
+| 106 | [Toloache Pa Mi Negra](https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:33 |
+| 107 | [Quinto Patio Ska](https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 4:05 |
 | 108 | [Pequeño Tratado de un Adiós](https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:06 |
 | 109 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 |
 | 110 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 119 | [Cómo Te Extraño](https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Cómo Te Extraño](https://open.spotify.com/album/1RSFqw2Te37UhUaXeUSxtm) | 4:39 |
 | 120 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MTY2NDQxMDYxOCwwMDAwMDAwMDc1YTVkZTBjNjdkOTA5ZDRmY2Y2NzU3ZWYwZTkyNDgz`
+Snapshot ID: `MTY2NDQxMDYxOCwwMDAwMDAwMDdhNWQ4ODMwNDMxMGYwMTg4YTA4MWRmMzkxNmI4Nzkz`

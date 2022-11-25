@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: J Balvin & Bad Bunny",
-  "num_followers": 477940,
+  "num_followers": 478415,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMDJiZjBhNjU2N2ZiYTgxZDMwNTMyMzlmNjVkZWJkZmZj",
+  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMDY3MmQyZDIwMGEyMzY2Zjg1Mjg4NzhlN2ZiYjFmZDZl",
   "tracks": [
     {
       "added_at": "2022-08-17 15:04:55",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Madura",
         "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 190995,
       "name": "Madura",
       "url": "https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -887,26 +887,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -931,22 +927,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 185194,
+      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 204700,
       "name": "Bella y Sensual",
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 198706,
       "name": "Hasta el Amanecer",
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
         "url": "https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 278106,
       "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
       "url": "https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Los Bandoleros Reloaded",
-        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Velitas",
         "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
       },
@@ -2303,18 +2283,22 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+        "name": "Los Bandoleros Reloaded",
+        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
       },
       "artists": [
         {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+      "duration_ms": 265586,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2335,6 +2319,22 @@
       "duration_ms": 231909,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2487,6 +2487,26 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -2527,26 +2547,6 @@
       "duration_ms": 238160,
       "name": "Que Va",
       "url": "https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2643,26 +2643,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Contra La Pared",
-        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Contra La Pared",
-      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Mayor Que Yo 3",
         "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
       },
@@ -2687,6 +2667,26 @@
       "duration_ms": 304746,
       "name": "Mayor Que Yo 3",
       "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Contra La Pared",
+        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Contra La Pared",
+      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
     },
     {
       "added_at": "2022-08-17 15:04:55",

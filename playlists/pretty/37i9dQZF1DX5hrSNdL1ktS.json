@@ -1,33 +1,13 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55175,
+  "num_followers": 55186,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDQ0OTQyMmZmM2UzZDNkM2I3ODFiZmMzMTIwYWYxNmUx",
+  "snapshot_id": "MTY2OTMzNjczMSwwMDAwMDAwMDExNTUxZWY2ZDliYTM0YzE2NjAxNTA2ZjIxZTNlMTNm",
   "tracks": [
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Tas Clara",
-        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Tas Clara",
-      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
-    },
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
@@ -99,6 +79,22 @@
       "duration_ms": 164000,
       "name": "Numero 1",
       "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
+    },
+    {
+      "added_at": "2022-11-25 00:38:51",
+      "album": {
+        "name": "Hipernova",
+        "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Hipernova",
+      "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -279,22 +275,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "B-Day",
-        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Pa' Eso Se Hizo",
         "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
       },
@@ -335,22 +315,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
@@ -379,6 +343,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -399,6 +379,46 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Tas Clara",
+        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Tas Clara",
+      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "La Oportunidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
       },
@@ -411,6 +431,22 @@
       "duration_ms": 207499,
       "name": "La Oportunidad - Spotify Singles",
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "B-Day",
+        "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -455,6 +491,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "ICE BLUE",
         "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
@@ -475,8 +527,8 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
       },
       "artists": [
         {
@@ -484,29 +536,13 @@
           "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -671,26 +707,6 @@
       "duration_ms": 158666,
       "name": "Jake Long",
       "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -891,38 +907,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Loco Demente",
-        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
-      },
-      "artists": [
-        {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Loco Demente",
-      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Shot de Tequila",
-        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 211809,
-      "name": "Shot de Tequila",
-      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 196744,
       "name": "14",
       "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Loco Demente",
+        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Loco Demente",
+      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -959,6 +959,22 @@
       "duration_ms": 171690,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Shot de Tequila",
+        "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 211809,
+      "name": "Shot de Tequila",
+      "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1031,22 +1047,6 @@
       "duration_ms": 165386,
       "name": "\u00daltima Cena",
       "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Otra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 220202,
-      "name": "Otra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
     }
   ],
   "unique_name": "Urbano Fresh",

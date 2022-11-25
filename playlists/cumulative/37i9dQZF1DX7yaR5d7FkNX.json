@@ -1386,6 +1386,24 @@
     },
     {
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256696,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98"
+    },
+    {
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -2437,6 +2455,24 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "album": {
+        "name": "Orbitando",
+        "url": "https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL"
+      },
+      "artists": [
+        {
+          "name": "Neptuna",
+          "url": "https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327500,
+      "name": "Vor\u00e1gine",
+      "url": "https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ"
     },
     {
       "album": {

@@ -4,12 +4,13 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
+64 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/34gmDNfcLmugl6uIF1DSQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Poco](https://open.spotify.com/track/518lg2dwAG70BuNJ3aezRU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 2:54 | 2022-06-01 | 2022-10-13 |
-| [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 | 2022-06-01 |  |
+| [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 | 2022-06-01 | 2022-11-25 |
+| [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-11-24 |  |
 | [A Través Del Vaso](https://open.spotify.com/track/6iIFQX61X5Ib1bZZjZYetK) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sólo Me Faltabas Tú](https://open.spotify.com/album/6xsI6GomnYt4hdZkd1csNz) | 3:01 | 2022-10-12 |  |
 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 | 2022-06-04 |  |
 | [Amor A Escondidas](https://open.spotify.com/track/5nicx87hWxGgiUbVbMkBdH) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:05 | 2022-06-01 |  |

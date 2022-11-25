@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Veigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,805 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,463 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 39 | [Papo de Agustinho](https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Papo de Agustinho](https://open.spotify.com/album/6zhoQQ4slrBbrAKrhTycwo) | 2:53 |
 | 40 | [No Love](https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Love](https://open.spotify.com/album/50GSItNqYJip64TPybq3A4) | 3:00 |
 | 41 | [Lei da Atraçao](https://open.spotify.com/track/5eMHCxeht8l87J5xfLI03s) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Lei da Atraçao](https://open.spotify.com/album/6yrnDlKD0PU4AueqoUMw8S) | 2:12 |
-| 42 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
+| 42 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ruxn](https://open.spotify.com/artist/20bFEf0GKyZMdVEZ7ao790) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
 | 43 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
 | 44 | [Mal Sei Falar de Amor](https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Mal Sei Falar de Amor](https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr) | 2:08 |
 | 45 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |

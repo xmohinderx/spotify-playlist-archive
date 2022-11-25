@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,037 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,112 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 49 | [Pushin' Time](https://open.spotify.com/track/3UiTRnMtgKxuL9uZJWj0IO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:33 |
 | 50 | [Jive Talkin' \(feat\. Jay Buchanan & Miranda Lambert\)](https://open.spotify.com/track/7xJZbFvjiVtlrjSISl8wrK) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Greenfields: The Gibb Brothers' Songbook \(Vol\. 1\)](https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp) | 3:57 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDA4MzJmMGYyYTk5OTE3NGNhMzhkZGRhOGE3Y2VhNTU4MA==`
+Snapshot ID: `Mjc4MjE2NzcsMDAwMDAwMDBkNGE2NjI0ZWU0OTJhMjQzMDJlNTFlY2ZiZTU0NDk3Mw==`

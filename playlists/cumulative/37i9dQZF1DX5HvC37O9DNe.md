@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-237 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
+238 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/0l80wId7YOuXBlEY4SFFZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [La storia infinita](https://open.spotify.com/track/0XAO6HaZDHa2HxbnWWKWCZ) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [La storia infinita](https://open.spotify.com/album/6IU2IppbPl3bt4CqL90qKd) | 3:27 | 2022-04-27 | 2022-07-29 |
 | [Lalalalalalalalalala](https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lalalalalalalalalala](https://open.spotify.com/album/2vPyR1QaW69L7vVQrv0Vxz) | 2:41 | 2022-04-27 | 2022-07-19 |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-07-26 | 2022-09-30 |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-10-27 |  |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2022-04-27 |  |
 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 | 2022-04-27 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 | 2022-07-26 |  |
@@ -176,7 +177,7 @@
 | [Ricordi](https://open.spotify.com/track/6Tj82tvIsDmfMTskuomuEq) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ricordi](https://open.spotify.com/album/4HTHn74exsZ0i3bClrCFef) | 3:22 | 2022-09-29 |  |
 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 | 2022-04-27 | 2022-07-29 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-26 | 2022-09-30 |
-| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-26 |  |
+| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-26 | 2022-11-25 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2022-05-25 | 2022-07-24 |
 | [Rubini \(feat\. Elisa\)](https://open.spotify.com/track/0LgTs0nP7zgSaCMQHGsnEh) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ghettolimpo](https://open.spotify.com/album/28udVAojmZw3D133MwlQer) | 3:48 | 2022-04-27 | 2022-07-29 |
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2022-04-27 |  |

@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3NxbyghXuVqMNPsxTySpFO"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u4e9c\u5f25",
+          "url": "https://open.spotify.com/artist/0g60HHRfC4zC5PGumCdarL"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350380,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/32GhaFumsrVQ74xjyljNSB"
+    },
+    {
+      "album": {
         "name": "After the World Ends (Remixes)",
         "url": "https://open.spotify.com/album/0lketV3w6gILrgMG3Tdtlo"
       },
@@ -5791,7 +5809,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 258168,
       "name": "One More Kiss (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
@@ -6911,6 +6929,24 @@
       "duration_ms": 244026,
       "name": "Smile!",
       "url": "https://open.spotify.com/track/3M3A0H0fENFT9xbHYR6EDl"
+    },
+    {
+      "album": {
+        "name": "Snowdome",
+        "url": "https://open.spotify.com/album/1aLZqEnaU9vS2aLfM3nOfZ"
+      },
+      "artists": [
+        {
+          "name": "\u7532\u7530\u307e\u3072\u308b",
+          "url": "https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207951,
+      "name": "Snowdome",
+      "url": "https://open.spotify.com/track/0UQB0EldqstsDEJgFabqpH"
     },
     {
       "album": {
@@ -8079,6 +8115,24 @@
       "duration_ms": 252032,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs"
+    },
+    {
+      "album": {
+        "name": "TRANSPARENT HEART (VIP Mix)",
+        "url": "https://open.spotify.com/album/2bj1o6nCbGCQvpG80mQ9jk"
+      },
+      "artists": [
+        {
+          "name": "Ayane Yamazaki",
+          "url": "https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250683,
+      "name": "TRANSPARENT HEART - VIP Mix",
+      "url": "https://open.spotify.com/track/3Mo43Lo8XCLP5lnx6mJ9uB"
     },
     {
       "album": {
@@ -11495,7 +11549,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 193343,
       "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"
@@ -14191,7 +14245,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 233693,
       "name": "\u5e78\u305b\u306e\u63a2\u3057\u65b9 - 2022 Remaster",
       "url": "https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv"

@@ -1,13 +1,77 @@
 {
-  "description": "The freshest South African alternative and indie music. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=1kLL2uwqRpudjJjI6yFrAA\">HONEYMOAN</a>",
-  "num_followers": 5083,
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=TsDMEATKR_Gq-4FjsnL6Cw\">Tanaka</a>",
+  "num_followers": 5090,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDZiNzAwNjljOGM0NTA2YTY1N2QyNzI2YjlhYTNlZmVm",
+  "snapshot_id": "MTY2OTMyNzE0MCwwMDAwMDAwMGRmOGY2YWUxMGEwZTQ4ZGNlNDJkYzYyNjRkNjNhMzQ3",
   "tracks": [
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Wait for Love",
+        "url": "https://open.spotify.com/album/51qxnbnZDPokiJsulGmIIb"
+      },
+      "artists": [
+        {
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
+        }
+      ],
+      "duration_ms": 263172,
+      "name": "Wait for Love",
+      "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Fight For Me",
+        "url": "https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "duration_ms": 226544,
+      "name": "Fight For Me",
+      "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "cold",
+        "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 271229,
+      "name": "cold",
+      "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
+    },
     {
       "added_at": "2022-11-10 21:59:00",
       "album": {
@@ -23,6 +87,38 @@
       "duration_ms": 173800,
       "name": "Shortcuts",
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "duration_ms": 293389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+    },
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -45,22 +141,6 @@
       "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
     },
     {
-      "added_at": "2022-11-03 21:59:00",
-      "album": {
-        "name": "Wait for Love",
-        "url": "https://open.spotify.com/album/51qxnbnZDPokiJsulGmIIb"
-      },
-      "artists": [
-        {
-          "name": "Tanaka",
-          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
-        }
-      ],
-      "duration_ms": 263172,
-      "name": "Wait for Love",
-      "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Stardust",
@@ -77,20 +157,28 @@
       "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2022-11-24 21:59:00",
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
+        "name": "Solplay Tape, Vol. 1 (Mixtape)",
+        "url": "https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg"
       },
       "artists": [
         {
-          "name": "The Great Yawn",
-          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+          "name": "VOLDY",
+          "url": "https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/3Qsuw3KJY0DZDEBHR7uRPe"
+        },
+        {
+          "name": "SwimGood",
+          "url": "https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ"
         }
       ],
-      "duration_ms": 293389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+      "duration_ms": 130142,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A"
     },
     {
       "added_at": "2022-03-03 21:59:00",
@@ -109,22 +197,6 @@
       "url": "https://open.spotify.com/track/4bxjgQ4hZ1kBsCzvpVFBFn"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "cold",
-        "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 271229,
-      "name": "cold",
-      "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
-    },
-    {
       "added_at": "2022-07-01 10:28:00",
       "album": {
         "name": "How to skate",
@@ -141,20 +213,20 @@
       "url": "https://open.spotify.com/track/1F828L9uVdKx0hfUcEZm62"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-11-24 21:59:00",
       "album": {
-        "name": "On the way to Beatenberg",
-        "url": "https://open.spotify.com/album/414CQfkaibycxv5kLfxsGe"
+        "name": "Take Me Home (One Take)",
+        "url": "https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY"
       },
       "artists": [
         {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+          "name": "True nESS",
+          "url": "https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh"
         }
       ],
-      "duration_ms": 194853,
-      "name": "85",
-      "url": "https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ"
+      "duration_ms": 141480,
+      "name": "Take Me Home (One Take)",
+      "url": "https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -171,46 +243,6 @@
       "duration_ms": 183174,
       "name": "You're over Me",
       "url": "https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "You Belong To Me",
-        "url": "https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1"
-      },
-      "artists": [
-        {
-          "name": "True nESS",
-          "url": "https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G"
-    },
-    {
-      "added_at": "2022-08-18 21:59:00",
-      "album": {
-        "name": "Cigarettes",
-        "url": "https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa"
-      },
-      "artists": [
-        {
-          "name": "SyonkoTheMan",
-          "url": "https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX"
-        },
-        {
-          "name": "GOD-Artist",
-          "url": "https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0"
-        },
-        {
-          "name": "Wandilorn",
-          "url": "https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR"
-        }
-      ],
-      "duration_ms": 209382,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -243,6 +275,46 @@
       "duration_ms": 264503,
       "name": "Driven to Drink",
       "url": "https://open.spotify.com/track/1g61CcDnJNowdZJK6oW1GS"
+    },
+    {
+      "added_at": "2022-08-18 21:59:00",
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa"
+      },
+      "artists": [
+        {
+          "name": "SyonkoTheMan",
+          "url": "https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX"
+        },
+        {
+          "name": "GOD-Artist",
+          "url": "https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0"
+        },
+        {
+          "name": "Wandilorn",
+          "url": "https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR"
+        }
+      ],
+      "duration_ms": 209382,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "On the way to Beatenberg",
+        "url": "https://open.spotify.com/album/414CQfkaibycxv5kLfxsGe"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "85",
+      "url": "https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -405,22 +477,6 @@
       "url": "https://open.spotify.com/track/6YjBj6LmQISfkAVD8f0OHN"
     },
     {
-      "added_at": "2021-10-14 21:59:00",
-      "album": {
-        "name": "You Still Don't Know Me",
-        "url": "https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO"
-      },
-      "artists": [
-        {
-          "name": "Marcus Harvey",
-          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
-        }
-      ],
-      "duration_ms": 153163,
-      "name": "You Wouldn't Understand",
-      "url": "https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9"
-    },
-    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "Days On Mountains",
@@ -535,22 +591,6 @@
       "duration_ms": 177000,
       "name": "Gaslight (Caught Fire)",
       "url": "https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ"
-    },
-    {
-      "added_at": "2022-07-01 10:28:00",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA"
     },
     {
       "added_at": "2022-08-18 21:59:00",
@@ -701,22 +741,6 @@
       "url": "https://open.spotify.com/track/15rZyIFD0Yt4cIuL1bZArn"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "b r o k e n",
-        "url": "https://open.spotify.com/album/6pn0943eZvVAcyuyA7FZKF"
-      },
-      "artists": [
-        {
-          "name": "KVSE",
-          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "b r o k e n",
-      "url": "https://open.spotify.com/track/4zSvDZHmk0mcxwy1ZbeVsL"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "ghost in the machine",
@@ -783,22 +807,6 @@
       "duration_ms": 229235,
       "name": "Wonder Wonder",
       "url": "https://open.spotify.com/track/31Ig0hJJU3pOalXkHUQZP2"
-    },
-    {
-      "added_at": "2022-07-21 21:59:00",
-      "album": {
-        "name": "Be Safe",
-        "url": "https://open.spotify.com/album/4kziQRgKsbodafWnaShxUM"
-      },
-      "artists": [
-        {
-          "name": "Mars Baby",
-          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
-        }
-      ],
-      "duration_ms": 205577,
-      "name": "Be Safe",
-      "url": "https://open.spotify.com/track/4ew3JQ22NjwC0zyyzx0tob"
     },
     {
       "added_at": "2022-11-10 21:59:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pablo Milan\u00e9s.",
   "name": "Cantautores",
   "published_playlist_ids": [
     "1rcqnJTuxkgmJDpLbQBBLY"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 294095,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 281003,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/0XR0jBbghtl9mPFu2sdrkw"
@@ -1955,6 +1955,28 @@
       "duration_ms": 363183,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/4qFoj2WZreh2HS1ypR3R6F"
+    },
+    {
+      "album": {
+        "name": "La Vida en Canciones",
+        "url": "https://open.spotify.com/album/4JmtA7DoG2XPhCwpgCMkI1"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376386,
+      "name": "La Madre",
+      "url": "https://open.spotify.com/track/4eUhX5KmmQp537lxDJpmQK"
     },
     {
       "album": {
@@ -2573,6 +2595,24 @@
       "duration_ms": 237680,
       "name": "No Saben de Ti",
       "url": "https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0"
+    },
+    {
+      "album": {
+        "name": "No se dice suerte",
+        "url": "https://open.spotify.com/album/0mus4ElrKxyWO3b4nZzdtb"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263866,
+      "name": "No se dice suerte",
+      "url": "https://open.spotify.com/track/5mscPr5RK0ivJGDfIjFnvL"
     },
     {
       "album": {
@@ -3497,7 +3537,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
@@ -3669,6 +3709,24 @@
       "duration_ms": 256813,
       "name": "Te sigo so\u00f1ando (feat. Luz Casal) - En Estudio Uno",
       "url": "https://open.spotify.com/track/3A0nxq1JYftweBELu8rxP0"
+    },
+    {
+      "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/1JVc6xReXLJbKpVlTKg03e"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270359,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd"
     },
     {
       "album": {
@@ -3879,6 +3937,24 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
+    },
+    {
+      "album": {
+        "name": "Una cueva en el invierno",
+        "url": "https://open.spotify.com/album/1ZJuPuaPhSuHYLc9dgQAaR"
+      },
+      "artists": [
+        {
+          "name": "Marilia",
+          "url": "https://open.spotify.com/artist/0vpLum5X3NNpmdvLPMm5El"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186183,
+      "name": "Una cueva en el invierno",
+      "url": "https://open.spotify.com/track/4ttTVZY3XxVFDdKtHsQXCS"
     },
     {
       "album": {

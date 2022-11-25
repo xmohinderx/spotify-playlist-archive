@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,116 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,422 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 |
 | 50 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 |
 
-Snapshot ID: `Mjc4MjAzNzAsMDAwMDAwMDA2OTI2ZmFhZTNkOTJhMDBlNjZhYWI5ZjljNjg4MGYzOA==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDAyZWNiZmFkMzBkMTVjYjg0MmYzMDA2YzRiODU5NjY1OA==`

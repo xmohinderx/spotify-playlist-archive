@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 272176,
+  "num_followers": 273564,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyOTE0MSwwMDAwMDAwMGYzZjAzMjRkY2QxMWU3NzcyOTQzZTAwOTcxMGRlOGVk",
+  "snapshot_id": "MTY2OTEyOTE0MSwwMDAwMDAwMDhlZTQ4NjA3NGEzNTM4NTE1MGMyMzhlYTI5ZGRjZTQz",
   "tracks": [
     {
       "added_at": "2022-11-22 14:58:34",
@@ -379,30 +379,6 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
-        "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
-      },
-      "artists": [
-        {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
-        },
-        {
-          "name": "J\u00f3el P\u00e1lsson",
-          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
-      "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -415,6 +391,22 @@
       "duration_ms": 248500,
       "name": "end credits",
       "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
+        "name": "Moon Lover",
+        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -435,18 +427,26 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "Moon Lover",
-        "url": "https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj"
+        "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+        "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        },
+        {
+          "name": "J\u00f3el P\u00e1lsson",
+          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND"
+      "duration_ms": 221000,
+      "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+      "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Cassidy Place",
-          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 105721,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
+      "duration_ms": 171253,
+      "name": "What Love Will Do to You",
+      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -667,22 +667,6 @@
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "What Love Will Do to You",
-      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+        }
+      ],
+      "duration_ms": 105721,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -819,38 +835,6 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "Taxes",
-        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
-      },
-      "artists": [
-        {
-          "name": "Disco Loveless",
-          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
-        }
-      ],
-      "duration_ms": 201577,
-      "name": "Taxes",
-      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
         "name": "Sunset In The Blue",
         "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
+      },
+      "artists": [
+        {
+          "name": "Disco Loveless",
+          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
+        }
+      ],
+      "duration_ms": 201577,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "once in a moon",
-        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 245175,
-      "name": "once in a moon",
-      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
         "name": "C\u2019est si bon",
         "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
+        "name": "once in a moon",
+        "url": "https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 245175,
+      "name": "once in a moon",
+      "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 287426,
       "name": "Here's to Life",
       "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
-        "name": "I'm the Sky, I'm the Earth",
-        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
-      },
-      "artists": [
-        {
-          "name": "Deniz Ta\u015far",
-          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
-        },
-        {
-          "name": "Halil \u00c7a\u011flar Serin",
-          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "I'm the Sky, I'm the Earth",
-      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
+        "name": "I'm the Sky, I'm the Earth",
+        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
+      },
+      "artists": [
+        {
+          "name": "Deniz Ta\u015far",
+          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
+        },
+        {
+          "name": "Halil \u00c7a\u011flar Serin",
+          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "I'm the Sky, I'm the Earth",
+      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
     },
     {
       "added_at": "2022-11-22 14:58:34",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-11-22 14:58:34",
       "album": {
+        "name": "Heart First",
+        "url": "https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV"
+    },
+    {
+      "added_at": "2022-11-22 14:58:34",
+      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 243373,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
-    },
-    {
-      "added_at": "2022-11-22 14:58:34",
-      "album": {
-        "name": "Heart First",
-        "url": "https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV"
     },
     {
       "added_at": "2022-11-22 14:58:34",

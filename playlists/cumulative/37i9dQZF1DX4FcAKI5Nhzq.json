@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: VICTON",
+  "description": "Future K-Pop hits! Cover: KANGDANIEL",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 184493,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
@@ -2041,7 +2041,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 264119,
       "name": "Cape",
       "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
@@ -3260,6 +3260,24 @@
     },
     {
       "album": {
+        "name": "ON and ON",
+        "url": "https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy"
+    },
+    {
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -3948,6 +3966,24 @@
     },
     {
       "album": {
+        "name": "UP2U",
+        "url": "https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k"
+      },
+      "artists": [
+        {
+          "name": "TO1",
+          "url": "https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Freeze Tag",
+      "url": "https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ"
+    },
+    {
+      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -4107,7 +4143,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 191906,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
@@ -4341,7 +4377,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 159000,
       "name": "go UP",
       "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
@@ -4511,6 +4547,28 @@
       "duration_ms": 222893,
       "name": "Grey Suit",
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+    },
+    {
+      "album": {
+        "name": "Groove Missing",
+        "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "Groove Back (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ"
     },
     {
       "album": {
@@ -7462,6 +7520,32 @@
     },
     {
       "album": {
+        "name": "The Story : RETOLD",
+        "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "WDBZ",
+          "url": "https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219293,
+      "name": "Nirvana (feat. pH-1 & WDBZ)",
+      "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
+    },
+    {
+      "album": {
         "name": "DEVIL",
         "url": "https://open.spotify.com/album/2vapQ5AsHtSVE970EbK9i7"
       },
@@ -9593,7 +9677,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
@@ -10429,6 +10513,24 @@
       "duration_ms": 179866,
       "name": "Summer day summer night",
       "url": "https://open.spotify.com/track/7C9JbPpqtVK1tjMbDQR5EE"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268853,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
     },
     {
       "album": {

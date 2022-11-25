@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 33090,
+  "num_followers": 33288,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGE5ZTNhZDA1NWM2OTk1YTVhZjNkNmNjODc2OGVjNDk0",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDhkY2JkMGFiZjYzMmVjMGJhZjM2N2RmZmU4YTM1MWQ1",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "X (feat. Maluma & Ozuna) [Remix]",
         "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 235746,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2021-12-16 01:11:32",

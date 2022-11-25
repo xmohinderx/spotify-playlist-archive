@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: MF DOOM 🕊
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,228 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,670 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 2 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 |
-| 3 | [Rhymes Like Dimes](https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon) | 4:18 |
+| 3 | [Rhymes Like Dimes](https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [DJ Cucumber Slice](https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:18 |
 | 4 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 5 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
 | 6 | [The Scoop On Heaven](https://open.spotify.com/track/213LtzTmFAm3LsyVnNyLGQ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 |
 | 100 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDExYjZmYzlkODg1MWRiN2EwOGFmZjgyNWI4NGMyOTUw`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDVlMmFmYWM4ODRjYmNkN2VmZjQxMTBhNGIwZDA3Y2Ri`

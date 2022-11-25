@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-138 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
+140 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Inesperado](https://open.spotify.com/track/5GbbHqyhsl2tIZTvyBieL0) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Destruye Hogares](https://open.spotify.com/album/1cepreuLqLtbdRAhCorr8G) | 2:47 | 2022-04-26 |  |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-28 |  |
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 |  |
+| [Invierno](https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:16 | 2022-11-24 |  |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-01-28 |  |
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2022-01-28 |  |
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 | 2022-07-29 |
@@ -138,6 +139,7 @@
 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 | 2022-04-26 |  |
 | [Vicio](https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 4:37 | 2022-01-28 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2022-01-28 |  |
+| [Vorágine](https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Orbitando](https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL) | 5:27 | 2022-11-25 |  |
 | [Vuelve a Querer](https://open.spotify.com/track/1WxGvAfNFESFwjrBpSEk7I) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Vuelve a Querer](https://open.spotify.com/album/5ePVvhh7X6TpFuYhXQaODp) | 3:57 | 2022-03-11 |  |
 | [Vámonos de Viaje](https://open.spotify.com/track/6fE7ffZWTeeyLdYyQccx5S) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/0BBWUcvPEWvFadYymZap8W) | 3:55 | 2022-01-28 | 2022-07-29 |
 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 | 2022-01-28 |  |

@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: LIM KIM\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-231 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+233 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-30 |
 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 | 2022-09-05 |  |
 | [Espresso Build](https://open.spotify.com/track/3yfHXif4GgssiGkUTy8OIA) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 1:47 | 2022-05-27 | 2022-07-25 |
+| [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-24 |  |
 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 | 2022-08-12 |  |
 | [Explorer](https://open.spotify.com/track/2DmFaaJHF7uSVKooNQGfWI) | [besisi](https://open.spotify.com/artist/1ceX86LLepT24qw3CaXUJg), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [IDEAL TYPE](https://open.spotify.com/album/69q6kLGOS6lZALtT0JPlet) | 4:05 | 2022-05-27 | 2022-06-20 |
 | [FACETIME](https://open.spotify.com/track/3lLrm5upuIxhYpQ5pupm3w) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [FACETIME](https://open.spotify.com/album/698JjkeicMg1BZW5fh1G1g) | 3:15 | 2022-05-27 | 2022-07-28 |
@@ -81,6 +82,7 @@
 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 | 2022-05-27 |  |
 | [Gonna out!](https://open.spotify.com/track/38LSMDRn5FSH7tY9VWCbRt) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Gonna out](https://open.spotify.com/album/5RHSk68hoJY9N1SoCIv1G9) | 2:25 | 2022-05-27 | 2022-07-22 |
 | [Gossip \(Feat\. Kid Milli, Han Yo Han\)](https://open.spotify.com/track/7cv7ZK2JgGi135mxeOJATM) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 3:51 | 2022-05-27 | 2022-07-27 |
+| [Groot](https://open.spotify.com/track/2tKpXhoClVnz8cRD5XwGAY) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:59 | 2022-11-24 |  |
 | [GUCCI](https://open.spotify.com/track/6iNoApuOOYTrBl5FBtmB0h) | [Lil 9ap](https://open.spotify.com/artist/6CC0Rj30WieBrLs5fmlSrK) | [GUCCI](https://open.spotify.com/album/1oaOLMH9XyydPli7sAOOI2) | 1:55 | 2022-06-29 | 2022-07-29 |
 | [haaAakkKKK!!!](https://open.spotify.com/track/0c444u01V64C5zfV5V8m5f) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:52 | 2022-07-08 |  |
 | [haaAakkKKK!!!](https://open.spotify.com/track/4SosC3q9u9jN048Q3lDJrj) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/3TLAQ2SyCBJYrEgftIleQ7) | 2:52 | 2022-05-27 | 2022-07-29 |
@@ -90,7 +92,7 @@
 | [home \(feat\. Hesper\)](https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY), [Hesper](https://open.spotify.com/artist/7rOHC7zGWrPNUYrAQXviPs) | [space](https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB) | 4:25 | 2022-05-27 | 2022-07-26 |
 | [Hope](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Share Your Heart](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 | 2022-08-11 | 2022-10-04 |
 | [How You Like? \(Feat\. SUMIN\)](https://open.spotify.com/track/5Nukkz9plhlGC9dUYkTKbU) | [Xin Seha](https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [I Just Can’t Control My Feet!](https://open.spotify.com/album/2MVgQrstFueu9DaTUeZtc4) | 3:24 | 2022-09-05 | 2022-10-02 |
-| [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-05-27 |  |
+| [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-05-27 | 2022-11-25 |
 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 | 2022-09-05 |  |
 | [HUMAN \(Prod\. Will Not Fear\)](https://open.spotify.com/track/5lGZG3bjtSWQzqtdwWMVTf) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [HUMAN, the single](https://open.spotify.com/album/2dH0UCptGnb1GSN91IU9AW) | 3:00 | 2022-05-27 | 2022-07-21 |
 | [I am a Sweetbrier \(feat\. Kyo\)](https://open.spotify.com/track/2e4beAtfC2Dapeb4KGyDyy) | [Seokjune Kim](https://open.spotify.com/artist/3OsuchbtFL0EzTA9M8wvF8), [Kyo](https://open.spotify.com/artist/1HAZwrmyvWqcTiFfomPyhc) | [I am a Sweetbrier](https://open.spotify.com/album/40M893U0iFpqfsbeAZ1xTG) | 3:13 | 2022-06-29 | 2022-07-05 |
@@ -202,7 +204,7 @@
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-27 | 2022-08-13 |
 | [That's You](https://open.spotify.com/track/1RCsxisXuOGvK6NuVREhLb) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [That's You](https://open.spotify.com/album/4t7pK3U2UnT1cqPW7CYAp4) | 2:20 | 2022-10-08 | 2022-11-04 |
 | [The Generation of Tribulation \(feat\. Unnie Choir\)](https://open.spotify.com/track/6iXHit5o9jDQiq8nV7bYMX) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH), [Unnie Choir](https://open.spotify.com/artist/1MmFelrQxR5LDTVj6mLKdX) | [The Generation of Tribulation](https://open.spotify.com/album/4paWDGzD2IIm59sqB81Tt6) | 5:15 | 2022-05-27 | 2022-07-29 |
-| [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-09 |  |
+| [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-09 | 2022-11-25 |
 | [This Is the End](https://open.spotify.com/track/63uYZyMktT9ITcfzhMt4tQ) | [Lee Hayoun](https://open.spotify.com/artist/3OAnGQisTwghbfez2oHV6q) | [This Is the End](https://open.spotify.com/album/24TwtXPIScBoOresfu11g6) | 3:52 | 2022-05-27 | 2022-07-08 |
 | [time \(2022\)](https://open.spotify.com/track/1oOF8dd6AReyMJlWRwPgSc) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [convalescent\#1](https://open.spotify.com/album/5U0jGwxYmeRQMSkJCSYVN4) | 2:22 | 2022-05-27 | 2022-07-18 |
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2022-05-27 | 2022-07-29 |

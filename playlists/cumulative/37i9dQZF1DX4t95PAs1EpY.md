@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-316 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+318 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-03-21 |  |
 | [Night Sky](https://open.spotify.com/track/51GyLiaxkMlEyRlfhOccli) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [feelith.](https://open.spotify.com/artist/23JZkdnZR2pUnSc7e9bFGs) | [Night Sky](https://open.spotify.com/album/44BPW4slpKDeXbGHA10r8m) | 3:13 | 2022-06-24 | 2022-09-17 |
 | [Nightingale](https://open.spotify.com/track/6tQpVsbFEkjg3kEAdO5ASH) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Nightingale](https://open.spotify.com/album/4leEHF6m89G1SStxfVdbyY) | 2:24 | 2022-07-01 |  |
-| [Noctuid](https://open.spotify.com/track/3WMP6rFpFZQJ6FaZwYzIzT) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Noctuid](https://open.spotify.com/album/6BeJ3YeH0fa238tN2WqMZk) | 2:10 | 2022-05-27 |  |
+| [Noctuid](https://open.spotify.com/track/3WMP6rFpFZQJ6FaZwYzIzT) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Noctuid](https://open.spotify.com/album/6BeJ3YeH0fa238tN2WqMZk) | 2:10 | 2022-05-27 | 2022-11-25 |
+| [Noctuid](https://open.spotify.com/track/66zOvL1ZU2vHYM7c0kWyrc) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Noctuid](https://open.spotify.com/album/1leg1zIzVGFdsCW7rZmsnN) | 2:10 | 2022-11-11 |  |
 | [Nocturnal](https://open.spotify.com/track/4XGwbJ6HEiXKzIr4YDVagb) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nocturnal](https://open.spotify.com/album/0Cujyod7nrlnQyE7pAFaLa) | 2:12 | 2022-04-22 |  |
 | [Notes & Notes](https://open.spotify.com/track/5A9hqBLfGSiaxizL4hOqCI) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Notes & Notes](https://open.spotify.com/album/4FMg0ovfJvNeNNoYs8Rn5N) | 1:41 | 2021-12-07 | 2022-05-20 |
 | [Nothing Stays Forever](https://open.spotify.com/track/4xEllGKkPqykeyrmWfFwOT) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Nothing Stays Forever](https://open.spotify.com/album/2mwWimoYUMqHIuqZc3J5VR) | 3:42 | 2022-11-11 |  |
@@ -306,7 +307,8 @@
 | [Two worlds](https://open.spotify.com/track/2kUDtQi9zHrL9eOBaQ2Fqr) | [Pthalo](https://open.spotify.com/artist/1S5hT3KzW3A1BTCYH36btB), [Ntz Prod.](https://open.spotify.com/artist/1ccA0mpefambHcCa8DjZM9), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Two worlds](https://open.spotify.com/album/1gpac0V7dfztN4gZN3tTsF) | 2:12 | 2022-07-15 | 2022-09-09 |
 | [Un Poco Más](https://open.spotify.com/track/3zfLOTXWuj9wbQADkr8EyB) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Un Poco Más](https://open.spotify.com/album/0hf7N5IDkilIrFy6bcM2Rn) | 2:25 | 2021-12-07 |  |
 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 | 2022-09-02 |  |
-| [Under The Waterfall Mist](https://open.spotify.com/track/4wewUPcd9IlG5kFuZ53PIR) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/58l7zjlUwdeaUBlmLFDKtr) | 3:00 | 2022-06-17 |  |
+| [Under The Waterfall Mist](https://open.spotify.com/track/4gxCwxh5qjZb7XxHDBfGt6) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/7JF2LBiypQuv2dYfw5nkn1) | 3:00 | 2022-11-11 |  |
+| [Under The Waterfall Mist](https://open.spotify.com/track/4wewUPcd9IlG5kFuZ53PIR) | [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Under The Waterfall Mist](https://open.spotify.com/album/58l7zjlUwdeaUBlmLFDKtr) | 3:00 | 2022-06-17 | 2022-11-25 |
 | [underneath the rain](https://open.spotify.com/track/6EruekpR534eGN50w9u8eF) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [wrongnumber](https://open.spotify.com/artist/3jU1KxwkbO4pQfJblgxUVi) | [underneath the rain](https://open.spotify.com/album/6yk5dT0SLFF74hn0PEI6j2) | 2:32 | 2022-05-20 | 2022-05-27 |
 | [Unencumbered](https://open.spotify.com/track/4fb9chYMC6ExF1eSd4Q9Uu) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [What is Earth](https://open.spotify.com/album/3pSKpzmlqKf3skN687fm7X) | 2:32 | 2022-01-28 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-12-07 |  |

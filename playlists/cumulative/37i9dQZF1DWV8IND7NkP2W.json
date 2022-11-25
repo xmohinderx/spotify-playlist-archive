@@ -2590,6 +2590,24 @@
     },
     {
       "album": {
+        "name": "EVENING",
+        "url": "https://open.spotify.com/album/7gmVOnPkeBmdr3XEi9w9R3"
+      },
+      "artists": [
+        {
+          "name": "NARISK",
+          "url": "https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172364,
+      "name": "EVENING",
+      "url": "https://open.spotify.com/track/0qjSPCsAMCdMRvU1zxGSuR"
+    },
+    {
+      "album": {
         "name": "Evening Stroll in Shibuya",
         "url": "https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz"
       },
@@ -9743,7 +9761,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 80842,
       "name": "wooden piano",
       "url": "https://open.spotify.com/track/6nZ5BZikC0DyOFpInapHCn"
@@ -9885,10 +9903,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
+    },
+    {
+      "album": {
+        "name": "Yuragi",
+        "url": "https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134291,
+      "name": "Yuragi",
+      "url": "https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 18453,
+  "num_followers": 18505,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMGE2NDQ3ODgwZDMyNzkxM2M0YjRhOTg4OTMwYmI5Y2Fl",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDQ4ZDNhYjE5MzVmYzI5YjM2MTBkM2U2OWUwMmRjZGY1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 244493,
       "name": "Agua Con Sal",
       "url": "https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Fantasia Espanola",
-        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Cuerdas de Mi Guitarra",
-      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+        "name": "Fantasia Espanola",
+        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+      "duration_ms": 173400,
+      "name": "Cuerdas de Mi Guitarra",
+      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Trios de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
+        "name": "Perez Prado - Mambo",
+        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
       },
       "artists": [
         {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 157880,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
+      "duration_ms": 127360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Perez Prado - Mambo",
-        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
+        "name": "Trios de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 127360,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
+      "duration_ms": 157880,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ"
     },
     {
       "added_at": "2022-08-31 07:45:41",

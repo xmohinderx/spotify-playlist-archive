@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,237 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,270 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,22 +48,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 38 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
 | 39 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 40 | [Kennedy Center Performance \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 2:26 |
-| 41 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
-| 42 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
+| 41 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
+| 42 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
 | 43 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 44 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
 | 45 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 46 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
-| 47 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
-| 48 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
+| 47 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
+| 48 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
 | 49 | [Fix You](https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [With a Twist \(Deluxe\)](https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt) | 4:06 |
-| 50 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
-| 51 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
+| 50 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
+| 51 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
 | 52 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
 | 53 | [Hey, Soul Sister](https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [The Sing\-Off: Season 2 \- Episode 2 \- Big Hits](https://open.spotify.com/album/56qpqJyayutGaYKUOJoNHB) | 1:50 |
 | 54 | [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 |
-| 55 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 |
+| 55 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
 | 56 | [Cruise](https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [The Sing\-Off: Season 4, Episode 1\- The Sing\-Off Is Back](https://open.spotify.com/album/2v7S6K26bvlGpKP35MLF9j) | 1:40 |
 | 57 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDNhYmQyNzM1NTRhODVkNTk2ZDNiNGViYTM2NTA1Y2Fh`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDEwZjlmNTIyYzA2YzAxYzA0OWRmNjY1ZmNiM2IwYzk3`

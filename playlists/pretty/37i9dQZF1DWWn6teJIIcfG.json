@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 139929,
+  "num_followers": 140592,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDhmYmViNmY5M2UzMjQzMzkwYjEwN2U0YTY4Zjc3NDcw",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDM5NGM3Y2NlOWM5MWY3ZmRkYzRmZWExNWVkMTEzMTg4",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
-        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
+        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Blind Film",
         "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
         "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
       },
@@ -715,34 +715,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Haydn: Cello Concertos (Remastered)",
-        "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Jos\u00e9-Luis Garcia",
-          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 493800,
-      "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
-      "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -767,6 +739,34 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Haydn: Cello Concertos (Remastered)",
+        "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Jos\u00e9-Luis Garcia",
+          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 493800,
+      "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
+      "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "La stanza del figlio un film di Nanni Moretti",
+        "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
+      },
+      "artists": [
+        {
+          "name": "Nicola Piovani",
+          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Soli",
+      "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "La stanza del figlio un film di Nanni Moretti",
-        "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
-      },
-      "artists": [
-        {
-          "name": "Nicola Piovani",
-          "url": "https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Soli",
-      "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -955,26 +955,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
         "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 155826,
       "name": "Carmen Suite No. 1: Intermezzo",
       "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/4Uz03jdkyGrQHyHepr1Kqk"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
         "url": "https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-29 13:33:43",

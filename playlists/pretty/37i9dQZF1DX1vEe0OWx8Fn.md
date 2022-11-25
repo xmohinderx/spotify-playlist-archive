@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,141 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,305 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 29 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
 | 30 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 |
 | 31 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 |
-| 32 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
-| 33 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
+| 32 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
+| 33 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
 | 34 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 |
 | 35 | [Misery Business](https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 3:21 |
 | 36 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 41 | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/3xSyUXUkSiBLsJNpPpG4v1) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [abcdefu \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/4yfT2AABmfgPrr40yhhyXx) | 2:49 |
 | 42 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
 | 43 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 |
-| 44 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
-| 45 | [I'd Rather Die](https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [I'd Rather Die](https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW) | 2:12 |
-| 46 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
+| 44 | [I'd Rather Die](https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [I'd Rather Die](https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW) | 2:12 |
+| 45 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 |
+| 46 | [NO VANITY](https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 3:25 |
 | 47 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 |
 | 48 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 |
 | 49 | [I Think I Hate Myself](https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Think I Hate Myself](https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA) | 3:34 |
 | 50 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 |
 
-Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMGQ0ZDEwZDQ1NTI1ZDhkZWZhNzBlMDU1YWI1MGI3MjA2`
+Snapshot ID: `MTY2MDY4NzU5NSwwMDAwMDAwMGYxMDFhZjdkYWE2Mjk0ZWFiMzBkMjZiYjBlMzk5NTMx`

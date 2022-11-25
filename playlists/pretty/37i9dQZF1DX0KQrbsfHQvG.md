@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,510 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,621 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 26 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
 | 27 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 28 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 29 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 |
+| 29 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
 | 30 | [Massacre, The New American Dream](https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:05 |
-| 31 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
+| 31 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 |
 | 32 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 33 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 |
 | 34 | [Machine Gun \(F\*\*k The NRA\)](https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:13 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 48 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
 | 49 | [Mirrors](https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:06 |
 | 50 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:16 |
-| 51 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 |
-| 52 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 |
+| 51 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 |
+| 52 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 |
 | 53 | [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 |
 | 54 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 |
 | 55 | [Capital G](https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Year Zero](https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN) | 3:49 |
-| 56 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 |
-| 57 | [Heart Afire](https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Heart Afire](https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK) | 2:37 |
+| 56 | [Heart Afire](https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Heart Afire](https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK) | 2:37 |
+| 57 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 |
 | 58 | [Rise Up](https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Rise Up](https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a) | 3:50 |
 | 59 | [We Fight](https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:24 |
 | 60 | [None Of The Above](https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
 | 75 | [I Know Something](https://open.spotify.com/track/4khGFwJ3AIERwtOyJTwWUU) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:44 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDk2NjAyNTczNzM3YWU5MGMzMDNjZTg1YzJlYmY2NmRi`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDg0MGQzMTUzNDE0OWJmZTc4OTEyODIzODBiOGQ3YmE4`

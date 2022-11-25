@@ -1,12 +1,12 @@
 {
   "description": "El mejor acompa\u00f1amiento para ver el pambol.",
-  "num_followers": 192781,
+  "num_followers": 193398,
   "original_name": "Las Micheladas Futboleras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk4MjYwNywwMDAwMDAwMGIzMmFjMTExZTJhNTgyMjg3ZTE2NGQwYmU3YTgzZTM0",
+  "snapshot_id": "MTY2Njk4MjYwNywwMDAwMDAwMDYxZTc0YWIxNDA2OWFiNDgyNWU2MjRkY2I1MWM0Y2Iw",
   "tracks": [
     {
       "added_at": "2022-08-03 16:03:52",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
       "added_at": "2022-08-03 16:03:52",
       "album": {
         "name": "Todo De Ti",
@@ -435,6 +419,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2022-11-25 01:01:47",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
@@ -495,22 +495,6 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -543,6 +527,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Selfies",
         "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
     },
     {
+      "added_at": "2022-11-25 01:01:47",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
+    },
+    {
       "added_at": "2022-08-03 16:03:52",
       "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
@@ -1171,22 +1187,6 @@
       "duration_ms": 182073,
       "name": "Pr\u00e9stame Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2022-11-24 00:34:42",
-      "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1253,7 +1253,23 @@
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+    },
+    {
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Aka Entre el Humo",
         "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
@@ -1273,23 +1289,7 @@
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
-      "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "El Black",
         "url": "https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ"
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
+      "added_at": "2022-11-25 01:01:47",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
       "added_at": "2022-08-03 16:03:52",
       "album": {
         "name": "Tu Veneno Mortal",
@@ -1401,6 +1417,22 @@
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
+      "added_at": "2022-11-25 01:01:47",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+    },
+    {
       "added_at": "2022-08-03 16:03:52",
       "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
@@ -1415,38 +1447,6 @@
       "duration_ms": 191413,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
-    },
-    {
-      "added_at": "2022-11-24 00:34:42",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2022-11-24 00:34:42",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
@@ -1701,7 +1701,7 @@
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "Guisao",
         "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
@@ -1765,7 +1765,7 @@
       "url": "https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh"
     },
     {
-      "added_at": "2022-11-24 00:34:42",
+      "added_at": "2022-11-25 01:01:47",
       "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Forajido EP 1",
-        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "Ya Solo Eres Mi Ex",
         "url": "https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 222133,
       "name": "Ya Solo Eres Mi Ex",
       "url": "https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "Forajido EP 1",
+        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye"
     },
     {
       "added_at": "2022-08-03 16:03:52",

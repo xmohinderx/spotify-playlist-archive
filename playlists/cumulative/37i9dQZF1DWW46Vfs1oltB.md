@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: ASH ISLAND\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
+> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\(우원재\)\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
 
-675 songs - 1 day 13 hr 23 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+676 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [One Two Hook](https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8) | [HWANG JI SANG](https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc) | 1:50 | 2022-01-14 | 2022-07-02 |
 | [Only Late at Night \(feat\. Jay Park\) \(prod\. Vangdale\)](https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2](https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq) | 2:31 | 2021-12-21 | 2022-07-04 |
 | [Original](https://open.spotify.com/track/71XM15iPEcSMK6aG7VTm7w) | [732 STT](https://open.spotify.com/artist/2MgO9Bc7ja1tLu0stiEirY) | [ALBUM](https://open.spotify.com/album/5dQAftk3Jku9pmueZXP1VI) | 2:54 | 2021-12-21 | 2022-06-28 |
+| [Our](https://open.spotify.com/track/5IYrzxsiNadSNeddKqnft3) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [comma](https://open.spotify.com/album/1R9wyzLuLYqy3nLh0ks8W2) | 3:34 | 2022-11-24 |  |
 | [OUT OF MY SIGHT](https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:26 | 2021-12-18 | 2022-07-08 |
 | [Outlaw Zone \(Feat\. Yumdda, RB NINE & YLN Foreign\)](https://open.spotify.com/track/2k4pZDSiyidi8HwHnbVtME) | [Choo](https://open.spotify.com/artist/6hAqtKCaOISAG24LhlNqdr), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Abbotsford](https://open.spotify.com/album/5kSemw15EKzzRDLVNlqeue) | 3:12 | 2022-05-04 | 2022-06-30 |
 | [Ouu Ouu \(feat\. unofficialboyy & Lil tachi\)](https://open.spotify.com/track/0OXfreKm4ZITn1vCcZLlo7) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:24 | 2022-04-14 | 2022-06-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 55410,
+  "num_followers": 55474,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDI5NGJkNDUzM2FjNzIxNWM1ODI3OTE3NmM5MmRiZjE2",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDM4ZGQ0YTYwNGJkZmFkMmQwYzhmNjQ3ZDU3ZjhjOWIx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 349693,
+      "name": "oh baby",
+      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 221813,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 349693,
-      "name": "oh baby",
-      "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Naked City",
         "url": "https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 156093,
       "name": "Naked City",
       "url": "https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1063,6 +1063,26 @@
       "duration_ms": 311272,
       "name": "Let the Beat Control Your Body",
       "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "No Hay Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
+      },
+      "artists": [
+        {
+          "name": "COCO-PALOMA",
+          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
+        },
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        }
+      ],
+      "duration_ms": 423601,
+      "name": "No Hay Ma\u00f1ana - Club Mix",
+      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Lune est l'autre",
-      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1159,6 +1163,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Lune est l'autre",
+      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "No Hay Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7tvBTREzJRkLQKhsvNCbt9"
-      },
-      "artists": [
-        {
-          "name": "COCO-PALOMA",
-          "url": "https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19"
-        },
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        }
-      ],
-      "duration_ms": 423601,
-      "name": "No Hay Ma\u00f1ana - Club Mix",
-      "url": "https://open.spotify.com/track/0ddC48e0XVsjoczyIYiGCr"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Amniotic",
         "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 432266,
       "name": "Return to Oz",
       "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+        "name": "Planningtochanel",
+        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
       },
       "artists": [
         {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1299,22 +1315,6 @@
       "duration_ms": 295831,
       "name": "Play In The Dark",
       "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Planningtochanel",
-        "url": "https://open.spotify.com/album/4LqawEWlyDaDP9MA057KKQ"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        }
-      ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 216706,
       "name": "Beograd - Edit",
       "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Price of Highest Consciousness",
-        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 368404,
-      "name": "Price of Highest Consciousness",
-      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 405768,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Price of Highest Consciousness",
+        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 368404,
+      "name": "Price of Highest Consciousness",
+      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "Mobilee Back to Back Vol. 2 - Presented By Gummihz",
         "url": "https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 516533,
       "name": "August in Paris",
       "url": "https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     }
   ],
   "unique_name": "Runway",

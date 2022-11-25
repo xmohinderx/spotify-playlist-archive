@@ -4,7 +4,7 @@
 
 > Whether it's by bus, subway, bike, or your own two feet, here are songs about all the ways to get around your neighborhood.
 
-78 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
+79 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/39fXXUUoSwIdabmKIOWmAm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Subway](https://open.spotify.com/track/1ipySLeZ9yFX3NxYH8aL6w) | [Music for Aardvarks and Other Mammals](https://open.spotify.com/artist/4iFV2AfXg5jh8IzWE6mR32) | [Lullabies](https://open.spotify.com/album/46A2D2PaVLQdmvg7Dn5pgV) | 1:14 | 2021-06-22 |  |
 | [Subway Train](https://open.spotify.com/track/42FFOjM6H3ISwFIZNO3IE5) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 3:46 | 2021-06-22 |  |
 | [Take Me Away on a Train](https://open.spotify.com/track/1d0bSpuxKXmPvwLgQlxLTu) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:21 | 2021-06-22 | 2022-10-13 |
-| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2021-06-22 |  |
+| [Take Me Away on a Train](https://open.spotify.com/track/5CM0rrp9h6ZAaVSZaPOlLO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:21 | 2021-06-22 | 2022-11-25 |
+| [Take Me Away on a Train](https://open.spotify.com/track/5gSIQdpPHFrNavHPfQzNWx) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:21 | 2021-06-22 |  |
 | [Taxi in Time!](https://open.spotify.com/track/1yb1zBfISMD5GTs5O9QwuL) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/36ALk5EplIDZph31IiPNJR) | 2:03 | 2021-06-22 | 2022-07-29 |
 | [Taxi in Time!](https://open.spotify.com/track/40dTPLnycbt3Hg1N4ihgRt) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/101RHMWjHd66NDuVSM2oKx) | 2:03 | 2021-06-22 |  |
 | [The Subway Shake](https://open.spotify.com/track/4UjWHUGzJUZoCuQCMElVdb) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 1:59 | 2021-06-22 |  |

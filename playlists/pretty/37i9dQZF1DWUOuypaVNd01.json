@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk, LEALL, Major RD, Derxan",
-  "num_followers": 22518,
+  "num_followers": 22645,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDNjYjgwZGE3YTZhYTUxMDM1NTQyNTRjM2EwNDE1MDg4",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDU0OGRhZDVmMDQwNTJmMzFmMTZjMTU5N2FiYmQ0MjI4",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Sr das Armas",
-        "url": "https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Sr das Armas",
-      "url": "https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Sr das Armas",
+        "url": "https://open.spotify.com/album/6l84Z5HurSE3ILSOPrsSly"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Sr das Armas",
+      "url": "https://open.spotify.com/track/6xvmP4g3WaL4ptWSQMDXqo"
     },
     {
       "added_at": "2022-11-11 03:01:00",

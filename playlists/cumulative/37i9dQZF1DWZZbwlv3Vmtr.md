@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-613 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+616 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 |  |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
-| [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 |  |
+| [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
+| [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 |  |
 | [Hustler's Courage](https://open.spotify.com/track/3MOlfHny79AeRL5z2GRN2b) | [Calvin TDC](https://open.spotify.com/artist/2NOFqkaFBqJknsnxnlXdbM) | [Hustler's Courage](https://open.spotify.com/album/3uejTrt5AwvLTXER4bYwbV) | 2:11 | 2022-07-29 | 2022-08-12 |
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-03 | 2022-11-21 |
 | [Hydration](https://open.spotify.com/track/4pQEbbG05eWiyMDwLKiQ6Z) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Hydration](https://open.spotify.com/album/5t9uEMj1slT2hIoeIyBykx) | 2:13 | 2022-11-11 |  |
@@ -282,7 +283,8 @@
 | [Livin' Easy](https://open.spotify.com/track/1mFgHisS18u9xDvpv4n2Iz) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Livin' Easy](https://open.spotify.com/album/6wFa61RPANe0dB2IgjDU5x) | 2:12 | 2022-04-22 |  |
 | [Living Quarters](https://open.spotify.com/track/1ogoiiimWF8xDwZCIrc9AT) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Living Quarters](https://open.spotify.com/album/2rFeIx7pisAIFKwdy1rTYI) | 2:21 | 2022-04-15 |  |
 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 | 2022-04-15 | 2022-09-17 |
-| [Locust](https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Locust](https://open.spotify.com/album/2D0W7K61oCTDtycvniH6Xd) | 1:57 | 2022-10-14 |  |
+| [Locust](https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Locust](https://open.spotify.com/album/2D0W7K61oCTDtycvniH6Xd) | 1:57 | 2022-10-14 | 2022-11-25 |
+| [Locust](https://open.spotify.com/track/5MaPFUOETqvw2bNIAuJkTP) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Arboretum](https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm) | 1:57 | 2022-11-11 |  |
 | [London Fog](https://open.spotify.com/track/0GPdHDsdp4G9I2kPYIF4bJ) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [London Fog](https://open.spotify.com/album/1VFSW0adOoY2V7VGxh0lws) | 2:28 | 2022-09-16 |  |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-04-15 | 2022-09-09 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 | 2022-09-03 |
@@ -453,7 +455,8 @@
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 |  |
-| [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 |  |
+| [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 | 2022-11-25 |
+| [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |

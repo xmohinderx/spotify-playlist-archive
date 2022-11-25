@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Raman Negi",
+  "description": "New music from popular Hindi artists. Cover- Siddhant Bhosle & Sana",
   "name": "New Music Friday Hindi ",
   "published_playlist_ids": [
     "0VW1oqwEBCO9XMfaGKderP"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 259200,
       "name": "First Love",
       "url": "https://open.spotify.com/track/5hxeoqlTdpSl4nEyaRUKhy"
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 255333,
       "name": "Gale Se Laga Lu",
       "url": "https://open.spotify.com/track/6YiMeYvtmcba8ICnaX7CjU"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 195840,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/2n81wfUPrLqem735iUKmCD"
@@ -2672,6 +2672,24 @@
     },
     {
       "album": {
+        "name": "Jaam - The Casino Song",
+        "url": "https://open.spotify.com/album/6wTLh0yYyBA9QPLygxOLH4"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192700,
+      "name": "Jaam - The Casino Song",
+      "url": "https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ"
+    },
+    {
+      "album": {
         "name": "Jaan",
         "url": "https://open.spotify.com/album/7ABKNzknlAQnvfSIAvZ2A1"
       },
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 272848,
       "name": "Jaan",
       "url": "https://open.spotify.com/track/1SyrjVgx1fC70bfU7AJNcP"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 227666,
       "name": "Jo Tum Ho",
       "url": "https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk"
@@ -2983,6 +3001,32 @@
       "duration_ms": 193666,
       "name": "Ka Kha Ga",
       "url": "https://open.spotify.com/track/3Os0Fx7SdRVEp7flZty75p"
+    },
+    {
+      "album": {
+        "name": "Kaafi Nahi",
+        "url": "https://open.spotify.com/album/2NcPIGrXzAYCDRTKx19zcv"
+      },
+      "artists": [
+        {
+          "name": "Aashran Mahajan",
+          "url": "https://open.spotify.com/artist/31PjatGYhKyaRAqRsS9ciA"
+        },
+        {
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313713,
+      "name": "Kaafi Nahi",
+      "url": "https://open.spotify.com/track/3iT92tthPoD594IBiRGRgw"
     },
     {
       "album": {
@@ -3551,6 +3595,24 @@
       "duration_ms": 179263,
       "name": "Kuch Bhi Nahi",
       "url": "https://open.spotify.com/track/7razqr1rfm4THLuE1IhfQg"
+    },
+    {
+      "album": {
+        "name": "Kuch Toh Zaroor Hai - Single",
+        "url": "https://open.spotify.com/album/1aHqQ2LzoRyPhoSAc4ZZPd"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207391,
+      "name": "Kuch Toh Zaroor Hai",
+      "url": "https://open.spotify.com/track/7jDYNeso9PzdUzo8FKNh78"
     },
     {
       "album": {
@@ -4272,6 +4334,24 @@
     },
     {
       "album": {
+        "name": "Naazneen",
+        "url": "https://open.spotify.com/album/3C5TLv2lcobPCxKD0CZwUP"
+      },
+      "artists": [
+        {
+          "name": "Uchana Amit",
+          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155094,
+      "name": "Naazneen",
+      "url": "https://open.spotify.com/track/6BAv7bYrFv9Uz8SId90qzi"
+    },
+    {
+      "album": {
         "name": "Nadan Dil",
         "url": "https://open.spotify.com/album/2MsiXR3WWV6FuAGYyWMm4v"
       },
@@ -4291,6 +4371,24 @@
       "duration_ms": 158386,
       "name": "Nadan Dil",
       "url": "https://open.spotify.com/track/6qiGZ8xRmjFdNEAp29XC5Z"
+    },
+    {
+      "album": {
+        "name": "Nadaniya",
+        "url": "https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172564,
+      "name": "Nadaniya",
+      "url": "https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq"
     },
     {
       "album": {
@@ -4697,7 +4795,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 196430,
       "name": "Paris Ka Trip",
       "url": "https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd"
@@ -5102,6 +5200,24 @@
     },
     {
       "album": {
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
+    },
+    {
+      "album": {
         "name": "Saaye",
         "url": "https://open.spotify.com/album/5l2NxHjbpoyfh1IwdmPDGm"
       },
@@ -5311,7 +5427,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 222000,
       "name": "Sataya Na Karo",
       "url": "https://open.spotify.com/track/1bTmXxjYVmu45kFWxfsSRa"
@@ -5373,6 +5489,28 @@
       "duration_ms": 190643,
       "name": "Shayar Toh Nahin Main",
       "url": "https://open.spotify.com/track/2wftdWbt2y6kVZJREUhTG9"
+    },
+    {
+      "album": {
+        "name": "Jadu Salona",
+        "url": "https://open.spotify.com/album/5iCq2e5RrsS1Tp9QPA1JPJ"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205156,
+      "name": "Shehnaiyan",
+      "url": "https://open.spotify.com/track/6m3ZqppRXccBUsDx5rfw80"
     },
     {
       "album": {
@@ -6357,7 +6495,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 238263,
       "name": "Tumhe Pyaar Karungga",
       "url": "https://open.spotify.com/track/1mPuVuDCF53dcUVw8RR2Ja"
@@ -6441,6 +6579,24 @@
       "duration_ms": 159232,
       "name": "Vaadein Nibha - Acoustic",
       "url": "https://open.spotify.com/track/0UKt2mIRQoza2SsbNYdBPp"
+    },
+    {
+      "album": {
+        "name": "Voh Raaz",
+        "url": "https://open.spotify.com/album/1uhAKbw5vUMmAuDPLKn1gD"
+      },
+      "artists": [
+        {
+          "name": "Arnav Maggo",
+          "url": "https://open.spotify.com/artist/5LVF2MHRmVtXDuU1cHQcvZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Voh Raaz",
+      "url": "https://open.spotify.com/track/2LS1UEpJDgxarWAhNtnpLR"
     },
     {
       "album": {

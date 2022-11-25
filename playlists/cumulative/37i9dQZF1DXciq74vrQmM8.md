@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. jazmin bean
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. zand & banshee
 
-390 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+393 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [bad things](https://open.spotify.com/track/51DVbtD1BziDPKP0kbHcQN) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things](https://open.spotify.com/album/5P2ahNLmrGy9JHJEJgkjon) | 2:01 | 2022-04-28 | 2022-08-05 |
 | [BANSHEE HOLLOW](https://open.spotify.com/track/58flRCPtcit55PD4jaga1W) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BANSHEE HOLLOW](https://open.spotify.com/album/52ytO4git0zRExoV1kK9zA) | 1:50 | 2021-12-27 | 2022-02-04 |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-08-25 | 2022-11-11 |
+| [BARFIGHT!](https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Colours \(Deluxe\)](https://open.spotify.com/album/598Wjk55GXjRkPcGYyMDJR) | 3:06 | 2022-11-25 |  |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-08-19 |
 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-07-28 | 2022-10-15 |
 | [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-10-13 |  |
@@ -76,6 +77,7 @@
 | [Colour of Moonlight \(Antiochus\)](https://open.spotify.com/track/6d9nQK2zdlQtsV0pnjq7k9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Doldrums](https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 3:59 | 2022-02-21 | 2022-03-04 |
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-18 | 2022-08-19 |
 | [CORPSE$](https://open.spotify.com/track/0J5apfOF4WspEaSzDf5CIn) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7), [triplesixdelete](https://open.spotify.com/artist/1MWqzCKKuVN5wDahu2F4g2) | [CORPSE$](https://open.spotify.com/album/2RelSGPWsonQDrBVgLqXnA) | 1:44 | 2022-01-05 | 2022-03-25 |
+| [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 |  |
 | [CUT](https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CUT](https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O) | 2:58 | 2022-01-19 | 2022-07-08 |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-09-01 | 2022-10-14 |
 | [D.R.I.L.D.O](https://open.spotify.com/track/6cdhJo25biY2KWKlBpdmN1) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [D.R.I.L.D.O](https://open.spotify.com/album/1dEPGiTbS4ELfGhhpocoyY) | 3:12 | 2022-05-26 | 2022-08-05 |
@@ -139,7 +141,7 @@
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-04 | 2022-09-23 |
 | [Fukstar](https://open.spotify.com/track/2sPZty2EZFubLWq43vnO2P) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Fukstar](https://open.spotify.com/album/6Onj8WCbrAt8xD9z21W7H6) | 3:36 | 2022-07-07 | 2022-09-09 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-22 |  |
-| [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 |  |
+| [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 | 2022-11-25 |
 | [Gasoline](https://open.spotify.com/track/0CXgZRpMjcbH3gkawYMiPb) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/6RtRtFtUbZihbE5D5yv8eu) | 2:20 | 2022-01-28 | 2022-03-04 |
 | [GBS, XOXO](https://open.spotify.com/track/3nn5LMCjVIxGC1KwSsgCoC) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [MONSTAR](https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ) | 2:11 | 2022-11-11 |  |
 | [GET LOOSE](https://open.spotify.com/track/4MjnnyZZqtpjKM5MSbVvkY) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [RESPECT THE THRONE](https://open.spotify.com/album/3WHurOAvX7XoE5WiRCdKkd) | 2:35 | 2022-07-14 | 2022-09-23 |
@@ -163,6 +165,7 @@
 | [Headbang](https://open.spotify.com/track/4S0rDR22A6j4W5ESiVyShM) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Headbang](https://open.spotify.com/album/5NTVbLHB3xKg13dajHUV62) | 2:42 | 2022-09-22 |  |
 | [Heart Of Stone](https://open.spotify.com/track/2kxIhwthbIgiTVBEdqGaoF) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf), [Luke Culhane](https://open.spotify.com/artist/3OeiySQKqBMYMmVw0nbH7U) | [Heart Of Stone](https://open.spotify.com/album/5asEdWqNfsa0D8Y2dIYJFJ) | 2:49 | 2022-10-13 |  |
 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 | 2021-12-27 | 2022-01-29 |
+| [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-11-25 |  |
 | [Hello Kitty](https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 2:31 | 2021-12-27 | 2022-02-04 |
 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0ZZD2LaUgSslFrnn48Ftez) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:31 | 2022-10-13 | 2022-11-11 |
 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 | 2022-10-13 |  |

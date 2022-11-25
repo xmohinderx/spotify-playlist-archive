@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-78 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
+79 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [I \- The Creation](https://open.spotify.com/track/7GterxMQBBkkaoyJ1w9w9y) | [Norchestra](https://open.spotify.com/artist/61H25MWaKudq3tHlQQU7WX), [Gnu Quartet](https://open.spotify.com/artist/6CIHRcHRO6dsAvDMnsYSuF) | [Suite for the Seagulls](https://open.spotify.com/album/07hSCP97K2GDfblHzWZxNZ) | 4:28 | 2022-10-07 |  |
 | [Intermezzo, Op\. 118, No\. 2 \- Live](https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [The Bandwagon](https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG) | 6:39 | 2021-12-02 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/2nnlowBc8ZESp1UUTEOiIx) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 5:12 | 2021-12-02 |  |
+| [Lascia ch’io pianga](https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Henrik Hallberg](https://open.spotify.com/artist/3pu695ZYqRFY0Gy1aZXdPE), [Vilhelm Bromander](https://open.spotify.com/artist/7Ji05Hs29f7TP7DctMkm1d), [Wille Alin](https://open.spotify.com/artist/1t4ttLG6j0jzMppEYnCGzg) | [Lascia ch’io pianga](https://open.spotify.com/album/1kDOPnnHOo6jKtRRMdvsd4) | 4:12 | 2022-11-24 |  |
 | [Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/2rgufOrTopmbEea9g0UJmR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Félicien Brut](https://open.spotify.com/artist/0eDrryGufj7n7Jou377AGU), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Edouard Macarez](https://open.spotify.com/artist/7uvOmP5c9TEmFoHmmpQ5BH) | [The Paris Album: Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/album/4rPrVoTfSehLZmKYm9NLu8) | 4:36 | 2022-10-14 |  |
 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 | 2021-12-02 |  |
 | [Moonlight Sonata](https://open.spotify.com/track/0yERcLFHXV0kbdZZktZMqZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 6:45 | 2022-07-07 |  |

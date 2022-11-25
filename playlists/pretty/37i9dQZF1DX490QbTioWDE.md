@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,556 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,837 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 40 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 |
 | 41 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
 | 42 | [Amor Infiel](https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [A Toda Fiesta](https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov) | 3:28 |
-| 43 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 |
+| 43 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
 | 44 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 |
 | 45 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 |
-| 46 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
+| 46 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 |
 | 47 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
 | 48 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 |
 | 49 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 85 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 |
 | 86 | [La Culpa](https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [La Culpa](https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk) | 4:13 |
 | 87 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
-| 88 | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 |
-| 89 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
-| 90 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 |
+| 88 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
+| 89 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 |
+| 90 | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 |
 | 91 | [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 |
 | 92 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 |
 | 93 | [200 Copas \- En Vivo](https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas \(En Vivo\)](https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU) | 3:38 |
 | 94 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
-| 95 | [Dejame Estar En Su Lugar](https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dejame Estar En Su Lugar](https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT) | 3:14 |
+| 95 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 | 96 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
-| 97 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 97 | [Dejame Estar En Su Lugar](https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dejame Estar En Su Lugar](https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT) | 3:14 |
 | 98 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
-| 99 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
-| 100 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
+| 99 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
+| 100 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 
-Snapshot ID: `MTY2ODE2OTkxNSwwMDAwMDAwMDNiYjk2MmZmYzMzODk1Njk0OTcxNzRkYzZiOWRmYjRj`
+Snapshot ID: `MTY2ODE2OTkxNSwwMDAwMDAwMDdiNDEzYTM4Y2M1YTBmZmZmNWU4YzdiNDI3ZDM2MDY3`

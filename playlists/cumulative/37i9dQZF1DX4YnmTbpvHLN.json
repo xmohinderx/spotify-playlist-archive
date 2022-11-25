@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "Duchesse",
       "url": "https://open.spotify.com/track/7qwMwFHW4JBRXiKRBpFE13"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 235966,
       "name": "For a While",
       "url": "https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 144375,
       "name": "Hector's Plan",
       "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 209039,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/2JR9BtQ6Av9OAf3awQigf5"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 209709,
       "name": "Long Ago (and Far Away)",
       "url": "https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s"
@@ -2249,7 +2249,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 275968,
       "name": "Love Waiting Endlessly",
       "url": "https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 381943,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0x0vBg2KSuEsKao9f1o5yR"
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 378784,
       "name": "Stardust - Remastered",
       "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
@@ -3657,6 +3657,24 @@
       "duration_ms": 293750,
       "name": "Views Of Dawn",
       "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
+    },
+    {
+      "album": {
+        "name": "Just a Thought",
+        "url": "https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128018,
+      "name": "We're Almost At The End",
+      "url": "https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9"
     },
     {
       "album": {

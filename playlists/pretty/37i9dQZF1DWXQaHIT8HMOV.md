@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,37 +26,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 16 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 |
 | 17 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 |
 | 18 | [Where I Go](https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [DJ Victor256](https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX) | [Where I Go](https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L) | 2:55 |
-| 19 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 |
+| 19 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
 | 20 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
-| 21 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
-| 22 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
+| 21 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
+| 22 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
 | 23 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
 | 24 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 |
 | 25 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 |
 | 26 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 |
-| 27 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
-| 28 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
-| 29 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 |
+| 27 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 |
+| 28 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 |
+| 29 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 30 | [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 |
 | 31 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 |
-| 32 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 |
-| 33 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
-| 34 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
-| 35 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
+| 32 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
+| 33 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 |
+| 34 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
+| 35 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 36 | [Akahama](https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Awo](https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X) | 4:20 |
 | 37 | [Bikole](https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Bikole](https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw) | 3:04 |
 | 38 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 |
 | 39 | [Extra Mile](https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:55 |
 | 40 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 |
-| 41 | [Magic \(fik\)](https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:14 |
-| 42 | [Champion](https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Mun G Singles](https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ) | 4:30 |
+| 41 | [Champion](https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Mun G Singles](https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ) | 4:30 |
+| 42 | [Magic \(fik\)](https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:14 |
 | 43 | [Dorah](https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Care Fahim](https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5) | [Dorah](https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5) | 3:29 |
 | 44 | [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 |
 | 45 | [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 |
 | 46 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 47 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
 | 48 | [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 |
-| 49 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
-| 50 | [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 |
+| 49 | [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 |
+| 50 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 
-Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDU3MTAzZTY5ZWIxMWVhZjE2MzQ3N2I2ZDRiNjFhOWVl`
+Snapshot ID: `MTY2ODcxODc0MCwwMDAwMDAwMDkxZTUzZTcyMzVhMTJkZGQ1NzhiY2M4YWUzZjVhZTlh`

@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1479987,
+  "num_followers": 1481082,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDYwMDk5MzQxMDIzYWMyMzkwMjE4NGIwNDA0NjcwYTJi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQxN2Q1Njc0MzE3YTU3Y2VlNDY3ODI2OWUxZmNiNjU5",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -591,26 +607,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Only Human (Special Edition)",
-        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "You Are The Reason - Duet Version",
-      "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -631,18 +627,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+        "name": "Only Human (Special Edition)",
+        "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
         }
       ],
-      "duration_ms": 189672,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+      "duration_ms": 190760,
+      "name": "You Are The Reason - Duet Version",
+      "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Baby, It's Okay",
+        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Life By Misadventure",
         "url": "https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 238639,
       "name": "Anywhere Away from Here (Rag\u2019n\u2019Bone Man & P!nk)",
       "url": "https://open.spotify.com/track/5gjATWO1EIhrCP1CQ2GWg8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Baby, It's Okay",
-        "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/6iWEhoALoBFnQMNVhYY0Sc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 188323,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+      "duration_ms": 188323,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Leisure",
         "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 205601,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 258066,
-      "name": "Nightswimming",
-      "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Tomorrow EP",
         "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
     },
     {
       "added_at": "2022-11-11 05:00:00",

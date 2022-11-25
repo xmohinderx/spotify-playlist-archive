@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-131 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
+135 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/4AeRtxiXa5Z6hakq6vTdrk) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [All I Want for Christmas Is You](https://open.spotify.com/album/474t5zcCFnsicUn3nNooel) | 3:12 | 2021-12-17 |  |
 | [All My Christmases](https://open.spotify.com/track/7M3k7CQYsEOknxlCrXgj1D) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [All My Christmases](https://open.spotify.com/album/1Oc0lXoyXZP6ed8otsHiQJ) | 3:24 | 2021-12-17 |  |
 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2021-12-17 |  |
+| [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 | 2022-11-24 |  |
 | [Away in a Manger](https://open.spotify.com/track/0ijoOrD2bDk5O5OOZjZNP9) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Christmas EP](https://open.spotify.com/album/1paCT4WfqjlIk8VRfRQHjY) | 4:03 | 2021-12-17 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 | 2021-12-17 |  |
 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2022-10-07 |  |
@@ -22,6 +23,7 @@
 | [Christmas \(Baby Please Come Home\) \- Acoustic](https://open.spotify.com/track/6beE2TbUK19qeOCBQUjqRF) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Christmas \(Baby Please Come Home\) \[Acoustic\]](https://open.spotify.com/album/6F9QQItaqltAOrDhzWZT8a) | 2:08 | 2022-09-23 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/4iZI4cXUM9nnNIBKAMvZot) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Christmas All Over Again](https://open.spotify.com/album/1hXYg23VfDBvn1yhdFhi8A) | 5:24 | 2022-10-24 |  |
 | [Christmas Always Finds Me \- Acoustic](https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Christmas Always Finds Me \(Acoustic\)](https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ) | 3:04 | 2022-09-23 |  |
+| [Christmas Day](https://open.spotify.com/track/4q7IpOO72CzCOanJWdslVu) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Christmas Day](https://open.spotify.com/album/1JQzU0IrDLKpdEuy7oQ2xo) | 3:27 | 2022-11-24 |  |
 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 | 2022-10-14 |  |
 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 | 2022-10-24 |  |
 | [Christmas Lights \- Acoustic](https://open.spotify.com/track/4fID9YxejFIfo7b7xYvFpC) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Christmas Lights \(Acoustic\)](https://open.spotify.com/album/4isjOztosKGlatAuY1BoDT) | 3:23 | 2022-09-23 |  |
@@ -41,6 +43,7 @@
 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 | 2022-10-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/4ODWSl1UJ6ok9t1RQOrD4p) | [Iris](https://open.spotify.com/artist/2kO5sbBJbD36k1hMbtJAca) | [Feliz Navidad](https://open.spotify.com/album/6p1lBmV93fLMOEVFLuTQdK) | 1:57 | 2021-12-17 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/6P0YUPZfoluJU2zKkSUNVT) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Playlist of Christmas Songs](https://open.spotify.com/album/13Gygts2YXzvvvCq1wIUql) | 2:22 | 2021-12-17 |  |
+| [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 | 2022-11-24 |  |
 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 | 2022-10-24 |  |
 | [Hallelujah](https://open.spotify.com/track/4Cf29FCJVbDU9szjtXQjoK) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Hallelujah](https://open.spotify.com/album/4pilz2Q1kExS7zeL2AVN9a) | 3:16 | 2022-10-14 |  |
 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 | 2021-12-17 |  |
@@ -121,6 +124,7 @@
 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 | 2022-10-14 |  |
 | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/track/0G3AmnNdWdnVwTGWONP873) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Some Hearts \(At Christmas Time\)](https://open.spotify.com/album/3Qi4XZlpUjHS7KFtNN5iiI) | 1:56 | 2022-10-24 |  |
 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 | 2022-10-24 |  |
+| [Step Into Christmas \- Acoustic](https://open.spotify.com/track/4jm6JwmRMV1wzKLW3cQKNK) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Step Into Christmas \(Acoustic\)](https://open.spotify.com/album/0T2O9nj2khsfg0I8J5FgVe) | 3:03 | 2022-11-24 |  |
 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 | 2021-12-17 |  |
 | [The Christmas Song](https://open.spotify.com/track/3CXCy292csbL8S8X2DOnxT) | [Catherine Feeny](https://open.spotify.com/artist/2PKUc5LXsZNjqOpAZKcFgz) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 3:21 | 2021-12-17 | 2022-10-15 |
 | [The Christmas Song](https://open.spotify.com/track/12CVNOsr1L3omtra5Z2Jmi) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05), [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [The Christmas Song](https://open.spotify.com/album/7M4I7btwjjSv6WIa3AxqH6) | 3:26 | 2021-12-17 | 2022-10-15 |

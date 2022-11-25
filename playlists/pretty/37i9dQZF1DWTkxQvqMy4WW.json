@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3064076,
+  "num_followers": 3065824,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDM3NzU0ZDEyZTI4ZjYxYTViMDdlZmZmMzMzOWYwMzFi",
+  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAwMDM1OTgzMDM0MDllZmU1MzM4MjhiZmViNmJhODUwZGRh",
   "tracks": [
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
         "name": "Lambs & Lions",
         "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 182493,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2022-05-13 04:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 187053,
       "name": "Tequila Makes Her Clothes Fall Off",
       "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2022-05-13 04:00:00",

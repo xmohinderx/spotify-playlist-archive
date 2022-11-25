@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Burn\-O, Dalua, Mc Pedrinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,702 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,788 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 10 | [Pablo](https://open.spotify.com/track/0Zzn6K3cuKPyDMwmiui3c8) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Pablo](https://open.spotify.com/album/5pqmf3Li9QYilSYOypcT4f) | 2:27 |
 | 11 | [Acelera](https://open.spotify.com/track/4oFt5J7fY1wI4Zl1d85mtl) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Karin MC](https://open.spotify.com/artist/4YQANK1UKfXDedcctTGvwl), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Acelera](https://open.spotify.com/album/6ku3KzsuSrRVH1cbbHYWug) | 2:22 |
 | 12 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 |
-| 13 | [Jordan](https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [Jordan](https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr) | 3:12 |
+| 13 | [Jordan](https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Ruxn](https://open.spotify.com/artist/20bFEf0GKyZMdVEZ7ao790) | [Jordan](https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr) | 3:12 |
 | 14 | [Vivi para Cantar](https://open.spotify.com/track/7tpaYvi84yGx2wXThIUcoz) | [Mc Ruzika](https://open.spotify.com/artist/1Lnkg5HIiYBd5szvhLVnEO), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Mensagem](https://open.spotify.com/album/394GDFzcRavFasLCw5LTtj) | 3:27 |
 | 15 | [Longe do Lean](https://open.spotify.com/track/75qppOzDTnBtj8WhEIct5Q) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Longe do Lean](https://open.spotify.com/album/5yDAo1uIXNqQZpHJlffJzU) | 2:43 |
 | 16 | [Imperatriz](https://open.spotify.com/track/0G1Y45e6lrg3hvSMTPiCdo) | [Fxrreira 065](https://open.spotify.com/artist/0VGeHxVO7No6djztOo4i8a), [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Imperatriz](https://open.spotify.com/album/2m3K37NLSiE1oJyYqZJyxv) | 2:45 |

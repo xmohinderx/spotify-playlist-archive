@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 196495,
+  "num_followers": 197050,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGEzMjgzOTU3ZDZkZTU5ZjVmYzMxMWIzNTkxNDM0N2Vi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDc3MWFiMWQ5ZjVjMTc1Yzc0NDBjMWZkYjVlZWZhOWQw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1115,42 +1115,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "JAGUAR",
-        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1191,6 +1171,46 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "JAGUAR",
+        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "elated!",
         "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
       },
@@ -1335,46 +1335,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Marbled",
-        "url": "https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7"
-      },
-      "artists": [
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        },
-        {
-          "name": "Harrison Sands",
-          "url": "https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en"
-        },
-        {
-          "name": "Copper King",
-          "url": "https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": "Sex n' Drugs",
-      "url": "https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
       },
@@ -1395,6 +1355,22 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Marbled",
+        "url": "https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Harrison Sands",
+          "url": "https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en"
+        },
+        {
+          "name": "Copper King",
+          "url": "https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Sex n' Drugs",
+      "url": "https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2022-09-26 15:51:30",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-09-26 15:51:30",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
-    },
-    {
-      "added_at": "2022-09-26 15:51:30",
-      "album": {
         "name": "Too Much (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "added_at": "2022-09-26 15:51:30",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
     }
   ],
   "unique_name": "Soir\u00e9e",

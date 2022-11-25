@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846611,
+  "num_followers": 846686,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGZkNjgxYjNhNDA2NTE5OGFlMTU1MTYxYzNjYzllN2Fk",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDIwZTlmMjBlOWQ1OTgwZGZkNmQ4NmVhNTZhNGNjMjIx",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Dalawa",
+        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
+      },
+      "artists": [
+        {
+          "name": "KAIA",
+          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Dalawa",
+      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "\u884c\u8d70\u7684\u9b5a",
         "url": "https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 196682,
       "name": "Blue",
       "url": "https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "Dalawa",
-        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
-      },
-      "artists": [
-        {
-          "name": "KAIA",
-          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Dalawa",
-      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Partout",
-        "url": "https://open.spotify.com/album/1fSyIBmSmRDMrmb0udtRRs"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 195035,
-      "name": "Partout",
-      "url": "https://open.spotify.com/track/3oNNorePaplyctqDgvEvSw"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "DOMOPAK",
         "url": "https://open.spotify.com/album/0X5vpAP31bfEor3gikJyM3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 197444,
       "name": "DOMOPAK",
       "url": "https://open.spotify.com/track/5rGlJkkDiERrqPP1bJ9mIe"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Partout",
+        "url": "https://open.spotify.com/album/1fSyIBmSmRDMrmb0udtRRs"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        }
+      ],
+      "duration_ms": 195035,
+      "name": "Partout",
+      "url": "https://open.spotify.com/track/3oNNorePaplyctqDgvEvSw"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "passo a passo",
-        "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
-        }
-      ],
-      "duration_ms": 219166,
-      "name": "passo a passo",
-      "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/1mFALEv1ffKshIAb5T3Db0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181997,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2AaXBwfmZahVmPitxP1zFE"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "passo a passo",
+        "url": "https://open.spotify.com/album/5xhJcZaQl9b1p7L0bZfsnj"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "duration_ms": 219166,
+      "name": "passo a passo",
+      "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 191382,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 184334,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 191382,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/3o4JJ3laC0xZnVvOCrDa36"
     },
     {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "Intertwine",
-        "url": "https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx"
-      },
-      "artists": [
-        {
-          "name": "Alicia Moffet",
-          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Hard Feelings",
-      "url": "https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV"
-    },
-    {
       "added_at": "2022-11-09 22:14:07",
       "album": {
         "name": "Spotify Singles",
@@ -823,6 +807,22 @@
       "duration_ms": 157661,
       "name": "sideways - Spotify Singles",
       "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Intertwine",
+        "url": "https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx"
+      },
+      "artists": [
+        {
+          "name": "Alicia Moffet",
+          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/7CCWJdlWbrgLX9pgF3ZQhV"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "My! Cyndi!",
-        "url": "https://open.spotify.com/album/37a8fX3JtjXiMRvuTMhVOa"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "\u611b\u4f60",
-      "url": "https://open.spotify.com/track/3nVm63feCNkGcXmuGUjKA3"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Udhero Na",
         "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "My! Cyndi!",
+        "url": "https://open.spotify.com/album/37a8fX3JtjXiMRvuTMhVOa"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "\u611b\u4f60",
+      "url": "https://open.spotify.com/track/3nVm63feCNkGcXmuGUjKA3"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "An kapou kapou m' agapas",
-        "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
-        }
-      ],
-      "duration_ms": 192972,
-      "name": "An kapou kapou m' agapas",
-      "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Sen Benim Ma\u011farams\u0131n",
         "url": "https://open.spotify.com/album/6yWmxGqxfeUDMDM3mPOHVc"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 226484,
       "name": "Sen Benim Ma\u011farams\u0131n",
       "url": "https://open.spotify.com/track/6w8wCVir8mfPfNGzB6Ap3j"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "An kapou kapou m' agapas",
+        "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "An kapou kapou m' agapas",
+      "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Therapeutic",
-        "url": "https://open.spotify.com/album/09rli57QuImAQF5Jy3blFc"
-      },
-      "artists": [
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        }
-      ],
-      "duration_ms": 130632,
-      "name": "Therapeutic",
-      "url": "https://open.spotify.com/track/5p6NTZUWgLrzI5r7shfEPa"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "SABINA",
-        "url": "https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5"
+        "name": "Therapeutic",
+        "url": "https://open.spotify.com/album/09rli57QuImAQF5Jy3blFc"
       },
       "artists": [
         {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Kleine Warme Kamer",
-      "url": "https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268"
+      "duration_ms": 130632,
+      "name": "Therapeutic",
+      "url": "https://open.spotify.com/track/5p6NTZUWgLrzI5r7shfEPa"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "SABINA",
+        "url": "https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Kleine Warme Kamer",
+      "url": "https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268"
     },
     {
       "added_at": "2022-11-02 04:01:00",

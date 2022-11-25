@@ -4,7 +4,7 @@
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-148 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
+149 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,8 +138,9 @@
 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 | 2022-01-20 |  |
 | [The Song Is You](https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 3:54 | 2021-12-20 | 2022-11-12 |
 | [Them There Eyes](https://open.spotify.com/track/0zvEaTWTllcMVWNlOqMnk0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 5:05 | 2022-01-13 | 2022-08-31 |
+| [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2022-11-24 |  |
 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 | 2021-12-20 |  |
-| [Till the Clouds Roll By \- 2015 Remastered Version](https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [It's a Blue World \(2015 Remastered Version\)](https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70) | 2:54 | 2021-12-20 |  |
+| [Till the Clouds Roll By \- 2015 Remastered Version](https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [It's a Blue World \(2015 Remastered Version\)](https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70) | 2:54 | 2021-12-20 | 2022-11-25 |
 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 | 2021-12-20 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 4:05 | 2021-12-20 |  |
 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 | 2021-12-20 |  |

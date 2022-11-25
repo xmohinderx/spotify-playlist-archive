@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,180 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,293 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 6 | [The Bassment \(feat\. George Duke\)](https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Just Feelin' It](https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l) | 5:55 |
 | 7 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 |
 | 8 | [U Can't Hold No Groove \(If You Ain't Got No Pocket\)](https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 3:59 |
-| 9 | [Just Play](https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 1:29 |
-| 10 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 |
+| 9 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 |
+| 10 | [Just Play](https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 1:29 |
 | 11 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
 | 12 | [Let's Play Some Funky Groove](https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 2:51 |
 | 13 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 |
 | 50 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDQyY2VhYmJhNTRkOTE0MzQ1YWUzOGM0OTBjNGNkMzhk`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDQwZWY5ZjBiYzU2MmFlMmM1ZjI1N2Y3ZDE1OTI1ZTc2`

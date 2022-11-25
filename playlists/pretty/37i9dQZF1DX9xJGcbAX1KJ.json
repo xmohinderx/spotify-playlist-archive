@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 10253,
+  "num_followers": 10285,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDYyM2ZmYzEwYWYxYjdiOGY5MWI2Mzc2M2RhYTI0YmM0",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDc3Y2Y2MmJjMzViNDYxMTg5NzRlNjIwMDk0YzZkMTM4",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -551,22 +551,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -583,6 +567,46 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 201136,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -615,30 +639,6 @@
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "As Long as You Love Me",
         "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 151618,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
     },
     {
       "added_at": "2019-02-22 20:19:46",

@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Novos rappers, novos sons. Tamos juntos! Foto: Beiro x Pedra x QVXNO.",
+  "description": "Novos rappers, novos sons. Tamos juntos! Foto: Yung Juse.",
   "name": "Ganda Cena",
   "published_playlist_ids": [
     "0yWUJgN7fowGbytoYMefKR"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "##Stu",
+        "url": "https://open.spotify.com/album/63oJ3UVRUxKZAAkyi3dNnV"
+      },
+      "artists": [
+        {
+          "name": "zzzcadu",
+          "url": "https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/6hoWo77VBtztMZ5tg5Mioo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135293,
+      "name": "##Stu",
+      "url": "https://open.spotify.com/track/6NaNEwnwIa9dqKcwLS7mil"
+    },
     {
       "album": {
         "name": "'T\u00c1S A FAZER O QU\u00ca?",
@@ -274,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Anonymous",
+        "url": "https://open.spotify.com/album/3IsEzzDit3f383Jee4Y0jA"
+      },
+      "artists": [
+        {
+          "name": "Hebecz",
+          "url": "https://open.spotify.com/artist/6cxNecG2Z0Z4IKrgPLV49W"
+        },
+        {
+          "name": "O N\u00daCLEO 360",
+          "url": "https://open.spotify.com/artist/2an0HLAQrLuRmr2z4OAl7O"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199820,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/3K27rwWRxMEKCUmbnb9xXn"
+    },
+    {
+      "album": {
         "name": "Apert\u00e1",
         "url": "https://open.spotify.com/album/4glIkgOX9hAH1purxDbpzM"
       },
@@ -373,6 +417,24 @@
       "duration_ms": 193533,
       "name": "Bala No Cr\u00e2nio",
       "url": "https://open.spotify.com/track/6rT73pMVAgtm5cxr7sqpZt"
+    },
+    {
+      "album": {
+        "name": "Belladonna",
+        "url": "https://open.spotify.com/album/12qJjHY5zLzUYRpwiHQoaq"
+      },
+      "artists": [
+        {
+          "name": "CORVO",
+          "url": "https://open.spotify.com/artist/2hdw5BXedPFnS6Od3XC8ru"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192697,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/6t2UFFBLs8LC3zOh5zlnc6"
     },
     {
       "album": {
@@ -884,6 +946,24 @@
     },
     {
       "album": {
+        "name": "Di gueto pa cidade",
+        "url": "https://open.spotify.com/album/5El4eOHhSvtSFcCCoARjWK"
+      },
+      "artists": [
+        {
+          "name": "DjonYsemOus",
+          "url": "https://open.spotify.com/artist/6sPuD7z9pGFvaXwl4EFCgX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219434,
+      "name": "Di gueto pa cidade",
+      "url": "https://open.spotify.com/track/32kVYI2bJEXHN2J0gmSJKQ"
+    },
+    {
+      "album": {
         "name": "Dinastia",
         "url": "https://open.spotify.com/album/757kngTOvcnk5iqohLEpNY"
       },
@@ -1265,7 +1345,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 149884,
       "name": "Evita",
       "url": "https://open.spotify.com/track/0KO2T9EamxOBUHkArxlHC4"
@@ -1396,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "LFAW",
+        "url": "https://open.spotify.com/album/1i33gJTU7AV8QCfeLOhVZd"
+      },
+      "artists": [
+        {
+          "name": "Ling",
+          "url": "https://open.spotify.com/artist/3SPmDLybgj2SVqxXV2lcbL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259722,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/61u9SJuUOLiC2rtVakPzW8"
+    },
+    {
+      "album": {
         "name": "Forca",
         "url": "https://open.spotify.com/album/5iVRtCIDHfpB20ELDgMURh"
       },
@@ -1509,7 +1607,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 184667,
       "name": "Furac\u00e3o",
       "url": "https://open.spotify.com/track/4LwaHixIGxYD6kHkQJMNCq"
@@ -2618,6 +2716,24 @@
     },
     {
       "album": {
+        "name": "Nha Daugther",
+        "url": "https://open.spotify.com/album/6NZoJF2r9wdqaYGhgaQTEF"
+      },
+      "artists": [
+        {
+          "name": "Migas49",
+          "url": "https://open.spotify.com/artist/6Hnrgc0O4rl4opKBup4reu"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Nha Daugther",
+      "url": "https://open.spotify.com/track/6EnjfHmcyU3qTIuA9slH45"
+    },
+    {
+      "album": {
         "name": "Nha G",
         "url": "https://open.spotify.com/album/2aImDiR1v4mGUncCM0bxN4"
       },
@@ -3123,6 +3239,24 @@
       "duration_ms": 132961,
       "name": "Paralyzed.",
       "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/4leqMHWzHssFnpsD8AclBr"
+      },
+      "artists": [
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/6gWxs2UBdPiTs9D9LgrLjK"
     },
     {
       "album": {
@@ -3770,6 +3904,24 @@
     },
     {
       "album": {
+        "name": "Sim ou N\u00e3o, Pt.1",
+        "url": "https://open.spotify.com/album/5T0Q51iVVura4U4IKEhQQR"
+      },
+      "artists": [
+        {
+          "name": "Lukky Boy",
+          "url": "https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Sim ou N\u00e3o, Pt.1",
+      "url": "https://open.spotify.com/track/1NTA44yi8RGGObPHuZO7zT"
+    },
+    {
+      "album": {
         "name": "LIFE AS IT IS (PART 2)",
         "url": "https://open.spotify.com/album/3IelcM5VNrEu908zaj88t6"
       },
@@ -3860,6 +4012,28 @@
     },
     {
       "album": {
+        "name": "Sou Melhor",
+        "url": "https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        },
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Sou Melhor",
+      "url": "https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E"
+    },
+    {
+      "album": {
         "name": "Special One",
         "url": "https://open.spotify.com/album/5HEchXSoc4SJnLjbVqGqFw"
       },
@@ -3911,6 +4085,24 @@
       "duration_ms": 218823,
       "name": "STARS",
       "url": "https://open.spotify.com/track/75Su9RTIGGx11CYQgGnebF"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/4OjoMiWyIYQkN5oshMfD1c"
+      },
+      "artists": [
+        {
+          "name": "GoblinKN",
+          "url": "https://open.spotify.com/artist/0OJs0er3DOXBhjT6xZhNHA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/1SzOE79Umy051n5W8AurA4"
     },
     {
       "album": {
@@ -4186,6 +4378,32 @@
     },
     {
       "album": {
+        "name": "TSDMI",
+        "url": "https://open.spotify.com/album/3ewCPWjgJY7hDypBususY1"
+      },
+      "artists": [
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        },
+        {
+          "name": "Tsubasv",
+          "url": "https://open.spotify.com/artist/12LDzeztDQ0bk2C3SHjh7i"
+        },
+        {
+          "name": "Hash47",
+          "url": "https://open.spotify.com/artist/3c9qJ1kCxoMGTGaj2kjedZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "TSDMI",
+      "url": "https://open.spotify.com/track/6U99m3hDGKCv4qezHVKelQ"
+    },
+    {
+      "album": {
         "name": "Tudo Mudou",
         "url": "https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY"
       },
@@ -4281,6 +4499,24 @@
       "duration_ms": 259044,
       "name": "Um Brinde",
       "url": "https://open.spotify.com/track/7wla2GPUvZfUwe7Lmyh9Sy"
+    },
+    {
+      "album": {
+        "name": "Um Mais Um",
+        "url": "https://open.spotify.com/album/7esXbDxgwjqbo2m9Wvux5J"
+      },
+      "artists": [
+        {
+          "name": "SPLIFF",
+          "url": "https://open.spotify.com/artist/2QPRzhivMb2TfzvZKpQYxL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Um Mais Um",
+      "url": "https://open.spotify.com/track/6H5dHSlFPPw4YBoTE7qO9B"
     },
     {
       "album": {

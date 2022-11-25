@@ -4,7 +4,7 @@
 
 > Solo éxitos locales pasados, chapados en oro\. Aleman en portada.
 
-83 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6rR9impfdl0qRPEpFRtBnL)
+84 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/6rR9impfdl0qRPEpFRtBnL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 | 2022-07-01 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-07-01 |  |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2022-07-01 | 2022-07-29 |
+| [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 | 2022-11-25 |  |
 | [Así Soy](https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Así Soy](https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY) | 3:56 | 2022-07-01 |  |
 | [Borracho Gacho](https://open.spotify.com/track/4OzmPHAqniJC1yMuDh9lmC) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/20q5j9oFR1Ax38kogUuGiq) | 2:45 | 2022-07-01 |  |
 | [Borracho Gacho](https://open.spotify.com/track/3fy4CajqticmYK5wXYF9lE) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Borracho Gacho](https://open.spotify.com/album/4X4JTvyX4cdx1bktVeGwJI) | 2:46 | 2022-08-15 | 2022-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,668 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,103 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [If Only Tonight We Could Sleep \- Live](https://open.spotify.com/track/2fqKtoic5F3mJW5JpnVScF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Anniversary: 1978 \- 2018 Live In Hyde Park London](https://open.spotify.com/album/3rK1q79KbTporCJVvbMNUX) | 5:13 |
 | 50 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
 
-Snapshot ID: `Mjc4MjAzNzEsMDAwMDAwMDA0NDljMGM3YTY5OGNkZjRmZTE0MGZkMjg4M2E5MWZiMA==`
+Snapshot ID: `Mjc4MjE2NzgsMDAwMDAwMDBiNzJjZTMxOWRiZjExYThlMTk0YmFkNGIyOTczZTg4Zg==`

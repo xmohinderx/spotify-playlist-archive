@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-113 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
+114 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Christmas Lights](https://open.spotify.com/track/2NyiWPdsYTKYB1aX9BWfFu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Music \- 50 Christmas Songs](https://open.spotify.com/album/2zyHcaXBI4bpHZAAGE0Pl3) | 4:02 | 2022-10-28 | 2022-11-14 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-17 |  |
 | [Christmas Prayer](https://open.spotify.com/track/1fVUbYWYtBmzTllJ2EAddD) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Infinite Things \(Deluxe Version\)](https://open.spotify.com/album/3g2kKcxwX4I7ttohCuZkkF) | 3:23 | 2021-12-17 |  |
+| [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm \(Old Timey Version\)](https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b) | 3:52 | 2022-11-24 |  |
 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 | 2021-12-17 |  |
 | [Cold December Night](https://open.spotify.com/track/23EvkivHtoFgkSK5pckvwq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:18 | 2021-12-17 | 2022-11-19 |
 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1deT8vP3lOVU3XFAKHsSc3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 3:39 | 2021-12-17 | 2022-07-29 |

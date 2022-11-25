@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1460025,
+  "num_followers": 1460023,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIyNzc2NywwMDAwMDAwMGI5ZTRmYmFhMTIzMzA4YzhmZWYyNTk5NTIzZDkxZmVh",
+  "snapshot_id": "MTY2ODIyNzc2NywwMDAwMDAwMGY5MTk4MDQ0NDhmY2UwMTkxYTRlMTAwNDg5OTJjM2Yw",
   "tracks": [
     {
       "added_at": "2022-11-12 04:36:07",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2022-11-12 04:36:07",
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Plut\u00f3n",
-      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": "2022-11-12 04:36:07",
-      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 232653,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+    },
+    {
+      "added_at": "2022-11-12 04:36:07",
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
     },
     {
       "added_at": "2022-11-12 04:36:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,212 likes - 330 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,673 likes - 330 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 78 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
 | 79 | [A Walk In The Park](https://open.spotify.com/track/7pVrmqr17ArAKyXcJn7SCB) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [A Walk In The Park](https://open.spotify.com/album/2Gu0OnHJgCGB1cIC1PU1kp) | 2:26 |
 | 80 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 |
-| 81 | [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 |
+| 81 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 |
 | 82 | [Constellations](https://open.spotify.com/track/5RFKFFRvfkD1dit5DB6bfW) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Constellations](https://open.spotify.com/album/5R9aCPjyp8MF2cZ5THlw2E) | 2:40 |
 | 83 | [debris](https://open.spotify.com/track/2BW8p88UBLM5iegKDq6shW) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [debris](https://open.spotify.com/album/0YPSDgFj9PGi3cVD5ED52E) | 2:03 |
 | 84 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 |
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 120 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 |
 | 121 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 |
 | 122 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 |
-| 123 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 |
+| 123 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 |
 | 124 | [by all means](https://open.spotify.com/track/2mJQ8Mr3FRKaHSbyHcDews) | [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [by all means](https://open.spotify.com/album/4l6JOhah9cGKWXFD5tN3C9) | 2:44 |
 | 125 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 |
 | 126 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 145 | [Grab Me](https://open.spotify.com/track/0NVNMpfQSByxAJRDX8pL2N) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Venetian Blinds](https://open.spotify.com/album/0x5WvMjYdLqQIbNBELQJ3A) | 1:10 |
 | 146 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 |
 | 147 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 |
-| 148 | [Locust](https://open.spotify.com/track/1aUm1awY4QGOj7dwjUf5s1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Locust](https://open.spotify.com/album/2D0W7K61oCTDtycvniH6Xd) | 1:57 |
+| 148 | [Locust](https://open.spotify.com/track/5MaPFUOETqvw2bNIAuJkTP) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Arboretum](https://open.spotify.com/album/2sdi12rXHr4txTYyOJ2pcm) | 1:57 |
 | 149 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 |
 | 150 | [Calm The Storm](https://open.spotify.com/track/7yWYOJIP5fvuLFoosg4xLu) | [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Calm The Storm](https://open.spotify.com/album/4EipnfMK5g9MdJzxkZ8P1o) | 2:45 |
 | 151 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 329 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 330 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY2ODE2NzUyMywwMDAwMDAwMDIzNDA3MTA4YzI3NGEwOWViOGI2OTRjMTIzMmUyOTU1`
+Snapshot ID: `MTY2ODE2NzUyMywwMDAwMDAwMDA2NzRhOGJlOTFiNjUxNzI4N2FjM2Q3Njg4MTFlMGVi`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 369696,
+  "num_followers": 370167,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGIzYzlmODNiOTc2ZTgwNjY3MmQxOGFhMThjNWY5N2Iw",
+  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMDIxYzNmYjcwOTIyOTQ0YWJmOGMwMTIzMDA4Y2MwYmQ0",
   "tracks": [
     {
       "added_at": "2022-11-09 13:17:01",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c1 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
-    },
-    {
-      "added_at": "2022-11-09 13:17:01",
-      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 152376,
       "name": "TE AMO (em caixa alta)",
       "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+    },
+    {
+      "added_at": "2022-11-09 13:17:01",
+      "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c1 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
     },
     {
       "added_at": "2022-11-09 13:17:01",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2022-11-09 13:17:01",
-      "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 181276,
       "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+    },
+    {
+      "added_at": "2022-11-09 13:17:01",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2022-11-09 13:17:01",

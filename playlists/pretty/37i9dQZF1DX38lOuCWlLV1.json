@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 173839,
+  "num_followers": 174195,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMGM3ODUzNzNmZTg4OWM3ZjAyZDM2ZDk5NjFiZDU3Njkw",
+  "snapshot_id": "MTY2NTU5NzQ2OSwwMDAwMDAwMDkxZTIxYTM0NmI1ZjA2OTQwN2JiNTc0ODBmZjQyYmQ0",
   "tracks": [
     {
       "added_at": "2022-10-12 17:57:49",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-10-12 17:57:49",
       "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 305776,
       "name": "Cheer Up, My Brother",
       "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2022-10-12 17:57:49",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2022-10-12 17:57:49",
@@ -1227,6 +1211,22 @@
       "duration_ms": 214831,
       "name": "Kingdom Leader",
       "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
+    },
+    {
+      "added_at": "2022-10-12 17:57:49",
+      "album": {
+        "name": "Chip Chrome & The Mono-Tones",
+        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 296813,
+      "name": "Tobacco Sunburst",
+      "url": "https://open.spotify.com/track/4pJEkzhZY84h8kmPkUhfwC"
     }
   ],
   "unique_name": "Love Letter",

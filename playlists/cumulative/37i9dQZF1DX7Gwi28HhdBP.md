@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-186 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+187 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bein Narein](https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ah Menak](https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw) | 3:43 | 2021-12-16 |  |
 | [Bena2es](https://open.spotify.com/track/50L0cjBEGiEuxA15kQw850) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Bena2es](https://open.spotify.com/album/3r6ulG2SGCqROirKSqdetn) | 4:08 | 2021-12-16 |  |
 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 | 2021-12-16 |  |
-| [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 |  |
+| [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 | 2022-11-25 |
 | [Bonbonaya](https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Bonbonaya](https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M) | 3:57 | 2021-12-16 |  |
 | [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 | 2022-09-26 |
 | [Chicolata](https://open.spotify.com/track/2gMTpYNYooniYFd3qXZcOe) | [Bosy](https://open.spotify.com/artist/3CYfsLhei8oA3TUsEW8w8X), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aman Ya Sahby](https://open.spotify.com/album/6lhOzHXoc8yFo60o0sXOdT) | 2:43 | 2021-12-16 | 2021-12-29 |
@@ -101,6 +101,7 @@
 | [Sebona Fe Halna](https://open.spotify.com/track/2MxRJwyYumi6ODywLbL89k) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebona Fe Halna](https://open.spotify.com/album/4Fs2CAjgQ8yhTN1pFnOYER) | 4:32 | 2021-12-16 | 2022-07-29 |
 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 | 2021-12-30 |  |
 | [Shecolata](https://open.spotify.com/track/2fd6l0ZnzcoxAkA8e8URtS) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Shecolata](https://open.spotify.com/album/36hOxzWm2uNQzLZrkLMidl) | 2:41 | 2021-12-16 | 2022-07-29 |
+| [Shed Helak](https://open.spotify.com/track/3t8njPwPoFpOHKe4Lja4qp) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Shed Helak](https://open.spotify.com/album/3z0FBFJFUUyxlcVYUaBcGC) | 2:13 | 2022-11-24 |  |
 | [Sohab Fashosh](https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sohab Fashosh](https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4) | 3:36 | 2021-12-16 |  |
 | [Taalan Aleina](https://open.spotify.com/track/0bIdj84kcikKQMjltR9Hbc) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Taalan Aleina](https://open.spotify.com/album/4qNBlXf4jgPTD9xLpx3EuG) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 |  |

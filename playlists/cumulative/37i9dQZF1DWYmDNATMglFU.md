@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ cover: leah kate
+> it's a generation ⛓ cover: cassyette
 
-418 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+423 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Anything Goes](https://open.spotify.com/track/7HiUxhv8kfKJ3c5CWDm02K) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Anything Goes](https://open.spotify.com/album/08TiSpHuYW6BIWcZhGess3) | 3:19 | 2022-09-22 | 2022-11-18 |
 | [Armageddon](https://open.spotify.com/track/0rvjUlPX1JmwzfiYJ4JdLY) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Armageddon](https://open.spotify.com/album/0g2QDrVJOiMVBTtPGHtR6I) | 2:32 | 2022-02-11 | 2022-07-22 |
 | [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:31 | 2022-06-16 | 2022-08-05 |
+| [BARFIGHT!](https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Colours \(Deluxe\)](https://open.spotify.com/album/598Wjk55GXjRkPcGYyMDJR) | 3:06 | 2022-11-25 |  |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-07-22 |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2021-12-31 | 2022-01-08 |
 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 | 2022-07-01 | 2022-11-18 |
@@ -81,6 +82,7 @@
 | [Cruise Control](https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Cruise Control](https://open.spotify.com/album/2KWXc9Ja79kenCq55S9S7m) | 2:34 | 2022-06-16 | 2022-07-22 |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2022-01-07 | 2022-11-01 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-10-07 |
+| [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 |  |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2022-10-20 | 2022-11-01 |
 | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 | 2022-11-04 |  |
 | [DADDY ISSUES](https://open.spotify.com/track/2CuZa66yQSugnSois0olvc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [DADDY ISSUES](https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0) | 2:25 | 2022-04-28 | 2022-09-30 |
@@ -162,6 +164,7 @@
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-02-11 | 2022-04-01 |
 | [Hearteater](https://open.spotify.com/track/0A67MlQCkvswYwi5kEK9Zi) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Hearteater](https://open.spotify.com/album/5ovHuIDD4DzC6D2qc5x5tI) | 2:56 | 2022-05-26 | 2022-07-22 |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2021-12-31 |  |
+| [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-11-25 |  |
 | [Hellbound](https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Hellbound](https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8) | 2:45 | 2022-01-07 | 2022-03-25 |
 | [Her](https://open.spotify.com/track/02KSPbKGTGn3bfrtediUWF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 2:08 | 2022-03-31 | 2022-07-22 |
 | [hey prentiss](https://open.spotify.com/track/2mIW33L1ycl9oqBAlkmO7l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/38KlL9hDNslKeFJ2A0pKXC) | 2:11 | 2022-10-20 | 2022-11-01 |
@@ -232,6 +235,7 @@
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-31 | 2022-08-05 |
 | [me & ur ghost](https://open.spotify.com/track/5tiZBnx5IvETA0Pj3gELjn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:21 | 2021-12-31 | 2022-01-08 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-05 | 2022-08-05 |
+| [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 | 2022-11-25 |  |
 | [Mercy Me](https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:49 | 2022-10-20 | 2022-11-01 |
 | [Middle Of A Breakup](https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:20 | 2022-09-29 | 2022-11-18 |
 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 | 2022-07-21 | 2022-10-06 |
@@ -265,6 +269,7 @@
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2022-10-20 | 2022-11-01 |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-10-20 | 2022-11-01 |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2022-02-11 | 2022-04-01 |
+| [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2022-11-25 |  |
 | [old tattoos](https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [old tattoos](https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP) | 2:29 | 2022-01-14 | 2022-02-11 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:42 | 2021-12-31 | 2022-01-08 |

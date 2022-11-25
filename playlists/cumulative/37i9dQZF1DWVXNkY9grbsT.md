@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-267 songs - 22 hr 57 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
+268 songs - 23 hr 3 min - [published](https://open.spotify.com/playlist/7yZuMWSP3DmPnpKPoOfSdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Momento](https://open.spotify.com/track/5uYxd2vX7yHcszTXcI1fiK) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 4:43 | 2022-07-08 | 2022-07-15 |
 | [Momentum](https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY), [Dawncall](https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq) | [Momentum](https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp) | 4:19 | 2022-04-01 |  |
 | [Mother](https://open.spotify.com/track/1dHMMGQxzMSFPBF1BtAmvX) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:09 | 2021-12-26 | 2022-07-28 |
+| [Mother](https://open.spotify.com/track/27EB9DNYhsQy2DJcBMj6EG) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [Riptide](https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6) | 6:09 | 2022-11-22 |  |
 | [Movement Maps](https://open.spotify.com/track/2eqxZLjPXF8i1xxcQsRCab) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Maps](https://open.spotify.com/album/7wJPlHBGWBzZp6mk7xAJXa) | 4:38 | 2021-12-26 |  |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-12-26 |  |
 | [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 | 2022-03-04 |  |
@@ -222,7 +223,7 @@
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 |  |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |
-| [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 |  |
+| [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 | 2022-11-25 |
 | [Strength \(feat\. LA Timpa\)](https://open.spotify.com/track/3D5wpeCGulAoD7L0n3i2Sn) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:10 | 2021-12-26 |  |
 | [Struggle for Pleasure \- Hüma Utku Version](https://open.spotify.com/track/3pwrgiSqJbrw3bNYiTrHPb) | [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0), [Hüma Utku](https://open.spotify.com/artist/6FkocGSMDJrbTxsoJxLrMT) | [Inland Versions](https://open.spotify.com/album/206s4UEdUN6KW2tcHZJyiU) | 5:23 | 2021-12-26 | 2022-07-28 |
 | [Stuck in Pause](https://open.spotify.com/track/0hJbyiQ4R8yqyAMdkmyFJD) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:03 | 2021-12-26 |  |

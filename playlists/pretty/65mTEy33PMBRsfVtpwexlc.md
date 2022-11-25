@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 
 > Grab your hair gel and let's slide back to the 90's Alt Rock scene! Cover: Depeche Mode
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,712 likes - 83 songs - 5 hr 44 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,711 likes - 83 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

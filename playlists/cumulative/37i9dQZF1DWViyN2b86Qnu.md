@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-177 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+178 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Just Fine](https://open.spotify.com/track/0IA5V5X6IQM1xN8YUHM2HG) | [Bennett.io](https://open.spotify.com/artist/4tXS1RImn0BBhAbLiWzjsy) | [Just Fine](https://open.spotify.com/album/2I9DFNosdERJGCyoIc8bVt) | 3:19 | 2021-10-05 |  |
 | [Klonopin](https://open.spotify.com/track/0PtOBq6BjknohejkwXahix) | [Ah\-Mer\-Ah\-Su](https://open.spotify.com/artist/6uCILdubNJBlEvfxOCDluy) | [Rebecca \(Re\-Release\)](https://open.spotify.com/album/5eukmT5dpGfpVncnyAOOQU) | 3:49 | 2021-10-05 | 2022-04-14 |
 | [Life Goes On](https://open.spotify.com/track/20iykucq4850X9MMIm7PBY) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:38 | 2021-10-05 | 2022-02-21 |
-| [Lolo 13](https://open.spotify.com/track/7tJiFAXnQ0x6SwwHzjAZYB) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/4PMZlbwVmNpMEOkY1UkM03) | 2:41 | 2021-10-05 |  |
+| [Lolo 13](https://open.spotify.com/track/5YGVoookgrVr9Zyw615G1Q) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/1D5mBLxOJpg426RflIyFAf) | 2:41 | 2022-07-14 |  |
+| [Lolo 13](https://open.spotify.com/track/7tJiFAXnQ0x6SwwHzjAZYB) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/4PMZlbwVmNpMEOkY1UkM03) | 2:41 | 2021-10-05 | 2022-11-25 |
 | [Lonely But Not Alone](https://open.spotify.com/track/70SMq0djk5HdO0kc1YM2e9) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Lonely But Not Alone](https://open.spotify.com/album/24yrwo7fOZ5ID22hLzU43W) | 3:16 | 2021-10-05 |  |
 | [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 | 2021-10-05 | 2022-09-16 |
 | [LOSING MYSELF](https://open.spotify.com/track/6MVyCFg9IHeS1E41aOUTpm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 2:56 | 2022-07-14 |  |

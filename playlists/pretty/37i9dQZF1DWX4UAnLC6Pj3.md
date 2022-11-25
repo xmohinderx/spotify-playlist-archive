@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! El Fantasma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,960 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,648 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 41 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 42 | [Ilegal](https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:41 |
 | 43 | [El Reemplazo](https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Reemplazo](https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu) | 3:55 |
-| 44 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
-| 45 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
+| 44 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
+| 45 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
 | 46 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
 | 47 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr) | 3:42 |
 | 48 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 56 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 57 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 58 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 |
-| 59 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
-| 60 | [Te Lo Debo a Ti](https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:25 |
+| 59 | [Te Lo Debo a Ti](https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:25 |
+| 60 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
 | 61 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 |
 | 62 | [El Precio De La Soledad](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
 | 63 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 74 | [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 |
 | 75 | [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 |
 
-Snapshot ID: `MTY2NzUwMzU2NiwwMDAwMDAwMDFkNjNhM2U0NTk1ZjcyZWE4ZjM4ZWY2NDBjZDVjNjdl`
+Snapshot ID: `MTY2NzUwMzU2NiwwMDAwMDAwMDFkN2MxMDA2NDQyNzk1Mjg1M2IzMzlkMjc2MWVmNTEy`

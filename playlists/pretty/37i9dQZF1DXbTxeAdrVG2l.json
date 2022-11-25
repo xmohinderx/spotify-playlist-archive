@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. ",
-  "num_followers": 7496780,
+  "num_followers": 7498379,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyNDgwMCwwMDAwMDAwMGQwODIzYTU2ZWRiZmU5OTRmODdjNTRhMjA2YjVlMTY0",
+  "snapshot_id": "MTY2ODEyNDgwMCwwMDAwMDAwMDgwYzI0MzJkNDM4NzllYWExMmU0NGFjMDk4ZGEwMmNl",
   "tracks": [
     {
       "added_at": "2022-11-11 00:00:00",
@@ -523,8 +523,8 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -623,8 +623,8 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 235293,
       "name": "Learn to Fly",
       "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 257360,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 429533,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 221332,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2167,6 +2151,22 @@
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 258133,
-      "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -2303,18 +2287,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
       "artists": [
         {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+      "duration_ms": 258133,
+      "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -2347,38 +2347,6 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "The Bad Touch",
-      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2399,18 +2367,34 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -2459,6 +2443,22 @@
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2022-11-11 00:00:00",

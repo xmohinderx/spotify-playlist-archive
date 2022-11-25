@@ -5630,6 +5630,24 @@
     },
     {
       "album": {
+        "name": "introvert (with extroverted expectations)",
+        "url": "https://open.spotify.com/album/5KPQxWwGNxylmrSKltq15e"
+      },
+      "artists": [
+        {
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197256,
+      "name": "introvert (with extroverted expectations)",
+      "url": "https://open.spotify.com/track/6Yg7lVxwuqRcuqPLRlEArd"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/30sVsSNtT6Mtu31LvKC2rS"
       },

@@ -4,11 +4,12 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-69 songs - 4 hr 5 min - not published yet
+71 songs - 4 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-20 |  |
+| [1gの詐欺](https://open.spotify.com/track/44R5LHXgkxEPqW1P6PhkLE) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [1gの詐欺](https://open.spotify.com/album/2pmnts7eHPbT5f5sd4k4yQ) | 3:40 | 2022-11-24 |  |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 |  |
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 |  |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-10-20 | 2022-11-23 |
@@ -41,6 +42,7 @@
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 |  |
 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 | 2022-10-20 |  |
 | [Mirror ball \(feat\. 高橋飛夢\)](https://open.spotify.com/track/2r6RvMnR8Ff2TNc1LdYNam) | [Auto&mst](https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz), [高橋飛夢](https://open.spotify.com/artist/4E9YQZDF24uDabjzGeQ3tQ) | [Mirror Ball](https://open.spotify.com/album/1tTxgvbKcA5pHyvh21ROOS) | 3:58 | 2022-10-20 |  |
+| [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 |  |
 | [my own life](https://open.spotify.com/track/0T5YzUfgtUKXeDHE7dz4LB) | [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds), [mots](https://open.spotify.com/artist/1R6xSi1kBIpztNy5NIxW96), [サクライエナ](https://open.spotify.com/artist/3pxcoTctphgpoj26kL5Gds) | [my own life](https://open.spotify.com/album/7lb93fcshTHAMArHyJlSZH) | 4:38 | 2022-10-20 |  |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2022-10-20 |  |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-10-20 |  |
@@ -60,7 +62,7 @@
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-10-20 |  |
 | [こんにちは](https://open.spotify.com/track/4OYvYvyVtFyHWomlIulGhU) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Infinity Sunset](https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH) | 2:52 | 2022-11-10 | 2022-11-13 |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 |  |
-| [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 |  |
+| [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
 | [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 |  |
 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 | 2022-10-20 |  |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-23 |  |
@@ -75,7 +77,7 @@
 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 |  |
 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 | 2022-10-20 |  |
-| [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 |  |
+| [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 | 2022-11-25 |
 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 | 2022-10-20 |  |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

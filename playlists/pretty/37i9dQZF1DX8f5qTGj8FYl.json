@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 312596,
+  "num_followers": 312825,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDg4NjRkMTEzZDFhNmE3YWE0ZDBlZTNhOWEyYmY1NTdl",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDVlNTkyMjE5ZDk3NTJlNDJkNWU1YTIyMTlhNjZiYzM0",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "End Of The World Party (Just In Case)",
-        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Shine It",
-      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 941360,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "End Of The World Party (Just In Case)",
+        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Shine It",
+      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -277,24 +277,20 @@
       "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-06-25 04:02:00",
       "album": {
-        "name": "Maze of Sounds",
-        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
         {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        },
-        {
-          "name": "The Soul Surfers",
-          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 428047,
-      "name": "Tha Boogee",
-      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -317,20 +313,24 @@
       "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "name": "Maze of Sounds",
+        "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        },
+        {
+          "name": "The Soul Surfers",
+          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
         }
       ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
+      "duration_ms": 428047,
+      "name": "Tha Boogee",
+      "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 310561,
-      "name": "NDUGU",
-      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Golden Ticket",
         "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 228986,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 310561,
+      "name": "NDUGU",
+      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Hot Chicken",
-        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
-      },
-      "artists": [
-        {
-          "name": "DLG 3",
-          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Hot Chicken",
-      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "False Prophets",
         "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 352374,
       "name": "False Prophets",
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Hot Chicken",
+        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
+      },
+      "artists": [
+        {
+          "name": "DLG 3",
+          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Hot Chicken",
+      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "VXNTX VXNTX",
-        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
-      },
-      "artists": [
-        {
-          "name": "Black Mantra",
-          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "KINFOLK: Postcards from Everywhere",
         "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 333304,
       "name": "Bounce, Pts. I + II",
       "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
+      },
+      "artists": [
+        {
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lost Knights",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "We Are All Shining Stars",
-        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
       },
       "artists": [
         {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
         }
       ],
-      "duration_ms": 198966,
-      "name": "Everybody's Inn",
-      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1209,6 +1193,22 @@
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "We Are All Shining Stars",
+        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
+      },
+      "artists": [
+        {
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+        }
+      ],
+      "duration_ms": 198966,
+      "name": "Everybody's Inn",
+      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Prospect Park West",
@@ -1223,6 +1223,22 @@
       "duration_ms": 176184,
       "name": "Prospect Park West",
       "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1277,20 +1293,20 @@
       "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-11-26 05:01:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Keb's Bucket",
-      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
-      },
-      "artists": [
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "added_at": "2021-01-22 05:01:00",

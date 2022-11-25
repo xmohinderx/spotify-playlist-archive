@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,341 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,589 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 41 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 42 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 43 | [Decide Aí \- Na Praia / Ao Vivo](https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 2:42 |
-| 44 | [Dependente](https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta pro Amanhã](https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5) | 3:41 |
-| 45 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |
+| 44 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |
+| 45 | [Dependente](https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta pro Amanhã](https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5) | 3:41 |
 | 46 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
 | 47 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 |
 | 48 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 49 | [Nocaute](https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Os Anjos Cantam](https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt) | 2:47 |
-| 50 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 |
-| 51 | [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:25 |
+| 50 | [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:25 |
+| 51 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 |
 | 52 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:39 |
-| 53 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
-| 54 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
+| 53 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
+| 54 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
 | 55 | [Viva Voz \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Livre \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf) | 2:44 |
 | 56 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
 | 57 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 79 | [Reprise \- Ao Vivo](https://open.spotify.com/track/4C24fGqRUrz3TyVt4uku2Y) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 2:46 |
 | 80 | [Eu Era](https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Acredite](https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq) | 3:31 |
 
-Snapshot ID: `MTY2NDg5NzY0OSwwMDAwMDAwMGEwYjNjYjUzMGJiMWI2MjU1ZTg5NWMzODkwMGY2NzY1`
+Snapshot ID: `MTY2NDg5NzY0OSwwMDAwMDAwMDcwMTNjNjRjMjFiYjFjNzg5MGU3YmMzMTQzZDQ0N2E2`

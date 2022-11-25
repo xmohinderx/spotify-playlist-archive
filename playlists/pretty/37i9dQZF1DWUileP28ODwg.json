@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 257932,
+  "num_followers": 258112,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGRhODcyNTA1NTZmMjA1MjViNWM4ZWEwN2RlYWQwYTY1",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDZhNjFjZGU3Njg5ZmJhZjA1MjQ5OTNiYWI1OGI3ZWJk",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -83,18 +83,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Build a Boat",
-        "url": "https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg"
+        "name": "God Is In This Story",
+        "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
       },
       "artists": [
         {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 170549,
-      "name": "Build a Boat",
-      "url": "https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv"
+      "duration_ms": 207893,
+      "name": "God Is In This Story",
+      "url": "https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -115,22 +119,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "God Is In This Story",
-        "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
+        "name": "Build a Boat",
+        "url": "https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg"
       },
       "artists": [
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 207893,
-      "name": "God Is In This Story",
-      "url": "https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T"
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Whosoever",
-        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 225755,
-      "name": "Hallelujah Anyway",
-      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+        "name": "Whosoever",
+        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Ryan Ellis",
-        "url": "https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 189099,
-      "name": "Son of David (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Ryan Ellis",
+        "url": "https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 189099,
+      "name": "Son of David (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "A Thousand Shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "A Thousand Shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "A Thousand Shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "A Thousand Shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "I Will Carry You (Radio Version)",
         "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "For All My Life",
-        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Believe For It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218400,
       "name": "I've Got Joy",
       "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "For All My Life",
+        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I'll Fight for You",
         "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1171,6 +1155,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 215000,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 206576,
-      "name": "On And On - Radio",
-      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Where The Glory Is",
         "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 270576,
       "name": "Where The Glory Is",
       "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 206576,
+      "name": "On And On - Radio",
+      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 201639,
-      "name": "By Faith",
-      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Free At Last",
         "url": "https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 226666,
       "name": "Free At Last",
       "url": "https://open.spotify.com/track/05PxyIJgvQSOtwWGymgsNj"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 201639,
+      "name": "By Faith",
+      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
     }
   ],
   "unique_name": "Top Christian Contemporary",

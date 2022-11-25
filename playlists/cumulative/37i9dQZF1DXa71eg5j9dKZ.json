@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Romy",
+  "description": "The home for alternative electronic music. Cover: Supershy",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -1606,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Bubble Up",
+        "url": "https://open.spotify.com/album/1H8nHeSZdVakwvkmZNOfkZ"
+      },
+      "artists": [
+        {
+          "name": "Ikonika",
+          "url": "https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368706,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/4LPHcGr7T3lT2gImcwYWe7"
+    },
+    {
+      "album": {
         "name": "At What Cost?",
         "url": "https://open.spotify.com/album/4qAZjzKlFI4c0v0xezQ6I8"
       },
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM"
@@ -2221,6 +2239,24 @@
       "duration_ms": 240723,
       "name": "Cutie - Edit",
       "url": "https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk"
+    },
+    {
+      "album": {
+        "name": "Dagobah",
+        "url": "https://open.spotify.com/album/3Hde6QPh9ZHxNoonYQ4RC1"
+      },
+      "artists": [
+        {
+          "name": "Burland",
+          "url": "https://open.spotify.com/artist/5I3pGI4XlZf4ZTfa0HUk5w"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "Dagobah",
+      "url": "https://open.spotify.com/track/7JDjw5R8GuEgJW7jcGDvwb"
     },
     {
       "album": {
@@ -2503,6 +2539,28 @@
       "duration_ms": 294000,
       "name": "Don't Let",
       "url": "https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
     },
     {
       "album": {
@@ -3118,6 +3176,24 @@
     },
     {
       "album": {
+        "name": "Silkworm",
+        "url": "https://open.spotify.com/album/5OHnpPZroept4tmsAdwfQP"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258652,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0oMLuN4cldfEiqwIY8dI7K"
+    },
+    {
+      "album": {
         "name": "Feel About You",
         "url": "https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d"
       },
@@ -3155,6 +3231,24 @@
       "duration_ms": 203071,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7"
+    },
+    {
+      "album": {
+        "name": "Fembot Fashion",
+        "url": "https://open.spotify.com/album/1VxBZzFSS3333QGfdZ82IT"
+      },
+      "artists": [
+        {
+          "name": "Maddy Maia",
+          "url": "https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288087,
+      "name": "Fembot Fashion",
+      "url": "https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB"
     },
     {
       "album": {
@@ -3644,6 +3738,28 @@
     },
     {
       "album": {
+        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269711,
+      "name": "GOOD TIMES - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "album": {
         "name": "Got Me (feat. Julia Stone)",
         "url": "https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R"
       },
@@ -3843,7 +3959,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 361960,
       "name": "Heather Park",
       "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
@@ -5601,7 +5717,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 291721,
       "name": "Mango Feedback",
       "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
@@ -6857,7 +6973,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 237500,
       "name": "Peace",
       "url": "https://open.spotify.com/track/66GA7b6ONDHPYgBBqJe9J0"
@@ -9055,7 +9171,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 173504,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb"

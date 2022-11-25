@@ -2052,6 +2052,24 @@
     },
     {
       "album": {
+        "name": "Where Do I Go from Here? (Live)",
+        "url": "https://open.spotify.com/album/3Kdz365Ndt7t2GFKxSeJUZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458560,
+      "name": "Where Do I Go from Here? - Live",
+      "url": "https://open.spotify.com/track/4TAydY5d4u5cL5RcxxIZ6J"
+    },
+    {
+      "album": {
         "name": "Live At The Lighthouse",
         "url": "https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ"
       },

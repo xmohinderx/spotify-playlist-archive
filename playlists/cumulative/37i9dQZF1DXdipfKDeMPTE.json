@@ -1609,6 +1609,24 @@
     {
       "album": {
         "name": "Crystals",
+        "url": "https://open.spotify.com/album/5gEXCUmcxnmROBcWem1O4W"
+      },
+      "artists": [
+        {
+          "name": "Tethys",
+          "url": "https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/1OAdZsRqOykleScTTfgZmo"
+    },
+    {
+      "album": {
+        "name": "Crystals",
         "url": "https://open.spotify.com/album/2NFBr0K13CUQCd7iHHIVHh"
       },
       "artists": [
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 126000,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/5hM8Ljjy7Miqnh8yORVAMn"

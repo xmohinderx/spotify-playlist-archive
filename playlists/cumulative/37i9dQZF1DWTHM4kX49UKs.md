@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-180 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
+181 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/3auSmhLzNB0gly5FRzRqez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All My Happiness is Gone](https://open.spotify.com/track/3NEeKJm8LcdaDG98oZwSZx) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/5NCdiiTgky5PbjmCtcgwtn) | 4:20 | 2019-12-09 | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-12-09 | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2019-12-09 |  |
-| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2019-12-09 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2019-12-09 |  |
+| [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2019-12-09 | 2022-11-25 |
 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 | 2019-12-09 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2019-12-09 |  |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 4:35 | 2019-12-09 |  |

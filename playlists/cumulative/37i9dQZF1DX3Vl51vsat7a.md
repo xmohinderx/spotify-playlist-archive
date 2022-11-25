@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LIE NING
 
-149 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+150 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2021-12-16 | 2022-09-23 |
 | [Run](https://open.spotify.com/track/3BZrNbP0EHxvdrB0MOM4Qi) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Run](https://open.spotify.com/album/1YhYELd70GE5d42z8mTz5U) | 2:25 | 2021-12-16 | 2022-03-25 |
 | [Schnelle Brille](https://open.spotify.com/track/5Ig9ZFTfH6PIjjZxtY3iUw) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Schnelle Brille](https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e) | 2:16 | 2022-03-10 | 2022-11-20 |
-| [Schnelle Brille](https://open.spotify.com/track/03oGcuku4n7Lq4NTCixgYn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:18 | 2022-11-17 |  |
+| [Schnelle Brille](https://open.spotify.com/track/03oGcuku4n7Lq4NTCixgYn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:18 | 2022-11-17 | 2022-11-25 |
+| [Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/3Vfv4Tsz00SLGBmi0JTGyd) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:18 | 2022-11-17 |  |
 | [School Friends](https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [School Friends](https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq) | 3:30 | 2022-04-07 | 2022-05-27 |
 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 | 2022-07-14 | 2022-10-28 |
 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-17 | 2022-05-06 |

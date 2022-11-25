@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,703 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,773 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 31 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
 | 32 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 |
 | 33 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
-| 34 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 |
-| 35 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
-| 36 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 |
+| 34 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
+| 35 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 |
+| 36 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 37 | [The Sound Of San Francisco \- Progressive Album Mix](https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L) | [Network \- taken from Superstar](https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL) | 3:44 |
-| 38 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
+| 38 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 |
 | 39 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 |
 | 40 | [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 |
 | 41 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [El Bass](https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [El Bass](https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX) | 3:10 |
 | 90 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 
-Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMDU2NGM3MWNmYjJlYzMwOWZlOWY4OWFkZTY5ZDBjYzMz`
+Snapshot ID: `MTY2NTU4OTM4NywwMDAwMDAwMDQ0MTRhOTVlM2E4YmY3ZDNmNGQwNzA5YzY3YmVmNDkz`

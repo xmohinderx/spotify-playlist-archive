@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-742 songs - 1 day 16 hr 21 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+744 songs - 1 day 16 hr 29 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,8 @@
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 |  |
-| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 |  |
-| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-10-09 |
+| [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
+| [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 |  |
 | [Ain't Over You](https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [Ain't Over You](https://open.spotify.com/album/4T6RG1HJfpKQ5Y1Mbm3crO) | 3:29 | 2021-06-07 | 2022-01-23 |
 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-28 | 2022-10-30 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-10-28 | 2022-11-19 |
@@ -260,6 +260,7 @@
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-06-07 | 2022-06-11 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2021-06-07 | 2022-06-11 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-07 | 2022-06-11 |
+| [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 | 2022-11-24 |  |
 | [fresh2death](https://open.spotify.com/track/2haM0Kel5jwoCSSGQiE9EY) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fresh2death](https://open.spotify.com/album/3Rsz2dstk4WxDF41nk4DZU) | 2:25 | 2021-11-19 | 2022-01-19 |
 | [Friends](https://open.spotify.com/track/6ostbIRfI1MYhu0mZt4npR) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Friends](https://open.spotify.com/album/7ymLDbW2jHU1l1S62f8LTP) | 2:57 | 2021-11-19 | 2022-05-20 |
 | [friendship](https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0bI3nqxr56BoHJLZ3Li906) | 2:52 | 2021-09-17 | 2022-06-11 |
@@ -310,6 +311,7 @@
 | [HOT WHEELS](https://open.spotify.com/track/3qPgpfGvSo6Pm5R7jxEQoy) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS](https://open.spotify.com/album/3NFiegkOXhRXkhAXVTQVvO) | 2:53 | 2021-10-02 | 2022-06-11 |
 | [How Dare You Want More](https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [How Dare You Want More](https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv) | 4:00 | 2021-06-11 | 2022-04-20 |
 | [How It Feels](https://open.spotify.com/track/01oxWSLxPWbyTEjPJVb6wO) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How It Feels](https://open.spotify.com/album/4nA3BORkAj8QNfb54fk1yf) | 2:37 | 2021-06-07 | 2022-06-11 |
+| [How You Like](https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [How You Like](https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A) | 3:40 | 2022-11-24 |  |
 | [Hug From a Dinosaur](https://open.spotify.com/track/5wUVDoL5SjetHRlehOOxQJ) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Hug From a Dinosaur](https://open.spotify.com/album/6IE9ttJcBA7lltBVY0unsY) | 3:18 | 2021-06-18 | 2022-04-18 |
 | [Hurting Kind](https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Hurting Kind](https://open.spotify.com/album/0q9OGda1zYFeTDKqEfa4HR) | 3:40 | 2021-06-25 | 2022-06-11 |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-21 | 2022-11-19 |
@@ -391,7 +393,7 @@
 | [last july](https://open.spotify.com/track/3u2WHtkxMtqkzLK5y9jmlv) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [last july](https://open.spotify.com/album/79q3dWxhazRzgefiXmDY5v) | 3:46 | 2022-01-28 | 2022-04-20 |
 | [Lately](https://open.spotify.com/track/6iw3NfFyPpp9sQuuHhRhls) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Lately](https://open.spotify.com/album/1xnvzjGkz4iR6x8KOad9mM) | 2:28 | 2021-08-27 | 2022-04-21 |
 | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/track/641GXCVvbYOfstD2mJRQa3) | [Wormy](https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z), [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/album/0fsIKo7CKxRxzR34aDeQhS) | 3:54 | 2022-03-22 | 2022-04-29 |
-| [Leash on My Neck](https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Leash on My Neck](https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf) | 2:38 | 2022-11-18 |  |
+| [Leash on My Neck](https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Leash on My Neck](https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf) | 2:38 | 2022-11-18 | 2022-11-25 |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-04-01 | 2022-10-01 |
 | [legroom](https://open.spotify.com/track/4JzuUq7VjNF32PJb51l8n5) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom](https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4) | 1:37 | 2021-10-02 | 2022-04-25 |
 | [Let Em Talk](https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z) | [King Garbage](https://open.spotify.com/artist/2ziuYXYq2WG6cZpa43fWpX) | [Heavy Metal Greasy Love](https://open.spotify.com/album/0xbWAcPqKnN0zi4Fb7E5tD) | 4:02 | 2022-04-01 | 2022-04-21 |
@@ -451,7 +453,7 @@
 | [More Than It Hurts You](https://open.spotify.com/track/5DQtZx4cWbuNvHfsTQHcSL) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [More Than It Hurts You](https://open.spotify.com/album/6qtUvdJ3U9u2UYIn6WR4JS) | 3:54 | 2022-07-01 | 2022-07-09 |
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2021-06-11 | 2022-06-09 |
 | [Motels](https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:23 | 2022-08-22 | 2022-10-15 |
-| [mr\. butterfly](https://open.spotify.com/track/6iLtjX5AhdZ6Muj5ELBfF7) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [mr\. butterfly](https://open.spotify.com/album/3yhW3ZEXA0u3bPU9mApvao) | 2:36 | 2022-11-19 |  |
+| [mr\. butterfly](https://open.spotify.com/track/6iLtjX5AhdZ6Muj5ELBfF7) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [mr\. butterfly](https://open.spotify.com/album/3yhW3ZEXA0u3bPU9mApvao) | 2:36 | 2022-11-19 | 2022-11-25 |
 | [Ms\. Dramatic](https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:01 | 2022-07-29 | 2022-08-17 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-06-09 |
 | [mutt](https://open.spotify.com/track/44Q2fSohgPmMQsNm0sec1P) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [mutt](https://open.spotify.com/album/2iErg9h34FvtYdPZanxwcR) | 2:49 | 2021-11-19 | 2022-02-02 |

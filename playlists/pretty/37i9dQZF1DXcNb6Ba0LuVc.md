@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,457 likes - 213 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,888 likes - 213 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 195 | [Evergreen](https://open.spotify.com/track/5goFbQsBMTVrM5eSut1z4n) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Evergreen](https://open.spotify.com/album/1iEgVGsC5EfUFMVYSYJhUh) | 2:13 |
 | 196 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 |
 | 197 | [Fountain of Youth](https://open.spotify.com/track/6qV7mgZJ93bfPlECJ8cp8j) | [fwn.](https://open.spotify.com/artist/1Fqwbp1tTD8kx2CmB8j6tu), [KO WIN](https://open.spotify.com/artist/5vIVPqlLNO8s55XXbpYbMg) | [Fountain of Youth](https://open.spotify.com/album/6V8htjUIh2ovsKFHb5CbZn) | 2:13 |
-| 198 | [Good Life](https://open.spotify.com/track/3qRWNLXIMrxZOrld6JiOco) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:05 |
+| 198 | [Good Life](https://open.spotify.com/track/6kpDdS0xl78MeBm0IvrjB5) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:05 |
 | 199 | [Verão](https://open.spotify.com/track/1CsyRF8KNY7c9hZezar55d) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/6yKNDEcv2JZ36kUFMsE3CJ) | 2:35 |
 | 200 | [Just Chillin](https://open.spotify.com/track/6T1zioLOmigDyfB3wyX2x6) | [Johnny Everly](https://open.spotify.com/artist/7oln2CG62XuWwTnfd8FzH9) | [Just Chillin](https://open.spotify.com/album/5v9OaK3DHoTq4CgWBIGJkL) | 2:12 |
 | 201 | [Roses and Birds.](https://open.spotify.com/track/71aKz9AODYPgi9L9xyRfZG) | [Arlie P](https://open.spotify.com/artist/5QkBNJ0KWZ5tHybx5eHYOu) | [Roses and Birds.](https://open.spotify.com/album/1l3SkDIMzEvKCBzgHYngHQ) | 2:14 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 213 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMGU2NGY0OTdiMzgyYzg2YmY0ZTliNjNmN2E3ZDM5NjQ2`
+Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMGExOWZjOTU1MDJkNzFmMDkxMTg3MmY1YWY5MTk5Y2Nj`

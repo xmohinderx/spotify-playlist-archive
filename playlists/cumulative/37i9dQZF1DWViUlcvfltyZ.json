@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Tonno",
+  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: OMINI",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "0 SENTIMENTO",
+        "url": "https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE"
+      },
+      "artists": [
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149629,
+      "name": "0 SENTIMENTO",
+      "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
+    },
     {
       "album": {
         "name": "118 (feat. Claudio Santamaria)",
@@ -791,6 +809,24 @@
       "duration_ms": 125786,
       "name": "Corny",
       "url": "https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ"
+    },
+    {
+      "album": {
+        "name": "Cpr14",
+        "url": "https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Penguins",
+          "url": "https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Cpr14",
+      "url": "https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy"
     },
     {
       "album": {
@@ -1664,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Ice Age",
+        "url": "https://open.spotify.com/album/0q1EYVfZLHtFLE4sUVQ8Kg"
+      },
+      "artists": [
+        {
+          "name": "Nobody Cried For Dinosaurs",
+          "url": "https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262643,
+      "name": "Ice Age",
+      "url": "https://open.spotify.com/track/1iBTutx1nwO5oijV0X9vIX"
+    },
+    {
+      "album": {
         "name": "Idea",
         "url": "https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H"
       },
@@ -2157,7 +2211,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 221346,
       "name": "Lo Sposo Sulla Torta",
       "url": "https://open.spotify.com/track/1K8eYXS6CJq9mzG9rzKDJV"
@@ -2197,6 +2251,28 @@
       "duration_ms": 165138,
       "name": "Love Will Take You from Behind",
       "url": "https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP"
+    },
+    {
+      "album": {
+        "name": "Luciano/Eriberto",
+        "url": "https://open.spotify.com/album/4odpuX8jQngQQ9c9Mipt6s"
+      },
+      "artists": [
+        {
+          "name": "Materazi Future Club",
+          "url": "https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2"
+        },
+        {
+          "name": "Max Collini",
+          "url": "https://open.spotify.com/artist/3tOrLl8dmGYZyrAfid0Gqd"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Luciano/Eriberto (feat. Max Collini)",
+      "url": "https://open.spotify.com/track/4GEmquye0uXewzkuxaAJXB"
     },
     {
       "album": {
@@ -2255,7 +2331,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 200518,
       "name": "Matador",
       "url": "https://open.spotify.com/track/5g0aCS1VkUjInpKZJ5sqZw"
@@ -2291,10 +2367,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 171736,
       "name": "MATTO",
       "url": "https://open.spotify.com/track/1117wyyZAZ1T23x5xCNcVC"
+    },
+    {
+      "album": {
+        "name": "MATTO",
+        "url": "https://open.spotify.com/album/5el7xAia4ALSa1KYSOIxWY"
+      },
+      "artists": [
+        {
+          "name": "OMINI",
+          "url": "https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171736,
+      "name": "MATTO",
+      "url": "https://open.spotify.com/track/1ESnQ3jsJ1AgmMBgjv3LSy"
     },
     {
       "album": {
@@ -2526,6 +2620,68 @@
     },
     {
       "album": {
+        "name": "Non Sei Sola",
+        "url": "https://open.spotify.com/album/5Y405Tvpkm2PyIWBl6N5ph"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        },
+        {
+          "name": "Jo Squillo",
+          "url": "https://open.spotify.com/artist/12w3NBZ8q6GnSfAzNy19Dl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178118,
+      "name": "Non Sei Sola",
+      "url": "https://open.spotify.com/track/2viAvSGY7YMcDa0fNlSXwk"
+    },
+    {
+      "album": {
+        "name": "YOGA, Pt. 2",
+        "url": "https://open.spotify.com/album/3JtM6J516f4jroMye7ewX4"
+      },
+      "artists": [
+        {
+          "name": "Voina",
+          "url": "https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo"
+        },
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212181,
+      "name": "Non si vive",
+      "url": "https://open.spotify.com/track/27g2rz50khRGwHDuHmh1Pn"
+    },
+    {
+      "album": {
+        "name": "Non \u00e8 cos\u00ec male",
+        "url": "https://open.spotify.com/album/29vLnWfcp2RyY0xUnOIDhT"
+      },
+      "artists": [
+        {
+          "name": "SANTI FRANCESI",
+          "url": "https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192283,
+      "name": "Non \u00e8 cos\u00ec male",
+      "url": "https://open.spotify.com/track/34J9aaAIK8hx44I00gTm1y"
+    },
+    {
+      "album": {
         "name": "Non \u00c8 Per Sempre",
         "url": "https://open.spotify.com/album/1ENKtcZOUYJj21mbuki1XI"
       },
@@ -2537,7 +2693,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 208786,
       "name": "Non \u00c8 Per Sempre",
       "url": "https://open.spotify.com/track/3hmcaxci5fSfzMdT59gf3M"
@@ -2800,6 +2956,28 @@
     },
     {
       "album": {
+        "name": "Posso Tenerti Con Me",
+        "url": "https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        },
+        {
+          "name": "Forse Danzica",
+          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189428,
+      "name": "Posso Tenerti Con Me",
+      "url": "https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT"
+    },
+    {
+      "album": {
         "name": "POVERI DIAVOLI",
         "url": "https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q"
       },
@@ -2963,7 +3141,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 251251,
       "name": "Requiem for TP",
       "url": "https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r"
@@ -3151,7 +3329,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 154405,
       "name": "SESSO & OPENBAR",
       "url": "https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ"
@@ -3245,6 +3423,24 @@
       "duration_ms": 159706,
       "name": "sober",
       "url": "https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc"
+      },
+      "artists": [
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147014,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw"
     },
     {
       "album": {
@@ -3719,6 +3915,24 @@
       "duration_ms": 176250,
       "name": "Tra chi fugge e chi resta",
       "url": "https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew"
+    },
+    {
+      "album": {
+        "name": "TRACCIA 0",
+        "url": "https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128879,
+      "name": "TRACCIA 0",
+      "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
     },
     {
       "album": {

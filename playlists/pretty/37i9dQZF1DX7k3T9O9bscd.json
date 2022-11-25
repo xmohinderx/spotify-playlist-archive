@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 317569,
+  "num_followers": 317829,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUzMDM1MiwwMDAwMDAwMDdlNTY4N2JjYTAwOTZjZTVlODg5MDRjMjhkYTBmMDYw",
+  "snapshot_id": "MTY2ODUzMDM1MiwwMDAwMDAwMDAyOTZjMGJkNGE2N2ZjMThmOWRhZTU0MWI0NTU4ZTRk",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
       "added_at": "2022-04-22 19:38:56",
       "album": {
         "name": "SongBook",
@@ -615,6 +599,22 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 386966,
-      "name": "Lost Heads",
-      "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Fuckin Whatever",
         "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
       "artists": [
         {
-          "name": "Phafner",
-          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 329693,
-      "name": "Plea From The Soul",
-      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+      "duration_ms": 386966,
+      "name": "Lost Heads",
+      "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -711,6 +695,22 @@
       "duration_ms": 338613,
       "name": "Joe Frazier",
       "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
+      },
+      "artists": [
+        {
+          "name": "Phafner",
+          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
+        }
+      ],
+      "duration_ms": 329693,
+      "name": "Plea From The Soul",
+      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+      },
+      "artists": [
+        {
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+        }
+      ],
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Planet Caravan",
         "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
-      },
-      "artists": [
-        {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
-        }
-      ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
-      "added_at": "2022-09-03 04:25:40",
-      "album": {
-        "name": "P\u00e5 knivan",
-        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
-      },
-      "artists": [
-        {
-          "name": "Sammal",
-          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
-        }
-      ],
-      "duration_ms": 209907,
-      "name": "P\u00e5 knivan",
-      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Aufheben",
@@ -975,6 +959,22 @@
       "duration_ms": 278826,
       "name": "Panic In Babylon",
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
+    },
+    {
+      "added_at": "2022-09-03 04:25:40",
+      "album": {
+        "name": "P\u00e5 knivan",
+        "url": "https://open.spotify.com/album/5FhK556d60Gy5XBHCrrrm5"
+      },
+      "artists": [
+        {
+          "name": "Sammal",
+          "url": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
+        }
+      ],
+      "duration_ms": 209907,
+      "name": "P\u00e5 knivan",
+      "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
-      "added_at": "2022-09-03 03:45:18",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Victor's Belt",
@@ -1183,6 +1167,22 @@
       "duration_ms": 192386,
       "name": "Victor's Belt",
       "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
+    },
+    {
+      "added_at": "2022-09-03 03:45:18",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
       "added_at": "2022-04-05 16:05:08",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
-      "added_at": "2022-04-23 01:59:48",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Youth Accomplished",
-        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+        "name": "Ghost Tapes #10",
+        "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
       },
       "artists": [
         {
-          "name": "Seabiscuit",
-          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+          "name": "God Is An Astronaut",
+          "url": "https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2"
         }
       ],
-      "duration_ms": 225750,
-      "name": "Youth Accomplished",
-      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
+      "duration_ms": 364048,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

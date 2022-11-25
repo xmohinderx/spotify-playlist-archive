@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 247054,
+  "num_followers": 247332,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDYyZDJmN2Q2ZTBlZDhmZGUwMTEwMzFhYjQyNTU0ZTNl",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMGRmYzEyN2IwNjZmOGFhZWQ4YjQyZmIzZTU3YWY1ZGI4",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 225626,
       "name": "Crazy for You - Edit",
       "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Won't Hold You Back",
-      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "True Blue (Reissue)",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2022-06-16 04:02:34",

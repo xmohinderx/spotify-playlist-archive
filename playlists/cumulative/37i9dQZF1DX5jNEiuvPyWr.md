@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Moha MMZ
+> Le meilleur du rap français version cloud\. Photo : So La Lune
 
-104 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+107 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cali](https://open.spotify.com/track/3kGMQAKHYYRTKBHnTKC63C) | [Wood](https://open.spotify.com/artist/0kf6QUZVdM4imfVvEmSnm9) | [Pas stable](https://open.spotify.com/album/7oTnxM3xUaU4J3C9LiRAnA) | 4:30 | 2022-11-17 |  |
 | [CAUCHEMAR](https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit) | 2:52 | 2022-07-14 | 2022-09-30 |
 | [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 | 2022-07-29 |
+| [Coeur abimé](https://open.spotify.com/track/6x40VT2kRXPiM8AiNt3txn) | [Jayel](https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF) | [Coeur abimé](https://open.spotify.com/album/50T8VXZfysf3dcpijH9sPK) | 2:50 | 2022-11-24 |  |
 | [Comme ça](https://open.spotify.com/track/1uBJsPHcyDfyg9wewkYUj7) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Comme ça](https://open.spotify.com/album/7GJ0cZpKrkJe8Kv52V2ur9) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Comme ça](https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Sans rancune](https://open.spotify.com/album/5mUSYIz36ISQy7PjJUHB2b) | 2:42 | 2022-07-28 | 2022-10-21 |
 | [COMPLIQUÉ](https://open.spotify.com/track/0OTmlCY3Ufhkjl5pmtlZXt) | [Dehmo](https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal) | [PŒTIC BENDO II](https://open.spotify.com/album/56VCAtiAOS6dDVfxuP8eeT) | 3:56 | 2022-07-14 | 2022-09-09 |
@@ -62,6 +63,7 @@
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 |  |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 |  |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
+| [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 |  |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 |  |
 | [Life](https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Double Star](https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau) | 3:12 | 2022-07-14 | 2022-10-28 |
@@ -74,7 +76,7 @@
 | [Maudit](https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Maudit](https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV) | 3:49 | 2022-11-03 |  |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |
-| [MONEY TIME](https://open.spotify.com/track/456DJS1um0455bLuepBH9J) | [Dgeogo](https://open.spotify.com/artist/7GGX4fMS8PPJ3n3ftcmfbE) | [Outrenoir](https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y) | 2:34 | 2022-09-29 |  |
+| [MONEY TIME](https://open.spotify.com/track/456DJS1um0455bLuepBH9J) | [Dgeogo](https://open.spotify.com/artist/7GGX4fMS8PPJ3n3ftcmfbE) | [Outrenoir](https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y) | 2:34 | 2022-09-29 | 2022-11-25 |
 | [MONEYBAG](https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [YEYEYE](https://open.spotify.com/album/4cYBgxMkPwZ73VNC4Uy5Jv) | 3:09 | 2022-07-28 | 2022-10-28 |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 |  |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
@@ -82,7 +84,7 @@
 | [Nouvelle lune](https://open.spotify.com/track/05Z7wN8UkxnWWpuwL6PptI) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [Nouvelle lune](https://open.spotify.com/album/0VxoYeTcLxjJBU5TSCCsOL) | 3:21 | 2022-08-18 | 2022-10-14 |
 | [Nuage](https://open.spotify.com/track/07r5QxQIHnfgnOI4Bkdy7o) | [SLØW](https://open.spotify.com/artist/6jPpTPMBhULm8sukMmyrTW) | [Nuage](https://open.spotify.com/album/3DpTD7wlt8ZZ1X2OoB37YN) | 2:25 | 2022-11-10 |  |
 | [OMERTÀ](https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [OMERTÀ](https://open.spotify.com/album/4ez5SqQc5JoMUYbVBvbmGj) | 2:51 | 2022-07-14 | 2022-10-14 |
-| [OTREMOND](https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [OTREMOND](https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e) | 3:25 | 2022-10-13 |  |
+| [OTREMOND](https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [OTREMOND](https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e) | 3:25 | 2022-10-13 | 2022-11-25 |
 | [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 | 2022-08-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 |  |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 |  |
@@ -98,6 +100,7 @@
 | [PUZZLE](https://open.spotify.com/track/0yEnRdHmfVURCjohBb7WT3) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [LES HUMAINS](https://open.spotify.com/album/5bjoZWJkq94BDzg2ehm6SD) | 3:15 | 2022-10-27 |  |
 | [PÈLERINAGE](https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [PÈLERINAGE](https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih) | 3:01 | 2022-07-14 | 2022-10-07 |
 | [Regarde](https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [Regarde](https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY) | 3:22 | 2022-07-14 | 2022-11-18 |
+| [Rodéo](https://open.spotify.com/track/6AIU6Vfq4p1y1ZKUQlF0N3) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP) | [Rodéo](https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6) | 3:04 | 2022-11-24 |  |
 | [Rêves](https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Rêves](https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn) | 3:33 | 2022-09-29 | 2022-10-28 |
 | [SAC CHANEL](https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 2:01 | 2022-09-22 | 2022-11-18 |
 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 |  |
@@ -108,7 +111,7 @@
 | [Survie](https://open.spotify.com/track/19uvmgboe6YrLBsIENp0bf) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Survie](https://open.spotify.com/album/2wkz1N1u5P9c8EvHv8tzDC) | 2:50 | 2022-11-17 |  |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 | 2022-10-21 |
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 |  |
-| [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 |  |
+| [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 | 2022-11-25 |
 | [Warzone](https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Warzone](https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7) | 3:14 | 2022-10-20 |  |
 | [¥2S °6 : ZLM](https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [¥2S °6 : ZLM](https://open.spotify.com/album/0lJUtwW9eGdcbJYswcujWa) | 2:14 | 2022-07-14 | 2022-07-29 |
 | [Âmes perdues](https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [Transparent](https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm) | 3:12 | 2022-10-20 |  |

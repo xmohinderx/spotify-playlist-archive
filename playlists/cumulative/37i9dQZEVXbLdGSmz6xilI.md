@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-611 songs - 1 day 12 hr 12 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+612 songs - 1 day 12 hr 16 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 | 2021-04-07 | 2021-09-18 |
 | [dằm trong tim](https://open.spotify.com/track/1QwSqNlknVSTdmmtjsOGM9) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:50 | 2022-08-01 | 2022-08-14 |
 | [Dịu Dàng Em Đến](https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dịu Dàng Em Đến](https://open.spotify.com/album/7EDzv1QVhowskAgwxtx3HT) | 3:05 | 2021-09-22 | 2022-03-25 |
+| [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | ['dự báo thời tiết hôm nay mưa' – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-24 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-02-11 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-05 | 2021-12-17 |
@@ -602,7 +603,7 @@
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2021-09-11 |
 | [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 | 2022-05-30 |
-| [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 | 2021-03-27\* |  |
+| [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 | 2021-03-27\* | 2022-11-25 |
 | [Đi Để Trở Về](https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Đi Để Trở Về](https://open.spotify.com/album/5cXoSfpsGOLvsnTSOuAeEi) | 3:22 | 2022-02-02 | 2022-02-04 |
 | [Đoạn Kết Mới](https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Đoạn Kết Mới](https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw) | 4:54 | 2022-07-30 | 2022-09-01 |
 | [Đoản Xuân Ca](https://open.spotify.com/track/5wfu0LbQ8fvPStnWmIOfos) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Bao Giờ Lấy Chồng](https://open.spotify.com/album/2Pa2EuROBTLvyyAUZTIJvZ) | 3:25 | 2022-02-02 | 2022-02-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 83964,
+  "num_followers": 84000,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMGI1OWY2OGQwNDRhZjA0MDRhNTJlMzYyOGMyNzY4ODY3",
+  "snapshot_id": "MTY2ODc0MDQ2MCwwMDAwMDAwMGFlZDFkNzVlOTBjNDg3MWEzYmJkYjgxNDU3ZTFlYTg4",
   "tracks": [
     {
       "added_at": "2022-11-18 03:01:00",
@@ -127,26 +127,18 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 234498,
-      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -183,38 +175,26 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
       "artists": [
         {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "What's Up (feat. Jagged Edge)",
-        "url": "https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -235,6 +215,26 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "What's Up (feat. Jagged Edge)",
+        "url": "https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Obsession (feat. Muni Long) [Remix]",
+        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Obsession (feat. Muni Long) - Remix",
+      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 250679,
       "name": "moonlit room",
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Obsession (feat. Muni Long) [Remix]",
-        "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Obsession (feat. Muni Long) - Remix",
-      "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 174163,
       "name": "Open",
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "DNA (Live)",
-        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
-      },
-      "artists": [
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "DNA - Live",
-      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "DNA (Live)",
+        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "DNA - Live",
+      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
         "name": "Organic",
         "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 197647,
       "name": "Organic",
       "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-11-18 03:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-18 03:01:00",
       "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
+    },
+    {
+      "added_at": "2022-11-18 03:01:00",
+      "album": {
         "name": "chuu",
         "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 253346,
       "name": "chuu",
       "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
-    },
-    {
-      "added_at": "2022-11-18 03:01:00",
-      "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
     },
     {
       "added_at": "2022-11-18 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,695 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,775 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 63 | [Snvkes](https://open.spotify.com/track/3Q5iGw3rcuPt6LwOeT74rW) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Snvkes](https://open.spotify.com/album/7nAMlS6TLvm1lmadCVZjk3) | 2:34 |
 | 64 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 |
 | 65 | [EARTHBOUND](https://open.spotify.com/track/0DK606ruJP7aHne1OY0qOa) | [weyside](https://open.spotify.com/artist/7HySxef0Jg7yvv02PMkjsn) | [EARTHBOUND](https://open.spotify.com/album/41zoaCpdBGgqcaoHvAKlTZ) | 2:37 |
-| 66 | [Death to the Landlord](https://open.spotify.com/track/0WsWklqPGk8kV2Ut773ZfJ) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Death to the Landlord](https://open.spotify.com/album/1obcxRANeiJghHa0W52AoK) | 5:31 |
+| 66 | [Death to the Landlord](https://open.spotify.com/track/4Y2T7t4cKomnGO71R0A3Ro) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [796](https://open.spotify.com/album/6qrx0RjK7EzR5A4i1atG1R) | 5:31 |
 | 67 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 68 | [Renter Not a Buyer](https://open.spotify.com/track/1fV5gBweokEACTyxExRvlT) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Renter Not a Buyer](https://open.spotify.com/album/79M5sec1af89QsnG2P0HX2) | 2:53 |
 | 69 | [Bloodshot](https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Not Nancy](https://open.spotify.com/track/0VZby2ElZMhA52NPFbD7z3) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Not Nancy](https://open.spotify.com/album/5TZA8AeVWthYGO8A1o24PG) | 2:59 |
 | 100 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 |
 
-Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDhjNDg3ZTg5YjM1ZjdiNDk2Yjc0MzgyOWEwMjcwZjBl`
+Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDBhOWU2NzUxMjhmMWJiMTViYjAyY2ZhM2NmMGI5ZWI2`

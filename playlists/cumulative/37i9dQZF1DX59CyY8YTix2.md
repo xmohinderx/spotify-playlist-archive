@@ -4,10 +4,11 @@
 
 > Japanese female rock icons\. Cover: SHISHAMO
 
-691 songs - 1 day 20 hr 22 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+693 songs - 1 day 20 hr 29 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 | 2022-11-24 |  |
 | [0927](https://open.spotify.com/track/2JcFTzarFRNj9BFdo0T2rW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [夕暮れに歌う](https://open.spotify.com/album/7K1IgJV7PyhiFRNMzK0AmT) | 4:51 | 2022-10-04 | 2022-10-06 |
 | [0927](https://open.spotify.com/track/7wCH4EnCS0mafVPVDACOMG) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Yugure ni Utau](https://open.spotify.com/album/3K1hdtnC3tvwEDoZQ4Y0mX) | 4:51 | 2022-10-04 | 2022-10-26 |
 | [1](https://open.spotify.com/track/2XKC1yPYhtI5zPBofGBbzQ) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw) | [1](https://open.spotify.com/album/2SMgYY7Z70e06DAUNjmYWh) | 3:49 | 2022-10-04 |  |
@@ -46,7 +47,7 @@
 | [CHEESE!](https://open.spotify.com/track/1q0SHDl0P7NkZtY24BbJu5) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [MMY](https://open.spotify.com/album/7zfmFf6krDP8vc1HQW2Z8h) | 3:54 | 2022-09-06 | 2022-09-15 |
 | [CHOTTO CHOTTO](https://open.spotify.com/track/55kIki7uA3uBAPhZM0CZfZ) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [QUILT](https://open.spotify.com/album/6kx8fsC5cPGPW3UnknwIC5) | 3:47 | 2022-05-31 | 2022-06-25 |
 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 | 2022-09-08 | 2022-09-15 |
-| [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 |  |
+| [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-25 |
 | [coast](https://open.spotify.com/track/5ZZm4mN1L6LFc3dgLP1HP1) | [kikori](https://open.spotify.com/artist/0cXjUfMnBp4CtqzWyPTaEM) | [coast](https://open.spotify.com/album/6E5cf5CsV2jma4rlF18S2M) | 5:00 | 2022-06-02 | 2022-06-04 |
 | [color](https://open.spotify.com/track/5iESDik6mW9qYwAJyClFPb) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [color](https://open.spotify.com/album/5ZKatxoImDrUV4EpSxvJx4) | 3:59 | 2022-06-02 | 2022-07-11 |
 | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/track/0RUH1oKxLmG1ZICLHqF8W8) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN), [マヒトゥ・ザ・ピーポー](https://open.spotify.com/artist/63fYqqdUZw9L2BuQKqVvOe) | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/album/3xe0c6Ly4VWsc01NkAFc9O) | 4:36 | 2022-06-30 | 2022-07-19 |
@@ -182,7 +183,7 @@
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2022-10-12 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
-| [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 |  |
+| [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 | 2022-11-25 |
 | [olive drive\|橄欖思巡](https://open.spotify.com/track/5OnF0rU4WAzl13h5E15cNy) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.ep](https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp) | 5:02 | 2022-11-15 | 2022-11-17 |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
 | [one more time](https://open.spotify.com/track/7Jxei7V1uUUIai2uPnMg7Z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [one more time](https://open.spotify.com/album/47KQgzJbmDW0v8Frn3kEvy) | 4:05 | 2022-06-02 | 2022-07-29 |
@@ -436,6 +437,7 @@
 | [トランスファー](https://open.spotify.com/track/3Yv2jXpOPgZdZPgnOVK0oI) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [いつかの海](https://open.spotify.com/album/2hWKbb8Vy5CUzu1IzvgRrZ) | 4:08 | 2022-06-07 | 2022-06-15 |
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2022-07-25 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
+| [ナリ](https://open.spotify.com/track/2iYVaNmdk2ILYqQMhFG6VH) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ナリ](https://open.spotify.com/album/3Hz8WKenuIV2aXz1AFCaES) | 3:57 | 2022-11-24 |  |
 | [ニャロメ!](https://open.spotify.com/track/2BcDomfKRKB7ykMMLTiSlw) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ニャロメ!](https://open.spotify.com/album/05WpStScuVguyaSn4AGHhn) | 5:08 | 2022-06-16 | 2022-07-21 |
 | [ニンゲンムシ \- \~One Night STAND Live\~](https://open.spotify.com/track/3zrnGTSfg1li3vRKHJP6Ku) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/album/60fCG4LsMmddJlnc5lUxWw) | 4:16 | 2022-05-31 | 2022-06-01 |
 | [ノクターン](https://open.spotify.com/track/5WVKs7xTk9bAhph3icORUG) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [ノクターン](https://open.spotify.com/album/3pukBpEtXCbtYQR5OkjtDH) | 4:15 | 2022-09-27 | 2022-09-29 |

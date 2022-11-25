@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-102 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+103 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Teblina](https://open.spotify.com/track/62BTtJMH55mNZWkt7bsiN2) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Teblina](https://open.spotify.com/album/1lCnDpXNlxvQ3Pw8WgxDAm) | 3:30 | 2022-10-10 |  |
 | [Ti amo](https://open.spotify.com/track/00xoWQd2gzMQrUYohWV1lW) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:53 | 2021-12-10 | 2022-07-12 |
 | [TOKA TOKA](https://open.spotify.com/track/28ewsI8YFCN66x4tLDQpeO) | [Mert](https://open.spotify.com/artist/0wwDZj4zgZORjTGhTujAKx), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [TOKA TOKA](https://open.spotify.com/album/6R7abQVsZiFk3wRu2iH9Cu) | 2:31 | 2022-09-07 | 2022-10-22 |
-| [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 |  |
+| [Tunisie](https://open.spotify.com/track/1fj8TuCYneYtKsVmIJG4N6) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Tunisie](https://open.spotify.com/album/6Ru27IhNy926jX1r4dpa0G) | 3:36 | 2022-11-09 | 2022-11-25 |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 |  |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |
@@ -102,6 +102,7 @@
 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 | 2022-09-12 | 2022-09-15 |
 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 | 2022-08-31 |  |
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 | 2022-06-19 |
+| [Zidni Bal3a \- زيدني بلعة](https://open.spotify.com/track/0GIDZOCNCYzFZm6ISFPDgA) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Zidni Bal3a \(زيدني بلعة\)](https://open.spotify.com/album/6inZ22BdbOv5k2Fg4dwQjh) | 3:30 | 2022-11-24 |  |
 | [Zydi](https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy) | [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk), [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Zydi](https://open.spotify.com/album/2gijwfmnPlKT61VSEUOFxY) | 4:59 | 2022-06-18 |  |
 | [عروبية](https://open.spotify.com/track/11ypWG74HBSPJKIhkhJeFR) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [عروبية](https://open.spotify.com/album/72QNAZfCUjvEhaXoOLFZSu) | 4:15 | 2022-09-07 | 2022-11-04 |
 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 | 2022-07-11 |  |

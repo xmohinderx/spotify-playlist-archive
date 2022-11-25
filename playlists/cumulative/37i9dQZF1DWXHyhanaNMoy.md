@@ -4,7 +4,7 @@
 
 > FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-292 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+293 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 Shots](https://open.spotify.com/track/44umGFDnbnwLD7Eovr4jYE) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:02 | 2022-10-31 |  |
 | [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 | 2022-10-26 | 2022-11-01 |
 | [Aan Je Wakka](https://open.spotify.com/track/0Y9nnflUXlXDzbH8FfrpvK) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Jonna Rincon](https://open.spotify.com/artist/6o3BlWTeK4EKUyByo35y6F) | [Aan Je Wakka](https://open.spotify.com/album/46zr9VISTJVpiVcmrfemv2) | 2:26 | 2022-10-27 | 2022-11-18 |
-| [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [C.c](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 | 2022-09-15 |  |
+| [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 | 2022-09-15 |  |
 | [Activeren](https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Activeren](https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF) | 2:48 | 2022-09-15 | 2022-10-07 |
 | [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 | 2022-11-18 |
 | [Allez Allez](https://open.spotify.com/track/0IeRfqzN4AonzZIKaPMXtw) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Allez Allez](https://open.spotify.com/album/0s2RgOo6slU8PkcfuoRaox) | 2:02 | 2022-09-08 | 2022-09-16 |
@@ -192,6 +192,7 @@
 | [No Love Song](https://open.spotify.com/track/5VoInDVtiJRGKpIWpHSBlJ) | [ROLLÀN](https://open.spotify.com/artist/3sQYZrIBmLAuNc7tsLtkka) | [No Love Song](https://open.spotify.com/album/1yB6knBILG8vSgO8zWuHK7) | 2:23 | 2022-10-06 | 2022-10-14 |
 | [No Matta](https://open.spotify.com/track/3IuC01T7uEnCxPnGMg41Hv) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV) | [No Matta](https://open.spotify.com/album/1048jFibNEAdmvcuy3hd66) | 2:27 | 2022-09-22 |  |
 | [No Mercy](https://open.spotify.com/track/7CCU1OSz9EJEHx0coLgLtR) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [No Mercy](https://open.spotify.com/album/7wmThwufw03rjQoDUi5xeH) | 2:41 | 2022-07-28 | 2022-08-26 |
+| [No Money](https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Money](https://open.spotify.com/album/4HW0xW2nhso4HHSO6rhM8n) | 4:14 | 2022-11-24 |  |
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-25 | 2022-11-18 |
 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 | 2022-08-18 |  |
 | [Nobo](https://open.spotify.com/track/68v2Ba7SorxKY1fKjoeTpR) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7) | [Nobo](https://open.spotify.com/album/32f8LFkYiCbedQhWjLiGtv) | 3:44 | 2022-10-13 | 2022-11-18 |

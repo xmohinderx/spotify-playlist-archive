@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Emeryld \| Artwork: Jim Klok
 
-622 songs - 1 day 10 hr 15 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+623 songs - 1 day 10 hr 20 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Darling, You're a Star](https://open.spotify.com/track/67o1LTEGaFE0a6xCp23ZR5) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Darling, You're a Star](https://open.spotify.com/album/0oWFZD8JNw7qz2eNbNkteR) | 2:54 | 2022-05-18 | 2022-06-16 |
 | [Day In The Life](https://open.spotify.com/track/1V9xrTCXVqoSFG26OIR26w) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Day In The Life](https://open.spotify.com/album/51iGoWMV4jpde8LHDPAvl6) | 2:21 | 2021-12-01 | 2022-01-20 |
 | [Dear Nora](https://open.spotify.com/track/1LcS46a5AxfmQDfarJEjCV) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:16 | 2021-12-01 | 2022-01-20 |
-| [Death to the Landlord](https://open.spotify.com/track/0WsWklqPGk8kV2Ut773ZfJ) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Death to the Landlord](https://open.spotify.com/album/1obcxRANeiJghHa0W52AoK) | 5:31 | 2022-09-21 |  |
+| [Death to the Landlord](https://open.spotify.com/track/0WsWklqPGk8kV2Ut773ZfJ) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Death to the Landlord](https://open.spotify.com/album/1obcxRANeiJghHa0W52AoK) | 5:31 | 2022-09-21 | 2022-11-25 |
+| [Death to the Landlord](https://open.spotify.com/track/4Y2T7t4cKomnGO71R0A3Ro) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [796](https://open.spotify.com/album/6qrx0RjK7EzR5A4i1atG1R) | 5:31 | 2022-11-09 |  |
 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 | 2022-07-20 | 2022-08-25 |
 | [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 | 2022-09-14 | 2022-10-15 |
 | [Decay](https://open.spotify.com/track/4PzCfRj2ujlckhRAThjDsl) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Elvis](https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U) | 3:07 | 2022-11-09 | 2022-11-13 |

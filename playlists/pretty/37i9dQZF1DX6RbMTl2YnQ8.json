@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 124296,
+  "num_followers": 124676,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMDQ0YzQwNDBkZmU0MTU0NDFiZjJhODY2MjZjNDFjYjVj",
+  "snapshot_id": "MTY1NzEzNzExNSwwMDAwMDAwMGIyNDg4Mzc5YjgxOGYwZmNmMzM1MDg0ZDJkY2Q2MDNl",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2022-07-06 19:51:55",

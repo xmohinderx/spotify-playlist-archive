@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Andy Shauf
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,610 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,630 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 13 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 | 14 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
 | 15 | [When I Die](https://open.spotify.com/track/6lhhLvkwJniNGJmZ01MCtI) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong \(Deluxe Edition\)](https://open.spotify.com/album/55k2y2CMY7Xkw7T3t26MTS) | 4:45 |
-| 16 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 |
+| 16 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 |
 | 17 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
 | 18 | [High Up](https://open.spotify.com/track/673Qsp2V9lhYhGaTfdStBc) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [High Up](https://open.spotify.com/album/3f4yPWECYZEfxhQtUB7BKJ) | 3:29 |
 | 19 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
 | 100 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGRiYjEyMDhhMmQ0N2ViZWY0MTcyZmIzZWU0NWIxMTdj`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDBlMDVkYTU4YjhiOWY1MDMzOTJjYzVlYjk5YTE5NDMy`

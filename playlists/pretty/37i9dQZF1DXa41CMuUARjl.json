@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from PinkPantheress & Kaytranada.",
-  "num_followers": 410416,
+  "num_followers": 410536,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDYwZGYxYTVjNWJhYTBiYjhhN2Q3NmNiY2NlM2VkMTkx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDljNGUxMTRkNDIxOTdmYWZhNWM1ZjRjYWQ0NzUxN2Ri",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Joy / Work It Out",
+        "url": "https://open.spotify.com/album/0e8KQ1nbamJt1qpN5Caee0"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 199343,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5YuRysTC3lPjDaiLC9NMh6"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Joy / Work It Out",
-        "url": "https://open.spotify.com/album/0e8KQ1nbamJt1qpN5Caee0"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 199343,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5YuRysTC3lPjDaiLC9NMh6"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Collecting Thoughts",
         "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
       },
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/4FhdgTmrbkqEtAfLRlxxK7"
-      },
-      "artists": [
-        {
-          "name": "VAVO",
-          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6ffAjqj8GGhvCx9flPcARn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4OmakmK91kiazJ8SOkCIhH"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 240000,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/2Fk3wqvdC79jULDvNp9pji"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4FhdgTmrbkqEtAfLRlxxK7"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6ffAjqj8GGhvCx9flPcARn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4DCqEwCdgAUTYekmWgFCo2"
-      },
-      "artists": [
-        {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
-        },
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Body Breathe",
         "url": "https://open.spotify.com/album/4GIEyRGFd3rDKRc696fsbA"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 260032,
       "name": "Body Breathe",
       "url": "https://open.spotify.com/track/7fYrNMgODWzlFAa18kYWtY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4DCqEwCdgAUTYekmWgFCo2"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Joy In The Morning (feat. Chrome Sparks)",
-        "url": "https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        }
-      ],
-      "duration_ms": 285401,
-      "name": "Joy In The Morning (feat. Chrome Sparks)",
-      "url": "https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Enchant\u00e9 (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 166633,
       "name": "Enchant\u00e9 (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Joy In The Morning (feat. Chrome Sparks)",
+        "url": "https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        }
+      ],
+      "duration_ms": 285401,
+      "name": "Joy In The Morning (feat. Chrome Sparks)",
+      "url": "https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Body Positive",
-        "url": "https://open.spotify.com/album/23VrqP4JtnuYNuhYR5qHyl"
+        "name": "I Won't Let You (Trick Me)",
+        "url": "https://open.spotify.com/album/1EgjQVPwZKN7HZFDS4uNJj"
       },
       "artists": [
         {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
         }
       ],
-      "duration_ms": 217099,
-      "name": "Body Positive",
-      "url": "https://open.spotify.com/track/4rYREnafp1VamIBO6WRwaS"
+      "duration_ms": 151088,
+      "name": "I Won't Let You (Trick Me)",
+      "url": "https://open.spotify.com/track/1rIIjHLjwAXY1nPuci5EVA"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I Won't Let You (Trick Me)",
-        "url": "https://open.spotify.com/album/1EgjQVPwZKN7HZFDS4uNJj"
+        "name": "Body Positive",
+        "url": "https://open.spotify.com/album/23VrqP4JtnuYNuhYR5qHyl"
       },
       "artists": [
         {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         }
       ],
-      "duration_ms": 151088,
-      "name": "I Won't Let You (Trick Me)",
-      "url": "https://open.spotify.com/track/1rIIjHLjwAXY1nPuci5EVA"
+      "duration_ms": 217099,
+      "name": "Body Positive",
+      "url": "https://open.spotify.com/track/4rYREnafp1VamIBO6WRwaS"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Unleash",
-        "url": "https://open.spotify.com/album/0VdSrE9RhQ0oK1AV2ZtSKy"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "Campainhas",
-      "url": "https://open.spotify.com/track/41sDOWYkryt8eXQ8ZyZHms"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 198897,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/0VdSrE9RhQ0oK1AV2ZtSKy"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "Campainhas",
+      "url": "https://open.spotify.com/track/41sDOWYkryt8eXQ8ZyZHms"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "NY to LA",
+        "url": "https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "NY to LA",
+      "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "ZAZA",
         "url": "https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "NY to LA",
-        "url": "https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "NY to LA",
-      "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Psychedelic Girls",
         "url": "https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 172478,
       "name": "Psychedelic Girls",
       "url": "https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Heirlooms",
-        "url": "https://open.spotify.com/album/478DAHzIXPf6szqFv2dNgl"
-      },
-      "artists": [
-        {
-          "name": "KISLO",
-          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
-        }
-      ],
-      "duration_ms": 255869,
-      "name": "I Don't Mind (feat. bailey)",
-      "url": "https://open.spotify.com/track/4E30n9C0oPmAykhN9GW0at"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Heirlooms",
+        "url": "https://open.spotify.com/album/478DAHzIXPf6szqFv2dNgl"
+      },
+      "artists": [
+        {
+          "name": "KISLO",
+          "url": "https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6"
+        }
+      ],
+      "duration_ms": 255869,
+      "name": "I Don't Mind (feat. bailey)",
+      "url": "https://open.spotify.com/track/4E30n9C0oPmAykhN9GW0at"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/3Hxg9D6IidPIcdp7TLk7D4"
       },
@@ -1591,6 +1591,42 @@
       "duration_ms": 548147,
       "name": "Every Man Has Your Voice",
       "url": "https://open.spotify.com/track/2rr6MSJDlPYAnxGIwA2x6f"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "All I Want To Do",
+        "url": "https://open.spotify.com/album/4CgoIs9x0QBuqg3YOCZ8vx"
+      },
+      "artists": [
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "duration_ms": 147604,
+      "name": "All I Want To Do",
+      "url": "https://open.spotify.com/track/6VeJvewq2YkBDUXEL6afbC"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Down With You",
+        "url": "https://open.spotify.com/album/7eQr4LSWhQu10HsMpBYjUL"
+      },
+      "artists": [
+        {
+          "name": "Wolter Wythe",
+          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
+        },
+        {
+          "name": "D-Lish",
+          "url": "https://open.spotify.com/artist/73WJ0zv90Pys3iJgeRlENI"
+        }
+      ],
+      "duration_ms": 186876,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/11082YVUU9ykSC09tdTN9u"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1635,42 +1671,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Down With You",
-        "url": "https://open.spotify.com/album/7eQr4LSWhQu10HsMpBYjUL"
-      },
-      "artists": [
-        {
-          "name": "Wolter Wythe",
-          "url": "https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK"
-        },
-        {
-          "name": "D-Lish",
-          "url": "https://open.spotify.com/artist/73WJ0zv90Pys3iJgeRlENI"
-        }
-      ],
-      "duration_ms": 186876,
-      "name": "Down With You",
-      "url": "https://open.spotify.com/track/11082YVUU9ykSC09tdTN9u"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "All I Want To Do",
-        "url": "https://open.spotify.com/album/4CgoIs9x0QBuqg3YOCZ8vx"
-      },
-      "artists": [
-        {
-          "name": "Fahjah",
-          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
-        }
-      ],
-      "duration_ms": 147604,
-      "name": "All I Want To Do",
-      "url": "https://open.spotify.com/track/6VeJvewq2YkBDUXEL6afbC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Drummers Mind EP",
         "url": "https://open.spotify.com/album/6PMoVDzdggQqGjxUVv60ii"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 256614,
       "name": "Drummers Mind - Original Edit",
       "url": "https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Lakitu",
-        "url": "https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Lakitu",
-      "url": "https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1719,6 +1703,22 @@
       "duration_ms": 125917,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/1kzszYwxlgxyWBZoxHmhCE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lakitu",
+        "url": "https://open.spotify.com/album/5wJ5dfgwP2z6dwaHjxRjZ9"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Lakitu",
+      "url": "https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Falling Into Flames",
+        "url": "https://open.spotify.com/album/5KCtEW3VpVBCQtCD8LoU67"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 203827,
+      "name": "Falling Into Flames",
+      "url": "https://open.spotify.com/track/3QboFAz08dFynSXhTolAH0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Clouds (Byron the Aquarius Remix)",
         "url": "https://open.spotify.com/album/26Q8vxSQlWH2vV4kAP5bMK"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 235541,
       "name": "Clouds - Byron the Aquarius Remix",
       "url": "https://open.spotify.com/track/6Pm9vZmj3kx1GxKoiDiR1w"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Falling Into Flames",
-        "url": "https://open.spotify.com/album/5KCtEW3VpVBCQtCD8LoU67"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 203827,
-      "name": "Falling Into Flames",
-      "url": "https://open.spotify.com/track/3QboFAz08dFynSXhTolAH0"
     },
     {
       "added_at": "2022-11-18 05:00:00",

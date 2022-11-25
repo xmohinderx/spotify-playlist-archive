@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,518 likes - 74 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,793 likes - 74 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

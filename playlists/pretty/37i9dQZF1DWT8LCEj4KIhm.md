@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,026 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,022 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 56 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
 | 57 | [Fuego](https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Irréversible](https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC) | 4:17 |
 | 58 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
-| 59 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
-| 60 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
+| 59 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
+| 60 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
 | 61 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
 | 62 | [Kankan](https://open.spotify.com/track/1PZpmt3Hlih8ZSi0L7lKb3) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [La Zayté](https://open.spotify.com/album/58camSsA9OmW7xvRGZcxy4) | 3:07 |
 | 63 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 |
 | 64 | [Higher](https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Higher](https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb) | 2:22 |
 | 65 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
 | 66 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
-| 67 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
-| 68 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
+| 67 | [Barquette](https://open.spotify.com/track/7cWl7ZJwmuvwxYroIq8eY3) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:32 |
+| 68 | [Je suis à toi \(Moto Blanco Remix\)](https://open.spotify.com/track/0rVUCy43dmcchGcOWvlgY0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis à toi \(MOTO BLANCO REMIX\)](https://open.spotify.com/album/1QNn9u3t1LaW6A2l4napNa) | 3:17 |
 | 69 | [Miroir](https://open.spotify.com/track/0Eolm1QSRMxzaVS3w8JxW1) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Miroir](https://open.spotify.com/album/2P8kIb8QyEW46PLCGbhFgS) | 3:19 |
 | 70 | [Bientôt](https://open.spotify.com/track/1wX7nWzrolWpnPKp09fhlk) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [maison](https://open.spotify.com/album/2fzWviAbjksegQijmpa433) | 3:08 |
 | 71 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDlkOTcxNWY4MTVlNTk0ZmFiZDU0ODI1NjllM2I2MTZk`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDkwYmJjNTM0ZDZmY2Y0ZWNjNGFiMDViYTBlM2Q3Yzdi`

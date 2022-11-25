@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,961 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,381 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 4 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
 | 5 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 |
 | 6 | [Chiri Hari](https://open.spotify.com/track/1YQmUOQUxVeHebdKBX6m71) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:00 |
-| 7 | [Degg Gui \(feat\. Flavia Coelho & Fixi\)](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui \(feat\. Flavia Coelho & Fixi\) \- Single](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
+| 7 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 8 | [Ruby](https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:55 |
-| 9 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
+| 9 | [Degg Gui \(feat\. Flavia Coelho & Fixi\)](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui \(feat\. Flavia Coelho & Fixi\) \- Single](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
 | 10 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 |
 | 11 | [Arrabi al Arabe](https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [El Aaiun Egdat](https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p) | 4:26 |
 | 12 | [Tarha Tadagh](https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:06 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 30 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 31 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
 | 32 | [Mimoun Marhaba](https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI) | [Mahmoud Guinia](https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Marhaba](https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow) | 8:18 |
-| 33 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
-| 34 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
+| 33 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
+| 34 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
 | 35 | [Alasidi](https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV) | 4:34 |
 | 36 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
 | 37 | [Manden Mandinkadenou \(Chant de griot\)](https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 50 | [Penda Djiga](https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Penda Djiga](https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE) | 4:32 |
 
-Snapshot ID: `MTY2NjY5MTg2OCwwMDAwMDAwMDlkYTM4ZGIxNmI5NTg2NTg3YjMyYWIxZmEwZDY3N2M0`
+Snapshot ID: `MTY2NjY5MTg2OCwwMDAwMDAwMDM1MWM5YjlmMTE0ZDJhYzJhMWE4ZWNkZTYwZmNiZWU5`

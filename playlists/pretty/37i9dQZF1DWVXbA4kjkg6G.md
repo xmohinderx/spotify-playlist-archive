@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,454 likes - 75 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,107 likes - 75 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 26 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
 | 27 | [Sabrosa](https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The In Sound From Way Out!](https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i) | 3:32 |
 | 28 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
-| 29 | [Timber](https://open.spotify.com/track/5jby7celTQUoYjAht8peNh) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Let Us Play](https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH) | 4:32 |
-| 30 | [Modular Mix](https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Premiers Symptômes](https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc) | 5:59 |
+| 29 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 30 | [Timber](https://open.spotify.com/track/5jby7celTQUoYjAht8peNh) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Let Us Play](https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH) | 4:32 |
 | 31 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 |
-| 32 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 |
+| 32 | [Modular Mix](https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Premiers Symptômes](https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc) | 5:59 |
 | 33 | [Black Baby \(DJ\-KiCKS\)](https://open.spotify.com/track/13FO5ag4v62zedndUziMI7) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [DJ\-Kicks](https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53) | 6:20 |
 | 34 | [Bohemian Sunset](https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Jazzanova EP](https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f) | 6:54 |
 | 35 | [Stoney Street](https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Bricolage](https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH) | 5:53 |
 | 36 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 37 | [Unreal](https://open.spotify.com/track/0vkxviQkVKdgxEdmDncedH) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 5:08 |
-| 38 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
-| 39 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
+| 38 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
+| 39 | [Revolutionary Woman of The Windmill \- Part Primera La Bandolera Del Molino](https://open.spotify.com/track/1Ia7VpJTEQgWn65WPg0qRE) | [Up, Bustle & Out](https://open.spotify.com/artist/0P8CKxjKGjVnIOOJSJoymP) | [One Colour Just Reflects Another](https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt) | 5:40 |
 | 40 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 41 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
 | 42 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 49 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 50 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 51 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
-| 52 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 |
+| 52 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
 | 53 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
 | 54 | [What Does Your Soul Look Like \- Pt\. 2](https://open.spotify.com/track/6qN2alQY36EbEjpBhDP9FE) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 13:51 |
-| 55 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
-| 56 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
+| 55 | [Into the 90's](https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Natural Born Killa \(2015 Remaster\)](https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS) | 5:21 |
+| 56 | [Trans Fatty Acid](https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 7:36 |
 | 57 | [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 |
 | 58 | [Christiansands](https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 3:52 |
 | 59 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 75 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGU0NWJlN2M3ZDA5NGQ2NjE1NmY2ZWFlZmUxNTVjOWE5`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMDBjNjdmMDA0MDRhZGUwNjY5ZTQ4MmY1NDgzMzc1Y2Rm`

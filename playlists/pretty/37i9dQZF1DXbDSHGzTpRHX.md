@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,362 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 71 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 |
 | 72 | [Hey There Cowgirl](https://open.spotify.com/track/0FeEyD4FZqDh78DhShxGCx) | [Palm Springsteen](https://open.spotify.com/artist/0uCRjVc8oWaEvazuCMDOXD) | [Hey There Cowgirl](https://open.spotify.com/album/4hqsi3T2wX4ogN2syEH7LR) | 3:38 |
 | 73 | [Talking Heads](https://open.spotify.com/track/1h9dZPr48ANzFAiWDu4lU1) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Talking Heads](https://open.spotify.com/album/0OjT45QCcSSsysP8CoaZf9) | 3:04 |
-| 74 | [Fuckboy](https://open.spotify.com/track/05XpoWw7JYRohKMRTnaWg9) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/2TRiBsR9hLYX1Zesd66AdU) | 3:00 |
+| 74 | [Fuckboy](https://open.spotify.com/track/78qLNsfY3uVO1B40fcQMmA) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/5qdP91YC6kTRH0CXGunKxl) | 3:00 |
 | 75 | [ugh!](https://open.spotify.com/track/5p6SMibx8q56JAwC64P8qg) | [dwilly](https://open.spotify.com/artist/3XyvBNwsPBVhCXoYLNNQ84) | [ugh!](https://open.spotify.com/album/0xxmUhhzJBVAlIuNHuYskZ) | 2:51 |
 | 76 | [Your Hands](https://open.spotify.com/track/3FoI03BV37v8z8M6stIwuq) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [New Girl](https://open.spotify.com/album/4vOlKuqbW1IAoAI8ykk7l7) | 2:51 |
 | 77 | [Rollin' Stone](https://open.spotify.com/track/3kNC4RXL1bGLzeLIL4e30X) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGU2Nzk1ZTVkZWNiOTNhMjI2YzM1YWM1OTk1ZWUxYjdh`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDBlMWJmYzRiMWMxYTBjZDAyODBkNTkyY2ZiMzk0Yjg4`

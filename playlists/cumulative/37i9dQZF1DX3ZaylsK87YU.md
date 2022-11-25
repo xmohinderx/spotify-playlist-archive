@@ -4,7 +4,7 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-209 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
+210 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [I Love the Lord](https://open.spotify.com/track/39dBTIPkDWYulicumSFMaT) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Lent to Maundy Thursday \(Remastered\)](https://open.spotify.com/album/2NYpgPQoDpF1UdPsaM1zU2) | 4:53 | 2021-07-30 | 2022-07-22 |
 | [I Shall Not Want](https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Fortunate Fall](https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA) | 4:40 | 2021-07-30 | 2022-07-29 |
 | [I'll Fly Away](https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:57 | 2021-07-30 |  |
-| [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 | 2021-07-30 |  |
+| [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 | 2021-07-30 | 2022-11-25 |
 | [In Christ Alone / The Solid Rock \- Medley](https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Reason](https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV) | 4:57 | 2021-07-30 |  |
 | [In Tenderness](https://open.spotify.com/track/6qXtLiSyCj8IGrQnb1AvFb) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [Sing On!](https://open.spotify.com/album/3D5oSG744Vr3BWjj7teObu) | 5:09 | 2021-07-30 | 2022-07-29 |
 | [It Is Well \(Live\)](https://open.spotify.com/track/5t0izTLPeWYLiIfHPJbORJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg) | 6:25 | 2021-07-30 | 2022-07-29 |
@@ -209,6 +209,7 @@
 | [Where Were You](https://open.spotify.com/track/6Xmcw141LKERzrhLJuXVLu) | [Ghost Ship](https://open.spotify.com/artist/0ZLHgeKZXpxW42i2T2s931) | [The Good King](https://open.spotify.com/album/6RK6TNZLiXPbIWOxtQwAH4) | 4:00 | 2021-07-30 | 2022-07-29 |
 | [Who Am I / Praise You in This Storm](https://open.spotify.com/track/2Q2xuQY3UybDZx9kQ9Yf36) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Who Am I / Praise You in This Storm](https://open.spotify.com/album/0RhKUYlJuERerUmQoOfh48) | 2:59 | 2021-07-30 | 2022-07-16 |
 | [Who Would Have Dreamed](https://open.spotify.com/track/7Ltz3D5rdlqkJACASe7aRS) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/11tcda5WmtOqrd7zfGpbgG) | 3:52 | 2021-07-30 | 2022-07-28 |
+| [Who Would Have Dreamed](https://open.spotify.com/track/4jTuubX6rorxTmB2sAz6qf) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/3HouSjml2OClLww1sAKA0W) | 3:52 | 2021-07-30 |  |
 | [You Alone \- Live](https://open.spotify.com/track/2QeyM42EEDT5Kaczb0MYLY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/2lEAHW9pdH9fWTbIgngkqK) | 6:04 | 2021-07-30 | 2022-07-29 |
 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 | 2021-07-30 |  |
 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 | 2021-07-30 |  |

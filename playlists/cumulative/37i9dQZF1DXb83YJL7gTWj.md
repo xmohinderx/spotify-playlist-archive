@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-230 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
+231 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2021-11-05 |  |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2022-04-19 |  |
 | [Ocean Eyes](https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Ocean Eyes](https://open.spotify.com/album/5tT6uMrOHLmZWam8b4LEwr) | 3:20 | 2021-11-05 | 2022-07-29 |
-| [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 | 2021-11-05 |  |
+| [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 | 2021-11-05 | 2022-11-25 |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2021-11-05 |  |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2022-07-22 |  |
 | [Ordinary People](https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:41 | 2021-11-05 | 2022-04-21 |
@@ -164,6 +164,7 @@
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2021-11-05 | 2022-11-13 |
 | [Questions For The Universe](https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love \(Deluxe Edition\)](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:23 | 2022-10-28 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-22 | 2022-11-20 |
+| [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-10-28 |  |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-11-05 |  |
 | [Ready](https://open.spotify.com/track/7jHyTYH7XLjMHgHudSeRpX) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/5ZiLDZl6yc7QV2pQTpR1BG) | 2:41 | 2021-11-05 | 2022-07-29 |
 | [ROSS AND RACHEL](https://open.spotify.com/track/24T8Hsoq9cYvGRD1Elei93) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [ROSS AND RACHEL](https://open.spotify.com/album/5Rilc7td7EyqCvtLJWgUAG) | 3:12 | 2021-11-05 | 2022-03-17 |

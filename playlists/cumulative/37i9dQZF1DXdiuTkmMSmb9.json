@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Wizkid",
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Big Skeez",
   "name": "Afro Fusion",
   "published_playlist_ids": [
     "1ArHPlQ8o3lzkRSvom6Xc2"
@@ -2062,6 +2062,28 @@
     },
     {
       "album": {
+        "name": "WORTH THE WAIT",
+        "url": "https://open.spotify.com/album/64aXLGJFmgrjZuZIKGskJ2"
+      },
+      "artists": [
+        {
+          "name": "Kwame Anthem",
+          "url": "https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9"
+        },
+        {
+          "name": "Aymix",
+          "url": "https://open.spotify.com/artist/3KovTlzUIWFOB8yQ4xBILr"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4NsFzoTE4XdXpnjETfQLMZ"
+    },
+    {
+      "album": {
         "name": "MERLOT",
         "url": "https://open.spotify.com/album/1RRLb4HprP0YH3YNvmopB9"
       },
@@ -2329,6 +2351,24 @@
       "duration_ms": 246579,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/3k3SG1f3RYeizBlIFo6CGl"
+    },
+    {
+      "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197813,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6p0u1dLtzN6F2N0pPhP2JC"
     },
     {
       "album": {
@@ -3981,6 +4021,24 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/3AUW4YqukPw4YfBV1ZkkNe"
+    },
+    {
+      "album": {
+        "name": "Work Don't Stop",
+        "url": "https://open.spotify.com/album/137773lEIYB4FGzzQ00xgp"
+      },
+      "artists": [
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Work Don't Stop",
+      "url": "https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7"
     },
     {
       "album": {

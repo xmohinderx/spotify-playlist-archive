@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Chelsea Grin",
-  "num_followers": 856453,
+  "num_followers": 856797,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDNjM2ZjYTg2NDY0YjEyODJlNWYzZjJiODM4MzRjYWE0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGZlODk4ZDRkN2U5NWY3NjNiNzk0MzBhYWFlYmYwZmVk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Rain Down",
         "url": "https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 247391,
       "name": "Rain Down",
       "url": "https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 246282,
       "name": "Stand Down",
       "url": "https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "The Price Of Dreaming",
         "url": "https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
       "artists": [
         {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 199846,
       "name": "RE-Animate",
       "url": "https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Your Love I'll Never Need",
-        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "Your Love I'll Never Need",
-      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Mercer 217",
-        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
-      },
-      "artists": [
-        {
-          "name": "Vatic",
-          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
-        }
-      ],
-      "duration_ms": 231999,
-      "name": "Remember East Mercer",
-      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Mercer 217",
+        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
+      },
+      "artists": [
+        {
+          "name": "Vatic",
+          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
+        }
+      ],
+      "duration_ms": 231999,
+      "name": "Remember East Mercer",
+      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Dedication To Flesh",
         "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
       },
@@ -1071,6 +1071,26 @@
       "duration_ms": 197538,
       "name": "Alone",
       "url": "https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1195,22 +1215,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+        "name": "The Snow",
+        "url": "https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo"
       },
       "artists": [
         {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+          "name": "Devil May Care",
+          "url": "https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll"
         }
       ],
-      "duration_ms": 202418,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
+      "duration_ms": 224062,
+      "name": "The Snow",
+      "url": "https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 204198,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Snow",
-        "url": "https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo"
-      },
-      "artists": [
-        {
-          "name": "Devil May Care",
-          "url": "https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll"
-        }
-      ],
-      "duration_ms": 224062,
-      "name": "The Snow",
-      "url": "https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8"
     },
     {
       "added_at": "2022-11-18 05:00:00",

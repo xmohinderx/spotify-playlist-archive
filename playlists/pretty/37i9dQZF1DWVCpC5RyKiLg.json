@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 550341,
+  "num_followers": 551589,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NzY0OSwwMDAwMDAwMGEwYjNjYjUzMGJiMWI2MjU1ZTg5NWMzODkwMGY2NzY1",
+  "snapshot_id": "MTY2NDg5NzY0OSwwMDAwMDAwMDcwMTNjNjRjMjFiYjFjNzg5MGU3YmMzMTQzZDQ0N2E2",
   "tracks": [
     {
       "added_at": "2022-06-10 05:10:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-10 05:10:12",
       "album": {
-        "name": "De Volta pro Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
-    },
-    {
-      "added_at": "2022-06-10 05:10:12",
-      "album": {
         "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182860,
       "name": "Teu Segredo - Ao Vivo",
       "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
+    },
+    {
+      "added_at": "2022-06-10 05:10:12",
+      "album": {
+        "name": "De Volta pro Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
     },
     {
       "added_at": "2022-06-10 05:10:12",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-06-10 05:10:12",
       "album": {
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 205430,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
+    },
+    {
+      "added_at": "2022-06-10 05:10:12",
+      "album": {
         "name": "Uma Ex (Ao Vivo)",
         "url": "https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-06-10 05:10:12",
       "album": {
-        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 205430,
-      "name": "Ponto Fraco - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
-    },
-    {
-      "added_at": "2022-06-10 05:10:12",
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-06-10 05:10:12",
       "album": {
-        "name": "Recairei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg"
-    },
-    {
-      "added_at": "2022-06-10 05:10:12",
-      "album": {
         "name": "Amor Da Sua Cama",
         "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2022-06-10 05:10:12",
+      "album": {
+        "name": "Recairei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg"
     },
     {
       "added_at": "2022-06-10 05:10:12",

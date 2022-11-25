@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 188706,
       "name": "99.9",
       "url": "https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 215771,
       "name": "Baby My Phone",
       "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
@@ -645,6 +645,32 @@
       "duration_ms": 190706,
       "name": "Devil Lady",
       "url": "https://open.spotify.com/track/0jIkTAUqrloJ2ycKU0hBcL"
+    },
+    {
+      "album": {
+        "name": "Diamond Drift",
+        "url": "https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD"
+      },
+      "artists": [
+        {
+          "name": "XANAKIN SKYWOK",
+          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
+        },
+        {
+          "name": "ssjishmael",
+          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
+        },
+        {
+          "name": "gelowler",
+          "url": "https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120435,
+      "name": "Diamond Drift",
+      "url": "https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA"
     },
     {
       "album": {
@@ -1619,6 +1645,32 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx"
+    },
+    {
+      "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
       "album": {

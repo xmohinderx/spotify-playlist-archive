@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,146 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,237 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 60 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
 | 61 | [Oh No \(Man\)](https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Addiction](https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5) | 4:07 |
 | 62 | [Question](https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU) | 4:22 |
-| 63 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
-| 64 | [I Found Love \(On A Lonely Highway\)](https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 7:33 |
+| 63 | [I Found Love \(On A Lonely Highway\)](https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [Powerhouse](https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE) | 7:33 |
+| 64 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
 | 65 | [Next To You](https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You](https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl) | 3:34 |
 | 66 | [Fanatic](https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:12 |
 | 67 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
 | 68 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 |
-| 69 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
+| 69 | [Can't Hardly Wait](https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Pink Elephant](https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA) | 4:26 |
 | 70 | [Soul Revolution](https://open.spotify.com/track/1ldNwFMKUtCUsYeazPwjq7) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:15 |
-| 71 | [Can't Hardly Wait](https://open.spotify.com/track/2rKurn6l70BBOZnkCRgkaX) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [Pink Elephant](https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA) | 4:26 |
+| 71 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 |
 | 72 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 |
 | 73 | [If I Was A Bird](https://open.spotify.com/track/57Sue0eOgweOlVxc6g2yCo) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 5:03 |
 | 74 | [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [Next Time](https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Soul Power](https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40) | 4:30 |
 | 78 | [There Goes My Sanity](https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn) | [Lynden David Hall](https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ) | [Medicine 4 My Pain](https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK) | 5:16 |
 | 79 | [Just Another Man](https://open.spotify.com/track/5pDX9LdKPUu8S56NEpxywo) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Movin' On](https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID) | 3:41 |
-| 80 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
+| 80 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
 
-Snapshot ID: `MTY2ODY3Mzk5MiwwMDAwMDAwMDJkMzc2YWJhZTQzNmVhMjk0NWQ1NjMyNWQ3MmVjZDE4`
+Snapshot ID: `MTY2ODY3Mzk5MiwwMDAwMDAwMDhjYjk3MTBmNjNlNjYyMTdmZThiM2Q2Y2FhMzc4NTlm`

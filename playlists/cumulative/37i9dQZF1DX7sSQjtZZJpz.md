@@ -4,7 +4,7 @@
 
 > Songs to help your kids learn in English and Spanish!
 
-95 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
+96 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/74TRlE8vKqdsWIYbhhbM7z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [ABC Song \(Now I Know MY ABCs\)](https://open.spotify.com/track/2a2vb2BBrHIzDaLFQq56e8) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Letters in the Classroom](https://open.spotify.com/album/76evQcPiAR5Ec4egk4ipy1) | 1:36 | 2020-06-26 |  |
 | [ABC Song \(Now I Know MY ABCs\)](https://open.spotify.com/track/3YYHpNrXTFwChTbaOwv7ni) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Spanish \- Aprende Inglés](https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP) | 1:36 | 2020-06-26 | 2022-07-29 |
 | [ABC\-DEF\-GHI](https://open.spotify.com/track/7f0kigcXF0041AyUGbMdkk) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All\-Time Favorites 1](https://open.spotify.com/album/4NrLPZaAgx6XWXlAnjdYFD) | 1:46 | 2020-04-22 |  |
-| [At the Zoo](https://open.spotify.com/track/1Rt5jDuAVWdTNRvUt1JF4Z) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:48 | 2020-04-22 |  |
+| [At the Zoo](https://open.spotify.com/track/1Rt5jDuAVWdTNRvUt1JF4Z) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V) | 1:48 | 2020-04-22 | 2022-11-25 |
+| [At the Zoo](https://open.spotify.com/track/57ocGtdjzazXaV0HRxTug1) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT) | 1:48 | 2020-04-22 |  |
 | [At the Zoo](https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:48 | 2020-04-22 | 2022-10-13 |
 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 | 2020-04-22 |  |
 | [Bingo \(El Abecedario y los Números\)](https://open.spotify.com/track/48CyJpHXn5eedkqy5roU07) | [Little Baby Bum Rima Niños Amigos](https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm) | [¡Diversión en la Granja de Animales!](https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU) | 2:04 | 2020-06-26 |  |

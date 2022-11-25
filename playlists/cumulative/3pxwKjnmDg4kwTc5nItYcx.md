@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-648 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+649 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [In The Window Frame](https://open.spotify.com/track/35Jj1GwanVp2Hd092JQ67X) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [In The Window Frame](https://open.spotify.com/album/3GuI0z31Fex80Uut5XLmTJ) | 3:26 | 2020-05-15 | 2021-05-12 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-08 |  |
 | [Intoxicated by Youth](https://open.spotify.com/track/2ttehJCYVsY4OtBoeYOcom) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [VAALEA](https://open.spotify.com/artist/1lNnJLLTpE1pujUoW5ZyqS) | [Intoxicated by Youth](https://open.spotify.com/album/7HVcOExQiq6jU48Ksl7Yc0) | 3:01 | 2019-11-11 | 2020-02-12 |
+| [introvert \(with extroverted expectations\)](https://open.spotify.com/track/6Yg7lVxwuqRcuqPLRlEArd) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [introvert \(with extroverted expectations\)](https://open.spotify.com/album/5KPQxWwGNxylmrSKltq15e) | 3:17 | 2022-11-25 |  |
 | [Intuition](https://open.spotify.com/track/3HB6LludJh4pB1YzsVF78J) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Intuition](https://open.spotify.com/album/30sVsSNtT6Mtu31LvKC2rS) | 4:05 | 2021-07-02 |  |
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-12 |  |
 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 | 2022-07-08 |  |

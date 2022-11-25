@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-61 songs - 2 hr 58 min - not published yet
+62 songs - 3 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2022-10-28 |  |
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
-| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 |  |
+| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 | 2022-11-25 |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
+| [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 | 2022-11-24 |
 | [Thunder & Streams](https://open.spotify.com/track/3d2loIRK1NH49qP6w7ydDH) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Thunder & Streams](https://open.spotify.com/album/37SSoz3jxhcfdGDvWeEXlg) | 2:42 | 2022-10-28 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 |  |

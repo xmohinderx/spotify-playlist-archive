@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,594 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,789 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 27 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 |
 | 28 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 |
 | 29 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
-| 30 | [For Those Who Love...](https://open.spotify.com/track/04AWkmh3iDAXOHLcBtXEgL) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Mercy's Cartel](https://open.spotify.com/artist/40zUW1LtekgXK3fjG6jHJv) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/0NeJsVaFjpCIzlPUBemwlz) | 3:06 |
+| 30 | [For Those Who Love...](https://open.spotify.com/track/5FCmdWN4chwObaFEJg3Sfn) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Mercy's Cartel](https://open.spotify.com/artist/40zUW1LtekgXK3fjG6jHJv) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz) | 3:06 |
 | 31 | [sleeping at the party](https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh) | [sleeping at the party](https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT) | 2:35 |
 | 32 | [Pinky Blues](https://open.spotify.com/track/5DVxEveEOhd59EWUqn2cXz) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Pinky Blues](https://open.spotify.com/album/0PqTaoytZFYiGLMNV8S2bV) | 2:56 |
 | 33 | [Sacrifice](https://open.spotify.com/track/1QZ0trnp5lBt5rEvGX1kNk) | [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Sacrifice](https://open.spotify.com/album/5B0i9bLgYapWqaPy4i4KiJ) | 2:30 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 40 | [leslianne](https://open.spotify.com/track/4Po4QT2yUSoMakeWktz78r) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [leslianne](https://open.spotify.com/album/5TlQKwwFcsdBjoDDYvkMzk) | 1:54 |
 | 41 | [Breevin’](https://open.spotify.com/track/3gtXEtHVTc6uBytakGwrUq) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Butcher Brown Presents Triple Trey](https://open.spotify.com/album/6KPa5VJzFraZ3RUZksMb23) | 3:24 |
 | 42 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 |
-| 43 | [Jazz Ballads & Black Coffee](https://open.spotify.com/track/25uEWtJwBTihnTjKYTnqvM) | [Physical Graffiti](https://open.spotify.com/artist/4YfSWADGI6HbMwFKgRD0LV), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [JTS.sax](https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H) | [Jazz Ballads & Black Coffee](https://open.spotify.com/album/1wsfbzCuJ7UDhpnmd5ueN7) | 2:53 |
+| 43 | [Jazz Ballads & Black Coffee](https://open.spotify.com/track/7arCBoUzMR0EKmz3vmiqyw) | [Physical Graffiti](https://open.spotify.com/artist/4YfSWADGI6HbMwFKgRD0LV), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [JTS.sax](https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H) | [Jazz Ballads & Black Coffee](https://open.spotify.com/album/2tXz0JKEHHP3rSXzxXKj54) | 2:53 |
 | 44 | [Flavour](https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Flavour](https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD) | 3:14 |
 | 45 | [Till I'm Ghost](https://open.spotify.com/track/3xhhaNc4ll9z7KdaHMDaek) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Till I'm Ghost](https://open.spotify.com/album/7AStAo6VRvwxCMsckF4aB2) | 3:23 |
 | 46 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Golden Green feat Wiki](https://open.spotify.com/track/3ySsmBNfH1m9FjMJXSdJql) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [Golden Green](https://open.spotify.com/album/6QrDTDE1rXFegrQWD0JxZD) | 4:03 |
 | 100 | [Miss Chance](https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Home](https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq) | 4:12 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGRhNTdjM2FhYTYzMTAxMzJmMDlhNGQ3NWI3MTliYzc1`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGY0MzQ0ZTQzMmM4MWQ4MjdhMzhkNWU4NjM2MjY5YTE5`

@@ -543,7 +543,7 @@
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "date_added": "2022-11-12",
+      "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233755,
@@ -585,6 +585,24 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "album": {
@@ -1476,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245700,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW"
+    },
+    {
+      "album": {
         "name": "Simplemente Amor (CD2)",
         "url": "https://open.spotify.com/album/3bJ6YfNbaZ2u2AuwHHQJHx"
       },
@@ -1567,6 +1603,28 @@
       "duration_ms": 195573,
       "name": "Darte Un Beso - Spotify Singles",
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
     },
     {
       "album": {
@@ -1813,7 +1871,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 210302,
       "name": "Dime t\u00fa",
       "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
@@ -2965,7 +3023,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
@@ -3897,7 +3955,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 233800,
       "name": "Mi manera de querer",
       "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
@@ -4085,7 +4143,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 177640,
       "name": "M\u00e1s Que Amigos",
       "url": "https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0"
@@ -4774,6 +4832,28 @@
     },
     {
       "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Por Qu\u00e9 Me Haces Llorar",
+      "url": "https://open.spotify.com/track/1G0Nf7ektuutnvhNY0q0Kk"
+    },
+    {
+      "album": {
         "name": "Por Si No Vuelves",
         "url": "https://open.spotify.com/album/2tgvEGCCPZPWdQaIm6Q2nX"
       },
@@ -5073,7 +5153,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-25",
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
@@ -6601,6 +6681,24 @@
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
+    },
+    {
+      "album": {
+        "name": "Un Viaje a Todas Partes (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1BQBLXaMxMEwSsnuxTgdbE"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Un Viaje a Todas Partes - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/12AyVdnjbSyH00nrZXowIl"
     },
     {
       "album": {

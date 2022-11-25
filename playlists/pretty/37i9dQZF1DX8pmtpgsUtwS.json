@@ -1,13 +1,29 @@
 {
   "description": "Weaving magic with their music, Indian Classical style. Cover- Shadow and Light",
-  "num_followers": 17956,
+  "num_followers": 17980,
   "original_name": "Raga Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA5NDkyNywwMDAwMDAwMGJjZjk3OGU1ODFmODBiZmI2ZTdiY2ZjM2Q2N2Y5MzIx",
+  "snapshot_id": "MTY2OTA5NDkyNywwMDAwMDAwMDE0Zjg0YWU1MzdhMDJkNGU4M2Y3YmY1NGJmODVkYzY5",
   "tracks": [
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
+        "name": "Manavyalakinchara (Mist of Capricorn) - Single",
+        "url": "https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "duration_ms": 349786,
+      "name": "Manavyalakinchara (Mist of Capricorn)",
+      "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"
+    },
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 114890,
       "name": "Saajan More (Secret Sessions X Collab Stories)",
       "url": "https://open.spotify.com/track/2mOZsknA6l7qTGDy8wELeU"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
-        "name": "Manavyalakinchara (Mist of Capricorn) - Single",
-        "url": "https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR"
-      },
-      "artists": [
-        {
-          "name": "Agam",
-          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Manavyalakinchara (Mist of Capricorn)",
-      "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "The Celestial Nymph (Manassi Dussaham) - Single",
-        "url": "https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft"
-      },
-      "artists": [
-        {
-          "name": "Agam",
-          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
-        }
-      ],
-      "duration_ms": 511035,
-      "name": "The Celestial Nymph (Manassi Dussaham)",
-      "url": "https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
         "name": "Jiyara",
         "url": "https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 156750,
       "name": "Jiyara",
       "url": "https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY"
+    },
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
+        "name": "The Celestial Nymph (Manassi Dussaham) - Single",
+        "url": "https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft"
+      },
+      "artists": [
+        {
+          "name": "Agam",
+          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
+        }
+      ],
+      "duration_ms": 511035,
+      "name": "The Celestial Nymph (Manassi Dussaham)",
+      "url": "https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
+        "name": "Pata Nahin",
+        "url": "https://open.spotify.com/album/2YIzspPB4PB1fb7JWc5qlj"
+      },
+      "artists": [
+        {
+          "name": "Shivansh Jindal",
+          "url": "https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9"
+        }
+      ],
+      "duration_ms": 209855,
+      "name": "Pata Nahin",
+      "url": "https://open.spotify.com/track/6JclMezRpieefEcYchmSe5"
+    },
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
         "name": "Muhafiz",
         "url": "https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 272000,
       "name": "Jaana Kaha Hai",
       "url": "https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
-        "name": "Pata Nahin",
-        "url": "https://open.spotify.com/album/2YIzspPB4PB1fb7JWc5qlj"
-      },
-      "artists": [
-        {
-          "name": "Shivansh Jindal",
-          "url": "https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9"
-        }
-      ],
-      "duration_ms": 209855,
-      "name": "Pata Nahin",
-      "url": "https://open.spotify.com/track/6JclMezRpieefEcYchmSe5"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Tum Sang",
-        "url": "https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl"
-      },
-      "artists": [
-        {
-          "name": "Gautam Kale",
-          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
-        }
-      ],
-      "duration_ms": 184216,
-      "name": "Tum Sang",
-      "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
         "name": "In Other Words",
         "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 331015,
       "name": "Naina (feat. Isheeta Chakrvarty)",
       "url": "https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys"
+    },
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
+        "name": "Tum Sang",
+        "url": "https://open.spotify.com/album/5iFLWvbvg9JS5xy81LQHMl"
+      },
+      "artists": [
+        {
+          "name": "Gautam Kale",
+          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
+        }
+      ],
+      "duration_ms": 184216,
+      "name": "Tum Sang",
+      "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Saahiba",
-        "url": "https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV"
-      },
-      "artists": [
-        {
-          "name": "Sarthak Kalyani",
-          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
-        }
-      ],
-      "duration_ms": 294633,
-      "name": "Saahiba",
-      "url": "https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
         "name": "Rang - Raga Baageshri",
         "url": "https://open.spotify.com/album/1YsrnSEmy0IKl851qSY7fm"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
+        "name": "Saahiba",
+        "url": "https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV"
+      },
+      "artists": [
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        }
+      ],
+      "duration_ms": 294633,
+      "name": "Saahiba",
+      "url": "https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l"
+    },
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
         "name": "Mohan Bin Radha",
         "url": "https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 199658,
       "name": "Mohan Bin Radha",
       "url": "https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX"
-    },
-    {
-      "added_at": "2022-09-02 07:24:05",
-      "album": {
-        "name": "Badarwa",
-        "url": "https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ"
-      },
-      "artists": [
-        {
-          "name": "Gautam Kale",
-          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
-        }
-      ],
-      "duration_ms": 224607,
-      "name": "Badarwa",
-      "url": "https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
+        "name": "Badarwa",
+        "url": "https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ"
+      },
+      "artists": [
+        {
+          "name": "Gautam Kale",
+          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
+        }
+      ],
+      "duration_ms": 224607,
+      "name": "Badarwa",
+      "url": "https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4"
+    },
+    {
+      "added_at": "2022-09-02 07:24:05",
+      "album": {
         "name": "Takhtiyaan",
         "url": "https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE"
       },
@@ -711,22 +711,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Saathi Suno",
-        "url": "https://open.spotify.com/album/3X5OxWtugyB7Yt1tyyg9qI"
+        "name": "Sakhi",
+        "url": "https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ"
       },
       "artists": [
         {
-          "name": "Srabasti Acharya",
-          "url": "https://open.spotify.com/artist/6NHoiPWSlDS9qUsjrQGmFz"
+          "name": "Dhaiwat",
+          "url": "https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob"
         },
         {
-          "name": "Roshan Sebastian",
-          "url": "https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM"
+          "name": "Vidushi Kalpana Zokarkar",
+          "url": "https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Saathi Suno",
-      "url": "https://open.spotify.com/track/1lFaXChk2zP7c07pI9Eq6L"
+      "duration_ms": 259221,
+      "name": "Sakhi",
+      "url": "https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -751,22 +751,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Sakhi",
-        "url": "https://open.spotify.com/album/3iRKkWNQQ2EnnAA5jA4sAZ"
+        "name": "Saathi Suno",
+        "url": "https://open.spotify.com/album/3X5OxWtugyB7Yt1tyyg9qI"
       },
       "artists": [
         {
-          "name": "Dhaiwat",
-          "url": "https://open.spotify.com/artist/0MDNPCoSJLI4iBkIFBTnob"
+          "name": "Srabasti Acharya",
+          "url": "https://open.spotify.com/artist/6NHoiPWSlDS9qUsjrQGmFz"
         },
         {
-          "name": "Vidushi Kalpana Zokarkar",
-          "url": "https://open.spotify.com/artist/12r2xD99LYO5hrilYhAFXV"
+          "name": "Roshan Sebastian",
+          "url": "https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM"
         }
       ],
-      "duration_ms": 259221,
-      "name": "Sakhi",
-      "url": "https://open.spotify.com/track/1nlgs8u9AEoIljf13DBWnQ"
+      "duration_ms": 136000,
+      "name": "Saathi Suno",
+      "url": "https://open.spotify.com/track/1lFaXChk2zP7c07pI9Eq6L"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -785,24 +785,20 @@
       "url": "https://open.spotify.com/track/5yuzt5Ib1KhOCxBLKhaeol"
     },
     {
-      "added_at": "2022-09-23 05:35:11",
+      "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Bheegi Ankhiyaan",
-        "url": "https://open.spotify.com/album/0Uz86ubX2WUXDWlCTqdWvj"
+        "name": "Sampooran",
+        "url": "https://open.spotify.com/album/1PAqoTpGkISBuLWYUdrxra"
       },
       "artists": [
         {
-          "name": "Yugaant",
-          "url": "https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv"
-        },
-        {
-          "name": "Krishna Bongane",
-          "url": "https://open.spotify.com/artist/31Lwc4zHeIfdjNcs30wxNC"
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
         }
       ],
-      "duration_ms": 391529,
-      "name": "Bheegi Ankhiyaan",
-      "url": "https://open.spotify.com/track/2GO3WlGrxjrPvnAXyfrZwy"
+      "duration_ms": 316053,
+      "name": "Darbari",
+      "url": "https://open.spotify.com/track/1i3czNhlQb0InQ3NKyvgdd"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -837,24 +833,24 @@
       "url": "https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g"
     },
     {
-      "added_at": "2022-09-02 07:24:05",
+      "added_at": "2022-09-23 05:35:11",
       "album": {
-        "name": "Palkan Lagi",
-        "url": "https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg"
+        "name": "Bheegi Ankhiyaan",
+        "url": "https://open.spotify.com/album/0Uz86ubX2WUXDWlCTqdWvj"
       },
       "artists": [
         {
-          "name": "Pragya Dasgupta",
-          "url": "https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9"
+          "name": "Yugaant",
+          "url": "https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv"
         },
         {
-          "name": "Jai Kothari",
-          "url": "https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4"
+          "name": "Krishna Bongane",
+          "url": "https://open.spotify.com/artist/31Lwc4zHeIfdjNcs30wxNC"
         }
       ],
-      "duration_ms": 169984,
-      "name": "Palkan Lagi",
-      "url": "https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM"
+      "duration_ms": 391529,
+      "name": "Bheegi Ankhiyaan",
+      "url": "https://open.spotify.com/track/2GO3WlGrxjrPvnAXyfrZwy"
     },
     {
       "added_at": "2022-09-02 07:24:05",
@@ -875,18 +871,22 @@
     {
       "added_at": "2022-09-02 07:24:05",
       "album": {
-        "name": "Sampooran",
-        "url": "https://open.spotify.com/album/1PAqoTpGkISBuLWYUdrxra"
+        "name": "Palkan Lagi",
+        "url": "https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg"
       },
       "artists": [
         {
-          "name": "Mekaal Hasan Band",
-          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+          "name": "Pragya Dasgupta",
+          "url": "https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9"
+        },
+        {
+          "name": "Jai Kothari",
+          "url": "https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4"
         }
       ],
-      "duration_ms": 316053,
-      "name": "Darbari",
-      "url": "https://open.spotify.com/track/1i3czNhlQb0InQ3NKyvgdd"
+      "duration_ms": 169984,
+      "name": "Palkan Lagi",
+      "url": "https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM"
     },
     {
       "added_at": "2022-09-02 07:24:05",

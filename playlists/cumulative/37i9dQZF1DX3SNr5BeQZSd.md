@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-113 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+114 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2022-09-09 |  |
 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 | 2022-09-09 |  |
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 |  |
-| [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2022-11-11 |  |
+| [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2022-11-11 | 2022-11-25 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 | 2022-09-09 | 2022-11-19 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/2mMiPaGWOjFUc10hsPEzUc) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/6ZpXzyp96Gd9FD5yCCv6zK) | 2:28 | 2022-11-11 |  |
 | [Iktara \- Lofi Flip](https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Iktara \(Lofi Flip\)](https://open.spotify.com/album/21bNH0z2JgCevs7f6gNRgJ) | 2:53 | 2022-09-09 |  |
@@ -66,7 +66,8 @@
 | [Lofi Rain](https://open.spotify.com/track/0bUYgpgrUaoFouvS0vf6qe) | [Chilled Cougar](https://open.spotify.com/artist/5mxwOjRqpFDSn6zXCqwqiH), [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Lofi Rain](https://open.spotify.com/album/57AgBWZUvxvtK48Iqf4S3F) | 2:00 | 2022-09-09 |  |
 | [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 | 2022-11-03 |
 | [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 | 2022-10-14 |  |
-| [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-09-09 |  |
+| [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 | 2022-11-11 |  |
+| [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-09-09 | 2022-11-25 |
 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 | 2022-09-09 |  |
 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 | 2022-09-23 |  |
 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 | 2022-09-09 |  |

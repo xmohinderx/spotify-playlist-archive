@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 45700,
+  "num_followers": 45921,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMDMzYjMyMWE2YzMyNzA3YmM2ZTU0YTg0M2U1OWFjMDgx",
+  "snapshot_id": "MTY2NTA0MTM2OCwwMDAwMDAwMGM3OTg0ZTM5NmU0MTFlYTNiMzI5OGEyM2M1OTBkOTQ1",
   "tracks": [
     {
       "added_at": "2022-10-06 07:29:28",
@@ -691,22 +691,18 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
-        "name": "Beyond The Missouri Sky",
-        "url": "https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY"
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
       "artists": [
         {
           "name": "Pat Metheny",
           "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "duration_ms": 502240,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx"
+      "duration_ms": 222733,
+      "name": "Unity Village",
+      "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
     },
     {
       "added_at": "2022-10-06 07:29:28",
@@ -1011,6 +1007,22 @@
     {
       "added_at": "2022-10-06 07:29:28",
       "album": {
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
+    },
+    {
+      "added_at": "2022-10-06 07:29:28",
+      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1031,22 +1043,6 @@
       "duration_ms": 182653,
       "name": "Wholly Cats",
       "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
-    },
-    {
-      "added_at": "2022-10-06 07:29:28",
-      "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
     },
     {
       "added_at": "2022-10-06 07:29:28",

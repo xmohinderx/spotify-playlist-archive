@@ -4,14 +4,14 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-217 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+219 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-08 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-04 |  |
 | [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
-| [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 |  |
+| [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-07 | 2022-11-25 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-01-04 |  |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2021-12-07 |  |
@@ -51,6 +51,7 @@
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 | 2021-12-07 | 2022-08-30 |
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-04-25 |  |
+| [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2021-12-07 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-02-15 |  |
@@ -163,7 +164,7 @@
 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 | 2021-12-07 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2021-12-07 |  |
-| [Small Hours](https://open.spotify.com/track/0QWQfOY7qO0YvA6Uspn9bP) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Small Hours](https://open.spotify.com/album/2vgcZW7MMDbkfHXelDzvEY) | 2:55 | 2021-12-07 |  |
+| [Small Hours](https://open.spotify.com/track/0QWQfOY7qO0YvA6Uspn9bP) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Small Hours](https://open.spotify.com/album/2vgcZW7MMDbkfHXelDzvEY) | 2:55 | 2021-12-07 | 2022-11-25 |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2021-12-07 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2021-12-07 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2021-12-07 |  |
@@ -192,6 +193,7 @@
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-09 |  |
 | [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2022-10-13 |  |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2022-10-06 |  |
+| [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2021-12-07 | 2022-10-14 |
 | [The Very Thought Of You](https://open.spotify.com/track/6WftZxUaexfjtZROMHVA3A) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Very Thought Of You](https://open.spotify.com/album/6U1S5nCoyqBTuHgdHpK71C) | 4:39 | 2022-11-10 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-07 |  |
