@@ -3398,6 +3398,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Salut les yéyés](/playlists/pretty/37i9dQZF1DX8OVycSP3AXz.md)
 - [Samara Joy Digs Jazz](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md)
 - [Sample School](/playlists/pretty/37i9dQZF1DX3KoYiZJ8DD4.md)
+- [San Pacho's Vault](/playlists/pretty/7guXu2Tdl1ClO7m2Dpe7iA.md)
 - [Sanación Profunda](/playlists/pretty/37i9dQZF1DWY6IkAj77bXq.md)
 - [Sand Between My Toes](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md)
 - [Sang On Sunday](/playlists/pretty/37i9dQZF1DX4levbzTG2FX.md)
